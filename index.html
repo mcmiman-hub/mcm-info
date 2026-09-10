@@ -7,107 +7,65 @@
 <meta name="apple-mobile-web-app-status-bar-style" content="black">
 <title>MCM Info</title>
 <style>
-html,body{margin:0;width:100%;height:100%;background:#0b0d10;color:#f4f4f4;font-family:-apple-system,BlinkMacSystemFont,"Helvetica Neue",Arial,sans-serif;overflow:hidden}
+html,body{margin:0;width:100%;height:100%;overflow:hidden;background:#061b2b;color:#fff;font-family:"Avenir Next","Helvetica Neue",Arial,sans-serif}
 *{box-sizing:border-box}
-#wrap{height:100vh;padding:18px 24px;display:-webkit-flex;display:flex;-webkit-flex-direction:column;flex-direction:column}
-.top{display:-webkit-flex;display:flex;-webkit-justify-content:space-between;justify-content:space-between;-webkit-align-items:flex-start;align-items:flex-start}
-#clock{font-size:84px;font-weight:200;line-height:.95;letter-spacing:-4px}
-#date{font-size:22px;margin-top:10px;color:#c8cbd0}
-.weather{text-align:right;min-width:250px}
-#temp{font-size:54px;font-weight:300;line-height:1}
-#place{font-size:17px;letter-spacing:2px;color:#c8cbd0;margin-bottom:7px}
-#condition{font-size:20px;margin-top:8px}
-.rule{height:1px;background:#333842;margin:18px 0}
-.middle{display:-webkit-flex;display:flex;-webkit-flex:1;flex:1;min-height:0}
-.forecast{width:38%;padding-right:22px;border-right:1px solid #333842}
-.news{width:62%;padding-left:26px}
-h2{font-size:15px;letter-spacing:2px;font-weight:500;color:#9da3ad;margin:0 0 18px}
-.day{display:-webkit-flex;display:flex;-webkit-justify-content:space-between;justify-content:space-between;font-size:22px;padding:8px 0}
-#headline{font-size:29px;line-height:1.25;margin-top:12px}
-#source{font-size:17px;color:#9da3ad;margin-top:18px}
-.bottom{font-size:13px;letter-spacing:2px;color:#707680;text-align:center;padding-top:12px}
-.small{font-size:14px;color:#707680;margin-top:10px}
+#app{height:100vh;background:linear-gradient(#0d6099 0,#0b4168 45%,#061b2b 100%);position:relative}
+.hero{height:40%;position:relative;background:#1884c5 url("hausscheppen.png") center center/cover no-repeat;overflow:hidden}
+.hero:after{content:"";position:absolute;left:0;right:0;top:0;bottom:0;background:linear-gradient(90deg,rgba(0,45,84,.20),rgba(0,40,70,.02) 58%,rgba(0,25,45,.28))}
+.clockbox,.now{position:absolute;z-index:2;text-shadow:0 2px 8px rgba(0,0,0,.65)}
+.clockbox{left:28px;top:18px}.now{right:28px;top:20px;text-align:right}
+#clock{font-family:"Helvetica Neue",Arial,sans-serif;font-size:88px;font-weight:200;letter-spacing:-5px;line-height:.88}
+#date{font-size:20px;margin-top:12px}
+#greet{font-family:"Snell Roundhand","Bradley Hand","Segoe Script",cursive;font-size:30px;font-style:italic;font-weight:400;margin-top:8px;color:#fff;border-bottom:2px solid #79d9ff;display:inline-block;padding:0 6px 2px 0;text-shadow:0 2px 7px rgba(0,0,0,.75)}
+.place{font-size:18px;font-weight:700;letter-spacing:2px}.subplace{font-size:14px;margin-top:3px}
+#temp{font-size:62px;font-weight:200;line-height:1}#condition{font-size:19px}#feels{font-size:14px;margin-top:3px}
+.cards{height:55%;padding:10px 20px 4px;display:-webkit-flex;display:flex}
+.panel{background:rgba(4,43,72,.93);border:1px solid rgba(111,205,255,.62);border-radius:14px;box-shadow:0 6px 20px rgba(0,0,0,.28)}
+.weather{width:43%;margin-right:13px;padding:12px 14px}.news{width:57%;padding:12px 17px;position:relative}
+.ptitle{font-size:17px;font-weight:700;letter-spacing:1px;border-bottom:1px solid rgba(255,255,255,.20);padding-bottom:8px}
+.minor{float:right;font-size:12px;font-weight:400;letter-spacing:0;color:#c6e6f7}
+.day{height:49px;display:-webkit-flex;display:flex;-webkit-align-items:center;align-items:center;border-bottom:1px solid rgba(255,255,255,.13)}
+.dname{width:22%;font-size:17px}.ico{width:20%;font-size:25px;text-align:center}.temps{width:36%;font-size:17px;font-weight:600}.rain{width:22%;font-size:12px;color:#83d7ff;text-align:right}
+#newsBody{-webkit-transition:opacity .35s;transition:opacity .35s}.fade{opacity:.05}
+#category{font-size:14px;font-weight:700;letter-spacing:1px;color:#ff625c;margin-top:15px}
+#headline{font-family:"Avenir Next","Helvetica Neue",Arial,sans-serif;font-size:28px;line-height:1.12;font-weight:700;margin-top:8px;max-height:96px;overflow:hidden}
+#source{font-size:13px;color:#b7d5e5;margin-top:14px}
+#count{float:right;color:#8edcff;font-size:12px;font-weight:400;letter-spacing:0}
+#barbox{position:absolute;left:17px;right:17px;bottom:14px;height:3px;background:rgba(255,255,255,.15)}
+#bar{height:3px;width:0;background:#5fd0ff}
+.footer{height:5%;padding:0 24px 9px;display:-webkit-flex;display:flex;-webkit-justify-content:space-between;justify-content:space-between;-webkit-align-items:flex-end;align-items:flex-end;font-size:10px;letter-spacing:2.5px;color:#b7d7e8}
 </style>
 </head>
-<body>
-<div id="wrap">
-  <div class="top">
-    <div>
-      <div id="clock">--:--</div>
-      <div id="date">---</div>
-    </div>
-    <div class="weather">
-      <div id="place">ESSEN</div>
-      <div id="temp">--°</div>
-      <div id="condition">Wetter wird geladen…</div>
-    </div>
-  </div>
-  <div class="rule"></div>
-  <div class="middle">
-    <div class="forecast">
-      <h2>WETTER</h2>
-      <div id="days"><div class="small">Vorhersage wird geladen…</div></div>
-    </div>
-    <div class="news">
-      <h2>MCM INFO</h2>
-      <div id="headline">Guten Morgen.</div>
-      <div id="source">Mini iPad Dashboard</div>
-      <div class="small" id="status">Uhr + Wetter aktiv. Nachrichten kommen in Version 0.2.</div>
-    </div>
-  </div>
-  <div class="bottom">MCM INFO • iPad mini 2</div>
+<body><div id="app">
+<div class="hero">
+ <div class="clockbox"><div id="clock">--:--</div><div id="date">---</div><div id="greet">Guten Morgen!</div></div>
+ <div class="now"><div class="place">● ESSEN</div><div class="subplace">Hausscheppen · Baldeneysee</div><div id="temp">--°</div><div id="condition">Wetter…</div><div id="feels"></div></div>
+</div>
+<div class="cards">
+ <div class="panel weather"><div class="ptitle">☀ WETTER <span class="minor">Essen · 4 Tage</span></div><div id="days"></div></div>
+ <div class="panel news"><div class="ptitle">▣ NACHRICHTEN <span id="count">15 Sek.</span></div>
+  <div id="newsBody"><div id="category">MCM INFO</div><div id="headline">Nachrichten werden geladen…</div><div id="source">Deutschland · Türkiye</div></div>
+  <div id="barbox"><div id="bar"></div></div>
+ </div>
+</div>
+<div class="footer"><span>MCM INFO</span><span>ZWEI LÄNDER · EINE PERSPEKTIVE</span><span>MCM ki</span></div>
 </div>
 <script>
 (function(){
- function pad(n){return n<10?"0"+n:n}
- var dayNames=["Sonntag","Montag","Dienstag","Mittwoch","Donnerstag","Freitag","Samstag"];
- var monNames=["Januar","Februar","März","April","Mai","Juni","Juli","August","September","Oktober","November","Dezember"];
- function tick(){
-   var d=new Date();
-   document.getElementById("clock").innerHTML=pad(d.getHours())+":"+pad(d.getMinutes());
-   document.getElementById("date").innerHTML=dayNames[d.getDay()]+" • "+d.getDate()+". "+monNames[d.getMonth()];
- }
- tick(); setInterval(tick,1000);
-
- function desc(c){
-   if(c===0)return "Klar";
-   if(c===1)return "Überwiegend klar";
-   if(c===2)return "Teilweise bewölkt";
-   if(c===3)return "Bewölkt";
-   if(c===45||c===48)return "Nebel";
-   if(c>=51&&c<=57)return "Nieselregen";
-   if(c>=61&&c<=67)return "Regen";
-   if(c>=71&&c<=77)return "Schnee";
-   if(c>=80&&c<=82)return "Regenschauer";
-   if(c>=85&&c<=86)return "Schneeschauer";
-   if(c>=95)return "Gewitter";
-   return "Wetter";
- }
- function loadWeather(){
-   var url="https://api.open-meteo.com/v1/forecast?latitude=51.4556&longitude=7.0116&current=temperature_2m,weather_code&daily=weather_code,temperature_2m_max,temperature_2m_min&timezone=Europe%2FBerlin&forecast_days=4";
-   var x=new XMLHttpRequest();
-   x.onreadystatechange=function(){
-     if(x.readyState===4){
-       if(x.status>=200&&x.status<300){
-         try{
-           var j=JSON.parse(x.responseText);
-           document.getElementById("temp").innerHTML=Math.round(j.current.temperature_2m)+"°";
-           document.getElementById("condition").innerHTML=desc(j.current.weather_code);
-           var out="";
-           for(var i=0;i<j.daily.time.length;i++){
-             var dd=new Date(j.daily.time[i]+"T12:00:00");
-             var label=i===0?"Heute":dayNames[dd.getDay()].substr(0,2);
-             out+='<div class="day"><span>'+label+'</span><span>'+Math.round(j.daily.temperature_2m_max[i])+'° / '+Math.round(j.daily.temperature_2m_min[i])+'°</span></div>';
-           }
-           document.getElementById("days").innerHTML=out;
-         }catch(e){document.getElementById("condition").innerHTML="Wetter nicht verfügbar";}
-       } else {document.getElementById("condition").innerHTML="Wetter nicht verfügbar";}
-     }
-   };
-   x.open("GET",url,true); x.send();
- }
- loadWeather(); setInterval(loadWeather,900000);
+var DN=["Sonntag","Montag","Dienstag","Mittwoch","Donnerstag","Freitag","Samstag"],MN=["Januar","Februar","März","April","Mai","Juni","Juli","August","September","Oktober","November","Dezember"];
+function pad(n){return n<10?"0"+n:n}
+function tick(){var d=new Date(),h=d.getHours();document.getElementById("clock").innerHTML=pad(h)+":"+pad(d.getMinutes());document.getElementById("date").innerHTML=DN[d.getDay()]+" · "+d.getDate()+". "+MN[d.getMonth()]+" "+d.getFullYear();document.getElementById("greet").innerHTML=(h>=5&&h<11)?"Guten Morgen!":(h>=11&&h<18)?"Guten Tag!":(h>=18&&h<22)?"Guten Abend!":"Gute Nacht!"}
+tick();setInterval(tick,1000);
+function wi(c){if(c===0)return["☀️","Klar"];if(c<=2)return["🌤️","Teilweise bewölkt"];if(c===3)return["☁️","Bewölkt"];if(c===45||c===48)return["🌫️","Nebel"];if(c>=51&&c<=67)return["🌧️","Regen"];if(c>=71&&c<=77)return["❄️","Schnee"];if(c>=80&&c<=82)return["🌦️","Schauer"];if(c>=85&&c<=86)return["🌨️","Schneeschauer"];if(c>=95)return["⛈️","Gewitter"];return["☁️","Wetter"]}
+function weather(){var u="https://api.open-meteo.com/v1/forecast?latitude=51.4556&longitude=7.0116&current=temperature_2m,apparent_temperature,weather_code&daily=weather_code,temperature_2m_max,temperature_2m_min,precipitation_probability_max&timezone=Europe%2FBerlin&forecast_days=4",x=new XMLHttpRequest();x.onreadystatechange=function(){if(x.readyState===4&&x.status>=200&&x.status<300){try{var j=JSON.parse(x.responseText),w=wi(j.current.weather_code),s="",i,dt,nm,ww,r;document.getElementById("temp").innerHTML=Math.round(j.current.temperature_2m)+"°";document.getElementById("condition").innerHTML=w[0]+" "+w[1];document.getElementById("feels").innerHTML="Gefühlt "+Math.round(j.current.apparent_temperature)+"°";for(i=0;i<4;i++){dt=new Date(j.daily.time[i]+"T12:00:00");nm=i===0?"Heute":DN[dt.getDay()].substr(0,2);ww=wi(j.daily.weather_code[i]);r=j.daily.precipitation_probability_max[i]||0;s+='<div class="day"><div class="dname">'+nm+'</div><div class="ico">'+ww[0]+'</div><div class="temps">'+Math.round(j.daily.temperature_2m_max[i])+'° / '+Math.round(j.daily.temperature_2m_min[i])+'°</div><div class="rain">💧 '+r+'%</div></div>'}document.getElementById("days").innerHTML=s}catch(e){}}};x.open("GET",u,true);x.send()}
+weather();setInterval(weather,900000);
+var feeds=[{cat:"🇩🇪 DEUTSCHLAND",src:"tagesschau.de",url:"https://www.tagesschau.de/xml/rss2"},{cat:"🇹🇷 TÜRKİYE",src:"TRT Haber",url:"https://www.trthaber.com/manset_articles.rss"}],news=[],idx=0,sec=0;
+function val(n,t){var a=n.getElementsByTagName(t);return a.length?(a[0].textContent||a[0].text||""):""}
+function parse(s,m){var d=(new DOMParser()).parseFromString(s,"text/xml"),a=d.getElementsByTagName("item"),i,t;for(i=0;i<a.length&&i<8;i++){t=val(a[i],"title");if(t)news.push({title:t,cat:m.cat,src:m.src})}}
+function get(m,cb){var x=new XMLHttpRequest(),u="https://api.allorigins.win/raw?url="+encodeURIComponent(m.url);x.onreadystatechange=function(){if(x.readyState===4){if(x.status>=200&&x.status<300){try{parse(x.responseText,m)}catch(e){}}cb()}};x.open("GET",u,true);x.send()}
+function load(){news=[];get(feeds[0],function(){get(feeds[1],function(){if(news.length){idx=0;show()}else{document.getElementById("headline").innerHTML="Nachrichten momentan nicht erreichbar.";document.getElementById("source").innerHTML="Uhr und Wetter laufen weiter."}})})}
+function show(){if(!news.length)return;var n=news[idx%news.length],b=document.getElementById("newsBody");b.className="fade";setTimeout(function(){document.getElementById("category").innerHTML=n.cat;document.getElementById("headline").innerHTML=n.title;document.getElementById("source").innerHTML=n.src;b.className="";},350);sec=0}
+function timer(){sec++;document.getElementById("bar").style.width=Math.min(100,sec*100/15)+"%";document.getElementById("count").innerHTML=Math.max(0,15-sec)+" Sek.";if(sec>=15){sec=0;if(news.length){idx=(idx+1)%news.length;show()}}}
+load();setInterval(timer,1000);setInterval(load,900000);
 })();
-</script>
-</body>
-</html>
+</script></body></html>
