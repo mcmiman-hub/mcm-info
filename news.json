@@ -1,7 +1,39 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-10T17:28:15.555428+00:00",
+  "updated": "2026-09-10T17:42:52.488922+00:00",
   "items": [
+    {
+      "title": "Vereinigte Arabische Emirate: Emirate kündigen Milliarden-Investition in Deutschland an",
+      "summary": "Die Vereinigten Arabischen Emirate erhöhen ihre Investitionen in Deutschland um mehr als das Doppelte. Ein Teil des Geldes soll in den Aufbau neuer Rechenzentren gehen.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/vereinigte-arabische-emirate-investitionen-deutschland-mohammed-bin-sajed-al-nahjan-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/vereinigte-arabische-emirate-investitionen-deutschland-mohammed-bin-sajed-al-nahjan",
+      "published": "Thu, 10 Sep 2026 17:39:06 -0000",
+      "published_display": "10.09.2026 · 17:39 Uhr"
+    },
+    {
+      "title": "Notrufe: «Ein bisschen befremdlich» - Erdbeben in der Region Mannheim",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/10/ein-bisschen-befremdlich-erdbeben-in-der-region-mannheim-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/10/ein-bisschen-befremdlich-erdbeben-in-der-region-mannheim",
+      "published": "Thu, 10 Sep 2026 17:36:08 -0000",
+      "published_display": "10.09.2026 · 17:36 Uhr"
+    },
+    {
+      "title": "Berühmtes Kleines Schwarzes: New Yorker Auktionshaus versteigert «Rachekleid» von Lady Di",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/10/new-yorker-auktionshaus-versteigert-rachekleid-von-lady-di-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/10/new-yorker-auktionshaus-versteigert-rachekleid-von-lady-di",
+      "published": "Thu, 10 Sep 2026 17:31:59 -0000",
+      "published_display": "10.09.2026 · 17:31 Uhr"
+    },
+    {
+      "title": "SPD-Politiker: Ermittlungen gegen Krach: Verdacht auf Vorteilsannahme",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/10/spd-kandidat-will-trotz-ermittlungen-um-waehlerstimmen-werben-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/10/spd-kandidat-will-trotz-ermittlungen-um-waehlerstimmen-werben",
+      "published": "Thu, 10 Sep 2026 17:29:07 -0000",
+      "published_display": "10.09.2026 · 17:29 Uhr"
+    },
     {
       "title": "Hamburg-Bergedorf: 65-jähriger Motorradfahrer stirbt bei Unfall",
       "summary": "",
@@ -40,14 +72,6 @@
       "image": "https://img.zeit.de/administratives/sharing/fallback-image-die-zeit/wide__1300x731",
       "link": "https://www.zeit.de/news/2026-09/10/ermittlungen-gegen-krach-verdacht-auf-vorteilsannahme",
       "published": "Thu, 10 Sep 2026 17:14:22 -0000",
-      "published_display": "10.09.2026 · 17:14 Uhr"
-    },
-    {
-      "title": "Kriminalität: Ermittlungen gegen Krach: Verdacht auf Vorteilsannahme",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/10/spd-kandidat-will-trotz-ermittlungen-um-waehlerstimmen-werben-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/10/spd-kandidat-will-trotz-ermittlungen-um-waehlerstimmen-werben",
-      "published": "Thu, 10 Sep 2026 17:14:12 -0000",
       "published_display": "10.09.2026 · 17:14 Uhr"
     },
     {
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/10/brand-in-zwei-schulen-im-kongo-mindestens-15-tote-kinder",
       "published": "Thu, 10 Sep 2026 17:03:05 -0000",
       "published_display": "10.09.2026 · 17:03 Uhr"
-    },
-    {
-      "title": "Filmfestival in Venedig: »Meine Rolle ist rein technisch«, sagt einer der Militärs",
-      "summary": "»Naza« dokumentiert Kriegsverbrechen des israelischen Militärs in Gaza. Der Film ist erschütternd, doch in den Wettbewerb von Venedig gehört er nicht.",
-      "image": "https://img.zeit.de/feuilleton/film/2026-09/naza-yuval-abraham-rachel-szor-venezia-83-bilder/naza-key-still-s-bild/original__640x360",
-      "link": "https://www.zeit.de/feuilleton/film/2026-09/filmfestival-venedig-naza-dokumentation-gazakrieg",
-      "published": "Thu, 10 Sep 2026 17:02:22 -0000",
-      "published_display": "10.09.2026 · 17:02 Uhr"
-    },
-    {
-      "title": "Düsseldorf: Gefahrenlage an ukrainischem Generalkonsulat",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/10/gefahrenlage-an-ukrainischem-generalkonsulat-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/10/gefahrenlage-an-ukrainischem-generalkonsulat",
-      "published": "Thu, 10 Sep 2026 17:01:03 -0000",
-      "published_display": "10.09.2026 · 17:01 Uhr"
-    },
-    {
-      "title": "Staatsbesuch vom Golf: Emirate wollen 40 Milliarden Euro in Deutschland investieren",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/10/emirate-wollen-40-milliarden-euro-in-deutschland-investieren-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/10/emirate-wollen-40-milliarden-euro-in-deutschland-investieren",
-      "published": "Thu, 10 Sep 2026 16:59:01 -0000",
-      "published_display": "10.09.2026 · 16:59 Uhr"
     }
   ]
 }
