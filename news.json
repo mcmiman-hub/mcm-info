@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-10T22:42:17.035646+00:00",
+  "updated": "2026-09-10T22:54:28.975975+00:00",
   "items": [
+    {
+      "title": "Krieg gegen die Ukraine: Tote und Verletzte nach Angriff auf Einkaufszentrum in Pawlohrad",
+      "summary": "Ein Angriff in der Ostukraine hat sieben Menschen getötet, mehr als 70 wurden verletzt. Die Ukraine und Kanada wollen beim Drohnenbau enger kooperieren. Das Liveblog",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/ukraine-angriffskrieg-blog-russland/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "published": "Thu, 10 Sep 2026 22:43:15 -0000",
+      "published_display": "10.09.2026 · 22:43 Uhr"
+    },
     {
       "title": "Tödlicher Unfall in Graubünden: Reiseorganisation bestürzt über Busunglück in der Schweiz",
       "summary": "",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/10/preis-fuer-brent-rohoel-steigt-auf-108-dollar",
       "published": "Thu, 10 Sep 2026 21:10:57 -0000",
       "published_display": "10.09.2026 · 21:10 Uhr"
-    },
-    {
-      "title": "Sachsen-Anhalt: Ulrich Siegmund will auch mit einer Stimme Mehrheit regieren",
-      "summary": "CDU, SPD, Grüne und Linke hatten Sondierungen mit der AfD in Sachsen-Anhalt abgelehnt. Die Partei führt laut Ulrich Siegmund dennoch Gespräche mit mehreren Abgeordneten.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/afd-sachsen-anhalt-landtagswahl-ulrich-siegmund-regierungsbildung-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/afd-sachsen-anhalt-landtagswahl-ulrich-siegmund-regierungsbildung",
-      "published": "Thu, 10 Sep 2026 20:58:58 -0000",
-      "published_display": "10.09.2026 · 20:58 Uhr"
     }
   ]
 }
