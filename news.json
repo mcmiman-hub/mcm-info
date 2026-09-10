@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-10T20:16:16.421977+00:00",
+  "updated": "2026-09-10T20:28:15.430235+00:00",
   "items": [
+    {
+      "title": "IT-Sicherheit: Nach Hackerangriff in Berlin: Anlaufstelle für Betroffene",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/10/nach-hackerangriff-in-berlin-anlaufstelle-fuer-betroffene-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/10/nach-hackerangriff-in-berlin-anlaufstelle-fuer-betroffene",
+      "published": "Thu, 10 Sep 2026 20:25:09 -0000",
+      "published_display": "10.09.2026 · 20:25 Uhr"
+    },
+    {
+      "title": "Basketball-Bundesliga: Braunschweiger Basketballer gewinnen Nordduell im Pokal",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/10/braunschweiger-basketballer-gewinnen-nordduell-im-pokal-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/10/braunschweiger-basketballer-gewinnen-nordduell-im-pokal",
+      "published": "Thu, 10 Sep 2026 20:24:56 -0000",
+      "published_display": "10.09.2026 · 20:24 Uhr"
+    },
+    {
+      "title": "Autobahn 9: Schwerlasttransport verliert Brückenteil - Bergung beendet",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/10/schwerlasttransport-verliert-ladung-auf-autobahn-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/10/schwerlasttransport-verliert-ladung-auf-autobahn",
+      "published": "Thu, 10 Sep 2026 20:19:18 -0000",
+      "published_display": "10.09.2026 · 20:19 Uhr"
+    },
     {
       "title": "Notfälle: Brand in Lörracher Haus - fünf Menschen in Krankenhaus",
       "summary": "",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/politik/2026-09/afd-sachsen-anhalt-ulrich-siegmund-zukunft-august-modersohn-was-jetzt-videopodcast",
       "published": "Thu, 10 Sep 2026 19:08:30 -0000",
       "published_display": "10.09.2026 · 19:08 Uhr"
-    },
-    {
-      "title": "Handball-Bundesliga: ThSV Eisenach feiert ersten Saisonsieg",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/10/thsv-eisenach-feiert-ersten-saisonsieg-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/10/thsv-eisenach-feiert-ersten-saisonsieg",
-      "published": "Thu, 10 Sep 2026 19:01:37 -0000",
-      "published_display": "10.09.2026 · 19:01 Uhr"
-    },
-    {
-      "title": "»Täuschung« von Adania Shibli: Wem gehört der Beifall?",
-      "summary": "Vor drei Jahren wurde die Verleihung des LiBeraturpreises an Adania Shibli abgesagt. Jetzt hat die Autorin ihr neues Buch vorgestellt - und hinterließ offene Fragen.",
-      "image": "https://img.zeit.de/feuilleton/literatur/2026-09/taeuschung-adania-schibli-berlin-buchpraesentation-palaestina-bild/original__640x360",
-      "link": "https://www.zeit.de/feuilleton/literatur/2026-09/taeuschung-adania-schibli-berlin-buchpraesentation-palaestina",
-      "published": "Thu, 10 Sep 2026 18:54:46 -0000",
-      "published_display": "10.09.2026 · 18:54 Uhr"
-    },
-    {
-      "title": "Ermittlungen gegen Steffen Krach: Ermittlungen wegen Anfangsverdachts auf Vorteilsannahme gegen Krach",
-      "summary": "Mitten im Berliner Wahlkampf wird bekannt, dass die Staatsanwaltschaft gegen Steffen Krach ermittelt. Nun gibt die Behörde offiziell bekannt, was ihm vorgeworfen wird.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/steffen-krach-spd-ermittlungen-vorteilsannahme-durchsuchung-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/steffen-krach-spd-ermittlungen-vorteilsannahme-durchsuchung",
-      "published": "Thu, 10 Sep 2026 18:54:44 -0000",
-      "published_display": "10.09.2026 · 18:54 Uhr"
     }
   ]
 }
