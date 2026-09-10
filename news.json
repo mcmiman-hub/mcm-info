@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-10T21:15:25.659628+00:00",
+  "updated": "2026-09-10T21:27:50.999874+00:00",
   "items": [
+    {
+      "title": "Graubünden: Busunfall in der Schweiz: Mehrere Tote und Verletzte",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/10/mehrere-tote-nach-busunfall-in-der-schweiz-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/10/mehrere-tote-nach-busunfall-in-der-schweiz",
+      "published": "Thu, 10 Sep 2026 21:20:09 -0000",
+      "published_display": "10.09.2026 · 21:20 Uhr"
+    },
     {
       "title": "Champions League: «Echt kacke»: Leipzigs Königsklassen-Fehlstart in Como",
       "summary": "",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/10/braunschweiger-basketballer-gewinnen-nordduell-im-pokal",
       "published": "Thu, 10 Sep 2026 20:24:56 -0000",
       "published_display": "10.09.2026 · 20:24 Uhr"
-    },
-    {
-      "title": "Autobahn 9: Schwerlasttransport verliert Brückenteil - Bergung beendet",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/10/schwerlasttransport-verliert-ladung-auf-autobahn-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/10/schwerlasttransport-verliert-ladung-auf-autobahn",
-      "published": "Thu, 10 Sep 2026 20:19:18 -0000",
-      "published_display": "10.09.2026 · 20:19 Uhr"
     }
   ]
 }
