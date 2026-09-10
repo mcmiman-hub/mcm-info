@@ -51,7 +51,7 @@ html,body{margin:0;width:100%;height:100%;overflow:hidden;background:#061b2b;col
 </div>
 <div class="cards">
  <div class="panel weather"><div class="ptitle">☀ WETTER <span class="minor">Essen · 4 Tage</span></div><div id="days"></div></div>
- <div class="panel news"><div class="ptitle">▣ NACHRICHTEN <span id="count">15 Sek.</span></div>
+ <div class="panel news"><div class="ptitle">▣ NACHRICHTEN <span id="count">30 Sek.</span></div>
   <div id="newsBody">
    <div id="category">DIE ZEIT</div>
    <div id="newsContent">
@@ -110,9 +110,9 @@ function show(){
 }
 function timer(){
  sec++;
- document.getElementById("bar").style.width=Math.min(100,sec*100/15)+"%";
- document.getElementById("count").innerHTML=Math.max(0,15-sec)+" Sek.";
- if(sec>=15){sec=0;if(news.length){idx=(idx+1)%news.length;show()}}
+ document.getElementById("bar").style.width=Math.min(100,sec*100/30)+"%";
+ document.getElementById("count").innerHTML=Math.max(0,30-sec)+" Sek.";
+ if(sec>=30){sec=0;if(news.length){idx=(idx+1)%news.length;show()}}
 }
 load();setInterval(timer,1000);setInterval(load,900000);
 })();
