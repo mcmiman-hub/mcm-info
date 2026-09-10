@@ -59,13 +59,44 @@ tick();setInterval(tick,1000);
 function wi(c){if(c===0)return["☀️","Klar"];if(c<=2)return["🌤️","Teilweise bewölkt"];if(c===3)return["☁️","Bewölkt"];if(c===45||c===48)return["🌫️","Nebel"];if(c>=51&&c<=67)return["🌧️","Regen"];if(c>=71&&c<=77)return["❄️","Schnee"];if(c>=80&&c<=82)return["🌦️","Schauer"];if(c>=85&&c<=86)return["🌨️","Schneeschauer"];if(c>=95)return["⛈️","Gewitter"];return["☁️","Wetter"]}
 function weather(){var u="https://api.open-meteo.com/v1/forecast?latitude=51.4556&longitude=7.0116&current=temperature_2m,apparent_temperature,weather_code,wind_speed_10m&daily=weather_code,temperature_2m_max,temperature_2m_min,precipitation_probability_max,wind_speed_10m_max&timezone=Europe%2FBerlin&forecast_days=4",x=new XMLHttpRequest();x.onreadystatechange=function(){if(x.readyState===4&&x.status>=200&&x.status<300){try{var j=JSON.parse(x.responseText),w=wi(j.current.weather_code),s="",i,dt,nm,ww,r;document.getElementById("temp").innerHTML=Math.round(j.current.temperature_2m)+"°";document.getElementById("condition").innerHTML=w[0]+" "+w[1];document.getElementById("feels").innerHTML="Gefühlt "+Math.round(j.current.apparent_temperature)+"°";document.getElementById("todayrange").innerHTML="↓ "+Math.round(j.daily.temperature_2m_min[0])+"° &nbsp; ↑ "+Math.round(j.daily.temperature_2m_max[0])+"°";for(i=0;i<4;i++){dt=new Date(j.daily.time[i]+"T12:00:00");nm=i===0?"Heute":DN[dt.getDay()].substr(0,2);ww=wi(j.daily.weather_code[i]);r=j.daily.precipitation_probability_max[i]||0;s+='<div class="day"><div class="dname">'+nm+'</div><div class="ico">'+ww[0]+'</div><div class="temps">'+Math.round(j.daily.temperature_2m_max[i])+'° / '+Math.round(j.daily.temperature_2m_min[i])+'°<div style="font-size:11px;font-weight:500;color:#b8d8e8;margin-top:3px">'+ww[1]+' · Wind '+Math.round(j.daily.wind_speed_10m_max[i])+' km/h</div></div><div class="rain">💧 '+r+'%</div></div>'}document.getElementById("days").innerHTML=s}catch(e){}}};x.open("GET",u,true);x.send()}
 weather();setInterval(weather,900000);
-var feed={cat:"DIE ZEIT",src:"ZEIT ONLINE",url:"https://newsfeed.zeit.de/index"},news=[],idx=0,sec=0;
-function val(n,t){var a=n.getElementsByTagName(t);return a.length?(a[0].textContent||a[0].text||""):""}
-function parse(s){var d=(new DOMParser()).parseFromString(s,"text/xml"),a=d.getElementsByTagName("item"),i,t;news=[];for(i=0;i<a.length&&i<12;i++){t=val(a[i],"title");if(t)news.push({title:t,cat:"DIE ZEIT",src:"ZEIT ONLINE"})}}
-function finishLoad(x){if(x.status>=200&&x.status<300){try{parse(x.responseText)}catch(e){}}if(news.length){idx=0;show()}else{document.getElementById("category").innerHTML="DIE ZEIT";document.getElementById("headline").innerHTML="Nachrichten momentan nicht erreichbar.";document.getElementById("source").innerHTML="ZEIT ONLINE · nächster Versuch automatisch"}}
-function load(){news=[];var x=new XMLHttpRequest(),direct=feed.url;x.onreadystatechange=function(){if(x.readyState===4){if(x.status>=200&&x.status<300){finishLoad(x)}else{var y=new XMLHttpRequest(),proxy="https://api.allorigins.win/raw?url="+encodeURIComponent(feed.url);y.onreadystatechange=function(){if(y.readyState===4)finishLoad(y)};y.open("GET",proxy,true);y.send()}}};x.open("GET",direct,true);x.send()}
-function show(){if(!news.length)return;var n=news[idx%news.length],b=document.getElementById("newsBody");b.className="fade";setTimeout(function(){document.getElementById("category").innerHTML=n.cat;document.getElementById("headline").innerHTML=n.title;document.getElementById("source").innerHTML=n.src;b.className="";},350);sec=0}
-function timer(){sec++;document.getElementById("bar").style.width=Math.min(100,sec*100/15)+"%";document.getElementById("count").innerHTML=Math.max(0,15-sec)+" Sek.";if(sec>=15){sec=0;if(news.length){idx=(idx+1)%news.length;show()}}}
+var news=[],idx=0,sec=0;
+function load(){
+ var x=new XMLHttpRequest();
+ x.onreadystatechange=function(){
+  if(x.readyState===4){
+   if(x.status>=200&&x.status<300){
+    try{
+     var j=JSON.parse(x.responseText);
+     news=j.items||[];
+     if(news.length){idx=0;show();return}
+    }catch(e){}
+   }
+   document.getElementById("category").innerHTML="DIE ZEIT";
+   document.getElementById("headline").innerHTML="Nachrichten werden aktualisiert…";
+   document.getElementById("source").innerHTML="ZEIT ONLINE";
+  }
+ };
+ x.open("GET","news.json?t="+(new Date().getTime()),true);
+ x.send();
+}
+function show(){
+ if(!news.length)return;
+ var n=news[idx%news.length],b=document.getElementById("newsBody");
+ b.className="fade";
+ setTimeout(function(){
+  document.getElementById("category").innerHTML="DIE ZEIT";
+  document.getElementById("headline").innerHTML=n.title;
+  document.getElementById("source").innerHTML="ZEIT ONLINE";
+  b.className="";
+ },350);
+ sec=0;
+}
+function timer(){
+ sec++;
+ document.getElementById("bar").style.width=Math.min(100,sec*100/15)+"%";
+ document.getElementById("count").innerHTML=Math.max(0,15-sec)+" Sek.";
+ if(sec>=15){sec=0;if(news.length){idx=(idx+1)%news.length;show()}}
+}
 load();setInterval(timer,1000);setInterval(load,900000);
 })();
 </script></body></html>
