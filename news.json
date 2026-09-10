@@ -1,7 +1,55 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-10T17:55:03.420011+00:00",
+  "updated": "2026-09-10T18:19:46.251312+00:00",
   "items": [
+    {
+      "title": "Berlin und Niedersachsen: Brisante Ermittlungen – Wichtiges zum Fall Krach",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/10/brisante-ermittlungen-wichtiges-zum-fall-krach-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/10/brisante-ermittlungen-wichtiges-zum-fall-krach",
+      "published": "Thu, 10 Sep 2026 18:13:10 -0000",
+      "published_display": "10.09.2026 · 18:13 Uhr"
+    },
+    {
+      "title": "Ostalbkreis: Bus streift Hauswand - medizinischer Notfall bei Fahrer?",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/10/linienbus-rammt-hauswand-medizinischer-notfall-bei-fahrer-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/10/linienbus-rammt-hauswand-medizinischer-notfall-bei-fahrer",
+      "published": "Thu, 10 Sep 2026 18:12:53 -0000",
+      "published_display": "10.09.2026 · 18:12 Uhr"
+    },
+    {
+      "title": "Basketball-WM der Frauen: Deutsche Basketballerinnen nach Sieg gegen Belgien im WM-Halbfinale",
+      "summary": "Die DBB-Frauen gewinnen gegen die Europameisterinnen aus Belgien. Der Einzug ins Halbfinale ist der größte WM-Erfolg in der Geschichte der deutschen Basketballerinnen.",
+      "image": "https://img.zeit.de/sport/2026-09/basketball-wm-frauen-deutschland-belgien-halbfinale-leonie-fiebich-nyara-sabally-emma-meesseman-foto-1/original__640x360",
+      "link": "https://www.zeit.de/sport/2026-09/basketball-wm-frauen-deutschland-belgien-halbfinale-leonie-fiebich-nyara-sabally-emma-meesseman",
+      "published": "Thu, 10 Sep 2026 18:08:37 -0000",
+      "published_display": "10.09.2026 · 18:08 Uhr"
+    },
+    {
+      "title": "Düsseldorf: Polizeieinsatz am ukrainischen Generalkonsulat",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/10/gefahrenlage-an-ukrainischem-generalkonsulat-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/10/gefahrenlage-an-ukrainischem-generalkonsulat",
+      "published": "Thu, 10 Sep 2026 18:08:11 -0000",
+      "published_display": "10.09.2026 · 18:08 Uhr"
+    },
+    {
+      "title": "Steuerbetrug: Hamburger Staatsanwälte übernehmen erstmals Cum-Ex-Verfahren",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/10/hamburger-staatsanwaelte-uebernehmen-erstmals-cum-ex-verfahren-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/10/hamburger-staatsanwaelte-uebernehmen-erstmals-cum-ex-verfahren",
+      "published": "Thu, 10 Sep 2026 18:03:41 -0000",
+      "published_display": "10.09.2026 · 18:03 Uhr"
+    },
+    {
+      "title": "Abgeordnetenhauswahl: Wagenknecht: «Wir schaffen das auch in Berlin»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/10/wagenknecht-wir-schaffen-das-auch-in-berlin-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/10/wagenknecht-wir-schaffen-das-auch-in-berlin",
+      "published": "Thu, 10 Sep 2026 18:02:17 -0000",
+      "published_display": "10.09.2026 · 18:02 Uhr"
+    },
     {
       "title": "Olympische Winterspiele in Frankreich: Organisationschef für Olympia 2030 tritt nach langem Streit zurück",
       "summary": "Im Organisationskomitee der Olympischen Winterspiele 2030 hat es laut Medienberichten länger gekriselt. Edgar Grospiron hat Konsequenzen gezogen und ist zurückgetreten.",
@@ -11,11 +59,19 @@
       "published_display": "10.09.2026 · 17:54 Uhr"
     },
     {
-      "title": "Basketball-WM der Frauen: Deutsche Basketballerinnen nach Sieg gegen Belgien im WM-Halbfinale",
-      "summary": "Die DBB-Frauen gewinnen gegen die Europameisterinnen aus Belgien. Der Einzug ins Halbfinale ist der größte WM-Erfolg in der Geschichte der deutschen Basketballerinnen.",
-      "image": "https://img.zeit.de/administratives/sharing/fallback-image-die-zeit/wide__1300x731",
-      "link": "https://www.zeit.de/sport/2026-09/basketball-wm-frauen-deutschland-belgien-halbfinale-leonie-fiebich-nyara-sabally-emma-meesseman",
-      "published": "Thu, 10 Sep 2026 17:53:33 -0000",
+      "title": "Basketball-WM der Frauen: 34. WM-Sieg in Serie: Topfavorit USA in Berlin im Halbfinale",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/10/34-wm-sieg-in-serie-topfavorit-usa-in-berlin-im-halbfinale-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/10/34-wm-sieg-in-serie-topfavorit-usa-in-berlin-im-halbfinale",
+      "published": "Thu, 10 Sep 2026 17:54:50 -0000",
+      "published_display": "10.09.2026 · 17:54 Uhr"
+    },
+    {
+      "title": "WM der Frauen in Berlin: «Eistonne und Döner»: Basketballerinnen im WM-Rausch",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/10/sieg-gegen-europameister-basketballerinnen-im-wm-rausch-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/10/sieg-gegen-europameister-basketballerinnen-im-wm-rausch",
+      "published": "Thu, 10 Sep 2026 17:53:48 -0000",
       "published_display": "10.09.2026 · 17:53 Uhr"
     },
     {
@@ -59,68 +115,12 @@
       "published_display": "10.09.2026 · 17:22 Uhr"
     },
     {
-      "title": "WM der Frauen in Berlin: Sieg gegen Europameister: Basketballerinnen im WM-Rausch",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/10/sieg-gegen-europameister-basketballerinnen-im-wm-rausch-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/10/sieg-gegen-europameister-basketballerinnen-im-wm-rausch",
-      "published": "Thu, 10 Sep 2026 17:20:50 -0000",
-      "published_display": "10.09.2026 · 17:20 Uhr"
-    },
-    {
       "title": "Steuer geplant: Übernachtungssteuer für Touristen in England soll kommen",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-09/10/uebernachtungssteuer-fuer-touristen-in-england-soll-kommen-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-09/10/uebernachtungssteuer-fuer-touristen-in-england-soll-kommen",
       "published": "Thu, 10 Sep 2026 17:16:20 -0000",
       "published_display": "10.09.2026 · 17:16 Uhr"
-    },
-    {
-      "title": "Kriminalität: Ermittlungen gegen Krach: Verdacht auf Vorteilsannahme",
-      "summary": "",
-      "image": "https://img.zeit.de/administratives/sharing/fallback-image-die-zeit/wide__1300x731",
-      "link": "https://www.zeit.de/news/2026-09/10/ermittlungen-gegen-krach-verdacht-auf-vorteilsannahme",
-      "published": "Thu, 10 Sep 2026 17:14:22 -0000",
-      "published_display": "10.09.2026 · 17:14 Uhr"
-    },
-    {
-      "title": "Ostalbkreis: Linienbus rammt Hauswand – medizinischer Notfall bei Fahrer?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/10/linienbus-rammt-hauswand-medizinischer-notfall-bei-fahrer-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/10/linienbus-rammt-hauswand-medizinischer-notfall-bei-fahrer",
-      "published": "Thu, 10 Sep 2026 17:12:56 -0000",
-      "published_display": "10.09.2026 · 17:12 Uhr"
-    },
-    {
-      "title": "Steffen Krach: Lars Klingbeil spricht Steffen Krach Solidarität der SPD aus",
-      "summary": "Kurz vor der Abgeordnetenhauswahl in Berlin bringen Ermittlungen den SPD-Spitzenkandidaten Steffen Krach in Bedrängnis. Lars Klingbeil gibt ihm Rückendeckung.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/steffen-krach-spd-korruption-ermittlungen-berlin-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/steffen-krach-spd-korruption-ermittlungen-berlin",
-      "published": "Thu, 10 Sep 2026 17:07:52 -0000",
-      "published_display": "10.09.2026 · 17:07 Uhr"
-    },
-    {
-      "title": "Humanoide Roboter: Man braucht kein Gesicht, um Wäsche zu falten",
-      "summary": "Die Stars der IFA waren nicht Fernseher oder Haushaltsgeräte – sondern Roboter, die aussehen wie wir. Vor dem Robo-Runway fragt man sich: Sind wir darauf vorbereitet?",
-      "image": "https://img.zeit.de/digital/2026-09/humanoide-roboter-ifa-berlin/original__640x360",
-      "link": "https://www.zeit.de/digital/2026-09/humanoide-roboter-ifa-technologie-messe",
-      "published": "Thu, 10 Sep 2026 17:07:36 -0000",
-      "published_display": "10.09.2026 · 17:07 Uhr"
-    },
-    {
-      "title": "»Marvel’s Wolverine«: Von Albträumen geplagt? Töten Sie ein paar Gegner auf Wut-Stufe 3",
-      "summary": "Im PlayStation-5-Blockbuster »Marvel’s Wolverine« geht es brutal zur Sache. Auch deshalb mutet das Spiel stellenweise etwas antiquiert an. Spaß kann es trotzdem machen.",
-      "image": "https://img.zeit.de/digital/games/2026-09/marvel-s-wolverine-20260909110946-bild/original__640x360",
-      "link": "https://www.zeit.de/digital/games/2026-09/marvels-wolverine-playstation-videospiel-ps5",
-      "published": "Thu, 10 Sep 2026 17:06:33 -0000",
-      "published_display": "10.09.2026 · 17:06 Uhr"
-    },
-    {
-      "title": "Rechtspopulismus in Europa : Die beste Waffe gegen Nationalisten ist Europa",
-      "summary": "Mit dem wachsenden Zuspruch europafeindlicher Parteien sind demokratische Politiker beim Thema EU verdächtig still geworden. Ihnen fehlt der Mut. Das ist fatal.",
-      "image": "https://img.zeit.de/politik/2026-09/rechtspopulismus-europa-parteien-afd/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/rechtspopulismus-europa-parteien-afd-demokratie",
-      "published": "Thu, 10 Sep 2026 17:05:28 -0000",
-      "published_display": "10.09.2026 · 17:05 Uhr"
     }
   ]
 }
