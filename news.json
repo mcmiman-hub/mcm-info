@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-10T23:14:32.106854+00:00",
+  "updated": "2026-09-10T23:27:02.117337+00:00",
   "items": [
+    {
+      "title": "Late-Night-Show: Jimmy Kimmel kritisiert Druck von US-Aufsichtsbehörde",
+      "summary": "Jimmy Kimmel strahlt ein Interview mit dem demokratischen Senatskandidaten James Talarico nur online aus, nicht im Fernsehen. Der Moderator kritisiert Drohungen der FCC.",
+      "image": "https://img.zeit.de/feuilleton/film/2026-09/2026-04-17t155422z-2109595296-mt1usatoday28749370-rtrmadp-3-jimmy-kimmel-delivers-the-opening-monologue-during-the-96th-bild/original__640x360",
+      "link": "https://www.zeit.de/feuilleton/film/2026-09/jimmy-kimmel-fcc-james-talarico-abc",
+      "published": "Thu, 10 Sep 2026 23:15:20 -0000",
+      "published_display": "10.09.2026 · 23:15 Uhr"
+    },
     {
       "title": "Rentenreform: Mansoori: Abschaffung der abschlagsfreien Rente prüfen",
       "summary": "",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/10/strahlender-musiala-fuehrt-bayern-zum-spaeten-traumstart",
       "published": "Thu, 10 Sep 2026 21:29:32 -0000",
       "published_display": "10.09.2026 · 21:29 Uhr"
-    },
-    {
-      "title": "Champions League: «Echt kacke»: Leipzigs Königsklassen-Fehlstart in Como",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/10/ein-abend-zum-vergessen-leipzigs-fehlstart-in-como-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/10/ein-abend-zum-vergessen-leipzigs-fehlstart-in-como",
-      "published": "Thu, 10 Sep 2026 21:13:30 -0000",
-      "published_display": "10.09.2026 · 21:13 Uhr"
     }
   ]
 }
