@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-10T16:30:24.970500+00:00",
+  "updated": "2026-09-10T16:44:18.786117+00:00",
   "items": [
+    {
+      "title": "Steffen Krach: Lars Klingbeil spricht Steffen Krach Solidarität der SPD aus",
+      "summary": "Kurz vor der Abgeordnetenhauswahl in Berlin bringen Ermittlungen den SPD-Spitzenkandidaten Steffen Krach in Bedrängnis. Lars Klingbeil gibt ihm Rückendeckung.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/steffen-krach-spd-korruption-ermittlungen-berlin-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/steffen-krach-spd-korruption-ermittlungen-berlin",
+      "published": "Thu, 10 Sep 2026 16:40:37 -0000",
+      "published_display": "10.09.2026 · 16:40 Uhr"
+    },
+    {
+      "title": "Stromversorgung: Über 160 Sabotageziele? Bundesanwaltschaft ermittelt nun",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/10/bundesanwaltschaft-uebernimmt-ermittlungen-zu-strom-sabotage-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/10/bundesanwaltschaft-uebernimmt-ermittlungen-zu-strom-sabotage",
+      "published": "Thu, 10 Sep 2026 16:40:32 -0000",
+      "published_display": "10.09.2026 · 16:40 Uhr"
+    },
+    {
+      "title": "Düsseldorf: Gefahrenlage an ukrainischem Generalkonsulat",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/10/gefahrenlage-an-ukrainischem-generalkonsulat-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/10/gefahrenlage-an-ukrainischem-generalkonsulat",
+      "published": "Thu, 10 Sep 2026 16:35:22 -0000",
+      "published_display": "10.09.2026 · 16:35 Uhr"
+    },
     {
       "title": "Fifa-Präsident: Frankreichs Verband entzieht Gianni Infantino Vertrauen für Wiederwahl",
       "summary": "Der französische Fußballverband zieht seine Unterstützung für eine Wiederwahl Gianni Infantinos zurück. Grund sei sein unter Druck verworfener WM-Investorenplan.",
@@ -30,7 +54,7 @@
       "title": "Migration: Frontex meldet ein Drittel weniger illegale EU-Grenzübertritte",
       "summary": "Mehr als 74.000 unerlaubte Einreisen in die EU hat Frontex in diesem Jahr bis Ende August registriert. Im Vergleich zum Vorjahr sanken die Zahlen deutlich.",
       "image": "https://img.zeit.de/politik/ausland/2026-09/irregulaere-migration-eu-frontex-ceuta-mittelmeer-schleuser-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/irregulaere-migration-eu-frontex-ceuta-mittelmeer-schleuser",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/irregulaere-migration-eu-frontex-ceuta-mittelmeer-schleuser-gxe",
       "published": "Thu, 10 Sep 2026 16:20:37 -0000",
       "published_display": "10.09.2026 · 16:20 Uhr"
     },
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/politik/deutschland/2026-09/abgeordnetenhauswahl-berlin-umfrage-linkspartei-cdu-elif-eralp-stefan-evers-infratest-dimap",
       "published": "Thu, 10 Sep 2026 16:03:27 -0000",
       "published_display": "10.09.2026 · 16:03 Uhr"
-    },
-    {
-      "title": "Angriffe auf Energieversorgung: Plattes Gras verrät Strom-Saboteur - Bodycam filmt Festnahme",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/10/plattes-gras-verraet-strom-saboteur-bodycam-filmt-festnahme-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/10/plattes-gras-verraet-strom-saboteur-bodycam-filmt-festnahme",
-      "published": "Thu, 10 Sep 2026 16:03:05 -0000",
-      "published_display": "10.09.2026 · 16:03 Uhr"
-    },
-    {
-      "title": "Erdbeben: Erdbeben in der Region Mannheim/Worms",
-      "summary": "",
-      "image": "https://img.zeit.de/administratives/sharing/fallback-image-die-zeit/wide__1300x731",
-      "link": "https://www.zeit.de/news/2026-09/10/erdbeben-in-der-region-mannheim-worms",
-      "published": "Thu, 10 Sep 2026 16:03:00 -0000",
-      "published_display": "10.09.2026 · 16:03 Uhr"
-    },
-    {
-      "title": "Zwischenwahlen in den USA: Oberstes US-Gericht blockiert Neuzuschnitt der Wahlkreise in Missouri",
-      "summary": "Republikaner in Missouri wollten mit dem Neuzuschnitt der Wahlkreise ein zusätzliches Mandat im Repräsentantenhaus gewinnen. Der Supreme Court blockiert das erneut.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/oberster-gerichtshof-usa-missouri-wahlkreisgrenzen-donald-trump-repraesentantenhaus-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/oberster-gerichtshof-usa-missouri-wahlkreisgrenzen-donald-trump-repraesentantenhaus-gxe",
-      "published": "Thu, 10 Sep 2026 16:01:15 -0000",
-      "published_display": "10.09.2026 · 16:01 Uhr"
     }
   ]
 }
