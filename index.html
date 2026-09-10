@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<title>MCM Info</title>
+<style>
+html,body{margin:0;width:100%;height:100%;background:#0b0d10;color:#f4f4f4;font-family:-apple-system,BlinkMacSystemFont,"Helvetica Neue",Arial,sans-serif;overflow:hidden}
+*{box-sizing:border-box}
+#wrap{height:100vh;padding:18px 24px;display:-webkit-flex;display:flex;-webkit-flex-direction:column;flex-direction:column}
+.top{display:-webkit-flex;display:flex;-webkit-justify-content:space-between;justify-content:space-between;-webkit-align-items:flex-start;align-items:flex-start}
+#clock{font-size:84px;font-weight:200;line-height:.95;letter-spacing:-4px}
+#date{font-size:22px;margin-top:10px;color:#c8cbd0}
+.weather{text-align:right;min-width:250px}
+#temp{font-size:54px;font-weight:300;line-height:1}
+#place{font-size:17px;letter-spacing:2px;color:#c8cbd0;margin-bottom:7px}
+#condition{font-size:20px;margin-top:8px}
+.rule{height:1px;background:#333842;margin:18px 0}
+.middle{display:-webkit-flex;display:flex;-webkit-flex:1;flex:1;min-height:0}
+.forecast{width:38%;padding-right:22px;border-right:1px solid #333842}
+.news{width:62%;padding-left:26px}
+h2{font-size:15px;letter-spacing:2px;font-weight:500;color:#9da3ad;margin:0 0 18px}
+.day{display:-webkit-flex;display:flex;-webkit-justify-content:space-between;justify-content:space-between;font-size:22px;padding:8px 0}
+#headline{font-size:29px;line-height:1.25;margin-top:12px}
+#source{font-size:17px;color:#9da3ad;margin-top:18px}
+.bottom{font-size:13px;letter-spacing:2px;color:#707680;text-align:center;padding-top:12px}
+.small{font-size:14px;color:#707680;margin-top:10px}
+</style>
+</head>
+<body>
+<div id="wrap">
+  <div class="top">
+    <div>
+      <div id="clock">--:--</div>
+      <div id="date">---</div>
+    </div>
+    <div class="weather">
+      <div id="place">ESSEN</div>
+      <div id="temp">--°</div>
+      <div id="condition">Wetter wird geladen…</div>
+    </div>
+  </div>
+  <div class="rule"></div>
+  <div class="middle">
+    <div class="forecast">
+      <h2>WETTER</h2>
+      <div id="days"><div class="small">Vorhersage wird geladen…</div></div>
+    </div>
+    <div class="news">
+      <h2>MCM INFO</h2>
+      <div id="headline">Guten Morgen.</div>
+      <div id="source">Mini iPad Dashboard</div>
+      <div class="small" id="status">Uhr + Wetter aktiv. Nachrichten kommen in Version 0.2.</div>
+    </div>
+  </div>
+  <div class="bottom">MCM INFO • iPad mini 2</div>
+</div>
+<script>
+(function(){
+ function pad(n){return n<10?"0"+n:n}
+ var dayNames=["Sonntag","Montag","Dienstag","Mittwoch","Donnerstag","Freitag","Samstag"];
+ var monNames=["Januar","Februar","März","April","Mai","Juni","Juli","August","September","Oktober","November","Dezember"];
+ function tick(){
+   var d=new Date();
+   document.getElementById("clock").innerHTML=pad(d.getHours())+":"+pad(d.getMinutes());
+   document.getElementById("date").innerHTML=dayNames[d.getDay()]+" • "+d.getDate()+". "+monNames[d.getMonth()];
+ }
+ tick(); setInterval(tick,1000);
+
+ function desc(c){
+   if(c===0)return "Klar";
+   if(c===1)return "Überwiegend klar";
+   if(c===2)return "Teilweise bewölkt";
+   if(c===3)return "Bewölkt";
+   if(c===45||c===48)return "Nebel";
+   if(c>=51&&c<=57)return "Nieselregen";
+   if(c>=61&&c<=67)return "Regen";
+   if(c>=71&&c<=77)return "Schnee";
+   if(c>=80&&c<=82)return "Regenschauer";
+   if(c>=85&&c<=86)return "Schneeschauer";
+   if(c>=95)return "Gewitter";
+   return "Wetter";
+ }
+ function loadWeather(){
+   var url="https://api.open-meteo.com/v1/forecast?latitude=51.4556&longitude=7.0116&current=temperature_2m,weather_code&daily=weather_code,temperature_2m_max,temperature_2m_min&timezone=Europe%2FBerlin&forecast_days=4";
+   var x=new XMLHttpRequest();
+   x.onreadystatechange=function(){
+     if(x.readyState===4){
+       if(x.status>=200&&x.status<300){
+         try{
+           var j=JSON.parse(x.responseText);
+           document.getElementById("temp").innerHTML=Math.round(j.current.temperature_2m)+"°";
+           document.getElementById("condition").innerHTML=desc(j.current.weather_code);
+           var out="";
+           for(var i=0;i<j.daily.time.length;i++){
+             var dd=new Date(j.daily.time[i]+"T12:00:00");
+             var label=i===0?"Heute":dayNames[dd.getDay()].substr(0,2);
+             out+='<div class="day"><span>'+label+'</span><span>'+Math.round(j.daily.temperature_2m_max[i])+'° / '+Math.round(j.daily.temperature_2m_min[i])+'°</span></div>';
+           }
+           document.getElementById("days").innerHTML=out;
+         }catch(e){document.getElementById("condition").innerHTML="Wetter nicht verfügbar";}
+       } else {document.getElementById("condition").innerHTML="Wetter nicht verfügbar";}
+     }
+   };
+   x.open("GET",url,true); x.send();
+ }
+ loadWeather(); setInterval(loadWeather,900000);
+})();
+</script>
+</body>
+</html>
