@@ -13,6 +13,28 @@ def clean_html(value):
     value = htmlmod.unescape(value)
     return re.sub(r"\s+", " ", value).strip()
 
+
+def page_image(url):
+    """Read the article's Open Graph image. Failure must never stop news updates."""
+    if not url or not url.startswith("http"):
+        return ""
+    try:
+        req = urllib.request.Request(url, headers={"User-Agent":"Mozilla/5.0 MCM-Info/2.1"})
+        with urllib.request.urlopen(req, timeout=12) as r:
+            page = r.read(700000).decode("utf-8", "ignore")
+        patterns = [
+            r'<meta[^>]+property=["\']og:image["\'][^>]+content=["\']([^"\']+)',
+            r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+property=["\']og:image["\']',
+            r'<meta[^>]+name=["\']twitter:image(?::src)?["\'][^>]+content=["\']([^"\']+)'
+        ]
+        for pat in patterns:
+            m = re.search(pat, page, re.I)
+            if m:
+                return htmlmod.unescape(m.group(1))
+    except Exception:
+        pass
+    return ""
+
 def first_image(item):
     # RSS media/enclosure if ZEIT supplies one.
     for child in list(item):
@@ -52,10 +74,13 @@ for item in root.findall(".//item")[:20]:
         except Exception:
             display = pub
     if title:
+        image = first_image(item)
+        if not image:
+            image = page_image(link)
         items.append({
             "title": title,
             "summary": desc,
-            "image": first_image(item),
+            "image": image,
             "link": link,
             "published": pub,
             "published_display": display
