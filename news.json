@@ -1,14 +1,126 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": null,
+  "updated": "2026-09-10T08:50:49.205762+00:00",
   "items": [
     {
-      "title": "ZEIT-Nachrichten werden aktualisiert.",
-      "summary": "Beim nächsten GitHub-Actions-Lauf werden aktuelle Überschriften, Anreißer und verfügbare RSS-Bilder geladen.",
-      "image": "",
-      "link": "",
-      "published": "",
-      "published_display": ""
+      "title": "Haushaltsdebatte: Bundesinnenminister Dobrindt sieht hohe Bedrohungslage in Deutschland",
+      "summary": "»Wir sind nicht im Krieg, aber wir sind tägliches Ziel hybrider Kriegsführung«, sagt Alexander Dobrindt. Nachrichtendienste und Cyberabwehr müssten gestärkt werden.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/asylpolitik-alexander-dobrindt-csu-migration-grenzkontrollen-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/bundesinnenminister-alexander-dobrindt-csu-hybride-kriegsfuehrung-bedrohung-migration",
+      "published": "Thu, 10 Sep 2026 08:48:17 -0000",
+      "published_display": "10.09.2026 · 08:48 Uhr"
+    },
+    {
+      "title": "Leihmutter-Affäre: Jens Spahn entschuldigt sich für Umgang mit Leihmutterschaft",
+      "summary": "Der CDU-Politiker ist mithilfe einer Leihmutter Vater geworden. Dafür hat er sich bei seiner Partei entschuldigt. Er sei »zu feige« gewesen, offen darüber zu sprechen.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/jens-spahn-leihmutterschaft-usa-cdu-entschuldigung-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/jens-spahn-leihmutterschaft-usa-cdu-entschuldigung",
+      "published": "Thu, 10 Sep 2026 08:46:17 -0000",
+      "published_display": "10.09.2026 · 08:46 Uhr"
+    },
+    {
+      "title": "Große Suche: Toter Schwimmer nach drei Tagen aus Neckar geborgen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/10/toter-schwimmer-nach-drei-tagen-aus-neckar-geborgen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/10/toter-schwimmer-nach-drei-tagen-aus-neckar-geborgen",
+      "published": "Thu, 10 Sep 2026 08:46:16 -0000",
+      "published_display": "10.09.2026 · 08:46 Uhr"
+    },
+    {
+      "title": "Sozialreformen: Juso-Chef Türmer fordert von Regierung Neustart bei den Sozialreformen",
+      "summary": "Angesichts der Wahlergebnisse in Sachsen-Anhalt drängt der Juso-Chef die Bundesregierung, die Reformpläne zu ändern. Diese dürften nicht zu zusätzlicher Belastung führen.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/sozialreformen-philipp-tuermer-henning-reddig-spd-cdu-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/sozialreformen-philipp-tuermer-henning-reddig-spd-cdu",
+      "published": "Thu, 10 Sep 2026 08:42:48 -0000",
+      "published_display": "10.09.2026 · 08:42 Uhr"
+    },
+    {
+      "title": "Mike D: »Arbeite so viel und so hart wie Madonna«",
+      "summary": "Mike D, 60, von den Beastie Boys erzählt, was er gern früher gewusst hätte. Wie wichtig ein verspielter Blick aufs Leben ist, und wie man Schmerz überwindet.",
+      "image": "https://img.zeit.de/zeit-magazin/2026/38/arbeite-so-viel-und-so-hart-wie-madonna-bild-1/original__640x360",
+      "link": "https://www.zeit.de/zeit-magazin/2026/38/mike-d-ratschlaege-leben",
+      "published": "Thu, 10 Sep 2026 08:40:38 -0000",
+      "published_display": "10.09.2026 · 08:40 Uhr"
+    },
+    {
+      "title": "Fußball: Vertragsloser Marco Richter kehrt zu Darmstadt 98 zurück",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/10/vertragsloser-marco-richter-kehrt-zu-darmstadt-98-zurueck-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/10/vertragsloser-marco-richter-kehrt-zu-darmstadt-98-zurueck",
+      "published": "Thu, 10 Sep 2026 08:36:11 -0000",
+      "published_display": "10.09.2026 · 08:36 Uhr"
+    },
+    {
+      "title": "«Madring» verspricht Spektakel: Neuer Kurs in Formel 1: Lärm-Zoff und Crash-Gefahr in Madrid",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/10/neuer-kurs-in-formel-1-laerm-zoff-und-crash-gefahr-in-madrid-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/10/neuer-kurs-in-formel-1-laerm-zoff-und-crash-gefahr-in-madrid",
+      "published": "Thu, 10 Sep 2026 08:33:41 -0000",
+      "published_display": "10.09.2026 · 08:33 Uhr"
+    },
+    {
+      "title": "Kontrolle über Rotes Meer: Huthi rücken auf strategische wichtige Stadt im Jemen zu",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/10/huthi-ruecken-auf-strategische-wichtige-stadt-im-jemen-zu-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/10/huthi-ruecken-auf-strategische-wichtige-stadt-im-jemen-zu",
+      "published": "Thu, 10 Sep 2026 08:32:05 -0000",
+      "published_display": "10.09.2026 · 08:32 Uhr"
+    },
+    {
+      "title": "2. Fußball-Bundesliga: «Ausnahmefußballer» Appelkamp: Fürth hofft auf Rückkehr",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/10/ausnahmefussballer-appelkamp-fuerth-hofft-auf-rueckkehr-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/10/ausnahmefussballer-appelkamp-fuerth-hofft-auf-rueckkehr",
+      "published": "Thu, 10 Sep 2026 08:30:08 -0000",
+      "published_display": "10.09.2026 · 08:30 Uhr"
+    },
+    {
+      "title": "Vermisstenfall: Suche nach 19-Jährigem mit Down-Syndrom ausgeweitet",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/10/suche-nach-19-jaehrigem-mit-down-syndrom-ausgeweitet-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/10/suche-nach-19-jaehrigem-mit-down-syndrom-ausgeweitet",
+      "published": "Thu, 10 Sep 2026 08:28:35 -0000",
+      "published_display": "10.09.2026 · 08:28 Uhr"
+    },
+    {
+      "title": "DFB-Pokal: Union im Pokal dienstags in Köln - Hertha spielt am Mittwoch",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/10/union-im-pokal-dienstags-in-koeln-hertha-spielt-am-mittwoch-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/10/union-im-pokal-dienstags-in-koeln-hertha-spielt-am-mittwoch",
+      "published": "Thu, 10 Sep 2026 08:27:28 -0000",
+      "published_display": "10.09.2026 · 08:27 Uhr"
+    },
+    {
+      "title": "Generalsanierung von Bahnstrecken: Bahn-Chefin Palla rechnet mit mehr Zeit für Korridorsanierungen",
+      "summary": "Evelyn Palla hat angekündigt, dass die Generalüberholung viel belasteter Streckenabschnitte länger dauern wird. Zudem werde das Sanierungskonzept überarbeitet.",
+      "image": "https://img.zeit.de/mobilitaet/2026-09/generalsanierung-bahnstrecken-deutsche-bahn-evelyn-palla-foto-1/original__640x360",
+      "link": "https://www.zeit.de/mobilitaet/2026-09/generalsanierung-bahnstrecken-deutsche-bahn-evelyn-palla",
+      "published": "Thu, 10 Sep 2026 08:27:03 -0000",
+      "published_display": "10.09.2026 · 08:27 Uhr"
+    },
+    {
+      "title": "Ernte: Hitze und Trockenheit belasten sächsische Ernteergebnisse",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/10/hitze-und-trockenheit-belasten-saechsische-ernteergebnisse-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/10/hitze-und-trockenheit-belasten-saechsische-ernteergebnisse",
+      "published": "Thu, 10 Sep 2026 08:24:23 -0000",
+      "published_display": "10.09.2026 · 08:24 Uhr"
+    },
+    {
+      "title": "Katholische Kirche: Die Kirche und die AfD - «Wir positionieren uns dagegen»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/10/die-kirche-und-die-afd-wir-positionieren-uns-dagegen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/10/die-kirche-und-die-afd-wir-positionieren-uns-dagegen",
+      "published": "Thu, 10 Sep 2026 08:24:05 -0000",
+      "published_display": "10.09.2026 · 08:24 Uhr"
+    },
+    {
+      "title": "Kommunalfinanzen: Verfassungsbeschwerde von Nienburg bleibt unbehandelt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/10/verfassungsbeschwerde-von-nienburg-bleibt-unbehandelt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/10/verfassungsbeschwerde-von-nienburg-bleibt-unbehandelt",
+      "published": "Thu, 10 Sep 2026 08:23:29 -0000",
+      "published_display": "10.09.2026 · 08:23 Uhr"
     }
   ]
 }
