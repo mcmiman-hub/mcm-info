@@ -1,7 +1,39 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-10T15:44:42.301912+00:00",
+  "updated": "2026-09-10T15:54:55.002562+00:00",
   "items": [
+    {
+      "title": "Vor der Landtagswahl in MV: Infratest-Umfrage: AfD baut Spitzenposition in MV aus",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/10/infratest-umfrage-afd-baut-spitzenposition-in-mv-aus-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/10/infratest-umfrage-afd-baut-spitzenposition-in-mv-aus",
+      "published": "Thu, 10 Sep 2026 15:51:35 -0000",
+      "published_display": "10.09.2026 · 15:51 Uhr"
+    },
+    {
+      "title": "Staatsbesuch vom Golf: Emirate wollen 40 Milliarden Euro in Deutschland investieren",
+      "summary": "",
+      "image": "https://img.zeit.de/administratives/sharing/fallback-image-die-zeit/wide__1300x731",
+      "link": "https://www.zeit.de/news/2026-09/10/emirate-wollen-40-milliarden-euro-in-deutschland-investieren",
+      "published": "Thu, 10 Sep 2026 15:51:05 -0000",
+      "published_display": "10.09.2026 · 15:51 Uhr"
+    },
+    {
+      "title": "Mordprozess: Angeklagte im Fabian-Prozess streitet Schuld weiter ab",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/10/fabian-prozess-handyauswertung-bleibt-unergiebig-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/10/fabian-prozess-handyauswertung-bleibt-unergiebig",
+      "published": "Thu, 10 Sep 2026 15:46:10 -0000",
+      "published_display": "10.09.2026 · 15:46 Uhr"
+    },
+    {
+      "title": "Zeitfahren in Spanien: Roglic holt bei Vuelta auf, aber Mas verteidigt Führung",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/10/roglic-holt-bei-vuelta-auf-aber-mas-verteidigt-fuehrung-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/10/roglic-holt-bei-vuelta-auf-aber-mas-verteidigt-fuehrung",
+      "published": "Thu, 10 Sep 2026 15:44:42 -0000",
+      "published_display": "10.09.2026 · 15:44 Uhr"
+    },
     {
       "title": "Vor der Landtagswahl: Neuer Umfragedämpfer für CDU - Merz unter Druck",
       "summary": "",
@@ -89,38 +121,6 @@
       "link": "https://www.zeit.de/politik/ausland/2026-09/oberster-gerichtshof-usa-missouri-wahlkreisgrenzen-donald-trump-repraesentantenhaus",
       "published": "Thu, 10 Sep 2026 15:20:16 -0000",
       "published_display": "10.09.2026 · 15:20 Uhr"
-    },
-    {
-      "title": "Abschied im Michel: Freunde und Weggefährten trauern um Klaus-Michael Kühne",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/10/freunde-und-weggefaehrten-trauern-um-klaus-michael-kuehne-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/10/freunde-und-weggefaehrten-trauern-um-klaus-michael-kuehne",
-      "published": "Thu, 10 Sep 2026 15:17:50 -0000",
-      "published_display": "10.09.2026 · 15:17 Uhr"
-    },
-    {
-      "title": "Filmfestspiele Venedig: Brisante Gaza-Dokumentation feiert Weltpremiere in Venedig",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/10/brisante-gaza-dokumentation-feiert-weltpremiere-in-venedig-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/10/brisante-gaza-dokumentation-feiert-weltpremiere-in-venedig",
-      "published": "Thu, 10 Sep 2026 15:15:04 -0000",
-      "published_display": "10.09.2026 · 15:15 Uhr"
-    },
-    {
-      "title": "Zeugen gesucht: 15-Jährige mutmaßlich von jungem Mann sexuell missbraucht",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/10/15-jaehrige-mutmasslich-von-jungem-mann-sexuell-missbraucht-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/10/15-jaehrige-mutmasslich-von-jungem-mann-sexuell-missbraucht",
-      "published": "Thu, 10 Sep 2026 15:14:40 -0000",
-      "published_display": "10.09.2026 · 15:14 Uhr"
-    },
-    {
-      "title": "Entwicklung von KI-Modellen: Hat die KI wirklich allein ein schier unlösbares Matheproblem gelöst?",
-      "summary": "Es ist eine merkwürdige Gleichzeitigkeit: Während immer bessere KI-Modelle nun (wohl) Matheprobleme lösen, fordern Kritiker ein Bremsen des KI‑Rennens. Der KI‑Newsletter",
-      "image": "https://img.zeit.de/digital/internet/2026-09/entwicklung-ki-modelle-newsletter-kuenstliche-intelligenz-bild/original__640x360",
-      "link": "https://www.zeit.de/digital/internet/2026-09/entwicklung-ki-modelle-newsletter-kuenstliche-intelligenz",
-      "published": "Thu, 10 Sep 2026 15:14:03 -0000",
-      "published_display": "10.09.2026 · 15:14 Uhr"
     }
   ]
 }
