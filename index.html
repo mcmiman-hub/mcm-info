@@ -18,13 +18,13 @@ html,body{margin:0;width:100%;height:100%;overflow:hidden;background:#061b2b;col
 #date{font-size:20px;font-weight:600;margin-top:12px}
 #greet{font-family:"Snell Roundhand","Bradley Hand","Segoe Script",cursive;font-size:30px;font-style:italic;font-weight:400;margin-top:8px;color:#fff;border-bottom:2px solid #79d9ff;display:inline-block;padding:0 6px 2px 0;text-shadow:0 2px 7px rgba(0,0,0,.75)}
 .place{font-size:18px;font-weight:800;letter-spacing:2px}.subplace{font-size:14px;font-weight:600;margin-top:3px}
-#temp{font-family:"Avenir Next","Helvetica Neue",Arial,sans-serif;font-size:62px;font-weight:800;line-height:1}#condition{font-size:19px;font-weight:700}#feels{font-size:14px;font-weight:600;margin-top:3px}
+#temp{font-family:"Avenir Next","Helvetica Neue",Arial,sans-serif;font-size:62px;font-weight:800;line-height:1}#condition{font-size:19px;font-weight:700}#feels{font-size:14px;font-weight:600;margin-top:3px}#todayrange{font-size:17px;font-weight:800;margin-top:5px;text-shadow:0 2px 6px rgba(0,0,0,.75)}
 .cards{height:55%;padding:10px 20px 4px;display:-webkit-flex;display:flex}
 .panel{background:rgba(4,43,72,.93);border:1px solid rgba(111,205,255,.62);border-radius:14px;box-shadow:0 6px 20px rgba(0,0,0,.28)}
 .weather{width:43%;margin-right:13px;padding:12px 14px}.news{width:57%;padding:12px 17px;position:relative}
 .ptitle{font-size:17px;font-weight:700;letter-spacing:1px;border-bottom:1px solid rgba(255,255,255,.20);padding-bottom:8px}
 .minor{float:right;font-size:12px;font-weight:400;letter-spacing:0;color:#c6e6f7}
-.day{height:49px;display:-webkit-flex;display:flex;-webkit-align-items:center;align-items:center;border-bottom:1px solid rgba(255,255,255,.13)}
+.day{height:58px;display:-webkit-flex;display:flex;-webkit-align-items:center;align-items:center;border-bottom:1px solid rgba(255,255,255,.13)}
 .dname{width:22%;font-size:17px;font-weight:700}.ico{width:20%;font-size:25px;text-align:center}.temps{width:36%;font-size:17px;font-weight:800}.rain{width:22%;font-size:12px;font-weight:700;color:#83d7ff;text-align:right}
 #newsBody{-webkit-transition:opacity .35s;transition:opacity .35s}.fade{opacity:.05}
 #category{font-size:14px;font-weight:700;letter-spacing:1px;color:#ff625c;margin-top:15px}
@@ -39,16 +39,16 @@ html,body{margin:0;width:100%;height:100%;overflow:hidden;background:#061b2b;col
 <body><div id="app">
 <div class="hero">
  <div class="clockbox"><div id="clock">--:--</div><div id="date">---</div><div id="greet">Guten Morgen!</div></div>
- <div class="now"><div class="place">● ESSEN</div><div class="subplace">Hausscheppen · Baldeneysee</div><div id="temp">--°</div><div id="condition">Wetter…</div><div id="feels"></div></div>
+ <div class="now"><div class="place">● ESSEN</div><div class="subplace">Hausscheppen · Baldeneysee</div><div id="temp">--°</div><div id="condition">Wetter…</div><div id="feels"></div><div id="todayrange"></div></div>
 </div>
 <div class="cards">
  <div class="panel weather"><div class="ptitle">☀ WETTER <span class="minor">Essen · 4 Tage</span></div><div id="days"></div></div>
  <div class="panel news"><div class="ptitle">▣ NACHRICHTEN <span id="count">15 Sek.</span></div>
-  <div id="newsBody"><div id="category">MCM INFO</div><div id="headline">Nachrichten werden geladen…</div><div id="source">Deutschland · Türkiye</div></div>
+  <div id="newsBody"><div id="category">MCM INFO</div><div id="headline">Nachrichten werden geladen…</div><div id="source">DIE ZEIT</div></div>
   <div id="barbox"><div id="bar"></div></div>
  </div>
 </div>
-<div class="footer"><span>MCM INFO</span><span>ZWEI LÄNDER · EINE PERSPEKTIVE</span><span>MCM ki</span></div>
+<div class="footer"><span>MCM INFO</span><span>WETTER · NACHRICHTEN · ESSEN</span><span>MCM ki</span></div>
 </div>
 <script>
 (function(){
@@ -57,13 +57,13 @@ function pad(n){return n<10?"0"+n:n}
 function tick(){var d=new Date(),h=d.getHours();document.getElementById("clock").innerHTML=pad(h)+":"+pad(d.getMinutes());document.getElementById("date").innerHTML=DN[d.getDay()]+" · "+d.getDate()+". "+MN[d.getMonth()]+" "+d.getFullYear();document.getElementById("greet").innerHTML=(h>=5&&h<11)?"Guten Morgen!":(h>=11&&h<18)?"Guten Tag!":(h>=18&&h<22)?"Guten Abend!":"Gute Nacht!"}
 tick();setInterval(tick,1000);
 function wi(c){if(c===0)return["☀️","Klar"];if(c<=2)return["🌤️","Teilweise bewölkt"];if(c===3)return["☁️","Bewölkt"];if(c===45||c===48)return["🌫️","Nebel"];if(c>=51&&c<=67)return["🌧️","Regen"];if(c>=71&&c<=77)return["❄️","Schnee"];if(c>=80&&c<=82)return["🌦️","Schauer"];if(c>=85&&c<=86)return["🌨️","Schneeschauer"];if(c>=95)return["⛈️","Gewitter"];return["☁️","Wetter"]}
-function weather(){var u="https://api.open-meteo.com/v1/forecast?latitude=51.4556&longitude=7.0116&current=temperature_2m,apparent_temperature,weather_code&daily=weather_code,temperature_2m_max,temperature_2m_min,precipitation_probability_max&timezone=Europe%2FBerlin&forecast_days=4",x=new XMLHttpRequest();x.onreadystatechange=function(){if(x.readyState===4&&x.status>=200&&x.status<300){try{var j=JSON.parse(x.responseText),w=wi(j.current.weather_code),s="",i,dt,nm,ww,r;document.getElementById("temp").innerHTML=Math.round(j.current.temperature_2m)+"°";document.getElementById("condition").innerHTML=w[0]+" "+w[1];document.getElementById("feels").innerHTML="Gefühlt "+Math.round(j.current.apparent_temperature)+"°";for(i=0;i<4;i++){dt=new Date(j.daily.time[i]+"T12:00:00");nm=i===0?"Heute":DN[dt.getDay()].substr(0,2);ww=wi(j.daily.weather_code[i]);r=j.daily.precipitation_probability_max[i]||0;s+='<div class="day"><div class="dname">'+nm+'</div><div class="ico">'+ww[0]+'</div><div class="temps">'+Math.round(j.daily.temperature_2m_max[i])+'° / '+Math.round(j.daily.temperature_2m_min[i])+'°</div><div class="rain">💧 '+r+'%</div></div>'}document.getElementById("days").innerHTML=s}catch(e){}}};x.open("GET",u,true);x.send()}
+function weather(){var u="https://api.open-meteo.com/v1/forecast?latitude=51.4556&longitude=7.0116&current=temperature_2m,apparent_temperature,weather_code,wind_speed_10m&daily=weather_code,temperature_2m_max,temperature_2m_min,precipitation_probability_max,wind_speed_10m_max&timezone=Europe%2FBerlin&forecast_days=4",x=new XMLHttpRequest();x.onreadystatechange=function(){if(x.readyState===4&&x.status>=200&&x.status<300){try{var j=JSON.parse(x.responseText),w=wi(j.current.weather_code),s="",i,dt,nm,ww,r;document.getElementById("temp").innerHTML=Math.round(j.current.temperature_2m)+"°";document.getElementById("condition").innerHTML=w[0]+" "+w[1];document.getElementById("feels").innerHTML="Gefühlt "+Math.round(j.current.apparent_temperature)+"°";document.getElementById("todayrange").innerHTML="↓ "+Math.round(j.daily.temperature_2m_min[0])+"° &nbsp; ↑ "+Math.round(j.daily.temperature_2m_max[0])+"°";for(i=0;i<4;i++){dt=new Date(j.daily.time[i]+"T12:00:00");nm=i===0?"Heute":DN[dt.getDay()].substr(0,2);ww=wi(j.daily.weather_code[i]);r=j.daily.precipitation_probability_max[i]||0;s+='<div class="day"><div class="dname">'+nm+'</div><div class="ico">'+ww[0]+'</div><div class="temps">'+Math.round(j.daily.temperature_2m_max[i])+'° / '+Math.round(j.daily.temperature_2m_min[i])+'°<div style="font-size:11px;font-weight:500;color:#b8d8e8;margin-top:3px">'+ww[1]+' · Wind '+Math.round(j.daily.wind_speed_10m_max[i])+' km/h</div></div><div class="rain">💧 '+r+'%</div></div>'}document.getElementById("days").innerHTML=s}catch(e){}}};x.open("GET",u,true);x.send()}
 weather();setInterval(weather,900000);
-var feeds=[{cat:"🇩🇪 DEUTSCHLAND",src:"tagesschau.de",url:"https://www.tagesschau.de/xml/rss2"},{cat:"🇹🇷 TÜRKİYE",src:"TRT Haber",url:"https://www.trthaber.com/manset_articles.rss"}],news=[],idx=0,sec=0;
+var feed={cat:"DIE ZEIT",src:"ZEIT ONLINE",url:"https://newsfeed.zeit.de/index"},news=[],idx=0,sec=0;
 function val(n,t){var a=n.getElementsByTagName(t);return a.length?(a[0].textContent||a[0].text||""):""}
-function parse(s,m){var d=(new DOMParser()).parseFromString(s,"text/xml"),a=d.getElementsByTagName("item"),i,t;for(i=0;i<a.length&&i<8;i++){t=val(a[i],"title");if(t)news.push({title:t,cat:m.cat,src:m.src})}}
-function get(m,cb){var x=new XMLHttpRequest(),u="https://api.allorigins.win/raw?url="+encodeURIComponent(m.url);x.onreadystatechange=function(){if(x.readyState===4){if(x.status>=200&&x.status<300){try{parse(x.responseText,m)}catch(e){}}cb()}};x.open("GET",u,true);x.send()}
-function load(){news=[];get(feeds[0],function(){get(feeds[1],function(){if(news.length){idx=0;show()}else{document.getElementById("headline").innerHTML="Nachrichten momentan nicht erreichbar.";document.getElementById("source").innerHTML="Uhr und Wetter laufen weiter."}})})}
+function parse(s){var d=(new DOMParser()).parseFromString(s,"text/xml"),a=d.getElementsByTagName("item"),i,t;news=[];for(i=0;i<a.length&&i<12;i++){t=val(a[i],"title");if(t)news.push({title:t,cat:"DIE ZEIT",src:"ZEIT ONLINE"})}}
+function finishLoad(x){if(x.status>=200&&x.status<300){try{parse(x.responseText)}catch(e){}}if(news.length){idx=0;show()}else{document.getElementById("category").innerHTML="DIE ZEIT";document.getElementById("headline").innerHTML="Nachrichten momentan nicht erreichbar.";document.getElementById("source").innerHTML="ZEIT ONLINE · nächster Versuch automatisch"}}
+function load(){news=[];var x=new XMLHttpRequest(),direct=feed.url;x.onreadystatechange=function(){if(x.readyState===4){if(x.status>=200&&x.status<300){finishLoad(x)}else{var y=new XMLHttpRequest(),proxy="https://api.allorigins.win/raw?url="+encodeURIComponent(feed.url);y.onreadystatechange=function(){if(y.readyState===4)finishLoad(y)};y.open("GET",proxy,true);y.send()}}};x.open("GET",direct,true);x.send()}
 function show(){if(!news.length)return;var n=news[idx%news.length],b=document.getElementById("newsBody");b.className="fade";setTimeout(function(){document.getElementById("category").innerHTML=n.cat;document.getElementById("headline").innerHTML=n.title;document.getElementById("source").innerHTML=n.src;b.className="";},350);sec=0}
 function timer(){sec++;document.getElementById("bar").style.width=Math.min(100,sec*100/15)+"%";document.getElementById("count").innerHTML=Math.max(0,15-sec)+" Sek.";if(sec>=15){sec=0;if(news.length){idx=(idx+1)%news.length;show()}}}
 load();setInterval(timer,1000);setInterval(load,900000);
