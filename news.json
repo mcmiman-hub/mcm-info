@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-11T04:32:07.920574+00:00",
+  "updated": "2026-09-11T04:44:46.917845+00:00",
   "items": [
+    {
+      "title": "Kanton Graubünden: Reisebus umgestürzt: Tödliches Unglück in der Schweiz",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/mehrere-tote-nach-busunfall-in-der-schweiz-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/10/mehrere-tote-nach-busunfall-in-der-schweiz",
+      "published": "Fri, 11 Sep 2026 04:42:11 -0000",
+      "published_display": "11.09.2026 · 04:42 Uhr"
+    },
+    {
+      "title": "Nach Wahl in Sachsen-Anhalt: Senator Grote unterstützt Prüfung von AfD-Verbotsverfahren",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/senator-grote-unterstuetzt-pruefung-von-afd-verbotsverfahren-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/senator-grote-unterstuetzt-pruefung-von-afd-verbotsverfahren",
+      "published": "Fri, 11 Sep 2026 04:35:35 -0000",
+      "published_display": "11.09.2026 · 04:35 Uhr"
+    },
     {
       "title": "Fotografie: Bilder des Tages",
       "summary": "",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/11/trump-show-endet-fuenf-lehren-aus-dem-republikaner-parteitag",
       "published": "Fri, 11 Sep 2026 03:52:56 -0000",
       "published_display": "11.09.2026 · 03:52 Uhr"
-    },
-    {
-      "title": "Wetter: Unbeständiges Wetter am Wochenende erwartet",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/unbestaendiges-wetter-am-wochenende-erwartet-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/unbestaendiges-wetter-am-wochenende-erwartet",
-      "published": "Fri, 11 Sep 2026 03:47:22 -0000",
-      "published_display": "11.09.2026 · 03:47 Uhr"
-    },
-    {
-      "title": "Heim-Turnier in Berlin: Basketball-WM statt Schulkonferenz",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/basketball-wm-statt-schulkonferenz-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/basketball-wm-statt-schulkonferenz",
-      "published": "Fri, 11 Sep 2026 03:46:05 -0000",
-      "published_display": "11.09.2026 · 03:46 Uhr"
     }
   ]
 }
