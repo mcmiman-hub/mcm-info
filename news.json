@@ -1,13 +1,37 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-11T17:16:27.826482+00:00",
+  "updated": "2026-09-11T17:28:45.662513+00:00",
   "items": [
+    {
+      "title": "Abdol-Hossein Sardari: Iranische Pässe gegen den Tod",
+      "summary": "Der iranische Diplomat Abdol-Hossein Sardari rettete in Paris in den 1940er-Jahren Juden vor der Deportation. Mit dem Ausstellen von Pässen! Seine unglaubliche Geschichte",
+      "image": "https://img.zeit.de/2026/37/iranische-paesse-gegen-den-tod-bild-1/original__640x360",
+      "link": "https://www.zeit.de/2026/37/abdol-hossein-sardari-iran-diplomat-nationalsozialismus-paris-juden",
+      "published": "Fri, 11 Sep 2026 17:22:16 -0000",
+      "published_display": "11.09.2026 · 17:22 Uhr"
+    },
+    {
+      "title": "Durchsuchung: 29-Jährige soll Feuer auf Reiterhof gelegt haben",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/29-jaehrige-soll-feuer-auf-reiterhof-gelegt-haben-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/29-jaehrige-soll-feuer-auf-reiterhof-gelegt-haben",
+      "published": "Fri, 11 Sep 2026 17:18:12 -0000",
+      "published_display": "11.09.2026 · 17:18 Uhr"
+    },
     {
       "title": "Haftstrafen in Hongkong: EU und UN kritisieren Urteile gegen Demokratie-Aktivisten in Hongkong",
       "summary": "Drei Aktivisten sollen Haftstrafen verbüßen, weil sie Mahnwachen für das Tiananmen-Massaker organisiert haben. EU und UN fordern eine Aufhebung der Urteile.",
       "image": "https://img.zeit.de/politik/ausland/2026-09/hongkong-haftstrafen-demokratieaktivisten-tiananmen-mahnwache-eu-volker-tuerk-foto-1/original__640x360",
       "link": "https://www.zeit.de/politik/ausland/2026-09/hongkong-haftstrafen-demokratieaktivisten-tiananmen-mahnwache-eu-volker-tuerk",
       "published": "Fri, 11 Sep 2026 17:15:49 -0000",
+      "published_display": "11.09.2026 · 17:15 Uhr"
+    },
+    {
+      "title": "Gefährlicher Straßenverkehr: Sattelzug rollt ohne Fahrer zwei Kilometer über A2",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/sattelzug-rollt-ohne-fahrer-zwei-kilometer-ueber-a2-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/sattelzug-rollt-ohne-fahrer-zwei-kilometer-ueber-a2",
+      "published": "Fri, 11 Sep 2026 17:15:39 -0000",
       "published_display": "11.09.2026 · 17:15 Uhr"
     },
     {
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/11/thueringens-regierungschef-laufe-nicht-vor-problemen-weg",
       "published": "Fri, 11 Sep 2026 16:30:04 -0000",
       "published_display": "11.09.2026 · 16:30 Uhr"
-    },
-    {
-      "title": "Demokratische Republik Kongo: Ebola-Ausbruch auf weitere kongolesische Provinz ausgeweitet",
-      "summary": "Laut dem kongolesischen Forschungsinstitut ist Ebola in einer weiteren Provinz nachgewiesen worden. Es handelt sich offenbar um den sehr ansteckenden Bundibugyo-Virus.",
-      "image": "https://img.zeit.de/gesundheit/2026-09/ebola-ausbruch-demokratische-republik-kongo-bundibugyo-virus-foto-1/original__640x360",
-      "link": "https://www.zeit.de/gesundheit/2026-09/ebola-ausbruch-demokratische-republik-kongo-bundibugyo-virus",
-      "published": "Fri, 11 Sep 2026 16:26:16 -0000",
-      "published_display": "11.09.2026 · 16:26 Uhr"
-    },
-    {
-      "title": "Nikolaus Habjan: »Sie können alles, sogar sterben«",
-      "summary": "Sind Puppen echten Schauspielern überlegen? Ein Gespräch mit dem österreichischen Regisseur Nikolaus Habjan, dessen Figurentheater die großen Bühnen erobert.",
-      "image": "https://img.zeit.de/2026/39/sie-koennen-alles-sogar-sterben-bild-1/original__640x360",
-      "link": "https://www.zeit.de/2026/39/nikolaus-habjan-puppentheater-friedrich-zawrel-elfriede-jelinek",
-      "published": "Fri, 11 Sep 2026 16:23:53 -0000",
-      "published_display": "11.09.2026 · 16:23 Uhr"
-    },
-    {
-      "title": "Uwe Kersten : »Auch meine Enkel werden mit Kies noch Geld verdienen können«",
-      "summary": "Seit 38 Jahren arbeitet Uwe Kersten in einem Kieswerk. Im Podcast erzählt er, warum die Nachfrage nach Kies weiter steigt – und wie sich die Natur alles zurückerobert.",
-      "image": "https://img.zeit.de/arbeit/2026-09/uwe-kersten-kieswerk-arbeit-podcast-bild/original__640x360",
-      "link": "https://www.zeit.de/arbeit/2026-09/uwe-kersten-kieswerk-arbeit-podcast",
-      "published": "Fri, 11 Sep 2026 16:20:37 -0000",
-      "published_display": "11.09.2026 · 16:20 Uhr"
     }
   ]
 }
