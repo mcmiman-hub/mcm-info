@@ -1,7 +1,39 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-11T06:49:00.840457+00:00",
+  "updated": "2026-09-11T06:59:32.005381+00:00",
   "items": [
+    {
+      "title": "Busunglück in der Schweiz: Mehrere Tote bei Busunglück im schweizerischen Engadin",
+      "summary": "Im Engadin ist ein Reisebus aus den Niederlanden mit 48 Reisenden gegen eine Leitplanke gefahren und umgekippt. Die Polizei spricht von mehreren Toten und Verletzten.",
+      "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-09/busunglueck-schweiz-ost-tote-verletzte-polizei-foto-1/original__640x360",
+      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-09/busunglueck-schweiz-ost-tote-verletzte-polizei",
+      "published": "Fri, 11 Sep 2026 06:57:00 -0000",
+      "published_display": "11.09.2026 · 06:57 Uhr"
+    },
+    {
+      "title": "Champions League: Nächster Bayern-Boss soll verlängern: «Kurzfristig lösen»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/naechster-bayern-boss-soll-verlaengern-kurzfristig-loesen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/naechster-bayern-boss-soll-verlaengern-kurzfristig-loesen",
+      "published": "Fri, 11 Sep 2026 06:55:43 -0000",
+      "published_display": "11.09.2026 · 06:55 Uhr"
+    },
+    {
+      "title": "Wiedersehen mit dem Ex-Verein: Vom Fan zum VfB-Vizekapitän: Prömel schreibt Fußball-Märchen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/vom-fan-zum-vfb-vizekapitaen-proemel-schreibt-fussball-maerchen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/vom-fan-zum-vfb-vizekapitaen-proemel-schreibt-fussball-maerchen",
+      "published": "Fri, 11 Sep 2026 06:55:04 -0000",
+      "published_display": "11.09.2026 · 06:55 Uhr"
+    },
+    {
+      "title": "11. September 2001: 9/11",
+      "summary": "Vor 25 Jahren griffen Terroristen das World Trade Center in New York und das Pentagon an. Tausende starben, die Welt wurde eine andere. 9/11 in Grafiken und Zahlen",
+      "image": "https://img.zeit.de/2026/39/11-september-2001-anschlaege-world-trade-center-new-york-statistik-bild/original__640x360",
+      "link": "https://www.zeit.de/2026/39/11-september-2001-anschlaege-world-trade-center-new-york-statistik",
+      "published": "Fri, 11 Sep 2026 06:52:56 -0000",
+      "published_display": "11.09.2026 · 06:52 Uhr"
+    },
     {
       "title": "Offizielle Insolvenz-Statistik: So viele Pleiten wie seit 2013 nicht mehr",
       "summary": "",
@@ -89,38 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/11/dutzende-strafverfahren-nach-kontrollen-in-logistiklager",
       "published": "Fri, 11 Sep 2026 06:08:51 -0000",
       "published_display": "11.09.2026 · 06:08 Uhr"
-    },
-    {
-      "title": "3. Fußball-Liga: Wie Michael Preetz zum Gesicht eines West-Produkts wurde",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/wie-michael-preetz-zum-gesicht-eines-west-produkts-wurde-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/wie-michael-preetz-zum-gesicht-eines-west-produkts-wurde",
-      "published": "Fri, 11 Sep 2026 06:08:43 -0000",
-      "published_display": "11.09.2026 · 06:08 Uhr"
-    },
-    {
-      "title": "Fernsehen: Phänomen «Bergdoktor» – TV-Serie mit Herz und Humor",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/phaenomen-bergdoktor-tv-serie-mit-herz-und-humor-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/phaenomen-bergdoktor-tv-serie-mit-herz-und-humor",
-      "published": "Fri, 11 Sep 2026 06:06:30 -0000",
-      "published_display": "11.09.2026 · 06:06 Uhr"
-    },
-    {
-      "title": "Kriminalität: Schüsse in Berlin-Adlershof – Polizei sucht flüchtigen Täter",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/schuesse-in-berlin-adlershof-polizei-sucht-fluechtigen-taeter-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/schuesse-in-berlin-adlershof-polizei-sucht-fluechtigen-taeter",
-      "published": "Fri, 11 Sep 2026 06:06:23 -0000",
-      "published_display": "11.09.2026 · 06:06 Uhr"
-    },
-    {
-      "title": "Unfälle: Kollision bei Abbiegemanöver: Motorradfahrer verletzt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/kollision-bei-abbiegemanoever-motorradfahrer-verletzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/kollision-bei-abbiegemanoever-motorradfahrer-verletzt",
-      "published": "Fri, 11 Sep 2026 06:04:10 -0000",
-      "published_display": "11.09.2026 · 06:04 Uhr"
     }
   ]
 }
