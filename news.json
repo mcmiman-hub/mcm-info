@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-11T22:54:03.366078+00:00",
+  "updated": "2026-09-11T23:15:14.994720+00:00",
   "items": [
+    {
+      "title": "Vor Wahl zum Abgeordnetenhaus: Wie CDU-Spitzenkandidat Evers den Kanzler wahrnimmt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/wie-cdu-spitzenkandidat-evers-den-kanzler-wahrnimmt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/wie-cdu-spitzenkandidat-evers-den-kanzler-wahrnimmt",
+      "published": "Fri, 11 Sep 2026 23:01:04 -0000",
+      "published_display": "11.09.2026 · 23:01 Uhr"
+    },
+    {
+      "title": "Debatte nach Landtagswahl: Ex-Verfassungsrichter warnt vor Alarmismus nach AfD-Erfolg",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/ex-verfassungsrichter-warnt-vor-alarmismus-nach-afd-erfolg-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/ex-verfassungsrichter-warnt-vor-alarmismus-nach-afd-erfolg",
+      "published": "Fri, 11 Sep 2026 23:00:05 -0000",
+      "published_display": "11.09.2026 · 23:00 Uhr"
+    },
+    {
+      "title": "Humor und Politik: Comedian Durgun: Humor stößt bei AfD-Ergebnis an Grenzen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/comedian-durgun-humor-stoesst-bei-afd-ergebnis-an-grenzen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/comedian-durgun-humor-stoesst-bei-afd-ergebnis-an-grenzen",
+      "published": "Fri, 11 Sep 2026 23:00:04 -0000",
+      "published_display": "11.09.2026 · 23:00 Uhr"
+    },
     {
       "title": "Ost-West-Pipeline: Saudi-Arabien stellt Betrieb wichtiger Ölpipeline nach Angriff ein",
       "summary": "Nach einem Angriff aus dem Irak stoppt Saudi-Arabien den Betrieb der wichtigen Ost-West-Pipeline. Die Regierung will vorerst nicht darauf reagieren.",
@@ -20,7 +44,7 @@
     },
     {
       "title": "11. September 2001: CIA veröffentlicht frühe Berichte mit Warnungen vor Al-Kaida",
-      "summary": "Der US-Geheimdienst hat Berichte aus den drei Jahren vor den Terroranschägen von 9/11 freigegeben. Agenten warnten darin vor möglichen Plänen des Al-Kaida-Netzwerks.",
+      "summary": "Der US-Geheimdienst hat Berichte aus den drei Jahren vor den Terroranschlägen von 9/11 freigegeben. Agenten warnten darin vor möglichen Plänen des Al-Kaida-Netzwerks.",
       "image": "https://img.zeit.de/politik/ausland/2026-09/cia-berichte-anschlaege-11-september-al-kaida-george-w-bush-bill-clinton-foto-1/original__640x360",
       "link": "https://www.zeit.de/politik/ausland/2026-09/cia-berichte-anschlaege-11-september-al-kaida-george-w-bush-bill-clinton",
       "published": "Fri, 11 Sep 2026 22:27:06 -0000",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/11/leipzig-chef-nach-naechster-pleite-wir-bleiben-ruhig",
       "published": "Fri, 11 Sep 2026 21:20:32 -0000",
       "published_display": "11.09.2026 · 21:20 Uhr"
-    },
-    {
-      "title": "Christian von Stetten: Chef von einflussreicher CDU-Parlamentsgruppe fordert Bas’ Rücktritt",
-      "summary": "Bärbel Bas »verschleppe« Reformen, wirft CDU-Politiker Christian von Stetten ihr vor. SPD-Politiker stellen sich hinter sie und mahnen zu Zusammenhalt in der Koalition.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/christian-von-stetten-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/christian-von-stetten-baerbel-bas-ruecktritt-spd",
-      "published": "Fri, 11 Sep 2026 20:57:17 -0000",
-      "published_display": "11.09.2026 · 20:57 Uhr"
-    },
-    {
-      "title": "Energie: Saudi-Arabien schaltet nach Angriffen wichtige Pipeline ab",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/saudi-arabien-schaltet-nach-angriffen-wichtige-pipeline-ab-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/saudi-arabien-schaltet-nach-angriffen-wichtige-pipeline-ab",
-      "published": "Fri, 11 Sep 2026 20:54:52 -0000",
-      "published_display": "11.09.2026 · 20:54 Uhr"
-    },
-    {
-      "title": "25 Jahre nach 9/11: Scholz setzt auf Zuversicht trotz Krisen und Kriegen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/scholz-setzt-auf-zuversicht-trotz-krisen-und-kriegen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/scholz-setzt-auf-zuversicht-trotz-krisen-und-kriegen",
-      "published": "Fri, 11 Sep 2026 20:45:13 -0000",
-      "published_display": "11.09.2026 · 20:45 Uhr"
     }
   ]
 }
