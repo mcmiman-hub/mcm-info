@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-11T22:16:59.653477+00:00",
+  "updated": "2026-09-11T22:28:26.833853+00:00",
   "items": [
+    {
+      "title": "11. September 2001: CIA veröffentlicht frühe Berichte mit Warnungen vor Al-Kaida",
+      "summary": "Der US-Geheimdienst hat Berichte aus den drei Jahren vor den Terroranschägen von 9/11 freigegeben. Agenten warnten darin vor möglichen Plänen des Al-Kaida-Netzwerks.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/cia-berichte-anschlaege-11-september-al-kaida-george-w-bush-bill-clinton-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/cia-berichte-anschlaege-11-september-al-kaida-george-w-bush-bill-clinton",
+      "published": "Fri, 11 Sep 2026 22:27:06 -0000",
+      "published_display": "11.09.2026 · 22:27 Uhr"
+    },
+    {
+      "title": "Tennis: Große Titelchance: Zverev nervenstark ins US-Open-Finale",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/grosse-titelchance-zverev-nervenstark-ins-us-open-finale-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/grosse-titelchance-zverev-nervenstark-ins-us-open-finale",
+      "published": "Fri, 11 Sep 2026 22:16:21 -0000",
+      "published_display": "11.09.2026 · 22:16 Uhr"
+    },
+    {
+      "title": "Tennis: Tennisprofi Zverev erreicht Finale bei US Open",
+      "summary": "",
+      "image": "https://img.zeit.de/administratives/sharing/fallback-image-die-zeit/wide__1300x731",
+      "link": "https://www.zeit.de/news/2026-09/12/tennisprofi-zverev-erreicht-finale-bei-us-open",
+      "published": "Fri, 11 Sep 2026 22:16:19 -0000",
+      "published_display": "11.09.2026 · 22:16 Uhr"
+    },
     {
       "title": "Festspiele MV: Festspielsommer endet – Besucherziel verfehlt",
       "summary": "",
@@ -67,7 +91,7 @@
       "published_display": "11.09.2026 · 21:20 Uhr"
     },
     {
-      "title": "Christian von Stetten: Chef von einflussreicher CDU-Parlamentsgruppe fordert Bas' Rücktritt",
+      "title": "Christian von Stetten: Chef von einflussreicher CDU-Parlamentsgruppe fordert Bas’ Rücktritt",
       "summary": "Bärbel Bas »verschleppe« Reformen, wirft CDU-Politiker Christian von Stetten ihr vor. SPD-Politiker stellen sich hinter sie und mahnen zu Zusammenhalt in der Koalition.",
       "image": "https://img.zeit.de/politik/deutschland/2026-09/christian-von-stetten-bild/original__640x360",
       "link": "https://www.zeit.de/politik/deutschland/2026-09/christian-von-stetten-baerbel-bas-ruecktritt-spd",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/11/arbeitnehmer-wollen-vw-vorstand-zu-gespraechen-zwingen",
       "published": "Fri, 11 Sep 2026 20:43:28 -0000",
       "published_display": "11.09.2026 · 20:43 Uhr"
-    },
-    {
-      "title": "Fußball-Bundesliga: Dank Gosens: Schalke feiert ersten Bundesliga-Sieg seit 2023",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/dank-gosens-schalke-feiert-ersten-bundesliga-sieg-seit-2023-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/dank-gosens-schalke-feiert-ersten-bundesliga-sieg-seit-2023",
-      "published": "Fri, 11 Sep 2026 20:33:37 -0000",
-      "published_display": "11.09.2026 · 20:33 Uhr"
-    },
-    {
-      "title": "Basketball: Starke Towers werfen Seawolves aus dem Pokal",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/starke-towers-werfen-seawolves-aus-dem-pokal-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/starke-towers-werfen-seawolves-aus-dem-pokal",
-      "published": "Fri, 11 Sep 2026 20:21:29 -0000",
-      "published_display": "11.09.2026 · 20:21 Uhr"
-    },
-    {
-      "title": "Ultimate Championship: Hammerwerfer Hummel siegt bei Leichtathletik-Premiere",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/hammerwerfer-hummel-siegt-bei-leichtathletik-premiere-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/hammerwerfer-hummel-siegt-bei-leichtathletik-premiere",
-      "published": "Fri, 11 Sep 2026 20:19:27 -0000",
-      "published_display": "11.09.2026 · 20:19 Uhr"
     }
   ]
 }
