@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-11T00:56:45.200805+00:00",
+  "updated": "2026-09-11T01:16:02.454338+00:00",
   "items": [
+    {
+      "title": "US Open: Aryna Sabalenka erreicht Finale der US Open",
+      "summary": "Zum vierten Mal in Folge hat Aryna Sabalenka sich für die Endrunde der US Open qualifiziert. Dort trifft die Titelverteidigerin auf Coco Gauff oder Jelena Rybakina.",
+      "image": "https://img.zeit.de/sport/2026-09/aryna-sabalenka-us-open/original__640x360",
+      "link": "https://www.zeit.de/sport/2026-09/us-open-tennis-aryna-sabalenka-jessica-pegula-finale",
+      "published": "Fri, 11 Sep 2026 01:12:46 -0000",
+      "published_display": "11.09.2026 · 01:12 Uhr"
+    },
+    {
+      "title": "Verkehr: Abriss von A45-Überführung - so umfährt man die Sperrung",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/abriss-von-a45-ueberfuehrung-so-umfaehrt-man-die-sperrung-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/abriss-von-a45-ueberfuehrung-so-umfaehrt-man-die-sperrung",
+      "published": "Fri, 11 Sep 2026 01:00:06 -0000",
+      "published_display": "11.09.2026 · 01:00 Uhr"
+    },
+    {
+      "title": "Verkehr: Zwei junge Menschen sterben nach Motorradunfall",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/zwei-junge-menschen-sterben-nach-motorradunfall-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/zwei-junge-menschen-sterben-nach-motorradunfall",
+      "published": "Fri, 11 Sep 2026 00:58:23 -0000",
+      "published_display": "11.09.2026 · 00:58 Uhr"
+    },
     {
       "title": "KI von Anthropic: Anthropic warnt vor Nutzung von Claude für Biowaffen",
       "summary": "Die KI-Firma Anthropic hat Anfragen mit Bezug zur Entwicklung von biologischen Waffen unterbunden. Schwer sei oft, medizinische und militärische Zwecke zu unterscheiden.",
@@ -91,36 +115,12 @@
       "published_display": "10.09.2026 · 22:15 Uhr"
     },
     {
-      "title": "AfD und Friedrich Merz: AfD will Merz wegen »verleumderischer Beledigung« anzeigen",
+      "title": "AfD und Friedrich Merz: AfD will Merz wegen »verleumderischer Beleidigung« anzeigen",
       "summary": "Der Bundeskanzler hatte der rechtsextremen Partei vorgehalten, sie plane »ethnische Säuberungen«. AfD-Geschäftsführer Stephan Brandner will dagegen juristisch vorgehen.",
       "image": "https://img.zeit.de/politik/deutschland/2026-09/afd-fraktion-strafanzeige-friedrich-merz-remigration-bundestag-foto-1/original__640x360",
       "link": "https://www.zeit.de/politik/deutschland/2026-09/afd-fraktion-strafanzeige-friedrich-merz-remigration-bundestag",
       "published": "Thu, 10 Sep 2026 22:04:16 -0000",
       "published_display": "10.09.2026 · 22:04 Uhr"
-    },
-    {
-      "title": "Unfälle: Pedelec-Fahrer stürzt - schwere Kopfverletzung",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/pedelec-fahrer-stuerzt-schwere-kopfverletzung-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/pedelec-fahrer-stuerzt-schwere-kopfverletzung",
-      "published": "Thu, 10 Sep 2026 22:04:03 -0000",
-      "published_display": "10.09.2026 · 22:04 Uhr"
-    },
-    {
-      "title": "Deutscher Radiopreis: Radiopreise für 1Live, NDR 2, Deutschlandfunk Nova und mehr",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/radiopreise-fuer-1live-ndr-2-deutschlandfunk-nova-und-mehr-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/radiopreise-fuer-1live-ndr-2-deutschlandfunk-nova-und-mehr",
-      "published": "Thu, 10 Sep 2026 22:01:05 -0000",
-      "published_display": "10.09.2026 · 22:01 Uhr"
-    },
-    {
-      "title": "Basketball-WM: »Mit uns ist nicht zu spaßen«",
-      "summary": "Früher wollten sie nur nicht zu hoch verlieren. Nun schlagen die deutschen Basketballerinnen den Europameister. Im WM-Halbfinale beginnt für sie eine neue Zeitrechnung.",
-      "image": "https://img.zeit.de/sport/2026-09/basketball-wm-deutschland-belgien-bild/original__640x360",
-      "link": "https://www.zeit.de/sport/2026-09/basketball-wm-deutschland-belgien",
-      "published": "Thu, 10 Sep 2026 21:58:35 -0000",
-      "published_display": "10.09.2026 · 21:58 Uhr"
     }
   ]
 }
