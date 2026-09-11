@@ -1,7 +1,71 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-11T10:44:48.716155+00:00",
+  "updated": "2026-09-11T10:55:30.651545+00:00",
   "items": [
+    {
+      "title": "Kriminalität: Sechs Festnahmen, eine Waffe - Familienstreit eskaliert",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/sechs-festnahmen-eine-waffe-familienstreit-eskaliert-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/sechs-festnahmen-eine-waffe-familienstreit-eskaliert",
+      "published": "Fri, 11 Sep 2026 10:53:03 -0000",
+      "published_display": "11.09.2026 · 10:53 Uhr"
+    },
+    {
+      "title": "Fußball: DFB gibt Kosten für Polizeieinsätze an Vereine weiter",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/dfb-gibt-kosten-fuer-polizeieinsaetze-an-vereine-weiter-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/dfb-gibt-kosten-fuer-polizeieinsaetze-an-vereine-weiter",
+      "published": "Fri, 11 Sep 2026 10:48:30 -0000",
+      "published_display": "11.09.2026 · 10:48 Uhr"
+    },
+    {
+      "title": "Fußball-Bundesliga: Ex-Trainer Kwasniok zieht gegen den 1. FC Köln vor Gericht",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/ex-trainer-kwasniok-zieht-gegen-den-1-fc-koeln-vor-gericht-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/ex-trainer-kwasniok-zieht-gegen-den-1-fc-koeln-vor-gericht",
+      "published": "Fri, 11 Sep 2026 10:47:59 -0000",
+      "published_display": "11.09.2026 · 10:47 Uhr"
+    },
+    {
+      "title": "Ulrich Siegmund: Aussage von Ulrich Siegmund zu Abschiebungen sorgt für Empörung",
+      "summary": "Sachsen-Anhalts AfD-Spitzenkandidat Siegmund sieht Rüstungsgüter als »Hilfsmittel« für Abschiebungen. Die Aussage weckt Kritik aus mehreren Parteien, auch aus dem BSW.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/ulrich-siegmund-afd-remigration-ruestungsproduktion-sachsen-anhalt-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/ulrich-siegmund-afd-remigration-ruestungsproduktion-sachsen-anhalt-gxe",
+      "published": "Fri, 11 Sep 2026 10:47:35 -0000",
+      "published_display": "11.09.2026 · 10:47 Uhr"
+    },
+    {
+      "title": "Wirtschaftspolitik: Neues Leitbild soll Sachsens Industrie aus der Krise führen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/neues-leitbild-soll-sachsens-industrie-aus-der-krise-fuehren-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/neues-leitbild-soll-sachsens-industrie-aus-der-krise-fuehren",
+      "published": "Fri, 11 Sep 2026 10:47:13 -0000",
+      "published_display": "11.09.2026 · 10:47 Uhr"
+    },
+    {
+      "title": "DFB-Statistik: Statistik: Vorfälle in Bayerns Fußball unter Bundesschnitt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/statistik-vorfaelle-in-bayerns-fussball-unter-bundesschnitt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/statistik-vorfaelle-in-bayerns-fussball-unter-bundesschnitt",
+      "published": "Fri, 11 Sep 2026 10:45:56 -0000",
+      "published_display": "11.09.2026 · 10:45 Uhr"
+    },
+    {
+      "title": "Kriminalität: Maskierter Täter überfällt Lebensmittelgeschäft",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/maskierter-taeter-ueberfaellt-lebensmittelgeschaeft-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/maskierter-taeter-ueberfaellt-lebensmittelgeschaeft",
+      "published": "Fri, 11 Sep 2026 10:45:51 -0000",
+      "published_display": "11.09.2026 · 10:45 Uhr"
+    },
+    {
+      "title": "Bahnverkehr: Bummelaktion nach Unfall: Polens Fernzüge verspätet",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/bummelaktion-nach-unfall-polens-fernzuege-extrem-verspaetet-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/bummelaktion-nach-unfall-polens-fernzuege-extrem-verspaetet",
+      "published": "Fri, 11 Sep 2026 10:44:28 -0000",
+      "published_display": "11.09.2026 · 10:44 Uhr"
+    },
     {
       "title": "Jemen: Huthi-Miliz erlangt Kontrolle über Insel in Meerenge Bab al-Mandab",
       "summary": "Die Huthis haben die Insel Mayyun eingenommen und könnten damit die Meerenge Bab al-Mandab kontrollieren. Diese zählt zu den weltweit wichtigsten Schifffahrtsstraßen.",
@@ -9,6 +73,14 @@
       "link": "https://www.zeit.de/politik/ausland/2026-09/huthi-miliz-insel-mayyun-bab-al-mandab-jemen",
       "published": "Fri, 11 Sep 2026 10:44:06 -0000",
       "published_display": "11.09.2026 · 10:44 Uhr"
+    },
+    {
+      "title": "Basketball: Alba setzt weiter auf NBA Europe: «Komplizierter Prozess»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/alba-setzt-weiter-auf-nba-europe-komplizierter-prozess-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/alba-setzt-weiter-auf-nba-europe-komplizierter-prozess",
+      "published": "Fri, 11 Sep 2026 10:43:40 -0000",
+      "published_display": "11.09.2026 · 10:43 Uhr"
     },
     {
       "title": "Kartenzahlung: Geschäfte und Gastronomie sollen künftig Kartenzahlung anbieten müssen",
@@ -49,78 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/11/geplanter-anschlag-anklage-gegen-jugendliche-erhoben",
       "published": "Fri, 11 Sep 2026 10:31:54 -0000",
       "published_display": "11.09.2026 · 10:31 Uhr"
-    },
-    {
-      "title": "Landtagswahl in MV: Zweikampf um die Macht im Nordosten spitzt sich zu",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/umfrage-afd-in-mecklenburg-vorpommern-drei-punkte-vor-spd-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/umfrage-afd-in-mecklenburg-vorpommern-drei-punkte-vor-spd",
-      "published": "Fri, 11 Sep 2026 10:30:26 -0000",
-      "published_display": "11.09.2026 · 10:30 Uhr"
-    },
-    {
-      "title": "2. Fußball-Bundesliga: Heidenheim ohne erkrankten Siwsiwadse gegen Kiel",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/heidenheim-ohne-erkrankten-siwsiwadse-gegen-kiel-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/heidenheim-ohne-erkrankten-siwsiwadse-gegen-kiel",
-      "published": "Fri, 11 Sep 2026 10:27:15 -0000",
-      "published_display": "11.09.2026 · 10:27 Uhr"
-    },
-    {
-      "title": "Wasserversorgung: 83 Millionen Euro für mehr Trinkwasser in Sachsen-Anhalt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/83-millionen-euro-fuer-mehr-trinkwasser-in-sachsen-anhalt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/83-millionen-euro-fuer-mehr-trinkwasser-in-sachsen-anhalt",
-      "published": "Fri, 11 Sep 2026 10:25:12 -0000",
-      "published_display": "11.09.2026 · 10:25 Uhr"
-    },
-    {
-      "title": "Hefte, Füllhalter, Schulranzen: Diese Schulsachen sind 2026 teurer - und diese günstiger",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/diese-schulsachen-sind-2026-teurer-und-diese-guenstiger-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/diese-schulsachen-sind-2026-teurer-und-diese-guenstiger",
-      "published": "Fri, 11 Sep 2026 10:25:11 -0000",
-      "published_display": "11.09.2026 · 10:25 Uhr"
-    },
-    {
-      "title": "Vor Kommunalwahlen: Lies verteidigt Ausschluss von vier AfD-Kandidaten",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/lies-verteidigt-ausschluss-von-vier-afd-kandidaten-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/lies-verteidigt-ausschluss-von-vier-afd-kandidaten",
-      "published": "Fri, 11 Sep 2026 10:25:01 -0000",
-      "published_display": "11.09.2026 · 10:25 Uhr"
-    },
-    {
-      "title": "Nach Probebohrungen: 89.000 Unterschriften für Stopp von Ölförderung in Ostsee",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/89-000-unterschriften-fuer-stopp-von-oelfoerderung-in-ostsee-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/89-000-unterschriften-fuer-stopp-von-oelfoerderung-in-ostsee",
-      "published": "Fri, 11 Sep 2026 10:22:59 -0000",
-      "published_display": "11.09.2026 · 10:22 Uhr"
-    },
-    {
-      "title": "Zugunglück: Mann nach tödlicher ICE-Kollision in Hamburg angeklagt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/mann-nach-toedlicher-ice-kollision-in-hamburg-angeklagt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/mann-nach-toedlicher-ice-kollision-in-hamburg-angeklagt",
-      "published": "Fri, 11 Sep 2026 10:22:50 -0000",
-      "published_display": "11.09.2026 · 10:22 Uhr"
-    },
-    {
-      "title": "Wahl zum Abgeordnetenhaus: Wahl-O-Mat zählt mehr Nutzer als bei Wiederholungswahl 2023",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/wahl-o-mat-zaehlt-mehr-nutzer-als-bei-wiederholungswahl-2023-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/wahl-o-mat-zaehlt-mehr-nutzer-als-bei-wiederholungswahl-2023",
-      "published": "Fri, 11 Sep 2026 10:20:35 -0000",
-      "published_display": "11.09.2026 · 10:20 Uhr"
-    },
-    {
-      "title": "US-Kongress: Kann der US-Kongress Trump gefährlich werden?",
-      "summary": "Die Midterms werden die Mehrheitsverhältnisse im US-Kongress verändern. Welche Befugnisse haben die beiden Kammern? Und wie arbeiten sie mit dem US-Präsidenten zusammen?",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/us-kongress-midterms-senat-repraesentantenhaus-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-08/us-kongress-midterms-senat-repraesentantenhaus-gxe",
-      "published": "Fri, 11 Sep 2026 10:20:05 -0000",
-      "published_display": "11.09.2026 · 10:20 Uhr"
     }
   ]
 }
