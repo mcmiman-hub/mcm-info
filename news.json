@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-11T21:54:11.950373+00:00",
+  "updated": "2026-09-11T22:16:59.653477+00:00",
   "items": [
+    {
+      "title": "Festspiele MV: Festspielsommer endet – Besucherziel verfehlt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/festspielsommer-endet-besucherziel-verfehlt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/festspielsommer-endet-besucherziel-verfehlt",
+      "published": "Fri, 11 Sep 2026 22:01:05 -0000",
+      "published_display": "11.09.2026 · 22:01 Uhr"
+    },
+    {
+      "title": "Kalenderblatt: Was geschah am 12. September?",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/was-geschah-am-12-september-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/was-geschah-am-12-september",
+      "published": "Fri, 11 Sep 2026 21:55:04 -0000",
+      "published_display": "11.09.2026 · 21:55 Uhr"
+    },
     {
       "title": "Wahlkampf: AfD-Kandidat Holm in MV: «Reiche allen die Hand»",
       "summary": "",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/11/hammerwerfer-hummel-siegt-bei-leichtathletik-premiere",
       "published": "Fri, 11 Sep 2026 20:19:27 -0000",
       "published_display": "11.09.2026 · 20:19 Uhr"
-    },
-    {
-      "title": "Umgekippter Gefahrguttransport: A6 bei Heilbronn noch länger beidseitig voll gesperrt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/lastwagen-mit-gefahrgut-kippt-a6-voll-gesperrt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/lastwagen-mit-gefahrgut-kippt-a6-voll-gesperrt",
-      "published": "Fri, 11 Sep 2026 20:16:32 -0000",
-      "published_display": "11.09.2026 · 20:16 Uhr"
-    },
-    {
-      "title": "Fußball-Bundesliga: Gerach verletzt: Referee-Wechsel bei Union gegen Schalke",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/gerach-verletzt-referee-wechsel-bei-union-gegen-schalke-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/gerach-verletzt-referee-wechsel-bei-union-gegen-schalke",
-      "published": "Fri, 11 Sep 2026 20:12:48 -0000",
-      "published_display": "11.09.2026 · 20:12 Uhr"
     }
   ]
 }
