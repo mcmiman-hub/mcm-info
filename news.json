@@ -1,14 +1,110 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-11T05:55:36.164741+00:00",
+  "updated": "2026-09-11T06:22:45.952632+00:00",
   "items": [
+    {
+      "title": "Verkehr: Mann fährt betrunken mit Elektromobil für Kranke",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/mann-faehrt-betrunken-mit-elektromobil-fuer-kranke-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/mann-faehrt-betrunken-mit-elektromobil-fuer-kranke",
+      "published": "Fri, 11 Sep 2026 06:18:08 -0000",
+      "published_display": "11.09.2026 · 06:18 Uhr"
+    },
+    {
+      "title": "Erschütterungen: Erdbeben bei Mannheim: Keine Schäden oder Verletzte gemeldet",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/erdbeben-bei-mannheim-keine-schaeden-oder-verletzte-gemeldet-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/erdbeben-bei-mannheim-keine-schaeden-oder-verletzte-gemeldet",
+      "published": "Fri, 11 Sep 2026 06:17:41 -0000",
+      "published_display": "11.09.2026 · 06:17 Uhr"
+    },
+    {
+      "title": "Nahverkehr: Streik bei der Saarbahn geht in weitere Runde",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/streik-bei-der-saarbahn-geht-in-weitere-runde-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/streik-bei-der-saarbahn-geht-in-weitere-runde",
+      "published": "Fri, 11 Sep 2026 06:15:41 -0000",
+      "published_display": "11.09.2026 · 06:15 Uhr"
+    },
+    {
+      "title": "Bahnverkehr: Bummelaktion nach Unfall: Polens Fernzüge extrem verspätet",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/bummelaktion-nach-unfall-polens-fernzuege-extrem-verspaetet-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/bummelaktion-nach-unfall-polens-fernzuege-extrem-verspaetet",
+      "published": "Fri, 11 Sep 2026 06:13:01 -0000",
+      "published_display": "11.09.2026 · 06:13 Uhr"
+    },
+    {
+      "title": "Fußball-Bundesliga: Augsburgs nächster Coup? «Lasst euch überraschen»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/augsburgs-naechster-coup-lasst-euch-ueberraschen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/augsburgs-naechster-coup-lasst-euch-ueberraschen",
+      "published": "Fri, 11 Sep 2026 06:11:04 -0000",
+      "published_display": "11.09.2026 · 06:11 Uhr"
+    },
     {
       "title": "Hafenstadt Mokka im Jemen: Saudi-Arabien kündigt Gegenmaßnahmen nach Huthi-Angriffen an",
       "summary": "Huthi-Rebellen haben die strategisch wichtige jemenitische Hafenstadt Mokka besetzt. Saudi-Arabien will gegen die vom Iran unterstützten Rebellen vorgehen.",
       "image": "https://img.zeit.de/politik/ausland/2026-09/mokka-jemen-huthi-hafen-bab-al-mandab-saudi-arabien-foto-1/original__640x360",
       "link": "https://www.zeit.de/politik/ausland/2026-09/mokka-jemen-huthi-hafen-bab-al-mandab-saudi-arabien",
-      "published": "Fri, 11 Sep 2026 05:53:14 -0000",
-      "published_display": "11.09.2026 · 05:53 Uhr"
+      "published": "Fri, 11 Sep 2026 06:09:12 -0000",
+      "published_display": "11.09.2026 · 06:09 Uhr"
+    },
+    {
+      "title": "Zoll: Dutzende Strafverfahren nach Kontrollen in Logistiklager",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/dutzende-strafverfahren-nach-kontrollen-in-logistiklager-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/dutzende-strafverfahren-nach-kontrollen-in-logistiklager",
+      "published": "Fri, 11 Sep 2026 06:08:51 -0000",
+      "published_display": "11.09.2026 · 06:08 Uhr"
+    },
+    {
+      "title": "3. Fußball-Liga: Wie Michael Preetz zum Gesicht eines West-Produkts wurde",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/wie-michael-preetz-zum-gesicht-eines-west-produkts-wurde-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/wie-michael-preetz-zum-gesicht-eines-west-produkts-wurde",
+      "published": "Fri, 11 Sep 2026 06:08:43 -0000",
+      "published_display": "11.09.2026 · 06:08 Uhr"
+    },
+    {
+      "title": "Fernsehen: Phänomen «Bergdoktor» – TV-Serie mit Herz und Humor",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/phaenomen-bergdoktor-tv-serie-mit-herz-und-humor-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/phaenomen-bergdoktor-tv-serie-mit-herz-und-humor",
+      "published": "Fri, 11 Sep 2026 06:06:30 -0000",
+      "published_display": "11.09.2026 · 06:06 Uhr"
+    },
+    {
+      "title": "Kriminalität: Schüsse in Berlin-Adlershof – Polizei sucht flüchtigen Täter",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/schuesse-in-berlin-adlershof-polizei-sucht-fluechtigen-taeter-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/schuesse-in-berlin-adlershof-polizei-sucht-fluechtigen-taeter",
+      "published": "Fri, 11 Sep 2026 06:06:23 -0000",
+      "published_display": "11.09.2026 · 06:06 Uhr"
+    },
+    {
+      "title": "Unfälle: Kollision bei Abbiegemanöver: Motorradfahrer verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/kollision-bei-abbiegemanoever-motorradfahrer-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/kollision-bei-abbiegemanoever-motorradfahrer-verletzt",
+      "published": "Fri, 11 Sep 2026 06:04:10 -0000",
+      "published_display": "11.09.2026 · 06:04 Uhr"
+    },
+    {
+      "title": "Brand: 300.000 Euro Schaden an Einfamilienhaus durch Feuer",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/300-000-euro-schaden-an-einfamilienhaus-durch-feuer-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/300-000-euro-schaden-an-einfamilienhaus-durch-feuer",
+      "published": "Fri, 11 Sep 2026 05:59:17 -0000",
+      "published_display": "11.09.2026 · 05:59 Uhr"
+    },
+    {
+      "title": "Unfälle: Lkw kracht nach Reifenpanne durch Betonleitplanke auf A14",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/lkw-kracht-nach-reifenpanne-durch-betonleitplanke-auf-a14-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/lkw-kracht-nach-reifenpanne-durch-betonleitplanke-auf-a14",
+      "published": "Fri, 11 Sep 2026 05:55:23 -0000",
+      "published_display": "11.09.2026 · 05:55 Uhr"
     },
     {
       "title": "Autobahnunfälle: Unfälle auf A3 und A66 mit Verletzten und Vollsperrungen",
@@ -25,102 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/11/alkoholisierter-autofahrer-faehrt-mit-nur-drei-reifen",
       "published": "Fri, 11 Sep 2026 05:51:09 -0000",
       "published_display": "11.09.2026 · 05:51 Uhr"
-    },
-    {
-      "title": "AfD in Sachsen-Anhalt: Frieden mit Russland? Schön wär’s, AfD",
-      "summary": "Die AfD will mit Russland verhandeln. Tatsächlich gibt es längst Gespräche. Aber Putin macht deutlich, was er von ihnen hält.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/afd-sachsen-anhalt-ukraine-russland-5v8-bild-3/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/afd-sachsen-anhalt-ukraine-russland-5v8",
-      "published": "Fri, 11 Sep 2026 05:43:44 -0000",
-      "published_display": "11.09.2026 · 05:43 Uhr"
-    },
-    {
-      "title": "Vor Berlin-Wahl: SPD-Spitzenkandidat Krach: «Vorwürfe gegen mich unbegründet»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/spd-spitzenkandidat-krach-vorwuerfe-gegen-mich-unbegruendet-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/spd-spitzenkandidat-krach-vorwuerfe-gegen-mich-unbegruendet",
-      "published": "Fri, 11 Sep 2026 05:40:22 -0000",
-      "published_display": "11.09.2026 · 05:40 Uhr"
-    },
-    {
-      "title": "Vor der Abgeordnetenhauswahl: Umfrage zur Berlin-Wahl: Linke knapp vor CDU",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/umfrage-zur-berlin-wahl-linke-knapp-vor-cdu-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/umfrage-zur-berlin-wahl-linke-knapp-vor-cdu",
-      "published": "Fri, 11 Sep 2026 05:30:05 -0000",
-      "published_display": "11.09.2026 · 05:30 Uhr"
-    },
-    {
-      "title": "Vor der Landtagswahl: Umfrage: AfD in Mecklenburg-Vorpommern drei Punkte vor SPD",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/umfrage-afd-in-mecklenburg-vorpommern-drei-punkte-vor-spd-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/umfrage-afd-in-mecklenburg-vorpommern-drei-punkte-vor-spd",
-      "published": "Fri, 11 Sep 2026 05:30:04 -0000",
-      "published_display": "11.09.2026 · 05:30 Uhr"
-    },
-    {
-      "title": "Tennis in New York: Mit Obama als Fan: Nummer eins und zwei ins US-Open-Finale",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/mit-obama-als-fan-nummer-eins-und-zwei-ins-us-open-finale-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/mit-obama-als-fan-nummer-eins-und-zwei-ins-us-open-finale",
-      "published": "Fri, 11 Sep 2026 05:29:16 -0000",
-      "published_display": "11.09.2026 · 05:29 Uhr"
-    },
-    {
-      "title": "Wahlkampf-Event in Texas: Trump-Show endet: Fünf Lehren aus dem Republikaner-Parteitag",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/trump-show-endet-fuenf-lehren-aus-dem-republikaner-parteitag-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/trump-show-endet-fuenf-lehren-aus-dem-republikaner-parteitag",
-      "published": "Fri, 11 Sep 2026 05:28:09 -0000",
-      "published_display": "11.09.2026 · 05:28 Uhr"
-    },
-    {
-      "title": "Kinder und Materialismus: »Eltern sollten ihr Kind nicht für jede Kleinigkeit belohnen«",
-      "summary": "Möglichst schnell reich werden – davon träumen heute schon Kinder. Die Konsumforscherin Lan Nguyen Chaplin erklärt, warum Jugendliche so auf Geld und Status fixiert sind.",
-      "image": "https://img.zeit.de/familie/2026-09/kinder-jugendliche-materialismus-lan-nguyen-chaplin-reichtum-bild/original__640x360",
-      "link": "https://www.zeit.de/familie/2026-09/kinder-jugendliche-materialismus-lan-nguyen-chaplin-reichtum",
-      "published": "Fri, 11 Sep 2026 05:26:54 -0000",
-      "published_display": "11.09.2026 · 05:26 Uhr"
-    },
-    {
-      "title": "KI von Anthropic: Anthropic warnt vor Nutzung von Claude für Biowaffen",
-      "summary": "Die KI-Firma Anthropic hat Anfragen mit Bezug zur Entwicklung von Biowaffen unterbunden. Außerdem gab es Spionageversuche gegen Regierungsgegner aus dem Iran und China.",
-      "image": "https://img.zeit.de/digital/2026-09/ki-anthropic-claude-biowaffen-forschung-blockade-foto-1/original__640x360",
-      "link": "https://www.zeit.de/digital/2026-09/ki-anthropic-claude-biowaffen-forschung-blockade",
-      "published": "Fri, 11 Sep 2026 05:26:43 -0000",
-      "published_display": "11.09.2026 · 05:26 Uhr"
-    },
-    {
-      "title": "Wetter: Freundlicher Start ins Wochenende – Am Sonntag Regen möglich",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/freundlicher-start-ins-wochenende-am-sonntag-regen-moeglich-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/freundlicher-start-ins-wochenende-am-sonntag-regen-moeglich",
-      "published": "Fri, 11 Sep 2026 05:22:39 -0000",
-      "published_display": "11.09.2026 · 05:22 Uhr"
-    },
-    {
-      "title": "Sonne und Regen: Über 25 Grad warm am Freitag und Samstag – Regen am Sonntag",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/ueber-25-grad-warm-am-freitag-und-samstag-regen-am-sonntag-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/ueber-25-grad-warm-am-freitag-und-samstag-regen-am-sonntag",
-      "published": "Fri, 11 Sep 2026 05:22:02 -0000",
-      "published_display": "11.09.2026 · 05:22 Uhr"
-    },
-    {
-      "title": "Spaziergang mit Löwin: Löwenfreundschaft: Der Mann vom Bodensee und das Raubtier",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/loewenfreundschaft-der-mann-vom-bodensee-und-das-raubtier-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/loewenfreundschaft-der-mann-vom-bodensee-und-das-raubtier",
-      "published": "Fri, 11 Sep 2026 05:20:04 -0000",
-      "published_display": "11.09.2026 · 05:20 Uhr"
-    },
-    {
-      "title": "Bedrohung durch Russland: Polen meldet Abwehr von Bedrohung an Grenzübergang zur Ukraine",
-      "summary": "Donald Tusk hat erneut vor russischen Provokationen an der Nato-Ostgrenze gewarnt. Dabei geht er auf Geheimdienstinformationen der USA ein, die mit ihm geteilt wurden.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/polen-grenze-ukraine-donald-tusk-russland-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/polen-grenze-ukraine-donald-tusk-russland",
-      "published": "Fri, 11 Sep 2026 05:17:23 -0000",
-      "published_display": "11.09.2026 · 05:17 Uhr"
     }
   ]
 }
