@@ -1,14 +1,86 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-11T11:43:23.843077+00:00",
+  "updated": "2026-09-11T11:54:24.355898+00:00",
   "items": [
     {
-      "title": "Terrororganisation Hamas: Mutmaßliche Hamas-Helfer wegen Anschlagsvorbereitung angeklagt",
+      "title": "Bildung: Mehr als 1,77 Millionen Schüler – Lehrermangel bleibt Thema",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/ministerin-zum-schulstart-stabile-unterrichtsversorgung-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/ministerin-zum-schulstart-stabile-unterrichtsversorgung",
+      "published": "Fri, 11 Sep 2026 11:51:43 -0000",
+      "published_display": "11.09.2026 · 11:51 Uhr"
+    },
+    {
+      "title": "Hazel Brugger: »Mama braucht Ruhe«",
+      "summary": "Im Wochenendpodcast berichtet Hazel Brugger von den Supermarkt-Abenteuern mit ihren Kindern – und von einem überraschenden Dialog mit einer KI.",
+      "image": "https://img.zeit.de/entdecken/2026-09/hazel-brugger-wochenende-bild/original__640x360",
+      "link": "https://www.zeit.de/entdecken/2026-09/hazel-brugger-kinder-ki-wochenende-tipps-podcast",
+      "published": "Fri, 11 Sep 2026 11:50:41 -0000",
+      "published_display": "11.09.2026 · 11:50 Uhr"
+    },
+    {
+      "title": "Terrororganisation Hamas: Mutmaßliche Hamas-Helfer in Berlin angeklagt",
       "summary": "Die Bundesanwaltschaft hat sieben mutmaßliche Mitglieder der radikalislamischen Hamas angeklagt. Die Männer sollen an der Beschaffung von Waffen beteiligt gewesen sein.",
       "image": "https://img.zeit.de/politik/deutschland/2026-09/mutmassliche-hamas-helfer-in-berlin-anklage-waffenbeschaffung-bild/original__640x360",
       "link": "https://www.zeit.de/politik/deutschland/2026-09/mutmassliche-hamas-helfer-in-berlin-anklage-waffenbeschaffung",
-      "published": "Fri, 11 Sep 2026 11:41:15 -0000",
-      "published_display": "11.09.2026 · 11:41 Uhr"
+      "published": "Fri, 11 Sep 2026 11:49:47 -0000",
+      "published_display": "11.09.2026 · 11:49 Uhr"
+    },
+    {
+      "title": "Notfälle: Polizist erschießt angreifenden Hund",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/polizist-erschiesst-angreifenden-hund-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/polizist-erschiesst-angreifenden-hund",
+      "published": "Fri, 11 Sep 2026 11:44:35 -0000",
+      "published_display": "11.09.2026 · 11:44 Uhr"
+    },
+    {
+      "title": "Bundesliga: Fußballvereine müssen Polizeikosten laut DFB mittragen",
+      "summary": "Wer zahlt nach Bundesligaspielen für Polizeikosten? Ein Urteil aus Karlsruhe erlaubt den Bundesländern, sehr hohe Rechnungen dem DFB zu schicken. Der zeigt auf die Klubs.",
+      "image": "https://img.zeit.de/sport/2026-09/polizeikosten-dfb-fussballspiele-bernd-neuendorf-foto-1/original__640x360",
+      "link": "https://www.zeit.de/sport/2026-09/polizeikosten-dfb-fussballspiele-bernd-neuendorf",
+      "published": "Fri, 11 Sep 2026 11:44:33 -0000",
+      "published_display": "11.09.2026 · 11:44 Uhr"
+    },
+    {
+      "title": "Einsatz in Bruchsal: Verdächtige Flüssigkeit nach Einbruch gefunden",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/verdaechtige-fluessigkeit-nach-einbruch-gefunden-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/verdaechtige-fluessigkeit-nach-einbruch-gefunden",
+      "published": "Fri, 11 Sep 2026 11:44:28 -0000",
+      "published_display": "11.09.2026 · 11:44 Uhr"
+    },
+    {
+      "title": "Airline Emirates: Deutsche Airlines kritisieren zusätzliche Flugrechte für Emirates",
+      "summary": "Emirates darf künftig fünf statt bisher vier deutsche Flughäfen anfliegen. Die Ausweitung der Rechte sorgt für Kritik der deutschen Fluggesellschaften.",
+      "image": "https://img.zeit.de/mobilitaet/2026-09/emirates-flugrechte-airline-bundesregierung-deutschland-foto-1/original__640x360",
+      "link": "https://www.zeit.de/mobilitaet/2026-09/emirates-flugrechte-airline-bundesregierung-deutschland",
+      "published": "Fri, 11 Sep 2026 11:44:18 -0000",
+      "published_display": "11.09.2026 · 11:44 Uhr"
+    },
+    {
+      "title": "Geldpolitik: Lagarde: «Inflation wird schlimmer, bevor sie besser wird»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/lagarde-inflation-wird-schlimmer-bevor-sie-besser-wird-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/lagarde-inflation-wird-schlimmer-bevor-sie-besser-wird",
+      "published": "Fri, 11 Sep 2026 11:42:48 -0000",
+      "published_display": "11.09.2026 · 11:42 Uhr"
+    },
+    {
+      "title": "Rüstung und Remigration: Empörung über Rüstungsaussage von AfD-Spitzenmann Siegmund",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/afd-spitzenkandidat-sorgt-mit-ruestungsaussage-fuer-empoerung-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/afd-spitzenkandidat-sorgt-mit-ruestungsaussage-fuer-empoerung",
+      "published": "Fri, 11 Sep 2026 11:42:39 -0000",
+      "published_display": "11.09.2026 · 11:42 Uhr"
+    },
+    {
+      "title": "Leicht verletzt: Passanten retten 90-Jährige bei Brand aus Wohnhaus",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/passanten-retten-90-jaehrige-bei-brand-aus-wohnhaus-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/passanten-retten-90-jaehrige-bei-brand-aus-wohnhaus",
+      "published": "Fri, 11 Sep 2026 11:42:08 -0000",
+      "published_display": "11.09.2026 · 11:42 Uhr"
     },
     {
       "title": "Coliforme Bakterien: Märkisch-Oderland: Orte müssen weiter Wasser abkochen",
@@ -49,78 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/11/nach-cokaj-verletzung-bochum-setzt-wohl-auf-talent-meyer",
       "published": "Fri, 11 Sep 2026 11:31:33 -0000",
       "published_display": "11.09.2026 · 11:31 Uhr"
-    },
-    {
-      "title": "Wirtschaftspolitik: Neues Leitbild soll Sachsens Industrie aus der Krise führen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/neues-leitbild-soll-sachsens-industrie-aus-der-krise-fuehren-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/neues-leitbild-soll-sachsens-industrie-aus-der-krise-fuehren",
-      "published": "Fri, 11 Sep 2026 11:30:08 -0000",
-      "published_display": "11.09.2026 · 11:30 Uhr"
-    },
-    {
-      "title": "Bierzelte auf Oktoberfest: Gericht prüft Wiesn-Zulassung: EU-Ausschreibung nicht nötig?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/wer-bekommt-ein-wiesnzelt-gericht-prueft-zulassungsregeln-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/wer-bekommt-ein-wiesnzelt-gericht-prueft-zulassungsregeln",
-      "published": "Fri, 11 Sep 2026 11:29:38 -0000",
-      "published_display": "11.09.2026 · 11:29 Uhr"
-    },
-    {
-      "title": "Pläne des Finanzministeriums: Schluss mit «Cash only»: Läden sollen Karten akzeptieren",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/schluss-mit-cash-only-laeden-sollen-karten-akzeptieren-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/schluss-mit-cash-only-laeden-sollen-karten-akzeptieren",
-      "published": "Fri, 11 Sep 2026 11:28:56 -0000",
-      "published_display": "11.09.2026 · 11:28 Uhr"
-    },
-    {
-      "title": "Gesundheit: Aus für Info-Pflicht: Wie bemerkt man höhere Kassenbeiträge?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/aus-fuer-info-pflicht-wie-bemerkt-man-hoehere-kassenbeitraege-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/aus-fuer-info-pflicht-wie-bemerkt-man-hoehere-kassenbeitraege",
-      "published": "Fri, 11 Sep 2026 11:28:49 -0000",
-      "published_display": "11.09.2026 · 11:28 Uhr"
-    },
-    {
-      "title": "Kinder- und Jugendschutz: Karin Prien will zeitnah Eckpunkte für Kinderschutz im Netz vorlegen",
-      "summary": "Die Bundesbildungsministerin will die Empfehlungen einer Expertenkommission zum besseren Schutz von Kindern im Netz rasch umsetzen. Im Oktober sollen Eckpunkte stehen.",
-      "image": "https://img.zeit.de/bildung/2026-09/kinder-jugendschutz-social-media-karin-prien-cdu-mindestalter-handyverbot-foto-1/original__640x360",
-      "link": "https://www.zeit.de/bildung/2026-09/kinder-jugendschutz-social-media-karin-prien-cdu-mindestalter-handyverbot",
-      "published": "Fri, 11 Sep 2026 11:28:08 -0000",
-      "published_display": "11.09.2026 · 11:28 Uhr"
-    },
-    {
-      "title": "Spannung im Untergrund: «Dreiländerbeben» - Warum am Rhein die Erde gezittert hat",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/dreilaenderbeben-warum-am-rhein-die-erde-gezittert-hat-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/dreilaenderbeben-warum-am-rhein-die-erde-gezittert-hat",
-      "published": "Fri, 11 Sep 2026 11:27:22 -0000",
-      "published_display": "11.09.2026 · 11:27 Uhr"
-    },
-    {
-      "title": "Bundesliga: Elversberg mit Spaß und Mut gegen die Bayern",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/elversberg-mit-spass-und-mut-gegen-die-bayern-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/elversberg-mit-spass-und-mut-gegen-die-bayern",
-      "published": "Fri, 11 Sep 2026 11:21:27 -0000",
-      "published_display": "11.09.2026 · 11:21 Uhr"
-    },
-    {
-      "title": "Kriminalität: Mutmaßliche Hamas-Waffenbeschaffer in Berlin angeklagt",
-      "summary": "",
-      "image": "https://img.zeit.de/administratives/sharing/fallback-image-die-zeit/wide__1300x731",
-      "link": "https://www.zeit.de/news/2026-09/11/mutmassliche-hamas-waffenbeschaffer-in-berlin-angeklagt",
-      "published": "Fri, 11 Sep 2026 11:20:39 -0000",
-      "published_display": "11.09.2026 · 11:20 Uhr"
-    },
-    {
-      "title": "Verkehrsunfall: Bus bremst abrupt - sieben Fahrgäste verletzt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/bus-bremst-abrupt-sieben-fahrgaeste-verletzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/bus-bremst-abrupt-sieben-fahrgaeste-verletzt",
-      "published": "Fri, 11 Sep 2026 11:20:37 -0000",
-      "published_display": "11.09.2026 · 11:20 Uhr"
     }
   ]
 }
