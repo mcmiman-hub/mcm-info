@@ -1,9 +1,97 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-11T13:44:57.920561+00:00",
+  "updated": "2026-09-11T13:56:01.610056+00:00",
   "items": [
     {
-      "title": "Berlin: Kommission sieht Behördenversagen bei sexueller Gewalt in Jugendclub",
+      "title": "Fotografie: Bilder des Tages",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/bilder-des-tages-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/bilder-des-tages",
+      "published": "Fri, 11 Sep 2026 13:54:04 -0000",
+      "published_display": "11.09.2026 · 13:54 Uhr"
+    },
+    {
+      "title": "Nahverkehr: Dritter Streik an einem Tag bei der Saarbahn angekündigt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/streik-bei-der-saarbahn-geht-in-weitere-runde-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/streik-bei-der-saarbahn-geht-in-weitere-runde",
+      "published": "Fri, 11 Sep 2026 13:54:00 -0000",
+      "published_display": "11.09.2026 · 13:54 Uhr"
+    },
+    {
+      "title": "WM der Frauen: Plötzlich Weltklasse: Basketballerinnen leben ihren WM-Traum",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/ploetzlich-weltklasse-basketballerinnen-leben-ihren-wm-traum-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/ploetzlich-weltklasse-basketballerinnen-leben-ihren-wm-traum",
+      "published": "Fri, 11 Sep 2026 13:53:55 -0000",
+      "published_display": "11.09.2026 · 13:53 Uhr"
+    },
+    {
+      "title": "Feuer: Ein Schwerverletzter bei Brand auf Düsseldorfer Automeile",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/ein-schwerverletzter-bei-brand-auf-duesseldorfer-automeile-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/ein-schwerverletzter-bei-brand-auf-duesseldorfer-automeile",
+      "published": "Fri, 11 Sep 2026 13:53:41 -0000",
+      "published_display": "11.09.2026 · 13:53 Uhr"
+    },
+    {
+      "title": "Unbekannter Täter: Morddrohung gegen Charlotte Knobloch nach AfD-Wahlsieg",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/morddrohung-gegen-charlotte-knobloch-nach-afd-wahlsieg-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/morddrohung-gegen-charlotte-knobloch-nach-afd-wahlsieg",
+      "published": "Fri, 11 Sep 2026 13:50:15 -0000",
+      "published_display": "11.09.2026 · 13:50 Uhr"
+    },
+    {
+      "title": "Bundesliga: DFB hebt Sperre für Elversberg-Trainer nach Schiedsrichter-Aussage auf",
+      "summary": "Der Schiedsrichter Martin Petersen zeigte dem Trainer des SV Elversberg eine umstrittene gelb-rote Karte. Das bedauert er jetzt, der DFB hob die Sperre ausnahmsweise auf.",
+      "image": "https://img.zeit.de/sport/2026-09/vincent-wagner-dfb-sportgericht-sv-elversberg-sperre-foto-1/original__640x360",
+      "link": "https://www.zeit.de/sport/2026-09/vincent-wagner-dfb-sportgericht-sv-elversberg-sperre",
+      "published": "Fri, 11 Sep 2026 13:50:12 -0000",
+      "published_display": "11.09.2026 · 13:50 Uhr"
+    },
+    {
+      "title": "Drogenhandel: Mutmaßliche Drogendealer in Mehrfamilienhaus festgenommen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/mutmassliche-drogendealer-in-mehrfamilienhaus-festgenommen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/mutmassliche-drogendealer-in-mehrfamilienhaus-festgenommen",
+      "published": "Fri, 11 Sep 2026 13:49:06 -0000",
+      "published_display": "11.09.2026 · 13:49 Uhr"
+    },
+    {
+      "title": "Fußball: Eintracht Frankfurt stattet Talent mit Profivertrag aus",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/eintracht-frankfurt-stattet-talent-mit-profivertrag-aus-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/eintracht-frankfurt-stattet-talent-mit-profivertrag-aus",
+      "published": "Fri, 11 Sep 2026 13:48:36 -0000",
+      "published_display": "11.09.2026 · 13:48 Uhr"
+    },
+    {
+      "title": "Thüringer Landtag: AfD-Fraktion beantragt Abstimmung zur Auflösung des Thüringer Landtags",
+      "summary": "Die AfD-Fraktion im Thüringer Landtag hat einen wenig aussichtsreichen Antrag zur Auflösung des Parlaments gestellt. Für Neuwahlen wäre eine Zweidrittelmehrheit nötig.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/thueringer-landtag-afd-aufloesung-abstimmung-bjoern-hoecke-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/thueringer-landtag-afd-aufloesung-abstimmung-bjoern-hoecke",
+      "published": "Fri, 11 Sep 2026 13:47:20 -0000",
+      "published_display": "11.09.2026 · 13:47 Uhr"
+    },
+    {
+      "title": "Gesellschaft: Gauck: «Wir im Osten sind total gespalten»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/gauck-wir-im-osten-sind-total-gespalten-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/gauck-wir-im-osten-sind-total-gespalten",
+      "published": "Fri, 11 Sep 2026 13:45:59 -0000",
+      "published_display": "11.09.2026 · 13:45 Uhr"
+    },
+    {
+      "title": "Arbeitsunfall: Arbeiter gerät in Siebanlage und wird schwer verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/arbeiter-geraet-in-siebanlage-und-wird-schwer-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/arbeiter-geraet-in-siebanlage-und-wird-schwer-verletzt",
+      "published": "Fri, 11 Sep 2026 13:43:26 -0000",
+      "published_display": "11.09.2026 · 13:43 Uhr"
+    },
+    {
+      "title": "Berlin: Kommission sieht Behördenversagen bei sexueller Gewalt in Jugendklub",
       "summary": "Eine 16-Jährige erhielt vom Jugendamt kaum Unterstützung nach einer mutmaßlichen Vergewaltigung. Eine Untersuchungskommission geht nicht von bewusster Vertuschung aus.",
       "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-09/jugendzentrum-neukoelln-vergewaltigung-jugendamt-gropiusstadt-sarah-nagel-foto-1/original__640x360",
       "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-09/berlin-neukoelln-jugendclub-sexuelle-gewalt-aufarbeitung-kommission",
@@ -33,94 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/11/wer-bekommt-ein-wiesnzelt-gericht-prueft-zulassungsregeln",
       "published": "Fri, 11 Sep 2026 13:39:14 -0000",
       "published_display": "11.09.2026 · 13:39 Uhr"
-    },
-    {
-      "title": "Kriminalität: Brandanschlag auf Kohlebahn: Keine Hinweise auf Tatmotiv",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/brandanschlag-auf-kohlebahn-keine-hinweise-auf-tatmotiv-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/brandanschlag-auf-kohlebahn-keine-hinweise-auf-tatmotiv",
-      "published": "Fri, 11 Sep 2026 13:39:03 -0000",
-      "published_display": "11.09.2026 · 13:39 Uhr"
-    },
-    {
-      "title": "Luftverkehr: Drohnen: Zahl der Ordnungswidrigkeiten steigt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/drohnen-zahl-der-ordnungswidrigkeiten-steigt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/drohnen-zahl-der-ordnungswidrigkeiten-steigt",
-      "published": "Fri, 11 Sep 2026 13:38:53 -0000",
-      "published_display": "11.09.2026 · 13:38 Uhr"
-    },
-    {
-      "title": "Thüringer Landtag: AfD-Fraktion beantragt Abstimmung zur Auflösung des Thüringer Landtags",
-      "summary": "Die AfD-Fraktion im Thüringer Landtag hat einen wenig aussichtsreichen Antrag zur Auflösung des Parlaments gestellt. Für Neuwahlen wäre eine Zweidrittelmehrheit nötig.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/thueringer-landtag-afd-aufloesung-abstimmung-bjoern-hoecke-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/thueringer-landtag-afd-aufloesung-abstimmung-bjoern-hoecke",
-      "published": "Fri, 11 Sep 2026 13:38:44 -0000",
-      "published_display": "11.09.2026 · 13:38 Uhr"
-    },
-    {
-      "title": "Einsatz in Bruchsal: Verdächtige Flüssigkeit nach Einbruch gefunden",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/verdaechtige-fluessigkeit-nach-einbruch-gefunden-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/verdaechtige-fluessigkeit-nach-einbruch-gefunden",
-      "published": "Fri, 11 Sep 2026 13:36:42 -0000",
-      "published_display": "11.09.2026 · 13:36 Uhr"
-    },
-    {
-      "title": "Erfolg der AfD: Die allerletzte Chance der Regierung",
-      "summary": "Der AfD-Sieg in Sachsen-Anhalt könnte zur Katastrophe führen. Oder zu einem Wandel zum Besseren. Doch dafür müssten Kanzler Merz und seine Koalition radikal umsteuern.",
-      "image": "https://img.zeit.de/wirtschaft/2026-09/erfolg-afd-sachsen-anhalt-bundesregierung-reformen-bild/original__640x360",
-      "link": "https://www.zeit.de/wirtschaft/2026-09/erfolg-afd-sachsen-anhalt-bundesregierung-reformen",
-      "published": "Fri, 11 Sep 2026 13:35:25 -0000",
-      "published_display": "11.09.2026 · 13:35 Uhr"
-    },
-    {
-      "title": "Fahrzeug brennt aus: Oldtimer fängt an Zapfsäule Feuer",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/oldtimer-faengt-an-zapfsaeule-feuer-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/oldtimer-faengt-an-zapfsaeule-feuer",
-      "published": "Fri, 11 Sep 2026 13:32:08 -0000",
-      "published_display": "11.09.2026 · 13:32 Uhr"
-    },
-    {
-      "title": "Umstrittenes Energieprojekt: BUND klagt gegen Atomproduktion für russische Reaktoren",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/bund-klagt-gegen-atomproduktion-fuer-russische-reaktoren-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/bund-klagt-gegen-atomproduktion-fuer-russische-reaktoren",
-      "published": "Fri, 11 Sep 2026 13:28:06 -0000",
-      "published_display": "11.09.2026 · 13:28 Uhr"
-    },
-    {
-      "title": "Tödlicher Verkehrsunfall: Motorradfahrer stirbt bei Unfall in Hamburg-Neuallermöhe",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/motorradfahrer-stirbt-bei-unfall-in-hamburg-neuallermoehe-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/motorradfahrer-stirbt-bei-unfall-in-hamburg-neuallermoehe",
-      "published": "Fri, 11 Sep 2026 13:27:35 -0000",
-      "published_display": "11.09.2026 · 13:27 Uhr"
-    },
-    {
-      "title": "Kommunalwahl: Briefwahlunterlagen vorzeitig geöffnet",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/briefwahlunterlagen-vorzeitig-geoeffnet-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/briefwahlunterlagen-vorzeitig-geoeffnet",
-      "published": "Fri, 11 Sep 2026 13:26:47 -0000",
-      "published_display": "11.09.2026 · 13:26 Uhr"
-    },
-    {
-      "title": "Karlsruher SC: Rätsel um Broschinski - KSC-Stürmer fällt weiter aus",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/raetsel-um-broschinski-ksc-stuermer-faellt-weiter-aus-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/raetsel-um-broschinski-ksc-stuermer-faellt-weiter-aus",
-      "published": "Fri, 11 Sep 2026 13:23:11 -0000",
-      "published_display": "11.09.2026 · 13:23 Uhr"
-    },
-    {
-      "title": "Gesellschaft: Gauck: «Wir im Osten sind total gespalten»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/gauck-wir-im-osten-sind-total-gespalten-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/gauck-wir-im-osten-sind-total-gespalten",
-      "published": "Fri, 11 Sep 2026 13:22:12 -0000",
-      "published_display": "11.09.2026 · 13:22 Uhr"
     }
   ]
 }
