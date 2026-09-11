@@ -1,7 +1,71 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-11T08:33:38.851475+00:00",
+  "updated": "2026-09-11T08:47:05.371332+00:00",
   "items": [
+    {
+      "title": "Mohn-Pfannkuchen mit Zwetschgenröster: Sieben Zwetschgen und ein Pfannkuchen",
+      "summary": "Die Zwetschgenzeit ist eine schöne Zeit. Doch immer nur Kuchen? Also gibt es einen unfassbar dicken Pfannkuchen – mit Zwetschgenröster. Haben ja noch so viele Zwetschgen!",
+      "image": "https://img.zeit.de/zeit-magazin/wochenmarkt/2026-09/mohn-pfannkuchen-mit-zwetschgenroester-suesser-sonntag/original__640x360",
+      "link": "https://www.zeit.de/zeit-magazin/2026-09/mohn-pfannkuchen-zwetschgenroester-backen-sonntag-rezept",
+      "published": "Fri, 11 Sep 2026 08:43:48 -0000",
+      "published_display": "11.09.2026 · 08:43 Uhr"
+    },
+    {
+      "title": "16 Monate Bauzeit: Bahnhof Fangschleuse bei Tesla-Werk feierlich eröffnet",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/bahnhof-fangschleuse-bei-tesla-werk-feierlich-eroeffnet-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/bahnhof-fangschleuse-bei-tesla-werk-feierlich-eroeffnet",
+      "published": "Fri, 11 Sep 2026 08:43:29 -0000",
+      "published_display": "11.09.2026 · 08:43 Uhr"
+    },
+    {
+      "title": "Kommunalwahl: Briefwahlunterlagen vorzeitig geöffnet",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/briefwahlunterlagen-vorzeitig-geoeffnet-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/briefwahlunterlagen-vorzeitig-geoeffnet",
+      "published": "Fri, 11 Sep 2026 08:38:02 -0000",
+      "published_display": "11.09.2026 · 08:38 Uhr"
+    },
+    {
+      "title": "WM der Frauen: Plötzlich Weltklasse: Basketballerinnen leben ihren WM-Traum",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/ploetzlich-weltklasse-basketballerinnen-leben-ihren-wm-traum-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/ploetzlich-weltklasse-basketballerinnen-leben-ihren-wm-traum",
+      "published": "Fri, 11 Sep 2026 08:37:41 -0000",
+      "published_display": "11.09.2026 · 08:37 Uhr"
+    },
+    {
+      "title": "Wahl in Sachsen-Anhalt: Laschet kritisiert fehlenden Beistand der Ministerpräsidenten für Merz",
+      "summary": "Am Abend der Sachsen-Anhalt-Wahl habe das CDU-Präsidium ohne mehrere Länderchefs getagt, beklagt Armin Laschet. Er wirft ihnen mangelnde Solidarität mit dem Kanzler vor.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/armin-laschet-cdu-friedrich-merz-sachsen-anhalt-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/armin-laschet-cdu-friedrich-merz-sachsen-anhalt",
+      "published": "Fri, 11 Sep 2026 08:36:40 -0000",
+      "published_display": "11.09.2026 · 08:36 Uhr"
+    },
+    {
+      "title": "Rüstung und Remigration: Empörung über AfD-Spitzenmann Siegmund wegen Rüstungsaussage",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/afd-spitzenkandidat-sorgt-mit-ruestungsaussage-fuer-empoerung-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/afd-spitzenkandidat-sorgt-mit-ruestungsaussage-fuer-empoerung",
+      "published": "Fri, 11 Sep 2026 08:36:32 -0000",
+      "published_display": "11.09.2026 · 08:36 Uhr"
+    },
+    {
+      "title": "Kommunalwahlen: Rollt die «blaue Welle» jetzt nach Niedersachsen?",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/rollt-die-blaue-welle-jetzt-nach-niedersachsen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/rollt-die-blaue-welle-jetzt-nach-niedersachsen",
+      "published": "Fri, 11 Sep 2026 08:33:33 -0000",
+      "published_display": "11.09.2026 · 08:33 Uhr"
+    },
+    {
+      "title": "Verhandlungen ab Oktober: IG Metall: Was die Beschäftigten von der Tarifrunde erwarten",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/ig-metall-was-die-beschaeftigten-von-der-tarifrunde-erwarten-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/ig-metall-was-die-beschaeftigten-von-der-tarifrunde-erwarten",
+      "published": "Fri, 11 Sep 2026 08:32:18 -0000",
+      "published_display": "11.09.2026 · 08:32 Uhr"
+    },
     {
       "title": "Oberschule in Pankow: Mensch sprüht Reizspray in Klassenzimmer",
       "summary": "",
@@ -25,22 +89,6 @@
       "link": "https://www.zeit.de/politik/deutschland/2026-09/energiekrise-ausgaben-bund-strompreisbremse-gaspreisbremse",
       "published": "Fri, 11 Sep 2026 08:28:22 -0000",
       "published_display": "11.09.2026 · 08:28 Uhr"
-    },
-    {
-      "title": "Rüstung und Remigration: AfD-Spitzenkandidat sorgt mit Rüstungsaussage für Empörung",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/afd-spitzenkandidat-sorgt-mit-ruestungsaussage-fuer-empoerung-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/afd-spitzenkandidat-sorgt-mit-ruestungsaussage-fuer-empoerung",
-      "published": "Fri, 11 Sep 2026 08:26:05 -0000",
-      "published_display": "11.09.2026 · 08:26 Uhr"
-    },
-    {
-      "title": "Wahl in Sachsen-Anhalt: Laschet kritisiert fehlenden Beistand von Ministerpräsidenten für Merz",
-      "summary": "Am Abend der Sachsen-Anhalt-Wahl habe das CDU-Präsidium ohne mehrere Länderchefs getagt, beklagt Armin Laschet. Er wirft ihnen mangelnde Solidarität mit dem Kanzler vor.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/armin-laschet-cdu-friedrich-merz-sachsen-anhalt-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/armin-laschet-cdu-friedrich-merz-sachsen-anhalt",
-      "published": "Fri, 11 Sep 2026 08:23:42 -0000",
-      "published_display": "11.09.2026 · 08:23 Uhr"
     },
     {
       "title": "Krieg im Iran: US-Diesel kostet erstmals 6 US-Dollar pro Gallone",
@@ -73,54 +121,6 @@
       "link": "https://www.zeit.de/politik/deutschland/2026-09/landtagswahl-mecklenburg-vorpommern-umfrage-afd-cdu-spd",
       "published": "Fri, 11 Sep 2026 08:18:40 -0000",
       "published_display": "11.09.2026 · 08:18 Uhr"
-    },
-    {
-      "title": "Künstliche Intelligenz: KI-Firma Anthropic wirft chinesischen Rivalen Schummelei vor",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/ki-firma-anthropic-wirft-chinesischen-rivalen-schummelei-vor-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/ki-firma-anthropic-wirft-chinesischen-rivalen-schummelei-vor",
-      "published": "Fri, 11 Sep 2026 08:11:29 -0000",
-      "published_display": "11.09.2026 · 08:11 Uhr"
-    },
-    {
-      "title": "Ermittlungen gegen Krach: Durchsuchungen im Wahlkampf: Ist das erlaubt?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/durchsuchungen-im-wahlkampf-ist-das-erlaubt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/durchsuchungen-im-wahlkampf-ist-das-erlaubt",
-      "published": "Fri, 11 Sep 2026 08:11:28 -0000",
-      "published_display": "11.09.2026 · 08:11 Uhr"
-    },
-    {
-      "title": "Ferienende: Diese Dinge vergessen Reisende am Stuttgarter Flughafen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/diese-dinge-vergessen-reisende-am-stuttgarter-flughafen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/diese-dinge-vergessen-reisende-am-stuttgarter-flughafen",
-      "published": "Fri, 11 Sep 2026 08:08:32 -0000",
-      "published_display": "11.09.2026 · 08:08 Uhr"
-    },
-    {
-      "title": "Veganes Bánh mì : Die Königin unter den Sandwiches",
-      "summary": "Was draufkommt, ist Geschmackssache! Wo sonst Schwein dominiert, glänzt hier gebratener und marinierter Tofu zwischen den knusprigen Baguettehälften. Chúc ngon miệng!",
-      "image": "https://img.zeit.de/zeit-magazin/wochenmarkt/2025-11/vegan-banh-mi-rezept-wochenmarkt-bild/original__640x360",
-      "link": "https://www.zeit.de/zeit-magazin/wochenmarkt/2025-11/vegan-banh-mi-rezept-wochenmarkt",
-      "published": "Fri, 11 Sep 2026 08:06:17 -0000",
-      "published_display": "11.09.2026 · 08:06 Uhr"
-    },
-    {
-      "title": "Fußball-Bundesliga: Königsdörffers Jubel in Hamburg: Zeichen gegen Beleidigungen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/koenigsdoerffers-jubel-in-hamburg-zeichen-gegen-beleidigungen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/koenigsdoerffers-jubel-in-hamburg-zeichen-gegen-beleidigungen",
-      "published": "Fri, 11 Sep 2026 08:02:10 -0000",
-      "published_display": "11.09.2026 · 08:02 Uhr"
-    },
-    {
-      "title": "Kanton Graubünden: Fünf Tote bei Unfall von niederländischem Bus in der Schweiz",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/mehrere-tote-nach-busunfall-in-der-schweiz-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/10/mehrere-tote-nach-busunfall-in-der-schweiz",
-      "published": "Fri, 11 Sep 2026 08:00:41 -0000",
-      "published_display": "11.09.2026 · 08:00 Uhr"
     }
   ]
 }
