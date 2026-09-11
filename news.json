@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-11T00:25:35.241314+00:00",
+  "updated": "2026-09-11T00:46:57.039542+00:00",
   "items": [
+    {
+      "title": "Treibstoffpreise: Ölpreis erreicht höchsten Stand seit Mai",
+      "summary": "Wegen erneuter Angriffe in der Straße von Hormus ist der Preis von Rohöl wieder gestiegen. In den USA kostet Diesel erstmals mehr als sechs ​Dollar pro Gallone.",
+      "image": "https://img.zeit.de/wirtschaft/2026-09/oelpreis-brent-nordsee-strasse-von-hormus-usa-iran-foto-1/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/2026-09/oelpreis-brent-nordsee-strasse-von-hormus-usa-iran",
+      "published": "Fri, 11 Sep 2026 00:43:46 -0000",
+      "published_display": "11.09.2026 · 00:43 Uhr"
+    },
+    {
+      "title": "Künstliche Intelligenz: KI-Firma Anthropic wirft chinesischen Rivalen Schummelei vor",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/ki-firma-anthropic-wirft-chinesischen-rivalen-schummelei-vor-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/ki-firma-anthropic-wirft-chinesischen-rivalen-schummelei-vor",
+      "published": "Fri, 11 Sep 2026 00:37:26 -0000",
+      "published_display": "11.09.2026 · 00:37 Uhr"
+    },
+    {
+      "title": "Kanton Graubünden: Reisebus umgestürzt: Tödliches Unglück in der Schweiz",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/mehrere-tote-nach-busunfall-in-der-schweiz-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/10/mehrere-tote-nach-busunfall-in-der-schweiz",
+      "published": "Fri, 11 Sep 2026 00:28:40 -0000",
+      "published_display": "11.09.2026 · 00:28 Uhr"
+    },
     {
       "title": "Debatte um Frührente: Schnieder fordert Finanzcheck für «Rente mit 63»",
       "summary": "",
@@ -51,14 +75,6 @@
       "published_display": "10.09.2026 · 23:00 Uhr"
     },
     {
-      "title": "Tödlicher Unfall in Graubünden: Reiseorganisation bestürzt über Busunglück in der Schweiz",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/mehrere-tote-nach-busunfall-in-der-schweiz-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/10/mehrere-tote-nach-busunfall-in-der-schweiz",
-      "published": "Thu, 10 Sep 2026 22:35:36 -0000",
-      "published_display": "10.09.2026 · 22:35 Uhr"
-    },
-    {
       "title": "US Open: Deutsches Doppel Krawietz und Pütz stehen im Finale der US Open",
       "summary": "Kevin Krawietz und Tim Pütz haben die dreimaligen US-Open-Gewinner Rajeev Ram und Joe Salisbury besiegt. Das deutsche Doppel kann auf den ersten Grand Slam Titel hoffen.",
       "image": "https://img.zeit.de/2026-09/2026-09-07t183856z-2132921392-mt1zuma000kkc4yc-rtrmadp-3-zuma-bild/original__640x360",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/10/was-geschah-am-11-september",
       "published": "Thu, 10 Sep 2026 21:55:04 -0000",
       "published_display": "10.09.2026 · 21:55 Uhr"
-    },
-    {
-      "title": "Ermittlungen: SPD-Kandidat Krach unter Druck: Verdacht auf Vorteilsannahme",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/10/spd-kandidat-will-trotz-ermittlungen-um-waehlerstimmen-werben-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/10/spd-kandidat-will-trotz-ermittlungen-um-waehlerstimmen-werben",
-      "published": "Thu, 10 Sep 2026 21:36:39 -0000",
-      "published_display": "10.09.2026 · 21:36 Uhr"
-    },
-    {
-      "title": "Vor Berlin-Wahl: Berliner SPD-Kandidat Krach weist Vorwürfe erneut zurück",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/10/berliner-spd-kandidat-krach-weist-vorwuerfe-erneut-zurueck-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/10/berliner-spd-kandidat-krach-weist-vorwuerfe-erneut-zurueck",
-      "published": "Thu, 10 Sep 2026 21:36:19 -0000",
-      "published_display": "10.09.2026 · 21:36 Uhr"
     }
   ]
 }
