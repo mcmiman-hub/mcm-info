@@ -1,7 +1,63 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-11T08:56:44.043961+00:00",
+  "updated": "2026-09-11T09:17:53.088583+00:00",
   "items": [
+    {
+      "title": "Kommunalwahl: Briefwahlunterlagen vorzeitig geöffnet",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/briefwahlunterlagen-vorzeitig-geoeffnet-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/briefwahlunterlagen-vorzeitig-geoeffnet",
+      "published": "Fri, 11 Sep 2026 09:15:47 -0000",
+      "published_display": "11.09.2026 · 09:15 Uhr"
+    },
+    {
+      "title": "Rentenreform: Bärbel Bas verteidigt Rentenreform",
+      "summary": "Bundesarbeitsministerin Bärbel Bas hat sich im Bundestag hinter die geplante Rentenreform gestellt. Angehenden Rentnerinnen und Rentnern sagt sie »Vertrauensschutz« zu.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/rentenreform-baerbel-bas-spd-rente-mit-63-abschaffung-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/rentenreform-baerbel-bas-spd-rente-mit-63-abschaffung",
+      "published": "Fri, 11 Sep 2026 09:08:25 -0000",
+      "published_display": "11.09.2026 · 09:08 Uhr"
+    },
+    {
+      "title": "Konflikte: Huthi erobern Insel in wichtiger Meerenge Bab al-Mandab",
+      "summary": "",
+      "image": "https://img.zeit.de/administratives/sharing/fallback-image-die-zeit/wide__1300x731",
+      "link": "https://www.zeit.de/news/2026-09/11/huthi-erobern-insel-in-wichtiger-meerenge-bab-al-mandab",
+      "published": "Fri, 11 Sep 2026 09:03:26 -0000",
+      "published_display": "11.09.2026 · 09:03 Uhr"
+    },
+    {
+      "title": "Landtag: Land bekennt sich zu Hochschulen - Aber reicht das Geld?",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/land-bekennt-sich-zu-hochschulen-aber-reicht-das-geld-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/land-bekennt-sich-zu-hochschulen-aber-reicht-das-geld",
+      "published": "Fri, 11 Sep 2026 09:00:39 -0000",
+      "published_display": "11.09.2026 · 09:00 Uhr"
+    },
+    {
+      "title": "Bilanz Landwirtschaftsverband: Hitze und Trockenheit schlecht für Mais und Kartoffeln",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/hitze-und-trockenheit-schlecht-fuer-mais-und-kartoffeln-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/hitze-und-trockenheit-schlecht-fuer-mais-und-kartoffeln",
+      "published": "Fri, 11 Sep 2026 09:00:05 -0000",
+      "published_display": "11.09.2026 · 09:00 Uhr"
+    },
+    {
+      "title": "Sirenen funktionieren: Landeshauptstadt zieht nach Warntag «positive Bilanz»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/landeshauptstadt-zieht-nach-warntag-positive-bilanz-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/landeshauptstadt-zieht-nach-warntag-positive-bilanz",
+      "published": "Fri, 11 Sep 2026 08:59:28 -0000",
+      "published_display": "11.09.2026 · 08:59 Uhr"
+    },
+    {
+      "title": "Busunglück in der Schweiz: Fünf Tote bei Busunglück im schweizerischen Engadin",
+      "summary": "Im Engadin ist ein Reisebus aus den Niederlanden mit 45 Insassen gegen eine Leitplanke gefahren und umgekippt. Fünf Menschen kamen bei dem schweren Unfall ums Leben.",
+      "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-09/busunglueck-schweiz-ost-tote-verletzte-polizei-foto-1/original__640x360",
+      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-09/busunglueck-schweiz-ost-tote-verletzte-polizei-gxe",
+      "published": "Fri, 11 Sep 2026 08:57:58 -0000",
+      "published_display": "11.09.2026 · 08:57 Uhr"
+    },
     {
       "title": "Zeugensuche: Unbekannte legten Feuer - mehrere Stromleitungen beschädigt",
       "summary": "",
@@ -65,62 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/11/bahnhof-fangschleuse-bei-tesla-werk-feierlich-eroeffnet",
       "published": "Fri, 11 Sep 2026 08:43:29 -0000",
       "published_display": "11.09.2026 · 08:43 Uhr"
-    },
-    {
-      "title": "Kommunalwahl: Briefwahlunterlagen vorzeitig geöffnet",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/briefwahlunterlagen-vorzeitig-geoeffnet-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/briefwahlunterlagen-vorzeitig-geoeffnet",
-      "published": "Fri, 11 Sep 2026 08:38:02 -0000",
-      "published_display": "11.09.2026 · 08:38 Uhr"
-    },
-    {
-      "title": "WM der Frauen: Plötzlich Weltklasse: Basketballerinnen leben ihren WM-Traum",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/ploetzlich-weltklasse-basketballerinnen-leben-ihren-wm-traum-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/ploetzlich-weltklasse-basketballerinnen-leben-ihren-wm-traum",
-      "published": "Fri, 11 Sep 2026 08:37:41 -0000",
-      "published_display": "11.09.2026 · 08:37 Uhr"
-    },
-    {
-      "title": "Wahl in Sachsen-Anhalt: Laschet kritisiert fehlenden Beistand der Ministerpräsidenten für Merz",
-      "summary": "Am Abend der Sachsen-Anhalt-Wahl habe das CDU-Präsidium ohne mehrere Länderchefs getagt, beklagt Armin Laschet. Er wirft ihnen mangelnde Solidarität mit dem Kanzler vor.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/armin-laschet-cdu-friedrich-merz-sachsen-anhalt-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/armin-laschet-cdu-friedrich-merz-sachsen-anhalt",
-      "published": "Fri, 11 Sep 2026 08:36:40 -0000",
-      "published_display": "11.09.2026 · 08:36 Uhr"
-    },
-    {
-      "title": "Rüstung und Remigration: Empörung über AfD-Spitzenmann Siegmund wegen Rüstungsaussage",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/afd-spitzenkandidat-sorgt-mit-ruestungsaussage-fuer-empoerung-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/afd-spitzenkandidat-sorgt-mit-ruestungsaussage-fuer-empoerung",
-      "published": "Fri, 11 Sep 2026 08:36:32 -0000",
-      "published_display": "11.09.2026 · 08:36 Uhr"
-    },
-    {
-      "title": "Kommunalwahlen: Rollt die «blaue Welle» jetzt nach Niedersachsen?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/rollt-die-blaue-welle-jetzt-nach-niedersachsen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/rollt-die-blaue-welle-jetzt-nach-niedersachsen",
-      "published": "Fri, 11 Sep 2026 08:33:33 -0000",
-      "published_display": "11.09.2026 · 08:33 Uhr"
-    },
-    {
-      "title": "Verhandlungen ab Oktober: IG Metall: Was die Beschäftigten von der Tarifrunde erwarten",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/ig-metall-was-die-beschaeftigten-von-der-tarifrunde-erwarten-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/ig-metall-was-die-beschaeftigten-von-der-tarifrunde-erwarten",
-      "published": "Fri, 11 Sep 2026 08:32:18 -0000",
-      "published_display": "11.09.2026 · 08:32 Uhr"
-    },
-    {
-      "title": "Oberschule in Pankow: Mensch sprüht Reizspray in Klassenzimmer",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/mensch-sprueht-reizspray-in-klassenzimmer-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/mensch-sprueht-reizspray-in-klassenzimmer",
-      "published": "Fri, 11 Sep 2026 08:30:03 -0000",
-      "published_display": "11.09.2026 · 08:30 Uhr"
     }
   ]
 }
