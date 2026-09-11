@@ -1,13 +1,61 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-11T06:59:32.005381+00:00",
+  "updated": "2026-09-11T07:18:26.182175+00:00",
   "items": [
     {
       "title": "Busunglück in der Schweiz: Mehrere Tote bei Busunglück im schweizerischen Engadin",
-      "summary": "Im Engadin ist ein Reisebus aus den Niederlanden mit 48 Reisenden gegen eine Leitplanke gefahren und umgekippt. Die Polizei spricht von mehreren Toten und Verletzten.",
+      "summary": "Im Engadin ist ein Reisebus aus den Niederlanden mit 48 Insassen gegen eine Leitplanke gefahren und umgekippt. Die Polizei spricht von mehreren Toten und Verletzten.",
       "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-09/busunglueck-schweiz-ost-tote-verletzte-polizei-foto-1/original__640x360",
       "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-09/busunglueck-schweiz-ost-tote-verletzte-polizei",
-      "published": "Fri, 11 Sep 2026 06:57:00 -0000",
+      "published": "Fri, 11 Sep 2026 07:08:41 -0000",
+      "published_display": "11.09.2026 · 07:08 Uhr"
+    },
+    {
+      "title": "Wetter: Im Nordwesten steht ein wechselhaftes Wochenende bevor",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/im-nordwesten-steht-ein-wechselhaftes-wochenende-bevor-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/im-nordwesten-steht-ein-wechselhaftes-wochenende-bevor",
+      "published": "Fri, 11 Sep 2026 07:08:16 -0000",
+      "published_display": "11.09.2026 · 07:08 Uhr"
+    },
+    {
+      "title": "Ermittlungen vor Berlin-Wahl: Krach: Fühle Unterstützung der Berliner SPD",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/krach-fuehle-unterstuetzung-der-berliner-spd-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/krach-fuehle-unterstuetzung-der-berliner-spd",
+      "published": "Fri, 11 Sep 2026 07:07:00 -0000",
+      "published_display": "11.09.2026 · 07:07 Uhr"
+    },
+    {
+      "title": "Ukrainekarte aktuell: Ukrainische Armee verteidigt Stellungen südöstlich von Slowjansk",
+      "summary": "Die Ukraine kontrolliert Gelände bei Rai-Oleksandriwka, das russische Truppen für sich beansprucht hatten. Russland infiltriert Gebiete bei Dobropillja und Nowopawliwka.",
+      "image": "https://img.zeit.de/politik/ausland/2023-09/karte-ukraine-krieg-russland-frontverlauf-truppenbewegungen-teaserbild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/ukraine-russland-frontverlauf-krieg-karte-aktuell",
+      "published": "Fri, 11 Sep 2026 07:06:52 -0000",
+      "published_display": "11.09.2026 · 07:06 Uhr"
+    },
+    {
+      "title": "Unternehmensinsolvenzen: Zahl der Firmenpleiten steigt auf höchsten Stand seit 13 Jahren",
+      "summary": "In diesem Jahr sind so viele Anträge auf Unternehmensinsolvenz eingegangen, wie seit 2013 nicht mehr. Auch die Zahl der Verbraucherinsolvenzen stieg im ersten Halbjahr.",
+      "image": "https://img.zeit.de/wirtschaft/unternehmen/2026-09/unternehmensinsolvenzen-statistik-glaeubigerforderungen-baugewerbe-verkehr-foto-1/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/unternehmen/2026-09/unternehmensinsolvenzen-statistik-glaeubigerforderungen-baugewerbe-verkehr",
+      "published": "Fri, 11 Sep 2026 07:04:16 -0000",
+      "published_display": "11.09.2026 · 07:04 Uhr"
+    },
+    {
+      "title": "Aussichten: Wechselhaftes Wetter im Nordosten",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/wechselhaftes-wetter-im-nordosten-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/wechselhaftes-wetter-im-nordosten",
+      "published": "Fri, 11 Sep 2026 07:03:31 -0000",
+      "published_display": "11.09.2026 · 07:03 Uhr"
+    },
+    {
+      "title": "Stationäre Behandlung: Etwas mehr Patienten in Krankenhäusern in NRW aufgenommen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/etwas-mehr-patienten-in-krankenhaeusern-in-nrw-aufgenommen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/etwas-mehr-patienten-in-krankenhaeusern-in-nrw-aufgenommen",
+      "published": "Fri, 11 Sep 2026 06:57:41 -0000",
       "published_display": "11.09.2026 · 06:57 Uhr"
     },
     {
@@ -73,54 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/11/herbstwetter-im-norden",
       "published": "Fri, 11 Sep 2026 06:29:08 -0000",
       "published_display": "11.09.2026 · 06:29 Uhr"
-    },
-    {
-      "title": "Verkehr: Mann fährt betrunken mit Elektromobil für Kranke",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/mann-faehrt-betrunken-mit-elektromobil-fuer-kranke-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/mann-faehrt-betrunken-mit-elektromobil-fuer-kranke",
-      "published": "Fri, 11 Sep 2026 06:18:08 -0000",
-      "published_display": "11.09.2026 · 06:18 Uhr"
-    },
-    {
-      "title": "Erschütterungen: Erdbeben bei Mannheim: Keine Schäden oder Verletzte gemeldet",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/erdbeben-bei-mannheim-keine-schaeden-oder-verletzte-gemeldet-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/erdbeben-bei-mannheim-keine-schaeden-oder-verletzte-gemeldet",
-      "published": "Fri, 11 Sep 2026 06:17:41 -0000",
-      "published_display": "11.09.2026 · 06:17 Uhr"
-    },
-    {
-      "title": "Bahnverkehr: Bummelaktion nach Unfall: Polens Fernzüge extrem verspätet",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/bummelaktion-nach-unfall-polens-fernzuege-extrem-verspaetet-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/bummelaktion-nach-unfall-polens-fernzuege-extrem-verspaetet",
-      "published": "Fri, 11 Sep 2026 06:13:01 -0000",
-      "published_display": "11.09.2026 · 06:13 Uhr"
-    },
-    {
-      "title": "Fußball-Bundesliga: Augsburgs nächster Coup? «Lasst euch überraschen»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/augsburgs-naechster-coup-lasst-euch-ueberraschen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/augsburgs-naechster-coup-lasst-euch-ueberraschen",
-      "published": "Fri, 11 Sep 2026 06:11:04 -0000",
-      "published_display": "11.09.2026 · 06:11 Uhr"
-    },
-    {
-      "title": "Hafenstadt Mokka im Jemen: Saudi-Arabien kündigt Gegenmaßnahmen nach Huthi-Angriffen an",
-      "summary": "Huthi-Rebellen haben die strategisch wichtige jemenitische Hafenstadt Mokka besetzt. Saudi-Arabien will gegen die vom Iran unterstützten Rebellen vorgehen.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/mokka-jemen-huthi-hafen-bab-al-mandab-saudi-arabien-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/mokka-jemen-huthi-hafen-bab-al-mandab-saudi-arabien",
-      "published": "Fri, 11 Sep 2026 06:09:12 -0000",
-      "published_display": "11.09.2026 · 06:09 Uhr"
-    },
-    {
-      "title": "Zoll: Dutzende Strafverfahren nach Kontrollen in Logistiklager",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/dutzende-strafverfahren-nach-kontrollen-in-logistiklager-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/dutzende-strafverfahren-nach-kontrollen-in-logistiklager",
-      "published": "Fri, 11 Sep 2026 06:08:51 -0000",
-      "published_display": "11.09.2026 · 06:08 Uhr"
     }
   ]
 }
