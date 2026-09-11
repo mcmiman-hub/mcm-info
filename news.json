@@ -1,14 +1,102 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-11T12:58:31.714798+00:00",
+  "updated": "2026-09-11T13:18:09.694482+00:00",
   "items": [
     {
-      "title": "Emma Bonino: Ehemalige EU-Kommissarin Emma Bonino gestorben",
+      "title": "Fußball-Bundesliga: Referee räumt Irrtum ein: Keine Sperre für Elversberg-Coach",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/referee-raeumt-irrtum-ein-keine-sperre-fuer-elversberg-coach-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/referee-raeumt-irrtum-ein-keine-sperre-fuer-elversberg-coach",
+      "published": "Fri, 11 Sep 2026 13:12:04 -0000",
+      "published_display": "11.09.2026 · 13:12 Uhr"
+    },
+    {
+      "title": "Norwegische Hauptstadt: Die Stadt für Vintage-Mode und Rutsch-Rekorde",
+      "summary": "Es gibt Städte, in die zieht es einen immer wieder – so wie in die wunderbare norwegische Hauptstadt. Unsere neuesten Entdeckungen in Oslo.",
+      "image": "https://img.zeit.de/2026/39/update-oslo-bild-1/original__640x360",
+      "link": "https://www.zeit.de/2026/39/norwegische-hauptstadt-oslo-bjoervika-sukkerbiten-tipps",
+      "published": "Fri, 11 Sep 2026 13:11:50 -0000",
+      "published_display": "11.09.2026 · 13:11 Uhr"
+    },
+    {
+      "title": "Berlin: Kommission sieht Behördenversagen bei sexueller Gewalt in Jugendclub",
+      "summary": "Eine 16-Jährige erhielt vom Jugendamt kaum Unterstützung nach einer mutmaßlichen Vergewaltigung. Eine Untersuchungskommission geht nicht von bewusster Vertuschung aus.",
+      "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-09/jugendzentrum-neukoelln-vergewaltigung-jugendamt-gropiusstadt-sarah-nagel-foto-1/original__640x360",
+      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-09/berlin-neukoelln-jugendclub-sexuelle-gewalt-aufarbeitung-kommission",
+      "published": "Fri, 11 Sep 2026 13:08:15 -0000",
+      "published_display": "11.09.2026 · 13:08 Uhr"
+    },
+    {
+      "title": "Tegernsee: Warum ich mich nach Rottach-Egern sehne",
+      "summary": "Am Tegernsee revoltieren Anwohner gegen die Verwaltung. Unser Autor solidarisiert sich mit den Männern, die dafür kämpfen, ihr weißes Garagentor behalten zu dürfen.",
+      "image": "https://img.zeit.de/zeit-magazin/2026-09/01-machowecz-teaser-26-39-bild/original__640x360",
+      "link": "https://www.zeit.de/zeit-magazin/2026/39/tegernsee-rottach-egern-gestaltungssatzung-garagentore",
+      "published": "Fri, 11 Sep 2026 13:07:35 -0000",
+      "published_display": "11.09.2026 · 13:07 Uhr"
+    },
+    {
+      "title": "Feuer: Ein Schwerverletzter bei Brand auf Düsseldorfer Automeile",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/ein-schwerverletzter-bei-brand-auf-duesseldorfer-automeile-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/ein-schwerverletzter-bei-brand-auf-duesseldorfer-automeile",
+      "published": "Fri, 11 Sep 2026 13:06:35 -0000",
+      "published_display": "11.09.2026 · 13:06 Uhr"
+    },
+    {
+      "title": "Kriminalität: Ex-Freund brutal attackiert? Prozess wegen Mordversuchs",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/ex-freund-brutal-attackiert-prozess-wegen-mordversuchs-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/ex-freund-brutal-attackiert-prozess-wegen-mordversuchs",
+      "published": "Fri, 11 Sep 2026 13:03:05 -0000",
+      "published_display": "11.09.2026 · 13:03 Uhr"
+    },
+    {
+      "title": "Krise bei Volkswagen: Arbeitnehmer wollen Gespräche mit VW-Vorstand führen",
+      "summary": "Nach dem angekündigten Sparplan bei VW wollen Beschäftigte das Management nun zu Gesprächen zwingen. Die IG Metall fordert die Einhaltung des Tarifvertrags.",
+      "image": "https://img.zeit.de/wirtschaft/2026-09/ig-metall-volkswagen-vw-sparkurs-tarifvertrag-foto-1/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/2026-09/ig-metall-volkswagen-vw-sparkurs-tarifvertrag",
+      "published": "Fri, 11 Sep 2026 13:02:52 -0000",
+      "published_display": "11.09.2026 · 13:02 Uhr"
+    },
+    {
+      "title": "In Wilhelmshaven: Elfjähriger bei Unfall schwer verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/elfjaehriger-bei-unfall-schwer-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/elfjaehriger-bei-unfall-schwer-verletzt",
+      "published": "Fri, 11 Sep 2026 13:00:24 -0000",
+      "published_display": "11.09.2026 · 13:00 Uhr"
+    },
+    {
+      "title": "Italien: Ehemalige EU-Kommissarin Emma Bonino gestorben",
       "summary": "Die italienische Politikerin und Feministin Emma Bonino ist tot. Sie war EU-Kommissarin und Außenministerin Italiens und kämpfte ihr Leben lang für die Rechte der Frauen.",
       "image": "https://img.zeit.de/politik/ausland/2026-09/emma-bonino-tot-italien-eu-kommissarin-aussenministerin-piu-europa-foto-1/original__640x360",
       "link": "https://www.zeit.de/politik/ausland/2026-09/emma-bonino-tot-italien-eu-kommissarin-aussenministerin-piu-europa",
-      "published": "Fri, 11 Sep 2026 12:57:20 -0000",
-      "published_display": "11.09.2026 · 12:57 Uhr"
+      "published": "Fri, 11 Sep 2026 12:59:54 -0000",
+      "published_display": "11.09.2026 · 12:59 Uhr"
+    },
+    {
+      "title": "Vor Berlin-Wahl: Berliner SPD-Spitzenkandidat weist neue Vorwürfe zurück",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/spd-spitzenkandidat-krach-vorwuerfe-gegen-mich-unbegruendet-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/spd-spitzenkandidat-krach-vorwuerfe-gegen-mich-unbegruendet",
+      "published": "Fri, 11 Sep 2026 12:58:53 -0000",
+      "published_display": "11.09.2026 · 12:58 Uhr"
+    },
+    {
+      "title": "Pflege: Linnemann plant Kommission für umfassende Pflegereform",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/linnemann-plant-kommission-fuer-umfassende-pflegereform-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/linnemann-plant-kommission-fuer-umfassende-pflegereform",
+      "published": "Fri, 11 Sep 2026 12:58:50 -0000",
+      "published_display": "11.09.2026 · 12:58 Uhr"
+    },
+    {
+      "title": "Verbraucherschutz: Mehr als ein Drittel der Lebensmittelkontrollen fällt aus",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/mehr-als-ein-drittel-der-lebensmittelkontrollen-faellt-aus-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/mehr-als-ein-drittel-der-lebensmittelkontrollen-faellt-aus",
+      "published": "Fri, 11 Sep 2026 12:58:12 -0000",
+      "published_display": "11.09.2026 · 12:58 Uhr"
     },
     {
       "title": "Erfolg für Verbündete des Iran: Huthi-Rebellen greifen nach wichtiger Meerenge Bab al-Mandab",
@@ -33,94 +121,6 @@
       "link": "https://www.zeit.de/feuilleton/2026-09/afd-wahlsieg-sachsen-anhalt-donald-trump-usa-parallele",
       "published": "Fri, 11 Sep 2026 12:54:27 -0000",
       "published_display": "11.09.2026 · 12:54 Uhr"
-    },
-    {
-      "title": "Fahrtüchtigkeit: Senior dankt Polizei und gibt Führerschein ab",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/senior-dankt-polizei-und-gibt-fuehrerschein-ab-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/senior-dankt-polizei-und-gibt-fuehrerschein-ab",
-      "published": "Fri, 11 Sep 2026 12:51:34 -0000",
-      "published_display": "11.09.2026 · 12:51 Uhr"
-    },
-    {
-      "title": "Lymphdrainage und Lymphödeme: »Generell wird viel Falsches erzählt, wenn es um die Lymphe geht«",
-      "summary": "Was genau ist das Lymphsystem überhaupt? Und wie bringt man es zum Fließen? Ein Interview mit einem der führenden Experten des Landes, dem Lymphologen René Hägerling.",
-      "image": "https://img.zeit.de/zeit-magazin/2026-09/lymphdrainage-lymphoedeme-rene-haegerling-berlin-charite-bild/original__640x360",
-      "link": "https://www.zeit.de/zeit-magazin/leben/2026-09/lymphdrainage-lymphoedeme-rene-haegerling-berlin-charite",
-      "published": "Fri, 11 Sep 2026 12:48:14 -0000",
-      "published_display": "11.09.2026 · 12:48 Uhr"
-    },
-    {
-      "title": "Fall für den Staatsschutz: Parolen gegen Landrat Dogan gesprüht: Staatsschutz ermittelt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/parolen-gegen-landrat-dogan-gesprueht-staatsschutz-ermittelt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/parolen-gegen-landrat-dogan-gesprueht-staatsschutz-ermittelt",
-      "published": "Fri, 11 Sep 2026 12:47:21 -0000",
-      "published_display": "11.09.2026 · 12:47 Uhr"
-    },
-    {
-      "title": "Fußball-Bundesliga: El Mala gegen Bremen wohl zunächst auf der Bank",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/el-mala-gegen-bremen-wohl-zunaechst-auf-der-bank-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/el-mala-gegen-bremen-wohl-zunaechst-auf-der-bank",
-      "published": "Fri, 11 Sep 2026 12:45:03 -0000",
-      "published_display": "11.09.2026 · 12:45 Uhr"
-    },
-    {
-      "title": "Kriminalität: Mehrere Tatverdächtige nach schwerer Raubserie festgenommen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/mehrere-tatverdaechtige-nach-schwerer-raubserie-festgenommen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/mehrere-tatverdaechtige-nach-schwerer-raubserie-festgenommen",
-      "published": "Fri, 11 Sep 2026 12:44:42 -0000",
-      "published_display": "11.09.2026 · 12:44 Uhr"
-    },
-    {
-      "title": "Sohn unter Tatverdacht: Verdacht: Sohn tötet Mutter",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/verdacht-sohn-toetet-mutter-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/verdacht-sohn-toetet-mutter",
-      "published": "Fri, 11 Sep 2026 12:43:31 -0000",
-      "published_display": "11.09.2026 · 12:43 Uhr"
-    },
-    {
-      "title": "Kirche: Bätzing setzt auf Kooperationen – «keine Kirche im Rückzug»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/baetzing-setzt-auf-kooperationen-keine-kirche-im-rueckzug-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/baetzing-setzt-auf-kooperationen-keine-kirche-im-rueckzug",
-      "published": "Fri, 11 Sep 2026 12:43:12 -0000",
-      "published_display": "11.09.2026 · 12:43 Uhr"
-    },
-    {
-      "title": "Bahnverkehr: Bummelaktion nach Unfall: Polens Fernzüge verspätet",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/bummelaktion-nach-unfall-polens-fernzuege-extrem-verspaetet-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/bummelaktion-nach-unfall-polens-fernzuege-extrem-verspaetet",
-      "published": "Fri, 11 Sep 2026 12:43:01 -0000",
-      "published_display": "11.09.2026 · 12:43 Uhr"
-    },
-    {
-      "title": "Campingkocher: Finnischer Feuerkünstler",
-      "summary": "Er wiegt fast nichts, sieht süß aus und lässt sich mit Brennholz füttern: Dieser Campingkocher stillt den Heißhunger und sorgt unterwegs für Lagerfeuerromantik.",
-      "image": "https://img.zeit.de/zeit-magazin/2026-09/wochenende-38-ode-bild/original__640x360",
-      "link": "https://www.zeit.de/zeit-magazin/2026-09/campingkocher-happy-stove-brennholz-lagerfeuer-camping",
-      "published": "Fri, 11 Sep 2026 12:42:00 -0000",
-      "published_display": "11.09.2026 · 12:42 Uhr"
-    },
-    {
-      "title": "Nahverkehr: Zweiter Streik an einem Tag bei der Saarbahn beendet",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/streik-bei-der-saarbahn-geht-in-weitere-runde-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/streik-bei-der-saarbahn-geht-in-weitere-runde",
-      "published": "Fri, 11 Sep 2026 12:41:05 -0000",
-      "published_display": "11.09.2026 · 12:41 Uhr"
-    },
-    {
-      "title": "KI-Bilder: Einmal Wurmburger mit extra Reptilienhaut bitte",
-      "summary": "Pickelige Pizzen und eiternde Spiegeleier: Restaurants bebildern ihre Speisekarten mit KI-Fotos – und vergraulen ihre Gäste. Doch warum sehen die Bilder so eklig aus?",
-      "image": "https://img.zeit.de/digital/2026-09/bilder-essen-speisekarte-restaurant-internetkolumne-bild/original__640x360",
-      "link": "https://www.zeit.de/digital/2026-09/ki-bilder-essen-speisekarte-restaurant-internetkolumne",
-      "published": "Fri, 11 Sep 2026 12:41:01 -0000",
-      "published_display": "11.09.2026 · 12:41 Uhr"
     }
   ]
 }
