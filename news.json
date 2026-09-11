@@ -1,7 +1,87 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-11T11:29:18.799683+00:00",
+  "updated": "2026-09-11T11:43:23.843077+00:00",
   "items": [
+    {
+      "title": "Terrororganisation Hamas: Mutmaßliche Hamas-Helfer wegen Anschlagsvorbereitung angeklagt",
+      "summary": "Die Bundesanwaltschaft hat sieben mutmaßliche Mitglieder der radikalislamischen Hamas angeklagt. Die Männer sollen an der Beschaffung von Waffen beteiligt gewesen sein.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/mutmassliche-hamas-helfer-in-berlin-anklage-waffenbeschaffung-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/mutmassliche-hamas-helfer-in-berlin-anklage-waffenbeschaffung",
+      "published": "Fri, 11 Sep 2026 11:41:15 -0000",
+      "published_display": "11.09.2026 · 11:41 Uhr"
+    },
+    {
+      "title": "Coliforme Bakterien: Märkisch-Oderland: Orte müssen weiter Wasser abkochen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/maerkisch-oderland-orte-muessen-weiter-wasser-abkochen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/maerkisch-oderland-orte-muessen-weiter-wasser-abkochen",
+      "published": "Fri, 11 Sep 2026 11:38:39 -0000",
+      "published_display": "11.09.2026 · 11:38 Uhr"
+    },
+    {
+      "title": "Bundesanwaltschaft: Juden im Visier? Mutmaßliche Hamas-Leute in Berlin angeklagt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/juden-im-visier-mutmassliche-hamas-leute-in-berlin-angeklagt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/juden-im-visier-mutmassliche-hamas-leute-in-berlin-angeklagt",
+      "published": "Fri, 11 Sep 2026 11:37:33 -0000",
+      "published_display": "11.09.2026 · 11:37 Uhr"
+    },
+    {
+      "title": "Unter Bewährung frei: Straftäter flieht vor neuem Prozess",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/straftaeter-flieht-vor-neuem-prozess-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/straftaeter-flieht-vor-neuem-prozess",
+      "published": "Fri, 11 Sep 2026 11:37:10 -0000",
+      "published_display": "11.09.2026 · 11:37 Uhr"
+    },
+    {
+      "title": "LKA nimmt Ermittlungen auf: Explosion in Lübeck: Geldautomat gesprengt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/explosion-in-luebeck-geldautomat-gesprengt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/explosion-in-luebeck-geldautomat-gesprengt",
+      "published": "Fri, 11 Sep 2026 11:34:20 -0000",
+      "published_display": "11.09.2026 · 11:34 Uhr"
+    },
+    {
+      "title": "2. Fußball-Bundesliga: Nach Cokaj-Verletzung: Bochum setzt wohl auf Talent Meyer",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/nach-cokaj-verletzung-bochum-setzt-wohl-auf-talent-meyer-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/nach-cokaj-verletzung-bochum-setzt-wohl-auf-talent-meyer",
+      "published": "Fri, 11 Sep 2026 11:31:33 -0000",
+      "published_display": "11.09.2026 · 11:31 Uhr"
+    },
+    {
+      "title": "Wirtschaftspolitik: Neues Leitbild soll Sachsens Industrie aus der Krise führen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/neues-leitbild-soll-sachsens-industrie-aus-der-krise-fuehren-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/neues-leitbild-soll-sachsens-industrie-aus-der-krise-fuehren",
+      "published": "Fri, 11 Sep 2026 11:30:08 -0000",
+      "published_display": "11.09.2026 · 11:30 Uhr"
+    },
+    {
+      "title": "Bierzelte auf Oktoberfest: Gericht prüft Wiesn-Zulassung: EU-Ausschreibung nicht nötig?",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/wer-bekommt-ein-wiesnzelt-gericht-prueft-zulassungsregeln-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/wer-bekommt-ein-wiesnzelt-gericht-prueft-zulassungsregeln",
+      "published": "Fri, 11 Sep 2026 11:29:38 -0000",
+      "published_display": "11.09.2026 · 11:29 Uhr"
+    },
+    {
+      "title": "Pläne des Finanzministeriums: Schluss mit «Cash only»: Läden sollen Karten akzeptieren",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/schluss-mit-cash-only-laeden-sollen-karten-akzeptieren-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/schluss-mit-cash-only-laeden-sollen-karten-akzeptieren",
+      "published": "Fri, 11 Sep 2026 11:28:56 -0000",
+      "published_display": "11.09.2026 · 11:28 Uhr"
+    },
+    {
+      "title": "Gesundheit: Aus für Info-Pflicht: Wie bemerkt man höhere Kassenbeiträge?",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/aus-fuer-info-pflicht-wie-bemerkt-man-hoehere-kassenbeitraege-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/aus-fuer-info-pflicht-wie-bemerkt-man-hoehere-kassenbeitraege",
+      "published": "Fri, 11 Sep 2026 11:28:49 -0000",
+      "published_display": "11.09.2026 · 11:28 Uhr"
+    },
     {
       "title": "Kinder- und Jugendschutz: Karin Prien will zeitnah Eckpunkte für Kinderschutz im Netz vorlegen",
       "summary": "Die Bundesbildungsministerin will die Empfehlungen einer Expertenkommission zum besseren Schutz von Kindern im Netz rasch umsetzen. Im Oktober sollen Eckpunkte stehen.",
@@ -41,86 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/11/bus-bremst-abrupt-sieben-fahrgaeste-verletzt",
       "published": "Fri, 11 Sep 2026 11:20:37 -0000",
       "published_display": "11.09.2026 · 11:20 Uhr"
-    },
-    {
-      "title": "»Was jetzt? – Die Woche«: Was erwarten die AfD-Wähler jetzt?",
-      "summary": "Die AfD gewinnt die Wahl in Sachsen-Anhalt deutlich. Was die Wähler nun erwarten, bespricht August Modersohn im Videopodcast »Was jetzt? – Die Woche«.",
-      "image": "https://img.zeit.de/video/2026-09/was-jetzt-die-woche-afd-august-modersohn/original__640x360",
-      "link": "https://www.zeit.de/video/2026-09/wjdw-afd-1",
-      "published": "Fri, 11 Sep 2026 11:20:31 -0000",
-      "published_display": "11.09.2026 · 11:20 Uhr"
-    },
-    {
-      "title": "Vor der Landtagswahl: Bauernverband fordert wieder Landwirtschaftsministerium",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/bauernverband-fordert-wieder-landwirtschaftsministerium-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/bauernverband-fordert-wieder-landwirtschaftsministerium",
-      "published": "Fri, 11 Sep 2026 11:20:13 -0000",
-      "published_display": "11.09.2026 · 11:20 Uhr"
-    },
-    {
-      "title": "Verursacher flüchtet: Autofahrer stirbt nach Unfall auf A2 – Polizei sucht Zeugen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/autofahrer-stirbt-nach-unfall-auf-a2-polizei-sucht-zeugen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/autofahrer-stirbt-nach-unfall-auf-a2-polizei-sucht-zeugen",
-      "published": "Fri, 11 Sep 2026 11:18:40 -0000",
-      "published_display": "11.09.2026 · 11:18 Uhr"
-    },
-    {
-      "title": "Pflegereform: Gesundheitsminister Linnemann plant Kommission für Pflegereform",
-      "summary": "Gesundheitsminister Carsten Linnemann will die Pflege grundlegend reformieren. Auch hierbei soll eine Kommission mit Wissenschaftlern und Experten helfen.",
-      "image": "https://img.zeit.de/gesundheit/2026-09/pflegereform-carsten-linnemann-cdu-kommission-pflegesystem-foto-1/original__640x360",
-      "link": "https://www.zeit.de/gesundheit/2026-09/pflegereform-carsten-linnemann-cdu-kommission-pflegesystem",
-      "published": "Fri, 11 Sep 2026 11:18:33 -0000",
-      "published_display": "11.09.2026 · 11:18 Uhr"
-    },
-    {
-      "title": "Thüringer Landtag: «Doppelmoral» - Streit um Pensionen für Minister",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/doppelmoral-streit-um-pensionen-fuer-minister-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/doppelmoral-streit-um-pensionen-fuer-minister",
-      "published": "Fri, 11 Sep 2026 11:14:29 -0000",
-      "published_display": "11.09.2026 · 11:14 Uhr"
-    },
-    {
-      "title": "Airline Emirates: Deutsche Airlines kritisieren zusätzliche Flugrechte für Emirates",
-      "summary": "Emirates darf künftig fünf statt bisher vier deutsche Flughäfen anfliegen. Die Ausweitung der Rechte sorgt für Kritik der deutschen Fluggesellschaften.",
-      "image": "https://img.zeit.de/mobilitaet/2026-09/emirates-flugrechte-airline-bundesregierung-deutschland-foto-1/original__640x360",
-      "link": "https://www.zeit.de/mobilitaet/2026-09/emirates-flugrechte-airline-bundesregierung-deutschland",
-      "published": "Fri, 11 Sep 2026 11:13:37 -0000",
-      "published_display": "11.09.2026 · 11:13 Uhr"
-    },
-    {
-      "title": "Spezialkräfte stürmen Wohnung: Zwei Männer nach Schuss auf 33-Jährigen in U-Haft",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/zwei-maenner-nach-schuss-auf-33-jaehrigen-in-u-haft-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/zwei-maenner-nach-schuss-auf-33-jaehrigen-in-u-haft",
-      "published": "Fri, 11 Sep 2026 11:12:54 -0000",
-      "published_display": "11.09.2026 · 11:12 Uhr"
-    },
-    {
-      "title": "Messerattacke: Messerattacke in Zwickau: Polizei bittet um Hinweise",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/messerattacke-in-zwickau-polizei-bittet-um-hinweise-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/messerattacke-in-zwickau-polizei-bittet-um-hinweise",
-      "published": "Fri, 11 Sep 2026 11:12:07 -0000",
-      "published_display": "11.09.2026 · 11:12 Uhr"
-    },
-    {
-      "title": "«Hinhaltetaktik»: Richterbund bringt Besoldung vor Verfassungsgericht",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/richterbund-macht-besoldung-zum-fall-fuer-verfassungsrichter-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/richterbund-macht-besoldung-zum-fall-fuer-verfassungsrichter",
-      "published": "Fri, 11 Sep 2026 11:11:56 -0000",
-      "published_display": "11.09.2026 · 11:11 Uhr"
-    },
-    {
-      "title": "Unternehmen: Zahl der Gewerbegründungen steigt – NRW vorne",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/zahl-der-gewerbegruendungen-steigt-nrw-vorne-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/zahl-der-gewerbegruendungen-steigt-nrw-vorne",
-      "published": "Fri, 11 Sep 2026 11:10:13 -0000",
-      "published_display": "11.09.2026 · 11:10 Uhr"
     }
   ]
 }
