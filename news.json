@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-11T21:40:49.577388+00:00",
+  "updated": "2026-09-11T21:54:11.950373+00:00",
   "items": [
+    {
+      "title": "Wahlkampf: AfD-Kandidat Holm in MV: «Reiche allen die Hand»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/afd-kandidat-holm-in-mv-reiche-allen-die-hand-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/afd-kandidat-holm-in-mv-reiche-allen-die-hand",
+      "published": "Fri, 11 Sep 2026 21:50:38 -0000",
+      "published_display": "11.09.2026 · 21:50 Uhr"
+    },
+    {
+      "title": "Normandie: Mehr als 40 Verletzte nach Zugunglück in Nordfrankreich",
+      "summary": "Ein Waggon eines Regionalzugs ist zwischen Rouen und Caen in der Normandie nach einer Kollision umgekippt. Polizei und SNCF untersuchen die Ursache des Unfalls.",
+      "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-09/zugunglueck-normandie-sncf-rouen-caen-foto-1/original__640x360",
+      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-09/zugunglueck-normandie-sncf-rouen-caen",
+      "published": "Fri, 11 Sep 2026 21:44:41 -0000",
+      "published_display": "11.09.2026 · 21:44 Uhr"
+    },
+    {
+      "title": "Bundesliga, 3. Spieltag – Freitag: Schalke 04 gewinnt bei Union Berlin",
+      "summary": "Der FC Schalke 04 gewinnt das Freitagabendspiel gegen Union Berlin. Für die Schalker ist es der erste Bundesligasieg seit fast dreieinhalb Jahren. Der Spielbericht",
+      "image": "https://img.zeit.de/sport/2026-09/bundesliga-3-spieltag-union-berlin-schalke-04-bild/original__640x360",
+      "link": "https://www.zeit.de/sport/2026-09/bundesliga-3-spieltag-union-berlin-schalke-04",
+      "published": "Fri, 11 Sep 2026 21:42:22 -0000",
+      "published_display": "11.09.2026 · 21:42 Uhr"
+    },
     {
       "title": "Schauspielpreis: Pachner brilliert als Clown – Hasanović gewinnt für «Tatort»",
       "summary": "",
@@ -25,14 +49,6 @@
       "link": "https://www.zeit.de/news/2026-09/11/leipzig-chef-nach-naechster-pleite-wir-bleiben-ruhig",
       "published": "Fri, 11 Sep 2026 21:20:32 -0000",
       "published_display": "11.09.2026 · 21:20 Uhr"
-    },
-    {
-      "title": "Bundesliga, 3. Spieltag – Freitag: Schalke 04 gewinnt bei Union Berlin",
-      "summary": "Der FC Schalke 04 gewinnt das Freitagabendspiel gegen Union Berlin. Für die Schalker ist es der erste Bundesligasieg seit fast dreieinhalb Jahren. Der Spielbericht",
-      "image": "https://img.zeit.de/sport/2026-09/bundesliga-3-spieltag-union-berlin-schalke-04-bild/original__640x360",
-      "link": "https://www.zeit.de/sport/2026-09/bundesliga-3-spieltag-union-berlin-schalke-04",
-      "published": "Fri, 11 Sep 2026 21:14:03 -0000",
-      "published_display": "11.09.2026 · 21:14 Uhr"
     },
     {
       "title": "Christian von Stetten: Chef von einflussreicher CDU-Parlamentsgruppe fordert Bas' Rücktritt",
@@ -75,14 +91,6 @@
       "published_display": "11.09.2026 · 20:33 Uhr"
     },
     {
-      "title": "Wahlkampf: Schlagabtausch zu Nord Stream 2 bei Wahlforum vor MV-Wahl",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/afd-kandidat-holm-in-mv-reiche-allen-die-hand-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/afd-kandidat-holm-in-mv-reiche-allen-die-hand",
-      "published": "Fri, 11 Sep 2026 20:24:01 -0000",
-      "published_display": "11.09.2026 · 20:24 Uhr"
-    },
-    {
       "title": "Basketball: Starke Towers werfen Seawolves aus dem Pokal",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-09/11/starke-towers-werfen-seawolves-aus-dem-pokal-image-group/original__640x360",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/11/gerach-verletzt-referee-wechsel-bei-union-gegen-schalke",
       "published": "Fri, 11 Sep 2026 20:12:48 -0000",
       "published_display": "11.09.2026 · 20:12 Uhr"
-    },
-    {
-      "title": "Stimmung in Niedersachsen: Insa-Umfrage: SPD bei Landtagsfrage vorn – CDU verliert",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/insa-umfrage-spd-bei-landtagsfrage-vorn-cdu-verliert-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/insa-umfrage-spd-bei-landtagsfrage-vorn-cdu-verliert",
-      "published": "Fri, 11 Sep 2026 20:07:30 -0000",
-      "published_display": "11.09.2026 · 20:07 Uhr"
     }
   ]
 }
