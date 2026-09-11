@@ -1,7 +1,39 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-11T20:43:58.045350+00:00",
+  "updated": "2026-09-11T20:55:09.275836+00:00",
   "items": [
+    {
+      "title": "Bundesliga, 3. Spieltag – Freitag: Schalke 04 gewinnt bei Union Berlin",
+      "summary": "Der FC Schalke 04 gewinnt das Freitagabendspiel gegen Union Berlin. Für die Schalker ist es der erste Bundesligasieg seit fast dreieinhalb Jahren. Der Spielbericht",
+      "image": "https://img.zeit.de/sport/2026-09/bundesliga-3-spieltag-union-berlin-schalke-04-bild/original__640x360",
+      "link": "https://www.zeit.de/sport/2026-09/bundesliga-3-spieltag-union-berlin-schalke-04",
+      "published": "Fri, 11 Sep 2026 20:51:40 -0000",
+      "published_display": "11.09.2026 · 20:51 Uhr"
+    },
+    {
+      "title": "Zugunglück: Zug in Frankreich entgleist - über 40 Verletzte",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/zug-in-frankreich-entgleist-ueber-40-verletzte-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/zug-in-frankreich-entgleist-ueber-40-verletzte",
+      "published": "Fri, 11 Sep 2026 20:51:34 -0000",
+      "published_display": "11.09.2026 · 20:51 Uhr"
+    },
+    {
+      "title": "25 Jahre nach 9/11: Scholz setzt auf Zuversicht trotz Krisen und Kriegen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/scholz-setzt-auf-zuversicht-trotz-krisen-und-kriegen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/scholz-setzt-auf-zuversicht-trotz-krisen-und-kriegen",
+      "published": "Fri, 11 Sep 2026 20:45:13 -0000",
+      "published_display": "11.09.2026 · 20:45 Uhr"
+    },
+    {
+      "title": "Mit Klausel aus Tarifvertrag: Arbeitnehmer drängen VW-Vorstand zu Gesprächen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/arbeitnehmer-wollen-vw-vorstand-zu-gespraechen-zwingen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/arbeitnehmer-wollen-vw-vorstand-zu-gespraechen-zwingen",
+      "published": "Fri, 11 Sep 2026 20:43:28 -0000",
+      "published_display": "11.09.2026 · 20:43 Uhr"
+    },
     {
       "title": "Fußball-Bundesliga: Dank Gosens: Schalke feiert ersten Bundesliga-Sieg seit 2023",
       "summary": "",
@@ -89,38 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/11/alba-verliert-testspiel-gegen-euroleague-team-knapp",
       "published": "Fri, 11 Sep 2026 19:55:15 -0000",
       "published_display": "11.09.2026 · 19:55 Uhr"
-    },
-    {
-      "title": "Energie: Saudi-Arabien schaltet nach Angriffen wichtige Pipeline ab",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/saudi-arabien-schaltet-nach-angriffen-wichtige-pipeline-ab-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/saudi-arabien-schaltet-nach-angriffen-wichtige-pipeline-ab",
-      "published": "Fri, 11 Sep 2026 19:54:02 -0000",
-      "published_display": "11.09.2026 · 19:54 Uhr"
-    },
-    {
-      "title": "Queerfeindlichkeit: AfD-Wahlsieg in Sachsen-Anhalt verstärkt Sorgen queerer Menschen",
-      "summary": "Der Wahlsieg der AfD verstärkt das feindselige Klima gegen queere Menschen. Laut dem Verband »Queere Vielfalt« werden Menschenrechte »aktiv bedroht«.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/afd-wahlsieg-sachsen-anhalt-lsvd-queere-menschen-alva-traebert-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/afd-wahlsieg-sachsen-anhalt-lsvd-queere-menschen-alva-traebert",
-      "published": "Fri, 11 Sep 2026 19:36:25 -0000",
-      "published_display": "11.09.2026 · 19:36 Uhr"
-    },
-    {
-      "title": "Fußball-Bundesliga: Leipzig-Chef nach nächster Pleite: «Wir bleiben ruhig»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/leipzig-chef-nach-naechster-pleite-wir-bleiben-ruhig-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/leipzig-chef-nach-naechster-pleite-wir-bleiben-ruhig",
-      "published": "Fri, 11 Sep 2026 19:35:24 -0000",
-      "published_display": "11.09.2026 · 19:35 Uhr"
-    },
-    {
-      "title": "2. Fußball-Bundesliga: «Spitzenreiter»: Nürnberg feiert nach der Energieleistung",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/spitzenreiter-nuernberg-feiert-nach-der-energieleistung-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/spitzenreiter-nuernberg-feiert-nach-der-energieleistung",
-      "published": "Fri, 11 Sep 2026 19:22:52 -0000",
-      "published_display": "11.09.2026 · 19:22 Uhr"
     }
   ]
 }
