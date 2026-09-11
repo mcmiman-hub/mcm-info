@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-11T21:16:30.494301+00:00",
+  "updated": "2026-09-11T21:27:14.874512+00:00",
   "items": [
+    {
+      "title": "Zugunglück: Zug in Frankreich entgleist - über 40 Verletzte",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/zug-in-frankreich-entgleist-ueber-40-verletzte-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/zug-in-frankreich-entgleist-ueber-40-verletzte",
+      "published": "Fri, 11 Sep 2026 21:22:52 -0000",
+      "published_display": "11.09.2026 · 21:22 Uhr"
+    },
+    {
+      "title": "Fußball-Bundesliga: Leipzig-Chef wirbt nach nächster Pleite um Geduld",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/leipzig-chef-nach-naechster-pleite-wir-bleiben-ruhig-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/leipzig-chef-nach-naechster-pleite-wir-bleiben-ruhig",
+      "published": "Fri, 11 Sep 2026 21:20:32 -0000",
+      "published_display": "11.09.2026 · 21:20 Uhr"
+    },
     {
       "title": "Bundesliga, 3. Spieltag – Freitag: Schalke 04 gewinnt bei Union Berlin",
       "summary": "Der FC Schalke 04 gewinnt das Freitagabendspiel gegen Union Berlin. Für die Schalker ist es der erste Bundesligasieg seit fast dreieinhalb Jahren. Der Spielbericht",
@@ -25,14 +41,6 @@
       "link": "https://www.zeit.de/news/2026-09/11/saudi-arabien-schaltet-nach-angriffen-wichtige-pipeline-ab",
       "published": "Fri, 11 Sep 2026 20:54:52 -0000",
       "published_display": "11.09.2026 · 20:54 Uhr"
-    },
-    {
-      "title": "Zugunglück: Zug in Frankreich entgleist - über 40 Verletzte",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/zug-in-frankreich-entgleist-ueber-40-verletzte-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/zug-in-frankreich-entgleist-ueber-40-verletzte",
-      "published": "Fri, 11 Sep 2026 20:51:34 -0000",
-      "published_display": "11.09.2026 · 20:51 Uhr"
     },
     {
       "title": "25 Jahre nach 9/11: Scholz setzt auf Zuversicht trotz Krisen und Kriegen",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/11/ein-schwerverletzter-bei-brand-auf-duesseldorfer-automeile",
       "published": "Fri, 11 Sep 2026 20:07:06 -0000",
       "published_display": "11.09.2026 · 20:07 Uhr"
-    },
-    {
-      "title": "Champions Hockey League: 4:1 gegen Graz: Eisbären feiern ersten Sieg in der CHL",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/4-1-gegen-graz-eisbaeren-feiern-ersten-sieg-in-der-chl-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/4-1-gegen-graz-eisbaeren-feiern-ersten-sieg-in-der-chl",
-      "published": "Fri, 11 Sep 2026 20:01:55 -0000",
-      "published_display": "11.09.2026 · 20:01 Uhr"
     }
   ]
 }
