@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-11T22:28:26.833853+00:00",
+  "updated": "2026-09-11T22:41:53.879113+00:00",
   "items": [
+    {
+      "title": "Ost-West-Pipeline: Saudi-Arabien stellt Betrieb wichtiger Ölpipeline nach Angriff ein",
+      "summary": "Nach einem Angriff aus dem Irak stoppt Saudi-Arabien den Betrieb der wichtigen Ost-West-Pipeline. Die Regierung will vorerst nicht darauf reagieren.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/oelfeld-in-saudi-arabien-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/ost-west-oelpipeline-saudi-arabien-drohnenangriff-irak",
+      "published": "Fri, 11 Sep 2026 22:36:48 -0000",
+      "published_display": "11.09.2026 · 22:36 Uhr"
+    },
+    {
+      "title": "Tennis: Große Titelchance: Zverev nervenstark ins US-Open-Finale",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/grosse-titelchance-zverev-nervenstark-ins-us-open-finale-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/grosse-titelchance-zverev-nervenstark-ins-us-open-finale",
+      "published": "Fri, 11 Sep 2026 22:28:43 -0000",
+      "published_display": "11.09.2026 · 22:28 Uhr"
+    },
     {
       "title": "11. September 2001: CIA veröffentlicht frühe Berichte mit Warnungen vor Al-Kaida",
       "summary": "Der US-Geheimdienst hat Berichte aus den drei Jahren vor den Terroranschägen von 9/11 freigegeben. Agenten warnten darin vor möglichen Plänen des Al-Kaida-Netzwerks.",
@@ -9,14 +25,6 @@
       "link": "https://www.zeit.de/politik/ausland/2026-09/cia-berichte-anschlaege-11-september-al-kaida-george-w-bush-bill-clinton",
       "published": "Fri, 11 Sep 2026 22:27:06 -0000",
       "published_display": "11.09.2026 · 22:27 Uhr"
-    },
-    {
-      "title": "Tennis: Große Titelchance: Zverev nervenstark ins US-Open-Finale",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/grosse-titelchance-zverev-nervenstark-ins-us-open-finale-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/grosse-titelchance-zverev-nervenstark-ins-us-open-finale",
-      "published": "Fri, 11 Sep 2026 22:16:21 -0000",
-      "published_display": "11.09.2026 · 22:16 Uhr"
     },
     {
       "title": "Tennis: Tennisprofi Zverev erreicht Finale bei US Open",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/11/scholz-setzt-auf-zuversicht-trotz-krisen-und-kriegen",
       "published": "Fri, 11 Sep 2026 20:45:13 -0000",
       "published_display": "11.09.2026 · 20:45 Uhr"
-    },
-    {
-      "title": "Mit Klausel aus Tarifvertrag: Arbeitnehmer drängen VW-Vorstand zu Gesprächen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/arbeitnehmer-wollen-vw-vorstand-zu-gespraechen-zwingen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/arbeitnehmer-wollen-vw-vorstand-zu-gespraechen-zwingen",
-      "published": "Fri, 11 Sep 2026 20:43:28 -0000",
-      "published_display": "11.09.2026 · 20:43 Uhr"
     }
   ]
 }
