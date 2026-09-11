@@ -1,7 +1,39 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-11T03:44:51.767374+00:00",
+  "updated": "2026-09-11T03:55:45.932329+00:00",
   "items": [
+    {
+      "title": "Wahlkampf-Event in Texas: Trump-Show endet: Fünf Lehren aus dem Republikaner-Parteitag",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/trump-show-endet-fuenf-lehren-aus-dem-republikaner-parteitag-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/trump-show-endet-fuenf-lehren-aus-dem-republikaner-parteitag",
+      "published": "Fri, 11 Sep 2026 03:52:56 -0000",
+      "published_display": "11.09.2026 · 03:52 Uhr"
+    },
+    {
+      "title": "Wetter: Unbeständiges Wetter am Wochenende erwartet",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/unbestaendiges-wetter-am-wochenende-erwartet-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/unbestaendiges-wetter-am-wochenende-erwartet",
+      "published": "Fri, 11 Sep 2026 03:47:22 -0000",
+      "published_display": "11.09.2026 · 03:47 Uhr"
+    },
+    {
+      "title": "Heim-Turnier in Berlin: Basketball-WM statt Schulkonferenz",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/basketball-wm-statt-schulkonferenz-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/basketball-wm-statt-schulkonferenz",
+      "published": "Fri, 11 Sep 2026 03:46:05 -0000",
+      "published_display": "11.09.2026 · 03:46 Uhr"
+    },
+    {
+      "title": "Tennis: Millionen-Finale: Deutsches Duo spielt um Titel bei US Open",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/krawietz-und-puetz-erreichen-doppel-finale-der-us-open-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/10/krawietz-und-puetz-erreichen-doppel-finale-der-us-open",
+      "published": "Fri, 11 Sep 2026 03:45:04 -0000",
+      "published_display": "11.09.2026 · 03:45 Uhr"
+    },
     {
       "title": "Unfälle: Fahrer aus Auto geschleudert - Polizei: Nicht angeschnallt",
       "summary": "",
@@ -88,38 +120,6 @@
       "image": "https://img.zeit.de/news/2026-09/11/erasmus-im-handwerk-wenn-azubis-ins-ausland-gehen-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-09/11/erasmus-im-handwerk-wenn-azubis-ins-ausland-gehen",
       "published": "Fri, 11 Sep 2026 03:00:25 -0000",
-      "published_display": "11.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Aktion «Kinofest»: Für 'nen Fünfer ins Kino",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/fuer-nen-fuenfer-ins-kino-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/fuer-nen-fuenfer-ins-kino",
-      "published": "Fri, 11 Sep 2026 03:00:24 -0000",
-      "published_display": "11.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Nachbarschaft: Wasserhäuschen als «zweites Wohnzimmer»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/wasserhaeuschen-als-zweites-wohnzimmer-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/wasserhaeuschen-als-zweites-wohnzimmer",
-      "published": "Fri, 11 Sep 2026 03:00:12 -0000",
-      "published_display": "11.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Strafprozess: «Tickende Zeitbombe» - der Maschsee-Mörder kommt vor Gericht",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/tickende-zeitbombe-der-maschsee-moerder-kommt-vor-gericht-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/tickende-zeitbombe-der-maschsee-moerder-kommt-vor-gericht",
-      "published": "Fri, 11 Sep 2026 03:00:10 -0000",
-      "published_display": "11.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Tag des offenen Denkmals: 260 historische Bauten öffnen in MV am Denkmaltag",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/260-historische-bauten-oeffnen-in-mv-am-denkmaltag-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/260-historische-bauten-oeffnen-in-mv-am-denkmaltag",
-      "published": "Fri, 11 Sep 2026 03:00:08 -0000",
       "published_display": "11.09.2026 · 03:00 Uhr"
     }
   ]
