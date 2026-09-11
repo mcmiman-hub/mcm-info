@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-11T17:42:25.096607+00:00",
+  "updated": "2026-09-11T17:54:14.586097+00:00",
   "items": [
+    {
+      "title": "Dokumentarfilm »Naza«: Israels Armee bestreitet KI-gesteuerte Tötungen im Gazastreifen",
+      "summary": "Israels Militär hat den im Dokumentarfilm »Naza« erhobenen Vorwürfen widersprochen. Über Angriffe im Gazastreifen hätten immer Menschen entschieden, nicht Maschinen.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/naza-dokumentarfilm-israel-armee-gaza-ki-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/naza-dokumentarfilm-israel-armee-gaza-ki",
+      "published": "Fri, 11 Sep 2026 17:50:36 -0000",
+      "published_display": "11.09.2026 · 17:50 Uhr"
+    },
+    {
+      "title": "Haftstrafen in Hongkong: EU und UN kritisieren Urteile gegen Demokratie-Aktivisten in Hongkong",
+      "summary": "Drei Aktivisten sollen Haftstrafen verbüßen, weil sie Mahnwachen für die Toten des Tiananmen-Massakers organisiert haben. EU und UN fordern eine Aufhebung der Urteile.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/hongkong-haftstrafen-demokratieaktivisten-tiananmen-mahnwache-eu-volker-tuerk-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/hongkong-haftstrafen-demokratieaktivisten-tiananmen-mahnwache-eu-volker-tuerk",
+      "published": "Fri, 11 Sep 2026 17:46:39 -0000",
+      "published_display": "11.09.2026 · 17:46 Uhr"
+    },
+    {
+      "title": "Nach Wahl in Sachsen-Anhalt: Verband: AfD-Wahlsieg verstärkt Sorgen bei queeren Menschen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/verband-afd-wahlsieg-verstaerkt-sorgen-bei-queeren-menschen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/verband-afd-wahlsieg-verstaerkt-sorgen-bei-queeren-menschen",
+      "published": "Fri, 11 Sep 2026 17:44:59 -0000",
+      "published_display": "11.09.2026 · 17:44 Uhr"
+    },
     {
       "title": "Vorfall in Hotel: Foto von Dreijähriger: Deutscher auf Mallorca freigesprochen",
       "summary": "",
@@ -41,14 +65,6 @@
       "link": "https://www.zeit.de/news/2026-09/11/29-jaehrige-soll-feuer-auf-reiterhof-gelegt-haben",
       "published": "Fri, 11 Sep 2026 17:18:12 -0000",
       "published_display": "11.09.2026 · 17:18 Uhr"
-    },
-    {
-      "title": "Haftstrafen in Hongkong: EU und UN kritisieren Urteile gegen Demokratie-Aktivisten in Hongkong",
-      "summary": "Drei Aktivisten sollen Haftstrafen verbüßen, weil sie Mahnwachen für das Tiananmen-Massaker organisiert haben. EU und UN fordern eine Aufhebung der Urteile.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/hongkong-haftstrafen-demokratieaktivisten-tiananmen-mahnwache-eu-volker-tuerk-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/hongkong-haftstrafen-demokratieaktivisten-tiananmen-mahnwache-eu-volker-tuerk",
-      "published": "Fri, 11 Sep 2026 17:15:49 -0000",
-      "published_display": "11.09.2026 · 17:15 Uhr"
     },
     {
       "title": "Gefährlicher Straßenverkehr: Sattelzug rollt ohne Fahrer zwei Kilometer über A2",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/11/cdu-mann-von-stetten-bas-als-ministerin-nicht-mehr-tragbar",
       "published": "Fri, 11 Sep 2026 17:00:32 -0000",
       "published_display": "11.09.2026 · 17:00 Uhr"
-    },
-    {
-      "title": "Nach Wahl in Sachsen-Anhalt: Auschwitz-Überlebende dringt auf AfD-Verbotsverfahren",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/auschwitz-ueberlebende-dringt-auf-afd-verbotsverfahren-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/auschwitz-ueberlebende-dringt-auf-afd-verbotsverfahren",
-      "published": "Fri, 11 Sep 2026 16:58:59 -0000",
-      "published_display": "11.09.2026 · 16:58 Uhr"
-    },
-    {
-      "title": "11. September 2001: Gedenken zum 25. Jahrestag des 9/11-Anschlags hat in New York begonnen",
-      "summary": "New York gedenkt mit mehreren Veranstaltungen der Opfer des 11. September 2001. Der Tag wird von Verbalangriffen auf den muslimischen Bürgermeister Mamdani überschattet.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/9-11-jahrestag-gedenkfeiern-new-york-zohran-mamdani-rudy-giuliani-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/9-11-jahrestag-gedenkfeiern-new-york-zohran-mamdani-rudy-giuliani-gxe",
-      "published": "Fri, 11 Sep 2026 16:47:00 -0000",
-      "published_display": "11.09.2026 · 16:47 Uhr"
     }
   ]
 }
