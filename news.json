@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-11T01:44:13.124826+00:00",
+  "updated": "2026-09-11T01:56:01.000695+00:00",
   "items": [
+    {
+      "title": "Umfrage: Hitze verursacht Schäden an Straßen in Hessen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/hitze-verursacht-schaeden-an-strassen-in-hessen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/hitze-verursacht-schaeden-an-strassen-in-hessen",
+      "published": "Fri, 11 Sep 2026 01:45:05 -0000",
+      "published_display": "11.09.2026 · 01:45 Uhr"
+    },
     {
       "title": "Tag des offenen Denkmals: Rund 350 Orte sind beim Tag des offenen Denkmals zu sehen",
       "summary": "",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/11/ki-firma-aktivitaeten-rund-um-moegliche-biowaffen-forschung",
       "published": "Fri, 11 Sep 2026 00:07:56 -0000",
       "published_display": "11.09.2026 · 00:07 Uhr"
-    },
-    {
-      "title": "Dutzende Kräfte im Einsatz: Brand in Kiel: Feuerwehr rettet Bewohner von Hausdach",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/brand-in-kiel-feuerwehr-rettet-bewohner-von-hausdach-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/brand-in-kiel-feuerwehr-rettet-bewohner-von-hausdach",
-      "published": "Fri, 11 Sep 2026 00:02:45 -0000",
-      "published_display": "11.09.2026 · 00:02 Uhr"
     }
   ]
 }
