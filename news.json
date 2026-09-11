@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-11T23:27:03.787312+00:00",
+  "updated": "2026-09-11T23:40:54.448516+00:00",
   "items": [
+    {
+      "title": "Artikel 37 des Grundgesetzes: Thorsten Frei erwägt Bundeszwang bei möglicher AfD-Landesregierung",
+      "summary": "Deutschland sei eine wehrhafte Demokratie, sagt Unionsfraktionschef Thorsten Frei mit Blick auf die AfD. Um diese zu schützen, gebe es Instrumente.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/cdu-praesidium-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/bundeszwang-artikel-37-grundgesetz-thorsten-frei-afd-sachsen-anhalt",
+      "published": "Fri, 11 Sep 2026 23:37:29 -0000",
+      "published_display": "11.09.2026 · 23:37 Uhr"
+    },
     {
       "title": "US Open: Alexander Zverev erreicht Finale der US Open",
       "summary": "Der Hamburger Zverev bleibt gegen den russischen Außenseiter Karen Chatschanow nervenstark und ohne Satzverlust. Im Finale trifft er auf Ben Shelton oder Frances Tiafoe.",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/11/pachner-brilliert-als-clown-hasanovi-gewinnt-fuer-tatort",
       "published": "Fri, 11 Sep 2026 21:33:14 -0000",
       "published_display": "11.09.2026 · 21:33 Uhr"
-    },
-    {
-      "title": "Zugunglück: Zug in Frankreich entgleist - über 40 Verletzte",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/zug-in-frankreich-entgleist-ueber-40-verletzte-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/zug-in-frankreich-entgleist-ueber-40-verletzte",
-      "published": "Fri, 11 Sep 2026 21:22:52 -0000",
-      "published_display": "11.09.2026 · 21:22 Uhr"
     }
   ]
 }
