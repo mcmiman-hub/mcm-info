@@ -1,7 +1,39 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-11T05:43:49.355453+00:00",
+  "updated": "2026-09-11T05:55:36.164741+00:00",
   "items": [
+    {
+      "title": "Hafenstadt Mokka im Jemen: Saudi-Arabien kündigt Gegenmaßnahmen nach Huthi-Angriffen an",
+      "summary": "Huthi-Rebellen haben die strategisch wichtige jemenitische Hafenstadt Mokka besetzt. Saudi-Arabien will gegen die vom Iran unterstützten Rebellen vorgehen.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/mokka-jemen-huthi-hafen-bab-al-mandab-saudi-arabien-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/mokka-jemen-huthi-hafen-bab-al-mandab-saudi-arabien",
+      "published": "Fri, 11 Sep 2026 05:53:14 -0000",
+      "published_display": "11.09.2026 · 05:53 Uhr"
+    },
+    {
+      "title": "Autobahnunfälle: Unfälle auf A3 und A66 mit Verletzten und Vollsperrungen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/drei-unfaelle-auf-a3-und-a66-verletzte-und-vollsperrungen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/drei-unfaelle-auf-a3-und-a66-verletzte-und-vollsperrungen",
+      "published": "Fri, 11 Sep 2026 05:51:47 -0000",
+      "published_display": "11.09.2026 · 05:51 Uhr"
+    },
+    {
+      "title": "Alkohol am Steuer: Alkoholisierter Autofahrer fährt mit nur drei Reifen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/alkoholisierter-autofahrer-faehrt-mit-nur-drei-reifen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/alkoholisierter-autofahrer-faehrt-mit-nur-drei-reifen",
+      "published": "Fri, 11 Sep 2026 05:51:09 -0000",
+      "published_display": "11.09.2026 · 05:51 Uhr"
+    },
+    {
+      "title": "AfD in Sachsen-Anhalt: Frieden mit Russland? Schön wär’s, AfD",
+      "summary": "Die AfD will mit Russland verhandeln. Tatsächlich gibt es längst Gespräche. Aber Putin macht deutlich, was er von ihnen hält.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/afd-sachsen-anhalt-ukraine-russland-5v8-bild-3/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/afd-sachsen-anhalt-ukraine-russland-5v8",
+      "published": "Fri, 11 Sep 2026 05:43:44 -0000",
+      "published_display": "11.09.2026 · 05:43 Uhr"
+    },
     {
       "title": "Vor Berlin-Wahl: SPD-Spitzenkandidat Krach: «Vorwürfe gegen mich unbegründet»",
       "summary": "",
@@ -9,14 +41,6 @@
       "link": "https://www.zeit.de/news/2026-09/11/spd-spitzenkandidat-krach-vorwuerfe-gegen-mich-unbegruendet",
       "published": "Fri, 11 Sep 2026 05:40:22 -0000",
       "published_display": "11.09.2026 · 05:40 Uhr"
-    },
-    {
-      "title": "Hafenstadt Mokka im Jemen: Saudi-Arabien kündigt Gegenmaßnahmen nach Huthi-Angriffen an",
-      "summary": "Huthi-Rebellen haben die strategisch wichtige jemenitische Hafenstadt Mokka besetzt. Saudi-Arabien will gegen die vom Iran unterstützten Rebellen vorgehen.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/mokka-jemen-huthi-hafen-bab-al-mandab-saudi-arabien-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/mokka-jemen-huthi-hafen-bab-al-mandab-saudi-arabien",
-      "published": "Fri, 11 Sep 2026 05:37:26 -0000",
-      "published_display": "11.09.2026 · 05:37 Uhr"
     },
     {
       "title": "Vor der Abgeordnetenhauswahl: Umfrage zur Berlin-Wahl: Linke knapp vor CDU",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/politik/deutschland/2026-09/polen-grenze-ukraine-donald-tusk-russland",
       "published": "Fri, 11 Sep 2026 05:17:23 -0000",
       "published_display": "11.09.2026 · 05:17 Uhr"
-    },
-    {
-      "title": "Spaziergang mit Löwin: Löwenfreundschaft: Der Deutsche und das Raubtier",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/loewenfreundschaft-der-deutsche-und-das-raubtier-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/loewenfreundschaft-der-deutsche-und-das-raubtier",
-      "published": "Fri, 11 Sep 2026 05:10:04 -0000",
-      "published_display": "11.09.2026 · 05:10 Uhr"
-    },
-    {
-      "title": "Unfälle: Lkw-Fahrer nach Sturz aus Fahrzeug schwer verletzt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/lkw-fahrer-nach-sturz-aus-fahrzeug-schwer-verletzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/lkw-fahrer-nach-sturz-aus-fahrzeug-schwer-verletzt",
-      "published": "Fri, 11 Sep 2026 05:08:10 -0000",
-      "published_display": "11.09.2026 · 05:08 Uhr"
-    },
-    {
-      "title": "Autobahnunfälle: Drei Unfälle auf A3 und A66: Verletzte und Vollsperrungen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/drei-unfaelle-auf-a3-und-a66-verletzte-und-vollsperrungen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/drei-unfaelle-auf-a3-und-a66-verletzte-und-vollsperrungen",
-      "published": "Fri, 11 Sep 2026 05:04:47 -0000",
-      "published_display": "11.09.2026 · 05:04 Uhr"
     }
   ]
 }
