@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-11T19:27:46.997789+00:00",
+  "updated": "2026-09-11T19:41:36.139419+00:00",
   "items": [
+    {
+      "title": "Queerfeindlichkeit: AfD-Wahlsieg in Sachsen-Anhalt verstärkt Sorgen queerer Menschen",
+      "summary": "Der Wahlsieg der AfD verstärkt das feindselige Klima gegen queere Menschen. Laut dem Verband »Queere Vielfalt« werden Menschenrechte »aktiv bedroht«.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/afd-wahlsieg-sachsen-anhalt-lsvd-queere-menschen-alva-traebert-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/afd-wahlsieg-sachsen-anhalt-lsvd-queere-menschen-alva-traebert",
+      "published": "Fri, 11 Sep 2026 19:36:25 -0000",
+      "published_display": "11.09.2026 · 19:36 Uhr"
+    },
+    {
+      "title": "Fußball-Bundesliga: Leipzig-Chef nach nächster Pleite: «Wir bleiben ruhig»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/leipzig-chef-nach-naechster-pleite-wir-bleiben-ruhig-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/leipzig-chef-nach-naechster-pleite-wir-bleiben-ruhig",
+      "published": "Fri, 11 Sep 2026 19:35:24 -0000",
+      "published_display": "11.09.2026 · 19:35 Uhr"
+    },
     {
       "title": "2. Fußball-Bundesliga: «Spitzenreiter»: Nürnberg feiert nach der Energieleistung",
       "summary": "",
@@ -17,14 +33,6 @@
       "link": "https://www.zeit.de/news/2026-09/11/zwoelf-tote-bei-autounfall-in-russland",
       "published": "Fri, 11 Sep 2026 19:22:04 -0000",
       "published_display": "11.09.2026 · 19:22 Uhr"
-    },
-    {
-      "title": "AfD-Wahlsieg in Sachsen-Anhalt: AfD-Wahlsieg in Sachsen-Anhalt verstärkt Sorgen queerer Menschen",
-      "summary": "Der Wahlsieg der AfD verstärkt das feindselige Klima gegen queere Menschen. Laut dem Verband »Queere Vielfalt« werden Menschenrechte »aktiv bedroht«.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/afd-wahlsieg-sachsen-anhalt-lsvd-queere-menschen-alva-traebert-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/afd-wahlsieg-sachsen-anhalt-lsvd-queere-menschen-alva-traebert",
-      "published": "Fri, 11 Sep 2026 19:20:28 -0000",
-      "published_display": "11.09.2026 · 19:20 Uhr"
     },
     {
       "title": "2. Fußball-Bundesliga: Titz unter Druck: Hannover 96 verliert auch in Nürnberg",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/11/werder-frauen-gewinnen-nordderby-gegen-den-hsv",
       "published": "Fri, 11 Sep 2026 18:31:15 -0000",
       "published_display": "11.09.2026 · 18:31 Uhr"
-    },
-    {
-      "title": "Alaska: 15-Jähriger treibt tagelang im Meer - und wird gerettet",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/15-jaehriger-treibt-tagelang-im-meer-und-wird-gerettet-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/15-jaehriger-treibt-tagelang-im-meer-und-wird-gerettet",
-      "published": "Fri, 11 Sep 2026 18:30:54 -0000",
-      "published_display": "11.09.2026 · 18:30 Uhr"
     }
   ]
 }
