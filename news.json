@@ -1,7 +1,47 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-11T15:30:07.452077+00:00",
+  "updated": "2026-09-11T15:44:25.895421+00:00",
   "items": [
+    {
+      "title": "Fürstentum Monaco: Prinzessin Alexandra von Hannover hat sich verlobt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/prinzessin-alexandra-von-hannover-hat-sich-verlobt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/prinzessin-alexandra-von-hannover-hat-sich-verlobt",
+      "published": "Fri, 11 Sep 2026 15:40:41 -0000",
+      "published_display": "11.09.2026 · 15:40 Uhr"
+    },
+    {
+      "title": "Flavio Bolsonaro: Brasiliens Justiz ermittelt gegen Präsidentschaftskandidaten Bolsonaro",
+      "summary": "Wenige Wochen vor der Wahl in Brasilien werden Korruptionsermittlungen gegen Flávio Bolsonaro publik. Er ist der aussichtsreichste Herausforderer von Amtsinhaber Lula.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/flavio-bolsonaro-brasilien-korruption-geldwaesche-praesidentschaftswahl-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/flavio-bolsonaro-brasilien-korruption-geldwaesche-praesidentschaftswahl",
+      "published": "Fri, 11 Sep 2026 15:34:24 -0000",
+      "published_display": "11.09.2026 · 15:34 Uhr"
+    },
+    {
+      "title": "Huthi-Miliz: Diese Eroberung hat Folgen für die ganze Welt",
+      "summary": "Die Huthis haben die gesamte jemenitische Küste am Roten Meer erobert. Für die USA und Israel ist das eine Katastrophe – und auch für die globale Energieversorgung.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/huthis-miliz-insel-jemen-bab-al-mandab-meerenge-bild-2/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/huthis-miliz-insel-jemen-bab-al-mandab-meerenge",
+      "published": "Fri, 11 Sep 2026 15:33:23 -0000",
+      "published_display": "11.09.2026 · 15:33 Uhr"
+    },
+    {
+      "title": "Rechtsextremismus: Ermittlungen gegen AfD-Abgeordneten Sebastian Koch wegen Waffenfundes",
+      "summary": "Beim AfD-Abgeordneten Sebastian Koch sind bei Durchsuchungen Waffen gefunden worden. Die Staatsanwaltschaft Halle ermittelt wegen Verstoßes gegen das Waffengesetz.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/sebastian-koch-afd-waffenfund-halle-rechtsextremismus-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/sebastian-koch-afd-waffenfund-halle-rechtsextremismus",
+      "published": "Fri, 11 Sep 2026 15:33:14 -0000",
+      "published_display": "11.09.2026 · 15:33 Uhr"
+    },
+    {
+      "title": "Proteste in Südafrika: Nigerianisches Parlament setzt offizielle Besuche in Südafrika aus",
+      "summary": "Nigerias Nationalversammlung kritisiert die ausländerfeindlichen Proteste in Südafrika. Man sei besorgt über Berichte, wonach Nigerianer getötet oder vertrieben wurden.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/proteste-suedafrika-migranten-nigeria-rassismus-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/proteste-suedafrika-migranten-nigeria-rassismus",
+      "published": "Fri, 11 Sep 2026 15:32:21 -0000",
+      "published_display": "11.09.2026 · 15:32 Uhr"
+    },
     {
       "title": "Kapuzinerkressen-Butter: Diese Butter können Sie bei die Fische geben",
       "summary": "Wer Schnittlauch mag, wird Kapuzinerkresse lieben. Sie ist Gewürz und Dekoration in einem. Damit lässt sich Suppe verfeinern, aber auch eine farbenfrohe Butter zaubern.",
@@ -17,14 +57,6 @@
       "link": "https://www.zeit.de/news/2026-09/11/arbeitnehmer-wollen-vw-vorstand-zu-gespraechen-zwingen",
       "published": "Fri, 11 Sep 2026 15:19:40 -0000",
       "published_display": "11.09.2026 · 15:19 Uhr"
-    },
-    {
-      "title": "Rechtsextremismus: Ermittlungen gegen AfD-Abgeordneten Sebastian Koch wegen Waffenfundes",
-      "summary": "Beim AfD-Abgeordneten Sebastian Koch sind bei Durchsuchungen Waffen gefunden worden. Die Staatsanwaltschaft Halle ermittelt wegen Verstoßes gegen das Waffengesetz.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/sebastian-koch-afd-waffenfund-halle-rechtsextremismus-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/sebastian-koch-afd-waffenfund-halle-rechtsextremismus",
-      "published": "Fri, 11 Sep 2026 15:15:17 -0000",
-      "published_display": "11.09.2026 · 15:15 Uhr"
     },
     {
       "title": "Berlin: Kommission sieht Behördenversagen bei sexueller Gewalt in Jugendklub",
@@ -51,8 +83,8 @@
       "published_display": "11.09.2026 · 15:08 Uhr"
     },
     {
-      "title": "Bab al-Mandab: Huthis erlangen vollständige Kontrolle über Meerenge Bab al-Mandab",
-      "summary": "Nach dem Rückzug der jemenitischen Armee hat die Huthi-Miliz die Kontrolle über das Gebiet um Bab al-Mandab übernommen. Die Meerenge gilt als strategisch wichtig.",
+      "title": "Bab al-Mandeb: Huthis erlangen vollständige Kontrolle über Meerenge Bab al-Mandeb",
+      "summary": "Nach dem Rückzug der jemenitischen Armee hat die Huthi-Miliz die Kontrolle über das Gebiet um Bab al-Mandeb übernommen. Die Meerenge gilt als strategisch wichtig.",
       "image": "https://img.zeit.de/politik/ausland/2026-09/bab-al-mandab-huthi-jemen-rotes-meer-foto-1/original__640x360",
       "link": "https://www.zeit.de/politik/ausland/2026-09/bab-al-mandab-huthi-jemen-rotes-meer",
       "published": "Fri, 11 Sep 2026 15:04:39 -0000",
@@ -89,38 +121,6 @@
       "link": "https://www.zeit.de/politik/2026-09/jemen-bab-al-mandeb-huthis-nachrichtenpodcast",
       "published": "Fri, 11 Sep 2026 14:54:47 -0000",
       "published_display": "11.09.2026 · 14:54 Uhr"
-    },
-    {
-      "title": "Staatsanwaltschaft und Polizei: Hakenkreuz-Foto: Ermittlungen gegen Rostock-Hooligans",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/hakenkreuz-foto-ermittlungen-gegen-rostock-hooligans-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/hakenkreuz-foto-ermittlungen-gegen-rostock-hooligans",
-      "published": "Fri, 11 Sep 2026 14:53:35 -0000",
-      "published_display": "11.09.2026 · 14:53 Uhr"
-    },
-    {
-      "title": "Kulturpolitik: Verbände sehen kulturelle Infrastruktur in Sachsen gefährdet",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/verbaende-sehen-kulturelle-infrastruktur-in-sachsen-gefaehrdet-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/verbaende-sehen-kulturelle-infrastruktur-in-sachsen-gefaehrdet",
-      "published": "Fri, 11 Sep 2026 14:52:47 -0000",
-      "published_display": "11.09.2026 · 14:52 Uhr"
-    },
-    {
-      "title": "Sondergebühr für Solaranlagen: Und jetzt auch noch ein Stromnetzsoli",
-      "summary": "Einst galten private Solaranlagenbesitzer als Vorbild, nun will die Netzagentur sie mit einer Sondergebühr strafen – und das ist nicht der erste Schlag. Langsam reicht´s!",
-      "image": "https://img.zeit.de/wirtschaft/2026-09/sondergebuehr-solaranlagen-bundesnetzagentur-stromnetz-energiewende-bild/original__640x360",
-      "link": "https://www.zeit.de/wirtschaft/2026-09/sondergebuehr-solaranlagen-bundesnetzagentur-stromnetz-energiewende",
-      "published": "Fri, 11 Sep 2026 14:52:35 -0000",
-      "published_display": "11.09.2026 · 14:52 Uhr"
-    },
-    {
-      "title": "München: Morddrohung gegen Vorsitzende der Israelitischen Kultusgemeinde",
-      "summary": "Auf einer Parkbank findet sich eine Morddrohung gegen Charlotte Knobloch. Es soll einen direkten Zusammenhang mit dem Wahlsieg der AfD in Sachsen-Anhalt geben.",
-      "image": "https://img.zeit.de/gesellschaft/2026-09/charlotte-knobloch-morddrohung-muenchen-israelitische-kultusgemeinde-foto-1/original__640x360",
-      "link": "https://www.zeit.de/gesellschaft/2026-09/charlotte-knobloch-morddrohung-muenchen-israelitische-kultusgemeinde-gxe",
-      "published": "Fri, 11 Sep 2026 14:48:17 -0000",
-      "published_display": "11.09.2026 · 14:48 Uhr"
     }
   ]
 }
