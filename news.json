@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-11T07:18:26.182175+00:00",
+  "updated": "2026-09-11T07:31:49.436080+00:00",
   "items": [
+    {
+      "title": "Landtag: Schulze wäre «bereit» für Ministerpräsidentenamt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/schulze-waere-bereit-fuer-ministerpraesidentenamt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/schulze-waere-bereit-fuer-ministerpraesidentenamt",
+      "published": "Fri, 11 Sep 2026 07:18:12 -0000",
+      "published_display": "11.09.2026 · 07:18 Uhr"
+    },
     {
       "title": "Busunglück in der Schweiz: Mehrere Tote bei Busunglück im schweizerischen Engadin",
       "summary": "Im Engadin ist ein Reisebus aus den Niederlanden mit 48 Insassen gegen eine Leitplanke gefahren und umgekippt. Die Polizei spricht von mehreren Toten und Verletzten.",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/11/macht-schokolade-gluecklich-suesse-mythen-auf-dem-pruefstand",
       "published": "Fri, 11 Sep 2026 06:30:07 -0000",
       "published_display": "11.09.2026 · 06:30 Uhr"
-    },
-    {
-      "title": "Aussichten: Herbstwetter im Norden",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/herbstwetter-im-norden-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/herbstwetter-im-norden",
-      "published": "Fri, 11 Sep 2026 06:29:08 -0000",
-      "published_display": "11.09.2026 · 06:29 Uhr"
     }
   ]
 }
