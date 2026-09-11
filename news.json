@@ -1,7 +1,63 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-11T10:31:30.523816+00:00",
+  "updated": "2026-09-11T10:44:48.716155+00:00",
   "items": [
+    {
+      "title": "Jemen: Huthi-Miliz erlangt Kontrolle über Insel in Meerenge Bab al-Mandab",
+      "summary": "Die Huthis haben die Insel Mayyun eingenommen und könnten damit die Meerenge Bab al-Mandab kontrollieren. Diese zählt zu den weltweit wichtigsten Schifffahrtsstraßen.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/huthi-miliz-insel-mayyun-bab-al-mandab-jemen-foto/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/huthi-miliz-insel-mayyun-bab-al-mandab-jemen",
+      "published": "Fri, 11 Sep 2026 10:44:06 -0000",
+      "published_display": "11.09.2026 · 10:44 Uhr"
+    },
+    {
+      "title": "Kartenzahlung: Geschäfte und Gastronomie sollen künftig Kartenzahlung anbieten müssen",
+      "summary": "Das Bundesfinanzministerium will den Einzelhandel verpflichten, auch eine digitale Bezahlmöglichkeit anzubieten. Der geplante Gesetzentwurf stößt auf Kritik.",
+      "image": "https://img.zeit.de/wirtschaft/2026-09/digitale-bezahlpflicht-bargeld-geschafte-gastronomie-lars-klingbeil-foto-1/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/2026-09/digitale-bezahlpflicht-bargeld-geschafte-gastronomie-lars-klingbeil",
+      "published": "Fri, 11 Sep 2026 10:40:50 -0000",
+      "published_display": "11.09.2026 · 10:40 Uhr"
+    },
+    {
+      "title": "Staatsempfang in München: Roter Teppich und Lebkuchenherz für Präsidenten der Emirate",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/roter-teppich-und-lebkuchenherz-fuer-praesidenten-der-emirate-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/roter-teppich-und-lebkuchenherz-fuer-praesidenten-der-emirate",
+      "published": "Fri, 11 Sep 2026 10:34:30 -0000",
+      "published_display": "11.09.2026 · 10:34 Uhr"
+    },
+    {
+      "title": "Rüstung und Remigration: Rüstungsaussage: AfD-Spitzenmann Siegmund sorgt für Empörung",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/afd-spitzenkandidat-sorgt-mit-ruestungsaussage-fuer-empoerung-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/afd-spitzenkandidat-sorgt-mit-ruestungsaussage-fuer-empoerung",
+      "published": "Fri, 11 Sep 2026 10:32:29 -0000",
+      "published_display": "11.09.2026 · 10:32 Uhr"
+    },
+    {
+      "title": "Kaiserslautern: Vermeintliche Bombe im Wald entpuppt sich als Feuerlöscher",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/vermeintliche-bombe-im-wald-entpuppt-sich-als-feuerloescher-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/vermeintliche-bombe-im-wald-entpuppt-sich-als-feuerloescher",
+      "published": "Fri, 11 Sep 2026 10:32:13 -0000",
+      "published_display": "11.09.2026 · 10:32 Uhr"
+    },
+    {
+      "title": "Kriminalität: Geplanter Anschlag? Anklage gegen Jugendliche erhoben",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/geplanter-anschlag-anklage-gegen-jugendliche-erhoben-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/geplanter-anschlag-anklage-gegen-jugendliche-erhoben",
+      "published": "Fri, 11 Sep 2026 10:31:54 -0000",
+      "published_display": "11.09.2026 · 10:31 Uhr"
+    },
+    {
+      "title": "Landtagswahl in MV: Zweikampf um die Macht im Nordosten spitzt sich zu",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/11/umfrage-afd-in-mecklenburg-vorpommern-drei-punkte-vor-spd-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/11/umfrage-afd-in-mecklenburg-vorpommern-drei-punkte-vor-spd",
+      "published": "Fri, 11 Sep 2026 10:30:26 -0000",
+      "published_display": "11.09.2026 · 10:30 Uhr"
+    },
     {
       "title": "2. Fußball-Bundesliga: Heidenheim ohne erkrankten Siwsiwadse gegen Kiel",
       "summary": "",
@@ -65,62 +121,6 @@
       "link": "https://www.zeit.de/politik/ausland/2026-08/us-kongress-midterms-senat-repraesentantenhaus-gxe",
       "published": "Fri, 11 Sep 2026 10:20:05 -0000",
       "published_display": "11.09.2026 · 10:20 Uhr"
-    },
-    {
-      "title": "Schwertangriff in Schweden: Ermittlungen gegen 15-Jährige nach tödlichem Schwertangriff in Schule",
-      "summary": "Ein Teenager sitzt nach einem Schwertangriff an einer Schule in Schweden in U-Haft. Auch gegen eine 15-Jährige wird wegen mutmaßlicher Vorbereitung zum Mord ermittelt.",
-      "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-09/schwert-angriff-schule-schweden-fagersta-foto-1/original__640x360",
-      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-09/schwert-angriff-schule-schweden-fagersta",
-      "published": "Fri, 11 Sep 2026 10:19:57 -0000",
-      "published_display": "11.09.2026 · 10:19 Uhr"
-    },
-    {
-      "title": "Midterms 2026: In diesen US-Bundesstaaten wird es knapp bei der Senatswahl",
-      "summary": "Republikanische Trump-Kritiker, konservative Demokraten, ein Unabhängiger: Der Kampf um eine Mehrheit im US-Senat wird knapp. Die spannendsten Kandidaten im Überblick",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/usa-zwischenwahlen-senat-kandidaten-kapitol-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/midterms-usa-kandidaten-zwischenwahlen-senat-2026-faq-gxe",
-      "published": "Fri, 11 Sep 2026 10:19:41 -0000",
-      "published_display": "11.09.2026 · 10:19 Uhr"
-    },
-    {
-      "title": "Fußball: Rani Khedira tritt aus Tunesiens Nationalmannschaft zurück",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/rani-khedira-tritt-aus-tunesiens-nationalmannschaft-zurueck-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/rani-khedira-tritt-aus-tunesiens-nationalmannschaft-zurueck",
-      "published": "Fri, 11 Sep 2026 10:19:20 -0000",
-      "published_display": "11.09.2026 · 10:19 Uhr"
-    },
-    {
-      "title": "Schlimmstes Halbjahr seit 2013: Keine Atempause: Insolvenzwelle auf langjährigem Rekordhoch",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/so-viele-pleiten-wie-seit-2013-nicht-mehr-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/so-viele-pleiten-wie-seit-2013-nicht-mehr",
-      "published": "Fri, 11 Sep 2026 10:18:29 -0000",
-      "published_display": "11.09.2026 · 10:18 Uhr"
-    },
-    {
-      "title": "Kartenzahlung: Finanzministerium plant Pflicht zur Kartenzahlung in Läden und Gastro",
-      "summary": "Unternehmen sollen laut dem Finanzministerium bald mindestens eine digitale Bezahlmöglichkeit anbieten müssen. Der Einzelhandel kritisiert den geplanten Gesetzesentwurf.",
-      "image": "https://img.zeit.de/wirtschaft/2026-09/digitale-bezahlpflicht-bargeld-geschafte-gastronomie-lars-klingbeil-foto-1/original__640x360",
-      "link": "https://www.zeit.de/wirtschaft/2026-09/digitale-bezahlpflicht-bargeld-geschafte-gastronomie-lars-klingbeil",
-      "published": "Fri, 11 Sep 2026 10:17:19 -0000",
-      "published_display": "11.09.2026 · 10:17 Uhr"
-    },
-    {
-      "title": "Bessere Bezahlung: Richterbund macht Besoldung zum Fall für Verfassungsrichter",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/richterbund-macht-besoldung-zum-fall-fuer-verfassungsrichter-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/richterbund-macht-besoldung-zum-fall-fuer-verfassungsrichter",
-      "published": "Fri, 11 Sep 2026 10:14:36 -0000",
-      "published_display": "11.09.2026 · 10:14 Uhr"
-    },
-    {
-      "title": "Zukunft der Landwirtschaft: Backhaus kündigt Bau von zwei Schlachthöfen in MV an",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/backhaus-kuendigt-bau-von-zwei-schlachthoefen-in-mv-an-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/backhaus-kuendigt-bau-von-zwei-schlachthoefen-in-mv-an",
-      "published": "Fri, 11 Sep 2026 10:14:27 -0000",
-      "published_display": "11.09.2026 · 10:14 Uhr"
     }
   ]
 }
