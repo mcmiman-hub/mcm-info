@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-11T23:15:14.994720+00:00",
+  "updated": "2026-09-11T23:27:03.787312+00:00",
   "items": [
+    {
+      "title": "US Open: Alexander Zverev erreicht Finale der US Open",
+      "summary": "Der Hamburger Zverev bleibt gegen den russischen Außenseiter Karen Chatschanow nervenstark und ohne Satzverlust. Im Finale trifft er auf Ben Shelton oder Frances Tiafoe.",
+      "image": "https://img.zeit.de/sport/2026-09/alexander-zverev-us-open-finale-tennis-karen-chatschanow-foto-1/original__640x360",
+      "link": "https://www.zeit.de/sport/2026-09/alexander-zverev-us-open-finale-tennis-karen-chatschanow",
+      "published": "Fri, 11 Sep 2026 23:25:40 -0000",
+      "published_display": "11.09.2026 · 23:25 Uhr"
+    },
     {
       "title": "Vor Wahl zum Abgeordnetenhaus: Wie CDU-Spitzenkandidat Evers den Kanzler wahrnimmt",
       "summary": "",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/11/zug-in-frankreich-entgleist-ueber-40-verletzte",
       "published": "Fri, 11 Sep 2026 21:22:52 -0000",
       "published_display": "11.09.2026 · 21:22 Uhr"
-    },
-    {
-      "title": "Fußball-Bundesliga: Leipzig-Chef wirbt nach nächster Pleite um Geduld",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/leipzig-chef-nach-naechster-pleite-wir-bleiben-ruhig-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/leipzig-chef-nach-naechster-pleite-wir-bleiben-ruhig",
-      "published": "Fri, 11 Sep 2026 21:20:32 -0000",
-      "published_display": "11.09.2026 · 21:20 Uhr"
     }
   ]
 }
