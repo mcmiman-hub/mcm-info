@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-11T00:46:57.039542+00:00",
+  "updated": "2026-09-11T00:56:45.200805+00:00",
   "items": [
+    {
+      "title": "KI von Anthropic: Anthropic warnt vor Nutzung von Claude für Biowaffen",
+      "summary": "Die KI-Firma Anthropic hat Anfragen mit Bezug zur Entwicklung von biologischen Waffen unterbunden. Schwer sei oft, medizinische und militärische Zwecke zu unterscheiden.",
+      "image": "https://img.zeit.de/digital/2026-09/ki-anthropic-claude-biowaffen-forschung-blockade-foto-1/original__640x360",
+      "link": "https://www.zeit.de/digital/2026-09/ki-anthropic-claude-biowaffen-forschung-blockade",
+      "published": "Fri, 11 Sep 2026 00:51:50 -0000",
+      "published_display": "11.09.2026 · 00:51 Uhr"
+    },
     {
       "title": "Treibstoffpreise: Ölpreis erreicht höchsten Stand seit Mai",
       "summary": "Wegen erneuter Angriffe in der Straße von Hormus ist der Preis von Rohöl wieder gestiegen. In den USA kostet Diesel erstmals mehr als sechs ​Dollar pro Gallone.",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/sport/2026-09/basketball-wm-deutschland-belgien",
       "published": "Thu, 10 Sep 2026 21:58:35 -0000",
       "published_display": "10.09.2026 · 21:58 Uhr"
-    },
-    {
-      "title": "Kalenderblatt: Was geschah am 11. September?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/10/was-geschah-am-11-september-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/10/was-geschah-am-11-september",
-      "published": "Thu, 10 Sep 2026 21:55:04 -0000",
-      "published_display": "10.09.2026 · 21:55 Uhr"
     }
   ]
 }
