@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-12T19:41:36.795061+00:00",
+  "updated": "2026-09-12T19:54:27.085761+00:00",
   "items": [
+    {
+      "title": "Heim-Turnier in Berlin: Frankreich zu stark: Basketballerinnen bei WM um Bronze",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/frankreich-zu-stark-basketballerinnen-bei-wm-um-bronze-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/frankreich-zu-stark-basketballerinnen-bei-wm-um-bronze",
+      "published": "Sat, 12 Sep 2026 19:52:34 -0000",
+      "published_display": "12.09.2026 · 19:52 Uhr"
+    },
+    {
+      "title": "Basketball-WM der Frauen: Sie sind jetzt die Vorbilder, die sie nie hatten",
+      "summary": "Weil sie sich zu oft den Ball klauen lassen, verlieren die deutschen Basketballerinnen das Halbfinale. Warum diese Heim-WM dennoch schon jetzt ein riesiger Erfolg ist",
+      "image": "https://img.zeit.de/sport/2026-09/basketball-wm-berlin-deutschland-frankreich-weibliche-vorbilder-bild/original__640x360",
+      "link": "https://www.zeit.de/sport/2026-09/basketball-wm-berlin-deutschland-frankreich-weibliche-vorbilder",
+      "published": "Sat, 12 Sep 2026 19:50:44 -0000",
+      "published_display": "12.09.2026 · 19:50 Uhr"
+    },
     {
       "title": "Tennis: «Gute Chance» für Ende von Erfolgsdoppel Pütz und Krawietz",
       "summary": "",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/sport/2026-09/bundesliga-3-spieltag-borussia-dortmund-sc-paderborn-mainz-eintracht-frankfurt",
       "published": "Sat, 12 Sep 2026 18:50:10 -0000",
       "published_display": "12.09.2026 · 18:50 Uhr"
-    },
-    {
-      "title": "Basketball: Alba Berlin verpatzt Generalprobe vor dem Saisonstart",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/alba-berlin-verpatzt-generalprobe-vor-dem-saisonstart-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/alba-berlin-verpatzt-generalprobe-vor-dem-saisonstart",
-      "published": "Sat, 12 Sep 2026 18:47:44 -0000",
-      "published_display": "12.09.2026 · 18:47 Uhr"
-    },
-    {
-      "title": "CSD in Halle: Es wird kein Sprint, sondern ein Marathon, sagen sie",
-      "summary": "Eine Woche nach der Sachsen-Anhalt-Wahl feiert die queere Community in Halle den Christopher Street Day. Und beginnt sich zu wappnen für die kommende Zeit.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/csd-halle-parade-sachsen-anhalt-afd-demonstration-bild-at/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/csd-halle-parade-sachsen-anhalt-afd-demonstration",
-      "published": "Sat, 12 Sep 2026 18:37:33 -0000",
-      "published_display": "12.09.2026 · 18:37 Uhr"
     }
   ]
 }
