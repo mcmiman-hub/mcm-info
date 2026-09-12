@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-12T17:40:50.151807+00:00",
+  "updated": "2026-09-12T17:54:06.858015+00:00",
   "items": [
+    {
+      "title": "Ost-West-Pipeline: Irak entdeckt offenbar Drohnen-Startvorrichtung nahe iranischer Grenze",
+      "summary": "Irakische Ermittler haben nach dem Angriff auf eine saudische Pipeline laut einem Bericht Drohnenvorrichtungen gefunden. US-Präsident Trump macht den Iran verantwortlich.",
+      "image": "https://img.zeit.de/2026-09/drohnenangriff-oelpipeline-saudi-arabien-irak-iran-foto/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/drohnenangriff-oelpipeline-saudi-arabien-irak-iran",
+      "published": "Sat, 12 Sep 2026 17:48:31 -0000",
+      "published_display": "12.09.2026 · 17:48 Uhr"
+    },
+    {
+      "title": "Handball-Bundesliga: Thüringer HC übernimmt Tabellenführung",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/thueringer-hc-uebernimmt-tabellenfuehrung-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/thueringer-hc-uebernimmt-tabellenfuehrung",
+      "published": "Sat, 12 Sep 2026 17:41:17 -0000",
+      "published_display": "12.09.2026 · 17:41 Uhr"
+    },
     {
       "title": "Künstliche Intelligenz: Chef von KI-Firma Anthropic für verlangsamte Entwicklung",
       "summary": "",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/12/tausende-bei-demos-in-bayern-gegen-rechts-und-gegen-merz",
       "published": "Sat, 12 Sep 2026 16:35:06 -0000",
       "published_display": "12.09.2026 · 16:35 Uhr"
-    },
-    {
-      "title": "Werner Herzog: »Ein Parteiverbot können nur Kretins fordern«",
-      "summary": "Ja, Werner Herzog zeigt in Venedig seinen neuen Film, aber man spricht mit dem Regisseur und Welterklärer dann natürlich über alles: etwa über seine Seele und die AfD.",
-      "image": "https://img.zeit.de/2026/39/ein-parteiverbot-koennen-nur-kretins-fordern-bild-2/original__640x360",
-      "link": "https://www.zeit.de/2026/39/werner-herzog-bucking-fastard-filmbiennale-venedig-kate-rooney-mara",
-      "published": "Sat, 12 Sep 2026 16:34:35 -0000",
-      "published_display": "12.09.2026 · 16:34 Uhr"
-    },
-    {
-      "title": "Feuerwehr-Einsatz: Autofahrer fährt mit Wagen gegen Baum und stirbt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/autofahrer-faehrt-mit-wagen-gegen-baum-und-stirbt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/autofahrer-faehrt-mit-wagen-gegen-baum-und-stirbt",
-      "published": "Sat, 12 Sep 2026 16:34:31 -0000",
-      "published_display": "12.09.2026 · 16:34 Uhr"
     }
   ]
 }
