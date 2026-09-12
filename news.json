@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-12T10:16:41.020247+00:00",
+  "updated": "2026-09-12T10:27:54.464846+00:00",
   "items": [
+    {
+      "title": "Koalitionsstreit: Klingbeil verurteilt Angriff aus Reihen der CDU auf Bas",
+      "summary": "CDU-Politiker Christian von Stetten bezeichnete Bärbel Bas als »nicht mehr tragbar«. Der SPD-Chef reagiert mit harter Kritik. Er fordert Zusammenhalt in der Regierung.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/christian-von-stetten-cdu-angriff-baerbel-bas-lars-klingbeil-afd-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/lars-klingbeil-cdu-angriff-baerbel-bas-spd-afd",
+      "published": "Sat, 12 Sep 2026 10:25:39 -0000",
+      "published_display": "12.09.2026 · 10:25 Uhr"
+    },
+    {
+      "title": "Fußball-Bundesliga: «Kenne die Regeln»: Demichelis sieht Sieg-Pflicht gegen HSV",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/kenne-die-regeln-demichelis-sieht-sieg-pflicht-gegen-hsv-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/kenne-die-regeln-demichelis-sieht-sieg-pflicht-gegen-hsv",
+      "published": "Sat, 12 Sep 2026 10:21:11 -0000",
+      "published_display": "12.09.2026 · 10:21 Uhr"
+    },
     {
       "title": "Giorgia Meloni: Meloni hält Brandmauern zu rechten Parteien für nicht erfolgreich",
       "summary": "Die Regierungschefin Italiens ist selbst Mitglied einer rechtsnationalen Partei. Zur Wahl in Sachsen-Anhalt sagt Meloni, Brandmauern funktionierten nicht.",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/12/auto-landet-in-huehnergehege",
       "published": "Sat, 12 Sep 2026 09:46:53 -0000",
       "published_display": "12.09.2026 · 09:46 Uhr"
-    },
-    {
-      "title": "«Wir sind hier verletzlich!»: Innenminister will kritische Infrastruktur besser schützen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/innenminister-will-kritische-infrastruktur-besser-schuetzen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/innenminister-will-kritische-infrastruktur-besser-schuetzen",
-      "published": "Sat, 12 Sep 2026 09:43:20 -0000",
-      "published_display": "12.09.2026 · 09:43 Uhr"
-    },
-    {
-      "title": "Schattenflotte: Wie Deutschland Putins Öltankern schaden könnte",
-      "summary": "Die Schattenflotte finanziert Russlands Krieg gegen die Ukraine. Deutschland tut sich schwer, gegen die oft maroden Schiffe vorzugehen. Andere Länder sind da weiter.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/schattenflotte-russland-wladimir-putin-schiffe-ukraine-teaser/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/schattenflotte-russland-wladimir-putin-schiffe-ukraine",
-      "published": "Sat, 12 Sep 2026 09:41:44 -0000",
-      "published_display": "12.09.2026 · 09:41 Uhr"
     }
   ]
 }
