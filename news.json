@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-11T23:54:42.204497+00:00",
+  "updated": "2026-09-12T00:23:53.254193+00:00",
   "items": [
+    {
+      "title": "Brand: Einfamilienhaus brennt – Bewohner über Dach gerettet",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/einfamilienhaus-brennt-bewohner-ueber-dach-gerettet-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/einfamilienhaus-brennt-bewohner-ueber-dach-gerettet",
+      "published": "Fri, 11 Sep 2026 23:59:11 -0000",
+      "published_display": "11.09.2026 · 23:59 Uhr"
+    },
+    {
+      "title": "Landkreis Nordwestmecklenburg: Von Auto angefahren: Neunjähriges Kind stirbt nach Unfall",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/von-auto-angefahren-neunjaehriges-kind-stirbt-nach-unfall-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/von-auto-angefahren-neunjaehriges-kind-stirbt-nach-unfall",
+      "published": "Fri, 11 Sep 2026 23:55:54 -0000",
+      "published_display": "11.09.2026 · 23:55 Uhr"
+    },
     {
       "title": "Landkreis Rostock: Teenager stirbt bei Autounfall auf Landstraße",
       "summary": "",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/11/was-geschah-am-12-september",
       "published": "Fri, 11 Sep 2026 21:55:04 -0000",
       "published_display": "11.09.2026 · 21:55 Uhr"
-    },
-    {
-      "title": "Wahlkampf: AfD-Kandidat Holm in MV: «Reiche allen die Hand»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/11/afd-kandidat-holm-in-mv-reiche-allen-die-hand-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/11/afd-kandidat-holm-in-mv-reiche-allen-die-hand",
-      "published": "Fri, 11 Sep 2026 21:50:38 -0000",
-      "published_display": "11.09.2026 · 21:50 Uhr"
-    },
-    {
-      "title": "Normandie: Mehr als 40 Verletzte nach Zugunglück in Nordfrankreich",
-      "summary": "Ein Waggon eines Regionalzugs ist zwischen Rouen und Caen in der Normandie nach einer Kollision umgekippt. Polizei und SNCF untersuchen die Ursache des Unfalls.",
-      "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-09/zugunglueck-normandie-sncf-rouen-caen-foto-1/original__640x360",
-      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-09/zugunglueck-normandie-sncf-rouen-caen",
-      "published": "Fri, 11 Sep 2026 21:44:41 -0000",
-      "published_display": "11.09.2026 · 21:44 Uhr"
     }
   ]
 }
