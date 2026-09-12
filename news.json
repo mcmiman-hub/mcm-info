@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-12T20:16:58.750965+00:00",
+  "updated": "2026-09-12T20:30:32.628986+00:00",
   "items": [
+    {
+      "title": "Kritik am Kanzler: Markus Söder schließt Kanzlersturz durch die CSU aus",
+      "summary": "Nach der Kritik an Kanzler Friedrich Merz spricht der CSU-Chef von einem »schweren Durchhänger« der Schwesterpartei. Merz sei aber weiter der Richtige für das Kanzleramt.",
+      "image": "https://img.zeit.de/politik/2026-09/cdu-parliamentary-fraction-meeting-after-the-general-election-in-berlin-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/markus-soeder-csu-friedrich-merz-kanzler-union",
+      "published": "Sat, 12 Sep 2026 20:28:31 -0000",
+      "published_display": "12.09.2026 · 20:28 Uhr"
+    },
+    {
+      "title": "Künstliche Intelligenz: OpenAI-Chef: Börsengang nicht mehr in diesem Jahr",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/openai-chef-boersengang-nicht-mehr-in-diesem-jahr-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/openai-chef-boersengang-nicht-mehr-in-diesem-jahr",
+      "published": "Sat, 12 Sep 2026 20:21:26 -0000",
+      "published_display": "12.09.2026 · 20:21 Uhr"
+    },
     {
       "title": "Heim-Turnier in Berlin: Frankreich zu stark: Basketballerinnen bei WM um Bronze",
       "summary": "",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/feuilleton/2026-09/gedenkveranstaltungen-9-11-new-york-zohran-mamdani-donald-trump",
       "published": "Sat, 12 Sep 2026 18:54:09 -0000",
       "published_display": "12.09.2026 · 18:54 Uhr"
-    },
-    {
-      "title": "BBL-Pokal: Niners Chemnitz mühen sich ins Achtelfinale",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/niners-chemnitz-muehen-sich-ins-achtelfinale-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/niners-chemnitz-muehen-sich-ins-achtelfinale",
-      "published": "Sat, 12 Sep 2026 18:50:47 -0000",
-      "published_display": "12.09.2026 · 18:50 Uhr"
-    },
-    {
-      "title": "Bundesliga, 3. Spieltag – Samstag: Freiburg deklassiert Gladbach, Remis zwischen Köln und Bremen",
-      "summary": "Borussia Mönchengladbach verliert in Unterzahl deutlich gegen den SC Freiburg. Der 1. FC Köln und Werder Bremen trennen sich unentschieden. Die Spielberichte",
-      "image": "https://img.zeit.de/2026-09/freiburg-moenchengladbach-bild/original__640x360",
-      "link": "https://www.zeit.de/sport/2026-09/bundesliga-3-spieltag-borussia-dortmund-sc-paderborn-mainz-eintracht-frankfurt",
-      "published": "Sat, 12 Sep 2026 18:50:10 -0000",
-      "published_display": "12.09.2026 · 18:50 Uhr"
     }
   ]
 }
