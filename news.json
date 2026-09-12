@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-12T18:18:38.021510+00:00",
+  "updated": "2026-09-12T18:31:26.855415+00:00",
   "items": [
+    {
+      "title": "Tennis: Krawietz und Pütz verpassen Doppel-Titel bei US Open",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/krawietz-und-puetz-verpassen-doppel-titel-bei-us-open-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/krawietz-und-puetz-verpassen-doppel-titel-bei-us-open",
+      "published": "Sat, 12 Sep 2026 18:26:24 -0000",
+      "published_display": "12.09.2026 · 18:26 Uhr"
+    },
+    {
+      "title": "Fußball-Bundesliga: Freiburg und BVB bauen Siegesserie aus - Krise in Gladbach",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/freiburg-und-bvb-bauen-siegesserie-aus-krise-in-gladbach-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/freiburg-und-bvb-bauen-siegesserie-aus-krise-in-gladbach",
+      "published": "Sat, 12 Sep 2026 18:25:10 -0000",
+      "published_display": "12.09.2026 · 18:25 Uhr"
+    },
+    {
+      "title": "Fußball-Bundesliga: Köln verspielt Führung und spielt 1:1 gegen Bremen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/koeln-verspielt-fuehrung-und-spielt-1-1-gegen-bremen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/koeln-verspielt-fuehrung-und-spielt-1-1-gegen-bremen",
+      "published": "Sat, 12 Sep 2026 18:23:51 -0000",
+      "published_display": "12.09.2026 · 18:23 Uhr"
+    },
     {
       "title": "Fußball-Bundesliga: Schlotterbeck für DFB? BVB-Boss berichtet von Klopp-Gespräch",
       "summary": "",
@@ -17,14 +41,6 @@
       "link": "https://www.zeit.de/news/2026-09/12/gladbacher-krise-schroeder-vermeidet-bekenntnis-zu-polanski",
       "published": "Sat, 12 Sep 2026 18:04:52 -0000",
       "published_display": "12.09.2026 · 18:04 Uhr"
-    },
-    {
-      "title": "Tennis: Krawietz und Pütz verpassen Doppel-Titel bei US Open",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/krawietz-und-puetz-verpassen-doppel-titel-bei-us-open-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/krawietz-und-puetz-verpassen-doppel-titel-bei-us-open",
-      "published": "Sat, 12 Sep 2026 17:57:36 -0000",
-      "published_display": "12.09.2026 · 17:57 Uhr"
     },
     {
       "title": "Ost-West-Pipeline: Irak entdeckt offenbar Drohnen-Startvorrichtung nahe iranischer Grenze",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/12/frankreich-zu-stark-basketballerinnen-bei-wm-um-bronze",
       "published": "Sat, 12 Sep 2026 16:55:51 -0000",
       "published_display": "12.09.2026 · 16:55 Uhr"
-    },
-    {
-      "title": "Künstliche Intelligenz: Anthropic-Chef fordert KI-Konzerne zu mehr Langsamkeit auf",
-      "summary": "Dario Amodei hat seine Branche davor gewarnt, zu schnell neue Modelle auf den Markt zu bringen. Laut einem Bericht wurde die Anthropic-KI für Waffenentwicklung genutzt.",
-      "image": "https://img.zeit.de/digital/2026-09/kuenstliche-intelligenz-anthropic-ceo-warnung-risiken-waffenentwicklung-bild-3/original__640x360",
-      "link": "https://www.zeit.de/digital/2026-09/kuenstliche-intelligenz-anthropic-ceo-warnung-risiken-waffenentwicklung",
-      "published": "Sat, 12 Sep 2026 16:47:24 -0000",
-      "published_display": "12.09.2026 · 16:47 Uhr"
-    },
-    {
-      "title": "2:2 nach spätem Gegentreffer: Gregoritsch-Rekord im Fokus bei FCA-Remis gegen Leverkusen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/gregoritsch-rekord-im-fokus-bei-fca-remis-gegen-leverkusen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/gregoritsch-rekord-im-fokus-bei-fca-remis-gegen-leverkusen",
-      "published": "Sat, 12 Sep 2026 16:46:41 -0000",
-      "published_display": "12.09.2026 · 16:46 Uhr"
     }
   ]
 }
