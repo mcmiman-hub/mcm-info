@@ -1,21 +1,29 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-12T17:26:44.228083+00:00",
+  "updated": "2026-09-12T17:40:50.151807+00:00",
   "items": [
+    {
+      "title": "Künstliche Intelligenz: Chef von KI-Firma Anthropic für verlangsamte Entwicklung",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/chef-von-ki-firma-anthropic-fuer-verlangsamte-entwicklung-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/chef-von-ki-firma-anthropic-fuer-verlangsamte-entwicklung",
+      "published": "Sat, 12 Sep 2026 17:34:20 -0000",
+      "published_display": "12.09.2026 · 17:34 Uhr"
+    },
+    {
+      "title": "Wehrhafte Demokratie: Politikwissenschaftler: AfD-Verbot wäre «großer Fehler»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/politikwissenschaftler-afd-verbot-waere-grosser-fehler-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/politikwissenschaftler-afd-verbot-waere-grosser-fehler",
+      "published": "Sat, 12 Sep 2026 17:26:57 -0000",
+      "published_display": "12.09.2026 · 17:26 Uhr"
+    },
     {
       "title": "Oskar Roehler: Der Unberührbare",
       "summary": "Der möglicherweise beste deutsche Schriftsteller unserer Tage lebt und arbeitet noch: Was Oskar Roehler so großartig macht.",
       "image": "https://img.zeit.de/2026/39/der-unberuehrbare-bild-2/original__640x360",
       "link": "https://www.zeit.de/2026/39/oskar-roehler-autor-regisseur-das-weisse-blatt-papier-roman",
       "published": "Sat, 12 Sep 2026 17:24:13 -0000",
-      "published_display": "12.09.2026 · 17:24 Uhr"
-    },
-    {
-      "title": "Künstliche Intelligenz: Chef von KI-Firma Anthropic für verlangsamte Entwicklung",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/chef-von-ki-firma-anthropic-fuer-verlangsamte-entwicklung-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/chef-von-ki-firma-anthropic-fuer-verlangsamte-entwicklung",
-      "published": "Sat, 12 Sep 2026 17:24:04 -0000",
       "published_display": "12.09.2026 · 17:24 Uhr"
     },
     {
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/12/autofahrer-faehrt-mit-wagen-gegen-baum-und-stirbt",
       "published": "Sat, 12 Sep 2026 16:34:31 -0000",
       "published_display": "12.09.2026 · 16:34 Uhr"
-    },
-    {
-      "title": "Inflation: Wird jetzt alles noch teurer?",
-      "summary": "Fast schien die Inflation unter Kontrolle. Doch jetzt steigen Öl- und Gaspreise rasant. Die Finanzmärkte sind alarmiert. Müssen Verbraucher es auch sein?",
-      "image": "https://img.zeit.de/geld/2026-09/inflation-ezb-preissteigerung-oel-gas-verbraucher-bild-2/original__640x360",
-      "link": "https://www.zeit.de/geld/2026-09/inflation-ezb-preissteigerung-oel-gas-verbraucher",
-      "published": "Sat, 12 Sep 2026 16:26:21 -0000",
-      "published_display": "12.09.2026 · 16:26 Uhr"
     }
   ]
 }
