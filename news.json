@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-12T03:16:57.918295+00:00",
+  "updated": "2026-09-12T03:29:27.431899+00:00",
   "items": [
+    {
+      "title": "Fotografie: Bilder des Tages",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/bilder-des-tages-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/bilder-des-tages",
+      "published": "Sat, 12 Sep 2026 03:25:08 -0000",
+      "published_display": "12.09.2026 · 03:25 Uhr"
+    },
+    {
+      "title": "Kultur: «Die Bühne hält jung» - Kabarettistin Lisa Fitz wird 75",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/die-buehne-haelt-jung-kabarettistin-lisa-fitz-wird-75-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/die-buehne-haelt-jung-kabarettistin-lisa-fitz-wird-75",
+      "published": "Sat, 12 Sep 2026 03:15:04 -0000",
+      "published_display": "12.09.2026 · 03:15 Uhr"
+    },
     {
       "title": "Bald beginnt die Heizperiode: Behörde: Gasspeicher könnten schon jetzt für Winter reichen",
       "summary": "",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/12/karius-spricht-ueber-dfb-geruecht-kommt-die-klopp-einladung",
       "published": "Sat, 12 Sep 2026 02:21:04 -0000",
       "published_display": "12.09.2026 · 02:21 Uhr"
-    },
-    {
-      "title": "Wetter: Sommerferien-Ausklang: Erst Sonne, dann Regen und Wind",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/sommerferien-ausklang-erst-sonne-dann-regen-und-wind-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/sommerferien-ausklang-erst-sonne-dann-regen-und-wind",
-      "published": "Sat, 12 Sep 2026 02:15:04 -0000",
-      "published_display": "12.09.2026 · 02:15 Uhr"
-    },
-    {
-      "title": "Autounfall in Köln: Unfall mit vier Schwerverletzten macht Polizei misstrauisch",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/unfall-mit-vier-schwerverletzten-macht-polizei-misstrauisch-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/unfall-mit-vier-schwerverletzten-macht-polizei-misstrauisch",
-      "published": "Sat, 12 Sep 2026 02:09:42 -0000",
-      "published_display": "12.09.2026 · 02:09 Uhr"
     }
   ]
 }
