@@ -1,7 +1,79 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-12T11:26:58.740273+00:00",
+  "updated": "2026-09-12T11:41:10.974743+00:00",
   "items": [
+    {
+      "title": "Täter flüchtig: Streitschlichter wird ins Gesicht geschlagen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/streitschlichter-wird-ins-gesicht-geschlagen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/streitschlichter-wird-ins-gesicht-geschlagen",
+      "published": "Sat, 12 Sep 2026 11:36:53 -0000",
+      "published_display": "12.09.2026 · 11:36 Uhr"
+    },
+    {
+      "title": "Kriminalität: Sexualdelikte bei Kinder-Therapie? Noch kein Prozessstart",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/sexualdelikte-bei-kinder-therapie-noch-kein-prozessstart-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/sexualdelikte-bei-kinder-therapie-noch-kein-prozessstart",
+      "published": "Sat, 12 Sep 2026 11:35:31 -0000",
+      "published_display": "12.09.2026 · 11:35 Uhr"
+    },
+    {
+      "title": "Mokka: Jemenitische Regierungstruppen greifen Huthi-Milizen am Roten Meer an",
+      "summary": "Die Huthis brachten in den vergangenen Tage die Hafenstadt Mokka und die Küste des Jemen unter ihre Kontrolle. Regierungstruppen starten offenbar eine Gegenoffensive.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/mocha-jemen-huthi-rotes-meer-bab-al-mandab-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/mokka-jemen-huthi-rotes-meer-bab-al-mandab",
+      "published": "Sat, 12 Sep 2026 11:34:30 -0000",
+      "published_display": "12.09.2026 · 11:34 Uhr"
+    },
+    {
+      "title": "Kultur: König Albert Theater Bad Elster eröffnet Saison",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/koenig-albert-theater-bad-elster-eroeffnet-saison-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/koenig-albert-theater-bad-elster-eroeffnet-saison",
+      "published": "Sat, 12 Sep 2026 11:31:29 -0000",
+      "published_display": "12.09.2026 · 11:31 Uhr"
+    },
+    {
+      "title": "2. Bundesliga: Medizinischer Notfall bei Braunschweig gegen Dresden",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/medizinischer-notfall-bei-braunschweig-gegen-dresden-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/medizinischer-notfall-bei-braunschweig-gegen-dresden",
+      "published": "Sat, 12 Sep 2026 11:29:27 -0000",
+      "published_display": "12.09.2026 · 11:29 Uhr"
+    },
+    {
+      "title": "Landeswahlkonferenz der SPD: 94,9 Prozent für Kämpfer – SPD setzt auf Wechsel im Landtag",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/kaempfer-will-schwarz-gruen-in-schleswig-holstein-abloesen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/kaempfer-will-schwarz-gruen-in-schleswig-holstein-abloesen",
+      "published": "Sat, 12 Sep 2026 11:29:18 -0000",
+      "published_display": "12.09.2026 · 11:29 Uhr"
+    },
+    {
+      "title": "Wahlkampf Berlin: SPD-Spitzenkandidat Krach: Mir geht es gut",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/spd-spitzenkandidat-krach-mir-geht-es-gut-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/spd-spitzenkandidat-krach-mir-geht-es-gut",
+      "published": "Sat, 12 Sep 2026 11:27:40 -0000",
+      "published_display": "12.09.2026 · 11:27 Uhr"
+    },
+    {
+      "title": "Nicht mehr wie mit 25: Bülent Ceylan: Mit 50 wird der Headbanger schwieriger",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/buelent-ceylan-mit-50-wird-der-headbanger-schwieriger-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/buelent-ceylan-mit-50-wird-der-headbanger-schwieriger",
+      "published": "Sat, 12 Sep 2026 11:27:18 -0000",
+      "published_display": "12.09.2026 · 11:27 Uhr"
+    },
+    {
+      "title": "Gewaltige Abdrücke: 66,5 Millionen Jahre alte Spur eines T. rex entdeckt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/66-5-millionen-jahre-alte-spur-eines-t-rex-entdeckt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/66-5-millionen-jahre-alte-spur-eines-t-rex-entdeckt",
+      "published": "Sat, 12 Sep 2026 11:26:23 -0000",
+      "published_display": "12.09.2026 · 11:26 Uhr"
+    },
     {
       "title": "Krieg gegen die Ukraine: Selenskyj zu Treffen mit Putin bei G20-Gipfel in Miami bereit",
       "summary": "Wolodymyr Selenskyj ist zu Gesprächen mit Wladimir Putin bereit, sollten beide in die USA eingeladen werden. Die Ukraine meldet drei Tote bei Angriffen. Das Liveblog",
@@ -11,20 +83,20 @@
       "published_display": "12.09.2026 · 11:24 Uhr"
     },
     {
+      "title": "Sprache: Landesbäuerin als Dialektsprecherin ausgezeichnet",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/landesbaeuerin-als-dialektsprecherin-ausgezeichnet-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/landesbaeuerin-als-dialektsprecherin-ausgezeichnet",
+      "published": "Sat, 12 Sep 2026 11:24:45 -0000",
+      "published_display": "12.09.2026 · 11:24 Uhr"
+    },
+    {
       "title": "Notarzt muss kommen: 89-Jähriger fährt mit Wohnmobil gegen Hauswand",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-09/12/89-jaehriger-faehrt-mit-wohnmobil-gegen-hauswand-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-09/12/89-jaehriger-faehrt-mit-wohnmobil-gegen-hauswand",
       "published": "Sat, 12 Sep 2026 11:22:17 -0000",
       "published_display": "12.09.2026 · 11:22 Uhr"
-    },
-    {
-      "title": "2. Bundesliga: Medizinischer Notfall bei Braunschweig gegen Dresden",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/medizinischer-notfall-bei-braunschweig-gegen-dresden-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/medizinischer-notfall-bei-braunschweig-gegen-dresden",
-      "published": "Sat, 12 Sep 2026 11:21:42 -0000",
-      "published_display": "12.09.2026 · 11:21 Uhr"
     },
     {
       "title": "Fernfahrer: Auf Achse",
@@ -49,78 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/12/auto-erfasst-motorradfahrer-mann-schwer-verletzt",
       "published": "Sat, 12 Sep 2026 11:07:22 -0000",
       "published_display": "12.09.2026 · 11:07 Uhr"
-    },
-    {
-      "title": "Aktionstag «Rhine Clean Up»: Tausende Freiwillige säubern Flussufer in NRW",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/tausende-wollen-muell-entlang-von-rhein-und-ruhr-sammeln-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/tausende-wollen-muell-entlang-von-rhein-und-ruhr-sammeln",
-      "published": "Sat, 12 Sep 2026 11:05:05 -0000",
-      "published_display": "12.09.2026 · 11:05 Uhr"
-    },
-    {
-      "title": "Unfall an Kreuzung: Motorradfahrer von Auto angefahren und gestorben",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/motorradfahrer-von-auto-angefahren-und-gestorben-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/motorradfahrer-von-auto-angefahren-und-gestorben",
-      "published": "Sat, 12 Sep 2026 10:55:23 -0000",
-      "published_display": "12.09.2026 · 10:55 Uhr"
-    },
-    {
-      "title": "Caponata: Schöner ohne Schale",
-      "summary": "Caponata ist so einfach und so gut. Kann man sie noch besser machen? Unser Autor hat nach vielen Versuchen einen Trick gefunden. Und die beste Beilage kennt er auch.",
-      "image": "https://img.zeit.de/zeit-magazin/2026/39/schoener-ohne-schale-bild-1/original__640x360",
-      "link": "https://www.zeit.de/zeit-magazin/2026/39/caponata-aubergine-zucchini-rezept-wochenmarkt",
-      "published": "Sat, 12 Sep 2026 10:54:36 -0000",
-      "published_display": "12.09.2026 · 10:54 Uhr"
-    },
-    {
-      "title": "Notfall: Kleinkind sperrt Mutter auf Balkon aus – Feuerwehr rückt an",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/kleinkind-sperrt-mutter-auf-balkon-aus-feuerwehr-rueckt-an-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/kleinkind-sperrt-mutter-auf-balkon-aus-feuerwehr-rueckt-an",
-      "published": "Sat, 12 Sep 2026 10:53:04 -0000",
-      "published_display": "12.09.2026 · 10:53 Uhr"
-    },
-    {
-      "title": "Koalitionsstreit: Klingbeil verurteilt Angriff aus Reihen der CDU auf Bas",
-      "summary": "CDU-Politiker Christian von Stetten bezeichnete Bärbel Bas als »nicht mehr tragbar«. Der SPD-Chef reagiert mit harter Kritik. Er fordert Zusammenhalt in der Regierung.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/christian-von-stetten-cdu-angriff-baerbel-bas-lars-klingbeil-afd-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/lars-klingbeil-cdu-angriff-baerbel-bas-spd-afd",
-      "published": "Sat, 12 Sep 2026 10:51:47 -0000",
-      "published_display": "12.09.2026 · 10:51 Uhr"
-    },
-    {
-      "title": "Giorgia Meloni: Meloni hält Brandmauern zu rechten Parteien für nicht erfolgreich",
-      "summary": "Die Regierungschefin Italiens ist selbst Mitglied einer rechtsnationalen Partei. Zur Wahl in Sachsen-Anhalt sagt Meloni, Sachfragen seien wichtiger als Brandmauern.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/giorgia-meloni-afd-brandmauer-rechte-parteien-europa-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/giorgia-meloni-afd-brandmauer-rechte-parteien-europa",
-      "published": "Sat, 12 Sep 2026 10:49:52 -0000",
-      "published_display": "12.09.2026 · 10:49 Uhr"
-    },
-    {
-      "title": "Landeswahlkonferenz im Norden: SPD-Generalsekretär fordert Kurswechsel im Bund",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/spd-generalsekretaer-fordert-kurswechsel-im-bund-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/spd-generalsekretaer-fordert-kurswechsel-im-bund",
-      "published": "Sat, 12 Sep 2026 10:48:56 -0000",
-      "published_display": "12.09.2026 · 10:48 Uhr"
-    },
-    {
-      "title": "G20-Energieministertreffen in Houston: Russland schickt Delegation zum G20-Energieministertreffen in die USA",
-      "summary": "Beim Treffen der G20-Finanzminister sorgte Russlands Teilnahme für Irritationen. Auch bei den Gesprächen der Energieminister in den USA sind russische Vertreter dabei.",
-      "image": "https://img.zeit.de/politik/2026-09/g20-energieministertreffen-houston-russland-usa-sergej-berdjew-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/2026-09/g20-energieministertreffen-houston-russland-usa-sergej-berdjew",
-      "published": "Sat, 12 Sep 2026 10:43:21 -0000",
-      "published_display": "12.09.2026 · 10:43 Uhr"
-    },
-    {
-      "title": "Fotografie: Bilder des Tages",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/bilder-des-tages-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/bilder-des-tages",
-      "published": "Sat, 12 Sep 2026 10:41:11 -0000",
-      "published_display": "12.09.2026 · 10:41 Uhr"
     }
   ]
 }
