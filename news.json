@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-12T17:15:22.603485+00:00",
+  "updated": "2026-09-12T17:26:44.228083+00:00",
   "items": [
+    {
+      "title": "Oskar Roehler: Der Unberührbare",
+      "summary": "Der möglicherweise beste deutsche Schriftsteller unserer Tage lebt und arbeitet noch: Was Oskar Roehler so großartig macht.",
+      "image": "https://img.zeit.de/2026/39/der-unberuehrbare-bild-2/original__640x360",
+      "link": "https://www.zeit.de/2026/39/oskar-roehler-autor-regisseur-das-weisse-blatt-papier-roman",
+      "published": "Sat, 12 Sep 2026 17:24:13 -0000",
+      "published_display": "12.09.2026 · 17:24 Uhr"
+    },
+    {
+      "title": "Künstliche Intelligenz: Chef von KI-Firma Anthropic für verlangsamte Entwicklung",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/chef-von-ki-firma-anthropic-fuer-verlangsamte-entwicklung-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/chef-von-ki-firma-anthropic-fuer-verlangsamte-entwicklung",
+      "published": "Sat, 12 Sep 2026 17:24:04 -0000",
+      "published_display": "12.09.2026 · 17:24 Uhr"
+    },
+    {
+      "title": "Fußball-Bundesliga: VfB wundert sich über VAR - «Nervt dann auch»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/vfb-wundert-sich-ueber-var-nervt-dann-auch-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/vfb-wundert-sich-ueber-var-nervt-dann-auch",
+      "published": "Sat, 12 Sep 2026 17:18:46 -0000",
+      "published_display": "12.09.2026 · 17:18 Uhr"
+    },
     {
       "title": "KI-Bilder: Einmal Wurmburger mit extra Reptilienhaut bitte",
       "summary": "Pickelige Pizzen und eiternde Spiegeleier: Restaurants bebildern ihre Speisekarten mit KI-Fotos – und vergraulen ihre Gäste. Doch warum sehen die Bilder so eklig aus?",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/geld/2026-09/inflation-ezb-preissteigerung-oel-gas-verbraucher",
       "published": "Sat, 12 Sep 2026 16:26:21 -0000",
       "published_display": "12.09.2026 · 16:26 Uhr"
-    },
-    {
-      "title": "Verkehr: Gefahrgut-Unfall auf A6: Fahrbahn teilweise wieder frei",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/gefahrgut-unfall-auf-a6-fahrbahn-teilweise-wieder-frei-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/gefahrgut-unfall-auf-a6-fahrbahn-teilweise-wieder-frei",
-      "published": "Sat, 12 Sep 2026 16:20:55 -0000",
-      "published_display": "12.09.2026 · 16:20 Uhr"
-    },
-    {
-      "title": "Bundesliga, 3. Spieltag – Samstag: BVB schlägt Paderborn, Freiburg feiert Kantersieg gegen Gladbach",
-      "summary": "Borussia Dortmund gewinnt zu Hause souverän gegen Paderborn. Mönchengladbach verliert in Unterzahl gegen den SC Freiburg. Die Spielberichte",
-      "image": "https://img.zeit.de/sport/2026-09/bundesliga-3-spieltag-borussia-dortmund-sc-paderborn-mainz-eintracht-frankfurt-foto-1/original__640x360",
-      "link": "https://www.zeit.de/sport/2026-09/bundesliga-3-spieltag-borussia-dortmund-sc-paderborn-mainz-eintracht-frankfurt",
-      "published": "Sat, 12 Sep 2026 16:20:24 -0000",
-      "published_display": "12.09.2026 · 16:20 Uhr"
-    },
-    {
-      "title": "Bundesweiter Protest: Zehntausende demonstrieren gegen Rechtsextremismus",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/kein-schritt-zurueck-rund-20-000-bei-demo-gegen-afd-in-nrw-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/kein-schritt-zurueck-rund-20-000-bei-demo-gegen-afd-in-nrw",
-      "published": "Sat, 12 Sep 2026 16:09:15 -0000",
-      "published_display": "12.09.2026 · 16:09 Uhr"
     }
   ]
 }
