@@ -1,7 +1,39 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-12T11:15:28.664536+00:00",
+  "updated": "2026-09-12T11:26:58.740273+00:00",
   "items": [
+    {
+      "title": "Krieg gegen die Ukraine: Selenskyj zu Treffen mit Putin bei G20-Gipfel in Miami bereit",
+      "summary": "Wolodymyr Selenskyj ist zu Gesprächen mit Wladimir Putin bereit, sollten beide in die USA eingeladen werden. Die Ukraine meldet drei Tote bei Angriffen. Das Liveblog",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/selenskyj-treffen-putin-g20-gipfel-miami-bereit-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "published": "Sat, 12 Sep 2026 11:24:52 -0000",
+      "published_display": "12.09.2026 · 11:24 Uhr"
+    },
+    {
+      "title": "Notarzt muss kommen: 89-Jähriger fährt mit Wohnmobil gegen Hauswand",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/89-jaehriger-faehrt-mit-wohnmobil-gegen-hauswand-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/89-jaehriger-faehrt-mit-wohnmobil-gegen-hauswand",
+      "published": "Sat, 12 Sep 2026 11:22:17 -0000",
+      "published_display": "12.09.2026 · 11:22 Uhr"
+    },
+    {
+      "title": "2. Bundesliga: Medizinischer Notfall bei Braunschweig gegen Dresden",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/medizinischer-notfall-bei-braunschweig-gegen-dresden-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/medizinischer-notfall-bei-braunschweig-gegen-dresden",
+      "published": "Sat, 12 Sep 2026 11:21:42 -0000",
+      "published_display": "12.09.2026 · 11:21 Uhr"
+    },
+    {
+      "title": "Fernfahrer: Auf Achse",
+      "summary": "Jochen ist Fernfahrer, seit 30 Jahren. Er sagt, man kann auf der Autobahn erkennen, wie es einer Gesellschaft geht. Dieser gehe es schlecht.",
+      "image": "https://img.zeit.de/2026/39/auf-achse-bild-2/original__640x360",
+      "link": "https://www.zeit.de/2026/39/fernfahrer-lkw-gueterverkehr-fahrermangel-gehalt-arbeitsbedingungen",
+      "published": "Sat, 12 Sep 2026 11:20:40 -0000",
+      "published_display": "12.09.2026 · 11:20 Uhr"
+    },
     {
       "title": "Einsatz im Kreis Esslingen: Traktorunfall – Mann eingeklemmt und schwer verletzt",
       "summary": "",
@@ -89,38 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/12/bilder-des-tages",
       "published": "Sat, 12 Sep 2026 10:41:11 -0000",
       "published_display": "12.09.2026 · 10:41 Uhr"
-    },
-    {
-      "title": "Südniedersachsen: Polizei: Mann erschießt Bruder in Seniorenheim",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/polizei-mann-erschiesst-bruder-in-seniorenheim-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/polizei-mann-erschiesst-bruder-in-seniorenheim",
-      "published": "Sat, 12 Sep 2026 10:40:07 -0000",
-      "published_display": "12.09.2026 · 10:40 Uhr"
-    },
-    {
-      "title": "Badeunfall: Mann wird nach Badeunfall vermisst",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/mann-wird-nach-badeunfall-vermisst-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/mann-wird-nach-badeunfall-vermisst",
-      "published": "Sat, 12 Sep 2026 10:39:46 -0000",
-      "published_display": "12.09.2026 · 10:39 Uhr"
-    },
-    {
-      "title": "Landeswahlkonferenz der SPD: Kämpfer will Schwarz-Grün in Schleswig-Holstein ablösen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/kaempfer-will-schwarz-gruen-in-schleswig-holstein-abloesen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/kaempfer-will-schwarz-gruen-in-schleswig-holstein-abloesen",
-      "published": "Sat, 12 Sep 2026 10:39:14 -0000",
-      "published_display": "12.09.2026 · 10:39 Uhr"
-    },
-    {
-      "title": "Angriff in Ludwigshafen: Mann erleidet schwere Kopfverletzung",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/mann-erleidet-schwere-kopfverletzung-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/mann-erleidet-schwere-kopfverletzung",
-      "published": "Sat, 12 Sep 2026 10:37:34 -0000",
-      "published_display": "12.09.2026 · 10:37 Uhr"
     }
   ]
 }
