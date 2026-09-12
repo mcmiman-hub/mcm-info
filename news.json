@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-12T21:16:41.212758+00:00",
+  "updated": "2026-09-12T21:27:48.306376+00:00",
   "items": [
+    {
+      "title": "Künstliche Intelligenz: Anthropic-Chef warnt vor Übernahme des Internets durch KI-Agenten",
+      "summary": "Dario Amodei fordert seine Branche zu mehr Langsamkeit bei der Entwicklung auf. KI berge »gravierende Risiken« – man dürfe sie aber nicht autoritären Mächten überlassen.",
+      "image": "https://img.zeit.de/digital/2026-09/kuenstliche-intelligenz-anthropic-ceo-warnung-risiken-waffenentwicklung-bild-3/original__640x360",
+      "link": "https://www.zeit.de/digital/2026-09/kuenstliche-intelligenz-anthropic-ceo-warnung-risiken-waffenentwicklung",
+      "published": "Sat, 12 Sep 2026 21:25:24 -0000",
+      "published_display": "12.09.2026 · 21:25 Uhr"
+    },
     {
       "title": "Filmfestspiele: Goldener Löwe in Venedig für dänische Regisseurin",
       "summary": "",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/12/parteien-beenden-wahlkampf-in-niedersachsen",
       "published": "Sat, 12 Sep 2026 19:08:39 -0000",
       "published_display": "12.09.2026 · 19:08 Uhr"
-    },
-    {
-      "title": "Demonstrationen gegen die AfD: »Ich weiß nicht so genau, ob dieser Protest sich lohnt«",
-      "summary": "Wer sind die Menschen, die am Samstag auf die Straße gingen, und wie geht es ihnen? Eindrücke aus Stuttgart, Hamburg – und Magdeburg.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/demonstrationen-afd-magdeburg-stuttgart-hamburg-bild-neu-bild-20/original__640x360",
-      "link": "https://www.zeit.de/politik/2026-09/demonstrationen-afd-magdeburg-stuttgart-hamburg",
-      "published": "Sat, 12 Sep 2026 19:01:42 -0000",
-      "published_display": "12.09.2026 · 19:01 Uhr"
     }
   ]
 }
