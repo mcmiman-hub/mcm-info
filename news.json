@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-12T21:54:06.896079+00:00",
+  "updated": "2026-09-12T22:15:52.861329+00:00",
   "items": [
+    {
+      "title": "Merz' Zukunft: Söder: Kanzlersturz von der CSU «auf keinen Fall»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/13/soeder-kanzlersturz-von-der-csu-auf-keinen-fall-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/13/soeder-kanzlersturz-von-der-csu-auf-keinen-fall",
+      "published": "Sat, 12 Sep 2026 22:01:04 -0000",
+      "published_display": "12.09.2026 · 22:01 Uhr"
+    },
+    {
+      "title": "Kalenderblatt: Was geschah am 13. September?",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/was-geschah-am-13-september-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/was-geschah-am-13-september",
+      "published": "Sat, 12 Sep 2026 21:55:04 -0000",
+      "published_display": "12.09.2026 · 21:55 Uhr"
+    },
     {
       "title": "Künstliche Intelligenz: Anthropic-Chef warnt vor Übernahme des Internets durch KI-Agenten",
       "summary": "Dario Amodei fordert seine Branche zu mehr Langsamkeit bei der Entwicklung auf. KI berge »gravierende Risiken« – man dürfe sie aber nicht autoritären Mächten überlassen.",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/12/lyles-und-bolt-sehen-100-meter-sieg-von-us-sprinter",
       "published": "Sat, 12 Sep 2026 19:13:01 -0000",
       "published_display": "12.09.2026 · 19:13 Uhr"
-    },
-    {
-      "title": "Filmfestspiele Venedig: Dänische Regisseurin May el-Toukhy gewinnt Goldenen Löwen",
-      "summary": "Für ihren Historienfilm hat die Regisseurin May el-Toukhy den Hauptpreis der Filmfestspiele in Venedig erhalten. Auch dessen Hauptdarstellerin wurde ausgezeichnet.",
-      "image": "https://img.zeit.de/feuilleton/2026-09/may-el-toukhy-goldener-loewe-filmfestspiele-venedig-woman-unknown-bild-1/original__640x360",
-      "link": "https://www.zeit.de/feuilleton/film/2026-09/may-el-toukhy-goldener-loewe-filmfestspiele-venedig-woman-unknown",
-      "published": "Sat, 12 Sep 2026 19:12:17 -0000",
-      "published_display": "12.09.2026 · 19:12 Uhr"
-    },
-    {
-      "title": "Vor der Stimmabgabe: Parteien beenden Wahlkampf in Niedersachsen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/parteien-beenden-wahlkampf-in-niedersachsen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/parteien-beenden-wahlkampf-in-niedersachsen",
-      "published": "Sat, 12 Sep 2026 19:08:39 -0000",
-      "published_display": "12.09.2026 · 19:08 Uhr"
     }
   ]
 }
