@@ -1,7 +1,47 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-12T18:43:13.806832+00:00",
+  "updated": "2026-09-12T18:54:17.625514+00:00",
   "items": [
+    {
+      "title": "Krieg gegen die Ukraine: Ukraine meldet russische Drohnenangriffe auf Fahrzeuge von Zivilisten",
+      "summary": "In Kramatorsk sollen bei Drohnenangriffen auf Autos von Zivilisten drei Menschen getötet worden sein. Die Ukraine erwartet einen »sehr schwierigen Winter«. Das Liveblog",
+      "image": "https://img.zeit.de/2026-09/https-www-zeit-de-politik-ausland-ukraine-krieg-news-liveblog-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "published": "Sat, 12 Sep 2026 18:53:44 -0000",
+      "published_display": "12.09.2026 · 18:53 Uhr"
+    },
+    {
+      "title": "BBL-Pokal: Niners Chemnitz mühen sich ins Achtelfinale",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/niners-chemnitz-muehen-sich-ins-achtelfinale-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/niners-chemnitz-muehen-sich-ins-achtelfinale",
+      "published": "Sat, 12 Sep 2026 18:50:47 -0000",
+      "published_display": "12.09.2026 · 18:50 Uhr"
+    },
+    {
+      "title": "Gedenkveranstaltungen zu 9/11: Dieser verdammte Tag hört einfach nicht auf. Nie.",
+      "summary": "Stille Feuerwehrleute, ein angegriffener Bürgermeister, der abwesende Präsident: Das Gedenken an 9/11 in New York zeigt, wie die Anschläge die Menschen nicht loslassen.",
+      "image": "https://img.zeit.de/feuilleton/2026-09/gedenkveranstaltungen-9-11-new-york-zohran-mamdani-2/original__640x360",
+      "link": "https://www.zeit.de/feuilleton/2026-09/gedenkveranstaltungen-9-11-new-york-zohran-mamdani-donald-trump",
+      "published": "Sat, 12 Sep 2026 18:50:20 -0000",
+      "published_display": "12.09.2026 · 18:50 Uhr"
+    },
+    {
+      "title": "Bundesliga, 3. Spieltag – Samstag: Freiburg deklassiert Gladbach, Remis zwischen Köln und Bremen",
+      "summary": "Borussia Mönchengladbach verliert in Unterzahl deutlich gegen den SC Freiburg. Der 1. FC Köln und Werder Bremen trennen sich unentschieden. Die Spielberichte",
+      "image": "https://img.zeit.de/2026-09/freiburg-moenchengladbach-bild/original__640x360",
+      "link": "https://www.zeit.de/sport/2026-09/bundesliga-3-spieltag-borussia-dortmund-sc-paderborn-mainz-eintracht-frankfurt",
+      "published": "Sat, 12 Sep 2026 18:50:10 -0000",
+      "published_display": "12.09.2026 · 18:50 Uhr"
+    },
+    {
+      "title": "Basketball: Alba Berlin verpatzt Generalprobe vor dem Saisonstart",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/alba-berlin-verpatzt-generalprobe-vor-dem-saisonstart-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/alba-berlin-verpatzt-generalprobe-vor-dem-saisonstart",
+      "published": "Sat, 12 Sep 2026 18:47:44 -0000",
+      "published_display": "12.09.2026 · 18:47 Uhr"
+    },
     {
       "title": "CSD in Halle: Es wird kein Sprint, sondern ein Marathon, sagen sie",
       "summary": "Eine Woche nach der Sachsen-Anhalt-Wahl feiert die queere Community in Halle den Christopher Street Day. Und beginnt sich zu wappnen für die kommende Zeit.",
@@ -16,14 +56,6 @@
       "image": "https://img.zeit.de/news/2026-09/12/john-malkovich-als-bester-schauspieler-in-venedig-geehrt-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-09/12/john-malkovich-als-bester-schauspieler-in-venedig-geehrt",
       "published": "Sat, 12 Sep 2026 18:35:58 -0000",
-      "published_display": "12.09.2026 · 18:35 Uhr"
-    },
-    {
-      "title": "Bundesliga, 3. Spieltag – Samstag: Freiburg deklassiert Gladbach, Remis zwischen Köln und Bremen",
-      "summary": "Borussia Mönchengladbach verliert in Unterzahl deutlich gegen den SC Freiburg. Der 1. FC Köln und Werder Bremen trennen sich unentschieden. Die Spielberichte",
-      "image": "https://img.zeit.de/2026-09/freiburg-moenchengladbach-bild/original__640x360",
-      "link": "https://www.zeit.de/sport/2026-09/bundesliga-3-spieltag-borussia-dortmund-sc-paderborn-mainz-eintracht-frankfurt",
-      "published": "Sat, 12 Sep 2026 18:35:21 -0000",
       "published_display": "12.09.2026 · 18:35 Uhr"
     },
     {
@@ -89,38 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/12/thueringer-hc-uebernimmt-tabellenfuehrung",
       "published": "Sat, 12 Sep 2026 17:41:17 -0000",
       "published_display": "12.09.2026 · 17:41 Uhr"
-    },
-    {
-      "title": "Künstliche Intelligenz: Chef von KI-Firma Anthropic für verlangsamte Entwicklung",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/chef-von-ki-firma-anthropic-fuer-verlangsamte-entwicklung-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/chef-von-ki-firma-anthropic-fuer-verlangsamte-entwicklung",
-      "published": "Sat, 12 Sep 2026 17:34:20 -0000",
-      "published_display": "12.09.2026 · 17:34 Uhr"
-    },
-    {
-      "title": "Wehrhafte Demokratie: Politikwissenschaftler: AfD-Verbot wäre «großer Fehler»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/politikwissenschaftler-afd-verbot-waere-grosser-fehler-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/politikwissenschaftler-afd-verbot-waere-grosser-fehler",
-      "published": "Sat, 12 Sep 2026 17:26:57 -0000",
-      "published_display": "12.09.2026 · 17:26 Uhr"
-    },
-    {
-      "title": "Oskar Roehler: Der Unberührbare",
-      "summary": "Der möglicherweise beste deutsche Schriftsteller unserer Tage lebt und arbeitet noch: Was Oskar Roehler so großartig macht.",
-      "image": "https://img.zeit.de/2026/39/der-unberuehrbare-bild-2/original__640x360",
-      "link": "https://www.zeit.de/2026/39/oskar-roehler-autor-regisseur-das-weisse-blatt-papier-roman",
-      "published": "Sat, 12 Sep 2026 17:24:13 -0000",
-      "published_display": "12.09.2026 · 17:24 Uhr"
-    },
-    {
-      "title": "Fußball-Bundesliga: VfB wundert sich über VAR - «Nervt dann auch»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/vfb-wundert-sich-ueber-var-nervt-dann-auch-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/vfb-wundert-sich-ueber-var-nervt-dann-auch",
-      "published": "Sat, 12 Sep 2026 17:18:46 -0000",
-      "published_display": "12.09.2026 · 17:18 Uhr"
     }
   ]
 }
