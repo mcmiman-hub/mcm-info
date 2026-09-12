@@ -1,7 +1,39 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-12T15:41:42.647443+00:00",
+  "updated": "2026-09-12T15:54:21.061941+00:00",
   "items": [
+    {
+      "title": "Bundesliga, 3. Spieltag – Samstag: BVB schlägt Paderborn, Freiburg feiert Kantersieg gegen Gladbach",
+      "summary": "Borussia Dortmund hat im Heimspiel souverän gegen Paderborn gewonnen. Mönchengladbach verliert in Unterzahl gegen den SC Freiburg.",
+      "image": "https://img.zeit.de/sport/2026-09/bundesliga-3-spieltag-borussia-dortmund-sc-paderborn-mainz-eintracht-frankfurt-foto-1/original__640x360",
+      "link": "https://www.zeit.de/sport/2026-09/bundesliga-3-spieltag-borussia-dortmund-sc-paderborn-mainz-eintracht-frankfurt",
+      "published": "Sat, 12 Sep 2026 15:46:06 -0000",
+      "published_display": "12.09.2026 · 15:46 Uhr"
+    },
+    {
+      "title": "Großes Bündnis: Mindestens 18.000 Menschen demonstrieren für Zusammenhalt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/demo-fuer-zusammenhalt-in-berliner-innenstadt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/demo-fuer-zusammenhalt-in-berliner-innenstadt",
+      "published": "Sat, 12 Sep 2026 15:44:12 -0000",
+      "published_display": "12.09.2026 · 15:44 Uhr"
+    },
+    {
+      "title": "Kriminalität am Freitagabend: Schüsse auf Linienbus in Hamburg",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/schuesse-auf-linienbus-in-hamburg-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/schuesse-auf-linienbus-in-hamburg",
+      "published": "Sat, 12 Sep 2026 15:43:05 -0000",
+      "published_display": "12.09.2026 · 15:43 Uhr"
+    },
+    {
+      "title": "Formel 1: Norris holt mit Fabelrunde Pole in Madrid: «Bin schockiert»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/norris-holt-premieren-pole-in-madrid-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/norris-holt-premieren-pole-in-madrid",
+      "published": "Sat, 12 Sep 2026 15:42:37 -0000",
+      "published_display": "12.09.2026 · 15:42 Uhr"
+    },
     {
       "title": "Jährliche Aktion: Freiwillige befreien bei «Rhine Clean Up» Flussufer von Müll",
       "summary": "",
@@ -89,38 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/12/schlotterbeck-comeback-und-fallrueckzieher-bvb-siegt-weiter",
       "published": "Sat, 12 Sep 2026 15:27:59 -0000",
       "published_display": "12.09.2026 · 15:27 Uhr"
-    },
-    {
-      "title": "Fußball-Bundesliga: SC Freiburg feiert historischen Start – Gladbach geht unter",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/sc-freiburg-feiert-historischen-start-gladbach-geht-unter-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/sc-freiburg-feiert-historischen-start-gladbach-geht-unter",
-      "published": "Sat, 12 Sep 2026 15:27:42 -0000",
-      "published_display": "12.09.2026 · 15:27 Uhr"
-    },
-    {
-      "title": "Rund 350 Teilnehmer: CSD in Rathenow friedlich - Gegendemo klein",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/csd-in-rathenow-friedlich-gegendemo-klein-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/csd-in-rathenow-friedlich-gegendemo-klein",
-      "published": "Sat, 12 Sep 2026 15:25:38 -0000",
-      "published_display": "12.09.2026 · 15:25 Uhr"
-    },
-    {
-      "title": "Bundesliga: Frankfurt bejubelt zweiten Derby-Sieg in Mainz",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/frankfurt-bejubelt-zweiten-derby-sieg-in-mainz-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/frankfurt-bejubelt-zweiten-derby-sieg-in-mainz",
-      "published": "Sat, 12 Sep 2026 15:25:37 -0000",
-      "published_display": "12.09.2026 · 15:25 Uhr"
-    },
-    {
-      "title": "Marine Le Pen: Darum verliert Marine Le Pen kein Wort zum Wahlerfolg der AfD",
-      "summary": "Öffentlich hält die Französin schon seit Langem demonstrativ Abstand zu der deutschen Rechtspartei. Aber nicht nur politisch verbindet sie mit der AfD vieles.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/marine-le-pen-afd-rassemblement-national-frankreich-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/marine-le-pen-afd-rassemblement-national-frankreich",
-      "published": "Sat, 12 Sep 2026 15:18:29 -0000",
-      "published_display": "12.09.2026 · 15:18 Uhr"
     }
   ]
 }
