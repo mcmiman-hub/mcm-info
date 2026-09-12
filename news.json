@@ -1,7 +1,63 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-12T03:29:27.431899+00:00",
+  "updated": "2026-09-12T03:43:44.256307+00:00",
   "items": [
+    {
+      "title": "Isar Aerospace: ESA verspricht Isar Aerospace 200 Millionen Euro",
+      "summary": "Isar Aerospace war der erste Orbitalflug vom europäischen Kontinent aus gelungen. Die Europäische Weltraumagentur will das Startup weiter finanziell unterstützen.",
+      "image": "https://img.zeit.de/wissenschaft/2026-09/handout-isar-aerospace-rakete-hebt-erfolgreich-ab-bild-2/original__640x360",
+      "link": "https://www.zeit.de/wissenschaft/2026-09/esa-isar-aerospace-spectrum-rakete-bayern",
+      "published": "Sat, 12 Sep 2026 03:41:11 -0000",
+      "published_display": "12.09.2026 · 03:41 Uhr"
+    },
+    {
+      "title": "Nord- und Südkorea: Nordkorea feuert erneut ballistische Kurzstreckenraketen ab",
+      "summary": "Mehrere Kurzstreckenraketen wurden aus dem nordkoreanischen Wontan abgeschossen. Südkorea, die USA und Japan hatten zuvor eine gemeinsame Militärübung absolviert.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/nordkorea-raketenabschuss-ballistische-kurzstreckenraketen-wonsan-japanisches-meer-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/nordkorea-raketenabschuss-ballistische-kurzstreckenraketen-wonsan-japanisches-meer",
+      "published": "Sat, 12 Sep 2026 03:35:52 -0000",
+      "published_display": "12.09.2026 · 03:35 Uhr"
+    },
+    {
+      "title": "Hohe Benzinpreise: Brandenburgs SPD-Regierungschef Woidke für Spritpreisdeckel",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/brandenburgs-spd-regierungschef-woidke-fuer-spritpreisdeckel-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/brandenburgs-spd-regierungschef-woidke-fuer-spritpreisdeckel",
+      "published": "Sat, 12 Sep 2026 03:30:11 -0000",
+      "published_display": "12.09.2026 · 03:30 Uhr"
+    },
+    {
+      "title": "Ernährungswirtschaft: Branche: Unsicherheit bei Labels für regionale Lebensmittel",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/branche-unsicherheit-bei-labels-fuer-regionale-lebensmittel-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/branche-unsicherheit-bei-labels-fuer-regionale-lebensmittel",
+      "published": "Sat, 12 Sep 2026 03:30:07 -0000",
+      "published_display": "12.09.2026 · 03:30 Uhr"
+    },
+    {
+      "title": "Kommunalwahl: Wahlbeobachtung aus Misstrauen? Warum es daran Kritik gibt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/wahlbeobachtung-aus-misstrauen-warum-es-daran-kritik-gibt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/wahlbeobachtung-aus-misstrauen-warum-es-daran-kritik-gibt",
+      "published": "Sat, 12 Sep 2026 03:30:06 -0000",
+      "published_display": "12.09.2026 · 03:30 Uhr"
+    },
+    {
+      "title": "Wetterbericht: Noch einmal Freibadwetter – dann kommt die Kaltfront",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/noch-einmal-freibadwetter-dann-kommt-die-kaltfront-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/noch-einmal-freibadwetter-dann-kommt-die-kaltfront",
+      "published": "Sat, 12 Sep 2026 03:30:05 -0000",
+      "published_display": "12.09.2026 · 03:30 Uhr"
+    },
+    {
+      "title": "Containerschifffahrt: Hapag-Lloyd setzt trotz israelischem Veto auf ZIM-Übernahme",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/hapag-lloyd-setzt-trotz-israelischem-veto-auf-zim-uebernahme-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/hapag-lloyd-setzt-trotz-israelischem-veto-auf-zim-uebernahme",
+      "published": "Sat, 12 Sep 2026 03:30:04 -0000",
+      "published_display": "12.09.2026 · 03:30 Uhr"
+    },
     {
       "title": "Fotografie: Bilder des Tages",
       "summary": "",
@@ -65,62 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/09/die-89-jaehrige-die-in-den-landtag-will",
       "published": "Sat, 12 Sep 2026 03:00:08 -0000",
       "published_display": "12.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Abschied vom Amt: Ein «überzeugter Kommunalo»: Dienstältester Landrat hört auf",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/ein-ueberzeugter-kommunalo-dienstaeltester-landrat-hoert-auf-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/ein-ueberzeugter-kommunalo-dienstaeltester-landrat-hoert-auf",
-      "published": "Sat, 12 Sep 2026 03:00:06 -0000",
-      "published_display": "12.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Umfrage: Müde Schüler: Fast jeder zweite klagt über Schlafprobleme",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/muede-schueler-fast-jeder-zweite-klagt-ueber-schlafprobleme-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/muede-schueler-fast-jeder-zweite-klagt-ueber-schlafprobleme",
-      "published": "Sat, 12 Sep 2026 03:00:05 -0000",
-      "published_display": "12.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Starttermin offen: 313 Millionen Euro für neues Abschiebegefängnis",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/313-millionen-euro-fuer-neues-abschiebegefaengnis-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/313-millionen-euro-fuer-neues-abschiebegefaengnis",
-      "published": "Sat, 12 Sep 2026 03:00:04 -0000",
-      "published_display": "12.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Unfall im Kreis Düren: 16-Jähriger bei Moped-Unfall schwer verletzt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/16-jaehriger-bei-moped-unfall-schwer-verletzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/16-jaehriger-bei-moped-unfall-schwer-verletzt",
-      "published": "Sat, 12 Sep 2026 02:41:19 -0000",
-      "published_display": "12.09.2026 · 02:41 Uhr"
-    },
-    {
-      "title": "AfD in Sachsen-Anhalt: Hubig erinnert Beamte an Widerspruch bei rechtswidrigen Weisungen",
-      "summary": "Beamte in Sachsen-Anhalt müssten AfD-Anweisungen nicht folgen, wenn sie rechtswidrig sind, sagt die Bundesjustizministerin. Staatsanwälte seien aber weisungsgebunden.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/afd-sachsen-anhalt-landesregierung-beamte-justiz-bundeszwang-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/afd-sachsen-anhalt-landesregierung-beamte-justiz-bundeszwang",
-      "published": "Sat, 12 Sep 2026 02:38:05 -0000",
-      "published_display": "12.09.2026 · 02:38 Uhr"
-    },
-    {
-      "title": "Streckensanierungen der Bahn: Madsen fordert schnelle Sanierung für Hamburg-Flensburg",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/madsen-fordert-schnelle-sanierung-fuer-hamburg-flensburg-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/madsen-fordert-schnelle-sanierung-fuer-hamburg-flensburg",
-      "published": "Sat, 12 Sep 2026 02:30:05 -0000",
-      "published_display": "12.09.2026 · 02:30 Uhr"
-    },
-    {
-      "title": "Fußball-Nationalmannschaft: Karius spricht über DFB-Gerücht: Kommt die Klopp-Einladung?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/karius-spricht-ueber-dfb-geruecht-kommt-die-klopp-einladung-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/karius-spricht-ueber-dfb-geruecht-kommt-die-klopp-einladung",
-      "published": "Sat, 12 Sep 2026 02:21:04 -0000",
-      "published_display": "12.09.2026 · 02:21 Uhr"
     }
   ]
 }
