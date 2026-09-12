@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-12T12:35:31.860318+00:00",
+  "updated": "2026-09-12T12:47:46.175846+00:00",
   "items": [
+    {
+      "title": "Ost-West-Ölpipeline: Schwerdtner fordert staatliche Maßnahmen gegen hohe Spritpreise",
+      "summary": "Durch die Abschaltung der Ost-West-Pipeline in Saudi-Arabien könnten die Spritpreise weiter steigen. Die Co-Vorsitzende der Linken fordert, sofort staatlich zu entlasten.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/ost-west-oelpipeline-saudi-arabien-drohnenangriff-strasse-von-hormus-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/ost-west-oelpipeline-saudi-arabien-drohnenangriff-strasse-von-hormus",
+      "published": "Sat, 12 Sep 2026 12:46:04 -0000",
+      "published_display": "12.09.2026 · 12:46 Uhr"
+    },
+    {
+      "title": "Kriminalität: Einbruch in Kunstauktionshaus: Antike Becher gestohlen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/einbruch-in-kunstauktionshaus-antike-becher-gestohlen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/einbruch-in-kunstauktionshaus-antike-becher-gestohlen",
+      "published": "Sat, 12 Sep 2026 12:45:10 -0000",
+      "published_display": "12.09.2026 · 12:45 Uhr"
+    },
+    {
+      "title": "Fußball-Bundesliga: Nico Schlotterbeck gibt Comeback nach WM-Verletzung",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/nico-schlotterbeck-gibt-comeback-nach-wm-verletzung-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/nico-schlotterbeck-gibt-comeback-nach-wm-verletzung",
+      "published": "Sat, 12 Sep 2026 12:40:04 -0000",
+      "published_display": "12.09.2026 · 12:40 Uhr"
+    },
     {
       "title": "Hakenkreuze: «Hassen euch» - Angriff auf Cottbuser Regenbogenkombinat",
       "summary": "",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/12/streitschlichter-wird-ins-gesicht-geschlagen",
       "published": "Sat, 12 Sep 2026 12:01:19 -0000",
       "published_display": "12.09.2026 · 12:01 Uhr"
-    },
-    {
-      "title": "Tristan Buckmaster: »Von Anfang an hatte ich den Eindruck, dass sie uns anlügen«",
-      "summary": "Tristan Buckmaster wollte eines der größten Probleme der Mathematik lösen – dann kam ihm OpenAI zuvor. Hier erzählt er, wieso er der Darstellung der Firma misstraut.",
-      "image": "https://img.zeit.de/wissenschaft/2026-09/tristan-buckmaster-millenium-problem-mathematik-openai-kuenstliche-intelligenz-bild/original__640x360",
-      "link": "https://www.zeit.de/wissenschaft/2026-09/tristan-buckmaster-millenium-problem-mathematik-openai-kuenstliche-intelligenz",
-      "published": "Sat, 12 Sep 2026 11:58:40 -0000",
-      "published_display": "12.09.2026 · 11:58 Uhr"
-    },
-    {
-      "title": "Mokka: Jemenitische Regierungstruppen greifen Huthi-Milizen am Roten Meer an",
-      "summary": "Die Huthis brachten in den vergangenen Tage die Hafenstadt Mokka und die Küste des Jemen unter ihre Kontrolle. Regierungstruppen starten offenbar eine Gegenoffensive.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/mocha-jemen-huthi-rotes-meer-bab-al-mandab-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/mokka-jemen-huthi-rotes-meer-bab-al-mandab",
-      "published": "Sat, 12 Sep 2026 11:55:50 -0000",
-      "published_display": "12.09.2026 · 11:55 Uhr"
-    },
-    {
-      "title": "In der Innenstadt: Wenig Zulauf für Anti-Merz-Kundgebung",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/wenig-zulauf-fuer-anti-merz-kundgebung-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/wenig-zulauf-fuer-anti-merz-kundgebung",
-      "published": "Sat, 12 Sep 2026 11:50:10 -0000",
-      "published_display": "12.09.2026 · 11:50 Uhr"
     }
   ]
 }
