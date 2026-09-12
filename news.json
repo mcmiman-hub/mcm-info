@@ -1,14 +1,70 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-12T04:54:51.910943+00:00",
+  "updated": "2026-09-12T05:15:57.873513+00:00",
   "items": [
     {
       "title": "Tennis: Ben Shelton besiegt Frances Tiafoe im zweiten Halbfinale der US Open",
       "summary": "Ben Shelton trifft im Finale in New York auf Alexander Zverev. Dort könnte er den ersten US-amerikanischen Grand-Slam-Titel der Herren seit 2003 gewinnen.",
-      "image": "https://img.zeit.de/administratives/sharing/fallback-image-die-zeit/wide__1300x731",
+      "image": "https://img.zeit.de/sport/2026-09/ben-shelton-us-open-tennis-bild/original__640x360",
       "link": "https://www.zeit.de/sport/2026-09/tennis-ben-shelton-francis-tiafoe-us-open",
-      "published": "Sat, 12 Sep 2026 04:37:29 -0000",
-      "published_display": "12.09.2026 · 04:37 Uhr"
+      "published": "Sat, 12 Sep 2026 05:15:00 -0000",
+      "published_display": "12.09.2026 · 05:15 Uhr"
+    },
+    {
+      "title": "Normandie: Mehr als 40 Verletzte nach Zugunglück in Nordfrankreich",
+      "summary": "Ein Waggon eines Regionalzugs ist zwischen Rouen und Caen in der Normandie nach einer Kollision umgekippt. Polizei und SNCF untersuchen die Ursache des Unfalls.",
+      "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-09/zugunglueck-normandie-sncf-rouen-caen-foto-1/original__640x360",
+      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-09/zugunglueck-normandie-sncf-rouen-caen",
+      "published": "Sat, 12 Sep 2026 05:04:56 -0000",
+      "published_display": "12.09.2026 · 05:04 Uhr"
+    },
+    {
+      "title": "Bedeutendster US-Fernsehpreis: Das sind laut Emmys die 16 besten Serien 2026",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/das-sind-laut-emmys-die-16-besten-serien-2026-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/das-sind-laut-emmys-die-16-besten-serien-2026",
+      "published": "Sat, 12 Sep 2026 05:01:05 -0000",
+      "published_display": "12.09.2026 · 05:01 Uhr"
+    },
+    {
+      "title": "Weinlese beginnt: Weinbau im Norden - Nische mit Potenzial",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/weinbau-im-norden-nische-mit-potenzial-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/weinbau-im-norden-nische-mit-potenzial",
+      "published": "Sat, 12 Sep 2026 05:00:07 -0000",
+      "published_display": "12.09.2026 · 05:00 Uhr"
+    },
+    {
+      "title": "Riesendrachen: Festival der Riesendrachen auf dem Tempelhofer Feld",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/festival-der-riesendrachen-auf-dem-tempelhofer-feld-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/festival-der-riesendrachen-auf-dem-tempelhofer-feld",
+      "published": "Sat, 12 Sep 2026 05:00:06 -0000",
+      "published_display": "12.09.2026 · 05:00 Uhr"
+    },
+    {
+      "title": "Humor: Sebastian Pufpaff: «Ich wurde schon immer älter geschätzt»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/sebastian-pufpaff-ich-wurde-schon-immer-aelter-geschaetzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/sebastian-pufpaff-ich-wurde-schon-immer-aelter-geschaetzt",
+      "published": "Sat, 12 Sep 2026 05:00:05 -0000",
+      "published_display": "12.09.2026 · 05:00 Uhr"
+    },
+    {
+      "title": "Thüringer Landesregierung: Neue Koalition, alte Sorgen: Mario Voigts fünf Probleme",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/neue-koalition-alte-sorgen-mario-voigts-fuenf-probleme-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/neue-koalition-alte-sorgen-mario-voigts-fuenf-probleme",
+      "published": "Sat, 12 Sep 2026 05:00:04 -0000",
+      "published_display": "12.09.2026 · 05:00 Uhr"
+    },
+    {
+      "title": "Feuer: Ehemalige Werkstatt in Erlau brennt vollständig aus",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/ehemalige-werkstatt-in-erlau-brennt-vollstaendig-aus-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/ehemalige-werkstatt-in-erlau-brennt-vollstaendig-aus",
+      "published": "Sat, 12 Sep 2026 04:57:46 -0000",
+      "published_display": "12.09.2026 · 04:57 Uhr"
     },
     {
       "title": "Selbstbestimmungsgesetz: Mehr Geschlechtereinträge in NRW geändert seit neuem Gesetz",
@@ -65,62 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/12/expertin-ki-soll-umsaetze-im-mittelstand-ankurbeln",
       "published": "Sat, 12 Sep 2026 04:00:07 -0000",
       "published_display": "12.09.2026 · 04:00 Uhr"
-    },
-    {
-      "title": "Robotik-Restaurant: Heute kocht der Roboter: Modellversuch startet in Leipzig",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/heute-kocht-der-roboter-modellversuch-startet-in-leipzig-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/heute-kocht-der-roboter-modellversuch-startet-in-leipzig",
-      "published": "Sat, 12 Sep 2026 04:00:05 -0000",
-      "published_display": "12.09.2026 · 04:00 Uhr"
-    },
-    {
-      "title": "WM in Berlin: Die fünf Gesichter des deutschen Basketball-Coups",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/die-fuenf-gesichter-des-deutschen-basketball-coups-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/die-fuenf-gesichter-des-deutschen-basketball-coups",
-      "published": "Sat, 12 Sep 2026 03:55:05 -0000",
-      "published_display": "12.09.2026 · 03:55 Uhr"
-    },
-    {
-      "title": "Tennis bei den US Open: Zverev und der «amerikanische Traum» - Finale gegen US-Star",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/grosse-titelchance-zverev-nervenstark-ins-us-open-finale-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/grosse-titelchance-zverev-nervenstark-ins-us-open-finale",
-      "published": "Sat, 12 Sep 2026 03:53:36 -0000",
-      "published_display": "12.09.2026 · 03:53 Uhr"
-    },
-    {
-      "title": "Infrastrukturmodernisierung: 500 Milliarden – und dann das",
-      "summary": "Mit dem Sondervermögen wollte die SPD das Land und die Partei voranbringen. Letzteres hat nicht funktioniert. Warum eigentlich?",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/sondervermoegen-infrastruktur-wahlkampf-spd-kommunikation-bild-2/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/sondervermoegen-infrastruktur-wahlkampf-spd-kommunikation",
-      "published": "Sat, 12 Sep 2026 03:53:05 -0000",
-      "published_display": "12.09.2026 · 03:53 Uhr"
-    },
-    {
-      "title": "Körpergröße bei Männern: Bei 165 Zentimetern war Schluss",
-      "summary": "Kleine Männer müssen allerlei Gemeinheiten aushalten. In der Schulzeit wurde unserem 1,65 großen Autor ins Gesicht gefurzt. Die härteste Probe aber war: die Liebe.",
-      "image": "https://img.zeit.de/zeit-magazin/2026/39/na-kleiner-aufmacher/original__640x360",
-      "link": "https://www.zeit.de/zeit-magazin/2026/39/koerpergroesse-maenner-partnersuche-beziehung",
-      "published": "Sat, 12 Sep 2026 03:47:01 -0000",
-      "published_display": "12.09.2026 · 03:47 Uhr"
-    },
-    {
-      "title": "James Hawes: »Im Westen wird die AfD nicht regieren«",
-      "summary": "Schon lange vor der Teilung hätten sich West und Ost fundamental unterschieden. Aber die Deutschen, sagt der britische Germanist James Hawes, wollten das nicht wahrhaben.",
-      "image": "https://img.zeit.de/politik/2026-09/james-hawes-germanist-ostdeutschland/original__640x360",
-      "link": "https://www.zeit.de/politik/2026-09/james-hawes-germanist-ostdeutschland-westdeutschland-wahlverhalten-unterschiede",
-      "published": "Sat, 12 Sep 2026 03:45:56 -0000",
-      "published_display": "12.09.2026 · 03:45 Uhr"
-    },
-    {
-      "title": "Isar Aerospace: Esa verspricht Isar Aerospace 200 Millionen Euro",
-      "summary": "Isar Aerospace war der erste Orbitalflug vom europäischen Kontinent aus gelungen. Die Europäische Weltraumagentur will das Start-up weiter finanziell unterstützen.",
-      "image": "https://img.zeit.de/wissenschaft/2026-09/handout-isar-aerospace-rakete-hebt-erfolgreich-ab-bild-2/original__640x360",
-      "link": "https://www.zeit.de/wissenschaft/2026-09/esa-isar-aerospace-spectrum-rakete-bayern",
-      "published": "Sat, 12 Sep 2026 03:41:11 -0000",
-      "published_display": "12.09.2026 · 03:41 Uhr"
     }
   ]
 }
