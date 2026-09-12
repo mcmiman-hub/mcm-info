@@ -1,7 +1,39 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-12T18:31:26.855415+00:00",
+  "updated": "2026-09-12T18:43:13.806832+00:00",
   "items": [
+    {
+      "title": "CSD in Halle: Es wird kein Sprint, sondern ein Marathon, sagen sie",
+      "summary": "Eine Woche nach der Sachsen-Anhalt-Wahl feiert die queere Community in Halle den Christopher Street Day. Und beginnt sich zu wappnen für die kommende Zeit.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/csd-halle-parade-sachsen-anhalt-afd-demonstration-bild-at/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/csd-halle-parade-sachsen-anhalt-afd-demonstration",
+      "published": "Sat, 12 Sep 2026 18:37:33 -0000",
+      "published_display": "12.09.2026 · 18:37 Uhr"
+    },
+    {
+      "title": "Filmfestspiele: John Malkovich als bester Schauspieler in Venedig geehrt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/john-malkovich-als-bester-schauspieler-in-venedig-geehrt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/john-malkovich-als-bester-schauspieler-in-venedig-geehrt",
+      "published": "Sat, 12 Sep 2026 18:35:58 -0000",
+      "published_display": "12.09.2026 · 18:35 Uhr"
+    },
+    {
+      "title": "Bundesliga, 3. Spieltag – Samstag: Freiburg deklassiert Gladbach, Remis zwischen Köln und Bremen",
+      "summary": "Borussia Mönchengladbach verliert in Unterzahl deutlich gegen den SC Freiburg. Der 1. FC Köln und Werder Bremen trennen sich unentschieden. Die Spielberichte",
+      "image": "https://img.zeit.de/2026-09/freiburg-moenchengladbach-bild/original__640x360",
+      "link": "https://www.zeit.de/sport/2026-09/bundesliga-3-spieltag-borussia-dortmund-sc-paderborn-mainz-eintracht-frankfurt",
+      "published": "Sat, 12 Sep 2026 18:35:21 -0000",
+      "published_display": "12.09.2026 · 18:35 Uhr"
+    },
+    {
+      "title": "Polizei ermittelt: 41-Jähriger nach Streit in Reinickendorf in Lebensgefahr",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/41-jaehriger-nach-streit-in-reinickendorf-in-lebensgefahr-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/41-jaehriger-nach-streit-in-reinickendorf-in-lebensgefahr",
+      "published": "Sat, 12 Sep 2026 18:34:09 -0000",
+      "published_display": "12.09.2026 · 18:34 Uhr"
+    },
     {
       "title": "Tennis: Krawietz und Pütz verpassen Doppel-Titel bei US Open",
       "summary": "",
@@ -89,38 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/12/vfb-wundert-sich-ueber-var-nervt-dann-auch",
       "published": "Sat, 12 Sep 2026 17:18:46 -0000",
       "published_display": "12.09.2026 · 17:18 Uhr"
-    },
-    {
-      "title": "KI-Bilder: Einmal Wurmburger mit extra Reptilienhaut bitte",
-      "summary": "Pickelige Pizzen und eiternde Spiegeleier: Restaurants bebildern ihre Speisekarten mit KI-Fotos – und vergraulen ihre Gäste. Doch warum sehen die Bilder so eklig aus?",
-      "image": "https://img.zeit.de/digital/2026-09/bilder-essen-speisekarte-restaurant-internetkolumne-bild/original__640x360",
-      "link": "https://www.zeit.de/digital/2026-09/ki-bilder-essen-speisekarte-restaurant-internetkolumne",
-      "published": "Sat, 12 Sep 2026 17:07:21 -0000",
-      "published_display": "12.09.2026 · 17:07 Uhr"
-    },
-    {
-      "title": "Käthe Kratz: »Mir war es egal, was diese Kerle meinen«",
-      "summary": "Käthe Kratz schrieb als Regisseurin Filmgeschichte – und verließ die Branche früh erschöpft. Sie ist überzeugt: Wäre sie ein Mann, würde sie heute noch Filme drehen.",
-      "image": "https://img.zeit.de/2026/39/mir-war-es-egal-was-diese-kerle-meinen-bild-1/original__640x360",
-      "link": "https://www.zeit.de/2026/39/kaethe-kratz-regisseurin-orf-oesterreich-frauen-filmbranche",
-      "published": "Sat, 12 Sep 2026 17:01:59 -0000",
-      "published_display": "12.09.2026 · 17:01 Uhr"
-    },
-    {
-      "title": "Rettungsdienst im Einsatz: Frau fällt aus dem Fenster in dritter Etage",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/frau-faellt-aus-dem-fenster-in-dritter-etage-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/frau-faellt-aus-dem-fenster-in-dritter-etage",
-      "published": "Sat, 12 Sep 2026 16:58:26 -0000",
-      "published_display": "12.09.2026 · 16:58 Uhr"
-    },
-    {
-      "title": "Heim-Turnier in Berlin: Frankreich zu stark: Basketballerinnen bei WM um Bronze",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/frankreich-zu-stark-basketballerinnen-bei-wm-um-bronze-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/frankreich-zu-stark-basketballerinnen-bei-wm-um-bronze",
-      "published": "Sat, 12 Sep 2026 16:55:51 -0000",
-      "published_display": "12.09.2026 · 16:55 Uhr"
     }
   ]
 }
