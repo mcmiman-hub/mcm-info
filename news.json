@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-12T16:42:15.009517+00:00",
+  "updated": "2026-09-12T16:54:05.228166+00:00",
   "items": [
+    {
+      "title": "Künstliche Intelligenz: Anthropic-Chef fordert KI-Konzerne zu mehr Langsamkeit auf",
+      "summary": "Dario Amodei hat seine Branche davor gewarnt, zu schnell neue Modelle auf den Markt zu bringen. Laut einem Bericht wurde die Anthropic-KI für Waffenentwicklung genutzt.",
+      "image": "https://img.zeit.de/digital/2026-09/kuenstliche-intelligenz-anthropic-ceo-warnung-risiken-waffenentwicklung-bild-3/original__640x360",
+      "link": "https://www.zeit.de/digital/2026-09/kuenstliche-intelligenz-anthropic-ceo-warnung-risiken-waffenentwicklung",
+      "published": "Sat, 12 Sep 2026 16:47:24 -0000",
+      "published_display": "12.09.2026 · 16:47 Uhr"
+    },
+    {
+      "title": "2:2 nach spätem Gegentreffer: Gregoritsch-Rekord im Fokus bei FCA-Remis gegen Leverkusen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/gregoritsch-rekord-im-fokus-bei-fca-remis-gegen-leverkusen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/gregoritsch-rekord-im-fokus-bei-fca-remis-gegen-leverkusen",
+      "published": "Sat, 12 Sep 2026 16:46:41 -0000",
+      "published_display": "12.09.2026 · 16:46 Uhr"
+    },
     {
       "title": "Proteste gegen Rechtsextremismus: Mehr als 100.000 Menschen protestieren gegen Rechtsextremismus",
       "summary": "Bundesweit sind Menschen in etwa 20 Städten gegen Rechtsextremismus auf die Straße gegangen. Die Demonstrationen folgen auf den Wahlsieg der AfD in Sachsen-Anhalt.",
@@ -41,14 +57,6 @@
       "link": "https://www.zeit.de/news/2026-09/12/autofahrer-faehrt-mit-wagen-gegen-baum-und-stirbt",
       "published": "Sat, 12 Sep 2026 16:34:31 -0000",
       "published_display": "12.09.2026 · 16:34 Uhr"
-    },
-    {
-      "title": "Künstliche Intelligenz: Anthropic-Chef fordert KI-Konzerne zu mehr Langsamkeit auf",
-      "summary": "Dario Amodei hat seine Branche davor gewarnt, zu schnell neue Modelle auf den Markt zu bringen. Laut einem Bericht wurde die Anthropic-KI für Waffenentwicklung genutzt.",
-      "image": "https://img.zeit.de/digital/2026-09/kuenstliche-intelligenz-anthropic-ceo-warnung-risiken-waffenentwicklung-bild-3/original__640x360",
-      "link": "https://www.zeit.de/digital/2026-09/kuenstliche-intelligenz-anthropic-ceo-warnung-risiken-waffenentwicklung",
-      "published": "Sat, 12 Sep 2026 16:29:26 -0000",
-      "published_display": "12.09.2026 · 16:29 Uhr"
     },
     {
       "title": "Inflation: Wird jetzt alles noch teurer?",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/12/souveraen-auf-der-koenigsetappe-mas-vor-vuelta-gesamtsieg",
       "published": "Sat, 12 Sep 2026 15:52:45 -0000",
       "published_display": "12.09.2026 · 15:52 Uhr"
-    },
-    {
-      "title": "Großes Bündnis: Mindestens 18.000 Menschen demonstrieren für Zusammenhalt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/demo-fuer-zusammenhalt-in-berliner-innenstadt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/demo-fuer-zusammenhalt-in-berliner-innenstadt",
-      "published": "Sat, 12 Sep 2026 15:44:12 -0000",
-      "published_display": "12.09.2026 · 15:44 Uhr"
     }
   ]
 }
