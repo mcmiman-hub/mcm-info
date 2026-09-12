@@ -1,7 +1,71 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-12T12:20:54.690826+00:00",
+  "updated": "2026-09-12T12:35:31.860318+00:00",
   "items": [
+    {
+      "title": "Hakenkreuze: «Hassen euch» - Angriff auf Cottbuser Regenbogenkombinat",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/hassen-euch-angriff-auf-cottbuser-regenbogenkombinat-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/hassen-euch-angriff-auf-cottbuser-regenbogenkombinat",
+      "published": "Sat, 12 Sep 2026 12:31:48 -0000",
+      "published_display": "12.09.2026 · 12:31 Uhr"
+    },
+    {
+      "title": "Basketball-WM der Frauen: Für zehn Tage Basketball-Hauptstadt",
+      "summary": "Bei der WM in Berlin begeistern die deutschen Frauen ihr Publikum. Ein Land ist auf dem Weg zur Basketballnation. Die Heim-WM in Bildern",
+      "image": "https://img.zeit.de/sport/2026-09/basketball-wm-frauen-berlin-stimmung-fans-fs-bild-07/original__640x360",
+      "link": "https://www.zeit.de/sport/2026-09/basketball-wm-frauen-berlin-stimmung-fans-fs",
+      "published": "Sat, 12 Sep 2026 12:29:50 -0000",
+      "published_display": "12.09.2026 · 12:29 Uhr"
+    },
+    {
+      "title": "Verkehr: Staus zum Ferienende - A8 Richtung Salzburg besonders voll",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/staus-zum-ferienende-a8-richtung-salzburg-besonders-voll-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/staus-zum-ferienende-a8-richtung-salzburg-besonders-voll",
+      "published": "Sat, 12 Sep 2026 12:29:01 -0000",
+      "published_display": "12.09.2026 · 12:29 Uhr"
+    },
+    {
+      "title": "2. Bundesliga: Zuschauer nach Notfall bei Spiel in Braunschweig gestorben",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/medizinischer-notfall-bei-braunschweig-gegen-dresden-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/medizinischer-notfall-bei-braunschweig-gegen-dresden",
+      "published": "Sat, 12 Sep 2026 12:28:42 -0000",
+      "published_display": "12.09.2026 · 12:28 Uhr"
+    },
+    {
+      "title": "Polizei findet Einschusslöcher: Schüsse auf Friseurgeschäft in Tempelhof",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/schuesse-auf-friseurgeschaeft-in-tempelhof-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/schuesse-auf-friseurgeschaeft-in-tempelhof",
+      "published": "Sat, 12 Sep 2026 12:25:39 -0000",
+      "published_display": "12.09.2026 · 12:25 Uhr"
+    },
+    {
+      "title": "Landtagswahl: Banaszak wirft Schwesig unverantwortlichen Wahlkampf vor",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/banaszak-wirft-schwesig-unverantwortlichen-wahlkampf-vor-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/banaszak-wirft-schwesig-unverantwortlichen-wahlkampf-vor",
+      "published": "Sat, 12 Sep 2026 12:24:45 -0000",
+      "published_display": "12.09.2026 · 12:24 Uhr"
+    },
+    {
+      "title": "Schüsse: Polizei sucht Zeugen nach Schüssen in Adlershof",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/polizei-sucht-zeugen-nach-schuessen-in-adlershof-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/polizei-sucht-zeugen-nach-schuessen-in-adlershof",
+      "published": "Sat, 12 Sep 2026 12:22:31 -0000",
+      "published_display": "12.09.2026 · 12:22 Uhr"
+    },
+    {
+      "title": "Ministerpräsident: Kretschmer: Zusammenarbeit mit BSW möglich - mit AfD nicht",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/kretschmer-zusammenarbeit-mit-bsw-moeglich-mit-afd-nicht-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/kretschmer-zusammenarbeit-mit-bsw-moeglich-mit-afd-nicht",
+      "published": "Sat, 12 Sep 2026 12:19:29 -0000",
+      "published_display": "12.09.2026 · 12:19 Uhr"
+    },
     {
       "title": "Tierseuchen: Mehr als 500.000 Euro für Kampf gegen Schweinepest",
       "summary": "",
@@ -57,70 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/12/wenig-zulauf-fuer-anti-merz-kundgebung",
       "published": "Sat, 12 Sep 2026 11:50:10 -0000",
       "published_display": "12.09.2026 · 11:50 Uhr"
-    },
-    {
-      "title": "Ernteabschluss: Hunderte Menschen bei Erntefest in Damelang",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/hunderte-menschen-bei-erntefest-in-damelang-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/hunderte-menschen-bei-erntefest-in-damelang",
-      "published": "Sat, 12 Sep 2026 11:48:08 -0000",
-      "published_display": "12.09.2026 · 11:48 Uhr"
-    },
-    {
-      "title": "Notarzt muss kommen: 89-Jähriger fährt mit Wohnmobil gegen Hauswand",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/89-jaehriger-faehrt-mit-wohnmobil-gegen-hauswand-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/89-jaehriger-faehrt-mit-wohnmobil-gegen-hauswand",
-      "published": "Sat, 12 Sep 2026 11:47:36 -0000",
-      "published_display": "12.09.2026 · 11:47 Uhr"
-    },
-    {
-      "title": "Feuer: Hoher Sachschaden bei Lagerhallenbrand",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/hoher-sachschaden-bei-lagerhallenbrand-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/hoher-sachschaden-bei-lagerhallenbrand",
-      "published": "Sat, 12 Sep 2026 11:45:01 -0000",
-      "published_display": "12.09.2026 · 11:45 Uhr"
-    },
-    {
-      "title": "Kriminalität: Sexualdelikte bei Kinder-Therapie? Noch kein Prozessstart",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/sexualdelikte-bei-kinder-therapie-noch-kein-prozessstart-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/sexualdelikte-bei-kinder-therapie-noch-kein-prozessstart",
-      "published": "Sat, 12 Sep 2026 11:35:31 -0000",
-      "published_display": "12.09.2026 · 11:35 Uhr"
-    },
-    {
-      "title": "Kultur: König Albert Theater Bad Elster eröffnet Saison",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/koenig-albert-theater-bad-elster-eroeffnet-saison-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/koenig-albert-theater-bad-elster-eroeffnet-saison",
-      "published": "Sat, 12 Sep 2026 11:31:29 -0000",
-      "published_display": "12.09.2026 · 11:31 Uhr"
-    },
-    {
-      "title": "2. Bundesliga: Medizinischer Notfall bei Braunschweig gegen Dresden",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/medizinischer-notfall-bei-braunschweig-gegen-dresden-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/medizinischer-notfall-bei-braunschweig-gegen-dresden",
-      "published": "Sat, 12 Sep 2026 11:29:27 -0000",
-      "published_display": "12.09.2026 · 11:29 Uhr"
-    },
-    {
-      "title": "Landeswahlkonferenz der SPD: 94,9 Prozent für Kämpfer – SPD setzt auf Wechsel im Landtag",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/kaempfer-will-schwarz-gruen-in-schleswig-holstein-abloesen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/kaempfer-will-schwarz-gruen-in-schleswig-holstein-abloesen",
-      "published": "Sat, 12 Sep 2026 11:29:18 -0000",
-      "published_display": "12.09.2026 · 11:29 Uhr"
-    },
-    {
-      "title": "Wahlkampf Berlin: SPD-Spitzenkandidat Krach: Mir geht es gut",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/spd-spitzenkandidat-krach-mir-geht-es-gut-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/spd-spitzenkandidat-krach-mir-geht-es-gut",
-      "published": "Sat, 12 Sep 2026 11:27:40 -0000",
-      "published_display": "12.09.2026 · 11:27 Uhr"
     }
   ]
 }
