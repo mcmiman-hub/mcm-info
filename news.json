@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-12T14:42:52.965756+00:00",
+  "updated": "2026-09-12T14:54:02.769779+00:00",
   "items": [
+    {
+      "title": "Monarchie: Jüngster König der Welt in Uganda beigesetzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/juengster-koenig-der-welt-in-uganda-beigesetzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/juengster-koenig-der-welt-in-uganda-beigesetzt",
+      "published": "Sat, 12 Sep 2026 14:46:19 -0000",
+      "published_display": "12.09.2026 · 14:46 Uhr"
+    },
     {
       "title": "Wasserrettung: Große Suchaktion nach zwei Menschen im Rhein bei Koblenz",
       "summary": "",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/12/kein-schritt-zurueck-rund-20-000-bei-demo-gegen-afd-in-nrw",
       "published": "Sat, 12 Sep 2026 14:08:04 -0000",
       "published_display": "12.09.2026 · 14:08 Uhr"
-    },
-    {
-      "title": "Fahrbahn gesperrt: Kollision in Kurve – Motorradfahrer schwer verletzt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/kollision-in-kurve-motorradfahrer-schwer-verletzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/kollision-in-kurve-motorradfahrer-schwer-verletzt",
-      "published": "Sat, 12 Sep 2026 14:07:39 -0000",
-      "published_display": "12.09.2026 · 14:07 Uhr"
     }
   ]
 }
