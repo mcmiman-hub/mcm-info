@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-12T12:47:46.175846+00:00",
+  "updated": "2026-09-12T12:56:13.076054+00:00",
   "items": [
+    {
+      "title": "Veganes Bánh mì : Die Königin unter den Sandwiches",
+      "summary": "Was draufkommt, ist Geschmackssache! Wo sonst Schwein dominiert, glänzt hier gebratener und marinierter Tofu zwischen den knusprigen Baguettehälften. Chúc ngon miệng!",
+      "image": "https://img.zeit.de/zeit-magazin/wochenmarkt/2025-11/vegan-banh-mi-rezept-wochenmarkt-bild/original__640x360",
+      "link": "https://www.zeit.de/zeit-magazin/wochenmarkt/2025-11/vegan-banh-mi-rezept-wochenmarkt",
+      "published": "Sat, 12 Sep 2026 12:55:02 -0000",
+      "published_display": "12.09.2026 · 12:55 Uhr"
+    },
+    {
+      "title": "Stromausfall im Bodenseekreis: Zwei Stunden ohne Strom - Ausfall am Bodensee",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/zwei-stunden-ohne-strom-ausfall-am-bodensee-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/zwei-stunden-ohne-strom-ausfall-am-bodensee",
+      "published": "Sat, 12 Sep 2026 12:52:13 -0000",
+      "published_display": "12.09.2026 · 12:52 Uhr"
+    },
     {
       "title": "Ost-West-Ölpipeline: Schwerdtner fordert staatliche Maßnahmen gegen hohe Spritpreise",
       "summary": "Durch die Abschaltung der Ost-West-Pipeline in Saudi-Arabien könnten die Spritpreise weiter steigen. Die Co-Vorsitzende der Linken fordert, sofort staatlich zu entlasten.",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/12/drei-fahrer-vier-fuehrerscheine-aber-keiner-gueltig",
       "published": "Sat, 12 Sep 2026 12:03:41 -0000",
       "published_display": "12.09.2026 · 12:03 Uhr"
-    },
-    {
-      "title": "Frauen-Bundesliga: Erster Sieg: RB Leipzig schlägt Nürnberg",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/erster-sieg-rb-leipzig-schlaegt-nuernberg-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/erster-sieg-rb-leipzig-schlaegt-nuernberg",
-      "published": "Sat, 12 Sep 2026 12:01:30 -0000",
-      "published_display": "12.09.2026 · 12:01 Uhr"
-    },
-    {
-      "title": "Täter flüchtig: Streitschlichter wird ins Gesicht geschlagen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/streitschlichter-wird-ins-gesicht-geschlagen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/streitschlichter-wird-ins-gesicht-geschlagen",
-      "published": "Sat, 12 Sep 2026 12:01:19 -0000",
-      "published_display": "12.09.2026 · 12:01 Uhr"
     }
   ]
 }
