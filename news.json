@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-12T16:17:09.330268+00:00",
+  "updated": "2026-09-12T16:28:40.873338+00:00",
   "items": [
+    {
+      "title": "Inflation: Wird jetzt alles noch teurer?",
+      "summary": "Fast schien die Inflation unter Kontrolle. Doch jetzt steigen Öl- und Gaspreise rasant. Die Finanzmärkte sind alarmiert. Müssen Verbraucher es auch sein?",
+      "image": "https://img.zeit.de/geld/2026-09/inflation-ezb-preissteigerung-oel-gas-verbraucher-bild-2/original__640x360",
+      "link": "https://www.zeit.de/geld/2026-09/inflation-ezb-preissteigerung-oel-gas-verbraucher",
+      "published": "Sat, 12 Sep 2026 16:26:21 -0000",
+      "published_display": "12.09.2026 · 16:26 Uhr"
+    },
+    {
+      "title": "Verkehr: Gefahrgut-Unfall auf A6: Fahrbahn teilweise wieder frei",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/gefahrgut-unfall-auf-a6-fahrbahn-teilweise-wieder-frei-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/gefahrgut-unfall-auf-a6-fahrbahn-teilweise-wieder-frei",
+      "published": "Sat, 12 Sep 2026 16:20:55 -0000",
+      "published_display": "12.09.2026 · 16:20 Uhr"
+    },
+    {
+      "title": "Bundesliga, 3. Spieltag – Samstag: BVB schlägt Paderborn, Freiburg feiert Kantersieg gegen Gladbach",
+      "summary": "Borussia Dortmund gewinnt zu Hause souverän gegen Paderborn. Mönchengladbach verliert in Unterzahl gegen den SC Freiburg. Die Spielberichte",
+      "image": "https://img.zeit.de/sport/2026-09/bundesliga-3-spieltag-borussia-dortmund-sc-paderborn-mainz-eintracht-frankfurt-foto-1/original__640x360",
+      "link": "https://www.zeit.de/sport/2026-09/bundesliga-3-spieltag-borussia-dortmund-sc-paderborn-mainz-eintracht-frankfurt",
+      "published": "Sat, 12 Sep 2026 16:20:24 -0000",
+      "published_display": "12.09.2026 · 16:20 Uhr"
+    },
     {
       "title": "Heim-Turnier in Berlin: Frankreich zu stark: Basketballerinnen bei WM um Bronze",
       "summary": "",
@@ -41,14 +65,6 @@
       "link": "https://www.zeit.de/news/2026-09/12/souveraen-auf-der-koenigsetappe-mas-vor-vuelta-gesamtsieg",
       "published": "Sat, 12 Sep 2026 15:52:45 -0000",
       "published_display": "12.09.2026 · 15:52 Uhr"
-    },
-    {
-      "title": "Bundesliga, 3. Spieltag – Samstag: BVB schlägt Paderborn, Freiburg feiert Kantersieg gegen Gladbach",
-      "summary": "Borussia Dortmund hat im Heimspiel souverän gegen Paderborn gewonnen. Mönchengladbach verliert in Unterzahl gegen den SC Freiburg.",
-      "image": "https://img.zeit.de/sport/2026-09/bundesliga-3-spieltag-borussia-dortmund-sc-paderborn-mainz-eintracht-frankfurt-foto-1/original__640x360",
-      "link": "https://www.zeit.de/sport/2026-09/bundesliga-3-spieltag-borussia-dortmund-sc-paderborn-mainz-eintracht-frankfurt",
-      "published": "Sat, 12 Sep 2026 15:46:06 -0000",
-      "published_display": "12.09.2026 · 15:46 Uhr"
     },
     {
       "title": "Großes Bündnis: Mindestens 18.000 Menschen demonstrieren für Zusammenhalt",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/12/remis-gegen-leverkusen-augsburg-verliert-tabellenfuehrung",
       "published": "Sat, 12 Sep 2026 15:33:54 -0000",
       "published_display": "12.09.2026 · 15:33 Uhr"
-    },
-    {
-      "title": "Vorsätzlich gelegt?: Feuer greift von Gartenhütte auf Auto und Wohnung über",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/feuer-greift-von-gartenhuette-auf-auto-und-wohnung-ueber-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/feuer-greift-von-gartenhuette-auf-auto-und-wohnung-ueber",
-      "published": "Sat, 12 Sep 2026 15:33:09 -0000",
-      "published_display": "12.09.2026 · 15:33 Uhr"
-    },
-    {
-      "title": "Christopher Street Day: Wismar feiert CSD: Queere fordern mehr Schutz",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/wismar-feiert-csd-queere-fordern-mehr-schutz-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/wismar-feiert-csd-queere-fordern-mehr-schutz",
-      "published": "Sat, 12 Sep 2026 15:32:13 -0000",
-      "published_display": "12.09.2026 · 15:32 Uhr"
     }
   ]
 }
