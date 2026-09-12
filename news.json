@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-12T03:43:44.256307+00:00",
+  "updated": "2026-09-12T03:54:59.708924+00:00",
   "items": [
+    {
+      "title": "Infrastrukturmodernisierung: 500 Milliarden – und dann das",
+      "summary": "Mit dem Sondervermögen wollte die SPD das Land und die Partei voranbringen. Letzteres hat nicht funktioniert. Warum eigentlich?",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/sondervermoegen-infrastruktur-wahlkampf-spd-kommunikation-bild-2/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/sondervermoegen-infrastruktur-wahlkampf-spd-kommunikation",
+      "published": "Sat, 12 Sep 2026 03:53:05 -0000",
+      "published_display": "12.09.2026 · 03:53 Uhr"
+    },
+    {
+      "title": "Körpergröße bei Männern: Bei 165 Zentimetern war Schluss",
+      "summary": "Kleine Männer müssen allerlei Gemeinheiten aushalten. In der Schulzeit wurde unserem 1,65 großen Autor ins Gesicht gefurzt. Die härteste Probe aber war: die Liebe.",
+      "image": "https://img.zeit.de/zeit-magazin/2026/39/na-kleiner-aufmacher/original__640x360",
+      "link": "https://www.zeit.de/zeit-magazin/2026/39/koerpergroesse-maenner-partnersuche-beziehung",
+      "published": "Sat, 12 Sep 2026 03:47:01 -0000",
+      "published_display": "12.09.2026 · 03:47 Uhr"
+    },
+    {
+      "title": "James Hawes: »Im Westen wird die AfD nicht regieren«",
+      "summary": "Schon lange vor der Teilung hätten sich West und Ost fundamental unterschieden. Aber die Deutschen, sagt der britische Germanist James Hawes, wollten das nicht wahrhaben.",
+      "image": "https://img.zeit.de/politik/2026-09/james-hawes-germanist-ostdeutschland/original__640x360",
+      "link": "https://www.zeit.de/politik/2026-09/james-hawes-germanist-ostdeutschland-westdeutschland-wahlverhalten-unterschiede",
+      "published": "Sat, 12 Sep 2026 03:45:56 -0000",
+      "published_display": "12.09.2026 · 03:45 Uhr"
+    },
     {
       "title": "Isar Aerospace: ESA verspricht Isar Aerospace 200 Millionen Euro",
       "summary": "Isar Aerospace war der erste Orbitalflug vom europäischen Kontinent aus gelungen. Die Europäische Weltraumagentur will das Startup weiter finanziell unterstützen.",
@@ -12,7 +36,7 @@
     },
     {
       "title": "Nord- und Südkorea: Nordkorea feuert erneut ballistische Kurzstreckenraketen ab",
-      "summary": "Mehrere Kurzstreckenraketen wurden aus dem nordkoreanischen Wontan abgeschossen. Südkorea, die USA und Japan hatten zuvor eine gemeinsame Militärübung absolviert.",
+      "summary": "Mehrere Kurzstreckenraketen wurden aus dem nordkoreanischen Wŏnsan abgeschossen. Südkorea, die USA und Japan hatten zuvor eine gemeinsame Militärübung absolviert.",
       "image": "https://img.zeit.de/politik/ausland/2026-09/nordkorea-raketenabschuss-ballistische-kurzstreckenraketen-wonsan-japanisches-meer-foto-1/original__640x360",
       "link": "https://www.zeit.de/politik/ausland/2026-09/nordkorea-raketenabschuss-ballistische-kurzstreckenraketen-wonsan-japanisches-meer",
       "published": "Sat, 12 Sep 2026 03:35:52 -0000",
@@ -96,30 +120,6 @@
       "image": "https://img.zeit.de/news/2026-09/12/universitaeten-haben-platz-in-zulassungsfreien-studiengaengen-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-09/12/universitaeten-haben-platz-in-zulassungsfreien-studiengaengen",
       "published": "Sat, 12 Sep 2026 03:00:15 -0000",
-      "published_display": "12.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Spritztouren und Alltagsrouten: Saisonale Kennzeichen weiterhin gefragt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/saisonale-kennzeichen-weiterhin-gefragt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/saisonale-kennzeichen-weiterhin-gefragt",
-      "published": "Sat, 12 Sep 2026 03:00:13 -0000",
-      "published_display": "12.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Wahlen: CDU-Politiker in MV fürchten Scheitern an Fünf-Prozent-Hürde",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/cdu-politiker-in-mv-fuerchten-scheitern-an-fuenf-prozent-huerde-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/cdu-politiker-in-mv-fuerchten-scheitern-an-fuenf-prozent-huerde",
-      "published": "Sat, 12 Sep 2026 03:00:12 -0000",
-      "published_display": "12.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Landtagswahl MV: Die 89-Jährige, die in den Landtag will",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/die-89-jaehrige-die-in-den-landtag-will-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/09/die-89-jaehrige-die-in-den-landtag-will",
-      "published": "Sat, 12 Sep 2026 03:00:08 -0000",
       "published_display": "12.09.2026 · 03:00 Uhr"
     }
   ]
