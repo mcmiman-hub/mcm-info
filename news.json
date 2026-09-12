@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-12T04:29:17.518873+00:00",
+  "updated": "2026-09-12T04:44:08.483363+00:00",
   "items": [
+    {
+      "title": "Tennis: Ben Shelton besiegt Frances Tiafoe im zweiten Halbfinale der US Open",
+      "summary": "Ben Shelton trifft im Finale in New York auf Alexander Zverev. Dort könnte er den ersten US-amerikanischen Grand-Slam-Titel der Herren seit 2003 gewinnen.",
+      "image": "https://img.zeit.de/administratives/sharing/fallback-image-die-zeit/wide__1300x731",
+      "link": "https://www.zeit.de/sport/2026-09/tennis-ben-shelton-francis-tiafoe-us-open",
+      "published": "Sat, 12 Sep 2026 04:37:29 -0000",
+      "published_display": "12.09.2026 · 04:37 Uhr"
+    },
+    {
+      "title": "Selbstbestimmungsgesetz: Mehr Geschlechtereinträge in NRW geändert seit neuem Gesetz",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/mehr-geschlechtereintraege-in-nrw-geaendert-seit-neuem-gesetz-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/mehr-geschlechtereintraege-in-nrw-geaendert-seit-neuem-gesetz",
+      "published": "Sat, 12 Sep 2026 04:30:06 -0000",
+      "published_display": "12.09.2026 · 04:30 Uhr"
+    },
+    {
+      "title": "Soziales: SPD fordert neue Schutzkonzepte gegen Mobbing an Schulen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/spd-fordert-neue-schutzkonzepte-gegen-mobbing-an-schulen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/spd-fordert-neue-schutzkonzepte-gegen-mobbing-an-schulen",
+      "published": "Sat, 12 Sep 2026 04:30:05 -0000",
+      "published_display": "12.09.2026 · 04:30 Uhr"
+    },
     {
       "title": "Konflikt im Nahen Osten: Pipeline stillgelegt: Saudische Ölexporte massiv unter Druck",
       "summary": "",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/wissenschaft/2026-09/esa-isar-aerospace-spectrum-rakete-bayern",
       "published": "Sat, 12 Sep 2026 03:41:11 -0000",
       "published_display": "12.09.2026 · 03:41 Uhr"
-    },
-    {
-      "title": "Nord- und Südkorea: Nordkorea feuert erneut ballistische Kurzstreckenraketen ab",
-      "summary": "Mehrere Kurzstreckenraketen wurden aus dem nordkoreanischen Wŏnsan abgeschossen. Südkorea, die USA und Japan hatten zuvor eine gemeinsame Militärübung absolviert.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/nordkorea-raketenabschuss-ballistische-kurzstreckenraketen-wonsan-japanisches-meer-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/nordkorea-raketenabschuss-ballistische-kurzstreckenraketen-wonsan-japanisches-meer",
-      "published": "Sat, 12 Sep 2026 03:35:52 -0000",
-      "published_display": "12.09.2026 · 03:35 Uhr"
-    },
-    {
-      "title": "Hohe Benzinpreise: Brandenburgs SPD-Regierungschef Woidke für Spritpreisdeckel",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/brandenburgs-spd-regierungschef-woidke-fuer-spritpreisdeckel-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/brandenburgs-spd-regierungschef-woidke-fuer-spritpreisdeckel",
-      "published": "Sat, 12 Sep 2026 03:30:11 -0000",
-      "published_display": "12.09.2026 · 03:30 Uhr"
-    },
-    {
-      "title": "Ernährungswirtschaft: Branche: Unsicherheit bei Labels für regionale Lebensmittel",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/branche-unsicherheit-bei-labels-fuer-regionale-lebensmittel-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/branche-unsicherheit-bei-labels-fuer-regionale-lebensmittel",
-      "published": "Sat, 12 Sep 2026 03:30:07 -0000",
-      "published_display": "12.09.2026 · 03:30 Uhr"
     }
   ]
 }
