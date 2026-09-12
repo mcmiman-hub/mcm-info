@@ -1,7 +1,39 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-12T07:54:17.727617+00:00",
+  "updated": "2026-09-12T08:17:24.003981+00:00",
   "items": [
+    {
+      "title": "Psychische Erkrankungen: Mehr ADHS-Diagnosen bei Kindern und Jugendlichen in Sachsen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/mehr-adhs-diagnosen-bei-kindern-und-jugendlichen-in-sachsen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/mehr-adhs-diagnosen-bei-kindern-und-jugendlichen-in-sachsen",
+      "published": "Sat, 12 Sep 2026 08:00:07 -0000",
+      "published_display": "12.09.2026 · 08:00 Uhr"
+    },
+    {
+      "title": "Schutz vor Hochwasser: Schnieder: Hochwasserschutz ist Aufgabe für Bund und Länder",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/schnieder-hochwasserschutz-ist-aufgabe-fuer-bund-und-laender-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/schnieder-hochwasserschutz-ist-aufgabe-fuer-bund-und-laender",
+      "published": "Sat, 12 Sep 2026 08:00:06 -0000",
+      "published_display": "12.09.2026 · 08:00 Uhr"
+    },
+    {
+      "title": "Antike Schifffahrt: Museum für Antike Schifffahrt soll im März wieder öffnen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/museum-fuer-antike-schifffahrt-soll-im-maerz-wieder-oeffnen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/museum-fuer-antike-schifffahrt-soll-im-maerz-wieder-oeffnen",
+      "published": "Sat, 12 Sep 2026 08:00:05 -0000",
+      "published_display": "12.09.2026 · 08:00 Uhr"
+    },
+    {
+      "title": "Psychische Erkrankungen: Weniger ADHS-Neudiagnosen bei Kindern in Thüringen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/weniger-adhs-neudiagnosen-bei-kindern-in-thueringen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/weniger-adhs-neudiagnosen-bei-kindern-in-thueringen",
+      "published": "Sat, 12 Sep 2026 08:00:04 -0000",
+      "published_display": "12.09.2026 · 08:00 Uhr"
+    },
     {
       "title": "Strom- und Gastarif: Wie Sie jetzt den günstigsten Strom- und Gasvertrag finden",
       "summary": "Gaspreis hoch, Strompreis schwankend: Ob es sich lohnt, jetzt den Stromanbieter zu wechseln, hängt vom Vertrag und vom Verbrauch ab. Worauf Sie jetzt achten sollten.",
@@ -89,38 +121,6 @@
       "link": "https://www.zeit.de/politik/deutschland/2026-09/mecklenburg-vorpommern-cdu-umfragewerte-gxe",
       "published": "Sat, 12 Sep 2026 07:19:48 -0000",
       "published_display": "12.09.2026 · 07:19 Uhr"
-    },
-    {
-      "title": "Kriminalität am Freitagabend: Schüsse auf Linienbus in Hamburg",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/schuesse-auf-linienbus-in-hamburg-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/schuesse-auf-linienbus-in-hamburg",
-      "published": "Sat, 12 Sep 2026 06:52:57 -0000",
-      "published_display": "12.09.2026 · 06:52 Uhr"
-    },
-    {
-      "title": "Künstliche Intelligenz: Das gefährliche Gefühl ist: Fomo",
-      "summary": "Unser Autor berichtet seit Jahren über künstliche Intelligenz, kritisch, aber grundsätzlich optimistisch. Doch langsam sickert eine neue Erkenntnis ein.",
-      "image": "https://img.zeit.de/digital/2026-09/kuenstliche-intelligenz-gefahren-anthropic-jacob-coxon-bild/original__640x360",
-      "link": "https://www.zeit.de/digital/2026-09/kuenstliche-intelligenz-gefahren-anthropic-jacob-coxon",
-      "published": "Sat, 12 Sep 2026 06:50:38 -0000",
-      "published_display": "12.09.2026 · 06:50 Uhr"
-    },
-    {
-      "title": "Telefonbetrug: Ehepaar verliert fünfstelligen Betrag an Telefonbetrüger",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/ehepaar-verliert-fuenfstelligen-betrag-an-telefonbetrueger-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/ehepaar-verliert-fuenfstelligen-betrag-an-telefonbetrueger",
-      "published": "Sat, 12 Sep 2026 06:23:56 -0000",
-      "published_display": "12.09.2026 · 06:23 Uhr"
-    },
-    {
-      "title": "Lastwagen mit Butylacrylat: A6 bei Heilbronn nach Gefahrgut-Unfall weiter gesperrt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/a6-bei-heilbronn-nach-gefahrgut-unfall-weiter-gesperrt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/a6-bei-heilbronn-nach-gefahrgut-unfall-weiter-gesperrt",
-      "published": "Sat, 12 Sep 2026 06:17:40 -0000",
-      "published_display": "12.09.2026 · 06:17 Uhr"
     }
   ]
 }
