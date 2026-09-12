@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-12T23:27:05.368674+00:00",
+  "updated": "2026-09-12T23:40:37.964498+00:00",
   "items": [
+    {
+      "title": "Deutsche Bahn: Minister will Rückkehr der Familienreservierung bei der Bahn",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/13/minister-will-rueckkehr-der-familienreservierung-bei-der-bahn-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/13/minister-will-rueckkehr-der-familienreservierung-bei-der-bahn",
+      "published": "Sat, 12 Sep 2026 23:30:04 -0000",
+      "published_display": "12.09.2026 · 23:30 Uhr"
+    },
     {
       "title": "Künstliche Intelligenz: Führende Tech-Unternehmer fordern langsamere Entwicklung von KI",
       "summary": "Die Chefs der KI-Konzerne Anthropic, OpenAI und SpaceX fordern weniger Tempo bei der Entwicklung von KI. Schon bald könnte die KI sonst das gesamte Internet übernehmen.",
@@ -59,7 +67,7 @@
       "published_display": "12.09.2026 · 22:30 Uhr"
     },
     {
-      "title": "Künstliche Intelligenz: Open AI sagt Börsengang vorerst ab",
+      "title": "Künstliche Intelligenz: OpenAI sagt Börsengang vorerst ab",
       "summary": "Der ChatGPT-Entwickler hält ein Börsendebüt im Jahr 2026 für nicht mehr tragbar. Es gebe noch viel zu tun, um Sicherheitsanforderungen zu erfüllen, sagt Chef Sam Altman.",
       "image": "https://img.zeit.de/wirtschaft/2026-09/chatgpt-bild/original__640x360",
       "link": "https://www.zeit.de/wirtschaft/unternehmen/2026-09/openai-boersengang-sam-altman-ki-sicherheit-anthropic",
@@ -112,14 +120,6 @@
       "image": "https://img.zeit.de/news/2026-09/12/fc-st-pauli-stoppt-wolfsburg-1-0-nach-fujita-tor-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-09/12/fc-st-pauli-stoppt-wolfsburg-1-0-nach-fujita-tor",
       "published": "Sat, 12 Sep 2026 20:28:56 -0000",
-      "published_display": "12.09.2026 · 20:28 Uhr"
-    },
-    {
-      "title": "Kritik am Kanzler: Markus Söder schließt Kanzlersturz durch die CSU aus",
-      "summary": "Nach der Kritik an Kanzler Friedrich Merz spricht der CSU-Chef von einem »schweren Durchhänger« der Schwesterpartei. Merz sei aber weiter der Richtige für das Kanzleramt.",
-      "image": "https://img.zeit.de/politik/2026-09/cdu-parliamentary-fraction-meeting-after-the-general-election-in-berlin-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/markus-soeder-csu-friedrich-merz-kanzler-union",
-      "published": "Sat, 12 Sep 2026 20:28:31 -0000",
       "published_display": "12.09.2026 · 20:28 Uhr"
     }
   ]
