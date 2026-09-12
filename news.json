@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-12T22:43:21.096087+00:00",
+  "updated": "2026-09-12T22:54:04.333151+00:00",
   "items": [
+    {
+      "title": "Brand in Hamburg: Leerstehendes Hotel in Brand – sieben Verletzte",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/13/leerstehendes-hotel-in-brand-sieben-verletzte-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/13/leerstehendes-hotel-in-brand-sieben-verletzte",
+      "published": "Sat, 12 Sep 2026 22:47:31 -0000",
+      "published_display": "12.09.2026 · 22:47 Uhr"
+    },
     {
       "title": "Tennis: Superstars begeistert: Rybakina triumphiert bei US Open",
       "summary": "",
@@ -29,7 +37,7 @@
     {
       "title": "Künstliche Intelligenz: Open AI sagt Börsengang vorerst ab",
       "summary": "Der ChatGPT-Entwickler hält ein Börsendebüt im Jahr 2026 für nicht mehr tragbar. Es gebe noch viel zu tun, um Sicherheitsanforderungen zu erfüllen, sagt Chef Sam Altman.",
-      "image": "https://img.zeit.de/wirtschaft/2026-09/file-photo-openai-ceo-sam-altman-meets-with-lawmakers-on-capitol-hill-bild/original__640x360",
+      "image": "https://img.zeit.de/wirtschaft/2026-09/chatgpt-bild/original__640x360",
       "link": "https://www.zeit.de/wirtschaft/unternehmen/2026-09/openai-boersengang-sam-altman-ki-sicherheit-anthropic",
       "published": "Sat, 12 Sep 2026 22:21:52 -0000",
       "published_display": "12.09.2026 · 22:21 Uhr"
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/12/frankreich-zu-stark-basketballerinnen-bei-wm-um-bronze",
       "published": "Sat, 12 Sep 2026 19:52:34 -0000",
       "published_display": "12.09.2026 · 19:52 Uhr"
-    },
-    {
-      "title": "Basketball-WM der Frauen: Sie sind jetzt die Vorbilder, die sie nie hatten",
-      "summary": "Weil sie sich zu oft den Ball klauen lassen, verlieren die deutschen Basketballerinnen das Halbfinale. Warum diese Heim-WM dennoch schon jetzt ein riesiger Erfolg ist",
-      "image": "https://img.zeit.de/sport/2026-09/basketball-wm-berlin-deutschland-frankreich-weibliche-vorbilder-bild/original__640x360",
-      "link": "https://www.zeit.de/sport/2026-09/basketball-wm-berlin-deutschland-frankreich-weibliche-vorbilder",
-      "published": "Sat, 12 Sep 2026 19:50:44 -0000",
-      "published_display": "12.09.2026 · 19:50 Uhr"
     }
   ]
 }
