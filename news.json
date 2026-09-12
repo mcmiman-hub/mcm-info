@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-12T07:26:52.892239+00:00",
+  "updated": "2026-09-12T07:42:00.977541+00:00",
   "items": [
+    {
+      "title": "Riesendrachen: Festival der Riesendrachen auf dem Tempelhofer Feld",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/festival-der-riesendrachen-auf-dem-tempelhofer-feld-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/festival-der-riesendrachen-auf-dem-tempelhofer-feld",
+      "published": "Sat, 12 Sep 2026 07:38:02 -0000",
+      "published_display": "12.09.2026 · 07:38 Uhr"
+    },
+    {
+      "title": "Tödlicher Unfall: Autofahrer prallt mit Wagen frontal gegen Baum und stirbt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/autofahrer-prallt-mit-wagen-frontal-gegen-baum-und-stirbt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/autofahrer-prallt-mit-wagen-frontal-gegen-baum-und-stirbt",
+      "published": "Sat, 12 Sep 2026 07:33:27 -0000",
+      "published_display": "12.09.2026 · 07:33 Uhr"
+    },
     {
       "title": "Vereitelter Drohnenanschlag in Leipzig/Halle: Russischer Militärgeheimdienst soll hinter Anschlagsversuch stecken",
       "summary": "Ein mutmaßlicher russischer Geheimdienstagent soll laut einem Medienbericht den Drohnenanschlag in Leipzig vorbereitet haben. Der Mann sei inzwischen wieder in Russland.",
@@ -22,7 +38,7 @@
       "title": "Landtagswahl in Mecklenburg-Vorpommern: CDU-Spitzenkandidat Peters sieht seine Landespartei im »Existenzkampf«",
       "summary": "Eine Woche vor der Landtagswahl in Mecklenburg-Vorpommern liegt die CDU in Umfragen bei sieben Prozent. CDU-Politiker befürchten, an der Fünf-Prozent-Hürde zu scheitern.",
       "image": "https://img.zeit.de/politik/deutschland/2026-09/cdu-fuerchtet-scheitern-huerde-mecklenburg-vorpommern-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/mecklenburg-vorpommern-cdu-umfragewerte",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/mecklenburg-vorpommern-cdu-umfragewerte-gxe",
       "published": "Sat, 12 Sep 2026 07:19:48 -0000",
       "published_display": "12.09.2026 · 07:19 Uhr"
     },
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/12/schwerer-unfall-bei-guestrow-18-jaehriger-stirbt",
       "published": "Sat, 12 Sep 2026 06:08:10 -0000",
       "published_display": "12.09.2026 · 06:08 Uhr"
-    },
-    {
-      "title": "Einschulung: Meine Tochter kam in die Schule. Sie war vorbereitet – ich nicht",
-      "summary": "Wenn das Kind eingeschult wird, ist das aufregend fürs Kind. Und herausfordernd für die Eltern. Nie spürte unser Autor als Vater deutlicher die Zeit verrinnen.",
-      "image": "https://img.zeit.de/familie/2026-09/einschulung-eltern-kinder-schule-zeit-erzieher-bild/original__640x360",
-      "link": "https://www.zeit.de/familie/2026-09/einschulung-eltern-kinder-schule-zeit-erzieher",
-      "published": "Sat, 12 Sep 2026 06:02:32 -0000",
-      "published_display": "12.09.2026 · 06:02 Uhr"
-    },
-    {
-      "title": "Staatliche Enteignungen: Stimmt es, dass in Berlin Wohnungen vergesellschaftet werden könnten?",
-      "summary": "Wieder einmal geistert das Thema Vergesellschaftung durch einen Berliner Wahlkampf. »Immobilienkonzerne enteignen«, fordern die Linken. Doch ist das überhaupt möglich?",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/staatliche-enteignungen-wahlkampf-berlin-die-linke-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/staatliche-enteignungen-wahlkampf-berlin-die-linke",
-      "published": "Sat, 12 Sep 2026 06:01:48 -0000",
-      "published_display": "12.09.2026 · 06:01 Uhr"
     }
   ]
 }
