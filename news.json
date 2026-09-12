@@ -1,7 +1,55 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-12T11:54:16.719702+00:00",
+  "updated": "2026-09-12T12:20:54.690826+00:00",
   "items": [
+    {
+      "title": "Tierseuchen: Mehr als 500.000 Euro für Kampf gegen Schweinepest",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/mehr-als-500-000-euro-fuer-kampf-gegen-schweinepest-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/mehr-als-500-000-euro-fuer-kampf-gegen-schweinepest",
+      "published": "Sat, 12 Sep 2026 12:18:12 -0000",
+      "published_display": "12.09.2026 · 12:18 Uhr"
+    },
+    {
+      "title": "Gut zu Fuß: Drei Fahrer, vier Führerscheine - aber keiner gültig",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/drei-fahrer-vier-fuehrerscheine-aber-keiner-gueltig-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/drei-fahrer-vier-fuehrerscheine-aber-keiner-gueltig",
+      "published": "Sat, 12 Sep 2026 12:03:41 -0000",
+      "published_display": "12.09.2026 · 12:03 Uhr"
+    },
+    {
+      "title": "Frauen-Bundesliga: Erster Sieg: RB Leipzig schlägt Nürnberg",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/erster-sieg-rb-leipzig-schlaegt-nuernberg-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/erster-sieg-rb-leipzig-schlaegt-nuernberg",
+      "published": "Sat, 12 Sep 2026 12:01:30 -0000",
+      "published_display": "12.09.2026 · 12:01 Uhr"
+    },
+    {
+      "title": "Täter flüchtig: Streitschlichter wird ins Gesicht geschlagen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/streitschlichter-wird-ins-gesicht-geschlagen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/streitschlichter-wird-ins-gesicht-geschlagen",
+      "published": "Sat, 12 Sep 2026 12:01:19 -0000",
+      "published_display": "12.09.2026 · 12:01 Uhr"
+    },
+    {
+      "title": "Tristan Buckmaster: »Von Anfang an hatte ich den Eindruck, dass sie uns anlügen«",
+      "summary": "Tristan Buckmaster wollte eines der größten Probleme der Mathematik lösen – dann kam ihm OpenAI zuvor. Hier erzählt er, wieso er der Darstellung der Firma misstraut.",
+      "image": "https://img.zeit.de/wissenschaft/2026-09/tristan-buckmaster-millenium-problem-mathematik-openai-kuenstliche-intelligenz-bild/original__640x360",
+      "link": "https://www.zeit.de/wissenschaft/2026-09/tristan-buckmaster-millenium-problem-mathematik-openai-kuenstliche-intelligenz",
+      "published": "Sat, 12 Sep 2026 11:58:40 -0000",
+      "published_display": "12.09.2026 · 11:58 Uhr"
+    },
+    {
+      "title": "Mokka: Jemenitische Regierungstruppen greifen Huthi-Milizen am Roten Meer an",
+      "summary": "Die Huthis brachten in den vergangenen Tage die Hafenstadt Mokka und die Küste des Jemen unter ihre Kontrolle. Regierungstruppen starten offenbar eine Gegenoffensive.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/mocha-jemen-huthi-rotes-meer-bab-al-mandab-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/mokka-jemen-huthi-rotes-meer-bab-al-mandab",
+      "published": "Sat, 12 Sep 2026 11:55:50 -0000",
+      "published_display": "12.09.2026 · 11:55 Uhr"
+    },
     {
       "title": "In der Innenstadt: Wenig Zulauf für Anti-Merz-Kundgebung",
       "summary": "",
@@ -35,28 +83,12 @@
       "published_display": "12.09.2026 · 11:45 Uhr"
     },
     {
-      "title": "Täter flüchtig: Streitschlichter wird ins Gesicht geschlagen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/streitschlichter-wird-ins-gesicht-geschlagen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/streitschlichter-wird-ins-gesicht-geschlagen",
-      "published": "Sat, 12 Sep 2026 11:36:53 -0000",
-      "published_display": "12.09.2026 · 11:36 Uhr"
-    },
-    {
       "title": "Kriminalität: Sexualdelikte bei Kinder-Therapie? Noch kein Prozessstart",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-09/12/sexualdelikte-bei-kinder-therapie-noch-kein-prozessstart-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-09/12/sexualdelikte-bei-kinder-therapie-noch-kein-prozessstart",
       "published": "Sat, 12 Sep 2026 11:35:31 -0000",
       "published_display": "12.09.2026 · 11:35 Uhr"
-    },
-    {
-      "title": "Mokka: Jemenitische Regierungstruppen greifen Huthi-Milizen am Roten Meer an",
-      "summary": "Die Huthis brachten in den vergangenen Tage die Hafenstadt Mokka und die Küste des Jemen unter ihre Kontrolle. Regierungstruppen starten offenbar eine Gegenoffensive.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/mocha-jemen-huthi-rotes-meer-bab-al-mandab-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/mokka-jemen-huthi-rotes-meer-bab-al-mandab",
-      "published": "Sat, 12 Sep 2026 11:34:30 -0000",
-      "published_display": "12.09.2026 · 11:34 Uhr"
     },
     {
       "title": "Kultur: König Albert Theater Bad Elster eröffnet Saison",
@@ -89,38 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/12/spd-spitzenkandidat-krach-mir-geht-es-gut",
       "published": "Sat, 12 Sep 2026 11:27:40 -0000",
       "published_display": "12.09.2026 · 11:27 Uhr"
-    },
-    {
-      "title": "Nicht mehr wie mit 25: Bülent Ceylan: Mit 50 wird der Headbanger schwieriger",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/buelent-ceylan-mit-50-wird-der-headbanger-schwieriger-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/buelent-ceylan-mit-50-wird-der-headbanger-schwieriger",
-      "published": "Sat, 12 Sep 2026 11:27:18 -0000",
-      "published_display": "12.09.2026 · 11:27 Uhr"
-    },
-    {
-      "title": "Gewaltige Abdrücke: 66,5 Millionen Jahre alte Spur eines T. rex entdeckt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/66-5-millionen-jahre-alte-spur-eines-t-rex-entdeckt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/66-5-millionen-jahre-alte-spur-eines-t-rex-entdeckt",
-      "published": "Sat, 12 Sep 2026 11:26:23 -0000",
-      "published_display": "12.09.2026 · 11:26 Uhr"
-    },
-    {
-      "title": "Krieg gegen die Ukraine: Selenskyj zu Treffen mit Putin bei G20-Gipfel in Miami bereit",
-      "summary": "Wolodymyr Selenskyj ist zu Gesprächen mit Wladimir Putin bereit, sollten beide in die USA eingeladen werden. Die Ukraine meldet drei Tote bei Angriffen. Das Liveblog",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/selenskyj-treffen-putin-g20-gipfel-miami-bereit-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "published": "Sat, 12 Sep 2026 11:24:52 -0000",
-      "published_display": "12.09.2026 · 11:24 Uhr"
-    },
-    {
-      "title": "Sprache: Landesbäuerin als Dialektsprecherin ausgezeichnet",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/landesbaeuerin-als-dialektsprecherin-ausgezeichnet-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/landesbaeuerin-als-dialektsprecherin-ausgezeichnet",
-      "published": "Sat, 12 Sep 2026 11:24:45 -0000",
-      "published_display": "12.09.2026 · 11:24 Uhr"
     }
   ]
 }
