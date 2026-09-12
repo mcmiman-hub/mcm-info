@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-12T06:57:32.292605+00:00",
+  "updated": "2026-09-12T07:15:13.606738+00:00",
   "items": [
+    {
+      "title": "Vereitelter Drohnenanschlag in Leipzig/Halle: Russischer Militärgeheimdienst soll hinter Anschlagsversuch stecken",
+      "summary": "Ein mutmaßlicher russischer Geheimdienstagent soll laut einem Medienbericht den Drohnenanschlag in Leipzig vorbereitet haben. Der Mann sei inzwischen wieder in Russland.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/drohnenanschlag-flughafen-leipzig-halle-russland-geheimdienst-gru-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/drohnenanschlag-flughafen-leipzig-halle-russland-geheimdienst-gru",
+      "published": "Sat, 12 Sep 2026 07:14:29 -0000",
+      "published_display": "12.09.2026 · 07:14 Uhr"
+    },
+    {
+      "title": "Istanbul: Gericht verhängt Haftstrafe und Politikverbot gegen İmamoğlu",
+      "summary": "Erneut ist der abgesetzte Bürgermeister Istanbuls verurteilt worden – diesmal wegen »Beleidigung eines Staatsbediensteten«. İmamoğlu bezeichnete das Urteil als Skandal.",
+      "image": "https://img.zeit.de/politik/2026-09/ekrem-imamoglu-buergermeister-istanbul-haft-urteil-chp-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/2026-09/ekrem-imamoglu-buergermeister-istanbul-haft-urteil-chp",
+      "published": "Sat, 12 Sep 2026 07:11:27 -0000",
+      "published_display": "12.09.2026 · 07:11 Uhr"
+    },
     {
       "title": "Landtagswahl in Mecklenburg-Vorpommern: CDU-Politiker befürchten Scheitern an Fünf-Prozent-Hürde",
       "summary": "Eine Woche vor der Landtagswahl in Mecklenburg-Vorpommern liegt die CDU in Umfragen bei sieben Prozent. Damit droht die Gefahr, dass sie aus dem Landtag ausscheidet.",
@@ -25,14 +41,6 @@
       "link": "https://www.zeit.de/digital/2026-09/kuenstliche-intelligenz-gefahren-anthropic-jacob-coxon",
       "published": "Sat, 12 Sep 2026 06:50:38 -0000",
       "published_display": "12.09.2026 · 06:50 Uhr"
-    },
-    {
-      "title": "Vereitelter Drohnenanschlag in Leipzig/Halle: Russischer Militärgeheimdienst soll hinter Anschlagsversuch stecken",
-      "summary": "Ein mutmaßlicher russischer Geheimdienstagent soll laut einem Medienbericht den Drohnenanschlag in Leipzig vorbereitet haben. Der Mann sei inzwischen wieder in Russland.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/drohnenanschlag-flughafen-leipzig-halle-russland-geheimdienst-gru-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/drohnenanschlag-flughafen-leipzig-halle-russland-geheimdienst-gru",
-      "published": "Sat, 12 Sep 2026 06:48:44 -0000",
-      "published_display": "12.09.2026 · 06:48 Uhr"
     },
     {
       "title": "Telefonbetrug: Ehepaar verliert fünfstelligen Betrag an Telefonbetrüger",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/12/motorradfahrer-uebersehen-mann-schwer-verletzt",
       "published": "Sat, 12 Sep 2026 05:51:51 -0000",
       "published_display": "12.09.2026 · 05:51 Uhr"
-    },
-    {
-      "title": "Fußball-Bundesliga: Union hadert mit den Gegentoren: «Zu viele Geschenke»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/union-hadert-mit-den-gegentoren-zu-viele-geschenke-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/union-hadert-mit-den-gegentoren-zu-viele-geschenke",
-      "published": "Sat, 12 Sep 2026 05:21:04 -0000",
-      "published_display": "12.09.2026 · 05:21 Uhr"
     }
   ]
 }
