@@ -1,7 +1,95 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-12T09:54:03.912757+00:00",
+  "updated": "2026-09-12T10:16:41.020247+00:00",
   "items": [
+    {
+      "title": "Giorgia Meloni: Meloni hält Brandmauern zu rechten Parteien für nicht erfolgreich",
+      "summary": "Die Regierungschefin Italiens ist selbst Mitglied einer rechtsnationalen Partei. Zur Wahl in Sachsen-Anhalt sagt Meloni, Brandmauern funktionierten nicht.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/giorgia-meloni-afd-brandmauer-rechte-parteien-europa-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/giorgia-meloni-afd-brandmauer-rechte-parteien-europa",
+      "published": "Sat, 12 Sep 2026 10:16:25 -0000",
+      "published_display": "12.09.2026 · 10:16 Uhr"
+    },
+    {
+      "title": "Kollision: Kind läuft vor Straßenbahn und wird verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/kind-laeuft-vor-strassenbahn-und-wird-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/kind-laeuft-vor-strassenbahn-und-wird-verletzt",
+      "published": "Sat, 12 Sep 2026 10:15:05 -0000",
+      "published_display": "12.09.2026 · 10:15 Uhr"
+    },
+    {
+      "title": "Konflikt im Nahen Osten: Pipeline stillgelegt: Saudische Ölexporte massiv unter Druck",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/pipeline-stillgelegt-saudische-oelexporte-massiv-unter-druck-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/pipeline-stillgelegt-saudische-oelexporte-massiv-unter-druck",
+      "published": "Sat, 12 Sep 2026 10:14:26 -0000",
+      "published_display": "12.09.2026 · 10:14 Uhr"
+    },
+    {
+      "title": "Brand am Freitagabend: 100.000 Euro Schaden bei Brand in Wohnhaus",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/100-000-euro-schaden-bei-brand-in-wohnhaus-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/100-000-euro-schaden-bei-brand-in-wohnhaus",
+      "published": "Sat, 12 Sep 2026 10:12:07 -0000",
+      "published_display": "12.09.2026 · 10:12 Uhr"
+    },
+    {
+      "title": "Linksextreme Schriftzüge: Jugendliche beschmieren Wahlplakate - Polizei ermittelt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/jugendliche-beschmieren-wahlplakate-polizei-ermittelt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/jugendliche-beschmieren-wahlplakate-polizei-ermittelt",
+      "published": "Sat, 12 Sep 2026 10:07:32 -0000",
+      "published_display": "12.09.2026 · 10:07 Uhr"
+    },
+    {
+      "title": "Landeswahlkonferenz im Norden: SPD-Generalsekretär fordert Kurswechsel im Bund",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/spd-generalsekretaer-fordert-kurswechsel-im-bund-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/spd-generalsekretaer-fordert-kurswechsel-im-bund",
+      "published": "Sat, 12 Sep 2026 10:07:21 -0000",
+      "published_display": "12.09.2026 · 10:07 Uhr"
+    },
+    {
+      "title": "Kassenärztliche Bundesvereinigung: Kassenärztechef hält schnelle Facharzttermine in Ausnahmen für möglich",
+      "summary": "Eine von der SPD geforderte Termingarantie beim Facharzt lehnen die Kassenärzte ab. Sie stellen aber schnellere Termine in Aussicht, wenn es medizinisch notwendig sei.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/facharzttermine-wartezeiten-andreas-gassen-kbv-matthias-miersch-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/facharzttermine-wartezeiten-andreas-gassen-kbv-matthias-miersch",
+      "published": "Sat, 12 Sep 2026 10:05:55 -0000",
+      "published_display": "12.09.2026 · 10:05 Uhr"
+    },
+    {
+      "title": "Mieterstrom in Oberursel: Kein Anschluss ohne diese Nummer",
+      "summary": "Seit einem Jahr könnte die Solaranlage auf Kristof Obermanns Haus Strom liefern. Tut sie aber nicht. Wie eine private Energiewende zum Vollzeitjob wird.",
+      "image": "https://img.zeit.de/2026/38/kein-anschluss-ohne-diese-nummer-bild-2/original__640x360",
+      "link": "https://www.zeit.de/2026/38/mieterstrom-oberursel-photovoltaik-anlage-buerokratie-syna",
+      "published": "Sat, 12 Sep 2026 10:02:07 -0000",
+      "published_display": "12.09.2026 · 10:02 Uhr"
+    },
+    {
+      "title": "Mobilität: ADFC fordert mehr Geld für Radwege in Sachsen-Anhalt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/adfc-fordert-mehr-geld-fuer-radwege-in-sachsen-anhalt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/adfc-fordert-mehr-geld-fuer-radwege-in-sachsen-anhalt",
+      "published": "Sat, 12 Sep 2026 10:02:04 -0000",
+      "published_display": "12.09.2026 · 10:02 Uhr"
+    },
+    {
+      "title": "Landtag: Grüne: Jüdische Kultur in Sachsen dauerhaft sichtbar machen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/gruene-juedische-kultur-in-sachsen-dauerhaft-sichtbar-machen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/gruene-juedische-kultur-in-sachsen-dauerhaft-sichtbar-machen",
+      "published": "Sat, 12 Sep 2026 09:59:15 -0000",
+      "published_display": "12.09.2026 · 09:59 Uhr"
+    },
+    {
+      "title": "Antisemitismus: Mit Morddrohung gegen Knobloch «jede Grenze überschritten»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/mit-morddrohung-gegen-knobloch-jede-grenze-ueberschritten-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/mit-morddrohung-gegen-knobloch-jede-grenze-ueberschritten",
+      "published": "Sat, 12 Sep 2026 09:53:06 -0000",
+      "published_display": "12.09.2026 · 09:53 Uhr"
+    },
     {
       "title": "Mehrere Verletzte: Eisenstange eingesetzt: Streit in Oberfranken eskaliert",
       "summary": "",
@@ -33,94 +121,6 @@
       "link": "https://www.zeit.de/politik/ausland/2026-09/schattenflotte-russland-wladimir-putin-schiffe-ukraine",
       "published": "Sat, 12 Sep 2026 09:41:44 -0000",
       "published_display": "12.09.2026 · 09:41 Uhr"
-    },
-    {
-      "title": "Diskussion über Starspieler: Einsilbiges Interview von Olise: So reagiert der FC Bayern",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/einsilbiges-interview-von-olise-so-reagiert-der-fc-bayern-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/einsilbiges-interview-von-olise-so-reagiert-der-fc-bayern",
-      "published": "Sat, 12 Sep 2026 09:39:33 -0000",
-      "published_display": "12.09.2026 · 09:39 Uhr"
-    },
-    {
-      "title": "Konflikt im Nahen Osten: Pipeline stillgelegt: Saudische Ölexporte massiv unter Druck",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/pipeline-stillgelegt-saudische-oelexporte-massiv-unter-druck-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/pipeline-stillgelegt-saudische-oelexporte-massiv-unter-druck",
-      "published": "Sat, 12 Sep 2026 09:31:59 -0000",
-      "published_display": "12.09.2026 · 09:31 Uhr"
-    },
-    {
-      "title": "Normandie: Mindestens 44 Verletzte nach Zugunglück in Nordfrankreich",
-      "summary": "Ein Waggon eines Regionalzugs ist zwischen Rouen und Caen in der Normandie nach einer Kollision umgekippt. Die Ermittler gehen derzeit von Sabotage als Unfallursache aus.",
-      "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-09/zugunglueck-normandie-sncf-rouen-caen-foto-1/original__640x360",
-      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-09/zugunglueck-normandie-sncf-rouen-caen-gxe",
-      "published": "Sat, 12 Sep 2026 09:23:19 -0000",
-      "published_display": "12.09.2026 · 09:23 Uhr"
-    },
-    {
-      "title": "Koalition: Klingbeil kritisiert CDU-Angriff auf Bas: «Was soll das?»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/klingbeil-kritisiert-cdu-angriff-auf-bas-was-soll-das-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/klingbeil-kritisiert-cdu-angriff-auf-bas-was-soll-das",
-      "published": "Sat, 12 Sep 2026 09:20:57 -0000",
-      "published_display": "12.09.2026 · 09:20 Uhr"
-    },
-    {
-      "title": "Internationaler Wettbewerb: Sächsische Landschaftsgärtner starten bei Berufe-WM in China",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/saechsische-landschaftsgaertner-starten-bei-berufe-wm-in-china-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/saechsische-landschaftsgaertner-starten-bei-berufe-wm-in-china",
-      "published": "Sat, 12 Sep 2026 09:19:58 -0000",
-      "published_display": "12.09.2026 · 09:19 Uhr"
-    },
-    {
-      "title": "Nächtlicher Einsatz: Fünf Autos brennen in Hennef - Verdacht auf Brandstiftung",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/fuenf-autos-brennen-in-hennef-verdacht-auf-brandstiftung-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/fuenf-autos-brennen-in-hennef-verdacht-auf-brandstiftung",
-      "published": "Sat, 12 Sep 2026 09:19:17 -0000",
-      "published_display": "12.09.2026 · 09:19 Uhr"
-    },
-    {
-      "title": "Immer noch keinen Vertrag: Tschentscher: Naturkundemuseum im Elbtower fraglich",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/tschentscher-naturkundemuseum-im-elbtower-fraglich-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/tschentscher-naturkundemuseum-im-elbtower-fraglich",
-      "published": "Sat, 12 Sep 2026 09:18:06 -0000",
-      "published_display": "12.09.2026 · 09:18 Uhr"
-    },
-    {
-      "title": "Dienstältester Innenminister: Herrmann: Mein Glaube gibt mir in schweren Zeiten Halt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/herrmann-mein-glaube-gibt-mir-in-schweren-zeiten-halt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/herrmann-mein-glaube-gibt-mir-in-schweren-zeiten-halt",
-      "published": "Sat, 12 Sep 2026 09:15:14 -0000",
-      "published_display": "12.09.2026 · 09:15 Uhr"
-    },
-    {
-      "title": "Mögliche AfD-Regierung: Hubig warnt: AfD verändert das Klima – Beamte in der Pflicht",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/hubig-warnt-afd-veraendert-das-klima-beamte-in-der-pflicht-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/hubig-warnt-afd-veraendert-das-klima-beamte-in-der-pflicht",
-      "published": "Sat, 12 Sep 2026 09:08:12 -0000",
-      "published_display": "12.09.2026 · 09:08 Uhr"
-    },
-    {
-      "title": "Psychotherapie im Alter: Mit 75 ist man zu alt für Therapie? Im Gegenteil, sagen Studien",
-      "summary": "Ältere bekommen bei psychischen Problemen eher Psychopharmaka. Dabei kann Therapie auch im Ruhestand wirken, manchmal sogar besser. Eine Lebensrückblicktherapie etwa.",
-      "image": "https://img.zeit.de/2026/39/leute-wartet-nicht-so-lange-bild-2/original__640x360",
-      "link": "https://www.zeit.de/2026/39/psychotherapie-alter-senioren-depressionen-angststoerungen",
-      "published": "Sat, 12 Sep 2026 09:06:01 -0000",
-      "published_display": "12.09.2026 · 09:06 Uhr"
-    },
-    {
-      "title": "Spitzenspiel im Saarland: Kompany begrüßt Aufhebung der Sperre für Elversberg-Coach",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/kompany-begruesst-aufhebung-der-sperre-fuer-elversberg-coach-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/kompany-begruesst-aufhebung-der-sperre-fuer-elversberg-coach",
-      "published": "Sat, 12 Sep 2026 09:02:10 -0000",
-      "published_display": "12.09.2026 · 09:02 Uhr"
     }
   ]
 }
