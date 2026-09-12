@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-12T09:28:18.607418+00:00",
+  "updated": "2026-09-12T09:42:14.110647+00:00",
   "items": [
+    {
+      "title": "Schattenflotte: Wie Deutschland Putins Öltankern schaden könnte",
+      "summary": "Die Schattenflotte finanziert Russlands Krieg gegen die Ukraine. Deutschland tut sich schwer, gegen die oft maroden Schiffe vorzugehen. Andere Länder sind da weiter.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/schattenflotte-russland-wladimir-putin-schiffe-ukraine-teaser/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/schattenflotte-russland-wladimir-putin-schiffe-ukraine",
+      "published": "Sat, 12 Sep 2026 09:41:44 -0000",
+      "published_display": "12.09.2026 · 09:41 Uhr"
+    },
+    {
+      "title": "Diskussion über Starspieler: Einsilbiges Interview von Olise: So reagiert der FC Bayern",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/einsilbiges-interview-von-olise-so-reagiert-der-fc-bayern-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/einsilbiges-interview-von-olise-so-reagiert-der-fc-bayern",
+      "published": "Sat, 12 Sep 2026 09:39:33 -0000",
+      "published_display": "12.09.2026 · 09:39 Uhr"
+    },
+    {
+      "title": "Konflikt im Nahen Osten: Pipeline stillgelegt: Saudische Ölexporte massiv unter Druck",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/pipeline-stillgelegt-saudische-oelexporte-massiv-unter-druck-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/pipeline-stillgelegt-saudische-oelexporte-massiv-unter-druck",
+      "published": "Sat, 12 Sep 2026 09:31:59 -0000",
+      "published_display": "12.09.2026 · 09:31 Uhr"
+    },
     {
       "title": "Normandie: Mindestens 44 Verletzte nach Zugunglück in Nordfrankreich",
       "summary": "Ein Waggon eines Regionalzugs ist zwischen Rouen und Caen in der Normandie nach einer Kollision umgekippt. Die Ermittler gehen derzeit von Sabotage als Unfallursache aus.",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/hamburg/2026-09/haw-hamburg-ute-lohrentz-fachkraefte-sparpolitik-studienplaetze",
       "published": "Sat, 12 Sep 2026 08:52:24 -0000",
       "published_display": "12.09.2026 · 08:52 Uhr"
-    },
-    {
-      "title": "Kriminalität: Zwölfjähriger verprügelt und ausgeraubt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/zwoelfjaehriger-verpruegelt-und-ausgeraubt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/zwoelfjaehriger-verpruegelt-und-ausgeraubt",
-      "published": "Sat, 12 Sep 2026 08:52:22 -0000",
-      "published_display": "12.09.2026 · 08:52 Uhr"
-    },
-    {
-      "title": "Spätsommermenü: Langsam gegarter Abschied vom Sommer",
-      "summary": "Noch einmal aus dem Vollen schöpfen, bevor der Sommer vorbei ist: ein Fisch mit Gelinggarantie, eine Salsa, die man zu allem essen will, und warm-süß-scharfe Tomaten.",
-      "image": "https://img.zeit.de/zeit-magazin/wochenmarkt/2026-07/spaetsommer-menue-fisch-rezept-wochenmarkt-bild/original__640x360",
-      "link": "https://www.zeit.de/zeit-magazin/wochenmarkt/2026-07/spaetsommer-menue-fisch-rezept-wochenmarkt",
-      "published": "Sat, 12 Sep 2026 08:51:18 -0000",
-      "published_display": "12.09.2026 · 08:51 Uhr"
-    },
-    {
-      "title": "19 Jahre: Mit 19",
-      "summary": "In unserer Kolumne nehmen wir uns jede Woche ein Lebensjahr vor. In diesem schaltete Daniel Radcliffe aus, wenn »Harry Potter« lief.",
-      "image": "https://img.zeit.de/2026/39/mit-bild-1/original__640x360",
-      "link": "https://www.zeit.de/2026/39/19-jahre-alter-johannes-von-baumbach-mark-zuckerberg-mary-shelley",
-      "published": "Sat, 12 Sep 2026 08:50:10 -0000",
-      "published_display": "12.09.2026 · 08:50 Uhr"
     }
   ]
 }
