@@ -1,7 +1,79 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-12T02:55:10.127180+00:00",
+  "updated": "2026-09-12T03:16:57.918295+00:00",
   "items": [
+    {
+      "title": "Bald beginnt die Heizperiode: Behörde: Gasspeicher könnten schon jetzt für Winter reichen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/behoerde-gasspeicher-koennten-schon-jetzt-fuer-winter-reichen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/behoerde-gasspeicher-koennten-schon-jetzt-fuer-winter-reichen",
+      "published": "Sat, 12 Sep 2026 03:05:05 -0000",
+      "published_display": "12.09.2026 · 03:05 Uhr"
+    },
+    {
+      "title": "Wahl zum Abgeordnetenhaus: Briefwahl in der letzten Woche - worauf dabei zu achten ist",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/briefwahl-in-der-letzten-woche-worauf-dabei-zu-achten-ist-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/briefwahl-in-der-letzten-woche-worauf-dabei-zu-achten-ist",
+      "published": "Sat, 12 Sep 2026 03:01:04 -0000",
+      "published_display": "12.09.2026 · 03:01 Uhr"
+    },
+    {
+      "title": "Vor dem neuen Semester: Universitäten haben Platz in zulassungsfreien Studiengängen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/universitaeten-haben-platz-in-zulassungsfreien-studiengaengen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/universitaeten-haben-platz-in-zulassungsfreien-studiengaengen",
+      "published": "Sat, 12 Sep 2026 03:00:15 -0000",
+      "published_display": "12.09.2026 · 03:00 Uhr"
+    },
+    {
+      "title": "Spritztouren und Alltagsrouten: Saisonale Kennzeichen weiterhin gefragt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/saisonale-kennzeichen-weiterhin-gefragt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/saisonale-kennzeichen-weiterhin-gefragt",
+      "published": "Sat, 12 Sep 2026 03:00:13 -0000",
+      "published_display": "12.09.2026 · 03:00 Uhr"
+    },
+    {
+      "title": "Wahlen: CDU-Politiker in MV fürchten Scheitern an Fünf-Prozent-Hürde",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/cdu-politiker-in-mv-fuerchten-scheitern-an-fuenf-prozent-huerde-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/cdu-politiker-in-mv-fuerchten-scheitern-an-fuenf-prozent-huerde",
+      "published": "Sat, 12 Sep 2026 03:00:12 -0000",
+      "published_display": "12.09.2026 · 03:00 Uhr"
+    },
+    {
+      "title": "Landtagswahl MV: Die 89-Jährige, die in den Landtag will",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/die-89-jaehrige-die-in-den-landtag-will-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/09/die-89-jaehrige-die-in-den-landtag-will",
+      "published": "Sat, 12 Sep 2026 03:00:08 -0000",
+      "published_display": "12.09.2026 · 03:00 Uhr"
+    },
+    {
+      "title": "Abschied vom Amt: Ein «überzeugter Kommunalo»: Dienstältester Landrat hört auf",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/ein-ueberzeugter-kommunalo-dienstaeltester-landrat-hoert-auf-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/ein-ueberzeugter-kommunalo-dienstaeltester-landrat-hoert-auf",
+      "published": "Sat, 12 Sep 2026 03:00:06 -0000",
+      "published_display": "12.09.2026 · 03:00 Uhr"
+    },
+    {
+      "title": "Umfrage: Müde Schüler: Fast jeder zweite klagt über Schlafprobleme",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/muede-schueler-fast-jeder-zweite-klagt-ueber-schlafprobleme-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/muede-schueler-fast-jeder-zweite-klagt-ueber-schlafprobleme",
+      "published": "Sat, 12 Sep 2026 03:00:05 -0000",
+      "published_display": "12.09.2026 · 03:00 Uhr"
+    },
+    {
+      "title": "Starttermin offen: 313 Millionen Euro für neues Abschiebegefängnis",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/313-millionen-euro-fuer-neues-abschiebegefaengnis-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/313-millionen-euro-fuer-neues-abschiebegefaengnis",
+      "published": "Sat, 12 Sep 2026 03:00:04 -0000",
+      "published_display": "12.09.2026 · 03:00 Uhr"
+    },
     {
       "title": "Unfall im Kreis Düren: 16-Jähriger bei Moped-Unfall schwer verletzt",
       "summary": "",
@@ -49,78 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/12/unfall-mit-vier-schwerverletzten-macht-polizei-misstrauisch",
       "published": "Sat, 12 Sep 2026 02:09:42 -0000",
       "published_display": "12.09.2026 · 02:09 Uhr"
-    },
-    {
-      "title": "Ukraine-Krieg: Putin führt AfD-Erfolg auf Fehler des Westens zurück",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/putin-fuehrt-afd-erfolg-auf-fehler-des-westens-zurueck-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/putin-fuehrt-afd-erfolg-auf-fehler-des-westens-zurueck",
-      "published": "Sat, 12 Sep 2026 02:06:01 -0000",
-      "published_display": "12.09.2026 · 02:06 Uhr"
-    },
-    {
-      "title": "Rund 20.000 Diebstähle im Jahr: So helfen präparierte Fahrräder bei der Jagd nach Dieben",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/so-helfen-praeparierte-fahrraeder-bei-der-jagd-nach-dieben-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/so-helfen-praeparierte-fahrraeder-bei-der-jagd-nach-dieben",
-      "published": "Sat, 12 Sep 2026 02:03:04 -0000",
-      "published_display": "12.09.2026 · 02:03 Uhr"
-    },
-    {
-      "title": "Hunderttausende Gäste: Freibäder in Sachsen-Anhalt ziehen positive Bilanz",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/freibaeder-in-sachsen-anhalt-ziehen-positive-bilanz-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/freibaeder-in-sachsen-anhalt-ziehen-positive-bilanz",
-      "published": "Sat, 12 Sep 2026 02:00:43 -0000",
-      "published_display": "12.09.2026 · 02:00 Uhr"
-    },
-    {
-      "title": "Leute: Matthias Reim trennt sich von seinem Bodensee-Boot",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/matthias-reim-trennt-sich-von-seinem-bodensee-boot-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/matthias-reim-trennt-sich-von-seinem-bodensee-boot",
-      "published": "Sat, 12 Sep 2026 02:00:42 -0000",
-      "published_display": "12.09.2026 · 02:00 Uhr"
-    },
-    {
-      "title": "Arbeitszeit in Deutschland: Umfrage: Beschäftigte würden mehr arbeiten - Anreize wichtig",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/umfrage-beschaeftigte-wuerden-mehr-arbeiten-anreize-wichtig-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/umfrage-beschaeftigte-wuerden-mehr-arbeiten-anreize-wichtig",
-      "published": "Sat, 12 Sep 2026 02:00:33 -0000",
-      "published_display": "12.09.2026 · 02:00 Uhr"
-    },
-    {
-      "title": "Dackelrennen: Sprintstarke Dackel messen sich im Eins-gegen-Eins",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/sprintstarke-dackel-messen-sich-im-eins-gegen-eins-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/sprintstarke-dackel-messen-sich-im-eins-gegen-eins",
-      "published": "Sat, 12 Sep 2026 02:00:32 -0000",
-      "published_display": "12.09.2026 · 02:00 Uhr"
-    },
-    {
-      "title": "Bienen: Knapp 43 Kilo pro Volk - gute Honigernte in Rheinland-Pfalz",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/knapp-43-kilo-pro-volk-gute-honigernte-in-rheinland-pfalz-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/knapp-43-kilo-pro-volk-gute-honigernte-in-rheinland-pfalz",
-      "published": "Sat, 12 Sep 2026 02:00:32 -0000",
-      "published_display": "12.09.2026 · 02:00 Uhr"
-    },
-    {
-      "title": "Panorama-Rundbau: Neues Asisi-Panorama in Konstanz: Was Besucher wissen müssen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/neues-asisi-panorama-in-konstanz-was-besucher-wissen-muessen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/neues-asisi-panorama-in-konstanz-was-besucher-wissen-muessen",
-      "published": "Sat, 12 Sep 2026 02:00:31 -0000",
-      "published_display": "12.09.2026 · 02:00 Uhr"
-    },
-    {
-      "title": "Neue Nutzung: Zeichnen statt Beten: Alte Kirche wird Atelier",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/zeichnen-statt-beten-alte-kirche-wird-atelier-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/zeichnen-statt-beten-alte-kirche-wird-atelier",
-      "published": "Sat, 12 Sep 2026 02:00:17 -0000",
-      "published_display": "12.09.2026 · 02:00 Uhr"
     }
   ]
 }
