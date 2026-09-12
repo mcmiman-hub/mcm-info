@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-12T06:21:33.237549+00:00",
+  "updated": "2026-09-12T06:36:15.806137+00:00",
   "items": [
+    {
+      "title": "Vereitelter Drohnenanschlag in Leipzig/Halle: Russischer Militärgeheimdienst soll hinter Anschlagsversuch stecken",
+      "summary": "Ein mutmaßlicher russischer Geheimdienstagent soll laut einem Medienbericht den Drohnenanschlag in Leipzig vorbereitet haben. Der Mann sei inzwischen wieder in Russland.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/drohnenanschlag-flughafen-leipzig-halle-russland-geheimdienst-gru-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/drohnenanschlag-flughafen-leipzig-halle-russland-geheimdienst-gru",
+      "published": "Sat, 12 Sep 2026 06:31:00 -0000",
+      "published_display": "12.09.2026 · 06:31 Uhr"
+    },
+    {
+      "title": "Telefonbetrug: Ehepaar verliert fünfstelligen Betrag an Telefonbetrüger",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/ehepaar-verliert-fuenfstelligen-betrag-an-telefonbetrueger-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/ehepaar-verliert-fuenfstelligen-betrag-an-telefonbetrueger",
+      "published": "Sat, 12 Sep 2026 06:23:56 -0000",
+      "published_display": "12.09.2026 · 06:23 Uhr"
+    },
     {
       "title": "Lastwagen mit Butylacrylat: A6 bei Heilbronn nach Gefahrgut-Unfall weiter gesperrt",
       "summary": "",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-09/zugunglueck-normandie-sncf-rouen-caen",
       "published": "Sat, 12 Sep 2026 05:04:56 -0000",
       "published_display": "12.09.2026 · 05:04 Uhr"
-    },
-    {
-      "title": "Bedeutendster US-Fernsehpreis: Das sind laut Emmys die 16 besten Serien 2026",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/das-sind-laut-emmys-die-16-besten-serien-2026-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/das-sind-laut-emmys-die-16-besten-serien-2026",
-      "published": "Sat, 12 Sep 2026 05:01:05 -0000",
-      "published_display": "12.09.2026 · 05:01 Uhr"
-    },
-    {
-      "title": "Weinlese beginnt: Weinbau im Norden - Nische mit Potenzial",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/weinbau-im-norden-nische-mit-potenzial-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/weinbau-im-norden-nische-mit-potenzial",
-      "published": "Sat, 12 Sep 2026 05:00:07 -0000",
-      "published_display": "12.09.2026 · 05:00 Uhr"
     }
   ]
 }
