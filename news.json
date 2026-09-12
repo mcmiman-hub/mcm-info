@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-12T22:15:52.861329+00:00",
+  "updated": "2026-09-12T22:27:44.997664+00:00",
   "items": [
+    {
+      "title": "Künstliche Intelligenz: Open AI sagt Börsengang vorerst ab",
+      "summary": "Der ChatGPT-Entwickler hält ein Börsendebüt im Jahr 2026 für nicht mehr tragbar. Es gebe noch viel zu tun, um Sicherheitsanforderungen zu erfüllen, sagt Chef Sam Altman.",
+      "image": "https://img.zeit.de/wirtschaft/2026-09/file-photo-openai-ceo-sam-altman-meets-with-lawmakers-on-capitol-hill-bild/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/unternehmen/2026-09/openai-boersengang-sam-altman-ki-sicherheit-anthropic",
+      "published": "Sat, 12 Sep 2026 22:21:52 -0000",
+      "published_display": "12.09.2026 · 22:21 Uhr"
+    },
     {
       "title": "Merz' Zukunft: Söder: Kanzlersturz von der CSU «auf keinen Fall»",
       "summary": "",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/12/bremens-weiser-nach-ende-der-leidenszeit-war-hart",
       "published": "Sat, 12 Sep 2026 19:16:53 -0000",
       "published_display": "12.09.2026 · 19:16 Uhr"
-    },
-    {
-      "title": "Ultimate Championship: Lyles und Bolt sehen 100-Meter-Sieg von US-Sprinter",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/lyles-und-bolt-sehen-100-meter-sieg-von-us-sprinter-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/lyles-und-bolt-sehen-100-meter-sieg-von-us-sprinter",
-      "published": "Sat, 12 Sep 2026 19:13:01 -0000",
-      "published_display": "12.09.2026 · 19:13 Uhr"
     }
   ]
 }
