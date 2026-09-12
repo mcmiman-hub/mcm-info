@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-12T23:16:17.528218+00:00",
+  "updated": "2026-09-12T23:27:05.368674+00:00",
   "items": [
+    {
+      "title": "Künstliche Intelligenz: Führende Tech-Unternehmer fordern langsamere Entwicklung von KI",
+      "summary": "Die Chefs der KI-Konzerne Anthropic, OpenAI und SpaceX fordern weniger Tempo bei der Entwicklung von KI. Schon bald könnte die KI sonst das gesamte Internet übernehmen.",
+      "image": "https://img.zeit.de/wirtschaft/unternehmen/2026-09/ai-ko-pfe-3-bild/original__640x360",
+      "link": "https://www.zeit.de/digital/2026-09/kuenstliche-intelligenz-anthropic-ceo-warnung-risiken-waffenentwicklung",
+      "published": "Sat, 12 Sep 2026 23:26:25 -0000",
+      "published_display": "12.09.2026 · 23:26 Uhr"
+    },
+    {
+      "title": "Tennisturnier US Open: Jelena Rybakina gewinnt Finale der US-Open",
+      "summary": "Im Duell der weltbesten Tennisspielerinnen hat die Kasachin Jelena Rybakina die Belarussin Aryna Sabalenka besiegt. Die 27-Jährige führt nun die Weltrangliste an.",
+      "image": "https://img.zeit.de/sport/2026-09/jelena-rybakina-sieg-us-open-weltrangliste-erste-aryna-sabalenka-bild/original__640x360",
+      "link": "https://www.zeit.de/sport/2026-09/jelena-rybakina-sieg-us-open-weltrangliste-erste-aryna-sabalenka",
+      "published": "Sat, 12 Sep 2026 23:23:54 -0000",
+      "published_display": "12.09.2026 · 23:23 Uhr"
+    },
+    {
+      "title": "Tennis: Showgrößen begeistert: Rybakina triumphiert bei US Open",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/13/superstars-begeistert-rybakina-triumphiert-bei-us-open-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/13/superstars-begeistert-rybakina-triumphiert-bei-us-open",
+      "published": "Sat, 12 Sep 2026 23:15:38 -0000",
+      "published_display": "12.09.2026 · 23:15 Uhr"
+    },
     {
       "title": "Unfall: 17 Verletzte bei Busunfall in Berlin",
       "summary": "",
@@ -17,14 +41,6 @@
       "link": "https://www.zeit.de/news/2026-09/13/leerstehendes-hotel-in-brand-sieben-verletzte",
       "published": "Sat, 12 Sep 2026 23:02:28 -0000",
       "published_display": "12.09.2026 · 23:02 Uhr"
-    },
-    {
-      "title": "Tennis: Superstars begeistert: Rybakina triumphiert bei US Open",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/13/superstars-begeistert-rybakina-triumphiert-bei-us-open-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/13/superstars-begeistert-rybakina-triumphiert-bei-us-open",
-      "published": "Sat, 12 Sep 2026 22:40:08 -0000",
-      "published_display": "12.09.2026 · 22:40 Uhr"
     },
     {
       "title": "Verfolgungsjagd: 17-Jähriger rast in gestohlenem Auto durch Passau",
@@ -67,14 +83,6 @@
       "published_display": "12.09.2026 · 21:55 Uhr"
     },
     {
-      "title": "Künstliche Intelligenz: Anthropic-Chef warnt vor Übernahme des Internets durch KI-Agenten",
-      "summary": "Dario Amodei fordert seine Branche zu mehr Langsamkeit bei der Entwicklung auf. KI berge »gravierende Risiken« – man dürfe sie aber nicht autoritären Mächten überlassen.",
-      "image": "https://img.zeit.de/digital/2026-09/kuenstliche-intelligenz-anthropic-ceo-warnung-risiken-waffenentwicklung-bild-3/original__640x360",
-      "link": "https://www.zeit.de/digital/2026-09/kuenstliche-intelligenz-anthropic-ceo-warnung-risiken-waffenentwicklung",
-      "published": "Sat, 12 Sep 2026 21:25:24 -0000",
-      "published_display": "12.09.2026 · 21:25 Uhr"
-    },
-    {
       "title": "Filmfestspiele: Goldener Löwe in Venedig für dänische Regisseurin",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-09/12/daenische-regisseurin-gewinnt-goldenen-loewen-in-venedig-image-group/original__640x360",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/politik/deutschland/2026-09/markus-soeder-csu-friedrich-merz-kanzler-union",
       "published": "Sat, 12 Sep 2026 20:28:31 -0000",
       "published_display": "12.09.2026 · 20:28 Uhr"
-    },
-    {
-      "title": "Künstliche Intelligenz: OpenAI-Chef: Börsengang nicht mehr in diesem Jahr",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/openai-chef-boersengang-nicht-mehr-in-diesem-jahr-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/openai-chef-boersengang-nicht-mehr-in-diesem-jahr",
-      "published": "Sat, 12 Sep 2026 20:21:26 -0000",
-      "published_display": "12.09.2026 · 20:21 Uhr"
     }
   ]
 }
