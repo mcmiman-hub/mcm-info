@@ -1,14 +1,30 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-12T07:15:13.606738+00:00",
+  "updated": "2026-09-12T07:26:52.892239+00:00",
   "items": [
     {
       "title": "Vereitelter Drohnenanschlag in Leipzig/Halle: Russischer Militärgeheimdienst soll hinter Anschlagsversuch stecken",
       "summary": "Ein mutmaßlicher russischer Geheimdienstagent soll laut einem Medienbericht den Drohnenanschlag in Leipzig vorbereitet haben. Der Mann sei inzwischen wieder in Russland.",
       "image": "https://img.zeit.de/politik/deutschland/2026-09/drohnenanschlag-flughafen-leipzig-halle-russland-geheimdienst-gru-foto-1/original__640x360",
       "link": "https://www.zeit.de/politik/deutschland/2026-09/drohnenanschlag-flughafen-leipzig-halle-russland-geheimdienst-gru",
-      "published": "Sat, 12 Sep 2026 07:14:29 -0000",
-      "published_display": "12.09.2026 · 07:14 Uhr"
+      "published": "Sat, 12 Sep 2026 07:25:56 -0000",
+      "published_display": "12.09.2026 · 07:25 Uhr"
+    },
+    {
+      "title": "Wetter: Wechselhaftes Wetter in Niedersachsen - wo der Regen kommt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/wechselhaftes-wetter-in-niedersachsen-wo-der-regen-kommt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/wechselhaftes-wetter-in-niedersachsen-wo-der-regen-kommt",
+      "published": "Sat, 12 Sep 2026 07:20:11 -0000",
+      "published_display": "12.09.2026 · 07:20 Uhr"
+    },
+    {
+      "title": "Landtagswahl in Mecklenburg-Vorpommern: CDU-Spitzenkandidat Peters sieht seine Landespartei im »Existenzkampf«",
+      "summary": "Eine Woche vor der Landtagswahl in Mecklenburg-Vorpommern liegt die CDU in Umfragen bei sieben Prozent. CDU-Politiker befürchten, an der Fünf-Prozent-Hürde zu scheitern.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/cdu-fuerchtet-scheitern-huerde-mecklenburg-vorpommern-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/mecklenburg-vorpommern-cdu-umfragewerte",
+      "published": "Sat, 12 Sep 2026 07:19:48 -0000",
+      "published_display": "12.09.2026 · 07:19 Uhr"
     },
     {
       "title": "Istanbul: Gericht verhängt Haftstrafe und Politikverbot gegen İmamoğlu",
@@ -17,14 +33,6 @@
       "link": "https://www.zeit.de/politik/2026-09/ekrem-imamoglu-buergermeister-istanbul-haft-urteil-chp",
       "published": "Sat, 12 Sep 2026 07:11:27 -0000",
       "published_display": "12.09.2026 · 07:11 Uhr"
-    },
-    {
-      "title": "Landtagswahl in Mecklenburg-Vorpommern: CDU-Politiker befürchten Scheitern an Fünf-Prozent-Hürde",
-      "summary": "Eine Woche vor der Landtagswahl in Mecklenburg-Vorpommern liegt die CDU in Umfragen bei sieben Prozent. Damit droht die Gefahr, dass sie aus dem Landtag ausscheidet.",
-      "image": "https://img.zeit.de/administratives/sharing/fallback-image-die-zeit/wide__1300x731",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/mecklenburg-vorpommern-cdu-umfragewerte",
-      "published": "Sat, 12 Sep 2026 06:57:05 -0000",
-      "published_display": "12.09.2026 · 06:57 Uhr"
     },
     {
       "title": "Kriminalität am Freitagabend: Schüsse auf Linienbus in Hamburg",
@@ -86,7 +94,7 @@
       "title": "Reform UK: Farages Partei erhält größte Spende der britischen Parteiengeschichte",
       "summary": "Ein Krypto-Milliardär hat der rechtspopulistischen Reform UK umgerechnet 42 Millionen Euro überwiesen. Er wolle der Partei helfen, »sich aufs Regieren vorzubereiten«.",
       "image": "https://img.zeit.de/politik/ausland/2026-09/reform-uk-rekordspende-nigel-farage-ben-delo-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/reform-uk-rekordspende-nigel-farage-ben-delo",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/reform-uk-rekordspende-nigel-farage-ben-delo-gxe",
       "published": "Sat, 12 Sep 2026 06:08:23 -0000",
       "published_display": "12.09.2026 · 06:08 Uhr"
     },
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/politik/deutschland/2026-09/staatliche-enteignungen-wahlkampf-berlin-die-linke",
       "published": "Sat, 12 Sep 2026 06:01:48 -0000",
       "published_display": "12.09.2026 · 06:01 Uhr"
-    },
-    {
-      "title": "Unfall: Motorradfahrer übersehen - Mann schwer verletzt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/motorradfahrer-uebersehen-mann-schwer-verletzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/motorradfahrer-uebersehen-mann-schwer-verletzt",
-      "published": "Sat, 12 Sep 2026 05:51:51 -0000",
-      "published_display": "12.09.2026 · 05:51 Uhr"
     }
   ]
 }
