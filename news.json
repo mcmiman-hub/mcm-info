@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-12T20:56:33.821537+00:00",
+  "updated": "2026-09-12T21:16:41.212758+00:00",
   "items": [
+    {
+      "title": "Filmfestspiele: Goldener Löwe in Venedig für dänische Regisseurin",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/daenische-regisseurin-gewinnt-goldenen-loewen-in-venedig-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/daenische-regisseurin-gewinnt-goldenen-loewen-in-venedig",
+      "published": "Sat, 12 Sep 2026 20:57:14 -0000",
+      "published_display": "12.09.2026 · 20:57 Uhr"
+    },
     {
       "title": "Erste Runde: Weißenfelser Basketballer gewinnen souverän im Pokal",
       "summary": "",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/politik/2026-09/demonstrationen-afd-magdeburg-stuttgart-hamburg",
       "published": "Sat, 12 Sep 2026 19:01:42 -0000",
       "published_display": "12.09.2026 · 19:01 Uhr"
-    },
-    {
-      "title": "Filmfestspiele: Goldener Löwe in Venedig für dänische Regisseurin",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/daenische-regisseurin-gewinnt-goldenen-loewen-in-venedig-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/daenische-regisseurin-gewinnt-goldenen-loewen-in-venedig",
-      "published": "Sat, 12 Sep 2026 18:59:11 -0000",
-      "published_display": "12.09.2026 · 18:59 Uhr"
     }
   ]
 }
