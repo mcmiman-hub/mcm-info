@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-12T05:42:33.615542+00:00",
+  "updated": "2026-09-12T05:54:05.185763+00:00",
   "items": [
+    {
+      "title": "Unfall: Motorradfahrer übersehen - Mann schwer verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/12/motorradfahrer-uebersehen-mann-schwer-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/12/motorradfahrer-uebersehen-mann-schwer-verletzt",
+      "published": "Sat, 12 Sep 2026 05:51:51 -0000",
+      "published_display": "12.09.2026 · 05:51 Uhr"
+    },
+    {
+      "title": "Reform UK: Farages Partei erhält größte Spende der britischen Parteiengeschichte",
+      "summary": "Ein Krypto-Milliardär hat der rechtspopulistischen Reform UK umgerechnet 42 Millionen Euro überwiesen. Er wolle der Partei helfen, »sich aufs Regieren vorzubereiten«.",
+      "image": "https://img.zeit.de/administratives/sharing/fallback-image-die-zeit/wide__1300x731",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/reform-uk-rekordspende-nigel-farage-ben-delo",
+      "published": "Sat, 12 Sep 2026 05:46:07 -0000",
+      "published_display": "12.09.2026 · 05:46 Uhr"
+    },
     {
       "title": "Fußball-Bundesliga: Union hadert mit den Gegentoren: «Zu viele Geschenke»",
       "summary": "",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/12/pipeline-stillgelegt-saudische-oelexporte-massiv-unter-druck",
       "published": "Sat, 12 Sep 2026 04:10:53 -0000",
       "published_display": "12.09.2026 · 04:10 Uhr"
-    },
-    {
-      "title": "Berlin Art Week: Festival zum Liegen in Hörsaalruine der Charité",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/festival-zum-liegen-in-hoersaalruine-der-charit-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/festival-zum-liegen-in-hoersaalruine-der-charit",
-      "published": "Sat, 12 Sep 2026 04:00:11 -0000",
-      "published_display": "12.09.2026 · 04:00 Uhr"
-    },
-    {
-      "title": "Kommunalwahlen: 4 von 2.700: Warum einige AfD-Kandidaten ausgeschlossen sind",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/4-von-2-700-warum-einige-afd-kandidaten-ausgeschlossen-sind-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/4-von-2-700-warum-einige-afd-kandidaten-ausgeschlossen-sind",
-      "published": "Sat, 12 Sep 2026 04:00:10 -0000",
-      "published_display": "12.09.2026 · 04:00 Uhr"
     }
   ]
 }
