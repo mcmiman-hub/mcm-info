@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-12T22:27:44.997664+00:00",
+  "updated": "2026-09-12T22:43:21.096087+00:00",
   "items": [
+    {
+      "title": "Tennis: Superstars begeistert: Rybakina triumphiert bei US Open",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/13/superstars-begeistert-rybakina-triumphiert-bei-us-open-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/13/superstars-begeistert-rybakina-triumphiert-bei-us-open",
+      "published": "Sat, 12 Sep 2026 22:40:08 -0000",
+      "published_display": "12.09.2026 · 22:40 Uhr"
+    },
+    {
+      "title": "Verfolgungsjagd: 17-Jähriger rast in gestohlenem Auto durch Passau",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/13/17-jaehriger-rast-in-gestohlenem-auto-durch-passau-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/13/17-jaehriger-rast-in-gestohlenem-auto-durch-passau",
+      "published": "Sat, 12 Sep 2026 22:35:18 -0000",
+      "published_display": "12.09.2026 · 22:35 Uhr"
+    },
+    {
+      "title": "Landtagswahl: Hoppermann nennt Schwesigs Wahlkampf «verantwortungslos»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/13/hoppermann-nennt-schwesigs-wahlkampf-verantwortungslos-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/13/hoppermann-nennt-schwesigs-wahlkampf-verantwortungslos",
+      "published": "Sat, 12 Sep 2026 22:30:04 -0000",
+      "published_display": "12.09.2026 · 22:30 Uhr"
+    },
     {
       "title": "Künstliche Intelligenz: Open AI sagt Börsengang vorerst ab",
       "summary": "Der ChatGPT-Entwickler hält ein Börsendebüt im Jahr 2026 für nicht mehr tragbar. Es gebe noch viel zu tun, um Sicherheitsanforderungen zu erfüllen, sagt Chef Sam Altman.",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/sport/2026-09/basketball-wm-berlin-deutschland-frankreich-weibliche-vorbilder",
       "published": "Sat, 12 Sep 2026 19:50:44 -0000",
       "published_display": "12.09.2026 · 19:50 Uhr"
-    },
-    {
-      "title": "Tennis: «Gute Chance» für Ende von Erfolgsdoppel Pütz und Krawietz",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/krawietz-und-puetz-verpassen-doppel-titel-bei-us-open-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/krawietz-und-puetz-verpassen-doppel-titel-bei-us-open",
-      "published": "Sat, 12 Sep 2026 19:34:38 -0000",
-      "published_display": "12.09.2026 · 19:34 Uhr"
-    },
-    {
-      "title": "Nach Krankheitspause: Céline Dion feiert emotionales Konzert-Comeback",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/c-line-dion-feiert-emotionales-konzert-comeback-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/c-line-dion-feiert-emotionales-konzert-comeback",
-      "published": "Sat, 12 Sep 2026 19:21:17 -0000",
-      "published_display": "12.09.2026 · 19:21 Uhr"
-    },
-    {
-      "title": "Fußball-Bundesliga: Bremens Weiser nach Ende der Leidenszeit: «War hart»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/bremens-weiser-nach-ende-der-leidenszeit-war-hart-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/bremens-weiser-nach-ende-der-leidenszeit-war-hart",
-      "published": "Sat, 12 Sep 2026 19:16:53 -0000",
-      "published_display": "12.09.2026 · 19:16 Uhr"
     }
   ]
 }
