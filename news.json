@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-12T23:40:37.964498+00:00",
+  "updated": "2026-09-12T23:54:33.081519+00:00",
   "items": [
+    {
+      "title": "Huthi-Miliz: Mindestens 76.000 Menschen sind wegen Kämpfen im Jemen auf der Flucht",
+      "summary": "Allein in diesem Monat zählen die Vereinten Nationen rund 70.000 Vertriebene im Jemen. Die Lage verschlimmere sich von Tag zu Tag.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/jemen-huthi-bab-al-mandab-rotes-meer-vertreibung-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/jemen-huthi-kaempfe-vertriebene-flucht-un",
+      "published": "Sat, 12 Sep 2026 23:46:17 -0000",
+      "published_display": "12.09.2026 · 23:46 Uhr"
+    },
     {
       "title": "Deutsche Bahn: Minister will Rückkehr der Familienreservierung bei der Bahn",
       "summary": "",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/12/18-jaehriger-wegen-verdachts-auf-versuchten-mord-in-u-haft",
       "published": "Sat, 12 Sep 2026 20:34:11 -0000",
       "published_display": "12.09.2026 · 20:34 Uhr"
-    },
-    {
-      "title": "2. Fußball-Bundesliga: FC St. Pauli stoppt Wolfsburg: 1:0 nach Fujita-Tor",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/fc-st-pauli-stoppt-wolfsburg-1-0-nach-fujita-tor-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/fc-st-pauli-stoppt-wolfsburg-1-0-nach-fujita-tor",
-      "published": "Sat, 12 Sep 2026 20:28:56 -0000",
-      "published_display": "12.09.2026 · 20:28 Uhr"
     }
   ]
 }
