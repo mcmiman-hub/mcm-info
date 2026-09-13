@@ -1,13 +1,37 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-13T19:41:06.248740+00:00",
+  "updated": "2026-09-13T19:54:02.083227+00:00",
   "items": [
+    {
+      "title": "Feuer in Einfamilienhaus: Explosion in Einfamilienhaus - Vermisster, Millionenschaden",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/13/groesserer-einsatz-wegen-hausbrands-in-weimar-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/13/groesserer-einsatz-wegen-hausbrands-in-weimar",
+      "published": "Sun, 13 Sep 2026 19:45:34 -0000",
+      "published_display": "13.09.2026 · 19:45 Uhr"
+    },
+    {
+      "title": "Kommunalwahl: CDU-Kandidat verteidigt OB-Amt in Hameln",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/13/cdu-kandidat-verteidigt-ob-amt-in-hameln-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/13/cdu-kandidat-verteidigt-ob-amt-in-hameln",
+      "published": "Sun, 13 Sep 2026 19:43:42 -0000",
+      "published_display": "13.09.2026 · 19:43 Uhr"
+    },
     {
       "title": "Kommunalwahl in Niedersachsen: CDU-Oberbürgermeister in Wolfsburg wiedergewählt",
       "summary": "In Niedersachsen haben mehr Menschen bei der Kommunalwahl abgestimmt als vor fünf Jahren. Wolfsburg bleibt nach ersten Auszählungen CDU-regiert.",
-      "image": "https://img.zeit.de/administratives/sharing/fallback-image-die-zeit/wide__1300x731",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/kommunalwahl-niedersachsen-oberbuergermeister-wolfsburg-hannover-cdu-foto-1/original__640x360",
       "link": "https://www.zeit.de/politik/deutschland/2026-09/kommunalwahl-niedersachsen-oberbuergermeister-wolfsburg-hannover-cdu",
       "published": "Sun, 13 Sep 2026 19:40:52 -0000",
+      "published_display": "13.09.2026 · 19:40 Uhr"
+    },
+    {
+      "title": "Oberbürgermeister-Wahl: AfD-Kandidatin in Stichwahl in Salzgitter",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/13/afd-kandidatin-in-stichwahl-in-salzgitter-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/13/afd-kandidatin-in-stichwahl-in-salzgitter",
+      "published": "Sun, 13 Sep 2026 19:40:38 -0000",
       "published_display": "13.09.2026 · 19:40 Uhr"
     },
     {
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/13/falsche-stimmzettel-wahlfehler-in-wilhelmshaven",
       "published": "Sun, 13 Sep 2026 18:26:10 -0000",
       "published_display": "13.09.2026 · 18:26 Uhr"
-    },
-    {
-      "title": "Kommunalwahl in Niedersachsen: Lange Schlangen und Hilfe vom Schlüsseldienst",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/13/lange-schlangen-und-hilfe-vom-schluesseldienst-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/13/lange-schlangen-und-hilfe-vom-schluesseldienst",
-      "published": "Sun, 13 Sep 2026 18:25:09 -0000",
-      "published_display": "13.09.2026 · 18:25 Uhr"
-    },
-    {
-      "title": "Luther- und Nibelungenstadt: Stichwahl entscheidet über neue Rathaus-Spitze von Worms",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/13/stichwahl-entscheidet-ueber-neue-rathaus-spitze-von-worms-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/13/stichwahl-entscheidet-ueber-neue-rathaus-spitze-von-worms",
-      "published": "Sun, 13 Sep 2026 18:24:42 -0000",
-      "published_display": "13.09.2026 · 18:24 Uhr"
-    },
-    {
-      "title": "Parlamentswahl: Sozialdemokraten bei Wahl in Schweden vorn – Ausgang offen",
-      "summary": "",
-      "image": "https://img.zeit.de/administratives/sharing/fallback-image-die-zeit/wide__1300x731",
-      "link": "https://www.zeit.de/news/2026-09/13/sozialdemokraten-bei-wahl-in-schweden-vorn-ausgang-offen",
-      "published": "Sun, 13 Sep 2026 18:15:55 -0000",
-      "published_display": "13.09.2026 · 18:15 Uhr"
     }
   ]
 }
