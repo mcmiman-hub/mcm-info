@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-13T01:15:24.365704+00:00",
+  "updated": "2026-09-13T01:28:52.473553+00:00",
   "items": [
+    {
+      "title": "Immobiliengeschäft: Berichte: Trumps Elternhaus in New York verkauft",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/13/berichte-trumps-elternhaus-in-new-york-verkauft-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/13/berichte-trumps-elternhaus-in-new-york-verkauft",
+      "published": "Sun, 13 Sep 2026 01:24:30 -0000",
+      "published_display": "13.09.2026 · 01:24 Uhr"
+    },
+    {
+      "title": "Nach Krankheitspause: Tränen, Party und Leidenschaft: Céline Dion feiert Comeback",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/13/traenen-party-und-leidenschaft-c-line-dion-feiert-comeback-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/13/traenen-party-und-leidenschaft-c-line-dion-feiert-comeback",
+      "published": "Sun, 13 Sep 2026 01:18:28 -0000",
+      "published_display": "13.09.2026 · 01:18 Uhr"
+    },
     {
       "title": "Tennis: Jelena Rybakina gewinnt Finale der US Open",
       "summary": "Im Duell der weltbesten Tennisspielerinnen hat die Kasachin Jelena Rybakina die Belarussin Aryna Sabalenka besiegt. Die 27-Jährige führt nun die Weltrangliste an.",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/13/hoppermann-nennt-schwesigs-wahlkampf-verantwortungslos",
       "published": "Sat, 12 Sep 2026 22:30:04 -0000",
       "published_display": "12.09.2026 · 22:30 Uhr"
-    },
-    {
-      "title": "Künstliche Intelligenz: OpenAI sagt Börsengang vorerst ab",
-      "summary": "Der ChatGPT-Entwickler hält ein Börsendebüt im Jahr 2026 für nicht mehr tragbar. Es gebe noch viel zu tun, um Sicherheitsanforderungen zu erfüllen, sagt Chef Sam Altman.",
-      "image": "https://img.zeit.de/wirtschaft/2026-09/chatgpt-bild/original__640x360",
-      "link": "https://www.zeit.de/wirtschaft/unternehmen/2026-09/openai-boersengang-sam-altman-ki-sicherheit-anthropic",
-      "published": "Sat, 12 Sep 2026 22:21:52 -0000",
-      "published_display": "12.09.2026 · 22:21 Uhr"
-    },
-    {
-      "title": "Merz' Zukunft: Söder: Kanzlersturz von der CSU «auf keinen Fall»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/13/soeder-kanzlersturz-von-der-csu-auf-keinen-fall-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/13/soeder-kanzlersturz-von-der-csu-auf-keinen-fall",
-      "published": "Sat, 12 Sep 2026 22:01:04 -0000",
-      "published_display": "12.09.2026 · 22:01 Uhr"
     }
   ]
 }
