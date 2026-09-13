@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-13T17:27:23.926069+00:00",
+  "updated": "2026-09-13T17:41:51.200480+00:00",
   "items": [
+    {
+      "title": "Basketball-WM: Deutsche Basketballerinnen verlieren Spiel um Platz drei bei Heim-WM",
+      "summary": "Das deutsche Team hat bei der Basketball-WM in Berlin Bronze verpasst. Im Spiel um Platz drei verloren die Basketballerinnen gegen die Favoritinnen aus Spanien.",
+      "image": "https://img.zeit.de/sport/2026-09/handball-em-deutschland-spanien-berlin-k-o-runde-foto-1/original__640x360",
+      "link": "https://www.zeit.de/sport/2026-09/handball-em-deutschland-spanien-berlin-k-o-runde",
+      "published": "Sun, 13 Sep 2026 17:35:52 -0000",
+      "published_display": "13.09.2026 · 17:35 Uhr"
+    },
+    {
+      "title": "Ukraine-Krieg: Moskau greift Zug an – Waren Diplomaten das Ziel?",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/13/polen-alarmiert-nach-angriff-auf-zug-von-kiew-nach-warschau-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/13/polen-alarmiert-nach-angriff-auf-zug-von-kiew-nach-warschau",
+      "published": "Sun, 13 Sep 2026 17:35:48 -0000",
+      "published_display": "13.09.2026 · 17:35 Uhr"
+    },
+    {
+      "title": "Bundesliga: Glanzloser FC Bayern siegt mühevoll in Elversberg",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/13/glanzloser-fc-bayern-siegt-muehevoll-in-elversberg-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/13/glanzloser-fc-bayern-siegt-muehevoll-in-elversberg",
+      "published": "Sun, 13 Sep 2026 17:25:51 -0000",
+      "published_display": "13.09.2026 · 17:25 Uhr"
+    },
     {
       "title": "Brände: Bewohner springt aus brennender Wohnung in Luftkissen",
       "summary": "",
@@ -51,14 +75,6 @@
       "published_display": "13.09.2026 · 16:58 Uhr"
     },
     {
-      "title": "Basketball-WM: Deutsche Basketballerinnen verlieren Spiel um Platz drei bei Heim-WM",
-      "summary": "Das deutsche Team hat bei der Basketball-WM in Berlin Bronze verpasst. Im Spiel um Platz drei verloren die Basketballerinnen gegen die Favoritinnen aus Spanien.",
-      "image": "https://img.zeit.de/sport/2026-09/handball-em-deutschland-spanien-berlin-k-o-runde-foto-1/original__640x360",
-      "link": "https://www.zeit.de/sport/2026-09/handball-em-deutschland-spanien-berlin-k-o-runde",
-      "published": "Sun, 13 Sep 2026 16:46:20 -0000",
-      "published_display": "13.09.2026 · 16:46 Uhr"
-    },
-    {
       "title": "Rauchwolken über Sinzheim: Gartenhütte in Flammen – Besitzer in Klinik gebracht",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-09/13/gartenhuette-in-flammen-besitzer-in-klinik-gebracht-image-group/original__640x360",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/zeit-magazin/leben/2026-09/lymphdrainage-lymphoedeme-rene-haegerling-berlin-charite",
       "published": "Sun, 13 Sep 2026 16:28:28 -0000",
       "published_display": "13.09.2026 · 16:28 Uhr"
-    },
-    {
-      "title": "Risiken von Künstlicher Intelligenz: Ihre Sorge: eine Explosion der Intelligenz",
-      "summary": "Drei wichtige KI-CEOs sind sich einig: Ihr Rennen um eine immer bessere KI muss sich entschleunigen, sonst droht eine Katastrophe. Fragt sich nur: Wie soll das gehen?",
-      "image": "https://img.zeit.de/digital/internet/2026-09/risiken-kuenstliche-intelligenz-tech-unternehmen-entwicklung-bild-2/original__640x360",
-      "link": "https://www.zeit.de/digital/internet/2026-09/risiken-kuenstliche-intelligenz-tech-unternehmen-entwicklung",
-      "published": "Sun, 13 Sep 2026 16:24:08 -0000",
-      "published_display": "13.09.2026 · 16:24 Uhr"
-    },
-    {
-      "title": "Ukraine-Krieg: Polen alarmiert nach Angriff auf Zug von Kiew nach Warschau",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/13/polen-alarmiert-nach-angriff-auf-zug-von-kiew-nach-warschau-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/13/polen-alarmiert-nach-angriff-auf-zug-von-kiew-nach-warschau",
-      "published": "Sun, 13 Sep 2026 16:23:17 -0000",
-      "published_display": "13.09.2026 · 16:23 Uhr"
     }
   ]
 }
