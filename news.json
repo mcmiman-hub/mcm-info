@@ -1,9 +1,65 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-13T05:54:38.115823+00:00",
+  "updated": "2026-09-13T06:26:13.665805+00:00",
   "items": [
     {
-      "title": "Ebola-Epidemie im Kongo: Bisher mehr als 7.000 Ebola-Fälle in DR Kongo",
+      "title": "Basketball-WM: »Die weißen Socken werden überall liegen. Ü-b-e-r-a-l-l«",
+      "summary": "Was bedeutet es, eine Leistungssportlerin als Tochter zu haben? Unsere Autorin ist Basketballmutter. Das sind ihre 55 wichtigsten Erkenntnisse.",
+      "image": "https://img.zeit.de/sport/2026-09/basketball-wm-mutter-tochter/original__640x360",
+      "link": "https://www.zeit.de/sport/2026-09/basketball-wm-mutter-tochter-leistungssportlerin-erkenntnisse",
+      "published": "Sun, 13 Sep 2026 06:16:19 -0000",
+      "published_display": "13.09.2026 · 06:16 Uhr"
+    },
+    {
+      "title": "AfD-Wahlsieg: Dieses Land verwandelt sich gerade in Trumpland",
+      "summary": "Ungebremste Begeisterung für die AfD, die Stimmung vibriert, Umwälzung liegt in der Luft. Deutschland erlebt einen Maga-Moment. Das ist verstörend – und lehrreich.",
+      "image": "https://img.zeit.de/feuilleton/2026-09/afd-wahlsieg-sachsen-anhalt-donald-trump-usa-parallele-bild/original__640x360",
+      "link": "https://www.zeit.de/feuilleton/2026-09/afd-wahlsieg-sachsen-anhalt-donald-trump-usa-parallele",
+      "published": "Sun, 13 Sep 2026 06:15:00 -0000",
+      "published_display": "13.09.2026 · 06:15 Uhr"
+    },
+    {
+      "title": "Tennis: «Genieß es»: Rybakina entthront Sabalenka in New York",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/13/superstars-begeistert-rybakina-triumphiert-bei-us-open-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/13/superstars-begeistert-rybakina-triumphiert-bei-us-open",
+      "published": "Sun, 13 Sep 2026 06:14:04 -0000",
+      "published_display": "13.09.2026 · 06:14 Uhr"
+    },
+    {
+      "title": "Dutzende gerettet: Indonesische Fähre in Seenot - fast 130 Menschen vermisst",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/13/indonesische-faehre-mit-rund-240-menschen-an-bord-in-seenot-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/13/indonesische-faehre-mit-rund-240-menschen-an-bord-in-seenot",
+      "published": "Sun, 13 Sep 2026 06:14:01 -0000",
+      "published_display": "13.09.2026 · 06:14 Uhr"
+    },
+    {
+      "title": "Niedersachsen wählt: Kommunalwahlen in Niedersachsen haben begonnen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/13/kommunalwahlen-in-niedersachsen-darum-geht-es-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/13/kommunalwahlen-in-niedersachsen-darum-geht-es",
+      "published": "Sun, 13 Sep 2026 06:06:43 -0000",
+      "published_display": "13.09.2026 · 06:06 Uhr"
+    },
+    {
+      "title": "Unfall A6: Lastwagen fährt ungebremst auf Auto – ein Schwerverletzter",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/13/unfall-auf-a6-zwei-menschen-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/13/unfall-auf-a6-zwei-menschen-verletzt",
+      "published": "Sun, 13 Sep 2026 05:55:44 -0000",
+      "published_display": "13.09.2026 · 05:55 Uhr"
+    },
+    {
+      "title": "Vor Bronze-Spiel: «Total irre»: Basketballerin Fiebich klagt über WM-Spielplan",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/13/wolfenbuettel-und-belem-wie-die-basketballerinnen-aufstiegen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/13/wolfenbuettel-und-belem-wie-die-basketballerinnen-aufstiegen",
+      "published": "Sun, 13 Sep 2026 05:55:15 -0000",
+      "published_display": "13.09.2026 · 05:55 Uhr"
+    },
+    {
+      "title": "Ebolaepidemie im Kongo: Bisher mehr als 7.000 Ebolafälle in DR Kongo",
       "summary": "Mehr als 7.000 Menschen sind in der DR Kongo nachweislich an Ebola erkrankt. Es gibt aber Anzeichen, dass der Ausbruch seinen Höhepunkt überschritten haben könnte.",
       "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-09/ebola-epidemie-kongo-demokratische-republik-bundibugyo-virus-impfstoff-bild/original__640x360",
       "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-09/ebola-epidemie-kongo-demokratische-republik-bundibugyo-virus-impfstoff",
@@ -17,14 +73,6 @@
       "link": "https://www.zeit.de/news/2026-09/13/unfall-trotz-ausweichmanoever-vier-verletzte",
       "published": "Sun, 13 Sep 2026 05:43:36 -0000",
       "published_display": "13.09.2026 · 05:43 Uhr"
-    },
-    {
-      "title": "Unfall bei Sinsheim: Unfall auf A6 – ein Mensch verletzt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/13/unfall-auf-a6-zwei-menschen-verletzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/13/unfall-auf-a6-zwei-menschen-verletzt",
-      "published": "Sun, 13 Sep 2026 05:42:09 -0000",
-      "published_display": "13.09.2026 · 05:42 Uhr"
     },
     {
       "title": "Sofa in Brand: Angriff mit Pyrotechnik in Rigaer Straße: Polizist verletzt",
@@ -73,54 +121,6 @@
       "link": "https://www.zeit.de/2026/39/mali-militaerjunta-repression-bamako-frieden-assimi-goita",
       "published": "Sun, 13 Sep 2026 04:26:04 -0000",
       "published_display": "13.09.2026 · 04:26 Uhr"
-    },
-    {
-      "title": "«Tag für die Ewigkeit»: Gregoritsch nach Augsburger Torrekord: Käsekrainer für alle",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/13/gregoritsch-nach-augsburger-torrekord-kaesekrainer-fuer-alle-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/13/gregoritsch-nach-augsburger-torrekord-kaesekrainer-fuer-alle",
-      "published": "Sun, 13 Sep 2026 04:15:04 -0000",
-      "published_display": "13.09.2026 · 04:15 Uhr"
-    },
-    {
-      "title": "Bundesregierung: Markus Söder will an Merz als Bundeskanzler festhalten",
-      "summary": "Nach der Kritik an Friedrich Merz spricht der CSU-Chef aber von einem »schweren Durchhänger« der Schwesterpartei. Am Sonntagabend tagt der CSU-Vorstand zur Lage.",
-      "image": "https://img.zeit.de/politik/2026-09/cdu-parliamentary-fraction-meeting-after-the-general-election-in-berlin-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/markus-soeder-csu-friedrich-merz-kanzler-union",
-      "published": "Sun, 13 Sep 2026 04:09:45 -0000",
-      "published_display": "13.09.2026 · 04:09 Uhr"
-    },
-    {
-      "title": "Dutzende gerettet: Indonesische Fähre mit rund 240 Menschen an Bord in Seenot",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/13/indonesische-faehre-mit-rund-240-menschen-an-bord-in-seenot-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/13/indonesische-faehre-mit-rund-240-menschen-an-bord-in-seenot",
-      "published": "Sun, 13 Sep 2026 04:05:26 -0000",
-      "published_display": "13.09.2026 · 04:05 Uhr"
-    },
-    {
-      "title": "Tierfilm im Regenwald: So entsteht ein Tierfilm im Regenwald",
-      "summary": "Unsere Reporterin hat zwei Tierfilmer begleitet. Was braucht es, um das Leben von wilden Orang-Utans und Zwergelefanten einzufangen? Ein Blick hinter die Kulissen",
-      "image": "https://img.zeit.de/wissenschaft/2026-09/tierfilm-regenwald-borneo-orang-utan-gibbon-zwergelefant-wissen-podcast-bild/original__640x360",
-      "link": "https://www.zeit.de/wissenschaft/umwelt/2026-09/tierfilm-regenwald-borneo-orang-utan-gibbon-zwergelefant-wissen-podcast",
-      "published": "Sun, 13 Sep 2026 04:05:06 -0000",
-      "published_display": "13.09.2026 · 04:05 Uhr"
-    },
-    {
-      "title": "Osten-Festival in Sachsen-Anhalt: Mit Kunst und Austausch gegen den Rechtsruck?",
-      "summary": "Nach dem AfD-Erfolg in Sachsen-Anhalt wird über die Ursachen diskutiert. In Bitterfeld-Wolfen setzt ein Festival auf gegenseitiges Interesse. Und: Stromkrise in Kuba",
-      "image": "https://img.zeit.de/politik/2026-09/osten-festival-sachsen-anhalt-kunst-musik-afd-nachrichtenpodcast-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/2026-09/osten-festival-sachsen-anhalt-kunst-musik-afd-nachrichtenpodcast",
-      "published": "Sun, 13 Sep 2026 04:00:39 -0000",
-      "published_display": "13.09.2026 · 04:00 Uhr"
-    },
-    {
-      "title": "Neue Märkte: Hessen will in Ostafrika Märkte erschließen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/13/hessen-will-in-ostafrika-maerkte-erschliessen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/13/hessen-will-in-ostafrika-maerkte-erschliessen",
-      "published": "Sun, 13 Sep 2026 04:00:07 -0000",
-      "published_display": "13.09.2026 · 04:00 Uhr"
     }
   ]
 }
