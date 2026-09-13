@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-12T23:54:33.081519+00:00",
+  "updated": "2026-09-13T00:25:26.238358+00:00",
   "items": [
+    {
+      "title": "Meta: Aufsichtsgremium warnt vor Einführung von \"Community Notes” bei Meta",
+      "summary": "Der Digitalkonzern Meta testet einen Community-basierten Faktencheck. Ein unabhängiges Aufsichtsratsgremium warnt im Falle einer Einführung vor »realen Schäden«.",
+      "image": "https://img.zeit.de/gesellschaft/2026-09/meta-bild/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/unternehmen/2026-09/meta-community-notes-faktencheck-aufmerksamkeit-lateinamerika",
+      "published": "Sun, 13 Sep 2026 00:24:51 -0000",
+      "published_display": "13.09.2026 · 00:24 Uhr"
+    },
+    {
+      "title": "Unfall in Darmstadt: Radfahrer nach Unfall mit Straßenbahn schwer verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/13/radfahrer-nach-unfall-mit-strassenbahn-schwer-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/13/radfahrer-nach-unfall-mit-strassenbahn-schwer-verletzt",
+      "published": "Sun, 13 Sep 2026 00:06:30 -0000",
+      "published_display": "13.09.2026 · 00:06 Uhr"
+    },
+    {
+      "title": "Unfall in Thüringen: Missglücktes Überholmanöver: tödlicher Motorradunfall",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/13/missgluecktes-ueberholmanoever-toedlicher-motorradunfall-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/13/missgluecktes-ueberholmanoever-toedlicher-motorradunfall",
+      "published": "Sun, 13 Sep 2026 00:02:02 -0000",
+      "published_display": "13.09.2026 · 00:02 Uhr"
+    },
     {
       "title": "Huthi-Miliz: Mindestens 76.000 Menschen sind wegen Kämpfen im Jemen auf der Flucht",
       "summary": "Allein in diesem Monat zählen die Vereinten Nationen rund 70.000 Vertriebene im Jemen. Die Lage verschlimmere sich von Tag zu Tag.",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/12/was-geschah-am-13-september",
       "published": "Sat, 12 Sep 2026 21:55:04 -0000",
       "published_display": "12.09.2026 · 21:55 Uhr"
-    },
-    {
-      "title": "Filmfestspiele: Goldener Löwe in Venedig für dänische Regisseurin",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/daenische-regisseurin-gewinnt-goldenen-loewen-in-venedig-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/daenische-regisseurin-gewinnt-goldenen-loewen-in-venedig",
-      "published": "Sat, 12 Sep 2026 20:57:14 -0000",
-      "published_display": "12.09.2026 · 20:57 Uhr"
-    },
-    {
-      "title": "Erste Runde: Weißenfelser Basketballer gewinnen souverän im Pokal",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/weissenfelser-basketballer-gewinnen-souveraen-im-pokal-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/weissenfelser-basketballer-gewinnen-souveraen-im-pokal",
-      "published": "Sat, 12 Sep 2026 20:35:24 -0000",
-      "published_display": "12.09.2026 · 20:35 Uhr"
-    },
-    {
-      "title": "Polizei ermittelt: 18-Jähriger wegen Verdachts auf versuchten Mord in U-Haft",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/18-jaehriger-wegen-verdachts-auf-versuchten-mord-in-u-haft-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/18-jaehriger-wegen-verdachts-auf-versuchten-mord-in-u-haft",
-      "published": "Sat, 12 Sep 2026 20:34:11 -0000",
-      "published_display": "12.09.2026 · 20:34 Uhr"
     }
   ]
 }
