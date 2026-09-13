@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-13T06:57:41.670152+00:00",
+  "updated": "2026-09-13T07:16:37.263634+00:00",
   "items": [
+    {
+      "title": "Wettervorhersage: Grauer Sonntag mit Regen - Wann sich die Wolken zurückziehen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/13/grauer-sonntag-mit-regen-wann-sich-die-wolken-zurueckziehen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/13/grauer-sonntag-mit-regen-wann-sich-die-wolken-zurueckziehen",
+      "published": "Sun, 13 Sep 2026 07:09:39 -0000",
+      "published_display": "13.09.2026 · 07:09 Uhr"
+    },
+    {
+      "title": "2. Fußball-Bundesliga: Klose schwärmt, Zoma trifft: Der neue Nürnberger Reifegrad",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/13/klose-schwaermt-zoma-trifft-der-neue-nuernberger-reifegrad-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/13/klose-schwaermt-zoma-trifft-der-neue-nuernberger-reifegrad",
+      "published": "Sun, 13 Sep 2026 07:02:03 -0000",
+      "published_display": "13.09.2026 · 07:02 Uhr"
+    },
+    {
+      "title": "Niedersachsen: Kommunalwahlen in Niedersachsen haben begonnen",
+      "summary": "Die Wahllokale in Niedersachsen haben geöffnet. Bis 18 Uhr können mehr als sechs Millionen Menschen ihre Bürgermeister und Kommunalvertretungen wählen.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/kommunalwahlen-niedersachsen-afd-buergermeister-volkswagen-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/kommunalwahlen-niedersachsen-afd-buergermeister-volkswagen",
+      "published": "Sun, 13 Sep 2026 06:59:12 -0000",
+      "published_display": "13.09.2026 · 06:59 Uhr"
+    },
     {
       "title": "Belit Onay: »Hier passiert, was ihr beschließt«",
       "summary": "Belit Onay ist Hannovers erster grüner Oberbürgermeister – und will nun wiedergewählt werden. Er sagt, dass einige Probleme seiner Stadt von der Bundesregierung kommen.",
@@ -51,14 +75,6 @@
       "published_display": "13.09.2026 · 06:31 Uhr"
     },
     {
-      "title": "Niedersachsen: Kommunalwahlen in Niedersachsen haben begonnen",
-      "summary": "Die Wahllokale in Niedersachsen haben geöffnet. Bis 18:00 Uhr können mehr als sechs Millionen Menschen ihre Bürgermeister und Kommunalvertretungen wählen.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/kommunalwahlen-niedersachsen-afd-buergermeister-volkswagen-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/kommunalwahlen-niedersachsen-afd-buergermeister-volkswagen",
-      "published": "Sun, 13 Sep 2026 06:31:06 -0000",
-      "published_display": "13.09.2026 · 06:31 Uhr"
-    },
-    {
       "title": "Schreckschusswaffe gesichert: Schussgeräusche auf Burgfest – eine Festnahme",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-09/13/schussgeraeusche-auf-burgfest-eine-festnahme-image-group/original__640x360",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/13/superstars-begeistert-rybakina-triumphiert-bei-us-open",
       "published": "Sun, 13 Sep 2026 06:14:04 -0000",
       "published_display": "13.09.2026 · 06:14 Uhr"
-    },
-    {
-      "title": "Dutzende gerettet: Indonesische Fähre in Seenot - fast 130 Menschen vermisst",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/13/indonesische-faehre-mit-rund-240-menschen-an-bord-in-seenot-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/13/indonesische-faehre-mit-rund-240-menschen-an-bord-in-seenot",
-      "published": "Sun, 13 Sep 2026 06:14:01 -0000",
-      "published_display": "13.09.2026 · 06:14 Uhr"
-    },
-    {
-      "title": "Niedersachsen wählt: Kommunalwahlen in Niedersachsen haben begonnen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/13/kommunalwahlen-in-niedersachsen-darum-geht-es-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/13/kommunalwahlen-in-niedersachsen-darum-geht-es",
-      "published": "Sun, 13 Sep 2026 06:06:43 -0000",
-      "published_display": "13.09.2026 · 06:06 Uhr"
     }
   ]
 }
