@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-13T05:42:23.306475+00:00",
+  "updated": "2026-09-13T05:54:38.115823+00:00",
   "items": [
+    {
+      "title": "Ebola-Epidemie im Kongo: Bisher mehr als 7.000 Ebola-Fälle in DR Kongo",
+      "summary": "Mehr als 7.000 Menschen sind in der DR Kongo nachweislich an Ebola erkrankt. Es gibt aber Anzeichen, dass der Ausbruch seinen Höhepunkt überschritten haben könnte.",
+      "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-09/ebola-epidemie-kongo-demokratische-republik-bundibugyo-virus-impfstoff-bild/original__640x360",
+      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-09/ebola-epidemie-kongo-demokratische-republik-bundibugyo-virus-impfstoff",
+      "published": "Sun, 13 Sep 2026 05:47:06 -0000",
+      "published_display": "13.09.2026 · 05:47 Uhr"
+    },
+    {
+      "title": "Auto überschlagen: Unfall trotz Ausweichmanöver - Vier Verletzte",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/13/unfall-trotz-ausweichmanoever-vier-verletzte-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/13/unfall-trotz-ausweichmanoever-vier-verletzte",
+      "published": "Sun, 13 Sep 2026 05:43:36 -0000",
+      "published_display": "13.09.2026 · 05:43 Uhr"
+    },
+    {
+      "title": "Unfall bei Sinsheim: Unfall auf A6 – ein Mensch verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/13/unfall-auf-a6-zwei-menschen-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/13/unfall-auf-a6-zwei-menschen-verletzt",
+      "published": "Sun, 13 Sep 2026 05:42:09 -0000",
+      "published_display": "13.09.2026 · 05:42 Uhr"
+    },
     {
       "title": "Sofa in Brand: Angriff mit Pyrotechnik in Rigaer Straße: Polizist verletzt",
       "summary": "",
@@ -17,14 +41,6 @@
       "link": "https://www.zeit.de/wirtschaft/2026-09/niedrigwasser-rhein-schaden-wirtschaft-ihk-rheinland-pfalz-binnenschifffahrt",
       "published": "Sun, 13 Sep 2026 05:29:08 -0000",
       "published_display": "13.09.2026 · 05:29 Uhr"
-    },
-    {
-      "title": "Ebola-Epidemie im Kongo: Bisher mehr als 7.000 Ebola-Fälle in DR Kongo",
-      "summary": "Mehr als 7.000 Menschen sind in der DR Kongo nachweislich an Ebola erkrankt. Es gibt aber Anzeichen, dass der Ausbruch seinen Höhepunkt überschritten haben könnte.",
-      "image": "https://img.zeit.de/administratives/sharing/fallback-image-die-zeit/wide__1300x731",
-      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-09/ebola-epidemie-kongo-demokratische-republik-bundibugyo-virus-impfstoff",
-      "published": "Sun, 13 Sep 2026 05:06:54 -0000",
-      "published_display": "13.09.2026 · 05:06 Uhr"
     },
     {
       "title": "Kommunalwahlen: Warum Bürgermeister wieder für acht Jahre gewählt werden",
@@ -104,22 +120,6 @@
       "image": "https://img.zeit.de/news/2026-09/13/hessen-will-in-ostafrika-maerkte-erschliessen-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-09/13/hessen-will-in-ostafrika-maerkte-erschliessen",
       "published": "Sun, 13 Sep 2026 04:00:07 -0000",
-      "published_display": "13.09.2026 · 04:00 Uhr"
-    },
-    {
-      "title": "Audio im Wandel : Podcast aus, Radio an?",
-      "summary": "Musikstreaming und Podcastfeeds sind praktisch – aber das Radio hat einen ganz eigenen Zauber. Auch im Leben der Spotlight-Redaktion spielt es eine wichtige Rolle.",
-      "image": "https://img.zeit.de/podcasts/logos/english-please-logo/original__00AEE8__640x360",
-      "link": "https://www.zeit.de/gesellschaft/2026-09/audio-medienwandel-radio-podcast-bbc-englisch-podcast",
-      "published": "Sun, 13 Sep 2026 04:00:06 -0000",
-      "published_display": "13.09.2026 · 04:00 Uhr"
-    },
-    {
-      "title": "Gegen Polarisierung: Brandenburgs Minister Wilke: Begegnung hilft gegen Hass",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/13/brandenburgs-minister-wilke-begegnung-hilft-gegen-hass-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/13/brandenburgs-minister-wilke-begegnung-hilft-gegen-hass",
-      "published": "Sun, 13 Sep 2026 04:00:06 -0000",
       "published_display": "13.09.2026 · 04:00 Uhr"
     }
   ]
