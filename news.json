@@ -1,7 +1,79 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-13T15:28:40.895917+00:00",
+  "updated": "2026-09-13T15:42:09.885349+00:00",
   "items": [
+    {
+      "title": "Panneneinsatz: SEK stürmt falsche Wohnung in Heidenheim",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/13/sek-stuermt-falsche-wohnung-in-heidenheim-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/13/sek-stuermt-falsche-wohnung-in-heidenheim",
+      "published": "Sun, 13 Sep 2026 15:39:58 -0000",
+      "published_display": "13.09.2026 · 15:39 Uhr"
+    },
+    {
+      "title": "Bundesliga, 3. Spieltag – Sonntag: RB Leipzig gewinnt deutlich gegen den HSV",
+      "summary": "RB Leipzig gewinnt souverän gegen den Hamburger SV. Für die Hamburger ist es die dritte Niederlage im dritten Spiel – alle ohne eigenes Tor. Der Spielbericht",
+      "image": "https://img.zeit.de/sport/2026-09/bundesliga-3-spieltag-fussball-ergebnisse-tabelle-foto-1/original__640x360",
+      "link": "https://www.zeit.de/sport/2026-09/bundesliga-3-spieltag-fussball-ergebnisse-tabelle",
+      "published": "Sun, 13 Sep 2026 15:39:05 -0000",
+      "published_display": "13.09.2026 · 15:39 Uhr"
+    },
+    {
+      "title": "Bach-Festival in Köthen: Jetzt mal was anderes",
+      "summary": "Peter Dausend über die kaum »wohltemperierte« politische Lage in Köthen, Sachsen-Anhalt. So hat sich das Johann Sebastian Bach, der dort lebte, wohl nicht vorgestellt.",
+      "image": "https://img.zeit.de/2026/39/jetzt-mal-was-nderes-bild-2/original__640x360",
+      "link": "https://www.zeit.de/2026/39/bach-festival-koethen-wohltemperiertes-klavier-afd-sachsen-anhalt",
+      "published": "Sun, 13 Sep 2026 15:37:50 -0000",
+      "published_display": "13.09.2026 · 15:37 Uhr"
+    },
+    {
+      "title": "»Die Abenteuer des braven Soldaten Schwejk«: Darf man über den Krieg lachen? Hier muss man sogar",
+      "summary": "Regisseur Jan-Christoph Gockel schickt am Schauspiel Frankfurt den braven Soldaten Schwejk an die Fronten der Gegenwart. Es ist der Wahnsinn!",
+      "image": "https://img.zeit.de/feuilleton/kunst/2026-09/die-abenteuer-des-braven-soldaten-schwejk-schauspiel-frankfurt-theater-jan-christoph-gockel-bilda/original__640x360",
+      "link": "https://www.zeit.de/feuilleton/2026-09/die-abenteuer-des-braven-soldaten-schwejk-schauspiel-frankfurt-theater-jan-christoph-gockel",
+      "published": "Sun, 13 Sep 2026 15:37:34 -0000",
+      "published_display": "13.09.2026 · 15:37 Uhr"
+    },
+    {
+      "title": "Laura K. Field: »Immer neue Wellen der Radikalisierung zerreiben die Bewegung«",
+      "summary": "Laura Field hat das wichtigste Buch über den Trumpismus geschrieben. Hier erklärt sie, warum Liberale eigene Fehler eingestehen müssen, wenn sie Maga schlagen wollen.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/laura-k-field-maga-bewegung-usa-republikaner-2/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/laura-k-field-maga-bewegung-usa-republikaner-intellektuelle",
+      "published": "Sun, 13 Sep 2026 15:36:05 -0000",
+      "published_display": "13.09.2026 · 15:36 Uhr"
+    },
+    {
+      "title": "Wahllokale gut besucht: Wahlbeteiligung in Niedersachsen bis nachmittags: 50 Prozent",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/13/kommunalwahlen-in-niedersachsen-darum-geht-es-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/13/kommunalwahlen-in-niedersachsen-darum-geht-es",
+      "published": "Sun, 13 Sep 2026 15:34:38 -0000",
+      "published_display": "13.09.2026 · 15:34 Uhr"
+    },
+    {
+      "title": "Deutscher Wetterdienst: Wetterdienst erwartet heiße Spätsommertage im Südwesten Deutschlands",
+      "summary": "Zum Wochenstart soll es in Deutschland laut Meteorologen noch einmal heiß werden – allerdings nur im Südwesten. Am Oberrhein werden bis zu 30 Grad erwartet.",
+      "image": "https://img.zeit.de/wissenschaft/umwelt/2026-09/wetter-deutschland-vorhersage-hoechsttemperaturen-dwd-foto-1/original__640x360",
+      "link": "https://www.zeit.de/wissenschaft/umwelt/2026-09/wetter-deutschland-vorhersage-hoechsttemperaturen-dwd",
+      "published": "Sun, 13 Sep 2026 15:32:27 -0000",
+      "published_display": "13.09.2026 · 15:32 Uhr"
+    },
+    {
+      "title": "Verfolgungsjagd: Jugendlicher flieht in gestohlenem Auto – Polizei schießt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/13/17-jaehriger-rast-in-gestohlenem-auto-durch-passau-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/13/17-jaehriger-rast-in-gestohlenem-auto-durch-passau",
+      "published": "Sun, 13 Sep 2026 15:31:58 -0000",
+      "published_display": "13.09.2026 · 15:31 Uhr"
+    },
+    {
+      "title": "Landwirtschaftsausstellung: Besucherplus bei Landwirtschaftsmesse Mela",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/13/besucherplus-bei-landwirtschaftsmesse-mela-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/13/besucherplus-bei-landwirtschaftsmesse-mela",
+      "published": "Sun, 13 Sep 2026 15:28:15 -0000",
+      "published_display": "13.09.2026 · 15:28 Uhr"
+    },
     {
       "title": "Kosovo: Kosovos Parlament wählt Albin Kurti erneut zum Ministerpräsidenten",
       "summary": "Albin Kurti ist erneut zum Ministerpräsidenten Kosovos gewählt worden. Die Opposition boykottierte die Abstimmung – wieder drohen Neuwahlen.",
@@ -35,14 +107,6 @@
       "published_display": "13.09.2026 · 15:05 Uhr"
     },
     {
-      "title": "Deutscher Wetterdienst: Wetterdienst erwartet heiße Spätsommertage im Südwesten",
-      "summary": "Zum Wochenstart soll es in Deutschland laut Meteorologen noch einmal heiß werden – allerdings nur im Südwesten. Am Oberrhein werden bis zu 30 Grad erwartet.",
-      "image": "https://img.zeit.de/wissenschaft/umwelt/2026-09/wetter-deutschland-vorhersage-hoechsttemperaturen-dwd-foto-1/original__640x360",
-      "link": "https://www.zeit.de/wissenschaft/umwelt/2026-09/wetter-deutschland-vorhersage-hoechsttemperaturen-dwd",
-      "published": "Sun, 13 Sep 2026 15:01:56 -0000",
-      "published_display": "13.09.2026 · 15:01 Uhr"
-    },
-    {
       "title": "Kontinentalvergleich: Solheim Cup: Golferin Henseleit und Team Europa triumphieren",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-09/13/solheim-cup-golferin-henseleit-und-team-europa-triumphieren-image-group/original__640x360",
@@ -57,70 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/13/brand-in-wohnhaus-zwei-leichtverletzte",
       "published": "Sun, 13 Sep 2026 15:01:48 -0000",
       "published_display": "13.09.2026 · 15:01 Uhr"
-    },
-    {
-      "title": "Fußball-Bundesliga: 0:2 gegen Wolfsburg: Stuttgarterinnen verlieren erstmals",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/13/0-2-gegen-wolfsburg-stuttgarterinnen-verlieren-erstmals-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/13/0-2-gegen-wolfsburg-stuttgarterinnen-verlieren-erstmals",
-      "published": "Sun, 13 Sep 2026 14:59:53 -0000",
-      "published_display": "13.09.2026 · 14:59 Uhr"
-    },
-    {
-      "title": "Kirche: Landesbischöfin geht in vorzeitigen Ruhestand",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/13/landesbischoefin-geht-in-vorzeitigen-ruhestand-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/13/landesbischoefin-geht-in-vorzeitigen-ruhestand",
-      "published": "Sun, 13 Sep 2026 14:59:26 -0000",
-      "published_display": "13.09.2026 · 14:59 Uhr"
-    },
-    {
-      "title": "Tag des offenen Denkmals: Sachsen verleiht zum Tag des offenen Denkmals Auszeichnung",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/13/sachsen-verleiht-zum-tag-des-offenen-denkmals-auszeichnung-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/13/sachsen-verleiht-zum-tag-des-offenen-denkmals-auszeichnung",
-      "published": "Sun, 13 Sep 2026 14:58:45 -0000",
-      "published_display": "13.09.2026 · 14:58 Uhr"
-    },
-    {
-      "title": "Fußball-Bundesliga: Entwarnung bei Stiller: VfB-Taktgeber zieht sich Prellung zu",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/13/entwarnung-bei-stiller-vfb-taktgeber-zieht-sich-prellung-zu-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/13/entwarnung-bei-stiller-vfb-taktgeber-zieht-sich-prellung-zu",
-      "published": "Sun, 13 Sep 2026 14:52:47 -0000",
-      "published_display": "13.09.2026 · 14:52 Uhr"
-    },
-    {
-      "title": "Fußball-Bundesliga: Krüger zu Polzin-Vertrag: «Gehen gemeinsam in die Zukunft»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/13/krueger-zu-polzin-vertrag-gehen-gemeinsam-in-die-zukunft-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/13/krueger-zu-polzin-vertrag-gehen-gemeinsam-in-die-zukunft",
-      "published": "Sun, 13 Sep 2026 14:45:51 -0000",
-      "published_display": "13.09.2026 · 14:45 Uhr"
-    },
-    {
-      "title": "Neue Jagdhoheit: Skarlett I. zur ersten Thüringer Jagdkönigin gekrönt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/13/skarlett-i-zur-ersten-thueringer-jagdkoenigin-gekroent-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/13/skarlett-i-zur-ersten-thueringer-jagdkoenigin-gekroent",
-      "published": "Sun, 13 Sep 2026 14:39:48 -0000",
-      "published_display": "13.09.2026 · 14:39 Uhr"
-    },
-    {
-      "title": "Herbert Kickl und die AfD: Bussi oder baba?",
-      "summary": "Ohne Österreichs Freiheitliche würde es die AfD, so wie sie ist, womöglich nicht geben. Doch plötzlich geht FPÖ-Chef Herbert Kickl auf Distanz. Was ist da los?",
-      "image": "https://img.zeit.de/2026/39/bussi-oder-baba-bild-1/original__640x360",
-      "link": "https://www.zeit.de/2026/39/herbert-kickl-afd-fpoe-distanzierung-alice-weidel-oesterreich",
-      "published": "Sun, 13 Sep 2026 14:34:27 -0000",
-      "published_display": "13.09.2026 · 14:34 Uhr"
-    },
-    {
-      "title": "Protest: Tausende demonstrieren in Dresden und Leipzig gegen AfD",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/13/tausende-demonstrieren-in-dresden-und-leipzig-gegen-afd-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/13/tausende-demonstrieren-in-dresden-und-leipzig-gegen-afd",
-      "published": "Sun, 13 Sep 2026 14:33:27 -0000",
-      "published_display": "13.09.2026 · 14:33 Uhr"
     }
   ]
 }
