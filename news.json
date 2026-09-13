@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-13T17:15:19.495839+00:00",
+  "updated": "2026-09-13T17:27:23.926069+00:00",
   "items": [
+    {
+      "title": "Brände: Bewohner springt aus brennender Wohnung in Luftkissen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/13/bewohner-springt-aus-brennender-wohnung-in-luftkissen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/13/bewohner-springt-aus-brennender-wohnung-in-luftkissen",
+      "published": "Sun, 13 Sep 2026 17:15:08 -0000",
+      "published_display": "13.09.2026 · 17:15 Uhr"
+    },
+    {
+      "title": "Fußball-Bundesliga: «Sieht nicht gut aus»: Leipzigs Ouédraogo droht lange Pause",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/13/sieht-nicht-gut-aus-leipzigs-ou-draogo-droht-lange-pause-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/13/sieht-nicht-gut-aus-leipzigs-ou-draogo-droht-lange-pause",
+      "published": "Sun, 13 Sep 2026 17:14:00 -0000",
+      "published_display": "13.09.2026 · 17:14 Uhr"
+    },
     {
       "title": "Künstliche Intelligenz: Amerikanische KI-Bosse für verlangsamte Entwicklung",
       "summary": "",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/13/polen-alarmiert-nach-angriff-auf-zug-von-kiew-nach-warschau",
       "published": "Sun, 13 Sep 2026 16:23:17 -0000",
       "published_display": "13.09.2026 · 16:23 Uhr"
-    },
-    {
-      "title": "Angriffe auf die Ukraine: Ukraine meldet mehrere russische Angriffe auf Bahnnetz",
-      "summary": "Die Ukraine wirft Russland vor, ihr Eisenbahnnetz systematisch anzugreifen. Bei einem Drohnenangriff nahe der polnischen Grenze ist eine Lokomotive in Brand geraten.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/eisenbahn-ukraine-angriffe-russland-dnipro-polnischer-zug-drohne-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/eisenbahn-ukraine-angriffe-russland-dnipro-polnischer-zug-drohne",
-      "published": "Sun, 13 Sep 2026 16:19:02 -0000",
-      "published_display": "13.09.2026 · 16:19 Uhr"
-    },
-    {
-      "title": "Vor der Landtagswahl in MV: Wagenknecht ruft zu taktischer Wahl in MV auf - Merz stürzen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/13/wagenknecht-ruft-zu-taktischer-wahl-in-mv-auf-merz-stuerzen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/13/wagenknecht-ruft-zu-taktischer-wahl-in-mv-auf-merz-stuerzen",
-      "published": "Sun, 13 Sep 2026 16:14:16 -0000",
-      "published_display": "13.09.2026 · 16:14 Uhr"
     }
   ]
 }
