@@ -1,21 +1,61 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-13T15:42:09.885349+00:00",
+  "updated": "2026-09-13T15:54:10.495824+00:00",
   "items": [
+    {
+      "title": "Bundesliga, 3. Spieltag – Sonntag: RB Leipzig gewinnt deutlich gegen den HSV",
+      "summary": "RB Leipzig gewinnt souverän gegen den Hamburger SV. Für die Hamburger ist es die dritte Niederlage im dritten Spiel – alle ohne eigenes Tor. Der Spielbericht",
+      "image": "https://img.zeit.de/sport/2026-09/bundesliga-3-spieltag-fussball-ergebnisse-tabelle-foto-1/original__640x360",
+      "link": "https://www.zeit.de/sport/2026-09/bundesliga-3-spieltag-fussball-ergebnisse-tabelle",
+      "published": "Sun, 13 Sep 2026 15:49:48 -0000",
+      "published_display": "13.09.2026 · 15:49 Uhr"
+    },
+    {
+      "title": "Kontinentalvergleich: Solheim Cup: Golferin Henseleit und Team Europa triumphieren",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/13/solheim-cup-golferin-henseleit-und-team-europa-triumphieren-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/13/solheim-cup-golferin-henseleit-und-team-europa-triumphieren",
+      "published": "Sun, 13 Sep 2026 15:49:01 -0000",
+      "published_display": "13.09.2026 · 15:49 Uhr"
+    },
+    {
+      "title": "Verfolgungsjagd: Jugendlicher flieht in gestohlenem Auto – Polizei schießt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/13/jugendlicher-liefert-sich-verfolgungsjagd-polizei-schiesst-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/13/jugendlicher-liefert-sich-verfolgungsjagd-polizei-schiesst",
+      "published": "Sun, 13 Sep 2026 15:45:42 -0000",
+      "published_display": "13.09.2026 · 15:45 Uhr"
+    },
+    {
+      "title": "Kosovo: Kosovos Parlament wählt Albin Kurti erneut zum Ministerpräsidenten",
+      "summary": "Albin Kurti ist erneut zum Ministerpräsidenten Kosovos gewählt worden. Die Opposition boykottierte die Abstimmung – wieder drohen Neuwahlen.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/kosovo-regierung-albin-kurti-selbstbestimmungs-partei-parlament-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/kosovo-regierung-albin-kurti-selbstbestimmungs-partei-parlament",
+      "published": "Sun, 13 Sep 2026 15:44:46 -0000",
+      "published_display": "13.09.2026 · 15:44 Uhr"
+    },
+    {
+      "title": "Kanzler und Koalition: AfD-Sieg, Streit und miese Umfragen: Merz unter Druck",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/13/afd-sieg-streit-und-miese-umfragen-merz-unter-druck-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/13/afd-sieg-streit-und-miese-umfragen-merz-unter-druck",
+      "published": "Sun, 13 Sep 2026 15:44:27 -0000",
+      "published_display": "13.09.2026 · 15:44 Uhr"
+    },
+    {
+      "title": "Treibstoffversorgung: Trump an Selenskyj: Keine Angriffe auf russische Raffinerien",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/13/zwei-tote-in-russland-nach-ukrainischen-angriffen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/13/zwei-tote-in-russland-nach-ukrainischen-angriffen",
+      "published": "Sun, 13 Sep 2026 15:41:05 -0000",
+      "published_display": "13.09.2026 · 15:41 Uhr"
+    },
     {
       "title": "Panneneinsatz: SEK stürmt falsche Wohnung in Heidenheim",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-09/13/sek-stuermt-falsche-wohnung-in-heidenheim-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-09/13/sek-stuermt-falsche-wohnung-in-heidenheim",
       "published": "Sun, 13 Sep 2026 15:39:58 -0000",
-      "published_display": "13.09.2026 · 15:39 Uhr"
-    },
-    {
-      "title": "Bundesliga, 3. Spieltag – Sonntag: RB Leipzig gewinnt deutlich gegen den HSV",
-      "summary": "RB Leipzig gewinnt souverän gegen den Hamburger SV. Für die Hamburger ist es die dritte Niederlage im dritten Spiel – alle ohne eigenes Tor. Der Spielbericht",
-      "image": "https://img.zeit.de/sport/2026-09/bundesliga-3-spieltag-fussball-ergebnisse-tabelle-foto-1/original__640x360",
-      "link": "https://www.zeit.de/sport/2026-09/bundesliga-3-spieltag-fussball-ergebnisse-tabelle",
-      "published": "Sun, 13 Sep 2026 15:39:05 -0000",
       "published_display": "13.09.2026 · 15:39 Uhr"
     },
     {
@@ -75,52 +115,12 @@
       "published_display": "13.09.2026 · 15:28 Uhr"
     },
     {
-      "title": "Kosovo: Kosovos Parlament wählt Albin Kurti erneut zum Ministerpräsidenten",
-      "summary": "Albin Kurti ist erneut zum Ministerpräsidenten Kosovos gewählt worden. Die Opposition boykottierte die Abstimmung – wieder drohen Neuwahlen.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/kosovo-regierung-albin-kurti-selbstbestimmungs-partei-parlament-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/kosovo-regierung-albin-kurti-selbstbestimmungs-partei-parlament",
-      "published": "Sun, 13 Sep 2026 15:27:39 -0000",
-      "published_display": "13.09.2026 · 15:27 Uhr"
-    },
-    {
       "title": "Fußball-Bundesliga: Demichelis-Erleichterung: Leipzig blamiert den Torlos-HSV",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-09/13/demichelis-erleichterung-leipzig-blamiert-den-torlos-hsv-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-09/13/demichelis-erleichterung-leipzig-blamiert-den-torlos-hsv",
       "published": "Sun, 13 Sep 2026 15:23:03 -0000",
       "published_display": "13.09.2026 · 15:23 Uhr"
-    },
-    {
-      "title": "Formel 1 in Madrid: Mit der Nelke vom Papa: Antonelli-Triumph auf dem Madring",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/13/antonellis-triumphfahrt-bei-madring-premiere-richtung-titel-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/13/antonellis-triumphfahrt-bei-madring-premiere-richtung-titel",
-      "published": "Sun, 13 Sep 2026 15:14:38 -0000",
-      "published_display": "13.09.2026 · 15:14 Uhr"
-    },
-    {
-      "title": "Feuer in Einfamilienhaus: Größerer Einsatz wegen Hausbrands in Weimar",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/13/groesserer-einsatz-wegen-hausbrands-in-weimar-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/13/groesserer-einsatz-wegen-hausbrands-in-weimar",
-      "published": "Sun, 13 Sep 2026 15:05:39 -0000",
-      "published_display": "13.09.2026 · 15:05 Uhr"
-    },
-    {
-      "title": "Kontinentalvergleich: Solheim Cup: Golferin Henseleit und Team Europa triumphieren",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/13/solheim-cup-golferin-henseleit-und-team-europa-triumphieren-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/13/solheim-cup-golferin-henseleit-und-team-europa-triumphieren",
-      "published": "Sun, 13 Sep 2026 15:01:54 -0000",
-      "published_display": "13.09.2026 · 15:01 Uhr"
-    },
-    {
-      "title": "Brände: Brand in Wohnhaus: Zwei Leichtverletzte",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/13/brand-in-wohnhaus-zwei-leichtverletzte-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/13/brand-in-wohnhaus-zwei-leichtverletzte",
-      "published": "Sun, 13 Sep 2026 15:01:48 -0000",
-      "published_display": "13.09.2026 · 15:01 Uhr"
     }
   ]
 }
