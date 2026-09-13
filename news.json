@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-13T02:17:35.443471+00:00",
+  "updated": "2026-09-13T02:29:42.388932+00:00",
   "items": [
+    {
+      "title": "Flüchtlingsstatistik: Weniger Asylanträge - Höhere Schutzquote",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/13/weniger-asylantraege-hoehere-schutzquote-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/13/weniger-asylantraege-hoehere-schutzquote",
+      "published": "Sun, 13 Sep 2026 02:20:05 -0000",
+      "published_display": "13.09.2026 · 02:20 Uhr"
+    },
     {
       "title": "Wetter: Nasser Sonntag vor dem Schulstart - dann kommt Sonne zurück",
       "summary": "",
@@ -112,14 +120,6 @@
       "image": "https://img.zeit.de/news/2026-09/13/gemeinsam-besser-neue-ausbildungstation-der-unimedizin-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-09/13/gemeinsam-besser-neue-ausbildungstation-der-unimedizin",
       "published": "Sun, 13 Sep 2026 02:00:37 -0000",
-      "published_display": "13.09.2026 · 02:00 Uhr"
-    },
-    {
-      "title": "Autoindustrie: VW meldet mehr als 30.000 Bestellungen für E-Polo",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/13/vw-meldet-mehr-als-30-000-bestellungen-fuer-e-polo-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/13/vw-meldet-mehr-als-30-000-bestellungen-fuer-e-polo",
-      "published": "Sun, 13 Sep 2026 02:00:35 -0000",
       "published_display": "13.09.2026 · 02:00 Uhr"
     }
   ]
