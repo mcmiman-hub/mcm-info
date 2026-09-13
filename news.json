@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-13T05:15:56.683422+00:00",
+  "updated": "2026-09-13T05:27:49.612691+00:00",
   "items": [
+    {
+      "title": "Dürre: IHK warnt vor »immensem« Wirtschaftsschaden durch Niedrigwasser",
+      "summary": "So niedrig war der Wasserstand im Rhein seit 2018 nicht mehr. Damals verursachte das Niedrigwasser Kosten von 2,4 Milliarden Euro. Diesmal könnte es ähnlich sein.",
+      "image": "https://img.zeit.de/wirtschaft/2026-09/niedrigwasser-rhein-pegel-kaub-binnenschifffahrt-wirtschaft-foto-1/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/2026-09/niedrigwasser-rhein-schaden-wirtschaft-ihk-rheinland-pfalz-binnenschifffahrt",
+      "published": "Sun, 13 Sep 2026 05:20:47 -0000",
+      "published_display": "13.09.2026 · 05:20 Uhr"
+    },
     {
       "title": "Ebola-Epidemie im Kongo: Bisher mehr als 7.000 Ebola-Fälle in DR Kongo",
       "summary": "Mehr als 7.000 Menschen sind in der DR Kongo nachweislich an Ebola erkrankt. Es gibt aber Anzeichen, dass der Ausbruch seinen Höhepunkt überschritten haben könnte.",
@@ -112,14 +120,6 @@
       "image": "https://img.zeit.de/news/2026-09/13/tag-der-offenen-tuer-bei-berliner-polizei-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-09/13/tag-der-offenen-tuer-bei-berliner-polizei",
       "published": "Sun, 13 Sep 2026 04:00:05 -0000",
-      "published_display": "13.09.2026 · 04:00 Uhr"
-    },
-    {
-      "title": "Kommunalwahlen: Warum der Wahlabend in Niedersachsen lang wird",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/13/warum-der-wahlabend-in-niedersachsen-lang-wird-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/13/warum-der-wahlabend-in-niedersachsen-lang-wird",
-      "published": "Sun, 13 Sep 2026 04:00:04 -0000",
       "published_display": "13.09.2026 · 04:00 Uhr"
     }
   ]
