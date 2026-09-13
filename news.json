@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-13T22:30:11.557520+00:00",
+  "updated": "2026-09-13T22:42:54.682555+00:00",
   "items": [
+    {
+      "title": "Kommunalwahl in Niedersachsen: Lies nennt SPD-Abschneiden «schwieriges Ergebnis»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/lies-nennt-spd-abschneiden-schwieriges-ergebnis-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/lies-nennt-spd-abschneiden-schwieriges-ergebnis",
+      "published": "Sun, 13 Sep 2026 22:33:50 -0000",
+      "published_display": "13.09.2026 · 22:33 Uhr"
+    },
     {
       "title": "Kommunalwahl: Stärkste Kraft im Rat - Salzgitter wird AfD-Hochburg",
       "summary": "",
@@ -76,7 +84,7 @@
     },
     {
       "title": "Basketball-WM: US-Basketballerinnen setzen sich im Finale gegen Frankreich durch",
-      "summary": "Die Basketballerinnen aus den USA haben sich ihren 12. Mal Weltmeistertitel gesichert. Im Finale gegen Frankreich holte das Team seinen anfänglichen Rückstand auf.",
+      "summary": "Die Basketballerinnen aus den USA haben sich ihren 12. Weltmeistertitel gesichert. Im Finale gegen Frankreich holte das Team seinen anfänglichen Rückstand auf.",
       "image": "https://img.zeit.de/sport/2026-09/basketball-weltmeisterschaft-frauen-usa-frankreich-breanna-stewart-foto-1/original__640x360",
       "link": "https://www.zeit.de/sport/2026-09/basketball-weltmeisterschaft-frauen-usa-frankreich-breanna-stewart",
       "published": "Sun, 13 Sep 2026 21:30:58 -0000",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/13/pokalheld-sievers-verpasst-stichwahl-um-buergermeisteramt",
       "published": "Sun, 13 Sep 2026 21:07:55 -0000",
       "published_display": "13.09.2026 · 21:07 Uhr"
-    },
-    {
-      "title": "Kommunalwahl: Amtsinhaber in Braunschweig muss in die Stichwahl",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/13/amtsinhaber-in-braunschweig-muss-in-die-stichwahl-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/13/amtsinhaber-in-braunschweig-muss-in-die-stichwahl",
-      "published": "Sun, 13 Sep 2026 21:04:05 -0000",
-      "published_display": "13.09.2026 · 21:04 Uhr"
     }
   ]
 }
