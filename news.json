@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-13T15:16:22.120365+00:00",
+  "updated": "2026-09-13T15:28:40.895917+00:00",
   "items": [
+    {
+      "title": "Kosovo: Kosovos Parlament wählt Albin Kurti erneut zum Ministerpräsidenten",
+      "summary": "Albin Kurti ist erneut zum Ministerpräsidenten Kosovos gewählt worden. Die Opposition boykottierte die Abstimmung – wieder drohen Neuwahlen.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/kosovo-regierung-albin-kurti-selbstbestimmungs-partei-parlament-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/kosovo-regierung-albin-kurti-selbstbestimmungs-partei-parlament",
+      "published": "Sun, 13 Sep 2026 15:27:39 -0000",
+      "published_display": "13.09.2026 · 15:27 Uhr"
+    },
+    {
+      "title": "Fußball-Bundesliga: Demichelis-Erleichterung: Leipzig blamiert den Torlos-HSV",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/13/demichelis-erleichterung-leipzig-blamiert-den-torlos-hsv-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/13/demichelis-erleichterung-leipzig-blamiert-den-torlos-hsv",
+      "published": "Sun, 13 Sep 2026 15:23:03 -0000",
+      "published_display": "13.09.2026 · 15:23 Uhr"
+    },
     {
       "title": "Formel 1 in Madrid: Mit der Nelke vom Papa: Antonelli-Triumph auf dem Madring",
       "summary": "",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/13/tausende-demonstrieren-in-dresden-und-leipzig-gegen-afd",
       "published": "Sun, 13 Sep 2026 14:33:27 -0000",
       "published_display": "13.09.2026 · 14:33 Uhr"
-    },
-    {
-      "title": "Kulturboykott gegen Israel: Es geht tatsächlich um Herkunft",
-      "summary": "Agenten verkaufen weniger Manuskripte israelischer Autoren, jüdische Schriftsteller finden schwerer Verlage: Der Boykott gegen Israel kippt in den Antisemitismus.",
-      "image": "https://img.zeit.de/2026/38/es-geht-tatsaechlich-um-herkunft-bild-1/original__640x360",
-      "link": "https://www.zeit.de/2026/38/kulturboykott-israel-usa-literatur-pen-america-antisemitismus",
-      "published": "Sun, 13 Sep 2026 14:27:52 -0000",
-      "published_display": "13.09.2026 · 14:27 Uhr"
-    },
-    {
-      "title": "Panneneinsatz: SEK stürmt falsche Wohnung in Heidenheim",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/13/sek-stuermt-falsche-wohnung-in-heidenheim-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/13/sek-stuermt-falsche-wohnung-in-heidenheim",
-      "published": "Sun, 13 Sep 2026 14:27:29 -0000",
-      "published_display": "13.09.2026 · 14:27 Uhr"
     }
   ]
 }
