@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-13T23:41:29.616198+00:00",
+  "updated": "2026-09-13T23:54:04.620317+00:00",
   "items": [
+    {
+      "title": "Dokumentation »Naza«: Israelischer Minister will Filmemachern Staatsbürgerschaft entziehen",
+      "summary": "Die Gazadokumentation »Naza« wurde beim Filmfestival von Venedig ausgezeichnet. Der israelische Kulturminister Zohar wirft den Regisseuren »Verrat am Staat« Israel vor.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/israel-minister-miki-zohar-filmemacher-staatsbuergerschaft-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/israel-minister-miki-zohar-filmemacher-staatsbuergerschaft",
+      "published": "Sun, 13 Sep 2026 23:50:08 -0000",
+      "published_display": "13.09.2026 · 23:50 Uhr"
+    },
+    {
+      "title": "Bildungsministerin: Karin Prien fordert Bundeskanzler zu mehr Empathie auf",
+      "summary": "Friedrich Merz und die CDU zeigten nicht genug Mitgefühl für die Sorgen der Menschen, findet Bildungsministerin Karin Prien. Einen neuen Kanzler fordert sie aber nicht.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/cdu-stimmung-kanzler-friedrich-merz-karin-prien-sachsen-anhalt-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/cdu-stimmung-kanzler-friedrich-merz-karin-prien-sachsen-anhalt",
+      "published": "Sun, 13 Sep 2026 23:41:54 -0000",
+      "published_display": "13.09.2026 · 23:41 Uhr"
+    },
     {
       "title": "Kommunalwahl in Niedersachsen: CDU bei Kommunalwahl in Niedersachsen laut Hochrechnung vorn",
       "summary": "Bei der Wahl in Niedersachsen hat sich die CDU zwar verschlechtert, bleibt aber stärkste Kraft vor der SPD. Nur die AfD und die Linke haben ihre Ergebnisse verbessert.",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/13/tennisprofi-zverev-holt-us-open-titel",
       "published": "Sun, 13 Sep 2026 21:52:47 -0000",
       "published_display": "13.09.2026 · 21:52 Uhr"
-    },
-    {
-      "title": "Iran-Krieg: Omans Außenminister: Treffen zu Straße von Hormus verschoben",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/13/omans-aussenminister-treffen-zu-strasse-von-hormus-verschoben-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/13/omans-aussenminister-treffen-zu-strasse-von-hormus-verschoben",
-      "published": "Sun, 13 Sep 2026 21:37:58 -0000",
-      "published_display": "13.09.2026 · 21:37 Uhr"
-    },
-    {
-      "title": "Basketball-WM: US-Basketballerinnen setzen sich im Finale gegen Frankreich durch",
-      "summary": "Die Basketballerinnen aus den USA haben sich ihren 12. Weltmeistertitel gesichert. Im Finale gegen Frankreich holte das Team seinen anfänglichen Rückstand auf.",
-      "image": "https://img.zeit.de/sport/2026-09/basketball-weltmeisterschaft-frauen-usa-frankreich-breanna-stewart-foto-1/original__640x360",
-      "link": "https://www.zeit.de/sport/2026-09/basketball-weltmeisterschaft-frauen-usa-frankreich-breanna-stewart",
-      "published": "Sun, 13 Sep 2026 21:30:58 -0000",
-      "published_display": "13.09.2026 · 21:30 Uhr"
     }
   ]
 }
