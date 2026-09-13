@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-13T22:42:54.682555+00:00",
+  "updated": "2026-09-13T22:54:51.015612+00:00",
   "items": [
+    {
+      "title": "Umgang mit der AfD : SPD, Grüne und Linke offen für Bundeszwang in Sachsen-Anhalt",
+      "summary": "Bei einer AfD-Landesegierung befürworten auch SPD, Grüne und Linke das im Grundgesetz vorgesehene Kontrollinstrument. Die CDU hatte den Bundeszwang zuvor erwogen.",
+      "image": "https://img.zeit.de/politik/2026-09/bundeszwang-afd-sachsen-anhalt/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/bundeszwang-grundgesetz-afd-bsw-sachsen-anhalt",
+      "published": "Sun, 13 Sep 2026 22:46:21 -0000",
+      "published_display": "13.09.2026 · 22:46 Uhr"
+    },
     {
       "title": "Kommunalwahl in Niedersachsen: Lies nennt SPD-Abschneiden «schwieriges Ergebnis»",
       "summary": "",
@@ -20,7 +28,7 @@
     },
     {
       "title": "Operationsplan Deutschland: Chef des Reservistenverbandes will Krisenplan vor AfD sichern",
-      "summary": "Bastian Ernst will verhindern, dass eine AfD-Regierung in Sachsen-Anhalt Zugriff auf den OPLAN erhält. Das geheime Dokument enthält Anweisungen für den Kriegsfall.",
+      "summary": "Bastian Ernst will verhindern, dass eine AfD-Regierung in Sachsen-Anhalt Zugriff auf den Oplan erhält. Das geheime Dokument enthält Anweisungen für den Kriegsfall.",
       "image": "https://img.zeit.de/politik/deutschland/2026-09/operationsplan-deutschland-oplan-sachsen-anhalt-afd-russland-bild/original__640x360",
       "link": "https://www.zeit.de/politik/deutschland/2026-09/operationsplan-deutschland-oplan-sachsen-anhalt-afd-russland",
       "published": "Sun, 13 Sep 2026 22:24:15 -0000",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/13/spd-verliert-goettinger-rathaus",
       "published": "Sun, 13 Sep 2026 21:10:13 -0000",
       "published_display": "13.09.2026 · 21:10 Uhr"
-    },
-    {
-      "title": "Ex-Torwart von Hannover 96: Pokalheld Sievers verpasst Stichwahl um Bürgermeisteramt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/13/pokalheld-sievers-verpasst-stichwahl-um-buergermeisteramt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/13/pokalheld-sievers-verpasst-stichwahl-um-buergermeisteramt",
-      "published": "Sun, 13 Sep 2026 21:07:55 -0000",
-      "published_display": "13.09.2026 · 21:07 Uhr"
     }
   ]
 }
