@@ -1,7 +1,47 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-13T01:28:52.473553+00:00",
+  "updated": "2026-09-13T01:43:23.093647+00:00",
   "items": [
+    {
+      "title": "Kommunalwahlen: In Niedersachsens Kommunen wird gewählt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/13/in-niedersachsens-kommunen-wird-gewaehlt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/13/in-niedersachsens-kommunen-wird-gewaehlt",
+      "published": "Sun, 13 Sep 2026 01:30:12 -0000",
+      "published_display": "13.09.2026 · 01:30 Uhr"
+    },
+    {
+      "title": "Eine Ära geht zu Ende: Abschied als Bischof - Letztmals predigt Wiesemann im Dom",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/13/abschied-als-bischof-letztmals-predigt-wiesemann-im-dom-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/13/abschied-als-bischof-letztmals-predigt-wiesemann-im-dom",
+      "published": "Sun, 13 Sep 2026 01:30:11 -0000",
+      "published_display": "13.09.2026 · 01:30 Uhr"
+    },
+    {
+      "title": "Luther- und Nibelungenstadt: Worms stimmt über neue Rathaus-Spitze ab – Amtsinhaber geht",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/13/worms-stimmt-ueber-neue-rathaus-spitze-ab-amtsinhaber-geht-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/13/worms-stimmt-ueber-neue-rathaus-spitze-ab-amtsinhaber-geht",
+      "published": "Sun, 13 Sep 2026 01:30:07 -0000",
+      "published_display": "13.09.2026 · 01:30 Uhr"
+    },
+    {
+      "title": "Fußball-Bundesliga: Ungewöhnliches Topspiel: Bayern gastiert in Elversberg",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/13/ungewoehnliches-topspiel-bayern-gastiert-in-elversberg-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/13/ungewoehnliches-topspiel-bayern-gastiert-in-elversberg",
+      "published": "Sun, 13 Sep 2026 01:30:05 -0000",
+      "published_display": "13.09.2026 · 01:30 Uhr"
+    },
+    {
+      "title": "Fußball-Bundesliga: Leipzig gegen den Hamburger SV unter Druck",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/13/leipzig-gegen-den-hamburger-sv-unter-druck-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/13/leipzig-gegen-den-hamburger-sv-unter-druck",
+      "published": "Sun, 13 Sep 2026 01:30:04 -0000",
+      "published_display": "13.09.2026 · 01:30 Uhr"
+    },
     {
       "title": "Immobiliengeschäft: Berichte: Trumps Elternhaus in New York verkauft",
       "summary": "",
@@ -81,46 +121,6 @@
       "link": "https://www.zeit.de/digital/2026-09/kuenstliche-intelligenz-anthropic-ceo-warnung-risiken-waffenentwicklung",
       "published": "Sat, 12 Sep 2026 23:26:25 -0000",
       "published_display": "12.09.2026 · 23:26 Uhr"
-    },
-    {
-      "title": "Tennis: Showgrößen begeistert: Rybakina triumphiert bei US Open",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/13/superstars-begeistert-rybakina-triumphiert-bei-us-open-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/13/superstars-begeistert-rybakina-triumphiert-bei-us-open",
-      "published": "Sat, 12 Sep 2026 23:15:38 -0000",
-      "published_display": "12.09.2026 · 23:15 Uhr"
-    },
-    {
-      "title": "Unfall: 17 Verletzte bei Busunfall in Berlin",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/13/17-verletzte-bei-busunfall-in-berlin-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/13/17-verletzte-bei-busunfall-in-berlin",
-      "published": "Sat, 12 Sep 2026 23:11:09 -0000",
-      "published_display": "12.09.2026 · 23:11 Uhr"
-    },
-    {
-      "title": "Brand in Hamburg: Leerstehendes Hotel in Brand – sieben Verletzte",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/13/leerstehendes-hotel-in-brand-sieben-verletzte-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/13/leerstehendes-hotel-in-brand-sieben-verletzte",
-      "published": "Sat, 12 Sep 2026 23:02:28 -0000",
-      "published_display": "12.09.2026 · 23:02 Uhr"
-    },
-    {
-      "title": "Verfolgungsjagd: 17-Jähriger rast in gestohlenem Auto durch Passau",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/13/17-jaehriger-rast-in-gestohlenem-auto-durch-passau-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/13/17-jaehriger-rast-in-gestohlenem-auto-durch-passau",
-      "published": "Sat, 12 Sep 2026 22:35:18 -0000",
-      "published_display": "12.09.2026 · 22:35 Uhr"
-    },
-    {
-      "title": "Landtagswahl: Hoppermann nennt Schwesigs Wahlkampf «verantwortungslos»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/13/hoppermann-nennt-schwesigs-wahlkampf-verantwortungslos-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/13/hoppermann-nennt-schwesigs-wahlkampf-verantwortungslos",
-      "published": "Sat, 12 Sep 2026 22:30:04 -0000",
-      "published_display": "12.09.2026 · 22:30 Uhr"
     }
   ]
 }
