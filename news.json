@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-13T21:16:21.501508+00:00",
+  "updated": "2026-09-13T21:28:01.092510+00:00",
   "items": [
+    {
+      "title": "Wahlen in Niedersachsen: Landeschef Schledde: «AfD seit heute Kommunalpartei»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/13/landeschef-schledde-afd-seit-heute-kommunalpartei-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/13/landeschef-schledde-afd-seit-heute-kommunalpartei",
+      "published": "Sun, 13 Sep 2026 21:20:10 -0000",
+      "published_display": "13.09.2026 · 21:20 Uhr"
+    },
     {
       "title": "Grüne und CDU in Stichwahl: SPD verliert Göttinger Rathaus",
       "summary": "",
@@ -112,14 +120,6 @@
       "image": "https://img.zeit.de/politik/deutschland/2026-09/kommunalwahl-niedersachsen-oberbuergermeister-wolfsburg-hannover-cdu-foto-1/original__640x360",
       "link": "https://www.zeit.de/politik/deutschland/2026-09/kommunalwahl-niedersachsen-oberbuergermeister-wolfsburg-hannover-cdu",
       "published": "Sun, 13 Sep 2026 19:40:52 -0000",
-      "published_display": "13.09.2026 · 19:40 Uhr"
-    },
-    {
-      "title": "Oberbürgermeister-Wahl: AfD-Kandidatin in Stichwahl in Salzgitter",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/13/afd-kandidatin-in-stichwahl-in-salzgitter-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/13/afd-kandidatin-in-stichwahl-in-salzgitter",
-      "published": "Sun, 13 Sep 2026 19:40:38 -0000",
       "published_display": "13.09.2026 · 19:40 Uhr"
     }
   ]
