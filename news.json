@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-13T00:25:26.238358+00:00",
+  "updated": "2026-09-13T00:48:00.207274+00:00",
   "items": [
+    {
+      "title": "Tennis: Jelena Rybakina gewinnt Finale der US Open",
+      "summary": "Im Duell der weltbesten Tennisspielerinnen hat die Kasachin Jelena Rybakina die Belarussin Aryna Sabalenka besiegt. Die 27-Jährige führt nun die Weltrangliste an.",
+      "image": "https://img.zeit.de/sport/2026-09/jelena-rybakina-us-open-sieg-finale-bild/original__640x360",
+      "link": "https://www.zeit.de/sport/2026-09/jelena-rybakina-sieg-us-open-weltrangliste-erste-aryna-sabalenka",
+      "published": "Sun, 13 Sep 2026 00:37:29 -0000",
+      "published_display": "13.09.2026 · 00:37 Uhr"
+    },
+    {
+      "title": "Historische Stätten: Bundesweit mehr als 6.000 Denkmäler öffnen ihre Türen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/13/bundesweit-mehr-als-6-000-denkmaeler-oeffnen-ihre-tueren-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/13/bundesweit-mehr-als-6-000-denkmaeler-oeffnen-ihre-tueren",
+      "published": "Sun, 13 Sep 2026 00:30:04 -0000",
+      "published_display": "13.09.2026 · 00:30 Uhr"
+    },
     {
       "title": "Meta: Aufsichtsgremium warnt vor Einführung von \"Community Notes” bei Meta",
       "summary": "Der Digitalkonzern Meta testet einen Community-basierten Faktencheck. Ein unabhängiges Aufsichtsratsgremium warnt im Falle einer Einführung vor »realen Schäden«.",
@@ -43,20 +59,12 @@
       "published_display": "12.09.2026 · 23:30 Uhr"
     },
     {
-      "title": "Künstliche Intelligenz: Führende Tech-Unternehmer fordern langsamere Entwicklung von KI",
+      "title": "Künstliche Intelligenz: Führende Techunternehmer fordern langsamere Entwicklung von KI",
       "summary": "Die Chefs der KI-Konzerne Anthropic, OpenAI und SpaceX fordern weniger Tempo bei der Entwicklung von KI. Schon bald könnte die KI sonst das gesamte Internet übernehmen.",
       "image": "https://img.zeit.de/wirtschaft/unternehmen/2026-09/ai-ko-pfe-3-bild/original__640x360",
       "link": "https://www.zeit.de/digital/2026-09/kuenstliche-intelligenz-anthropic-ceo-warnung-risiken-waffenentwicklung",
       "published": "Sat, 12 Sep 2026 23:26:25 -0000",
       "published_display": "12.09.2026 · 23:26 Uhr"
-    },
-    {
-      "title": "Tennisturnier US Open: Jelena Rybakina gewinnt Finale der US-Open",
-      "summary": "Im Duell der weltbesten Tennisspielerinnen hat die Kasachin Jelena Rybakina die Belarussin Aryna Sabalenka besiegt. Die 27-Jährige führt nun die Weltrangliste an.",
-      "image": "https://img.zeit.de/sport/2026-09/jelena-rybakina-sieg-us-open-weltrangliste-erste-aryna-sabalenka-bild/original__640x360",
-      "link": "https://www.zeit.de/sport/2026-09/jelena-rybakina-sieg-us-open-weltrangliste-erste-aryna-sabalenka",
-      "published": "Sat, 12 Sep 2026 23:23:54 -0000",
-      "published_display": "12.09.2026 · 23:23 Uhr"
     },
     {
       "title": "Tennis: Showgrößen begeistert: Rybakina triumphiert bei US Open",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/13/soeder-kanzlersturz-von-der-csu-auf-keinen-fall",
       "published": "Sat, 12 Sep 2026 22:01:04 -0000",
       "published_display": "12.09.2026 · 22:01 Uhr"
-    },
-    {
-      "title": "Kalenderblatt: Was geschah am 13. September?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/12/was-geschah-am-13-september-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/12/was-geschah-am-13-september",
-      "published": "Sat, 12 Sep 2026 21:55:04 -0000",
-      "published_display": "12.09.2026 · 21:55 Uhr"
     }
   ]
 }
