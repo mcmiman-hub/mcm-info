@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-13T20:17:11.412225+00:00",
+  "updated": "2026-09-13T20:29:09.284657+00:00",
   "items": [
+    {
+      "title": "Kommunalwahl in Niedersachsen: Niedersachsen hat gewählt - Hochrechnung sieht CDU vorn",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/13/hochrechnung-cdu-vor-spd-bei-kommunalwahl-in-niedersachsen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/13/hochrechnung-cdu-vor-spd-bei-kommunalwahl-in-niedersachsen",
+      "published": "Sun, 13 Sep 2026 20:26:15 -0000",
+      "published_display": "13.09.2026 · 20:26 Uhr"
+    },
     {
       "title": "Kommunalwahlen: Niedersachsens CDU-Chef fordert «Änderung in Berlin»",
       "summary": "",
@@ -59,8 +67,8 @@
       "published_display": "13.09.2026 · 19:43 Uhr"
     },
     {
-      "title": "Kommunalwahl in Niedersachsen: CDU-Oberbürgermeister in Wolfsburg wiedergewählt",
-      "summary": "In Niedersachsen haben mehr Menschen bei der Kommunalwahl abgestimmt als vor fünf Jahren. Wolfsburg bleibt nach ersten Auszählungen CDU-regiert.",
+      "title": "Kommunalwahl in Niedersachsen: CDU laut erster Hochrechnung bei Kommunalwahl in Niedersachsen vorn",
+      "summary": "In Niedersachsen ist die CDU bei der Kommunalwahl nach ersten Hochrechnungen stärkste Kraft geworden. Wolfsburg bleibt nach ersten Auszählungen CDU-regiert.",
       "image": "https://img.zeit.de/politik/deutschland/2026-09/kommunalwahl-niedersachsen-oberbuergermeister-wolfsburg-hannover-cdu-foto-1/original__640x360",
       "link": "https://www.zeit.de/politik/deutschland/2026-09/kommunalwahl-niedersachsen-oberbuergermeister-wolfsburg-hannover-cdu",
       "published": "Sun, 13 Sep 2026 19:40:52 -0000",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/13/wahllokale-schliessen-hoehere-wahlbeteiligung-absehbar",
       "published": "Sun, 13 Sep 2026 19:02:40 -0000",
       "published_display": "13.09.2026 · 19:02 Uhr"
-    },
-    {
-      "title": "Parlamentswahl in Schweden: Sozialdemokraten liegen laut Wahlbefragungen vor Konservativen",
-      "summary": "Prognosen zufolge haben die meisten Menschen in Schweden für die linke Opposition gestimmt. Die konservative Regierungspartei kommt auf rund zehn Prozent weniger Stimmen.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/schweden-wahl-brandmauer-magdalena-andersson-bild-10/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/parlamentswahl-schweden-2026-magdalena-andersson-ulf-kristersson-schwedendemokraten",
-      "published": "Sun, 13 Sep 2026 19:01:34 -0000",
-      "published_display": "13.09.2026 · 19:01 Uhr"
     }
   ]
 }
