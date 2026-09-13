@@ -1,7 +1,39 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-13T01:43:23.093647+00:00",
+  "updated": "2026-09-13T01:55:23.177702+00:00",
   "items": [
+    {
+      "title": "Huthi-Miliz: Kämpfe im Jemen treiben rund 76.000 Menschen in die Flucht",
+      "summary": "Die Lage verschlimmere sich von Tag zu Tag, sagt eine UN-Organisation. Huthi-Rebellen haben nach eigenen Angaben einen Armeestützpunkt in Saudi-Arabien angegriffen.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/jemen-huthi-bab-al-mandab-rotes-meer-vertreibung-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/jemen-huthi-kaempfe-vertriebene-flucht-un",
+      "published": "Sun, 13 Sep 2026 01:53:46 -0000",
+      "published_display": "13.09.2026 · 01:53 Uhr"
+    },
+    {
+      "title": "Fotografie: Bilder des Tages",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/13/bilder-des-tages-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/13/bilder-des-tages",
+      "published": "Sun, 13 Sep 2026 01:52:16 -0000",
+      "published_display": "13.09.2026 · 01:52 Uhr"
+    },
+    {
+      "title": "Schwerer Unfall: Motorradfahrer stürzt auf A42 – lebensgefährlich verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/13/motorradfahrer-stuerzt-auf-a42-lebensgefaehrlich-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/13/motorradfahrer-stuerzt-auf-a42-lebensgefaehrlich-verletzt",
+      "published": "Sun, 13 Sep 2026 01:52:01 -0000",
+      "published_display": "13.09.2026 · 01:52 Uhr"
+    },
+    {
+      "title": "Oktoberfest 2026: Auf geht's zur Wiesn: Bier, Schampus, Sicherheit",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/13/auf-geht-s-zur-wiesn-bier-schampus-sicherheit-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/13/auf-geht-s-zur-wiesn-bier-schampus-sicherheit",
+      "published": "Sun, 13 Sep 2026 01:45:05 -0000",
+      "published_display": "13.09.2026 · 01:45 Uhr"
+    },
     {
       "title": "Kommunalwahlen: In Niedersachsens Kommunen wird gewählt",
       "summary": "",
@@ -89,38 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/13/radfahrer-nach-unfall-mit-strassenbahn-schwer-verletzt",
       "published": "Sun, 13 Sep 2026 00:06:30 -0000",
       "published_display": "13.09.2026 · 00:06 Uhr"
-    },
-    {
-      "title": "Unfall in Thüringen: Missglücktes Überholmanöver: tödlicher Motorradunfall",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/13/missgluecktes-ueberholmanoever-toedlicher-motorradunfall-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/13/missgluecktes-ueberholmanoever-toedlicher-motorradunfall",
-      "published": "Sun, 13 Sep 2026 00:02:02 -0000",
-      "published_display": "13.09.2026 · 00:02 Uhr"
-    },
-    {
-      "title": "Huthi-Miliz: Mindestens 76.000 Menschen sind wegen Kämpfen im Jemen auf der Flucht",
-      "summary": "Allein in diesem Monat zählen die Vereinten Nationen rund 70.000 Vertriebene im Jemen. Die Lage verschlimmere sich von Tag zu Tag.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/jemen-huthi-bab-al-mandab-rotes-meer-vertreibung-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/jemen-huthi-kaempfe-vertriebene-flucht-un",
-      "published": "Sat, 12 Sep 2026 23:46:17 -0000",
-      "published_display": "12.09.2026 · 23:46 Uhr"
-    },
-    {
-      "title": "Deutsche Bahn: Minister will Rückkehr der Familienreservierung bei der Bahn",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/13/minister-will-rueckkehr-der-familienreservierung-bei-der-bahn-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/13/minister-will-rueckkehr-der-familienreservierung-bei-der-bahn",
-      "published": "Sat, 12 Sep 2026 23:30:04 -0000",
-      "published_display": "12.09.2026 · 23:30 Uhr"
-    },
-    {
-      "title": "Künstliche Intelligenz: Führende Techunternehmer fordern langsamere Entwicklung von KI",
-      "summary": "Die Chefs der KI-Konzerne Anthropic, OpenAI und SpaceX fordern weniger Tempo bei der Entwicklung von KI. Schon bald könnte die KI sonst das gesamte Internet übernehmen.",
-      "image": "https://img.zeit.de/wirtschaft/unternehmen/2026-09/ai-ko-pfe-3-bild/original__640x360",
-      "link": "https://www.zeit.de/digital/2026-09/kuenstliche-intelligenz-anthropic-ceo-warnung-risiken-waffenentwicklung",
-      "published": "Sat, 12 Sep 2026 23:26:25 -0000",
-      "published_display": "12.09.2026 · 23:26 Uhr"
     }
   ]
 }
