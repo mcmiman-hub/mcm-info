@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-13T07:43:07.584713+00:00",
+  "updated": "2026-09-13T07:55:14.040269+00:00",
   "items": [
+    {
+      "title": "Fußball-Bundesliga: Drei Spiele, zehn Gegentore: Union verliert seine Stärke",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/13/drei-spiele-zehn-gegentore-union-verliert-seine-staerke-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/13/drei-spiele-zehn-gegentore-union-verliert-seine-staerke",
+      "published": "Sun, 13 Sep 2026 07:51:04 -0000",
+      "published_display": "13.09.2026 · 07:51 Uhr"
+    },
+    {
+      "title": "Fußball-Bundesliga: Bremer Comebacks: Füllkrugs «Näschen» und Weisers Tränen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/13/bremer-comebacks-fuellkrugs-naeschen-und-weisers-traenen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/13/bremer-comebacks-fuellkrugs-naeschen-und-weisers-traenen",
+      "published": "Sun, 13 Sep 2026 07:43:51 -0000",
+      "published_display": "13.09.2026 · 07:43 Uhr"
+    },
+    {
+      "title": "Kriegsfolgen: Stabbrandbombe bei Arbeiten auf Pferdekoppel entdeckt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/13/stabbrandbombe-bei-arbeiten-auf-pferdekoppel-entdeckt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/13/stabbrandbombe-bei-arbeiten-auf-pferdekoppel-entdeckt",
+      "published": "Sun, 13 Sep 2026 07:43:25 -0000",
+      "published_display": "13.09.2026 · 07:43 Uhr"
+    },
     {
       "title": "Weisungsrecht für Justizministerien: Richterbund warnt nach AfD-Erfolg vor Missbrauch der Justiz",
       "summary": "Der Richterbund sorgt sich nach dem AfD-Sieg in Sachsen-Anhalt vor einem parteipolitischen Missbrauch der Staatsanwaltschaften. Die Justiz müsse besser geschützt werden.",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/13/klose-schwaermt-zoma-trifft-der-neue-nuernberger-reifegrad",
       "published": "Sun, 13 Sep 2026 07:02:03 -0000",
       "published_display": "13.09.2026 · 07:02 Uhr"
-    },
-    {
-      "title": "Niedersachsen: Kommunalwahlen in Niedersachsen haben begonnen",
-      "summary": "Die Wahllokale in Niedersachsen haben geöffnet. Bis 18 Uhr können mehr als sechs Millionen Menschen ihre Bürgermeister und Kommunalvertretungen wählen.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/kommunalwahlen-niedersachsen-afd-buergermeister-volkswagen-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/kommunalwahlen-niedersachsen-afd-buergermeister-volkswagen",
-      "published": "Sun, 13 Sep 2026 06:59:12 -0000",
-      "published_display": "13.09.2026 · 06:59 Uhr"
-    },
-    {
-      "title": "Belit Onay: »Hier passiert, was ihr beschließt«",
-      "summary": "Belit Onay ist Hannovers erster grüner Oberbürgermeister – und will nun wiedergewählt werden. Er sagt, dass einige Probleme seiner Stadt von der Bundesregierung kommen.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/belit-onay-hannover-buergermeister-die-gruenen-kommunalwahl-bundesregierung-bild-03/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/belit-onay-hannover-buergermeister-die-gruenen-kommunalwahl-bundesregierung",
-      "published": "Sun, 13 Sep 2026 06:56:37 -0000",
-      "published_display": "13.09.2026 · 06:56 Uhr"
-    },
-    {
-      "title": "Kriminalität: Mit Tempo 100 durch Delmenhorst – Polizei stoppt Autorennen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/13/mit-tempo-100-durch-delmenhorst-polizei-stoppt-autorennen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/13/mit-tempo-100-durch-delmenhorst-polizei-stoppt-autorennen",
-      "published": "Sun, 13 Sep 2026 06:56:06 -0000",
-      "published_display": "13.09.2026 · 06:56 Uhr"
     }
   ]
 }
