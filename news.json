@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-13T23:28:10.786519+00:00",
+  "updated": "2026-09-13T23:41:29.616198+00:00",
   "items": [
+    {
+      "title": "Kommunalwahl in Niedersachsen: CDU bei Kommunalwahl in Niedersachsen laut Hochrechnung vorn",
+      "summary": "Bei der Wahl in Niedersachsen hat sich die CDU zwar verschlechtert, bleibt aber stärkste Kraft vor der SPD. Nur die AfD und die Linke haben ihre Ergebnisse verbessert.",
+      "image": "https://img.zeit.de/politik/2026-09/sebastian-lechner-cdu-niedersachsen/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/kommunalwahl-niedersachsen-oberbuergermeister-wolfsburg-hannover-cdu",
+      "published": "Sun, 13 Sep 2026 23:31:12 -0000",
+      "published_display": "13.09.2026 · 23:31 Uhr"
+    },
+    {
+      "title": "Kommunalwahl in Niedersachsen: Bender und Junk in Stichwahl um Spitze der Region Hannover",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/bender-und-junk-in-stichwahl-um-spitze-der-region-hannover-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/bender-und-junk-in-stichwahl-um-spitze-der-region-hannover",
+      "published": "Sun, 13 Sep 2026 23:26:42 -0000",
+      "published_display": "13.09.2026 · 23:26 Uhr"
+    },
     {
       "title": "Kommunalwahl in Niedersachsen: Onay und von der Ohe in Stichwahl um Hannovers Rathaus",
       "summary": "",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/sport/2026-09/basketball-weltmeisterschaft-frauen-usa-frankreich-breanna-stewart",
       "published": "Sun, 13 Sep 2026 21:30:58 -0000",
       "published_display": "13.09.2026 · 21:30 Uhr"
-    },
-    {
-      "title": "Unfall in Schwaben: Frontalkollision auf Bundesstraße - zwei Schwerverletzte",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/13/frontalkollision-auf-bundesstrasse-zwei-schwerverletzte-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/13/frontalkollision-auf-bundesstrasse-zwei-schwerverletzte",
-      "published": "Sun, 13 Sep 2026 21:30:08 -0000",
-      "published_display": "13.09.2026 · 21:30 Uhr"
-    },
-    {
-      "title": "Wahlen in Niedersachsen: Landeschef Schledde: «AfD seit heute Kommunalpartei»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/13/landeschef-schledde-afd-seit-heute-kommunalpartei-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/13/landeschef-schledde-afd-seit-heute-kommunalpartei",
-      "published": "Sun, 13 Sep 2026 21:20:10 -0000",
-      "published_display": "13.09.2026 · 21:20 Uhr"
     }
   ]
 }
