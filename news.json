@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-13T03:17:33.277487+00:00",
+  "updated": "2026-09-13T03:30:14.727642+00:00",
   "items": [
+    {
+      "title": "Bundesliga: Starker Eintracht-Stürmer Burkardt hofft auf Klopp-Anruf",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/13/starker-eintracht-stuermer-burkardt-hofft-auf-klopp-anruf-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/13/starker-eintracht-stuermer-burkardt-hofft-auf-klopp-anruf",
+      "published": "Sun, 13 Sep 2026 03:26:04 -0000",
+      "published_display": "13.09.2026 · 03:26 Uhr"
+    },
+    {
+      "title": "Unfall: 15 Verletzte bei Busunfall in Berlin",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/13/17-verletzte-bei-busunfall-in-berlin-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/13/17-verletzte-bei-busunfall-in-berlin",
+      "published": "Sun, 13 Sep 2026 03:19:55 -0000",
+      "published_display": "13.09.2026 · 03:19 Uhr"
+    },
     {
       "title": "Spiel um WM-Bronze: Wolfenbüttel und Belem: Wie die Basketballerinnen aufstiegen",
       "summary": "",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/13/nivea-chef-wollen-nicht-die-naechste-autoindustrie-werden",
       "published": "Sun, 13 Sep 2026 02:30:05 -0000",
       "published_display": "13.09.2026 · 02:30 Uhr"
-    },
-    {
-      "title": "Flüchtlingsstatistik: Weniger Asylanträge - Höhere Schutzquote",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/13/weniger-asylantraege-hoehere-schutzquote-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/13/weniger-asylantraege-hoehere-schutzquote",
-      "published": "Sun, 13 Sep 2026 02:20:05 -0000",
-      "published_display": "13.09.2026 · 02:20 Uhr"
-    },
-    {
-      "title": "Wetter: Nasser Sonntag vor dem Schulstart - dann kommt Sonne zurück",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/13/nasser-sonntag-vor-dem-schulstart-dann-kommt-sonne-zurueck-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/13/nasser-sonntag-vor-dem-schulstart-dann-kommt-sonne-zurueck",
-      "published": "Sun, 13 Sep 2026 02:15:04 -0000",
-      "published_display": "13.09.2026 · 02:15 Uhr"
     }
   ]
 }
