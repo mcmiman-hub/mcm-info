@@ -1,7 +1,55 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-13T11:16:13.087735+00:00",
+  "updated": "2026-09-13T11:27:34.374214+00:00",
   "items": [
+    {
+      "title": "Kommunalwahl in Niedersachsen: Ministerpräsident Olaf Lies wählt in Friesland",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/13/ministerpraesident-olaf-lies-waehlt-in-friesland-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/13/ministerpraesident-olaf-lies-waehlt-in-friesland",
+      "published": "Sun, 13 Sep 2026 11:23:05 -0000",
+      "published_display": "13.09.2026 · 11:23 Uhr"
+    },
+    {
+      "title": "Gefahrenbremsung: Bus bremst abrupt - sieben Fahrgäste verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/13/bus-bremst-abrupt-sieben-fahrgaeste-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/13/bus-bremst-abrupt-sieben-fahrgaeste-verletzt",
+      "published": "Sun, 13 Sep 2026 11:21:22 -0000",
+      "published_display": "13.09.2026 · 11:21 Uhr"
+    },
+    {
+      "title": "Ausgeliefert im Zug: Schulklasse im Regionalexpress attackiert und belästigt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/13/schulklasse-im-regionalexpress-attackiert-und-belaestigt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/13/schulklasse-im-regionalexpress-attackiert-und-belaestigt",
+      "published": "Sun, 13 Sep 2026 11:19:47 -0000",
+      "published_display": "13.09.2026 · 11:19 Uhr"
+    },
+    {
+      "title": "Fußball-Bundesliga: Polanski muss gehen: Abstiegskandidat Gladbach sucht Trainer",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/13/bericht-polanski-nicht-mehr-trainer-in-moenchengladbach-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/13/bericht-polanski-nicht-mehr-trainer-in-moenchengladbach",
+      "published": "Sun, 13 Sep 2026 11:18:09 -0000",
+      "published_display": "13.09.2026 · 11:18 Uhr"
+    },
+    {
+      "title": "Kanzler und Koalition: AfD-Sieg, Streit und miese Umfragen: Merz unter Druck",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/13/afd-sieg-streit-und-miese-umfragen-merz-unter-druck-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/13/afd-sieg-streit-und-miese-umfragen-merz-unter-druck",
+      "published": "Sun, 13 Sep 2026 11:17:52 -0000",
+      "published_display": "13.09.2026 · 11:17 Uhr"
+    },
+    {
+      "title": "Sessel in Brand: Angriff mit Bengalos in Rigaer Straße: Polizist verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/13/angriff-mit-pyrotechnik-in-rigaer-strasse-polizist-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/13/angriff-mit-pyrotechnik-in-rigaer-strasse-polizist-verletzt",
+      "published": "Sun, 13 Sep 2026 11:17:20 -0000",
+      "published_display": "13.09.2026 · 11:17 Uhr"
+    },
     {
       "title": "David Van Reybrouck: »Das Wählen ist heute Teil der Zalando-Kultur«",
       "summary": "Deshalb können Wahlen allein die Demokratie nicht retten, sagt der preisgekrönte belgische Historiker David Van Reybrouck. Und erzählt von einer Alternative.",
@@ -54,7 +102,7 @@
       "title": "Kirchenasyl in Sachsen-Anhalt: Kirchenasyl wird wegen AfD-Drohung wohl aus Sachsen-Anhalt ausgelagert",
       "summary": "Die AfD in Sachsen-Anhalt will das Kirchenasyl abschaffen. In der Evangelischen Kirche in Mitteldeutschland laufen bereits Maßnahmen, um Geflüchtete zu schützen.",
       "image": "https://img.zeit.de/politik/deutschland/2026-09/kirchenasyl-sachsen-anhalt-evangelische-kirche-mitteldeutschland-afd-friedrich-kramer-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/kirchenasyl-sachsen-anhalt-evangelische-kirche-mitteldeutschland-afd-friedrich-kramer",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/kirchenasyl-sachsen-anhalt-evangelische-kirche-mitteldeutschland-afd-friedrich-kramer-gxe",
       "published": "Sun, 13 Sep 2026 10:57:28 -0000",
       "published_display": "13.09.2026 · 10:57 Uhr"
     },
@@ -73,54 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/13/fuenfjaehrige-tochter-haelt-hazel-bruggers-beruf-fuer-uncool",
       "published": "Sun, 13 Sep 2026 10:54:28 -0000",
       "published_display": "13.09.2026 · 10:54 Uhr"
-    },
-    {
-      "title": "Bundesliga: Ohrfeige: Mainz genervt von Derby-Pleite gegen Frankfurt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/13/ohrfeige-mainz-genervt-von-derby-pleite-gegen-frankfurt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/13/ohrfeige-mainz-genervt-von-derby-pleite-gegen-frankfurt",
-      "published": "Sun, 13 Sep 2026 10:50:19 -0000",
-      "published_display": "13.09.2026 · 10:50 Uhr"
-    },
-    {
-      "title": "Künstliche Intelligenz: Amerikanische KI-Bosse für verlangsamte Entwicklung",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/13/amerikanische-ki-bosse-fuer-verlangsamte-entwicklung-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/13/amerikanische-ki-bosse-fuer-verlangsamte-entwicklung",
-      "published": "Sun, 13 Sep 2026 10:49:31 -0000",
-      "published_display": "13.09.2026 · 10:49 Uhr"
-    },
-    {
-      "title": "2. Fußball-Bundesliga: Bericht: Hannover 96 trennt sich von Trainer Titz",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/13/bericht-hannover-96-trennt-sich-von-trainer-titz-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/13/bericht-hannover-96-trennt-sich-von-trainer-titz",
-      "published": "Sun, 13 Sep 2026 10:47:12 -0000",
-      "published_display": "13.09.2026 · 10:47 Uhr"
-    },
-    {
-      "title": "Bierherstellung: »Bier ist Frauensache. Da haben Männer gar nichts zu suchen«",
-      "summary": "Zum Oktoberfest gibt es wieder viel Bier. Da darf der Hopfen nicht fehlen. Aber wer ist diese Pflanze, die in jedes Bier gehört? Gespräch mit einer Höpfin",
-      "image": "https://img.zeit.de/zeit-wissen/2026/05/bier-ist-frauensache-da-haben-maenner-gar-nichts-zu-suchen-bild-1/original__640x360",
-      "link": "https://www.zeit.de/zeit-wissen/2026/05/bierherstellung-hopfen-tradition-frauen-maenner",
-      "published": "Sun, 13 Sep 2026 10:46:57 -0000",
-      "published_display": "13.09.2026 · 10:46 Uhr"
-    },
-    {
-      "title": "Wettervorhersage: Erst Sonne und bis 28 Grad - dann Regen in der neuen Woche",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/13/erst-sonne-und-bis-28-grad-dann-regen-in-der-neuen-woche-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/13/erst-sonne-und-bis-28-grad-dann-regen-in-der-neuen-woche",
-      "published": "Sun, 13 Sep 2026 10:44:17 -0000",
-      "published_display": "13.09.2026 · 10:44 Uhr"
-    },
-    {
-      "title": "Hannah Kleeberg: »Mein Unternehmen ist wie ein trotziges, wütendes Kind«",
-      "summary": "Mit Essen zu spielen, ist ihr Job: Sie kreiert künstlerische Menüs für Modelabels und Fußballvereine. Ihr Erfolg begann ausgerechnet, als es ihr am schlechtesten ging.",
-      "image": "https://img.zeit.de/zeit-wissen/2026/05/mein-unternehmen-ist-wie-ein-trotziges-wuetendes-kind-bild-1/original__640x360",
-      "link": "https://www.zeit.de/zeit-wissen/2026/05/hannah-kleeberg-kunst-koechin-herrlich-hosting",
-      "published": "Sun, 13 Sep 2026 10:44:16 -0000",
-      "published_display": "13.09.2026 · 10:44 Uhr"
     }
   ]
 }
