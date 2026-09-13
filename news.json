@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-13T18:33:24.487897+00:00",
+  "updated": "2026-09-13T18:46:11.557502+00:00",
   "items": [
+    {
+      "title": "Champions Hockey League: Eisbären Berlin gewinnen in der CHL mit 2:1 gegen Herning",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/13/eisbaeren-berlin-gewinnen-in-der-chl-mit-2-1-gegen-herning-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/13/eisbaeren-berlin-gewinnen-in-der-chl-mit-2-1-gegen-herning",
+      "published": "Sun, 13 Sep 2026 18:36:48 -0000",
+      "published_display": "13.09.2026 · 18:36 Uhr"
+    },
+    {
+      "title": "Angriffe auf die Ukraine: Ukraine meldet russische Angriffe auf Bahnnetz",
+      "summary": "Die Ukraine wirft Russland systematische Angriffe auf ihr Bahnnetz vor. Ein Angriff nahe der Grenze zu Polen könnte laut der Bahn einem Diplomatenzug gegolten haben.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/eisenbahn-ukraine-angriffe-russland-dnipro-polnischer-zug-drohne-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/eisenbahn-ukraine-angriffe-russland-dnipro-polnischer-zug-drohne",
+      "published": "Sun, 13 Sep 2026 18:34:41 -0000",
+      "published_display": "13.09.2026 · 18:34 Uhr"
+    },
     {
       "title": "David Sedaris: »Mein Vater war ein Arschloch, aber eine großartige Figur«",
       "summary": "Der Schriftsteller David Sedaris interessiert sich für jeden Menschen, dem er begegnet, und verschont keinen in seinen Büchern. Sein Trick: stets unberechenbar bleiben.",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/2026/39/synchronsprecher-deutschland-stimme-bezahlung-ki-filmindustrie",
       "published": "Sun, 13 Sep 2026 18:02:31 -0000",
       "published_display": "13.09.2026 · 18:02 Uhr"
-    },
-    {
-      "title": "Oberbürgermeister-Wahl: Wolfsburger Rathaus bleibt in CDU-Hand",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/13/wolfsburger-rathaus-bleibt-in-cdu-hand-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/13/wolfsburger-rathaus-bleibt-in-cdu-hand",
-      "published": "Sun, 13 Sep 2026 18:00:47 -0000",
-      "published_display": "13.09.2026 · 18:00 Uhr"
-    },
-    {
-      "title": "Bundesliga: Glanzloser FC Bayern siegt mühevoll in Elversberg",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/13/glanzloser-fc-bayern-siegt-muehevoll-in-elversberg-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/13/glanzloser-fc-bayern-siegt-muehevoll-in-elversberg",
-      "published": "Sun, 13 Sep 2026 17:58:26 -0000",
-      "published_display": "13.09.2026 · 17:58 Uhr"
     }
   ]
 }
