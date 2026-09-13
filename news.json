@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-13T04:54:37.820889+00:00",
+  "updated": "2026-09-13T05:15:56.683422+00:00",
   "items": [
+    {
+      "title": "Ebola-Epidemie im Kongo: Bisher mehr als 7.000 Ebola-Fälle in DR Kongo",
+      "summary": "Mehr als 7.000 Menschen sind in der DR Kongo nachweislich an Ebola erkrankt. Es gibt aber Anzeichen, dass der Ausbruch seinen Höhepunkt überschritten haben könnte.",
+      "image": "https://img.zeit.de/administratives/sharing/fallback-image-die-zeit/wide__1300x731",
+      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-09/ebola-epidemie-kongo-demokratische-republik-bundibugyo-virus-impfstoff",
+      "published": "Sun, 13 Sep 2026 05:06:54 -0000",
+      "published_display": "13.09.2026 · 05:06 Uhr"
+    },
+    {
+      "title": "Kommunalwahlen: Warum Bürgermeister wieder für acht Jahre gewählt werden",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/13/warum-buergermeister-wieder-fuer-acht-jahre-gewaehlt-werden-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/13/warum-buergermeister-wieder-fuer-acht-jahre-gewaehlt-werden",
+      "published": "Sun, 13 Sep 2026 05:00:04 -0000",
+      "published_display": "13.09.2026 · 05:00 Uhr"
+    },
     {
       "title": "Schwerer Unfall in Darmstadt: Fußgänger nach Unfall in Lebensgefahr – Autofahrer flieht",
       "summary": "",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/13/warum-der-wahlabend-in-niedersachsen-lang-wird",
       "published": "Sun, 13 Sep 2026 04:00:04 -0000",
       "published_display": "13.09.2026 · 04:00 Uhr"
-    },
-    {
-      "title": "Parlamentswahlen in Schweden: Reißt Schweden die Brandmauer ab?",
-      "summary": "Schweden wählt ein neues Parlament. Die Konservativen haben bereits angekündigt, bei einem Sieg mit den Rechten regieren zu wollen. Wie wahrscheinlich ist das?",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/schweden-parlamentswahl-2026-faq-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-08/wahlen-schweden-13-september-reichstag-parteien-faq",
-      "published": "Sun, 13 Sep 2026 03:45:16 -0000",
-      "published_display": "13.09.2026 · 03:45 Uhr"
-    },
-    {
-      "title": "Tennis: Zverev über Pro-US-Stimmung im Finale: «Mir ist das egal»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/13/zverev-ueber-pro-us-stimmung-im-finale-mir-ist-das-egal-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/13/zverev-ueber-pro-us-stimmung-im-finale-mir-ist-das-egal",
-      "published": "Sun, 13 Sep 2026 03:45:04 -0000",
-      "published_display": "13.09.2026 · 03:45 Uhr"
     }
   ]
 }
