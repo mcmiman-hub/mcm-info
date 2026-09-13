@@ -1,7 +1,39 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-13T17:41:51.200480+00:00",
+  "updated": "2026-09-13T17:54:00.738533+00:00",
   "items": [
+    {
+      "title": "Spanien-Rundfahrt: Mas folgt endlich auf Contador - «Jeden Kilometer genossen»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/13/erster-spanischer-sieg-seit-contador-mas-gewinnt-die-vuelta-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/13/erster-spanischer-sieg-seit-contador-mas-gewinnt-die-vuelta",
+      "published": "Sun, 13 Sep 2026 17:46:55 -0000",
+      "published_display": "13.09.2026 · 17:46 Uhr"
+    },
+    {
+      "title": "Bundesliga, 3. Spieltag – Sonntag: Bayern München gewinnt knapp gegen Aufsteiger Elversberg",
+      "summary": "Die Bayern setzen sich mit Mühe gegen den SV Elversberg durch. Der HSV verliert hoch bei RB Leipzig und kassiert damit die dritte Niederlage in Folge. Die Spielberichte",
+      "image": "https://img.zeit.de/sport/2026-09/bundesliga-3-spieltag-fussball-ergebnisse-tabelle-bild/original__640x360",
+      "link": "https://www.zeit.de/sport/2026-09/bundesliga-3-spieltag-fussball-ergebnisse-tabelle",
+      "published": "Sun, 13 Sep 2026 17:46:47 -0000",
+      "published_display": "13.09.2026 · 17:46 Uhr"
+    },
+    {
+      "title": "Lokal «Heppens-Villenviertel»: Falsche Stimmzettel - Wahlfehler in Wilhelmshaven",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/13/falsche-stimmzettel-wahlfehler-in-wilhelmshaven-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/13/falsche-stimmzettel-wahlfehler-in-wilhelmshaven",
+      "published": "Sun, 13 Sep 2026 17:46:43 -0000",
+      "published_display": "13.09.2026 · 17:46 Uhr"
+    },
+    {
+      "title": "Einsatz im Kreis Esslingen: Polizei umstellt Wohnhaus - Festnahme nach Familienstreit",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/13/polizei-umstellt-wohnhaus-festnahme-nach-familienstreit-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/13/polizei-umstellt-wohnhaus-festnahme-nach-familienstreit",
+      "published": "Sun, 13 Sep 2026 17:41:37 -0000",
+      "published_display": "13.09.2026 · 17:41 Uhr"
+    },
     {
       "title": "Basketball-WM: Deutsche Basketballerinnen verlieren Spiel um Platz drei bei Heim-WM",
       "summary": "Das deutsche Team hat bei der Basketball-WM in Berlin Bronze verpasst. Im Spiel um Platz drei verloren die Basketballerinnen gegen die Favoritinnen aus Spanien.",
@@ -89,38 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/13/dritte-niederlage-hamburg-verpasst-ersten-saisonsieg-knapp",
       "published": "Sun, 13 Sep 2026 16:41:06 -0000",
       "published_display": "13.09.2026 · 16:41 Uhr"
-    },
-    {
-      "title": "Gespräche in Dublin: Wiedervereinigung und Golf: Trumps kontroverse Irland-Reise",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/13/wiedervereinigung-und-golf-trumps-kontroverse-irland-reise-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/13/wiedervereinigung-und-golf-trumps-kontroverse-irland-reise",
-      "published": "Sun, 13 Sep 2026 16:39:34 -0000",
-      "published_display": "13.09.2026 · 16:39 Uhr"
-    },
-    {
-      "title": "WM in Berlin: «Tut nur weh»: Basketballerinnen ohne Medaille bei Heim-WM",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/13/wolfenbuettel-und-belem-wie-die-basketballerinnen-aufstiegen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/13/wolfenbuettel-und-belem-wie-die-basketballerinnen-aufstiegen",
-      "published": "Sun, 13 Sep 2026 16:34:03 -0000",
-      "published_display": "13.09.2026 · 16:34 Uhr"
-    },
-    {
-      "title": "Fußball-Bundesliga: Demichelis-Erleichterung: Leipzig blamiert den Torlos-HSV",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/13/demichelis-erleichterung-leipzig-blamiert-den-torlos-hsv-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/13/demichelis-erleichterung-leipzig-blamiert-den-torlos-hsv",
-      "published": "Sun, 13 Sep 2026 16:33:46 -0000",
-      "published_display": "13.09.2026 · 16:33 Uhr"
-    },
-    {
-      "title": "Lymphdrainage und Lymphödeme: »Generell wird viel Falsches erzählt, wenn es um die Lymphe geht«",
-      "summary": "Was genau ist das Lymphsystem überhaupt? Und wie bringt man es zum Fließen? Ein Interview mit einem der führenden Experten des Landes, dem Lymphologen René Hägerling.",
-      "image": "https://img.zeit.de/zeit-magazin/2026-09/lymphdrainage-lymphoedeme-rene-haegerling-berlin-charite-bild/original__640x360",
-      "link": "https://www.zeit.de/zeit-magazin/leben/2026-09/lymphdrainage-lymphoedeme-rene-haegerling-berlin-charite",
-      "published": "Sun, 13 Sep 2026 16:28:28 -0000",
-      "published_display": "13.09.2026 · 16:28 Uhr"
     }
   ]
 }
