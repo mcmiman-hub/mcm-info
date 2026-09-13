@@ -1,7 +1,39 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-13T02:29:42.388932+00:00",
+  "updated": "2026-09-13T02:43:38.439156+00:00",
   "items": [
+    {
+      "title": "GP von Spanien: Audi-Boss über das Interesse an Anteilen am Formel-1-Team",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/13/audi-boss-ueber-das-interesse-an-anteilen-am-formel-1-team-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/13/audi-boss-ueber-das-interesse-an-anteilen-am-formel-1-team",
+      "published": "Sun, 13 Sep 2026 02:39:04 -0000",
+      "published_display": "13.09.2026 · 02:39 Uhr"
+    },
+    {
+      "title": "Filmfestspiele: Goldener Löwe für eine unbequeme Frauenrolle",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/13/goldener-loewe-fuer-eine-unbequeme-frauenrolle-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/13/goldener-loewe-fuer-eine-unbequeme-frauenrolle",
+      "published": "Sun, 13 Sep 2026 02:37:04 -0000",
+      "published_display": "13.09.2026 · 02:37 Uhr"
+    },
+    {
+      "title": "Clubfestival in Hamburg: Branche kämpft um Geld - 21. Reeperbahn-Festival startet",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/13/branche-kaempft-um-geld-21-reeperbahn-festival-startet-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/13/branche-kaempft-um-geld-21-reeperbahn-festival-startet",
+      "published": "Sun, 13 Sep 2026 02:30:07 -0000",
+      "published_display": "13.09.2026 · 02:30 Uhr"
+    },
+    {
+      "title": "Kosmetik: Nivea-Chef: Wollen nicht die nächste Autoindustrie werden",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/13/nivea-chef-wollen-nicht-die-naechste-autoindustrie-werden-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/13/nivea-chef-wollen-nicht-die-naechste-autoindustrie-werden",
+      "published": "Sun, 13 Sep 2026 02:30:05 -0000",
+      "published_display": "13.09.2026 · 02:30 Uhr"
+    },
     {
       "title": "Flüchtlingsstatistik: Weniger Asylanträge - Höhere Schutzquote",
       "summary": "",
@@ -89,38 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/13/15-ungewoehnliche-orte-am-tag-des-offenen-denkmals",
       "published": "Sun, 13 Sep 2026 02:01:07 -0000",
       "published_display": "13.09.2026 · 02:01 Uhr"
-    },
-    {
-      "title": "Gesundheitsreform: Klinikträger warnen vor Milliardenlast durch Insolvenzen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/13/kliniktraeger-warnen-vor-milliardenlast-durch-insolvenzen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/13/kliniktraeger-warnen-vor-milliardenlast-durch-insolvenzen",
-      "published": "Sun, 13 Sep 2026 02:01:02 -0000",
-      "published_display": "13.09.2026 · 02:01 Uhr"
-    },
-    {
-      "title": "Polizeieinsätze: Wie oft die hessische Polizei Elektroschocker einsetzt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/13/wie-oft-die-hessische-polizei-elektroschocker-einsetzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/13/wie-oft-die-hessische-polizei-elektroschocker-einsetzt",
-      "published": "Sun, 13 Sep 2026 02:01:01 -0000",
-      "published_display": "13.09.2026 · 02:01 Uhr"
-    },
-    {
-      "title": "Staatsbürgerschaft: Einbürgerung in Thüringen: Wartezeiten variieren",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/13/einbuergerung-in-thueringen-wartezeiten-variieren-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/13/einbuergerung-in-thueringen-wartezeiten-variieren",
-      "published": "Sun, 13 Sep 2026 02:00:54 -0000",
-      "published_display": "13.09.2026 · 02:00 Uhr"
-    },
-    {
-      "title": "Medizin und Pflege: Gemeinsam besser - neue Ausbildungstation der Unimedizin",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/13/gemeinsam-besser-neue-ausbildungstation-der-unimedizin-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/13/gemeinsam-besser-neue-ausbildungstation-der-unimedizin",
-      "published": "Sun, 13 Sep 2026 02:00:37 -0000",
-      "published_display": "13.09.2026 · 02:00 Uhr"
     }
   ]
 }
