@@ -1,7 +1,39 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-14T07:33:55.534111+00:00",
+  "updated": "2026-09-14T07:47:36.266332+00:00",
   "items": [
+    {
+      "title": "Großaktionär macht Druck: Übernahmekampf bei Boss: Aufsichtsratschef legt Amt nieder",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/uebernahmekampf-bei-boss-aufsichtsratschef-legt-amt-nieder-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/uebernahmekampf-bei-boss-aufsichtsratschef-legt-amt-nieder",
+      "published": "Mon, 14 Sep 2026 07:46:07 -0000",
+      "published_display": "14.09.2026 · 07:46 Uhr"
+    },
+    {
+      "title": "Folgen der AfD-Pläne: Wie gefährlich wird der Erfolg der AfD für die Wirtschaft?",
+      "summary": "Die Wirtschaft in Sachsen-Anhalt und Mecklenburg-Vorpommern kriselt. Auch deshalb wählen viele AfD – ohne zu fragen, wofür sie steht. Das könnte die Probleme verstärken.",
+      "image": "https://img.zeit.de/wirtschaft/2026-09/wirtschaftliche-folgen-afd-plaene-ifo-institut-wirtschaftspodcast-bild/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/2026-09/wirtschaftliche-folgen-afd-plaene-ifo-institut-wirtschaftspodcast",
+      "published": "Mon, 14 Sep 2026 07:41:17 -0000",
+      "published_display": "14.09.2026 · 07:41 Uhr"
+    },
+    {
+      "title": "Buch erstmals auf Deutsch: «Nach Schmerz und Pein»: Briefe von Holocaust-Überlebenden",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/nach-schmerz-und-pein-briefe-von-holocaust-ueberlebenden-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/nach-schmerz-und-pein-briefe-von-holocaust-ueberlebenden",
+      "published": "Mon, 14 Sep 2026 07:35:05 -0000",
+      "published_display": "14.09.2026 · 07:35 Uhr"
+    },
+    {
+      "title": "Gefahren durch KI: KI-Werte leiden unter Debatte über Entwicklungstempo",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/ki-werte-leiden-unter-debatte-ueber-entwicklungstempo-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/ki-werte-leiden-unter-debatte-ueber-entwicklungstempo",
+      "published": "Mon, 14 Sep 2026 07:33:27 -0000",
+      "published_display": "14.09.2026 · 07:33 Uhr"
+    },
     {
       "title": "Scheiben zu Bruch gegangen: Wieder Explosion in Frankfurt - Festnahme nach früherer Tat",
       "summary": "",
@@ -89,38 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/13/wie-becker-zverev-kroent-sich-zum-us-open-sieger",
       "published": "Mon, 14 Sep 2026 06:53:26 -0000",
       "published_display": "14.09.2026 · 06:53 Uhr"
-    },
-    {
-      "title": "Großübung «Badischer Sturm»: Vorsicht auf Straßen: Über 500 Soldaten proben ABC-Einsatz",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/vorsicht-auf-strassen-ueber-500-soldaten-proben-abc-einsatz-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/vorsicht-auf-strassen-ueber-500-soldaten-proben-abc-einsatz",
-      "published": "Mon, 14 Sep 2026 06:52:33 -0000",
-      "published_display": "14.09.2026 · 06:52 Uhr"
-    },
-    {
-      "title": "Saudi-Arabien: Ölpreis nach Angriffen in Nahost wieder gestiegen",
-      "summary": "Die Spannungen in Saudi-Arabien treiben die Ölpreise in die Höhe. Nach einem Angriff auf die Ost-West-Ölpipeline stellte diesen den Betrieb ein.",
-      "image": "https://img.zeit.de/wirtschaft/2026-09/oelpreis-golfregion-brent-wti-energieversorgung-foto-1/original__640x360",
-      "link": "https://www.zeit.de/wirtschaft/2026-09/oelpreis-golfregion-brent-wti-energieversorgung",
-      "published": "Mon, 14 Sep 2026 06:52:09 -0000",
-      "published_display": "14.09.2026 · 06:52 Uhr"
-    },
-    {
-      "title": "Rüstungsindustrie: Kretschmer verteidigt Rüstungsindustrie in Sachsen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/kretschmer-verteidigt-ruestungsindustrie-in-sachsen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/kretschmer-verteidigt-ruestungsindustrie-in-sachsen",
-      "published": "Mon, 14 Sep 2026 06:50:53 -0000",
-      "published_display": "14.09.2026 · 06:50 Uhr"
-    },
-    {
-      "title": "Alexander Zverev: Mann im Tunnel",
-      "summary": "Noch vor wenigen Tagen deutete wenig darauf hin, dass Alexander Zverev die US Open tatsächlich gewinnen könnte. Und dann? Bemerkte er seinen Sieg nicht einmal selbst.",
-      "image": "https://img.zeit.de/sport/2026-09/alexander-zverev-us-open-finale-analyse-bild/original__640x360",
-      "link": "https://www.zeit.de/sport/2026-09/alexander-zverev-us-open-finale-analyse",
-      "published": "Mon, 14 Sep 2026 06:50:28 -0000",
-      "published_display": "14.09.2026 · 06:50 Uhr"
     }
   ]
 }
