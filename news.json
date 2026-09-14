@@ -1,7 +1,71 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-14T13:36:00.414438+00:00",
+  "updated": "2026-09-14T13:49:40.571882+00:00",
   "items": [
+    {
+      "title": "Rapper Yung Pepp: Normalo aus Leipzig-Plagwitz",
+      "summary": "Was der einen die »Swifties«, sind dem anderen die »Peppingers«. Mit 18 Jahren gilt der Rapper Yung Pepp als die neue Stimme des Ostens.",
+      "image": "https://img.zeit.de/2026/39/normalo-aus-leipzig-plagwitz-bild-1/original__640x360",
+      "link": "https://www.zeit.de/2026/39/yung-pepp-rapper-leipzig-wassereis-kraftklub-nazis-afd",
+      "published": "Mon, 14 Sep 2026 13:44:18 -0000",
+      "published_display": "14.09.2026 · 13:44 Uhr"
+    },
+    {
+      "title": "Schule: MINT ist was für Mädchen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/mint-ist-was-fuer-maedchen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/mint-ist-was-fuer-maedchen",
+      "published": "Mon, 14 Sep 2026 13:43:29 -0000",
+      "published_display": "14.09.2026 · 13:43 Uhr"
+    },
+    {
+      "title": "Tagesgeld: Diese Banken zahlen Ihnen vier Prozent Zinsen aufs Tagesgeld",
+      "summary": "Revolut und Chase locken mit hohen Zinsen auf Tagesgeld. Ist das seriös? Was hinter den Angeboten steckt und wann sie sich lohnen können.",
+      "image": "https://img.zeit.de/wirtschaft/geldanlage/2026-09/tagesgeld-einlagen-sparer-revolut-chase-bild/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/geldanlage/2026-09/tagesgeld-einlagen-sparer-revolut-chase",
+      "published": "Mon, 14 Sep 2026 13:40:44 -0000",
+      "published_display": "14.09.2026 · 13:40 Uhr"
+    },
+    {
+      "title": "Arktis-Gipfel in Rovaniemi: Merz findet europäische Sicherheit wichtiger als Kanzlerdebatte",
+      "summary": "Bundeskanzler Friedrich Merz warnt beim Arktis-Gipfel davor, dem Streit um seine Person zu viel Gewicht beizumessen. Europas Sicherheit müsse im Fokus der Politik stehen.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/arktis-gipfel-rovaniemi-friedrich-merz-europaeische-sicherheit-russland-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/arktis-gipfel-rovaniemi-friedrich-merz-europaeische-sicherheit-russland",
+      "published": "Mon, 14 Sep 2026 13:40:31 -0000",
+      "published_display": "14.09.2026 · 13:40 Uhr"
+    },
+    {
+      "title": "Marie Jacquot: Was für eine Schlaghand!",
+      "summary": "In ihrer Jugend wollte Marie Jacquot Tennisprofi werden. Nun wird sie als erste Frau Chefdirigentin eines deutschen Rundfunkorchesters.",
+      "image": "https://img.zeit.de/2026/39/was-fuer-eine-schlaghand-bild-1/original__640x360",
+      "link": "https://www.zeit.de/2026/39/marie-jacquot-dirigentin-wdr-sinfonieorchester-koeln",
+      "published": "Mon, 14 Sep 2026 13:40:03 -0000",
+      "published_display": "14.09.2026 · 13:40 Uhr"
+    },
+    {
+      "title": "Krieg gegen die Ukraine: »Das ist gefährlich, was Wladimir Putin da macht«",
+      "summary": "Verteidigungsminister Boris Pistorius hat sich zu jüngsten Drohnenangriffen in der ukrainischen Grenzregion geäußert. Deutschland nehme die Angriffe ernst. Das Liveblog",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/ukraine-krieg-news-liveblog-bild-4/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "published": "Mon, 14 Sep 2026 13:37:03 -0000",
+      "published_display": "14.09.2026 · 13:37 Uhr"
+    },
+    {
+      "title": "Seit sechs Jahren verschwunden: Suchhunde schlagen an: Neue Spur von vermisster Scarlett?",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/vermisste-scarlett-neue-hoffnung-nach-der-juengsten-suche-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/vermisste-scarlett-neue-hoffnung-nach-der-juengsten-suche",
+      "published": "Mon, 14 Sep 2026 13:36:29 -0000",
+      "published_display": "14.09.2026 · 13:36 Uhr"
+    },
+    {
+      "title": "Audrey Tang: »KI kann zum mächtigsten Instrument werden, das Demokratien je hatten«",
+      "summary": "Die KI entfesselt sich, heißt es. Audrey Tang widerspricht: Nicht die Technologie sei das Problem, sondern die Frage, wer über sie bestimmt – und für wen sie arbeitet.",
+      "image": "https://img.zeit.de/digital/2026-08/audrey-tang-digitalisierung-demokratie-zukunft-china-bild/original__640x360",
+      "link": "https://www.zeit.de/digital/2026-08/audrey-tang-digitalisierung-demokratie-zukunft-china",
+      "published": "Mon, 14 Sep 2026 13:36:04 -0000",
+      "published_display": "14.09.2026 · 13:36 Uhr"
+    },
     {
       "title": "Rüstung: Marine soll auch viertes neues Aufklärungsschiff bekommen",
       "summary": "",
@@ -9,22 +73,6 @@
       "link": "https://www.zeit.de/news/2026-09/14/marine-soll-auch-viertes-neues-aufklaerungsschiff-bekommen",
       "published": "Mon, 14 Sep 2026 13:33:24 -0000",
       "published_display": "14.09.2026 · 13:33 Uhr"
-    },
-    {
-      "title": "Arktis-Gipfel in Rovaniemi: Merz findet europäische Sicherheit wichtiger als Kanzlerdebatte",
-      "summary": "Bundeskanzler Friedrich Merz warnt beim Arktis-Gipfel davor, dem Streit um seine Person zu viel Gewicht beizumessen. Europas Sicherheit müsse im Fokus der Politik stehen.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/arktis-gipfel-rovaniemi-friedrich-merz-europaeische-sicherheit-russland-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/arktis-gipfel-rovaniemi-friedrich-merz-europaeische-sicherheit-russland",
-      "published": "Mon, 14 Sep 2026 13:33:17 -0000",
-      "published_display": "14.09.2026 · 13:33 Uhr"
-    },
-    {
-      "title": "Krieg gegen die Ukraine: »Das ist gefährlich, was Wladimir Putin da macht«",
-      "summary": "Verteidigungsminister Boris Pistorius hat sich zu jüngsten Drohnenangriffen in der ukrainischen Grenzregion geäußert. Deutschland nehme die Angriffe ernst. Das Liveblog",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/ukraine-krieg-news-liveblog-bild-4/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "published": "Mon, 14 Sep 2026 13:31:17 -0000",
-      "published_display": "14.09.2026 · 13:31 Uhr"
     },
     {
       "title": "Freiburg: Messerangreifer und Todesopfer kannten sich nicht",
@@ -73,54 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/14/mutmassliche-waffen-in-videos-praesentiert-mann-in-u-haft",
       "published": "Mon, 14 Sep 2026 13:21:54 -0000",
       "published_display": "14.09.2026 · 13:21 Uhr"
-    },
-    {
-      "title": "Länderranking: Saarland verbessert sich beim Bildungsmonitor",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/saarland-verbessert-sich-beim-bildungsmonitor-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/saarland-verbessert-sich-beim-bildungsmonitor",
-      "published": "Mon, 14 Sep 2026 13:21:06 -0000",
-      "published_display": "14.09.2026 · 13:21 Uhr"
-    },
-    {
-      "title": "Musik: Welche Songs man für die Wiesn kennen sollte",
-      "summary": "",
-      "image": "https://img.zeit.de/administratives/sharing/fallback-image-die-zeit/wide__1300x731",
-      "link": "https://www.zeit.de/news/2026-09/14/welche-songs-man-fuer-die-wiesn-kennen-sollte",
-      "published": "Mon, 14 Sep 2026 13:20:37 -0000",
-      "published_display": "14.09.2026 · 13:20 Uhr"
-    },
-    {
-      "title": "Schule: Ministerin: Pflichtfach Informatik sorgt für Schub bei MINT",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/ministerin-pflichtfach-informatik-sorgt-fuer-schub-bei-mint-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/ministerin-pflichtfach-informatik-sorgt-fuer-schub-bei-mint",
-      "published": "Mon, 14 Sep 2026 13:20:13 -0000",
-      "published_display": "14.09.2026 · 13:20 Uhr"
-    },
-    {
-      "title": "Länderranking: Schleswig-Holstein auf Platz neun im Bildungsmonitor",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/schleswig-holstein-auf-platz-neun-im-bildungsmonitor-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/schleswig-holstein-auf-platz-neun-im-bildungsmonitor",
-      "published": "Mon, 14 Sep 2026 13:19:48 -0000",
-      "published_display": "14.09.2026 · 13:19 Uhr"
-    },
-    {
-      "title": "Bitkom-Studie: Mehrheit der Unternehmen nutzt KI – Bedenken bleiben",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/mehrheit-der-unternehmen-nutzt-ki-bedenken-bleiben-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/mehrheit-der-unternehmen-nutzt-ki-bedenken-bleiben",
-      "published": "Mon, 14 Sep 2026 13:19:39 -0000",
-      "published_display": "14.09.2026 · 13:19 Uhr"
-    },
-    {
-      "title": "Rechenzentren-Boom: Grüne und Umweltverbände sehen Risiken in Rechenzentren",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/gruene-und-umweltverbaende-sehen-risiken-in-rechenzentren-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/gruene-und-umweltverbaende-sehen-risiken-in-rechenzentren",
-      "published": "Mon, 14 Sep 2026 13:17:31 -0000",
-      "published_display": "14.09.2026 · 13:17 Uhr"
     }
   ]
 }
