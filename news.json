@@ -1,7 +1,111 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-14T15:57:25.745413+00:00",
+  "updated": "2026-09-14T16:18:40.662834+00:00",
   "items": [
+    {
+      "title": "Wahlkampf Berlin: Pistorius stützt SPD-Kandidat Krach: «Ich vertraue ihm»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/pistorius-stuetzt-spd-kandidat-krach-ich-vertraue-ihm-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/pistorius-stuetzt-spd-kandidat-krach-ich-vertraue-ihm",
+      "published": "Mon, 14 Sep 2026 16:13:43 -0000",
+      "published_display": "14.09.2026 · 16:13 Uhr"
+    },
+    {
+      "title": "Wie weiter nach der Wahl?: Schulze: AfD wird «bei uns keine Unterstützung bekommen»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/schulze-afd-wird-bei-uns-keine-unterstuetzung-bekommen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/schulze-afd-wird-bei-uns-keine-unterstuetzung-bekommen",
+      "published": "Mon, 14 Sep 2026 16:12:59 -0000",
+      "published_display": "14.09.2026 · 16:12 Uhr"
+    },
+    {
+      "title": "Bevölkerungsschutz: Bundesregierung lässt mögliche Schutzräume in Datenbank erfassen",
+      "summary": "Deutschland will keine neuen Bunker bauen lassen. Stattdessen sollen im Kriegsfall Tiefgaragen oder Tunnel als Schutzräume genutzt werden.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/schutzraeume-deutschland-bunker-app-alexander-dobrindt-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/schutzraeume-deutschland-bunker-app-alexander-dobrindt",
+      "published": "Mon, 14 Sep 2026 16:06:22 -0000",
+      "published_display": "14.09.2026 · 16:06 Uhr"
+    },
+    {
+      "title": "Tarifabschluss: Mehr Geld für Beschäftigte im Einzelhandel",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/mehr-geld-fuer-beschaeftigte-im-einzelhandel-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/mehr-geld-fuer-beschaeftigte-im-einzelhandel",
+      "published": "Mon, 14 Sep 2026 16:05:43 -0000",
+      "published_display": "14.09.2026 · 16:05 Uhr"
+    },
+    {
+      "title": "Ruhr-Sieg-Strecke: Nach Unfall mit riesiger Brücke: Bahnstrecke weiter gesperrt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/nach-unfall-mit-riesiger-bruecke-bahnstrecke-weiter-gesperrt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/nach-unfall-mit-riesiger-bruecke-bahnstrecke-weiter-gesperrt",
+      "published": "Mon, 14 Sep 2026 16:04:34 -0000",
+      "published_display": "14.09.2026 · 16:04 Uhr"
+    },
+    {
+      "title": "Gleitschirm landet in Baum: Gleitschirmflieger aus Baumkrone gerettet",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/gleitschirmflieger-aus-baumkrone-gerettet-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/gleitschirmflieger-aus-baumkrone-gerettet",
+      "published": "Mon, 14 Sep 2026 16:01:20 -0000",
+      "published_display": "14.09.2026 · 16:01 Uhr"
+    },
+    {
+      "title": "Ukraine-Krieg: Trump: Moskau und Kiew wollen Angriffe auf Energie stoppen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/trump-moskau-und-kiew-wollen-angriffe-auf-energie-stoppen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/trump-moskau-und-kiew-wollen-angriffe-auf-energie-stoppen",
+      "published": "Mon, 14 Sep 2026 16:01:16 -0000",
+      "published_display": "14.09.2026 · 16:01 Uhr"
+    },
+    {
+      "title": "Feuer in Einfamilienhaus: Explosion in Einfamilienhaus - Bewohner weiter gesucht",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/explosion-in-einfamilienhaus-bewohner-weiter-gesucht-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/explosion-in-einfamilienhaus-bewohner-weiter-gesucht",
+      "published": "Mon, 14 Sep 2026 16:00:25 -0000",
+      "published_display": "14.09.2026 · 16:00 Uhr"
+    },
+    {
+      "title": "Landtagswahlen in MV: Schwesig fordert erneut Preisdeckel für Benzin",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/schwesig-fordert-erneut-preisdeckel-fuer-benzin-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/schwesig-fordert-erneut-preisdeckel-fuer-benzin",
+      "published": "Mon, 14 Sep 2026 15:59:26 -0000",
+      "published_display": "14.09.2026 · 15:59 Uhr"
+    },
+    {
+      "title": "Krieg gegen die Ukraine: »Das ist gefährlich, was Wladimir Putin da macht«",
+      "summary": "Pistorius nimmt die Drohnenangriffe auf das ukrainische Bahnnetz »sehr ernst«. Laut Trump soll es keine gegenseitigen Angriffe auf Energieanlagen mehr geben. Das Liveblog",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/ukraine-krieg-news-liveblog-bild-4/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "published": "Mon, 14 Sep 2026 15:58:08 -0000",
+      "published_display": "14.09.2026 · 15:58 Uhr"
+    },
+    {
+      "title": "Strafprozess: Maschsee-Mörder erneut vor Gericht",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/maschsee-moerder-erneut-vor-gericht-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/maschsee-moerder-erneut-vor-gericht",
+      "published": "Mon, 14 Sep 2026 15:58:00 -0000",
+      "published_display": "14.09.2026 · 15:58 Uhr"
+    },
+    {
+      "title": "Scharfe Reaktion des Militärs: Film «NAZA» zum Gaza-Krieg: Armee prüft rechtliche Schritte",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/film-naza-zum-gaza-krieg-armee-prueft-rechtliche-schritte-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/film-naza-zum-gaza-krieg-armee-prueft-rechtliche-schritte",
+      "published": "Mon, 14 Sep 2026 15:57:10 -0000",
+      "published_display": "14.09.2026 · 15:57 Uhr"
+    },
+    {
+      "title": "Geheimes Waffenarsenal: Urteile im Remscheider Waffenlager-Prozess angekündigt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/urteile-im-remscheider-waffenlager-prozess-angekuendigt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/urteile-im-remscheider-waffenlager-prozess-angekuendigt",
+      "published": "Mon, 14 Sep 2026 15:55:50 -0000",
+      "published_display": "14.09.2026 · 15:55 Uhr"
+    },
     {
       "title": "Fotografie: Bilder des Tages",
       "summary": "",
@@ -17,110 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/14/helikopter-bringt-gefaellte-baeume-vom-brandleitetunnel-weg",
       "published": "Mon, 14 Sep 2026 15:52:31 -0000",
       "published_display": "14.09.2026 · 15:52 Uhr"
-    },
-    {
-      "title": "Nach jahrelanger Verzögerung: Tesla bringt E-Lastwagen 2027 nach Europa",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/tesla-bringt-e-lastwagen-2027-nach-europa-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/tesla-bringt-e-lastwagen-2027-nach-europa",
-      "published": "Mon, 14 Sep 2026 15:51:01 -0000",
-      "published_display": "14.09.2026 · 15:51 Uhr"
-    },
-    {
-      "title": "Fehler beim Update: Software-Panne bei Hamburger Staatsanwaltschaft",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/software-panne-bei-hamburger-staatsanwaltschaft-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/software-panne-bei-hamburger-staatsanwaltschaft",
-      "published": "Mon, 14 Sep 2026 15:50:51 -0000",
-      "published_display": "14.09.2026 · 15:50 Uhr"
-    },
-    {
-      "title": "Elektro statt Diesel: Probebetrieb mit Akkuzügen in der Pfalz startet bald",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/probebetrieb-mit-akkuzuegen-in-der-pfalz-startet-bald-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/probebetrieb-mit-akkuzuegen-in-der-pfalz-startet-bald",
-      "published": "Mon, 14 Sep 2026 15:50:36 -0000",
-      "published_display": "14.09.2026 · 15:50 Uhr"
-    },
-    {
-      "title": "Arktisgipfel: Ein Bundeskanzler wärmt sich auf – in der Arktis",
-      "summary": "Beim Arktisgipfel ruft der Bundeskanzler zum Zusammenhalt auf. Seine europäischen Kollegen stärken Merz den Rücken. Und: Warum die Rechtsextremen in Schweden verlieren.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/wasjetzt-podcast-merz-finnland-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/2026-09/arktis-gipfel-friedrich-merz-finnland-eu-nachrichtenpodcast",
-      "published": "Mon, 14 Sep 2026 15:49:41 -0000",
-      "published_display": "14.09.2026 · 15:49 Uhr"
-    },
-    {
-      "title": "Krieg: Trump: Moskau und Kiew wollen Angriffe auf Energie stoppen",
-      "summary": "",
-      "image": "https://img.zeit.de/administratives/sharing/fallback-image-die-zeit/wide__1300x731",
-      "link": "https://www.zeit.de/news/2026-09/14/trump-moskau-und-kiew-wollen-angriffe-auf-energie-stoppen",
-      "published": "Mon, 14 Sep 2026 15:46:45 -0000",
-      "published_display": "14.09.2026 · 15:46 Uhr"
-    },
-    {
-      "title": "Türkei: Türkei sperrt nach Razzien gegen Queere offenbar zahlreiche X-Accounts",
-      "summary": "In der Türkei sind zahlreiche Accounts auf der Plattform X nicht mehr abrufbar, wohl auf gerichtliche Anordnung. Zuvor hatten sich viele mit der LGBT-Szene solidarisiert.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/x-blockade-tuerkei-accounts-menschenrechte-internetzensur-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/x-blockade-tuerkei-accounts-menschenrechte-internetzensur",
-      "published": "Mon, 14 Sep 2026 15:45:52 -0000",
-      "published_display": "14.09.2026 · 15:45 Uhr"
-    },
-    {
-      "title": "Scharfe Reaktion des Militärs: Film «NAZA» zum Gaza-Krieg: Armee prüft rechtliche Schritte",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/film-naza-zum-gaza-krieg-armee-prueft-rechtliche-schritte-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/film-naza-zum-gaza-krieg-armee-prueft-rechtliche-schritte",
-      "published": "Mon, 14 Sep 2026 15:42:13 -0000",
-      "published_display": "14.09.2026 · 15:42 Uhr"
-    },
-    {
-      "title": "Krieg gegen die Ukraine: »Das ist gefährlich, was Wladimir Putin da macht«",
-      "summary": "Pistorius nimmt die Drohnenangriffe aufs ukrainische Bahnnetz »sehr ernst«. Laut Trump soll es keine gegenseitigen Angriffe auf Energieanlagen mehr geben. Das Liveblog",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/ukraine-krieg-news-liveblog-bild-4/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "published": "Mon, 14 Sep 2026 15:40:21 -0000",
-      "published_display": "14.09.2026 · 15:40 Uhr"
-    },
-    {
-      "title": "Halbleiterproduktion: Richtfest für neue Dresdner Mikrochip-Fabrik - «Meilenstein»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/richtfest-fuer-neue-dresdner-mikrochip-fabrik-meilenstein-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/richtfest-fuer-neue-dresdner-mikrochip-fabrik-meilenstein",
-      "published": "Mon, 14 Sep 2026 15:39:24 -0000",
-      "published_display": "14.09.2026 · 15:39 Uhr"
-    },
-    {
-      "title": "Öffentlichkeitsfahndung: Mann seit Tagen aus Psychiatrie flüchtig - Polizei fahndet",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/mann-seit-tagen-aus-psychiatrie-fluechtig-polizei-fahndet-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/mann-seit-tagen-aus-psychiatrie-fluechtig-polizei-fahndet",
-      "published": "Mon, 14 Sep 2026 15:26:46 -0000",
-      "published_display": "14.09.2026 · 15:26 Uhr"
-    },
-    {
-      "title": "»Elsas Welt« von Andreas Kossert: »Ich half auch denjenigen, denen die Todesstrafe drohte«",
-      "summary": "Deutsche Besatzung, Zwangsarbeit, Enteignung: In Polen findet unser Autor einen Koffer mit Dokumenten. Er enthält das Drama seiner deutsch-polnischen Geschichte.",
-      "image": "https://img.zeit.de/2026/38/ich-half-auch-denjenigen-denen-die-todesstrafe-drohte-wir-waren-alle-eine-einzige-grosse-familie-bild-2/original__640x360",
-      "link": "https://www.zeit.de/2026/38/elsas-welt-andreas-kossert-roman-kossert-familiengeschichte-polen",
-      "published": "Mon, 14 Sep 2026 15:26:28 -0000",
-      "published_display": "14.09.2026 · 15:26 Uhr"
-    },
-    {
-      "title": "Vor Wahl zum Abgeordnetenhaus: Pistorius unterstützt Giffey im Wahlkampf",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/pistorius-unterstuetzt-giffey-im-wahlkampf-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/pistorius-unterstuetzt-giffey-im-wahlkampf",
-      "published": "Mon, 14 Sep 2026 15:24:50 -0000",
-      "published_display": "14.09.2026 · 15:24 Uhr"
-    },
-    {
-      "title": "Andrea Seiferth: Was, wenn der Partner einem nicht mehr gefällt?",
-      "summary": "In langjährigen Beziehungen verändern sich beide – auch körperlich. Manches kann den anderen richtig stören. Doch es gibt Wege, mit dem heiklen Thema umzugehen.",
-      "image": "https://img.zeit.de/zeit-magazin/2026-08/beziehung-veraenderung-koerper-bild/original__640x360",
-      "link": "https://www.zeit.de/zeit-magazin/leben/2026-09/andrea-seiferth-paar-therapie-beziehung-sexualitaet-partnerschaft",
-      "published": "Mon, 14 Sep 2026 15:24:28 -0000",
-      "published_display": "14.09.2026 · 15:24 Uhr"
     }
   ]
 }
