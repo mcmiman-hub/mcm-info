@@ -1,7 +1,39 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-14T10:45:50.885979+00:00",
+  "updated": "2026-09-14T10:56:28.846624+00:00",
   "items": [
+    {
+      "title": "Hybrider Krieg: Bundesanwaltschaft klagt mutmaßliche russische Spionin an",
+      "summary": "Im Januar ist eine Frau in Berlin festgenommen worden, die vermutlich für Russland spioniert hat. Die Bundesanwaltschaft hat Anklage erhoben.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/ilona-w-spionage-russland-pr-unternehmerin-gru-berlin-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/ilona-w-spionage-russland-pr-unternehmerin-gru-berlin",
+      "published": "Mon, 14 Sep 2026 10:55:29 -0000",
+      "published_display": "14.09.2026 · 10:55 Uhr"
+    },
+    {
+      "title": "Antisemitismus: Morddrohung gegen Charlotte Knobloch – Ermittlungen laufen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/morddrohung-gegen-charlotte-knobloch-ermittlungen-laufen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/morddrohung-gegen-charlotte-knobloch-ermittlungen-laufen",
+      "published": "Mon, 14 Sep 2026 10:54:46 -0000",
+      "published_display": "14.09.2026 · 10:54 Uhr"
+    },
+    {
+      "title": "Kopf gegen Stangen geschlagen: E-Scooter-Fahrerin hat Unfall - und attackiert Polizistin",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/e-scooter-fahrerin-hat-unfall-und-attackiert-polizistin-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/e-scooter-fahrerin-hat-unfall-und-attackiert-polizistin",
+      "published": "Mon, 14 Sep 2026 10:50:22 -0000",
+      "published_display": "14.09.2026 · 10:50 Uhr"
+    },
+    {
+      "title": "Länderranking: Sachsen in Bildungsstudie wieder vorn",
+      "summary": "",
+      "image": "https://img.zeit.de/administratives/sharing/fallback-image-die-zeit/wide__1300x731",
+      "link": "https://www.zeit.de/news/2026-09/14/sachsen-in-bildungsstudie-wieder-vorn",
+      "published": "Mon, 14 Sep 2026 10:45:04 -0000",
+      "published_display": "14.09.2026 · 10:45 Uhr"
+    },
     {
       "title": "Kommunalwahlen: AfD erwartet vier Wiederholungswahlen nach Ausschlüssen",
       "summary": "",
@@ -89,38 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/14/nicht-zu-warm-nicht-zu-kalt-prognose-zum-wiesn-wetter",
       "published": "Mon, 14 Sep 2026 10:32:20 -0000",
       "published_display": "14.09.2026 · 10:32 Uhr"
-    },
-    {
-      "title": "Lastwagengespann zu hoch: Baggerarm zerstört Tunnel-Leuchten auf A8 bei München",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/baggerarm-zerstoert-tunnel-leuchten-auf-a8-bei-muenchen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/baggerarm-zerstoert-tunnel-leuchten-auf-a8-bei-muenchen",
-      "published": "Mon, 14 Sep 2026 10:26:13 -0000",
-      "published_display": "14.09.2026 · 10:26 Uhr"
-    },
-    {
-      "title": "Eishockey: DEL-Chef wettert gegen NHL wegen Spielen in Deutschland",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/del-chef-wettert-gegen-nhl-wegen-spielen-in-deutschland-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/del-chef-wettert-gegen-nhl-wegen-spielen-in-deutschland",
-      "published": "Mon, 14 Sep 2026 10:24:15 -0000",
-      "published_display": "14.09.2026 · 10:24 Uhr"
-    },
-    {
-      "title": "Sanierung der Stuttgarter Oper: CDU-Fraktionschef warnt vor hohem Risiko bei Opernsanierung",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/cdu-fraktionschef-warnt-vor-hohem-risiko-bei-opernsanierung-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/cdu-fraktionschef-warnt-vor-hohem-risiko-bei-opernsanierung",
-      "published": "Mon, 14 Sep 2026 10:23:07 -0000",
-      "published_display": "14.09.2026 · 10:23 Uhr"
-    },
-    {
-      "title": "Reifen aufgeschlitzt: Unbekannte beschädigen 13 Fahrzeuge eines Pflegeheims",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/unbekannte-beschaedigen-13-fahrzeuge-eines-pflegeheims-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/unbekannte-beschaedigen-13-fahrzeuge-eines-pflegeheims",
-      "published": "Mon, 14 Sep 2026 10:19:43 -0000",
-      "published_display": "14.09.2026 · 10:19 Uhr"
     }
   ]
 }
