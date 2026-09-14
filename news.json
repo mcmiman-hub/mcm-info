@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-14T02:17:57.746569+00:00",
+  "updated": "2026-09-14T02:31:36.553724+00:00",
   "items": [
+    {
+      "title": "Unfälle: Alkoholverdacht beim Fahrer: Kind bei Unfall schwer verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/alkoholverdacht-beim-fahrer-kind-bei-unfall-schwer-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/alkoholverdacht-beim-fahrer-kind-bei-unfall-schwer-verletzt",
+      "published": "Mon, 14 Sep 2026 02:29:22 -0000",
+      "published_display": "14.09.2026 · 02:29 Uhr"
+    },
+    {
+      "title": "Wahlen: Drei Lehren aus den Kommunalwahlen in Niedersachsen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/drei-lehren-aus-den-kommunalwahlen-in-niedersachsen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/drei-lehren-aus-den-kommunalwahlen-in-niedersachsen",
+      "published": "Mon, 14 Sep 2026 02:17:13 -0000",
+      "published_display": "14.09.2026 · 02:17 Uhr"
+    },
     {
       "title": "Lebensmitteleinkauf: Was Rabatt-Apps so beliebt macht – und was kritisiert wird",
       "summary": "",
@@ -48,14 +64,6 @@
       "image": "https://img.zeit.de/news/2026-09/14/mint-ist-was-fuer-maedchen-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-09/14/mint-ist-was-fuer-maedchen",
       "published": "Mon, 14 Sep 2026 02:00:11 -0000",
-      "published_display": "14.09.2026 · 02:00 Uhr"
-    },
-    {
-      "title": "Wahlen: Drei Lehren aus den Kommunalwahlen in Niedersachsen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/drei-lehren-aus-den-kommunalwahlen-in-niedersachsen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/drei-lehren-aus-den-kommunalwahlen-in-niedersachsen",
-      "published": "Mon, 14 Sep 2026 02:00:09 -0000",
       "published_display": "14.09.2026 · 02:00 Uhr"
     },
     {
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/14/wahlkrimi-ohne-ende-wer-kann-schweden-regieren",
       "published": "Mon, 14 Sep 2026 01:31:25 -0000",
       "published_display": "14.09.2026 · 01:31 Uhr"
-    },
-    {
-      "title": "Halbleiterproduktion: ESMC feiert Richtfest für neue Dresdner Mikrochip-Fabrik",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/esmc-feiert-richtfest-fuer-neue-dresdner-mikrochip-fabrik-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/esmc-feiert-richtfest-fuer-neue-dresdner-mikrochip-fabrik",
-      "published": "Mon, 14 Sep 2026 01:30:07 -0000",
-      "published_display": "14.09.2026 · 01:30 Uhr"
     }
   ]
 }
