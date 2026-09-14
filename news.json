@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-14T22:31:46.852476+00:00",
+  "updated": "2026-09-14T22:44:56.953047+00:00",
   "items": [
+    {
+      "title": "Nato-Ostflanke: Kampfflugzeuge schießen Drohne über Litauen ab",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/kampfflugzeuge-schiessen-drohne-ueber-litauen-ab-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/kampfflugzeuge-schiessen-drohne-ueber-litauen-ab",
+      "published": "Mon, 14 Sep 2026 22:30:06 -0000",
+      "published_display": "14.09.2026 · 22:30 Uhr"
+    },
     {
       "title": "Luxus-Stullen in Soho: Laib für 60 Dollar - Run auf Roggenbrot in New York",
       "summary": "",
@@ -11,8 +19,8 @@
       "published_display": "14.09.2026 · 22:30 Uhr"
     },
     {
-      "title": "John Brennan: Ex-CIA Chef Brennan soll zu angeblicher Verschwörung befragt werden",
-      "summary": "Eine Gericht soll klären, ob Ermittlungen gegen Trump eine Verschwörung waren. Der Anwalt des früheren Geheimdienstdirektors nennt die Straftat »vollständig erfunden«.",
+      "title": "John Brennan: Ex-CIA-Chef Brennan soll zu angeblicher Verschwörung befragt werden",
+      "summary": "Ein Gericht soll klären, ob Ermittlungen gegen Trump eine Verschwörung waren. Der Anwalt des früheren Geheimdienstdirektors nennt die Straftat »vollständig erfunden«.",
       "image": "https://img.zeit.de/politik/ausland/2026-09/john-brennan-cia-donald-trump-verschwoerung-grand-jury-florida-foto-1/original__640x360",
       "link": "https://www.zeit.de/politik/ausland/2026-09/john-brennan-cia-donald-trump-verschwoerung-grand-jury-florida",
       "published": "Mon, 14 Sep 2026 22:17:50 -0000",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/14/designer-der-stars-bob-mackie-ist-tot",
       "published": "Mon, 14 Sep 2026 19:25:19 -0000",
       "published_display": "14.09.2026 · 19:25 Uhr"
-    },
-    {
-      "title": "Unfall: Streifenwagen fährt über Rot und prallt mit Auto zusammen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/streifenwagen-faehrt-ueber-rot-und-prallt-mit-auto-zusammen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/streifenwagen-faehrt-ueber-rot-und-prallt-mit-auto-zusammen",
-      "published": "Mon, 14 Sep 2026 19:08:39 -0000",
-      "published_display": "14.09.2026 · 19:08 Uhr"
     }
   ]
 }
