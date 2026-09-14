@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-14T00:59:33.571043+00:00",
+  "updated": "2026-09-14T01:17:28.754919+00:00",
   "items": [
+    {
+      "title": "EU-Arktis-Gipfel: Finnlands Botschafter warnt vor Einfluss Chinas und Russlands",
+      "summary": "Kai Sauer, finnischer Botschafter in Berlin, befürchtet gestiegenes Interesse Chinas und Russlands an neuen Seewegen in der Arktis. Er hofft, dass die EU darauf reagiere.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/arktis-china-russland-eu-rovaniemi-finnland-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/arktis-china-russland-eu-rovaniemi-finnland",
+      "published": "Mon, 14 Sep 2026 01:15:18 -0000",
+      "published_display": "14.09.2026 · 01:15 Uhr"
+    },
     {
       "title": "Anrufer berichten von Schüssen: Zwei Verletzte in Hamburg aufgefunden - Fahndung nach Täter",
       "summary": "",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/sport/2026-09/alexander-zverev-gewinnt-finale-der-us-open",
       "published": "Sun, 13 Sep 2026 21:57:30 -0000",
       "published_display": "13.09.2026 · 21:57 Uhr"
-    },
-    {
-      "title": "Kalenderblatt: Was geschah am 14. September?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/13/was-geschah-am-14-september-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/13/was-geschah-am-14-september",
-      "published": "Sun, 13 Sep 2026 21:55:04 -0000",
-      "published_display": "13.09.2026 · 21:55 Uhr"
     }
   ]
 }
