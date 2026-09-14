@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-14T19:17:45.557355+00:00",
+  "updated": "2026-09-14T19:31:03.143987+00:00",
   "items": [
+    {
+      "title": "Mode: Designer der Stars - Bob Mackie ist tot",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/designer-der-stars-bob-mackie-ist-tot-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/designer-der-stars-bob-mackie-ist-tot",
+      "published": "Mon, 14 Sep 2026 19:25:19 -0000",
+      "published_display": "14.09.2026 · 19:25 Uhr"
+    },
     {
       "title": "Unfall: Streifenwagen fährt über Rot und prallt mit Auto zusammen",
       "summary": "",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/politik/ausland/2026-09/eu-russland-sanktionen-alischer-usmanow-slowakei-frankreich",
       "published": "Mon, 14 Sep 2026 17:59:30 -0000",
       "published_display": "14.09.2026 · 17:59 Uhr"
-    },
-    {
-      "title": "Ursache unklar: Zwei Tote bei Autounfall im Landkreis Birkenfeld",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/zwei-tote-bei-autounfall-im-landkreis-birkenfeld-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/zwei-tote-bei-autounfall-im-landkreis-birkenfeld",
-      "published": "Mon, 14 Sep 2026 17:52:59 -0000",
-      "published_display": "14.09.2026 · 17:52 Uhr"
     }
   ]
 }
