@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-14T07:19:41.501527+00:00",
+  "updated": "2026-09-14T07:33:55.534111+00:00",
   "items": [
+    {
+      "title": "Scheiben zu Bruch gegangen: Wieder Explosion in Frankfurt - Festnahme nach früherer Tat",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/wieder-explosion-in-frankfurt-festnahme-nach-frueherer-tat-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/wieder-explosion-in-frankfurt-festnahme-nach-frueherer-tat",
+      "published": "Mon, 14 Sep 2026 07:31:16 -0000",
+      "published_display": "14.09.2026 · 07:31 Uhr"
+    },
+    {
+      "title": "WM in Berlin: «Macherinnen» in Tränen: Was vom Basketball-Fest bleibt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/katastrophal-basketball-chefcoach-zerlegt-heimische-liga-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/katastrophal-basketball-chefcoach-zerlegt-heimische-liga",
+      "published": "Mon, 14 Sep 2026 07:21:04 -0000",
+      "published_display": "14.09.2026 · 07:21 Uhr"
+    },
+    {
+      "title": "Brände: Fünfzehn Menschen retten sich vor Feuer im Mehrfamilienhaus",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/fuenfzehn-menschen-retten-sich-vor-feuer-im-mehrfamilienhaus-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/fuenfzehn-menschen-retten-sich-vor-feuer-im-mehrfamilienhaus",
+      "published": "Mon, 14 Sep 2026 07:18:57 -0000",
+      "published_display": "14.09.2026 · 07:18 Uhr"
+    },
     {
       "title": "Formel-1-Titelkampf: Zermürbte Verfolger geben auf: Wann krönt sich Antonelli?",
       "summary": "",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/sport/2026-09/alexander-zverev-us-open-finale-analyse",
       "published": "Mon, 14 Sep 2026 06:50:28 -0000",
       "published_display": "14.09.2026 · 06:50 Uhr"
-    },
-    {
-      "title": "Verkehr: Zwei Verletzte: Polizei beschlagnahmt Luxusautos nach Rennen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/zwei-verletzte-polizei-beschlagnahmt-luxusautos-nach-rennen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/zwei-verletzte-polizei-beschlagnahmt-luxusautos-nach-rennen",
-      "published": "Mon, 14 Sep 2026 06:42:28 -0000",
-      "published_display": "14.09.2026 · 06:42 Uhr"
-    },
-    {
-      "title": "Datenschutz: So schützen Sie Ihre persönlichen Daten in Zeiten von KI",
-      "summary": "Mithilfe von KI können Kriminelle noch einfacher Ihre Daten klauen. Alles hoffnungslos? Aber nein! Der Optimierungspodcast gibt ganz leicht umsetzbare R@tsch1äge.",
-      "image": "https://img.zeit.de/entdecken/2024-07/geht-da-noch-was-podcast-lisa-rose/original__640x360",
-      "link": "https://www.zeit.de/entdecken/2026-09/datenschutz-ki-tipps-ratgeber-podcast",
-      "published": "Mon, 14 Sep 2026 06:41:24 -0000",
-      "published_display": "14.09.2026 · 06:41 Uhr"
-    },
-    {
-      "title": "Menschen mit Behinderung: Mehr Eingliederungshilfe für Menschen mit Behinderung",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/mehr-eingliederungshilfe-fuer-menschen-mit-behinderung-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/mehr-eingliederungshilfe-fuer-menschen-mit-behinderung",
-      "published": "Mon, 14 Sep 2026 06:38:14 -0000",
-      "published_display": "14.09.2026 · 06:38 Uhr"
     }
   ]
 }
