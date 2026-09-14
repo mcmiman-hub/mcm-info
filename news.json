@@ -1,7 +1,39 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-14T03:33:25.264992+00:00",
+  "updated": "2026-09-14T03:46:53.907314+00:00",
   "items": [
+    {
+      "title": "Bundesligarückschau: Freiburg, wo die Sonne scheint",
+      "summary": "Der neue Tabellenführer aus Freiburg tut etwas dem Rest der Liga völlig Fremdes: Er spielt verlässlichen, fleißigen, klaren Fußball. Alles vom dritten Spieltag",
+      "image": "https://img.zeit.de/sport/2026-09/sc-freiburg/original__640x360",
+      "link": "https://www.zeit.de/sport/2026-09/bundesliga-rueckschau-sc-freiburg-elversberg-bayern",
+      "published": "Mon, 14 Sep 2026 03:45:50 -0000",
+      "published_display": "14.09.2026 · 03:45 Uhr"
+    },
+    {
+      "title": "American Football: Zwei Touchdowns für St. Brown: Lions kämpfen zum NFL-Start",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/st-brown-mit-touchdown-bei-lions-sieg-in-nfl-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/13/st-brown-mit-touchdown-bei-lions-sieg-in-nfl",
+      "published": "Mon, 14 Sep 2026 03:41:20 -0000",
+      "published_display": "14.09.2026 · 03:41 Uhr"
+    },
+    {
+      "title": "WM in Berlin: «Katastrophal»: Basketball-Chefcoach zerlegt heimische Liga",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/katastrophal-basketball-chefcoach-zerlegt-heimische-liga-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/katastrophal-basketball-chefcoach-zerlegt-heimische-liga",
+      "published": "Mon, 14 Sep 2026 03:40:04 -0000",
+      "published_display": "14.09.2026 · 03:40 Uhr"
+    },
+    {
+      "title": "US Open: Alexander Zverev gewinnt Finale der US Open",
+      "summary": "Der Deutsche hat sich gegen den US-Amerikaner Ben Shelton durchgesetzt. Damit rückt für Alexander Zverev erstmals der Spitzenplatz auf der Bestenliste in Reichweite.",
+      "image": "https://img.zeit.de/sport/2026-09/tennis-finale-us-open-zverev/original__640x360",
+      "link": "https://www.zeit.de/sport/2026-09/alexander-zverev-gewinnt-finale-der-us-open",
+      "published": "Mon, 14 Sep 2026 03:37:54 -0000",
+      "published_display": "14.09.2026 · 03:37 Uhr"
+    },
     {
       "title": "Neues Einsatzfahrzeug: Feuerwehr-Trecker verlässt Wiesmoor – Testphase endet",
       "summary": "",
@@ -88,38 +120,6 @@
       "image": "https://img.zeit.de/news/2026-09/14/so-werden-sachsens-stromnetze-geschuetzt-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-09/14/so-werden-sachsens-stromnetze-geschuetzt",
       "published": "Mon, 14 Sep 2026 03:00:13 -0000",
-      "published_display": "14.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "10 Jahre TikTok: Algorithmus-Schock: Wie TikTok das Netz umgekrempelt hat",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/algorithmus-schock-wie-tiktok-das-netz-umgekrempelt-hat-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/algorithmus-schock-wie-tiktok-das-netz-umgekrempelt-hat",
-      "published": "Mon, 14 Sep 2026 03:00:12 -0000",
-      "published_display": "14.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Marode Brücke: Köln-Wuppertal: Bahn plant mit regulärem Fahrplan ab Oktober",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/koeln-wuppertal-bahn-plant-mit-regulaerem-fahrplan-ab-oktober-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/koeln-wuppertal-bahn-plant-mit-regulaerem-fahrplan-ab-oktober",
-      "published": "Mon, 14 Sep 2026 03:00:11 -0000",
-      "published_display": "14.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Kultur: Saison-Höhepunkte in den neuen Theaterspielplänen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/saison-hoehepunkte-in-den-neuen-theaterspielplaenen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/saison-hoehepunkte-in-den-neuen-theaterspielplaenen",
-      "published": "Mon, 14 Sep 2026 03:00:08 -0000",
-      "published_display": "14.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Vom Gewand zur Tradition: Die bayerische Tracht im Wandel der Jahrzehnte",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/die-bayerische-tracht-im-wandel-der-jahrzehnte-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/die-bayerische-tracht-im-wandel-der-jahrzehnte",
-      "published": "Mon, 14 Sep 2026 03:00:07 -0000",
       "published_display": "14.09.2026 · 03:00 Uhr"
     }
   ]
