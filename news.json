@@ -1,14 +1,30 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-14T23:15:53.405060+00:00",
+  "updated": "2026-09-14T23:27:10.945845+00:00",
   "items": [
     {
       "title": "Krieg gegen die Ukraine: EU verschiebt Verlängerung der Russlandsanktionen",
       "summary": "Über Sanktionen soll verspätet entschieden werden. Frankreich will Oligarch Usmanow von der Liste streichen. Ukraines Bahnverkehr wird verstärkt angegriffen. Das Liveblog",
       "image": "https://img.zeit.de/politik/ausland/ukraine-krieg-news-russland-danktionen-liveblog-bild-2/original__640x360",
       "link": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "published": "Mon, 14 Sep 2026 23:00:23 -0000",
-      "published_display": "14.09.2026 · 23:00 Uhr"
+      "published": "Mon, 14 Sep 2026 23:23:03 -0000",
+      "published_display": "14.09.2026 · 23:23 Uhr"
+    },
+    {
+      "title": "Künstliche Intelligenz: Anthropic-Mitgründer verlangt »Kill-Switch« für KI",
+      "summary": "Jack Clark fordert einen verpflichtenden Abschaltmechanismus für KI. In den USA wird ein Treffen zwischen Donald Trump und Branchenvertretern erwartet.",
+      "image": "https://img.zeit.de/digital/2026-09/ki-abschaltung-kill-switch-anthropic-jack-clark-foto-1/original__640x360",
+      "link": "https://www.zeit.de/digital/2026-09/ki-abschaltung-kill-switch-anthropic-jack-clark",
+      "published": "Mon, 14 Sep 2026 23:21:58 -0000",
+      "published_display": "14.09.2026 · 23:21 Uhr"
+    },
+    {
+      "title": "Digitale Teilhabe: Digitale Teilhabe - Frankfurt unterstützt Senioren",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/digitale-teilhabe-frankfurt-unterstuetzt-senioren-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/digitale-teilhabe-frankfurt-unterstuetzt-senioren",
+      "published": "Mon, 14 Sep 2026 23:20:04 -0000",
+      "published_display": "14.09.2026 · 23:20 Uhr"
     },
     {
       "title": "Nato-Ostflanke: Kampfflugzeuge schießen Drohne über Litauen ab",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/14/motorradfahrer-stirbt-nach-zusammenprall-mit-lkw",
       "published": "Mon, 14 Sep 2026 20:15:43 -0000",
       "published_display": "14.09.2026 · 20:15 Uhr"
-    },
-    {
-      "title": "Umar Kremlew: Oligarch soll Hochzeitsfeier von Donald Trump Jr. mitfinanziert haben",
-      "summary": "Ein russischer Oligarch soll sechsstellige Summen zur Hochzeitsfeier von Donald Trump Jr. beigesteuert haben. Seine Ehefrau spricht von »einem Hochzeitsgeschenk«.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/russischer-oligarch-donald-trump-jr-bettina-anderson-umar-kremlew-hochzeit-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/russischer-oligarch-donald-trump-jr-bettina-anderson-umar-kremlew-hochzeit",
-      "published": "Mon, 14 Sep 2026 19:47:09 -0000",
-      "published_display": "14.09.2026 · 19:47 Uhr"
-    },
-    {
-      "title": "Fußball-Rekordmeister: Hoeneß erklärt Eberl-Wende: «Eigenbrötlerdasein» abgelegt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/hoeness-erklaert-eberl-wende-eigenbroetlerdasein-abgelegt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/hoeness-erklaert-eberl-wende-eigenbroetlerdasein-abgelegt",
-      "published": "Mon, 14 Sep 2026 19:39:10 -0000",
-      "published_display": "14.09.2026 · 19:39 Uhr"
     }
   ]
 }
