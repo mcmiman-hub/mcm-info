@@ -1,7 +1,111 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-14T13:21:11.521510+00:00",
+  "updated": "2026-09-14T13:36:00.414438+00:00",
   "items": [
+    {
+      "title": "Rüstung: Marine soll auch viertes neues Aufklärungsschiff bekommen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/marine-soll-auch-viertes-neues-aufklaerungsschiff-bekommen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/marine-soll-auch-viertes-neues-aufklaerungsschiff-bekommen",
+      "published": "Mon, 14 Sep 2026 13:33:24 -0000",
+      "published_display": "14.09.2026 · 13:33 Uhr"
+    },
+    {
+      "title": "Arktis-Gipfel in Rovaniemi: Merz findet europäische Sicherheit wichtiger als Kanzlerdebatte",
+      "summary": "Bundeskanzler Friedrich Merz warnt beim Arktis-Gipfel davor, dem Streit um seine Person zu viel Gewicht beizumessen. Europas Sicherheit müsse im Fokus der Politik stehen.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/arktis-gipfel-rovaniemi-friedrich-merz-europaeische-sicherheit-russland-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/arktis-gipfel-rovaniemi-friedrich-merz-europaeische-sicherheit-russland",
+      "published": "Mon, 14 Sep 2026 13:33:17 -0000",
+      "published_display": "14.09.2026 · 13:33 Uhr"
+    },
+    {
+      "title": "Krieg gegen die Ukraine: »Das ist gefährlich, was Wladimir Putin da macht«",
+      "summary": "Verteidigungsminister Boris Pistorius hat sich zu jüngsten Drohnenangriffen in der ukrainischen Grenzregion geäußert. Deutschland nehme die Angriffe ernst. Das Liveblog",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/ukraine-krieg-news-liveblog-bild-4/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "published": "Mon, 14 Sep 2026 13:31:17 -0000",
+      "published_display": "14.09.2026 · 13:31 Uhr"
+    },
+    {
+      "title": "Freiburg: Messerangreifer und Todesopfer kannten sich nicht",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/messerangreifer-und-todesopfer-kannten-sich-nicht-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/messerangreifer-und-todesopfer-kannten-sich-nicht",
+      "published": "Mon, 14 Sep 2026 13:28:06 -0000",
+      "published_display": "14.09.2026 · 13:28 Uhr"
+    },
+    {
+      "title": "Notfälle: Schüler klagen über Unwohlsein - Großeinsatz in Dresden",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/schueler-klagen-ueber-unwohlsein-grosseinsatz-in-dresden-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/schueler-klagen-ueber-unwohlsein-grosseinsatz-in-dresden",
+      "published": "Mon, 14 Sep 2026 13:27:07 -0000",
+      "published_display": "14.09.2026 · 13:27 Uhr"
+    },
+    {
+      "title": "In Hamburger Kulturverein: 14-Jähriger angeschossen - 20-Jähriger mit Stichverletzungen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/zwei-verletzte-in-hamburg-aufgefunden-fahndung-nach-taeter-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/zwei-verletzte-in-hamburg-aufgefunden-fahndung-nach-taeter",
+      "published": "Mon, 14 Sep 2026 13:26:44 -0000",
+      "published_display": "14.09.2026 · 13:26 Uhr"
+    },
+    {
+      "title": "Im Auto eingeschlossen: Auto landet in Lager von Supermarkt - Fahrer verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/auto-landet-in-lager-von-supermarkt-fahrer-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/auto-landet-in-lager-von-supermarkt-fahrer-verletzt",
+      "published": "Mon, 14 Sep 2026 13:26:23 -0000",
+      "published_display": "14.09.2026 · 13:26 Uhr"
+    },
+    {
+      "title": "Nach den Kommunalwahlen: Experten: AfD wird in Kommunen deutlich handlungsfähiger",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/experten-afd-wird-in-kommunen-deutlich-handlungsfaehiger-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/experten-afd-wird-in-kommunen-deutlich-handlungsfaehiger",
+      "published": "Mon, 14 Sep 2026 13:26:13 -0000",
+      "published_display": "14.09.2026 · 13:26 Uhr"
+    },
+    {
+      "title": "Im Wald gehaust: Mutmaßliche Waffen in Videos präsentiert - Mann in U-Haft",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/mutmassliche-waffen-in-videos-praesentiert-mann-in-u-haft-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/mutmassliche-waffen-in-videos-praesentiert-mann-in-u-haft",
+      "published": "Mon, 14 Sep 2026 13:21:54 -0000",
+      "published_display": "14.09.2026 · 13:21 Uhr"
+    },
+    {
+      "title": "Länderranking: Saarland verbessert sich beim Bildungsmonitor",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/saarland-verbessert-sich-beim-bildungsmonitor-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/saarland-verbessert-sich-beim-bildungsmonitor",
+      "published": "Mon, 14 Sep 2026 13:21:06 -0000",
+      "published_display": "14.09.2026 · 13:21 Uhr"
+    },
+    {
+      "title": "Musik: Welche Songs man für die Wiesn kennen sollte",
+      "summary": "",
+      "image": "https://img.zeit.de/administratives/sharing/fallback-image-die-zeit/wide__1300x731",
+      "link": "https://www.zeit.de/news/2026-09/14/welche-songs-man-fuer-die-wiesn-kennen-sollte",
+      "published": "Mon, 14 Sep 2026 13:20:37 -0000",
+      "published_display": "14.09.2026 · 13:20 Uhr"
+    },
+    {
+      "title": "Schule: Ministerin: Pflichtfach Informatik sorgt für Schub bei MINT",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/ministerin-pflichtfach-informatik-sorgt-fuer-schub-bei-mint-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/ministerin-pflichtfach-informatik-sorgt-fuer-schub-bei-mint",
+      "published": "Mon, 14 Sep 2026 13:20:13 -0000",
+      "published_display": "14.09.2026 · 13:20 Uhr"
+    },
+    {
+      "title": "Länderranking: Schleswig-Holstein auf Platz neun im Bildungsmonitor",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/schleswig-holstein-auf-platz-neun-im-bildungsmonitor-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/schleswig-holstein-auf-platz-neun-im-bildungsmonitor",
+      "published": "Mon, 14 Sep 2026 13:19:48 -0000",
+      "published_display": "14.09.2026 · 13:19 Uhr"
+    },
     {
       "title": "Bitkom-Studie: Mehrheit der Unternehmen nutzt KI – Bedenken bleiben",
       "summary": "",
@@ -17,110 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/14/gruene-und-umweltverbaende-sehen-risiken-in-rechenzentren",
       "published": "Mon, 14 Sep 2026 13:17:31 -0000",
       "published_display": "14.09.2026 · 13:17 Uhr"
-    },
-    {
-      "title": "Panneneinsatz: SEK-Einsatz in falscher Wohnung: Polizei entschuldigt sich",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/sek-einsatz-in-falscher-wohnung-polizei-entschuldigt-sich-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/sek-einsatz-in-falscher-wohnung-polizei-entschuldigt-sich",
-      "published": "Mon, 14 Sep 2026 13:17:25 -0000",
-      "published_display": "14.09.2026 · 13:17 Uhr"
-    },
-    {
-      "title": "1. FC Union Berlin: Juranovic fehlt im Training vor Bayern-Spiel",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/juranovic-fehlt-im-training-vor-bayern-spiel-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/juranovic-fehlt-im-training-vor-bayern-spiel",
-      "published": "Mon, 14 Sep 2026 13:16:47 -0000",
-      "published_display": "14.09.2026 · 13:16 Uhr"
-    },
-    {
-      "title": "CSU-Vorstandsklausur: Söder fordert erneute Spritpreissenkung",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/soeder-fordert-erneute-spritpreissenkung-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/soeder-fordert-erneute-spritpreissenkung",
-      "published": "Mon, 14 Sep 2026 13:14:49 -0000",
-      "published_display": "14.09.2026 · 13:14 Uhr"
-    },
-    {
-      "title": "Unterbringungsbefehl: Polizei schießt auf Mann mit Messer – Gutachter sieht Gefahr",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/polizei-schiesst-auf-mann-mit-messer-gutachter-sieht-gefahr-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/polizei-schiesst-auf-mann-mit-messer-gutachter-sieht-gefahr",
-      "published": "Mon, 14 Sep 2026 13:14:47 -0000",
-      "published_display": "14.09.2026 · 13:14 Uhr"
-    },
-    {
-      "title": "Online-Umfrage der EZB: Mitreden bei Design neuer Euro-Banknoten",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/mitreden-bei-design-neuer-euro-banknoten-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/mitreden-bei-design-neuer-euro-banknoten",
-      "published": "Mon, 14 Sep 2026 13:14:46 -0000",
-      "published_display": "14.09.2026 · 13:14 Uhr"
-    },
-    {
-      "title": "Autobranche: Mercedes-Benz ruft mehr als 23.000 Autos wegen Unfallrisikos zurück",
-      "summary": "Tausende Autos der GLE-Baureihe 167 von Mercedes müssen in die Werkstatt. Bei ihnen wurde ein Schutzblech fehlerhaft verbaut – was zu häufigeren Unfällen führen kann.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/mercedes-benz-rueckruf-gle-167-kraftfahrt-bundesamt-foto-1/original__640x360",
-      "link": "https://www.zeit.de/mobilitaet/2026-09/mercedes-benz-rueckruf-gle-167-kraftfahrt-bundesamt",
-      "published": "Mon, 14 Sep 2026 13:14:34 -0000",
-      "published_display": "14.09.2026 · 13:14 Uhr"
-    },
-    {
-      "title": "Vor dem nächsten Wahltag: Kanzler-Krise: Kriegt Merz noch die Kurve?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/kanzler-krise-kriegt-merz-noch-die-kurve-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/kanzler-krise-kriegt-merz-noch-die-kurve",
-      "published": "Mon, 14 Sep 2026 13:14:09 -0000",
-      "published_display": "14.09.2026 · 13:14 Uhr"
-    },
-    {
-      "title": "Gipfel am Polarkreis: Europäer nehmen Kampf um Einfluss in der Arktis auf",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/europaeer-nehmen-kampf-um-einfluss-in-der-arktis-auf-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/europaeer-nehmen-kampf-um-einfluss-in-der-arktis-auf",
-      "published": "Mon, 14 Sep 2026 13:11:48 -0000",
-      "published_display": "14.09.2026 · 13:11 Uhr"
-    },
-    {
-      "title": "Schiffsunfall: Kollision mit Eisenbahnbrücke: Zwei Autos mit Totalschaden",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/kollision-mit-eisenbahnbruecke-zwei-autos-mit-totalschaden-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/kollision-mit-eisenbahnbruecke-zwei-autos-mit-totalschaden",
-      "published": "Mon, 14 Sep 2026 13:10:53 -0000",
-      "published_display": "14.09.2026 · 13:10 Uhr"
-    },
-    {
-      "title": "Im Wald gehaust: Mutmaßliche Waffen in Videos präsentiert - Mann in U-Haft",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/mutmassliche-waffen-in-videos-praesentiert-mann-in-u-haft-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/mutmassliche-waffen-in-videos-praesentiert-mann-in-u-haft",
-      "published": "Mon, 14 Sep 2026 13:10:02 -0000",
-      "published_display": "14.09.2026 · 13:10 Uhr"
-    },
-    {
-      "title": "Halbleiterproduktion: Richtfest für neue Dresdner Mikrochip-Fabrik - «Meilenstein»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/richtfest-fuer-neue-dresdner-mikrochip-fabrik-meilenstein-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/richtfest-fuer-neue-dresdner-mikrochip-fabrik-meilenstein",
-      "published": "Mon, 14 Sep 2026 13:08:09 -0000",
-      "published_display": "14.09.2026 · 13:08 Uhr"
-    },
-    {
-      "title": "Kinder und Jugendliche wählen: Erste U16-Wahl in Berlin: Linke vor Grünen und SPD",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/erste-u16-wahl-in-berlin-linke-vor-gruenen-und-spd-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/erste-u16-wahl-in-berlin-linke-vor-gruenen-und-spd",
-      "published": "Mon, 14 Sep 2026 13:04:58 -0000",
-      "published_display": "14.09.2026 · 13:04 Uhr"
-    },
-    {
-      "title": "Notfälle: Schüler klagen über Unwohlsein - Großeinsatz in Dresden",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/schueler-klagen-ueber-unwohlsein-grosseinsatz-in-dresden-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/schueler-klagen-ueber-unwohlsein-grosseinsatz-in-dresden",
-      "published": "Mon, 14 Sep 2026 13:01:43 -0000",
-      "published_display": "14.09.2026 · 13:01 Uhr"
     }
   ]
 }
