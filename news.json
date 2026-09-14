@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-14T22:55:40.589859+00:00",
+  "updated": "2026-09-14T23:15:53.405060+00:00",
   "items": [
+    {
+      "title": "Krieg gegen die Ukraine: EU verschiebt Verlängerung der Russlandsanktionen",
+      "summary": "Über Sanktionen soll verspätet entschieden werden. Frankreich will Oligarch Usmanow von der Liste streichen. Ukraines Bahnverkehr wird verstärkt angegriffen. Das Liveblog",
+      "image": "https://img.zeit.de/politik/ausland/ukraine-krieg-news-russland-danktionen-liveblog-bild-2/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "published": "Mon, 14 Sep 2026 23:00:23 -0000",
+      "published_display": "14.09.2026 · 23:00 Uhr"
+    },
     {
       "title": "Nato-Ostflanke: Kampfflugzeuge schießen Drohne über Litauen ab",
       "summary": "",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/14/hoeness-erklaert-eberl-wende-eigenbroetlerdasein-abgelegt",
       "published": "Mon, 14 Sep 2026 19:39:10 -0000",
       "published_display": "14.09.2026 · 19:39 Uhr"
-    },
-    {
-      "title": "Mode: Designer der Stars - Bob Mackie ist tot",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/designer-der-stars-bob-mackie-ist-tot-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/designer-der-stars-bob-mackie-ist-tot",
-      "published": "Mon, 14 Sep 2026 19:25:19 -0000",
-      "published_display": "14.09.2026 · 19:25 Uhr"
     }
   ]
 }
