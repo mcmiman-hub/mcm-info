@@ -1,14 +1,30 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-14T04:47:07.579273+00:00",
+  "updated": "2026-09-14T04:57:00.718713+00:00",
   "items": [
+    {
+      "title": "Sachbeschädigung: Graffiti und eingeschlagene Fensterscheiben an Grundschule",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/graffiti-und-eingeschlagene-fensterscheiben-an-grundschule-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/graffiti-und-eingeschlagene-fensterscheiben-an-grundschule",
+      "published": "Mon, 14 Sep 2026 04:54:35 -0000",
+      "published_display": "14.09.2026 · 04:54 Uhr"
+    },
+    {
+      "title": "Tödlicher Unfall: 30-jähriger Autofahrer stirbt bei Verkehrsunfall",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/30-jaehriger-autofahrer-stirbt-bei-verkehrsunfall-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/30-jaehriger-autofahrer-stirbt-bei-verkehrsunfall",
+      "published": "Mon, 14 Sep 2026 04:49:57 -0000",
+      "published_display": "14.09.2026 · 04:49 Uhr"
+    },
     {
       "title": "Kommunalwahl in Niedersachsen: CDU gewinnt Kommunalwahl in Niedersachsen - AfD auf Rang 3",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-09/14/cdu-gewinnt-kommunalwahl-in-niedersachsen-afd-auf-rang-3-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-09/14/cdu-gewinnt-kommunalwahl-in-niedersachsen-afd-auf-rang-3",
-      "published": "Mon, 14 Sep 2026 04:44:18 -0000",
-      "published_display": "14.09.2026 · 04:44 Uhr"
+      "published": "Mon, 14 Sep 2026 04:46:48 -0000",
+      "published_display": "14.09.2026 · 04:46 Uhr"
     },
     {
       "title": "Noch vor Weihnachten im Kino: «Digger», «Dune», «Doomsday»: Kino-Highlights bis zum Fest",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/politik/2026-09/kommunalwahl-niedersachsen-afd-vw-nachrichtenpodcast",
       "published": "Mon, 14 Sep 2026 04:01:26 -0000",
       "published_display": "14.09.2026 · 04:01 Uhr"
-    },
-    {
-      "title": "Elbvertiefung: Der tägliche Newsletter aus Hamburg: Müssen Autos Lärm machen?",
-      "summary": "Die Elbvertiefung am Montag – Mit neuen Zweifeln am Elbtower, einer Demo gegen Rechts und einer Analyse der Unfälle im Linienbusverkehr",
-      "image": "https://img.zeit.de/2026-09/foto-14-09-2026-6/original__640x360",
-      "link": "https://www.zeit.de/hamburg/2026-09/elbvertiefung-14-09-2026",
-      "published": "Mon, 14 Sep 2026 04:00:06 -0000",
-      "published_display": "14.09.2026 · 04:00 Uhr"
-    },
-    {
-      "title": "Bundesligarückschau: Freiburg, wo die Sonne scheint",
-      "summary": "Der neue Tabellenführer aus Freiburg tut etwas dem Rest der Liga völlig Fremdes: Er spielt verlässlichen, fleißigen, klaren Fußball. Alles vom dritten Spieltag",
-      "image": "https://img.zeit.de/sport/2026-09/sc-freiburg/original__640x360",
-      "link": "https://www.zeit.de/sport/2026-09/bundesliga-rueckschau-sc-freiburg-elversberg-bayern",
-      "published": "Mon, 14 Sep 2026 03:45:50 -0000",
-      "published_display": "14.09.2026 · 03:45 Uhr"
     }
   ]
 }
