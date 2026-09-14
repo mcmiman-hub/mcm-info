@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-14T01:44:09.209572+00:00",
+  "updated": "2026-09-14T01:56:30.879814+00:00",
   "items": [
+    {
+      "title": "Grüne und CDU in Stichwahl: SPD verliert Göttinger Rathaus",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/13/spd-verliert-goettinger-rathaus-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/13/spd-verliert-goettinger-rathaus",
+      "published": "Mon, 14 Sep 2026 01:49:07 -0000",
+      "published_display": "14.09.2026 · 01:49 Uhr"
+    },
     {
       "title": "Parlamentswahl: Wahlkrimi ohne Ende: Wer kann Schweden regieren?",
       "summary": "",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/politik/deutschland/2026-09/kommunalwahl-niedersachsen-oberbuergermeister-wolfsburg-hannover-cdu",
       "published": "Sun, 13 Sep 2026 23:31:12 -0000",
       "published_display": "13.09.2026 · 23:31 Uhr"
-    },
-    {
-      "title": "Kommunalwahl in Niedersachsen: Bender und Junk in Stichwahl um Spitze der Region Hannover",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/bender-und-junk-in-stichwahl-um-spitze-der-region-hannover-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/bender-und-junk-in-stichwahl-um-spitze-der-region-hannover",
-      "published": "Sun, 13 Sep 2026 23:26:42 -0000",
-      "published_display": "13.09.2026 · 23:26 Uhr"
     }
   ]
 }
