@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-14T18:59:06.234282+00:00",
+  "updated": "2026-09-14T19:17:45.557355+00:00",
   "items": [
+    {
+      "title": "Unfall: Streifenwagen fährt über Rot und prallt mit Auto zusammen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/streifenwagen-faehrt-ueber-rot-und-prallt-mit-auto-zusammen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/streifenwagen-faehrt-ueber-rot-und-prallt-mit-auto-zusammen",
+      "published": "Mon, 14 Sep 2026 19:08:39 -0000",
+      "published_display": "14.09.2026 · 19:08 Uhr"
+    },
     {
       "title": "2. Fußball-Bundesliga: Hannover 96 trennt sich von Trainer Titz",
       "summary": "",
@@ -27,8 +35,8 @@
       "published_display": "14.09.2026 · 18:46 Uhr"
     },
     {
-      "title": "Medienpolitik: Erst der MDR, dann ARD und ZDF?",
-      "summary": "Was, wenn die AfD in Sachsen-Anhalt die Regierung übernimmt – und den Rundfunkstaatsvertrag mit dem MDR aufkündigt? Juristen beschreiben vier Szenarien.",
+      "title": "Medienpolitik: Was machen wir, wenn sie was hinkriegen?",
+      "summary": "Wenn die AfD in Sachsen-Anhalt regiert will sie ihr erstes Wahlversprechen einlösen: den Rundfunkstaatsvertrag mit dem MDR kündigen. Juristen beschreiben vier Szenarien.",
       "image": "https://img.zeit.de/wirtschaft/2026-09/medienpolitik-rundfunk-mdr-afd-juristen-bild/original__640x360",
       "link": "https://www.zeit.de/wirtschaft/2026-09/medienpolitik-rundfunk-mdr-afd-juristen",
       "published": "Mon, 14 Sep 2026 18:40:17 -0000",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/14/zwei-tote-bei-autounfall-im-landkreis-birkenfeld",
       "published": "Mon, 14 Sep 2026 17:52:59 -0000",
       "published_display": "14.09.2026 · 17:52 Uhr"
-    },
-    {
-      "title": "Fotografie: Bilder des Tages",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/bilder-des-tages-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/bilder-des-tages",
-      "published": "Mon, 14 Sep 2026 17:51:38 -0000",
-      "published_display": "14.09.2026 · 17:51 Uhr"
     }
   ]
 }
