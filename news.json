@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-14T02:31:36.553724+00:00",
+  "updated": "2026-09-14T02:45:07.708997+00:00",
   "items": [
+    {
+      "title": "Schuljahresstart: Lehrergespräch und Brotzeitbox: Die Pflichten der Eltern",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/lehrergespraech-und-brotzeitbox-die-pflichten-der-eltern-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/lehrergespraech-und-brotzeitbox-die-pflichten-der-eltern",
+      "published": "Mon, 14 Sep 2026 02:30:07 -0000",
+      "published_display": "14.09.2026 · 02:30 Uhr"
+    },
+    {
+      "title": "Keine Meldepflicht: Shamonda-Virus bei Rindern in NRW nachgewiesen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/shamonda-virus-bei-rindern-in-nrw-nachgewiesen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/shamonda-virus-bei-rindern-in-nrw-nachgewiesen",
+      "published": "Mon, 14 Sep 2026 02:30:04 -0000",
+      "published_display": "14.09.2026 · 02:30 Uhr"
+    },
     {
       "title": "Unfälle: Alkoholverdacht beim Fahrer: Kind bei Unfall schwer verletzt",
       "summary": "",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/14/schwesig-fordert-beteiligung-der-laender-an-sozialreformen",
       "published": "Mon, 14 Sep 2026 02:00:04 -0000",
       "published_display": "14.09.2026 · 02:00 Uhr"
-    },
-    {
-      "title": "Grüne und CDU in Stichwahl: SPD verliert Göttinger Rathaus",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/13/spd-verliert-goettinger-rathaus-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/13/spd-verliert-goettinger-rathaus",
-      "published": "Mon, 14 Sep 2026 01:49:07 -0000",
-      "published_display": "14.09.2026 · 01:49 Uhr"
-    },
-    {
-      "title": "Parlamentswahl: Wahlkrimi ohne Ende: Wer kann Schweden regieren?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/wahlkrimi-ohne-ende-wer-kann-schweden-regieren-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/wahlkrimi-ohne-ende-wer-kann-schweden-regieren",
-      "published": "Mon, 14 Sep 2026 01:31:25 -0000",
-      "published_display": "14.09.2026 · 01:31 Uhr"
     }
   ]
 }
