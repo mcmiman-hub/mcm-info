@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-14T23:42:20.327380+00:00",
+  "updated": "2026-09-14T23:54:25.839049+00:00",
   "items": [
+    {
+      "title": "«PCD Forever»-Tour: Pussycat Dolls heizen Olympiahalle ein - 8.500 Fans jubeln",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/pussycat-dolls-heizen-olympiahalle-ein-8-500-fans-jubeln-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/pussycat-dolls-heizen-olympiahalle-ein-8-500-fans-jubeln",
+      "published": "Mon, 14 Sep 2026 23:43:34 -0000",
+      "published_display": "14.09.2026 · 23:43 Uhr"
+    },
     {
       "title": "Irankrieg: Schifffahrtsbehörde meldet mehrere brennende Schiffe in der Golfregion",
       "summary": "Im Norden des Persischen Golfs und im Golf von Oman sind Schiffe in Brand geraten. USA sanktionieren Russlands zweitgrößte Bank wegen Iranbeziehungen. Das Liveblog",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-09/flughafen-catania-schliessung-vulkan-aetna-sizilien",
       "published": "Mon, 14 Sep 2026 20:36:15 -0000",
       "published_display": "14.09.2026 · 20:36 Uhr"
-    },
-    {
-      "title": "Geopolitik in der Arktis: Arktisgipfel fordert größeres Engagement der EU in der Region",
-      "summary": "Beim EU-Arktis-Gipfel in Finnland haben europäische Länder über die Strategie in der Region beraten. In der Abschlusserklärung fordern sie eine stärkere Präsenz der EU.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/arktis-eu-russland-geopolitik-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/arktis-eu-russland-geopolitik",
-      "published": "Mon, 14 Sep 2026 20:20:45 -0000",
-      "published_display": "14.09.2026 · 20:20 Uhr"
     }
   ]
 }
