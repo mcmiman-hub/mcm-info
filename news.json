@@ -1,7 +1,71 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-14T08:20:15.007107+00:00",
+  "updated": "2026-09-14T08:34:59.044777+00:00",
   "items": [
+    {
+      "title": "Scheiben zu Bruch gegangen: Wieder Explosion in Frankfurt - Festnahme nach früherer Tat",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/wieder-explosion-in-frankfurt-festnahme-nach-frueherer-tat-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/wieder-explosion-in-frankfurt-festnahme-nach-frueherer-tat",
+      "published": "Mon, 14 Sep 2026 08:32:38 -0000",
+      "published_display": "14.09.2026 · 08:32 Uhr"
+    },
+    {
+      "title": "Studie zu Wohneigentum: Wohneigentumsquote in Deutschland auf neuem Tiefstand",
+      "summary": "Der Anteil der Wohneigentümer in Deutschland ist so niedrig wie seit 20 Jahren nicht mehr. Hauptgründe sind laut einer Studie hohe Baukosten – und die Politik.",
+      "image": "https://img.zeit.de/wirtschaft/2026-09/wohneigentum-deutschland-eigentumsquote-pestel-studie-baukindergeld-foto-1/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/2026-09/wohneigentum-deutschland-eigentumsquote-pestel-studie-baukindergeld",
+      "published": "Mon, 14 Sep 2026 08:31:04 -0000",
+      "published_display": "14.09.2026 · 08:31 Uhr"
+    },
+    {
+      "title": "Energiekosten: Millionen Haushalte können Strom und Gas nicht bezahlen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/millionen-haushalte-koennen-strom-und-gas-nicht-bezahlen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/millionen-haushalte-koennen-strom-und-gas-nicht-bezahlen",
+      "published": "Mon, 14 Sep 2026 08:28:00 -0000",
+      "published_display": "14.09.2026 · 08:28 Uhr"
+    },
+    {
+      "title": "Ex-Partner in U-Haft: Gewaltsamer Tod von 50-Jähriger: Polizei sucht nach Motiv",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/gewaltsamer-tod-von-50-jaehriger-polizei-sucht-nach-motiv-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/gewaltsamer-tod-von-50-jaehriger-polizei-sucht-nach-motiv",
+      "published": "Mon, 14 Sep 2026 08:21:55 -0000",
+      "published_display": "14.09.2026 · 08:21 Uhr"
+    },
+    {
+      "title": "Ermittlungen aufgenommen: 84-Jährige bei Brand in Pflegeheim schwer verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/84-jaehrige-bei-brand-in-pflegeheim-schwer-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/84-jaehrige-bei-brand-in-pflegeheim-schwer-verletzt",
+      "published": "Mon, 14 Sep 2026 08:21:45 -0000",
+      "published_display": "14.09.2026 · 08:21 Uhr"
+    },
+    {
+      "title": "Grausiger Fund in Auto: Fund von Frauenleiche: Kommt es jetzt zum Mordprozess?",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/fund-von-frauenleiche-kommt-es-jetzt-zum-mordprozess-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/fund-von-frauenleiche-kommt-es-jetzt-zum-mordprozess",
+      "published": "Mon, 14 Sep 2026 08:20:35 -0000",
+      "published_display": "14.09.2026 · 08:20 Uhr"
+    },
+    {
+      "title": "Künstliche Intelligenz: China kritisiert Warnung von Techbossen vor KI-Entwicklung",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/ki-werte-leiden-unter-debatte-ueber-entwicklungstempo-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/ki-werte-leiden-unter-debatte-ueber-entwicklungstempo",
+      "published": "Mon, 14 Sep 2026 08:20:24 -0000",
+      "published_display": "14.09.2026 · 08:20 Uhr"
+    },
+    {
+      "title": "Gedenken an CSD-Attentat: Zerstörte Regenbogenbank wieder aufgestellt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/zerstoerte-regenbogenbank-wieder-aufgestellt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/zerstoerte-regenbogenbank-wieder-aufgestellt",
+      "published": "Mon, 14 Sep 2026 08:18:30 -0000",
+      "published_display": "14.09.2026 · 08:18 Uhr"
+    },
     {
       "title": "Iran-Krieg: Kein Treffen zur Straße von Hormus – was steckt dahinter?",
       "summary": "",
@@ -57,70 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/14/nach-schmerz-und-pein-briefe-von-holocaust-ueberlebenden",
       "published": "Mon, 14 Sep 2026 07:35:05 -0000",
       "published_display": "14.09.2026 · 07:35 Uhr"
-    },
-    {
-      "title": "Gefahren durch KI: KI-Werte leiden unter Debatte über Entwicklungstempo",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/ki-werte-leiden-unter-debatte-ueber-entwicklungstempo-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/ki-werte-leiden-unter-debatte-ueber-entwicklungstempo",
-      "published": "Mon, 14 Sep 2026 07:33:27 -0000",
-      "published_display": "14.09.2026 · 07:33 Uhr"
-    },
-    {
-      "title": "Scheiben zu Bruch gegangen: Wieder Explosion in Frankfurt - Festnahme nach früherer Tat",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/wieder-explosion-in-frankfurt-festnahme-nach-frueherer-tat-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/wieder-explosion-in-frankfurt-festnahme-nach-frueherer-tat",
-      "published": "Mon, 14 Sep 2026 07:31:16 -0000",
-      "published_display": "14.09.2026 · 07:31 Uhr"
-    },
-    {
-      "title": "WM in Berlin: «Macherinnen» in Tränen: Was vom Basketball-Fest bleibt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/katastrophal-basketball-chefcoach-zerlegt-heimische-liga-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/katastrophal-basketball-chefcoach-zerlegt-heimische-liga",
-      "published": "Mon, 14 Sep 2026 07:21:04 -0000",
-      "published_display": "14.09.2026 · 07:21 Uhr"
-    },
-    {
-      "title": "Brände: Fünfzehn Menschen retten sich vor Feuer im Mehrfamilienhaus",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/fuenfzehn-menschen-retten-sich-vor-feuer-im-mehrfamilienhaus-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/fuenfzehn-menschen-retten-sich-vor-feuer-im-mehrfamilienhaus",
-      "published": "Mon, 14 Sep 2026 07:18:57 -0000",
-      "published_display": "14.09.2026 · 07:18 Uhr"
-    },
-    {
-      "title": "Formel-1-Titelkampf: Zermürbte Verfolger geben auf: Wann krönt sich Antonelli?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/zermuerbte-verfolger-geben-auf-wann-kroent-sich-antonelli-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/zermuerbte-verfolger-geben-auf-wann-kroent-sich-antonelli",
-      "published": "Mon, 14 Sep 2026 07:17:12 -0000",
-      "published_display": "14.09.2026 · 07:17 Uhr"
-    },
-    {
-      "title": "Fotografie: Bilder des Tages",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/bilder-des-tages-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/bilder-des-tages",
-      "published": "Mon, 14 Sep 2026 07:12:00 -0000",
-      "published_display": "14.09.2026 · 07:12 Uhr"
-    },
-    {
-      "title": "Warmer Dienstag: Bis zu 28 Grad: Spätsommer in NRW",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/bis-zu-28-grad-spaetsommer-in-nrw-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/bis-zu-28-grad-spaetsommer-in-nrw",
-      "published": "Mon, 14 Sep 2026 07:07:57 -0000",
-      "published_display": "14.09.2026 · 07:07 Uhr"
-    },
-    {
-      "title": "Ukrainekarte aktuell: Russische Armee besetzt zwei Dörfer in der Region Saporischschja",
-      "summary": "Westlich der Stadt Orichiw haben russische Truppen zwei Dörfer eingenommen. Ukrainische Soldaten sind in den Regionen Saporischschja und Donezk vorgestoßen.",
-      "image": "https://img.zeit.de/politik/ausland/2023-09/karte-ukraine-krieg-russland-frontverlauf-truppenbewegungen-teaserbild/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/ukraine-russland-frontverlauf-krieg-karte-aktuell",
-      "published": "Mon, 14 Sep 2026 07:06:04 -0000",
-      "published_display": "14.09.2026 · 07:06 Uhr"
     }
   ]
 }
