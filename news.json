@@ -1,7 +1,79 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-14T17:56:32.699894+00:00",
+  "updated": "2026-09-14T18:20:37.313686+00:00",
   "items": [
+    {
+      "title": "Fund bei Bauarbeiten: Weltkriegsbombe in Elsterwerda wird am Dienstag entschärft",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/weltkriegsbombe-in-elsterwerda-wird-am-dienstag-entschaerft-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/weltkriegsbombe-in-elsterwerda-wird-am-dienstag-entschaerft",
+      "published": "Mon, 14 Sep 2026 18:17:52 -0000",
+      "published_display": "14.09.2026 · 18:17 Uhr"
+    },
+    {
+      "title": "Gesicht und KI: Erklärt das Gesicht zum Kunstwerk!",
+      "summary": "Deepfakes, illegale Datenbanken, generierte Avatare: Kein Gesicht ist heute mehr sicher vor digitalem Missbrauch. Doch es gibt eine Lösung, die uns alle schützen würde.",
+      "image": "https://img.zeit.de/2026/38/was-fuer-ein-gesichtsverlust-bild-5/original__640x360",
+      "link": "https://www.zeit.de/2026/38/gesicht-ki-deepfakes-rechtlicher-schutz-digitale-zwillinge",
+      "published": "Mon, 14 Sep 2026 18:15:14 -0000",
+      "published_display": "14.09.2026 · 18:15 Uhr"
+    },
+    {
+      "title": "Brand in Gewerbegebiet: Entwarnung nach Großbrand auf Recyclinghof in Herdecke",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/grossbrand-auf-recyclinghof-in-herdecke-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/grossbrand-auf-recyclinghof-in-herdecke",
+      "published": "Mon, 14 Sep 2026 18:13:37 -0000",
+      "published_display": "14.09.2026 · 18:13 Uhr"
+    },
+    {
+      "title": "Leute: «Free Palestine»-Rufe: Aus für Macklemore bei Sheeran-Tour",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/free-palestine-rufe-aus-fuer-macklemore-bei-sheeran-tour-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/free-palestine-rufe-aus-fuer-macklemore-bei-sheeran-tour",
+      "published": "Mon, 14 Sep 2026 18:12:47 -0000",
+      "published_display": "14.09.2026 · 18:12 Uhr"
+    },
+    {
+      "title": "Krieg gegen die Ukraine: Trump kündigt Angriffsstopp an, Selenskyj zeigt sich skeptisch",
+      "summary": "Laut US-Präsident Trump gilt bald ein Angriffsstopp für Energieanlagen. Der ukrainische Präsident Selenskyj glaubt nicht, dass Russland die Attacken stoppt. Das Liveblog",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/ukraine-krieg-news-liveblog-bild-5/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "published": "Mon, 14 Sep 2026 18:11:36 -0000",
+      "published_display": "14.09.2026 · 18:11 Uhr"
+    },
+    {
+      "title": "Klimaschutz: USA heben Emissionsgrenzen für fossile Kraftwerke auf",
+      "summary": "Die USA weichen weiter Klimaschutzvorschriften aus den Biden- und Obama-Jahren auf. In Zukunft dürfen Kohle- und Erdgaskraftwerke grenzenlos Emissionen ausstoßen.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/epa-emissionsgrenzen-klimaschutz-kohle-erdgaskraftwerke-lee-zeldin-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/epa-emissionsgrenzen-klimaschutz-kohle-erdgaskraftwerke-lee-zeldin",
+      "published": "Mon, 14 Sep 2026 18:03:25 -0000",
+      "published_display": "14.09.2026 · 18:03 Uhr"
+    },
+    {
+      "title": "Fußball: Rekordserie hält: Bayern-Frauen drehen Spiel in Leverkusen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/rekordserie-haelt-bayern-frauen-drehen-spiel-in-leverkusen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/rekordserie-haelt-bayern-frauen-drehen-spiel-in-leverkusen",
+      "published": "Mon, 14 Sep 2026 18:02:21 -0000",
+      "published_display": "14.09.2026 · 18:02 Uhr"
+    },
+    {
+      "title": "Berlin-Wahl: Pistorius stellt sich trotz Ermittlungen hinter Berlin-Kandidat Krach",
+      "summary": "Verteidigungsminister Boris Pistorius macht in Berlin Wahlkampf mit Steffen Krach. Er geht davon aus, dass die Ermittlungen gegen Krach zur Entlastung führen werden.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/steffen-krach-spd-berlin-ermittlungen-boris-pistorius-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/steffen-krach-spd-berlin-ermittlungen-boris-pistorius",
+      "published": "Mon, 14 Sep 2026 18:01:47 -0000",
+      "published_display": "14.09.2026 · 18:01 Uhr"
+    },
+    {
+      "title": "Krieg gegen die Ukraine: EU streitet über Verlängerung von Sanktionspaket für Russland",
+      "summary": "Am Dienstag läuft ein Sanktionspaket gegen Russland aus. Die EU ist uneins und verlängert es nur um wenige Tage. Berichten zufolge soll es um einen Oligarchen gehen.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/eu-russland-sanktionen-alischer-usmanow-slowakei-frankreich-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/eu-russland-sanktionen-alischer-usmanow-slowakei-frankreich",
+      "published": "Mon, 14 Sep 2026 17:59:30 -0000",
+      "published_display": "14.09.2026 · 17:59 Uhr"
+    },
     {
       "title": "Ursache unklar: Zwei Tote bei Autounfall im Landkreis Birkenfeld",
       "summary": "",
@@ -35,14 +107,6 @@
       "published_display": "14.09.2026 · 17:47 Uhr"
     },
     {
-      "title": "Krieg gegen die Ukraine: EU streitet über Verlängerung von Sanktionspaket für Russland",
-      "summary": "Morgen läuft ein Sanktionspaket gegen Russland aus. Die EU wird sich nicht einig und verlängert es nur wenige Tage. Berichten zufolge soll es um einen Oligarchen gehen.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/eu-russland-sanktionen-alischer-usmanow-slowakei-frankreich-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/eu-russland-sanktionen-alischer-usmanow-slowakei-frankreich",
-      "published": "Mon, 14 Sep 2026 17:37:02 -0000",
-      "published_display": "14.09.2026 · 17:37 Uhr"
-    },
-    {
       "title": "Kosten: Tierpark Hellabrunn erhöht Eintrittspreise",
       "summary": "",
       "image": "https://img.zeit.de/administratives/sharing/fallback-image-die-zeit/wide__1300x731",
@@ -57,70 +121,6 @@
       "link": "https://www.zeit.de/zeit-verbrechen/2026/40/brandstiftung-durch-feuerwehrmann-odenwald-ermittlung",
       "published": "Mon, 14 Sep 2026 17:30:20 -0000",
       "published_display": "14.09.2026 · 17:30 Uhr"
-    },
-    {
-      "title": "Meerenge Bab al-Mandeb: »Die Preise für Diesel und Benzin werden noch weiter steigen«",
-      "summary": "Erst die Straße von Hormus, nun das Rote Meer: Der Ölmarktexperte Richard Bronze hat klare Prognosen, wie sich die aktuellen Blockaden auswirken. Auch für Verbraucher.",
-      "image": "https://img.zeit.de/wirtschaft/2026-09/bab-al-mandeb-huthis-inseln-uebernahme-oeltransporte-bild/original__640x360",
-      "link": "https://www.zeit.de/wirtschaft/2026-09/meerenge-bab-al-mandeb-huthis-inseln-uebernahme-oeltransporte",
-      "published": "Mon, 14 Sep 2026 17:26:22 -0000",
-      "published_display": "14.09.2026 · 17:26 Uhr"
-    },
-    {
-      "title": "Landkreis Ludwigslust-Parchim: Auto überschlägt sich – Fahrerin schwer verletzt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/auto-ueberschlaegt-sich-fahrerin-schwer-verletzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/auto-ueberschlaegt-sich-fahrerin-schwer-verletzt",
-      "published": "Mon, 14 Sep 2026 17:21:50 -0000",
-      "published_display": "14.09.2026 · 17:21 Uhr"
-    },
-    {
-      "title": "Synagoge wiedereröffnet: Sichtbares jüdisches Leben: Synagoge feiert Wiedereröffnung",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/sichtbares-juedisches-leben-synagoge-feiert-wiedereroeffnung-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/sichtbares-juedisches-leben-synagoge-feiert-wiedereroeffnung",
-      "published": "Mon, 14 Sep 2026 17:19:30 -0000",
-      "published_display": "14.09.2026 · 17:19 Uhr"
-    },
-    {
-      "title": "Verdacht auf Tötung: Bundespolizisten fassen gesuchtes Paar bei Grenzkontrolle",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/bundespolizisten-fassen-gesuchtes-paar-bei-grenzkontrolle-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/bundespolizisten-fassen-gesuchtes-paar-bei-grenzkontrolle",
-      "published": "Mon, 14 Sep 2026 17:16:48 -0000",
-      "published_display": "14.09.2026 · 17:16 Uhr"
-    },
-    {
-      "title": "Krieg gegen die Ukraine: Trump kündigt Angriffsstopp an, Selenskyj zeigt sich skeptisch",
-      "summary": "Laut US-Präsident Trump gilt bald ein Angriffsstopp für Energieanlagen. Der ukrainische Präsident Selenskyj glaubt nicht, dass Russland die Attacken stoppt. Das Liveblog",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/ukraine-krieg-news-liveblog-bild-5/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "published": "Mon, 14 Sep 2026 17:10:48 -0000",
-      "published_display": "14.09.2026 · 17:10 Uhr"
-    },
-    {
-      "title": "Commerzbank-Übernahme: Bund will trotz möglicher Übernahme Anteile an Commerzbank halten",
-      "summary": "Die Commerzbank verhandelt mit der italienischen UniCredit über eine Übernahme. Die Bundesregierung ist Commerzbank-Aktionär und formuliert Erwartungen.",
-      "image": "https://img.zeit.de/wirtschaft/2026-09/commerzbank-uebernahme-unicredit-bund-lars-klingbeil-frankfurt-foto-1/original__640x360",
-      "link": "https://www.zeit.de/wirtschaft/2026-09/commerzbank-uebernahme-unicredit-bund-lars-klingbeil-frankfurt",
-      "published": "Mon, 14 Sep 2026 17:01:44 -0000",
-      "published_display": "14.09.2026 · 17:01 Uhr"
-    },
-    {
-      "title": "Neue Erhebung: Kopf-an-Kopf-Rennen in Umfrage vor Berlin-Wahl",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/kopf-an-kopf-rennen-in-umfrage-vor-berlin-wahl-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/kopf-an-kopf-rennen-in-umfrage-vor-berlin-wahl",
-      "published": "Mon, 14 Sep 2026 17:00:45 -0000",
-      "published_display": "14.09.2026 · 17:00 Uhr"
-    },
-    {
-      "title": "Banken: Klingbeil pocht auf Bedingungen für Commerzbank-Übernahme",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/klingbeil-pocht-auf-bedingungen-fuer-commerzbank-uebernahme-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/klingbeil-pocht-auf-bedingungen-fuer-commerzbank-uebernahme",
-      "published": "Mon, 14 Sep 2026 16:57:19 -0000",
-      "published_display": "14.09.2026 · 16:57 Uhr"
     }
   ]
 }
