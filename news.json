@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-14T07:57:32.593241+00:00",
+  "updated": "2026-09-14T08:20:15.007107+00:00",
   "items": [
+    {
+      "title": "Iran-Krieg: Kein Treffen zur Straße von Hormus – was steckt dahinter?",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/kein-treffen-zur-strasse-von-hormus-was-steckt-dahinter-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/kein-treffen-zur-strasse-von-hormus-was-steckt-dahinter",
+      "published": "Mon, 14 Sep 2026 08:17:40 -0000",
+      "published_display": "14.09.2026 · 08:17 Uhr"
+    },
+    {
+      "title": "Wolfram Weimer: Wolfram Weimer, übersteht das die CDU? Und Friedrich Merz?",
+      "summary": "Er ist Kulturstaatsminister – vermutlich der umstrittenste jemals. Im Podcast spricht er über eigene Fehler, seine Freundschaft mit dem Kanzler und den Erfolg der AfD.",
+      "image": "https://img.zeit.de/politik/2026-09/wolfram-weimer-interviewpodcast-alles-gesagt-final-aufmacher/original__640x360",
+      "link": "https://www.zeit.de/politik/2026-09/wolfram-weimer-interviewpodcast-alles-gesagt",
+      "published": "Mon, 14 Sep 2026 08:01:26 -0000",
+      "published_display": "14.09.2026 · 08:01 Uhr"
+    },
     {
       "title": "Unfall: Lkw umgekippt: Langer Stau auf Autobahn bei Trier",
       "summary": "",
@@ -9,14 +25,6 @@
       "link": "https://www.zeit.de/news/2026-09/14/lkw-umgekippt-langer-stau-auf-autobahn-bei-trier",
       "published": "Mon, 14 Sep 2026 07:53:51 -0000",
       "published_display": "14.09.2026 · 07:53 Uhr"
-    },
-    {
-      "title": "Iran-Krieg: Kein Treffen zur Straße von Hormus – was steckt dahinter?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/kein-treffen-zur-strasse-von-hormus-was-steckt-dahinter-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/kein-treffen-zur-strasse-von-hormus-was-steckt-dahinter",
-      "published": "Mon, 14 Sep 2026 07:51:15 -0000",
-      "published_display": "14.09.2026 · 07:51 Uhr"
     },
     {
       "title": "Nato: Reservistenverband will Nato-Informationen aus Sachsen-Anhalt abziehen",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/politik/ausland/ukraine-russland-frontverlauf-krieg-karte-aktuell",
       "published": "Mon, 14 Sep 2026 07:06:04 -0000",
       "published_display": "14.09.2026 · 07:06 Uhr"
-    },
-    {
-      "title": "Geburtsstatistik: Zahl der Geburten in Sachsen weiter rückläufig",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/zahl-der-geburten-in-sachsen-weiter-ruecklaeufig-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/zahl-der-geburten-in-sachsen-weiter-ruecklaeufig",
-      "published": "Mon, 14 Sep 2026 07:00:52 -0000",
-      "published_display": "14.09.2026 · 07:00 Uhr"
     }
   ]
 }
