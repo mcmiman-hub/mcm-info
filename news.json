@@ -1,7 +1,39 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-14T05:44:27.380163+00:00",
+  "updated": "2026-09-14T05:55:48.512741+00:00",
   "items": [
+    {
+      "title": "Sanierung der Stuttgarter Oper: CDU-Fraktionschef warnt vor hohem Risiko bei Opernsanierung",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/cdu-fraktionschef-warnt-vor-hohem-risiko-bei-opernsanierung-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/cdu-fraktionschef-warnt-vor-hohem-risiko-bei-opernsanierung",
+      "published": "Mon, 14 Sep 2026 05:51:20 -0000",
+      "published_display": "14.09.2026 · 05:51 Uhr"
+    },
+    {
+      "title": "Midterms USA: Was wollen Amerikas Frauen?",
+      "summary": "Wählerinnen könnten die Midterms entscheiden. Während die Republikaner sie mit einer Hausfrauenprämie locken, prescht eine Demokratin in Sachen Frauenrechte voran.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/zwischenwahlen-usa-midterms-frauen-alexandria-ocasio-cortez-5vor8-bild-3/original__640x360",
+      "link": "https://www.zeit.de/politik/2026-09/amerika-frauen-midterms-demokraten-5vor8",
+      "published": "Mon, 14 Sep 2026 05:51:13 -0000",
+      "published_display": "14.09.2026 · 05:51 Uhr"
+    },
+    {
+      "title": "Filmfest: «Breitscheidplatz 19/12» feiert Weltpremiere in Toronto",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/breitscheidplatz-19-12-feiert-weltpremiere-in-toronto-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/breitscheidplatz-19-12-feiert-weltpremiere-in-toronto",
+      "published": "Mon, 14 Sep 2026 05:51:01 -0000",
+      "published_display": "14.09.2026 · 05:51 Uhr"
+    },
+    {
+      "title": "Pferdesport: Vogel verpasst den Grand-Slam-Jackpot mit einer Million Euro",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/vogel-verpasst-den-grand-slam-jackpot-mit-einer-million-euro-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/vogel-verpasst-den-grand-slam-jackpot-mit-einer-million-euro",
+      "published": "Mon, 14 Sep 2026 05:47:04 -0000",
+      "published_display": "14.09.2026 · 05:47 Uhr"
+    },
     {
       "title": "Keine Entspannung in Nahost: Ölpreise legen wieder zu - Gespräche im Oman verschoben",
       "summary": "",
@@ -89,38 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/14/39-jaehriger-mit-stichverletzung-am-bahnhof-gefunden",
       "published": "Mon, 14 Sep 2026 05:11:09 -0000",
       "published_display": "14.09.2026 · 05:11 Uhr"
-    },
-    {
-      "title": "Wetter: Heiterer Wochenstart: Bis zu 26 Grad und Gewitter",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/heiterer-wochenstart-bis-zu-26-grad-und-gewitter-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/heiterer-wochenstart-bis-zu-26-grad-und-gewitter",
-      "published": "Mon, 14 Sep 2026 05:07:41 -0000",
-      "published_display": "14.09.2026 · 05:07 Uhr"
-    },
-    {
-      "title": "Kommunalwahl in Niedersachsen: CDU gewinnt Kommunalwahl in Niedersachsen vor SPD",
-      "summary": "Bei der Wahl in Niedersachsen hat sich die CDU zwar verschlechtert, bleibt aber stärkste Kraft vor der SPD. Nur die AfD und die Linke haben ihre Ergebnisse verbessert.",
-      "image": "https://img.zeit.de/politik/2026-09/sebastian-lechner-cdu-niedersachsen/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/kommunalwahl-niedersachsen-oberbuergermeister-wolfsburg-hannover-cdu",
-      "published": "Mon, 14 Sep 2026 05:05:47 -0000",
-      "published_display": "14.09.2026 · 05:05 Uhr"
-    },
-    {
-      "title": "Wetter: Wechselhaftes Wetter in Berlin und Brandenburg erwartet",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/wechselhaftes-wetter-in-berlin-und-brandenburg-erwartet-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/wechselhaftes-wetter-in-berlin-und-brandenburg-erwartet",
-      "published": "Mon, 14 Sep 2026 05:03:52 -0000",
-      "published_display": "14.09.2026 · 05:03 Uhr"
-    },
-    {
-      "title": "Fußball-Bundesliga: Kandidaten und Baustellen: So geht es in Gladbach weiter",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/kandidaten-und-baustellen-so-geht-es-in-gladbach-weiter-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/kandidaten-und-baustellen-so-geht-es-in-gladbach-weiter",
-      "published": "Mon, 14 Sep 2026 05:02:04 -0000",
-      "published_display": "14.09.2026 · 05:02 Uhr"
     }
   ]
 }
