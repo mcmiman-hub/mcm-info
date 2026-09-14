@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-14T20:44:14.490442+00:00",
+  "updated": "2026-09-14T20:56:10.889593+00:00",
   "items": [
+    {
+      "title": "Korruption in der Ukraine: Ukrainischer Präsident Selenskyj entlässt Generalstaatsanwalt",
+      "summary": "Dem ukrainischen Generalstaatsanwalt Ruslan Krawtschenko wird Korruption im Zusammenhang mit betrügerischen Callcentern vorgeworfen. Nun hat Selenskyj ihn entlassen.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/generalstaatsanwalt-ukraine-ruslan-krawtschenko-korruption-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/generalstaatsanwalt-ukraine-ruslan-krawtschenko-korruption",
+      "published": "Mon, 14 Sep 2026 20:51:46 -0000",
+      "published_display": "14.09.2026 · 20:51 Uhr"
+    },
     {
       "title": "Sizilien: Flughafen von Catania wegen Ätna-Aktivität vorübergehend geschlossen",
       "summary": "Wegen erneuter vulkanischer Aktivität des Ätna sind alle Ankünfte und Abflüge am Flughafen Catania vorübergehend ausgesetzt. Die Sperrung gilt bis Dienstagvormittag.",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/2026/38/gesicht-ki-deepfakes-rechtlicher-schutz-digitale-zwillinge",
       "published": "Mon, 14 Sep 2026 18:15:14 -0000",
       "published_display": "14.09.2026 · 18:15 Uhr"
-    },
-    {
-      "title": "Brand in Gewerbegebiet: Entwarnung nach Großbrand auf Recyclinghof in Herdecke",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/grossbrand-auf-recyclinghof-in-herdecke-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/grossbrand-auf-recyclinghof-in-herdecke",
-      "published": "Mon, 14 Sep 2026 18:13:37 -0000",
-      "published_display": "14.09.2026 · 18:13 Uhr"
     }
   ]
 }
