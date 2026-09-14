@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-14T01:17:28.754919+00:00",
+  "updated": "2026-09-14T01:29:31.629608+00:00",
   "items": [
+    {
+      "title": "Pressestimmen zu Alexander Zverev: »Ein neuer König in New York«",
+      "summary": "Internationale Medien loben Alexander Zverev als einen der besten Spieler seiner Generation. Manche Beobachter sehnen sich dennoch nach Jannik Sinner und Carlos Alcaraz.",
+      "image": "https://img.zeit.de/sport/2026-09/alexander-zverev-us-open-grand-slam-internationale-presse-jannik-sinner-carlos-alcaraz-foto-1/original__640x360",
+      "link": "https://www.zeit.de/sport/2026-09/alexander-zverev-us-open-grand-slam-internationale-presse-jannik-sinner-carlos-alcaraz",
+      "published": "Mon, 14 Sep 2026 01:19:28 -0000",
+      "published_display": "14.09.2026 · 01:19 Uhr"
+    },
+    {
+      "title": "Nordkorea: Nordkorea bestätigt Abschuss ballistischer Raketen",
+      "summary": "Das nordkoreanische Militär hat nach eigenen Angaben mehrere Raketen und Drohnen getestet. Südkorea hatte die Militärübung zuvor gemeldet.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/nordkorea-angriffsuebung-artillerie-raketen-militaer-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/nordkorea-angriffsuebung-artillerie-raketen-militaer",
+      "published": "Mon, 14 Sep 2026 01:18:09 -0000",
+      "published_display": "14.09.2026 · 01:18 Uhr"
+    },
     {
       "title": "EU-Arktis-Gipfel: Finnlands Botschafter warnt vor Einfluss Chinas und Russlands",
       "summary": "Kai Sauer, finnischer Botschafter in Berlin, befürchtet gestiegenes Interesse Chinas und Russlands an neuen Seewegen in der Arktis. Er hofft, dass die EU darauf reagiere.",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/13/bewohner-springt-aus-brennender-wohnung-in-luftkissen",
       "published": "Sun, 13 Sep 2026 22:22:23 -0000",
       "published_display": "13.09.2026 · 22:22 Uhr"
-    },
-    {
-      "title": "Tennis: Zverev krönt sich zum US-Open-Sieger - und merkt es nicht",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/wie-becker-zverev-kroent-sich-zum-us-open-sieger-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/13/wie-becker-zverev-kroent-sich-zum-us-open-sieger",
-      "published": "Sun, 13 Sep 2026 22:20:53 -0000",
-      "published_display": "13.09.2026 · 22:20 Uhr"
-    },
-    {
-      "title": "US Open: Alexander Zverev gewinnt Finale der US Open",
-      "summary": "Der Deutsche hat sich gegen den US-Amerikaner Ben Shelton durchgesetzt. Damit rückt für Alexander Zverev erstmals der Spitzenplatz auf der Bestenliste in Reichweite.",
-      "image": "https://img.zeit.de/sport/2026-09/tennis-finale-us-open-zverev/original__640x360",
-      "link": "https://www.zeit.de/sport/2026-09/alexander-zverev-gewinnt-finale-der-us-open",
-      "published": "Sun, 13 Sep 2026 21:57:30 -0000",
-      "published_display": "13.09.2026 · 21:57 Uhr"
     }
   ]
 }
