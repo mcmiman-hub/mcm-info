@@ -1,11 +1,19 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-14T20:30:19.817610+00:00",
+  "updated": "2026-09-14T20:44:14.490442+00:00",
   "items": [
+    {
+      "title": "Sizilien: Flughafen von Catania wegen Ätna-Aktivität vorübergehend geschlossen",
+      "summary": "Wegen erneuter vulkanischer Aktivität des Ätna sind alle Ankünfte und Abflüge am Flughafen Catania vorübergehend ausgesetzt. Die Sperrung gilt bis Dienstagvormittag.",
+      "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-09/flughafen-catania-schliessung-vulkan-aetna-sizilien-foto-1/original__640x360",
+      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-09/flughafen-catania-schliessung-vulkan-aetna-sizilien",
+      "published": "Mon, 14 Sep 2026 20:36:15 -0000",
+      "published_display": "14.09.2026 · 20:36 Uhr"
+    },
     {
       "title": "Geopolitik in der Arktis: Arktis-Gipfel fordert größeres Engagement der EU in der Region",
       "summary": "Beim EU-Arktis-Gipfel in Finnland haben europäische Länder über die Strategie in der Region beraten. In der Abschlusserklärung fordern sie eine stärkere Präsenz der EU.",
-      "image": "https://img.zeit.de/administratives/sharing/fallback-image-die-zeit/wide__1300x731",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/arktis-eu-russland-geopolitik-bild/original__640x360",
       "link": "https://www.zeit.de/politik/ausland/2026-09/arktis-eu-russland-geopolitik",
       "published": "Mon, 14 Sep 2026 20:20:45 -0000",
       "published_display": "14.09.2026 · 20:20 Uhr"
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/14/grossbrand-auf-recyclinghof-in-herdecke",
       "published": "Mon, 14 Sep 2026 18:13:37 -0000",
       "published_display": "14.09.2026 · 18:13 Uhr"
-    },
-    {
-      "title": "Leute: «Free Palestine»-Rufe: Aus für Macklemore bei Sheeran-Tour",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/free-palestine-rufe-aus-fuer-macklemore-bei-sheeran-tour-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/free-palestine-rufe-aus-fuer-macklemore-bei-sheeran-tour",
-      "published": "Mon, 14 Sep 2026 18:12:47 -0000",
-      "published_display": "14.09.2026 · 18:12 Uhr"
     }
   ]
 }
