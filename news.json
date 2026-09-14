@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-14T19:31:03.143987+00:00",
+  "updated": "2026-09-14T19:43:40.939205+00:00",
   "items": [
+    {
+      "title": "Fußball-Rekordmeister: Hoeneß erklärt Eberl-Wende: «Eigenbrötlerdasein» abgelegt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/hoeness-erklaert-eberl-wende-eigenbroetlerdasein-abgelegt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/hoeness-erklaert-eberl-wende-eigenbroetlerdasein-abgelegt",
+      "published": "Mon, 14 Sep 2026 19:39:10 -0000",
+      "published_display": "14.09.2026 · 19:39 Uhr"
+    },
     {
       "title": "Mode: Designer der Stars - Bob Mackie ist tot",
       "summary": "",
@@ -44,7 +52,7 @@
     },
     {
       "title": "Medienpolitik: Was machen wir, wenn sie was hinkriegen?",
-      "summary": "Wenn die AfD in Sachsen-Anhalt regiert will sie ihr erstes Wahlversprechen einlösen: den Rundfunkstaatsvertrag mit dem MDR kündigen. Juristen beschreiben vier Szenarien.",
+      "summary": "In Sachsen-Anhalt trat die AfD mit dem Versprechen an, den Rundfunkstaatsvertrag mit dem MDR zu kündigen. Was, wenn es dazu kommt? Juristen beschreiben vier Szenarien.",
       "image": "https://img.zeit.de/wirtschaft/2026-09/medienpolitik-rundfunk-mdr-afd-juristen-bild/original__640x360",
       "link": "https://www.zeit.de/wirtschaft/2026-09/medienpolitik-rundfunk-mdr-afd-juristen",
       "published": "Mon, 14 Sep 2026 18:40:17 -0000",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/14/rekordserie-haelt-bayern-frauen-drehen-spiel-in-leverkusen",
       "published": "Mon, 14 Sep 2026 18:02:21 -0000",
       "published_display": "14.09.2026 · 18:02 Uhr"
-    },
-    {
-      "title": "Krieg gegen die Ukraine: EU streitet über Verlängerung von Sanktionspaket für Russland",
-      "summary": "Am Dienstag läuft ein Sanktionspaket gegen Russland aus. Die EU ist uneins und verlängert es nur um wenige Tage. Berichten zufolge soll es um einen Oligarchen gehen.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/eu-russland-sanktionen-alischer-usmanow-slowakei-frankreich-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/eu-russland-sanktionen-alischer-usmanow-slowakei-frankreich",
-      "published": "Mon, 14 Sep 2026 17:59:30 -0000",
-      "published_display": "14.09.2026 · 17:59 Uhr"
     }
   ]
 }
