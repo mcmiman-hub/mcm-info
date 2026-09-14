@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-14T03:18:38.980271+00:00",
+  "updated": "2026-09-14T03:33:25.264992+00:00",
   "items": [
+    {
+      "title": "Neues Einsatzfahrzeug: Feuerwehr-Trecker verlässt Wiesmoor – Testphase endet",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/feuerwehr-trecker-verlaesst-wiesmoor-testphase-endet-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/feuerwehr-trecker-verlaesst-wiesmoor-testphase-endet",
+      "published": "Mon, 14 Sep 2026 03:30:10 -0000",
+      "published_display": "14.09.2026 · 03:30 Uhr"
+    },
+    {
+      "title": "Wettervorhersage: Noch einmal 30 Grad? So warm wird der Wochenstart",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/noch-einmal-30-grad-so-warm-wird-der-wochenstart-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/noch-einmal-30-grad-so-warm-wird-der-wochenstart",
+      "published": "Mon, 14 Sep 2026 03:30:10 -0000",
+      "published_display": "14.09.2026 · 03:30 Uhr"
+    },
+    {
+      "title": "Demonstrationen gegen die AfD: Warum so wenige auf den Straßen sind? Aus Scham",
+      "summary": "Im Kampf gegen die AfD ist jeder auf seine Weise gescheitert. Deswegen sind Demos für viele jetzt nicht die Lösung. Aber es gibt andere Ideen.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/afd-cdu-demonstrationen-sachsen-anhalt-landtagswahl-scham-bild-5/original__640x360",
+      "link": "https://www.zeit.de/politik/2026-09/afd-cdu-demonstrationen-sachsen-anhalt-landtagswahl-scham",
+      "published": "Mon, 14 Sep 2026 03:23:52 -0000",
+      "published_display": "14.09.2026 · 03:23 Uhr"
+    },
     {
       "title": "Großbritannien: Politiker aus Schottland, Wales und Nordirland beraten Unabhängigkeit",
       "summary": "In Cardiff wollen Nationalisten erstmals in dem Format über eine Loslösung aus Großbritannien reden. Zuletzt hatte Donald Trump eine irische Wiedervereinigung angeregt.",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/14/die-bayerische-tracht-im-wandel-der-jahrzehnte",
       "published": "Mon, 14 Sep 2026 03:00:07 -0000",
       "published_display": "14.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Vor der Landtagswahl in MV: Landesfrauenrat warnt: Weniger Frauen auf Wahllisten in MV",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/landesfrauenrat-warnt-weniger-frauen-auf-wahllisten-in-mv-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/landesfrauenrat-warnt-weniger-frauen-auf-wahllisten-in-mv",
-      "published": "Mon, 14 Sep 2026 03:00:05 -0000",
-      "published_display": "14.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Brände: Hoher Sachschaden bei Hausbrand in Bobzin",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/hoher-sachschaden-bei-hausbrand-in-bobzin-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/hoher-sachschaden-bei-hausbrand-in-bobzin",
-      "published": "Mon, 14 Sep 2026 02:57:31 -0000",
-      "published_display": "14.09.2026 · 02:57 Uhr"
-    },
-    {
-      "title": "Kommunalwahl: Amtsinhaber in Braunschweig muss in die Stichwahl",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/13/amtsinhaber-in-braunschweig-muss-in-die-stichwahl-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/13/amtsinhaber-in-braunschweig-muss-in-die-stichwahl",
-      "published": "Mon, 14 Sep 2026 02:56:35 -0000",
-      "published_display": "14.09.2026 · 02:56 Uhr"
     }
   ]
 }
