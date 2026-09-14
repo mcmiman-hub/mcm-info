@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-14T20:17:44.441940+00:00",
+  "updated": "2026-09-14T20:30:19.817610+00:00",
   "items": [
+    {
+      "title": "Geopolitik in der Arktis: Arktis-Gipfel fordert größeres Engagement der EU in der Region",
+      "summary": "Beim EU-Arktis-Gipfel in Finnland haben europäische Länder über die Strategie in der Region beraten. In der Abschlusserklärung fordern sie eine stärkere Präsenz der EU.",
+      "image": "https://img.zeit.de/administratives/sharing/fallback-image-die-zeit/wide__1300x731",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/arktis-eu-russland-geopolitik",
+      "published": "Mon, 14 Sep 2026 20:20:45 -0000",
+      "published_display": "14.09.2026 · 20:20 Uhr"
+    },
+    {
+      "title": "Unfall: Motorradfahrer stirbt nach Zusammenprall mit Lkw",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/motorradfahrer-stirbt-nach-zusammenprall-mit-lkw-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/motorradfahrer-stirbt-nach-zusammenprall-mit-lkw",
+      "published": "Mon, 14 Sep 2026 20:15:43 -0000",
+      "published_display": "14.09.2026 · 20:15 Uhr"
+    },
     {
       "title": "Umar Kremlew: Oligarch soll Hochzeitsfeier von Donald Trump Jr. mitfinanziert haben",
       "summary": "Ein russischer Oligarch soll sechsstellige Summen zur Hochzeitsfeier von Donald Trump Jr. beigesteuert haben. Seine Ehefrau spricht von »einem Hochzeitsgeschenk«.",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/14/free-palestine-rufe-aus-fuer-macklemore-bei-sheeran-tour",
       "published": "Mon, 14 Sep 2026 18:12:47 -0000",
       "published_display": "14.09.2026 · 18:12 Uhr"
-    },
-    {
-      "title": "Krieg gegen die Ukraine: Trump kündigt Angriffsstopp an, Selenskyj zeigt sich skeptisch",
-      "summary": "Laut US-Präsident Trump gilt bald ein Angriffsstopp für Energieanlagen. Der ukrainische Präsident Selenskyj glaubt nicht, dass Russland die Attacken stoppt. Das Liveblog",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/ukraine-krieg-news-liveblog-bild-5/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "published": "Mon, 14 Sep 2026 18:11:36 -0000",
-      "published_display": "14.09.2026 · 18:11 Uhr"
-    },
-    {
-      "title": "Klimaschutz: USA heben Emissionsgrenzen für fossile Kraftwerke auf",
-      "summary": "Die USA weichen weiter Klimaschutzvorschriften aus den Biden- und Obama-Jahren auf. In Zukunft dürfen Kohle- und Erdgaskraftwerke grenzenlos Emissionen ausstoßen.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/epa-emissionsgrenzen-klimaschutz-kohle-erdgaskraftwerke-lee-zeldin-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/epa-emissionsgrenzen-klimaschutz-kohle-erdgaskraftwerke-lee-zeldin",
-      "published": "Mon, 14 Sep 2026 18:03:25 -0000",
-      "published_display": "14.09.2026 · 18:03 Uhr"
     }
   ]
 }
