@@ -1,7 +1,95 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-14T05:55:48.512741+00:00",
+  "updated": "2026-09-14T06:25:24.141358+00:00",
   "items": [
+    {
+      "title": "Brand in Gewerbegebiet: Großbrand auf Recyclinghof in Herdecke",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/grossbrand-auf-recyclinghof-in-herdecke-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/grossbrand-auf-recyclinghof-in-herdecke",
+      "published": "Mon, 14 Sep 2026 06:21:28 -0000",
+      "published_display": "14.09.2026 · 06:21 Uhr"
+    },
+    {
+      "title": "Kriminalität: Sachbeschädigung an Kirche: Polizei sucht Hinweise",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/sachbeschaedigung-an-kirche-polizei-sucht-hinweise-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/sachbeschaedigung-an-kirche-polizei-sucht-hinweise",
+      "published": "Mon, 14 Sep 2026 06:17:48 -0000",
+      "published_display": "14.09.2026 · 06:17 Uhr"
+    },
+    {
+      "title": "Attacke nördlich von Perth: Haiangriff in Westaustralien: Mann schwer am Bein verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/haiangriff-in-westaustralien-mann-schwer-am-bein-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/haiangriff-in-westaustralien-mann-schwer-am-bein-verletzt",
+      "published": "Mon, 14 Sep 2026 06:17:00 -0000",
+      "published_display": "14.09.2026 · 06:17 Uhr"
+    },
+    {
+      "title": "Niedersachen: Hier ist die AfD keine Volkspartei. Noch nicht",
+      "summary": "Zwischen den Wahlen in Sachsen-Anhalt, Berlin und Mecklenburg-Vorpommern wählte auch: Niedersachsen. Zumindest kommunal. Die Ergebnisse sind wichtiger, als sie scheinen.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/niedersachsen-kommunalwahlen-ergebnisse-afd-cdu-spd-foto/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/niedersachsen-kommunalwahlen-ergebnisse-afd-cdu-spd",
+      "published": "Mon, 14 Sep 2026 06:15:38 -0000",
+      "published_display": "14.09.2026 · 06:15 Uhr"
+    },
+    {
+      "title": "Unfälle: Mann stirbt bei Motorsportrennen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/mann-stirbt-bei-motorsportrennen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/mann-stirbt-bei-motorsportrennen",
+      "published": "Mon, 14 Sep 2026 06:08:10 -0000",
+      "published_display": "14.09.2026 · 06:08 Uhr"
+    },
+    {
+      "title": "Filmfest: «Breitscheidplatz 19/12» feiert Weltpremiere in Toronto",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/breitscheidplatz-19-12-feiert-weltpremiere-in-toronto-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/breitscheidplatz-19-12-feiert-weltpremiere-in-toronto",
+      "published": "Mon, 14 Sep 2026 06:06:43 -0000",
+      "published_display": "14.09.2026 · 06:06 Uhr"
+    },
+    {
+      "title": "Wirtschaftspolitik der AfD: Wie die AfD im Osten den Aufschwung schaffen will",
+      "summary": "Um die Wirtschaft zu stärken, will die AfD in Ostdeutschland Sonderwirtschaftszonen einrichten. Auch der Kanzler zeigte sich offen dafür. Kann der Plan funktionieren?",
+      "image": "https://img.zeit.de/wirtschaft/2026-09/wirtschaftspolitik-afd-ostdeutschland-oekonomie-sonderwirtschaftszonen-bild/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/2026-09/wirtschaftspolitik-afd-ostdeutschland-oekonomie-sonderwirtschaftszonen",
+      "published": "Mon, 14 Sep 2026 06:00:59 -0000",
+      "published_display": "14.09.2026 · 06:00 Uhr"
+    },
+    {
+      "title": "Unfall in der Löninger Straße: 24-Jähriger stirbt bei Motorradunfall bei Cloppenburg",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/24-jaehriger-stirbt-bei-motorradunfall-bei-cloppenburg-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/24-jaehriger-stirbt-bei-motorradunfall-bei-cloppenburg",
+      "published": "Mon, 14 Sep 2026 06:00:29 -0000",
+      "published_display": "14.09.2026 · 06:00 Uhr"
+    },
+    {
+      "title": "Fernsehreihe: Mias Vater - Unerwartete Begegnung im Passau-Krimi",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/mias-vater-unerwartete-begegnung-im-passau-krimi-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/mias-vater-unerwartete-begegnung-im-passau-krimi",
+      "published": "Mon, 14 Sep 2026 06:00:04 -0000",
+      "published_display": "14.09.2026 · 06:00 Uhr"
+    },
+    {
+      "title": "Tarifkonflikt: Warnstreik bei SWEG: Busse bleiben zum Schulstart stehen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/warnstreik-bei-sweg-busse-bleiben-zum-schulstart-stehen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/warnstreik-bei-sweg-busse-bleiben-zum-schulstart-stehen",
+      "published": "Mon, 14 Sep 2026 05:58:52 -0000",
+      "published_display": "14.09.2026 · 05:58 Uhr"
+    },
+    {
+      "title": "Wahlen: Drei Lehren aus den Kommunalwahlen in Niedersachsen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/drei-lehren-aus-den-kommunalwahlen-in-niedersachsen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/drei-lehren-aus-den-kommunalwahlen-in-niedersachsen",
+      "published": "Mon, 14 Sep 2026 05:54:12 -0000",
+      "published_display": "14.09.2026 · 05:54 Uhr"
+    },
     {
       "title": "Sanierung der Stuttgarter Oper: CDU-Fraktionschef warnt vor hohem Risiko bei Opernsanierung",
       "summary": "",
@@ -19,14 +107,6 @@
       "published_display": "14.09.2026 · 05:51 Uhr"
     },
     {
-      "title": "Filmfest: «Breitscheidplatz 19/12» feiert Weltpremiere in Toronto",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/breitscheidplatz-19-12-feiert-weltpremiere-in-toronto-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/breitscheidplatz-19-12-feiert-weltpremiere-in-toronto",
-      "published": "Mon, 14 Sep 2026 05:51:01 -0000",
-      "published_display": "14.09.2026 · 05:51 Uhr"
-    },
-    {
       "title": "Pferdesport: Vogel verpasst den Grand-Slam-Jackpot mit einer Million Euro",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-09/14/vogel-verpasst-den-grand-slam-jackpot-mit-einer-million-euro-image-group/original__640x360",
@@ -41,86 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/14/oelpreise-legen-wieder-zu-gespraeche-im-oman-verschoben",
       "published": "Mon, 14 Sep 2026 05:41:28 -0000",
       "published_display": "14.09.2026 · 05:41 Uhr"
-    },
-    {
-      "title": "Sommerliche Temperaturen: Bis zu 29 Grad: Spätsommer in RLP und im Saarland",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/bis-zu-29-grad-spaetsommer-in-rlp-und-im-saarland-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/bis-zu-29-grad-spaetsommer-in-rlp-und-im-saarland",
-      "published": "Mon, 14 Sep 2026 05:38:41 -0000",
-      "published_display": "14.09.2026 · 05:38 Uhr"
-    },
-    {
-      "title": "Kunst: Schwellkörper des Aufbegehrens",
-      "summary": "Brutal, anarchisch, bestens gelaunt: Wie Niki de Saint Phalle die Kunstwelt aufmischte. Eine Ausstellung in Düsseldorf zeigt eine noch immer unterschätzte Künstlerin.",
-      "image": "https://img.zeit.de/2026/39/niki-de-saint-phalle-kuenstlerin-ausstellung-nanas-teaserbild-2/original__640x360",
-      "link": "https://www.zeit.de/2026/39/niki-de-saint-phalle-kuenstlerin-ausstellung-nanas",
-      "published": "Mon, 14 Sep 2026 05:36:24 -0000",
-      "published_display": "14.09.2026 · 05:36 Uhr"
-    },
-    {
-      "title": "Vegane Lahmacun: Türkische Leckerei mit Abkürzung",
-      "summary": "Wer Lahmacun essen will, muss weder Teig kneten noch zum türkischen Bistro laufen. Einige Tortilla-Wraps reichen, auch trocken gewordene lassen sich noch gut belegen.",
-      "image": "https://img.zeit.de/zeit-magazin/wochenmarkt/2026-09/vegane-lahmacun-tuerkische-kueche-rezept-wochenmarkt-bild/original__640x360",
-      "link": "https://www.zeit.de/zeit-magazin/wochenmarkt/2026-09/vegane-lahmacun-tuerkische-kueche-rezept-wochenmarkt",
-      "published": "Mon, 14 Sep 2026 05:35:04 -0000",
-      "published_display": "14.09.2026 · 05:35 Uhr"
-    },
-    {
-      "title": "Krieg gegen die Ukraine: Russische Drohne trifft Passagierzug an ukrainisch-polnischer Grenze",
-      "summary": "In der Ukraine sind mehrere Züge von Drohnenangriffen betroffen. Die Bahngesellschaft wirft Russland einen systematischen Angriff auf das Bahnnetz vor. Das Liveblog",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/ukraine-krieg-news-liveblog-starovoitove-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "published": "Mon, 14 Sep 2026 05:34:24 -0000",
-      "published_display": "14.09.2026 · 05:34 Uhr"
-    },
-    {
-      "title": "Parteien: Sachsen-BSW lädt zum Parteitag nach Leipzig",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/sachsen-bsw-laedt-zum-parteitag-nach-leipzig-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/sachsen-bsw-laedt-zum-parteitag-nach-leipzig",
-      "published": "Mon, 14 Sep 2026 05:33:13 -0000",
-      "published_display": "14.09.2026 · 05:33 Uhr"
-    },
-    {
-      "title": "Folgen der AfD-Pläne: Wie gefährlich wird der Erfolg der AfD für die Wirtschaft?",
-      "summary": "Die Wirtschaft in Sachsen-Anhalt und Mecklenburg-Vorpommern kriselt. Auch deshalb wählen viele AfD – ohne zu fragen, wofür sie steht. Das könnte die Probleme verstärken.",
-      "image": "https://img.zeit.de/wirtschaft/2026-09/wirtschaftliche-folgen-afd-plaene-ifo-institut-wirtschaftspodcast-bild/original__640x360",
-      "link": "https://www.zeit.de/wirtschaft/2026-09/wirtschaftliche-folgen-afd-plaene-ifo-institut-wirtschaftspodcast",
-      "published": "Mon, 14 Sep 2026 05:31:41 -0000",
-      "published_display": "14.09.2026 · 05:31 Uhr"
-    },
-    {
-      "title": "Unfall in der Nacht: Auto fährt auf der A9 auf Lkw auf – Beifahrerin stirbt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/auto-faehrt-auf-der-a9-auf-lkw-auf-beifahrerin-stirbt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/auto-faehrt-auf-der-a9-auf-lkw-auf-beifahrerin-stirbt",
-      "published": "Mon, 14 Sep 2026 05:25:51 -0000",
-      "published_display": "14.09.2026 · 05:25 Uhr"
-    },
-    {
-      "title": "Sommerliche Temperaturen: Bis zu 28 Grad warm: Spätsommerwetter in Hessen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/bis-zu-28-grad-warm-spaetsommerwetter-in-hessen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/bis-zu-28-grad-warm-spaetsommerwetter-in-hessen",
-      "published": "Mon, 14 Sep 2026 05:19:07 -0000",
-      "published_display": "14.09.2026 · 05:19 Uhr"
-    },
-    {
-      "title": "Wetter: Wetterwechsel im Norden – Spätsommer und Starkregen erwartet",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/wetterwechsel-im-norden-spaetsommer-und-starkregen-erwartet-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/wetterwechsel-im-norden-spaetsommer-und-starkregen-erwartet",
-      "published": "Mon, 14 Sep 2026 05:17:42 -0000",
-      "published_display": "14.09.2026 · 05:17 Uhr"
-    },
-    {
-      "title": "Tatwaffe nicht gefunden: 39-Jähriger mit Stichverletzung am Bahnhof gefunden",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/39-jaehriger-mit-stichverletzung-am-bahnhof-gefunden-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/39-jaehriger-mit-stichverletzung-am-bahnhof-gefunden",
-      "published": "Mon, 14 Sep 2026 05:11:09 -0000",
-      "published_display": "14.09.2026 · 05:11 Uhr"
     }
   ]
 }
