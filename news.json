@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-13T23:54:04.620317+00:00",
+  "updated": "2026-09-14T00:26:05.473042+00:00",
   "items": [
+    {
+      "title": "Anrufer berichten von Schüssen: Zwei Verletzte in Hamburg aufgefunden - Fahndung nach Täter",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/zwei-verletzte-in-hamburg-aufgefunden-fahndung-nach-taeter-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/zwei-verletzte-in-hamburg-aufgefunden-fahndung-nach-taeter",
+      "published": "Mon, 14 Sep 2026 00:20:12 -0000",
+      "published_display": "14.09.2026 · 00:20 Uhr"
+    },
     {
       "title": "Dokumentation »Naza«: Israelischer Minister will Filmemachern Staatsbürgerschaft entziehen",
       "summary": "Die Gazadokumentation »Naza« wurde beim Filmfestival von Venedig ausgezeichnet. Der israelische Kulturminister Zohar wirft den Regisseuren »Verrat am Staat« Israel vor.",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/13/was-geschah-am-14-september",
       "published": "Sun, 13 Sep 2026 21:55:04 -0000",
       "published_display": "13.09.2026 · 21:55 Uhr"
-    },
-    {
-      "title": "Tennis: Tennisprofi Zverev holt US-Open-Titel",
-      "summary": "",
-      "image": "https://img.zeit.de/administratives/sharing/fallback-image-die-zeit/wide__1300x731",
-      "link": "https://www.zeit.de/news/2026-09/13/tennisprofi-zverev-holt-us-open-titel",
-      "published": "Sun, 13 Sep 2026 21:52:47 -0000",
-      "published_display": "13.09.2026 · 21:52 Uhr"
     }
   ]
 }
