@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-14T21:16:32.613835+00:00",
+  "updated": "2026-09-14T21:30:18.778088+00:00",
   "items": [
+    {
+      "title": "Glückliches Ende: Verletzter Motorradfahrer liegt 19 Stunden im Straßengraben",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/verletzter-motorradfahrer-liegt-19-stunden-im-strassengraben-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/verletzter-motorradfahrer-liegt-19-stunden-im-strassengraben",
+      "published": "Mon, 14 Sep 2026 21:26:24 -0000",
+      "published_display": "14.09.2026 · 21:26 Uhr"
+    },
+    {
+      "title": "LGBTQ-Gesetz in Ungarn: Ungarns Regierung will umstrittenes LGBTQ-Gesetz ändern",
+      "summary": "Die Darstellung von Homosexualität im ungarischen Fernsehen ist aufgrund von angeblichem Kinderschutz verboten. Ministerpräsident Péter Magyar möchte das ändern.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/ungarn-lgbtq-kinderschutzgesetz-viktor-orban-eugh-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/ungarn-lgbtq-kinderschutzgesetz-viktor-orban-eugh",
+      "published": "Mon, 14 Sep 2026 21:16:49 -0000",
+      "published_display": "14.09.2026 · 21:16 Uhr"
+    },
     {
       "title": "Großeinsatz der Feuerwehr: Feuer bricht während Betrieb in Restaurantküche aus",
       "summary": "",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/wirtschaft/2026-09/medienpolitik-rundfunk-mdr-afd-juristen",
       "published": "Mon, 14 Sep 2026 18:40:17 -0000",
       "published_display": "14.09.2026 · 18:40 Uhr"
-    },
-    {
-      "title": "Berlin-Wahl: Pistorius stellt sich trotz Ermittlungen hinter Berlin-Kandidat Krach",
-      "summary": "Verteidigungsminister Boris Pistorius macht in Berlin Wahlkampf mit Steffen Krach. Er geht davon aus, dass die Ermittlungen gegen Krach zur Entlastung führen werden.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/steffen-krach-spd-berlin-ermittlungen-boris-pistorius-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/steffen-krach-spd-berlin-ermittlungen-boris-pistorius",
-      "published": "Mon, 14 Sep 2026 18:31:17 -0000",
-      "published_display": "14.09.2026 · 18:31 Uhr"
-    },
-    {
-      "title": "Fund bei Bauarbeiten: Weltkriegsbombe in Elsterwerda wird am Dienstag entschärft",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/weltkriegsbombe-in-elsterwerda-wird-am-dienstag-entschaerft-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/weltkriegsbombe-in-elsterwerda-wird-am-dienstag-entschaerft",
-      "published": "Mon, 14 Sep 2026 18:17:52 -0000",
-      "published_display": "14.09.2026 · 18:17 Uhr"
     }
   ]
 }
