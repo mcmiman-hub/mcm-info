@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-14T20:56:10.889593+00:00",
+  "updated": "2026-09-14T21:16:32.613835+00:00",
   "items": [
+    {
+      "title": "Großeinsatz der Feuerwehr: Feuer bricht während Betrieb in Restaurantküche aus",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/feuer-bricht-waehrend-betrieb-in-restaurantkueche-aus-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/feuer-bricht-waehrend-betrieb-in-restaurantkueche-aus",
+      "published": "Mon, 14 Sep 2026 21:10:35 -0000",
+      "published_display": "14.09.2026 · 21:10 Uhr"
+    },
     {
       "title": "Korruption in der Ukraine: Ukrainischer Präsident Selenskyj entlässt Generalstaatsanwalt",
       "summary": "Dem ukrainischen Generalstaatsanwalt Ruslan Krawtschenko wird Korruption im Zusammenhang mit betrügerischen Callcentern vorgeworfen. Nun hat Selenskyj ihn entlassen.",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/14/weltkriegsbombe-in-elsterwerda-wird-am-dienstag-entschaerft",
       "published": "Mon, 14 Sep 2026 18:17:52 -0000",
       "published_display": "14.09.2026 · 18:17 Uhr"
-    },
-    {
-      "title": "Gesicht und KI: Erklärt das Gesicht zum Kunstwerk!",
-      "summary": "Deepfakes, illegale Datenbanken, generierte Avatare: Kein Gesicht ist heute mehr sicher vor digitalem Missbrauch. Doch es gibt eine Lösung, die uns alle schützen würde.",
-      "image": "https://img.zeit.de/2026/38/was-fuer-ein-gesichtsverlust-bild-5/original__640x360",
-      "link": "https://www.zeit.de/2026/38/gesicht-ki-deepfakes-rechtlicher-schutz-digitale-zwillinge",
-      "published": "Mon, 14 Sep 2026 18:15:14 -0000",
-      "published_display": "14.09.2026 · 18:15 Uhr"
     }
   ]
 }
