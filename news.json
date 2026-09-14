@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-14T21:44:12.915746+00:00",
+  "updated": "2026-09-14T21:55:50.030252+00:00",
   "items": [
+    {
+      "title": "Brand in Gewerbegebiet: Entwarnung nach Großbrand auf Recyclinghof in Herdecke",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/grossbrand-auf-recyclinghof-in-herdecke-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/grossbrand-auf-recyclinghof-in-herdecke",
+      "published": "Mon, 14 Sep 2026 21:46:37 -0000",
+      "published_display": "14.09.2026 · 21:46 Uhr"
+    },
     {
       "title": "Glückliches Ende: Verletzter Motorradfahrer liegt 19 Stunden im Straßengraben",
       "summary": "",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/14/goetz-george-preis-geht-an-schauspieler-christian-redl",
       "published": "Mon, 14 Sep 2026 18:46:08 -0000",
       "published_display": "14.09.2026 · 18:46 Uhr"
-    },
-    {
-      "title": "Medienpolitik: Was, wenn die Kündigung kommt?",
-      "summary": "Bei der Sachsen-Anhalt-Wahl trat die AfD mit dem Versprechen an, den Rundfunkstaatsvertrag mit dem MDR zu kündigen. Was wäre, wenn? Juristen beschreiben vier Szenarien.",
-      "image": "https://img.zeit.de/wirtschaft/2026-09/medienpolitik-rundfunk-mdr-afd-juristen-bild/original__640x360",
-      "link": "https://www.zeit.de/wirtschaft/2026-09/medienpolitik-rundfunk-mdr-afd-juristen",
-      "published": "Mon, 14 Sep 2026 18:40:17 -0000",
-      "published_display": "14.09.2026 · 18:40 Uhr"
     }
   ]
 }
