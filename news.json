@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-14T09:47:53.135688+00:00",
+  "updated": "2026-09-14T09:58:09.578977+00:00",
   "items": [
+    {
+      "title": "Thüringen: Thüringens Regierung schickt Verfassungscoaches an die Schulen",
+      "summary": "Das Bildungsministerium in Thüringen schickt Coaches an Schulen, um Lehrer im Umgang mit Extremismus zu unterstützen. Die Verfassungsviertelstunde soll ausgebaut werden.",
+      "image": "https://img.zeit.de/bildung/2026-09/verfassungs-coaches-thueringen-schulen-demokratiebildung-uni-jena-foto-1/original__640x360",
+      "link": "https://www.zeit.de/bildung/2026-09/verfassungs-coaches-thueringen-schulen-demokratiebildung-uni-jena",
+      "published": "Mon, 14 Sep 2026 09:53:56 -0000",
+      "published_display": "14.09.2026 · 09:53 Uhr"
+    },
+    {
+      "title": "Fotografie: Bilder des Tages",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/bilder-des-tages-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/bilder-des-tages",
+      "published": "Mon, 14 Sep 2026 09:53:13 -0000",
+      "published_display": "14.09.2026 · 09:53 Uhr"
+    },
+    {
+      "title": "Hybrider Krieg: Bundesanwaltschaft klagt mutmaßliche russische Spionin an",
+      "summary": "Im Januar ist eine Frau in Berlin festgenommen worden, die vermutlich für Russland spioniert hat. Die Bundesanwaltschaft hat Anklage erhoben.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/ilona-w-spionage-russland-pr-unternehmerin-gru-berlin-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/ilona-w-spionage-russland-pr-unternehmerin-gru-berlin",
+      "published": "Mon, 14 Sep 2026 09:52:44 -0000",
+      "published_display": "14.09.2026 · 09:52 Uhr"
+    },
     {
       "title": "Fahrlässige Körperverletzung: Vier Schwerverletzte nach Unfall auf A44 - auch Kind dabei",
       "summary": "",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/14/eichhorn-und-onyeka-beste-nachwuchskicker-deutschlands",
       "published": "Mon, 14 Sep 2026 09:32:34 -0000",
       "published_display": "14.09.2026 · 09:32 Uhr"
-    },
-    {
-      "title": "Prozessbeginn: Prozess um Tod eines 15-Jährigen gestartet",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/prozess-um-tod-eines-15-jaehrigen-gestartet-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/prozess-um-tod-eines-15-jaehrigen-gestartet",
-      "published": "Mon, 14 Sep 2026 09:28:38 -0000",
-      "published_display": "14.09.2026 · 09:28 Uhr"
-    },
-    {
-      "title": "Unfall: Lkw kippt bei Trier um - Autobahn wieder frei",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/lkw-umgekippt-langer-stau-auf-autobahn-bei-trier-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/lkw-umgekippt-langer-stau-auf-autobahn-bei-trier",
-      "published": "Mon, 14 Sep 2026 09:27:08 -0000",
-      "published_display": "14.09.2026 · 09:27 Uhr"
-    },
-    {
-      "title": "Fliegerbombe: Bombenentschärfung: 2.600 Menschen müssen ihre Häuser räumen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/bombenentschaerfung-2-600-menschen-muessen-ihre-haeuser-raeumen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/bombenentschaerfung-2-600-menschen-muessen-ihre-haeuser-raeumen",
-      "published": "Mon, 14 Sep 2026 09:26:11 -0000",
-      "published_display": "14.09.2026 · 09:26 Uhr"
     }
   ]
 }
