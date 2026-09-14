@@ -1,7 +1,79 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-14T11:18:51.183170+00:00",
+  "updated": "2026-09-14T11:32:35.230821+00:00",
   "items": [
+    {
+      "title": "Fotografie: Bilder des Tages",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/bilder-des-tages-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/bilder-des-tages",
+      "published": "Mon, 14 Sep 2026 11:29:24 -0000",
+      "published_display": "14.09.2026 · 11:29 Uhr"
+    },
+    {
+      "title": "Mario Voigt: »Bis 2029 knacken wir in Thüringen den Code der AfD«",
+      "summary": "Im Interview erklärt Thüringens Ministerpräsident, wie seine CDU die AfD künftig schlagen will. Warum er weiter mit der Linken kooperiert. Und hinter dem Kanzler steht.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/mario-voigt-cdu-thueringen-ministerpraesident-bsw-bild-2/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/mario-voigt-cdu-thueringen-ministerpraesident-bsw",
+      "published": "Mon, 14 Sep 2026 11:29:09 -0000",
+      "published_display": "14.09.2026 · 11:29 Uhr"
+    },
+    {
+      "title": "Schule: Warum das Land bei einer Bildungsstudie gut abschneidet",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/suedwesten-schneidet-bei-bildungsstudie-gut-ab-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/suedwesten-schneidet-bei-bildungsstudie-gut-ab",
+      "published": "Mon, 14 Sep 2026 11:28:17 -0000",
+      "published_display": "14.09.2026 · 11:28 Uhr"
+    },
+    {
+      "title": "Anschlag in Düsseldorf: JVA-Beamte wurden Zeugen von Mordanschlag",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/jva-beamte-wurden-zeugen-von-mordanschlag-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/jva-beamte-wurden-zeugen-von-mordanschlag",
+      "published": "Mon, 14 Sep 2026 11:27:20 -0000",
+      "published_display": "14.09.2026 · 11:27 Uhr"
+    },
+    {
+      "title": "Vor dem nächsten Wahltag: Kanzler-Krise: Kriegt Merz noch die Kurve?",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/kanzler-krise-kriegt-merz-noch-die-kurve-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/kanzler-krise-kriegt-merz-noch-die-kurve",
+      "published": "Mon, 14 Sep 2026 11:26:33 -0000",
+      "published_display": "14.09.2026 · 11:26 Uhr"
+    },
+    {
+      "title": "Kommunalwahl Niedersachsen: Schlüsseldienst, Süßes, Stimmkönig - Kurioses zur Wahl",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/schluesseldienst-suesses-stimmkoenig-kurioses-zur-wahl-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/schluesseldienst-suesses-stimmkoenig-kurioses-zur-wahl",
+      "published": "Mon, 14 Sep 2026 11:26:23 -0000",
+      "published_display": "14.09.2026 · 11:26 Uhr"
+    },
+    {
+      "title": "AfD-Veranstaltungen: AfD beschließt Auflagen für Streamer »Aktivist Mann«",
+      "summary": "Der YouTuber »Aktivist Mann« hat wochenlang Journalisten auf AfD‑Parteiveranstaltungen angepöbelt. Die AfD distanziert sich und erlässt Auflagen gegen ihn.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/afd-aktivist-mann-youtube-streamer-journalisten-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/afd-aktivist-mann-youtube-streamer-journalisten",
+      "published": "Mon, 14 Sep 2026 11:20:28 -0000",
+      "published_display": "14.09.2026 · 11:20 Uhr"
+    },
+    {
+      "title": "Seit sechs Jahren verschwunden: Suchhunde schlagen an: Neue Spur von vermisster Scarlett?",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/vermisste-scarlett-neue-hoffnung-nach-der-juengsten-suche-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/vermisste-scarlett-neue-hoffnung-nach-der-juengsten-suche",
+      "published": "Mon, 14 Sep 2026 11:17:42 -0000",
+      "published_display": "14.09.2026 · 11:17 Uhr"
+    },
+    {
+      "title": "Verletzter in Klinik: Mann bei queerem Straßenfest attackiert - Staatsschutz",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/14/mann-bei-queerem-strassenfest-attackiert-staatsschutz-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/14/mann-bei-queerem-strassenfest-attackiert-staatsschutz",
+      "published": "Mon, 14 Sep 2026 11:17:11 -0000",
+      "published_display": "14.09.2026 · 11:17 Uhr"
+    },
     {
       "title": "Nicht verpflichtend: Gerichtsvollzieher werden mit Schutzwesten ausgestattet",
       "summary": "",
@@ -49,78 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/14/brandenburgs-erntekoenig-hat-lust-auf-bauer-sucht-frau",
       "published": "Mon, 14 Sep 2026 11:11:56 -0000",
       "published_display": "14.09.2026 · 11:11 Uhr"
-    },
-    {
-      "title": "Fußgänger in Klinik: Rückwärtsfahrt in Zehlendorf: Mann lebensgefährlich verletzt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/rueckwaertsfahrt-in-zehlendorf-mann-lebensgefaehrlich-verletzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/rueckwaertsfahrt-in-zehlendorf-mann-lebensgefaehrlich-verletzt",
-      "published": "Mon, 14 Sep 2026 11:11:39 -0000",
-      "published_display": "14.09.2026 · 11:11 Uhr"
-    },
-    {
-      "title": "Empty-Nest-Syndrom: So wird das Empty Nest zum House of Love",
-      "summary": "Mit dem Auszug der Kinder geraten Paare oft in eine Krise. Paartherapeut Wolfgang Schmidbauer erklärt, wie sich die Zweisamkeit neu beleben lässt – und wie besser nicht.",
-      "image": "https://img.zeit.de/familie/2026-09/empty-nest-syndrom-eltern-kinder-auszug-beziehung-bild/original__640x360",
-      "link": "https://www.zeit.de/familie/2026-09/empty-nest-syndrom-eltern-kinder-auszug-beziehung",
-      "published": "Mon, 14 Sep 2026 11:11:23 -0000",
-      "published_display": "14.09.2026 · 11:11 Uhr"
-    },
-    {
-      "title": "Jugendkriminalität: Polizei: Minderjährige quälen 14-Jährigen stundenlang",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/polizei-minderjaehrige-quaelen-14-jaehrigen-stundenlang-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/polizei-minderjaehrige-quaelen-14-jaehrigen-stundenlang",
-      "published": "Mon, 14 Sep 2026 11:10:08 -0000",
-      "published_display": "14.09.2026 · 11:10 Uhr"
-    },
-    {
-      "title": "Künstliche Intelligenz: Nach den Warnungen: Bremsen die KI-Entwickler jetzt ab?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/ki-werte-leiden-unter-debatte-ueber-entwicklungstempo-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/ki-werte-leiden-unter-debatte-ueber-entwicklungstempo",
-      "published": "Mon, 14 Sep 2026 11:09:12 -0000",
-      "published_display": "14.09.2026 · 11:09 Uhr"
-    },
-    {
-      "title": "Auszeichnung: Europa-Park zum elften Mal «bester Freizeitpark der Welt»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/europa-park-zum-elften-mal-bester-freizeitpark-der-welt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/europa-park-zum-elften-mal-bester-freizeitpark-der-welt",
-      "published": "Mon, 14 Sep 2026 11:07:34 -0000",
-      "published_display": "14.09.2026 · 11:07 Uhr"
-    },
-    {
-      "title": "Klimawandel: Lässt der Mensch die Erde beben?",
-      "summary": "Ein paar Dinge sind für die Menschheit trotz all ihrer Technologie zu groß. Allerdings, so stellen Geoforscher fest: Erdbeben zählen nicht mehr dazu.",
-      "image": "https://img.zeit.de/2026/39/laesst-der-mensch-die-erde-beben-bild-1/original__640x360",
-      "link": "https://www.zeit.de/2026/39/klimawandel-erdbeben-tektonik-gletscher-meeresspiegel",
-      "published": "Mon, 14 Sep 2026 11:05:31 -0000",
-      "published_display": "14.09.2026 · 11:05 Uhr"
-    },
-    {
-      "title": "2. Fußball-Bundesliga: Bericht: Sandro Wagner soll Titz bei Hannover 96 ablösen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/bericht-sandro-wagner-soll-titz-bei-hannover-96-abloesen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/bericht-sandro-wagner-soll-titz-bei-hannover-96-abloesen",
-      "published": "Mon, 14 Sep 2026 11:05:28 -0000",
-      "published_display": "14.09.2026 · 11:05 Uhr"
-    },
-    {
-      "title": "Militärische Spionageabwehr: MAD: Bedrohung durch Sabotage hat «erheblich zugenommen»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/mad-bedrohung-durch-sabotage-hat-erheblich-zugenommen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/mad-bedrohung-durch-sabotage-hat-erheblich-zugenommen",
-      "published": "Mon, 14 Sep 2026 11:05:05 -0000",
-      "published_display": "14.09.2026 · 11:05 Uhr"
-    },
-    {
-      "title": "Schwächen bei der Integration: Thüringen rutscht im Bildungsranking weiter ab",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/14/thueringen-rutscht-im-bildungsranking-weiter-ab-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/14/thueringen-rutscht-im-bildungsranking-weiter-ab",
-      "published": "Mon, 14 Sep 2026 11:00:17 -0000",
-      "published_display": "14.09.2026 · 11:00 Uhr"
     }
   ]
 }
