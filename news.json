@@ -1,7 +1,47 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-15T15:17:25.065489+00:00",
+  "updated": "2026-09-15T15:29:46.312658+00:00",
   "items": [
+    {
+      "title": "Angriff mit Schusswaffe: Tötungsdelikt in Dietzenbach - drei Männer gefasst",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/60-jaehriger-stirbt-an-schussverletzung-fahndung-laeuft-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/60-jaehriger-stirbt-an-schussverletzung-fahndung-laeuft",
+      "published": "Tue, 15 Sep 2026 15:24:44 -0000",
+      "published_display": "15.09.2026 · 15:24 Uhr"
+    },
+    {
+      "title": "BSW-Fraktionskrise: «Laute Protestpartei»: BSW verliert erneut Abgeordneten",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/brandenburger-bsw-abgeordneter-verlaesst-partei-und-fraktion-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/brandenburger-bsw-abgeordneter-verlaesst-partei-und-fraktion",
+      "published": "Tue, 15 Sep 2026 15:23:56 -0000",
+      "published_display": "15.09.2026 · 15:23 Uhr"
+    },
+    {
+      "title": "Hürtgenwald und Hohes Venn: Bilder zeigen Zerstörung durch Waldbrände in NRW und Belgien",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/bilder-zeigen-zerstoerung-durch-waldbraende-in-nrw-und-belgien-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/bilder-zeigen-zerstoerung-durch-waldbraende-in-nrw-und-belgien",
+      "published": "Tue, 15 Sep 2026 15:23:27 -0000",
+      "published_display": "15.09.2026 · 15:23 Uhr"
+    },
+    {
+      "title": "Windenergie: Windanlagen in Kyritz – OVG weist Klage des Unternehmens ab",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/windanlagen-in-kyritz-ovg-weist-klage-des-unternehmens-ab-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/windanlagen-in-kyritz-ovg-weist-klage-des-unternehmens-ab",
+      "published": "Tue, 15 Sep 2026 15:23:17 -0000",
+      "published_display": "15.09.2026 · 15:23 Uhr"
+    },
+    {
+      "title": "Fußball: Mario Vušković trainiert nach Dopingsperre erstmals wieder mit dem HSV",
+      "summary": "Der Fußballspieler Mario Vušković wurde wegen Dopings für vier Jahre gesperrt. In zwei Monaten darf er wieder spielen, dafür trainiert er gemeinsam mit der HSV.",
+      "image": "https://img.zeit.de/sport/2026-09/mario-vuskovic-hsv-dopingsperre-training-fans-foto-1/original__640x360",
+      "link": "https://www.zeit.de/sport/2026-09/mario-vuskovic-hsv-dopingsperre-training-fans",
+      "published": "Tue, 15 Sep 2026 15:18:50 -0000",
+      "published_display": "15.09.2026 · 15:18 Uhr"
+    },
     {
       "title": "Organisierte Kriminalität: Jung, brutal, digital",
       "summary": "Kriminelle Gruppen organisieren sich zunehmend über Social Media und greifen zu mehr Gewalt. Was die Regierung dagegen plant. Und: Kommt Entlastung bei den Spritpreisen?",
@@ -14,7 +54,7 @@
       "title": "Finanzen der Hauptstadt: Bundeszuschuss für Sicherheit und Kultur in Berlin wird erhöht",
       "summary": "Zwischen 2028 und 2037 erhält die Hauptstadt 1,35 Milliarden Euro mehr vom Bund als bisher. Damit sollen Kultur und Einsätze von Sicherheitskräften finanziert werden.",
       "image": "https://img.zeit.de/politik/deutschland/2026-09/hauptstadtfinanzierungsvertrag-berlin-bund-kultur-innere-sicherheit-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/hauptstadtfinanzierungsvertrag-berlin-bund-kultur-innere-sicherheit",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/hauptstadtfinanzierungsvertrag-berlin-bund-kultur-innere-sicherheit-gxe",
       "published": "Tue, 15 Sep 2026 15:15:32 -0000",
       "published_display": "15.09.2026 · 15:15 Uhr"
     },
@@ -30,7 +70,7 @@
       "title": "Oliver Skopec: Weiterer Abgeordneter verlässt das BSW in Brandenburg",
       "summary": "Oliver Skopec ist aus dem Brandenburger BSW ausgetreten, da ihm dessen Charakter als Protestpartei nicht ausreiche. Die Fraktion besteht nun nur noch aus acht Personen.",
       "image": "https://img.zeit.de/politik/deutschland/2026-09/oliver-skopec-bsw-brandenburg-austritt-landtag-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/oliver-skopec-bsw-brandenburg-austritt-landtag",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/oliver-skopec-bsw-brandenburg-austritt-landtag-gxe",
       "published": "Tue, 15 Sep 2026 15:13:21 -0000",
       "published_display": "15.09.2026 · 15:13 Uhr"
     },
@@ -81,46 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/15/eisbaeren-mit-grossen-zielen-aber-ohne-riesigen-druck",
       "published": "Tue, 15 Sep 2026 14:56:07 -0000",
       "published_display": "15.09.2026 · 14:56 Uhr"
-    },
-    {
-      "title": "Fußball: Mario Vušković trainiert nach Dopingsperre erstmals wieder mit dem HSV",
-      "summary": "Der Fußballspieler Mario Vušković wurde wegen Dopings für vier Jahre gesperrt. In zwei Monaten darf er wieder spielen, dafür trainiert er gemeinsam mit der HSV.",
-      "image": "https://img.zeit.de/sport/2026-09/mario-vuskovic-hsv-dopingsperre-training-fans-foto-1/original__640x360",
-      "link": "https://www.zeit.de/sport/2026-09/mario-vuskovic-hsv-dopingsperre-training-fans",
-      "published": "Tue, 15 Sep 2026 14:54:03 -0000",
-      "published_display": "15.09.2026 · 14:54 Uhr"
-    },
-    {
-      "title": "Benzin und Diesel: Spritpreise: Brandenburgs Koalition will schnelle Entlastung",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/spritpreise-brandenburgs-koalition-will-schnelle-entlastung-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/spritpreise-brandenburgs-koalition-will-schnelle-entlastung",
-      "published": "Tue, 15 Sep 2026 14:53:41 -0000",
-      "published_display": "15.09.2026 · 14:53 Uhr"
-    },
-    {
-      "title": "Reisen: Weitere Airline fliegt von Hamburg in Hauptstadt Kosovos",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/weitere-airline-fliegt-von-hamburg-in-hauptstadt-kosovos-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/weitere-airline-fliegt-von-hamburg-in-hauptstadt-kosovos",
-      "published": "Tue, 15 Sep 2026 14:48:37 -0000",
-      "published_display": "15.09.2026 · 14:48 Uhr"
-    },
-    {
-      "title": "IAA Transportation: Lkw-Branche fordert Tempo bei Infrastrukturausbau",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/lkw-branche-fordert-tempo-bei-infrastrukturausbau-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/lkw-branche-fordert-tempo-bei-infrastrukturausbau",
-      "published": "Tue, 15 Sep 2026 14:48:14 -0000",
-      "published_display": "15.09.2026 · 14:48 Uhr"
-    },
-    {
-      "title": "Kanzler-Krise: Brandenburgs CDU-Fraktionsvize: Keine «Sonntagsreden» mehr",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/brandenburgs-cdu-fraktionsvize-keine-sonntagsreden-mehr-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/brandenburgs-cdu-fraktionsvize-keine-sonntagsreden-mehr",
-      "published": "Tue, 15 Sep 2026 14:48:02 -0000",
-      "published_display": "15.09.2026 · 14:48 Uhr"
     }
   ]
 }
