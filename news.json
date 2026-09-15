@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-15T22:17:28.736066+00:00",
+  "updated": "2026-09-15T22:29:12.573182+00:00",
   "items": [
+    {
+      "title": "Spritpreise: Wirtschaftsministerium lehnt Forderungen der SPD zu Spritpreisen ab",
+      "summary": "Aus dem Haus von Katherina Reiche werden Bedenken zu Vorschlägen der SPD gegen hohe Treibstoffpreise laut. Eine Übergewinnsteuer und ein Preisdeckel seien problematisch.",
+      "image": "https://img.zeit.de/wirtschaft/2026-09/spritpreise-katharina-reiche-cdu-spritpreisdeckel-uebergewinnsteuer-foto-1/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/2026-09/spritpreise-katharina-reiche-cdu-spritpreisdeckel-uebergewinnsteuer",
+      "published": "Tue, 15 Sep 2026 22:16:41 -0000",
+      "published_display": "15.09.2026 · 22:16 Uhr"
+    },
     {
       "title": "ADAC-Auswertung: Deutlich mehr Stau in Hessen: So zäh waren die Sommerferien",
       "summary": "",
@@ -60,7 +68,7 @@
     },
     {
       "title": "Verteidigung: USA und Deutschland wollen enger in Rüstungsindustrie zusammenarbeiten",
-      "summary": "Boris Pistorius und sein Amtskollege Pete Hegseth wollen bei der Produktion von Waffen stärker kooperieren. Die USA haben deutschen Investitionen in Verteidigung gelobt.",
+      "summary": "Boris Pistorius und sein Amtskollege Pete Hegseth wollen bei der Produktion von Waffen stärker kooperieren. Die USA haben deutsche Investitionen in Verteidigung gelobt.",
       "image": "https://img.zeit.de/politik/ausland/2026-09/ruestungskooperation-usa-deutschland-boris-pistorius-pete-hegseth-foto-1/original__640x360",
       "link": "https://www.zeit.de/politik/ausland/2026-09/ruestungskooperation-usa-deutschland-boris-pistorius-pete-hegseth",
       "published": "Tue, 15 Sep 2026 20:58:01 -0000",
@@ -91,7 +99,7 @@
       "published_display": "15.09.2026 · 20:28 Uhr"
     },
     {
-      "title": "Kennedy Center in Washington D.C.: Donald Trump ordnet sofortige Schließung des Kennedy Centers an",
+      "title": "Kennedy Center in Washington, D. C.: Donald Trump ordnet sofortige Schließung des Kennedy Centers an",
       "summary": "Ein Gericht hatte Donald Trump wiederholt die Anbringung seines Namens an der Fassade des Kennedy Centers untersagt. Nun lässt er das nationale Kulturzentrum schließen.",
       "image": "https://img.zeit.de/politik/ausland/2026-09/kennedy-center-washington-dc-schliessung-donald-trump-renovierung-foto-1/original__640x360",
       "link": "https://www.zeit.de/politik/ausland/2026-09/kennedy-center-washington-dc-schliessung-donald-trump-renovierung",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/15/eltern-eskalieren-streit-ihrer-kinder-fuenf-verletzte",
       "published": "Tue, 15 Sep 2026 20:02:34 -0000",
       "published_display": "15.09.2026 · 20:02 Uhr"
-    },
-    {
-      "title": "Künstliche Intelligenz: KI‑Konzerne OpenAI, Anthropic und Google wollen sich selbst regulieren",
-      "summary": "OpenAI, Anthropic und Google planen eine gemeinsame Aufsichtsorganisation für KI. US-Präsident Donald Trump hatte zuvor eine staatliche Regulierung abgelehnt.",
-      "image": "https://img.zeit.de/digital/internet/2026-09/openai-ki-selbstregulierung-konkurrenz-bild/original__640x360",
-      "link": "https://www.zeit.de/digital/2026-09/selbstregulierung-ki-openai-anthropic-google-dario-amodei-sam-altman-donald-trump-china",
-      "published": "Tue, 15 Sep 2026 19:45:30 -0000",
-      "published_display": "15.09.2026 · 19:45 Uhr"
     }
   ]
 }
