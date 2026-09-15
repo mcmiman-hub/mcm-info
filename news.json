@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-15T17:27:53.882433+00:00",
+  "updated": "2026-09-15T17:43:27.927051+00:00",
   "items": [
+    {
+      "title": "Berliner Olympia-Bewerbung: Berliner Kampfansage im olympischen Bewerbungs-Endspurt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/berliner-kampfansage-im-olympischen-bewerbungs-endspurt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/berliner-kampfansage-im-olympischen-bewerbungs-endspurt",
+      "published": "Tue, 15 Sep 2026 17:41:28 -0000",
+      "published_display": "15.09.2026 · 17:41 Uhr"
+    },
+    {
+      "title": "Kurioser Job: Junger Hamburger wird erster Haldenwärter im Ruhrgebiet",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/junger-hamburger-wird-erster-haldenwaerter-im-ruhrgebiet-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/junger-hamburger-wird-erster-haldenwaerter-im-ruhrgebiet",
+      "published": "Tue, 15 Sep 2026 17:30:54 -0000",
+      "published_display": "15.09.2026 · 17:30 Uhr"
+    },
+    {
+      "title": "Wettkampf: Wettrutschen im Harz - Olympiasieger nur auf Platz drei",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/wettrutschen-im-harz-olympiasieger-nur-auf-platz-drei-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/wettrutschen-im-harz-olympiasieger-nur-auf-platz-drei",
+      "published": "Tue, 15 Sep 2026 17:27:25 -0000",
+      "published_display": "15.09.2026 · 17:27 Uhr"
+    },
     {
       "title": "Kanzler-Krise: Merz sagt Reise zur UN-Generaldebatte nach New York ab",
       "summary": "",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/15/haseloff-empfiehlt-kanzler-merz-empathische-ansprache",
       "published": "Tue, 15 Sep 2026 16:42:23 -0000",
       "published_display": "15.09.2026 · 16:42 Uhr"
-    },
-    {
-      "title": "Finanzkrise in Schwerin: Millionenlöcher in Schwerins Etat - Ruf nach Hilfe",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/millionenloecher-in-schwerins-etat-ruf-nach-hilfe-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/millionenloecher-in-schwerins-etat-ruf-nach-hilfe",
-      "published": "Tue, 15 Sep 2026 16:38:37 -0000",
-      "published_display": "15.09.2026 · 16:38 Uhr"
-    },
-    {
-      "title": "Bundesanwaltschaft: Mutmaßliche Mitglieder von Eritrea-Terrorgruppe festgenommen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/mutmassliche-mitglieder-von-eritrea-terrorgruppe-festgenommen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/mutmassliche-mitglieder-von-eritrea-terrorgruppe-festgenommen",
-      "published": "Tue, 15 Sep 2026 16:36:40 -0000",
-      "published_display": "15.09.2026 · 16:36 Uhr"
-    },
-    {
-      "title": "Kriminalität: Frau in Neumünster mit Messer verletzt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/frau-in-neumuenster-mit-messer-verletzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/frau-in-neumuenster-mit-messer-verletzt",
-      "published": "Tue, 15 Sep 2026 16:28:10 -0000",
-      "published_display": "15.09.2026 · 16:28 Uhr"
     }
   ]
 }
