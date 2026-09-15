@@ -1,14 +1,86 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-15T14:57:15.353380+00:00",
+  "updated": "2026-09-15T15:17:25.065489+00:00",
   "items": [
+    {
+      "title": "Organisierte Kriminalität: Jung, brutal, digital",
+      "summary": "Kriminelle Gruppen organisieren sich zunehmend über Social Media und greifen zu mehr Gewalt. Was die Regierung dagegen plant. Und: Kommt Entlastung bei den Spritpreisen?",
+      "image": "https://img.zeit.de/politik/2026-09/organisierte-kriminalitaet-drogen-minderjaehrige-nachrichtenpodcast-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/2026-09/organisierte-kriminalitaet-drogen-minderjaehrige-nachrichtenpodcast",
+      "published": "Tue, 15 Sep 2026 15:16:18 -0000",
+      "published_display": "15.09.2026 · 15:16 Uhr"
+    },
+    {
+      "title": "Finanzen der Hauptstadt: Bundeszuschuss für Sicherheit und Kultur in Berlin wird erhöht",
+      "summary": "Zwischen 2028 und 2037 erhält die Hauptstadt 1,35 Milliarden Euro mehr vom Bund als bisher. Damit sollen Kultur und Einsätze von Sicherheitskräften finanziert werden.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/hauptstadtfinanzierungsvertrag-berlin-bund-kultur-innere-sicherheit-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/hauptstadtfinanzierungsvertrag-berlin-bund-kultur-innere-sicherheit",
+      "published": "Tue, 15 Sep 2026 15:15:32 -0000",
+      "published_display": "15.09.2026 · 15:15 Uhr"
+    },
+    {
+      "title": "Gesundheit: MV-Landesregierung kritisiert Benachteiligungen nach Krebs",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/mv-landesregierung-kritisiert-benachteiligungen-nach-krebs-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/mv-landesregierung-kritisiert-benachteiligungen-nach-krebs",
+      "published": "Tue, 15 Sep 2026 15:15:18 -0000",
+      "published_display": "15.09.2026 · 15:15 Uhr"
+    },
     {
       "title": "Oliver Skopec: Weiterer Abgeordneter verlässt das BSW in Brandenburg",
       "summary": "Oliver Skopec ist aus dem Brandenburger BSW ausgetreten, da ihm dessen Charakter als Protestpartei nicht ausreiche. Die Fraktion besteht nun nur noch aus acht Personen.",
       "image": "https://img.zeit.de/politik/deutschland/2026-09/oliver-skopec-bsw-brandenburg-austritt-landtag-foto-1/original__640x360",
       "link": "https://www.zeit.de/politik/deutschland/2026-09/oliver-skopec-bsw-brandenburg-austritt-landtag",
-      "published": "Tue, 15 Sep 2026 14:55:04 -0000",
-      "published_display": "15.09.2026 · 14:55 Uhr"
+      "published": "Tue, 15 Sep 2026 15:13:21 -0000",
+      "published_display": "15.09.2026 · 15:13 Uhr"
+    },
+    {
+      "title": "Debatte um Entlastungen: Merz kündigt schnelle Entlastung bei Spritpreisen an",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/spritpreise-auf-rekordkurs-debatte-ueber-entlastungen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/spritpreise-auf-rekordkurs-debatte-ueber-entlastungen",
+      "published": "Tue, 15 Sep 2026 15:12:28 -0000",
+      "published_display": "15.09.2026 · 15:12 Uhr"
+    },
+    {
+      "title": "Spritpreise: Friedrich Merz kündigt Entlastungen bei Spritpreisen an",
+      "summary": "Angesichts der erneut gestiegenen Spritpreise hat Bundeskanzler Friedrich Merz Entlastungen angekündigt. Das genaue Instrumentarium stehe noch nicht fest.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/friedrich-merz-kuendigt-entlastungen-bei-spritpreisen-an-bild-2/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/friedrich-merz-kuendigt-entlastungen-bei-spritpreisen-an",
+      "published": "Tue, 15 Sep 2026 15:09:11 -0000",
+      "published_display": "15.09.2026 · 15:09 Uhr"
+    },
+    {
+      "title": "Mit Alkohol hinterm Steuer: Mehrfach überschlagen – Autofahrer schwer verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/mehrfach-ueberschlagen-autofahrer-schwer-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/mehrfach-ueberschlagen-autofahrer-schwer-verletzt",
+      "published": "Tue, 15 Sep 2026 15:05:50 -0000",
+      "published_display": "15.09.2026 · 15:05 Uhr"
+    },
+    {
+      "title": "CDU: Merz beruft für Wahlabend Sitzung der CDU-Spitze ein",
+      "summary": "Am Abend nach den Wahlen in Berlin und Mecklenburg-Vorpommern will Friedrich Merz in Berlin mit dem CDU-Präsidium beraten. Es soll möglichst vollzählig zusammenkommen.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/friedrich-merz-cdu-parteipraesidium-landtagswahlen-berlin-mecklenburg-vorpommern-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/friedrich-merz-cdu-parteipraesidium-landtagswahlen-berlin-mecklenburg-vorpommern-gxe",
+      "published": "Tue, 15 Sep 2026 15:04:12 -0000",
+      "published_display": "15.09.2026 · 15:04 Uhr"
+    },
+    {
+      "title": "AfD-Wahlerfolg: »Sobald mein Master beendet ist, möchte ich Sachsen-Anhalt verlassen«",
+      "summary": "Im Bus beleidigt und aus Angst zu Hause geblieben: Drei internationale Studierende erzählen, was der AfD-Wahlerfolg mit ihnen macht.",
+      "image": "https://img.zeit.de/campus/2026-09/afd-wahlerfolg-sachsen-anhalt-internationale/original__640x360",
+      "link": "https://www.zeit.de/campus/2026-09/afd-wahlerfolg-sachsen-anhalt-internationale-studierende-diskriminierung",
+      "published": "Tue, 15 Sep 2026 15:03:52 -0000",
+      "published_display": "15.09.2026 · 15:03 Uhr"
+    },
+    {
+      "title": "Deutsche Eishockey Liga: Eisbären mit großen Zielen, aber «ohne riesigen Druck»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/eisbaeren-mit-grossen-zielen-aber-ohne-riesigen-druck-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/eisbaeren-mit-grossen-zielen-aber-ohne-riesigen-druck",
+      "published": "Tue, 15 Sep 2026 14:56:07 -0000",
+      "published_display": "15.09.2026 · 14:56 Uhr"
     },
     {
       "title": "Fußball: Mario Vušković trainiert nach Dopingsperre erstmals wieder mit dem HSV",
@@ -25,14 +97,6 @@
       "link": "https://www.zeit.de/news/2026-09/15/spritpreise-brandenburgs-koalition-will-schnelle-entlastung",
       "published": "Tue, 15 Sep 2026 14:53:41 -0000",
       "published_display": "15.09.2026 · 14:53 Uhr"
-    },
-    {
-      "title": "Finanzen der Hauptstadt: Bundeszuschuss für Sicherheit und Kultur in Berlin wird erhöht",
-      "summary": "Zwischen 2028 und 2037 erhält die Hauptstadt 1,35 Milliarden Euro mehr vom Bund als bisher. Damit sollen Kultur und Einsätze von Sicherheitskräften finanziert werden.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/hauptstadtfinanzierungsvertrag-berlin-bund-kultur-innere-sicherheit-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/hauptstadtfinanzierungsvertrag-berlin-bund-kultur-innere-sicherheit",
-      "published": "Tue, 15 Sep 2026 14:51:02 -0000",
-      "published_display": "15.09.2026 · 14:51 Uhr"
     },
     {
       "title": "Reisen: Weitere Airline fliegt von Hamburg in Hauptstadt Kosovos",
@@ -57,70 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/15/brandenburgs-cdu-fraktionsvize-keine-sonntagsreden-mehr",
       "published": "Tue, 15 Sep 2026 14:48:02 -0000",
       "published_display": "15.09.2026 · 14:48 Uhr"
-    },
-    {
-      "title": "Kommunen: Ordnungsamt-Mitarbeiter soll Kolleginnen vergewaltigt haben",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/ordnungsamt-mitarbeiter-soll-kolleginnen-vergewaltigt-haben-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/ordnungsamt-mitarbeiter-soll-kolleginnen-vergewaltigt-haben",
-      "published": "Tue, 15 Sep 2026 14:47:58 -0000",
-      "published_display": "15.09.2026 · 14:47 Uhr"
-    },
-    {
-      "title": "Deutsches Reich: AfD wirbt mit Pappfiguren von Hindenburg bis Weidel",
-      "summary": "",
-      "image": "",
-      "link": "https://www.zeit.de/news/2026-09/15/afd-wirbt-mit-pappfiguren-von-hindenburg-bis-weidel",
-      "published": "Tue, 15 Sep 2026 14:47:24 -0000",
-      "published_display": "15.09.2026 · 14:47 Uhr"
-    },
-    {
-      "title": "Ermittlungen: Lehrer wegen Missbrauchsverdachts in U-Haft",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/lehrer-wegen-missbrauchsverdachts-in-u-haft-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/lehrer-wegen-missbrauchsverdachts-in-u-haft",
-      "published": "Tue, 15 Sep 2026 14:45:30 -0000",
-      "published_display": "15.09.2026 · 14:45 Uhr"
-    },
-    {
-      "title": "Krieg gegen die Ukraine: Ukraine hat offenbar Gebiet im Donezk zurückerobert",
-      "summary": "Das ukrainische Militär hat erfolgreiche Gebietsrückeroberungen in der Region Donezk publik gemacht. Polen verstärkt seinen Grenzschutz zur Ukraine. Das Liveblog",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/ukraine-krieg-news-liveblog-bild-6/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "published": "Tue, 15 Sep 2026 14:44:38 -0000",
-      "published_display": "15.09.2026 · 14:44 Uhr"
-    },
-    {
-      "title": "Kriminalität: Verdacht auf Drogenhandel - drei Festnahmen in Osthessen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/verdacht-auf-drogenhandel-drei-festnahmen-in-osthessen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/verdacht-auf-drogenhandel-drei-festnahmen-in-osthessen",
-      "published": "Tue, 15 Sep 2026 14:43:43 -0000",
-      "published_display": "15.09.2026 · 14:43 Uhr"
-    },
-    {
-      "title": "Vorstoß im Landtag: SPD fordert «Hundeführerschein» für neue Herrchen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/spd-fordert-hundefuehrerschein-fuer-neue-herrchen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/spd-fordert-hundefuehrerschein-fuer-neue-herrchen",
-      "published": "Tue, 15 Sep 2026 14:42:46 -0000",
-      "published_display": "15.09.2026 · 14:42 Uhr"
-    },
-    {
-      "title": "Zugausfälle: Sabotage legt Bahnverkehr in Teilen der Niederlande lahm",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/sabotage-legt-bahnverkehr-in-teilen-der-niederlande-lahm-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/sabotage-legt-bahnverkehr-in-teilen-der-niederlande-lahm",
-      "published": "Tue, 15 Sep 2026 14:41:16 -0000",
-      "published_display": "15.09.2026 · 14:41 Uhr"
-    },
-    {
-      "title": "Kriminalität: Überfallserie mit Schusswaffe - 15-Jähriger in U-Haft",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/ueberfallserie-mit-schusswaffe-15-jaehriger-in-u-haft-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/ueberfallserie-mit-schusswaffe-15-jaehriger-in-u-haft",
-      "published": "Tue, 15 Sep 2026 14:40:45 -0000",
-      "published_display": "15.09.2026 · 14:40 Uhr"
     }
   ]
 }
