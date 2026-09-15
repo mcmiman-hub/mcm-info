@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-15T05:18:14.284886+00:00",
+  "updated": "2026-09-15T05:32:00.890940+00:00",
   "items": [
+    {
+      "title": "Sydney Sweeney: Sportlerinnen kritisieren sexualisierte Werbung mit Sydney Sweeney",
+      "summary": "Die US-Schauspielerin Sydney Sweeney wirbt mit Nacktfotos für einen Sportwettenanbieter. Die Werbekampagne löst unter Sportlerinnen eine heftige Kontroverse aus.",
+      "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-09/sydney-sweeney-werbung-sportwetten-nacktheit-kritik-ariarne-titmus-foto-1/original__640x360",
+      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-09/sydney-sweeney-werbung-sportwetten-nacktheit-kritik-ariarne-titmus",
+      "published": "Tue, 15 Sep 2026 05:30:36 -0000",
+      "published_display": "15.09.2026 · 05:30 Uhr"
+    },
     {
       "title": "Sicherheit im Zugverkehr : Deutsche Bahn will Alkohol an allen Bahnhöfen verbieten",
       "summary": "Nach dem gewaltsamen Tod eines Zugbegleiters sollen zahlreiche Maßnahmen für mehr Sicherheit sorgen. Unter anderem soll Alkoholkonsum an Bahnhöfen verboten werden.",
@@ -19,8 +27,8 @@
       "published_display": "15.09.2026 · 05:10 Uhr"
     },
     {
-      "title": "Emmy Awards: »Widow's Bay« und »The Pitt« sind die Sieger der Emmy-Verleihung",
-      "summary": "Die Horror-Comedyserie »Widow's Bay« hat mehr Emmys gewonnen als jemals eine Serie in der Comedy-Kategorie. »The Pitt« erhielt sechs Auszeichnungen.",
+      "title": "Emmy Awards: »Widow’s Bay« und »The Pitt« sind die Sieger der Emmyverleihung",
+      "summary": "Die Horror-Comedyserie »Widow’s Bay« hat mehr Emmys gewonnen als jemals eine Serie in der Comedykategorie. »The Pitt« erhielt sechs Auszeichnungen.",
       "image": "https://img.zeit.de/feuilleton/film/2026-09/emmy-awards-widows-bay-apple-tv-matthew-rhys-the-pitt-foto-1/original__640x360",
       "link": "https://www.zeit.de/feuilleton/film/2026-09/emmy-awards-widows-bay-apple-tv-matthew-rhys-the-pitt",
       "published": "Tue, 15 Sep 2026 05:08:45 -0000",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/15/bilder-des-tages",
       "published": "Tue, 15 Sep 2026 04:14:05 -0000",
       "published_display": "15.09.2026 · 04:14 Uhr"
-    },
-    {
-      "title": "Sonntagskrimi am 20. September: Düsterer Köln-«Tatort»: Überlebenstraining im Bunker",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/duesterer-koeln-tatort-ueberlebenstraining-im-bunker-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/duesterer-koeln-tatort-ueberlebenstraining-im-bunker",
-      "published": "Tue, 15 Sep 2026 04:11:55 -0000",
-      "published_display": "15.09.2026 · 04:11 Uhr"
     }
   ]
 }
