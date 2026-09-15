@@ -1,7 +1,55 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-15T07:35:14.362503+00:00",
+  "updated": "2026-09-15T07:49:17.921255+00:00",
   "items": [
+    {
+      "title": "Kinder in Deutschland: Kinderanteil ist im Osten Deutschlands niedriger als im Westen",
+      "summary": "Der Anteil ​von Kindern an der deutschen Bevölkerung hat in den letzten zehn Jahren leicht zugenommen. In Deutschland leben 10,8 Millionen Menschen unter 14 ​Jahren.",
+      "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-09/kinder-bevoelkerungsanteil-deutschland-bundeslaender-entwicklung-foto-1/original__640x360",
+      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-09/kinder-bevoelkerungsanteil-deutschland-bundeslaender-entwicklung",
+      "published": "Tue, 15 Sep 2026 07:47:46 -0000",
+      "published_display": "15.09.2026 · 07:47 Uhr"
+    },
+    {
+      "title": "Luftverkehr: Flughafen Köln/Bonn: Passagiere mussten länger warten",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/flughafen-koeln-bonn-passagiere-muessen-laenger-warten-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/flughafen-koeln-bonn-passagiere-muessen-laenger-warten",
+      "published": "Tue, 15 Sep 2026 07:46:15 -0000",
+      "published_display": "15.09.2026 · 07:46 Uhr"
+    },
+    {
+      "title": "Social Media: Berlin-Wahl: Falsches Rathaus in Wahlwerbespot der Linken",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/berlin-wahl-falsches-rathaus-in-wahlwerbespot-der-linken-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/berlin-wahl-falsches-rathaus-in-wahlwerbespot-der-linken",
+      "published": "Tue, 15 Sep 2026 07:45:28 -0000",
+      "published_display": "15.09.2026 · 07:45 Uhr"
+    },
+    {
+      "title": "Antisemitismus: Wadephul trifft Charlotte Knobloch nach Morddrohung",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/wadephul-trifft-charlotte-knobloch-nach-morddrohung-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/wadephul-trifft-charlotte-knobloch-nach-morddrohung",
+      "published": "Tue, 15 Sep 2026 07:45:27 -0000",
+      "published_display": "15.09.2026 · 07:45 Uhr"
+    },
+    {
+      "title": "Rüstungsindustrie: Pistorius will Rüstungskooperationen mit den USA weiter ausbauen",
+      "summary": "Deutschland plant eine Ausweitung der Rüstungsproduktion für und mit den USA. Verteidigungsminister Boris Pistorius will dazu Gespräche in den USA führen.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/boris-pistorius-usa-deutschland-ruestungskooperation-f-35-patriot-tomahawk-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/boris-pistorius-usa-deutschland-ruestungskooperation-f-35-patriot-tomahawk",
+      "published": "Tue, 15 Sep 2026 07:43:03 -0000",
+      "published_display": "15.09.2026 · 07:43 Uhr"
+    },
+    {
+      "title": "Eishockey: Saisonstart in der DEL: Bayerns Eishockey-Teams im Check",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/saisonstart-in-der-del-bayerns-eishockey-teams-im-check-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/saisonstart-in-der-del-bayerns-eishockey-teams-im-check",
+      "published": "Tue, 15 Sep 2026 07:34:57 -0000",
+      "published_display": "15.09.2026 · 07:34 Uhr"
+    },
     {
       "title": "Wetter im Norden: Noch ein Sonnentag, dann kommt der Herbst",
       "summary": "",
@@ -28,7 +76,7 @@
     },
     {
       "title": "Ukrainekarte aktuell: Ukrainische Truppen verteidigen Stellungen in Region Donezk",
-      "summary": "Entgegen russischer Angaben hält die ukrainische Armee Positionen südöstlich von Dobropillja. Nördlich von Charkiw sind russische Einheiten vereinzelt vorgedrungen.",
+      "summary": "Entgegen russischen Angaben hält die ukrainische Armee Positionen südöstlich von Dobropillja. Nördlich von Charkiw sind russische Einheiten vereinzelt vorgedrungen.",
       "image": "https://img.zeit.de/politik/ausland/2023-09/karte-ukraine-krieg-russland-frontverlauf-truppenbewegungen-teaserbild/original__640x360",
       "link": "https://www.zeit.de/politik/ausland/ukraine-russland-frontverlauf-krieg-karte-aktuell",
       "published": "Tue, 15 Sep 2026 07:24:33 -0000",
@@ -73,54 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/15/wolken-ueber-mecklenburg-vorpommern-wann-es-gewittern-kann",
       "published": "Tue, 15 Sep 2026 07:12:28 -0000",
       "published_display": "15.09.2026 · 07:12 Uhr"
-    },
-    {
-      "title": "Kuba in der Krise: Noch halten sie durch",
-      "summary": "Der US-Präsident will Kubas System stürzen. Doch trotz Hunger und Stromausfällen hält es sich an der Macht. Dabei spielt ein mysteriöses Konglomerat eine zentrale Rolle.",
-      "image": "https://img.zeit.de/2026/39/noch-halten-sie-durch-bild-5/original__640x360",
-      "link": "https://www.zeit.de/2026/39/kuba-krise-stromausfaelle-sanktionen-usa-raul-castro-donald-trump",
-      "published": "Tue, 15 Sep 2026 07:08:43 -0000",
-      "published_display": "15.09.2026 · 07:08 Uhr"
-    },
-    {
-      "title": "Kinder in Deutschland: Kinderanteil ist im Osten Deutschlands niedriger als im Westen",
-      "summary": "Der Anteil ​der Kinder an der deutschen Bevölkerung hat in den letzten zehn Jahren leicht zugenommen. In Deutschland leben 10,8 Millionen Kinder unter 14 ​Jahren.",
-      "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-09/kinder-bevoelkerungsanteil-deutschland-bundeslaender-entwicklung-foto-1/original__640x360",
-      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-09/kinder-bevoelkerungsanteil-deutschland-bundeslaender-entwicklung",
-      "published": "Tue, 15 Sep 2026 07:08:37 -0000",
-      "published_display": "15.09.2026 · 07:08 Uhr"
-    },
-    {
-      "title": "Hausparty: Bei Party Wohnung verwüstet - 15-Jähriger springt und flieht",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/bei-party-wohnung-verwuestet-15-jaehriger-springt-und-flieht-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/bei-party-wohnung-verwuestet-15-jaehriger-springt-und-flieht",
-      "published": "Tue, 15 Sep 2026 07:08:20 -0000",
-      "published_display": "15.09.2026 · 07:08 Uhr"
-    },
-    {
-      "title": "Brände: Zwei Autos brennen in Leipziger Parkhaus am Hauptbahnhof aus",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/zwei-autos-brennen-in-leipziger-parkhaus-am-hauptbahnhof-aus-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/zwei-autos-brennen-in-leipziger-parkhaus-am-hauptbahnhof-aus",
-      "published": "Tue, 15 Sep 2026 07:02:46 -0000",
-      "published_display": "15.09.2026 · 07:02 Uhr"
-    },
-    {
-      "title": "Pflegekosten: Kommunen kritisieren stark gestiegene Ausgaben für Pflegekosten",
-      "summary": "Wenn Pflegebedürftige und Angehörige ihren Eigenanteil an den Pflegekosten nicht tragen können, springen die Kommunen ein. Diese schlagen wegen steigender Ausgaben Alarm.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/pflege-kosten-eigenanteil-kommunen-sozialamt-hilfe-zur-pflege-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/pflege-kosten-eigenanteil-kommunen-sozialamt-hilfe-zur-pflege",
-      "published": "Tue, 15 Sep 2026 07:00:59 -0000",
-      "published_display": "15.09.2026 · 07:00 Uhr"
-    },
-    {
-      "title": "Mehrere Häuser evakuiert: Granate in Beckingen gefunden und kontrolliert gesprengt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/granate-in-beckingen-gefunden-und-kontrolliert-gesprengt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/granate-in-beckingen-gefunden-und-kontrolliert-gesprengt",
-      "published": "Tue, 15 Sep 2026 07:00:47 -0000",
-      "published_display": "15.09.2026 · 07:00 Uhr"
     }
   ]
 }
