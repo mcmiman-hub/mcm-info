@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-15T17:15:51.624028+00:00",
+  "updated": "2026-09-15T17:27:53.882433+00:00",
   "items": [
+    {
+      "title": "Kanzler-Krise: Merz sagt Reise zur UN-Generaldebatte nach New York ab",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/merz-sagt-reise-zur-un-generaldebatte-nach-new-york-ab-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/merz-sagt-reise-zur-un-generaldebatte-nach-new-york-ab",
+      "published": "Tue, 15 Sep 2026 17:16:55 -0000",
+      "published_display": "15.09.2026 · 17:16 Uhr"
+    },
+    {
+      "title": "Regierungskrise: Friedrich Merz sagt Reise zur UN-Generaldebatte nach New York ab",
+      "summary": "Kanzler Merz hat seine Reise zu den UN nächste Woche abgesagt. Seine Präsenz sei in Berlin »erforderlich«, hieß es. Am Wochenende wird in zwei Bundesländern gewählt.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/un-generalversammlung-new-york-friedrich-merz-reise-absage-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/un-generalversammlung-new-york-friedrich-merz-reise-absage",
+      "published": "Tue, 15 Sep 2026 17:16:42 -0000",
+      "published_display": "15.09.2026 · 17:16 Uhr"
+    },
+    {
+      "title": "Frankreich: Offiziell: RC Lens trennt sich von Trainer Dino Toppmöller",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/offiziell-rc-lens-trennt-sich-von-trainer-dino-toppmoeller-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/offiziell-rc-lens-trennt-sich-von-trainer-dino-toppmoeller",
+      "published": "Tue, 15 Sep 2026 17:16:22 -0000",
+      "published_display": "15.09.2026 · 17:16 Uhr"
+    },
     {
       "title": "BSW-Spitzenkandidatin Claudia Wittig: »Es wäre schön, wenn die AfD sich rhetorisch zurücknehmen würde«",
       "summary": "Das BSW ist die Königsmacherin im Landtag von Sachsen-Anhalt – und könnte der AfD an die Macht verhelfen. Doch Spitzenkandidatin Claudia Wittig stellt harte Bedingungen.",
@@ -27,22 +51,6 @@
       "published_display": "15.09.2026 · 17:04 Uhr"
     },
     {
-      "title": "Regierung: Merz sagt Reise zur UN-Generaldebatte nach New York ab",
-      "summary": "",
-      "image": "",
-      "link": "https://www.zeit.de/news/2026-09/15/merz-sagt-reise-zur-un-generaldebatte-nach-new-york-ab",
-      "published": "Tue, 15 Sep 2026 17:01:28 -0000",
-      "published_display": "15.09.2026 · 17:01 Uhr"
-    },
-    {
-      "title": "Frankreich: Offiziell: RC Lens trennt sich von Trainer Dino Toppmöller",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/offiziell-rc-lens-trennt-sich-von-trainer-dino-toppmoeller-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/offiziell-rc-lens-trennt-sich-von-trainer-dino-toppmoeller",
-      "published": "Tue, 15 Sep 2026 16:58:54 -0000",
-      "published_display": "15.09.2026 · 16:58 Uhr"
-    },
-    {
       "title": "Durchbruch mit «Das Boot»: Schauspieler und Ruhrpott-Schnauze Ralf Richter ist tot",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-09/15/schauspieler-und-ruhrpott-schnauze-ralf-richter-ist-tot-image-group/original__640x360",
@@ -51,7 +59,7 @@
       "published_display": "15.09.2026 · 16:57 Uhr"
     },
     {
-      "title": "Gianni Infantino: Neuendorf fordert Ende des »Systems Infantino« bei der Fifa",
+      "title": "Gianni Infantino: Bernd Neuendorf fordert Ende des »Systems Infantino« bei der Fifa",
       "summary": "DFB-Präsident Neuendorf hat ein Ende der Amtszeit von Fifa-Präsident Gianni Infantino gefordert. Der DFB hat ihm die Unterstützung bislang nicht offiziell entzogen.",
       "image": "https://img.zeit.de/sport/2026-09/bernd-neuendorf-dfb-fifa-gianni-infantino-foto-1/original__640x360",
       "link": "https://www.zeit.de/sport/2026-09/bernd-neuendorf-dfb-fifa-gianni-infantino",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/15/frau-in-neumuenster-mit-messer-verletzt",
       "published": "Tue, 15 Sep 2026 16:28:10 -0000",
       "published_display": "15.09.2026 · 16:28 Uhr"
-    },
-    {
-      "title": "Film: Schauspieler Ralf Richter ist tot",
-      "summary": "",
-      "image": "",
-      "link": "https://www.zeit.de/news/2026-09/15/schauspieler-ralf-richter-ist-tot",
-      "published": "Tue, 15 Sep 2026 16:26:36 -0000",
-      "published_display": "15.09.2026 · 16:26 Uhr"
     }
   ]
 }
