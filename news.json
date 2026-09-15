@@ -1,7 +1,55 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-15T18:19:09.479906+00:00",
+  "updated": "2026-09-15T18:33:34.922730+00:00",
   "items": [
+    {
+      "title": "Ukraine: Wladimir Putins extreme Botschaft",
+      "summary": "Russland greift einen Zug mit westlichen Politikern an. Dahinter steckt eine Strategie, die schon im Kalten Krieg angewendet wurde – und die Deutschland anstachelt.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/russischer-angriff-zug-ukraine-polen-politiker-bild-7/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/russischer-angriff-zug-ukraine-polen-politiker",
+      "published": "Tue, 15 Sep 2026 18:30:29 -0000",
+      "published_display": "15.09.2026 · 18:30 Uhr"
+    },
+    {
+      "title": "Spezialschiff zurück: LNG-Spezialschiff «Energos Force» zurück in Stade",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/lng-spezialschiff-energos-force-zurueck-in-stade-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/lng-spezialschiff-energos-force-zurueck-in-stade",
+      "published": "Tue, 15 Sep 2026 18:28:49 -0000",
+      "published_display": "15.09.2026 · 18:28 Uhr"
+    },
+    {
+      "title": "Vorsorge und Erbrecht: »Ist das noch aktuell? Möchten Sie sterben?«, fragt die Anwältin",
+      "summary": "Die Hamburger Juristin Anne Woywod begleitet Menschen in den Tod. Sie will, dass sie selbstbestimmt sterben können. Und in Würde. Doch ihr Job fordert von ihr einiges.",
+      "image": "https://img.zeit.de/hamburg/2026-09/vorsorgerecht-erbrecht-beratung-assistierter-suizid-anne-woywod-hamburg-bild-1/original__640x360",
+      "link": "https://www.zeit.de/hamburg/2026-09/vorsorgerecht-erbrecht-beratung-assistierter-suizid-anne-woywod-hamburg",
+      "published": "Tue, 15 Sep 2026 18:24:15 -0000",
+      "published_display": "15.09.2026 · 18:24 Uhr"
+    },
+    {
+      "title": "Ali al-Saidi in Berlin: Irak bietet Deutschland Vereinbarungen über Öllieferungen an",
+      "summary": "Iraks Ministerpräsident al-Saidi hat in Berlin Öllieferungen in Aussicht gestellt. Der Kanzler drang auf ein »gutes Miteinander« der Regierung mit den Kurden im Norden.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/ali-al-saidi-irak-berlin-wiederaufbau-rohoel-pipeline-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/ali-al-saidi-irak-berlin-wiederaufbau-rohoel-pipeline",
+      "published": "Tue, 15 Sep 2026 18:23:34 -0000",
+      "published_display": "15.09.2026 · 18:23 Uhr"
+    },
+    {
+      "title": "Kanzler-Krise: Merz sagt Reise zur UN-Generaldebatte nach New York ab",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/merz-sagt-reise-zur-un-generaldebatte-nach-new-york-ab-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/merz-sagt-reise-zur-un-generaldebatte-nach-new-york-ab",
+      "published": "Tue, 15 Sep 2026 18:20:43 -0000",
+      "published_display": "15.09.2026 · 18:20 Uhr"
+    },
+    {
+      "title": "Tennis: Zverev sagt Davis-Cup-Teilnahme zu",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/zverev-sagt-davis-cup-teilnahme-zu-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/zverev-sagt-davis-cup-teilnahme-zu",
+      "published": "Tue, 15 Sep 2026 18:20:21 -0000",
+      "published_display": "15.09.2026 · 18:20 Uhr"
+    },
     {
       "title": "Spahn-Rückzug: Spahn gibt Bezirksvorsitz im Münsterland auf - Feller folgt",
       "summary": "",
@@ -43,14 +91,6 @@
       "published_display": "15.09.2026 · 17:53 Uhr"
     },
     {
-      "title": "Kanzler-Krise: Merz sagt Reise zur UN-Generaldebatte nach New York ab",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/merz-sagt-reise-zur-un-generaldebatte-nach-new-york-ab-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/merz-sagt-reise-zur-un-generaldebatte-nach-new-york-ab",
-      "published": "Tue, 15 Sep 2026 17:50:43 -0000",
-      "published_display": "15.09.2026 · 17:50 Uhr"
-    },
-    {
       "title": "Regierungskrise: Friedrich Merz sagt Reise zur UN-Generaldebatte nach New York ab",
       "summary": "Kanzler Merz hat seine Reise zu den UN nächste Woche abgesagt. Seine Präsenz sei in Berlin »erforderlich«, hieß es. Am Wochenende wird in zwei Bundesländern gewählt.",
       "image": "https://img.zeit.de/politik/deutschland/2026-09/un-generalversammlung-new-york-friedrich-merz-reise-absage-foto-1/original__640x360",
@@ -81,46 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/15/junger-hamburger-wird-erster-haldenwaerter-im-ruhrgebiet",
       "published": "Tue, 15 Sep 2026 17:30:54 -0000",
       "published_display": "15.09.2026 · 17:30 Uhr"
-    },
-    {
-      "title": "Wettkampf: Wettrutschen im Harz - Olympiasieger nur auf Platz drei",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/wettrutschen-im-harz-olympiasieger-nur-auf-platz-drei-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/wettrutschen-im-harz-olympiasieger-nur-auf-platz-drei",
-      "published": "Tue, 15 Sep 2026 17:27:25 -0000",
-      "published_display": "15.09.2026 · 17:27 Uhr"
-    },
-    {
-      "title": "Frankreich: Offiziell: RC Lens trennt sich von Trainer Dino Toppmöller",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/offiziell-rc-lens-trennt-sich-von-trainer-dino-toppmoeller-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/offiziell-rc-lens-trennt-sich-von-trainer-dino-toppmoeller",
-      "published": "Tue, 15 Sep 2026 17:16:22 -0000",
-      "published_display": "15.09.2026 · 17:16 Uhr"
-    },
-    {
-      "title": "BSW-Spitzenkandidatin Claudia Wittig: »Es wäre schön, wenn die AfD sich rhetorisch zurücknehmen würde«",
-      "summary": "Das BSW ist die Königsmacherin im Landtag von Sachsen-Anhalt – und könnte der AfD an die Macht verhelfen. Doch Spitzenkandidatin Claudia Wittig stellt harte Bedingungen.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/bsw-claudia-wittig-sachsen-anhalt-landtag-regierungsbildung-afd-ulrich-siegmund-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/bsw-claudia-wittig-sachsen-anhalt-landtag-regierungsbildung-afd-ulrich-siegmund",
-      "published": "Tue, 15 Sep 2026 17:04:10 -0000",
-      "published_display": "15.09.2026 · 17:04 Uhr"
-    },
-    {
-      "title": "Demokratie: Ab Sonntag wackelt alles",
-      "summary": "Der Kanzler und die Koalition stehen infrage. Doch das Ende von Schwarz-Rot wäre nicht das Ende der Demokratie. Man kann schon jetzt Lehren für den Neuanfang ziehen.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/demokratie-parteiensystem-krise-bundeskanzler-friedrich-merz-regierung-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/demokratie-parteiensystem-krise-bundeskanzler-friedrich-merz-regierung",
-      "published": "Tue, 15 Sep 2026 17:04:04 -0000",
-      "published_display": "15.09.2026 · 17:04 Uhr"
-    },
-    {
-      "title": "»Das Boot«: Schauspieler Ralf Richter ist tot",
-      "summary": "Im Alter von 69 Jahren ist der Schauspieler Ralf Richter gestorben. Seinen Durchbruch feierte er 1981 als Dieselmaat Frenssen in »Das Boot«.",
-      "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-09/schauspieler-ralf-richter-gestorben-bild/original__640x360",
-      "link": "https://www.zeit.de/feuilleton/film/2026-09/schauspieler-ralf-richter-ist-tot",
-      "published": "Tue, 15 Sep 2026 17:04:00 -0000",
-      "published_display": "15.09.2026 · 17:04 Uhr"
     }
   ]
 }
