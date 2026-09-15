@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-15T04:19:19.837336+00:00",
+  "updated": "2026-09-15T04:33:57.787507+00:00",
   "items": [
+    {
+      "title": "Irankrieg: US-Kontrollbehörde beziffert bisherige Folgen des Irankriegs",
+      "summary": "Das US-Verteidigungsministeriums veröffentlicht erstmals eine Bilanz des Irankriegs. 17 US-Soldaten wurden getötet, hunderte Gebäude zerstört und Flugzeuge beschädigt.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/iran-krieg-us-soldaten-pentagon-berichte-militaer-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/iran-krieg-us-soldaten-pentagon-berichte-militaer",
+      "published": "Tue, 15 Sep 2026 04:32:05 -0000",
+      "published_display": "15.09.2026 · 04:32 Uhr"
+    },
+    {
+      "title": "Raumfahrt: Wie Satellit «Flex» Stress von Pflanzen sichtbar machen soll",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/wie-satellit-flex-stress-von-pflanzen-sichtbar-machen-soll-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/wie-satellit-flex-stress-von-pflanzen-sichtbar-machen-soll",
+      "published": "Tue, 15 Sep 2026 04:27:37 -0000",
+      "published_display": "15.09.2026 · 04:27 Uhr"
+    },
+    {
+      "title": "Britische Royals: Berichte: Harrys und Meghans Kinder müssen Schule wechseln",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/bericht-harrys-und-meghans-kinder-muessen-schule-wechseln-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/bericht-harrys-und-meghans-kinder-muessen-schule-wechseln",
+      "published": "Tue, 15 Sep 2026 04:24:14 -0000",
+      "published_display": "15.09.2026 · 04:24 Uhr"
+    },
     {
       "title": "Fotografie: Bilder des Tages",
       "summary": "",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/15/mildes-spaetsommerwetter-weicht-schauern-und-gewittern",
       "published": "Tue, 15 Sep 2026 03:39:55 -0000",
       "published_display": "15.09.2026 · 03:39 Uhr"
-    },
-    {
-      "title": "Immobilienpreise: So finden Sie Ihre Schmerzgrenze beim Hauskauf",
-      "summary": "Die Preise für Immobilien in Ihrer Region sind höher als Ihr Budget? So finden Sie heraus, was Sie sich leisten können – und ob sich die Schmerzgrenze verschieben lässt.",
-      "image": "https://img.zeit.de/geld/2026-09/immobilienpreise-hauskauf-regionen-budget-bild-2/original__640x360",
-      "link": "https://www.zeit.de/geld/2026-09/immobilienpreise-hauskauf-regionen-budget",
-      "published": "Tue, 15 Sep 2026 03:32:44 -0000",
-      "published_display": "15.09.2026 · 03:32 Uhr"
-    },
-    {
-      "title": "US-Fernsehpreise: Emmys 2026: Das sind die Abräumer",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/emmys-2026-das-sind-die-abraeumer-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/emmys-2026-das-sind-die-abraeumer",
-      "published": "Tue, 15 Sep 2026 03:30:52 -0000",
-      "published_display": "15.09.2026 · 03:30 Uhr"
-    },
-    {
-      "title": "Kanzler-Krise: Brandenburgs CDU-Fraktionsvize: Keine «Sonntagsreden» mehr",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/brandenburgs-cdu-fraktionsvize-keine-sonntagsreden-mehr-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/brandenburgs-cdu-fraktionsvize-keine-sonntagsreden-mehr",
-      "published": "Tue, 15 Sep 2026 03:30:04 -0000",
-      "published_display": "15.09.2026 · 03:30 Uhr"
     }
   ]
 }
