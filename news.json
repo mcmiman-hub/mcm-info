@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-15T04:33:57.787507+00:00",
+  "updated": "2026-09-15T04:47:53.959418+00:00",
   "items": [
+    {
+      "title": "Ukraine-Krieg: Trotz Trump-Ansage: Ukraine greift russische Anlage an",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/trotz-trump-ansage-ukraine-greift-russische-anlage-an-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/trotz-trump-ansage-ukraine-greift-russische-anlage-an",
+      "published": "Tue, 15 Sep 2026 04:39:28 -0000",
+      "published_display": "15.09.2026 · 04:39 Uhr"
+    },
+    {
+      "title": "Drift durchs Eis: «ISS der Arktis» auf Expedition - Hund warnt vor Eisbären",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/iss-der-arktis-auf-expedition-hund-warnt-vor-eisbaeren-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/iss-der-arktis-auf-expedition-hund-warnt-vor-eisbaeren",
+      "published": "Tue, 15 Sep 2026 04:38:14 -0000",
+      "published_display": "15.09.2026 · 04:38 Uhr"
+    },
     {
       "title": "Irankrieg: US-Kontrollbehörde beziffert bisherige Folgen des Irankriegs",
       "summary": "Das US-Verteidigungsministeriums veröffentlicht erstmals eine Bilanz des Irankriegs. 17 US-Soldaten wurden getötet, hunderte Gebäude zerstört und Flugzeuge beschädigt.",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/zeit-magazin/wochenmarkt/2026-08/fischfilet-chermoula-olivensalsa-rezept-wochenmarkt",
       "published": "Tue, 15 Sep 2026 03:45:14 -0000",
       "published_display": "15.09.2026 · 03:45 Uhr"
-    },
-    {
-      "title": "Basketball-Bundesliga: Bayern-Bosse mit Titelansage: «Deutscher Meister werden!»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/bayern-bosse-mit-titelansage-deutscher-meister-werden-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/bayern-bosse-mit-titelansage-deutscher-meister-werden",
-      "published": "Tue, 15 Sep 2026 03:45:04 -0000",
-      "published_display": "15.09.2026 · 03:45 Uhr"
-    },
-    {
-      "title": "Wetter: Mildes Spätsommerwetter weicht Schauern und Gewittern",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/mildes-spaetsommerwetter-weicht-schauern-und-gewittern-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/mildes-spaetsommerwetter-weicht-schauern-und-gewittern",
-      "published": "Tue, 15 Sep 2026 03:39:55 -0000",
-      "published_display": "15.09.2026 · 03:39 Uhr"
     }
   ]
 }
