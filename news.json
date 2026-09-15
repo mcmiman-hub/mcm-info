@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-15T20:29:32.293061+00:00",
+  "updated": "2026-09-15T20:44:30.318349+00:00",
   "items": [
+    {
+      "title": "Verkehr: Unfall mit Verletzten nahe Koblenz – Vollsperrung",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/unfall-mit-verletzten-nahe-koblenz-vollsperrung-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/unfall-mit-verletzten-nahe-koblenz-vollsperrung",
+      "published": "Tue, 15 Sep 2026 20:41:34 -0000",
+      "published_display": "15.09.2026 · 20:41 Uhr"
+    },
+    {
+      "title": "Mecklenburg-Vorpommern: Grüne und BSW bei Marineschiffbau in TV-Debatte uneins",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/gruene-und-bsw-bei-marineschiffbau-in-tv-debatte-uneins-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/gruene-und-bsw-bei-marineschiffbau-in-tv-debatte-uneins",
+      "published": "Tue, 15 Sep 2026 20:28:44 -0000",
+      "published_display": "15.09.2026 · 20:28 Uhr"
+    },
     {
       "title": "Kennedy Center in Washington D.C.: Donald Trump ordnet sofortige Schließung des Kennedy Centers an",
       "summary": "Ein Gericht hatte Donald Trump wiederholt die Anbringung seines Namens an der Fassade des Kennedy Centers untersagt. Nun lässt er das nationale Kulturzentrum schließen.",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/15/kollision-mit-lkw-autofahrer-stirbt-bei-heroldsberg",
       "published": "Tue, 15 Sep 2026 19:02:46 -0000",
       "published_display": "15.09.2026 · 19:02 Uhr"
-    },
-    {
-      "title": "Ali al-Saidi in Berlin: Irak bietet Deutschland Vereinbarungen über Öllieferungen an",
-      "summary": "Iraks Ministerpräsident Al-Saidi hat in Berlin Öllieferungen in Aussicht gestellt. Der Kanzler drang auf ein »gutes Miteinander« der Regierung mit den Kurden im Norden.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/ali-al-saidi-irak-berlin-wiederaufbau-rohoel-pipeline-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/ali-al-saidi-irak-berlin-wiederaufbau-rohoel-pipeline",
-      "published": "Tue, 15 Sep 2026 18:55:29 -0000",
-      "published_display": "15.09.2026 · 18:55 Uhr"
-    },
-    {
-      "title": "Ukraine: Wladimir Putins extreme Botschaft",
-      "summary": "Russland greift einen Zug mit westlichen Politikern an. Dahinter steckt eine Strategie, die schon im Kalten Krieg angewendet wurde – und die Deutschland anstachelt.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/russischer-angriff-zug-ukraine-polen-politiker-bild-7/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/russischer-angriff-zug-ukraine-polen-politiker",
-      "published": "Tue, 15 Sep 2026 18:30:29 -0000",
-      "published_display": "15.09.2026 · 18:30 Uhr"
     }
   ]
 }
