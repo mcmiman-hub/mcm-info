@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-15T21:16:48.834477+00:00",
+  "updated": "2026-09-15T21:27:50.179320+00:00",
   "items": [
+    {
+      "title": "TV-Runde vor Landtagswahl: «Wohltuend langweilig» – TV-Runde der kleineren Parteien",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/wohltuend-langweilig-tv-runde-der-kleineren-parteien-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/wohltuend-langweilig-tv-runde-der-kleineren-parteien",
+      "published": "Tue, 15 Sep 2026 21:19:15 -0000",
+      "published_display": "15.09.2026 · 21:19 Uhr"
+    },
     {
       "title": "Leute: Thomas Gottschalk erleichtert nach neuer Krebs-Untersuchung",
       "summary": "",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/15/bericht-klopp-nominiert-elversberg-newcomer-keidel",
       "published": "Tue, 15 Sep 2026 19:23:24 -0000",
       "published_display": "15.09.2026 · 19:23 Uhr"
-    },
-    {
-      "title": "Fußball-Nationalmannschaft: Bericht: Klopp nominiert Elversberg-Newcomer Keidel",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/bild-baumann-bei-neuanfang-unter-klopp-nicht-dabei-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/bild-baumann-bei-neuanfang-unter-klopp-nicht-dabei",
-      "published": "Tue, 15 Sep 2026 19:14:43 -0000",
-      "published_display": "15.09.2026 · 19:14 Uhr"
     }
   ]
 }
