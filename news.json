@@ -1,7 +1,87 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-15T14:45:28.374659+00:00",
+  "updated": "2026-09-15T14:57:15.353380+00:00",
   "items": [
+    {
+      "title": "Oliver Skopec: Weiterer Abgeordneter verlässt das BSW in Brandenburg",
+      "summary": "Oliver Skopec ist aus dem Brandenburger BSW ausgetreten, da ihm dessen Charakter als Protestpartei nicht ausreiche. Die Fraktion besteht nun nur noch aus acht Personen.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/oliver-skopec-bsw-brandenburg-austritt-landtag-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/oliver-skopec-bsw-brandenburg-austritt-landtag",
+      "published": "Tue, 15 Sep 2026 14:55:04 -0000",
+      "published_display": "15.09.2026 · 14:55 Uhr"
+    },
+    {
+      "title": "Fußball: Mario Vušković trainiert nach Dopingsperre erstmals wieder mit dem HSV",
+      "summary": "Der Fußballspieler Mario Vušković wurde wegen Dopings für vier Jahre gesperrt. In zwei Monaten darf er wieder spielen, dafür trainiert er gemeinsam mit der HSV.",
+      "image": "https://img.zeit.de/sport/2026-09/mario-vuskovic-hsv-dopingsperre-training-fans-foto-1/original__640x360",
+      "link": "https://www.zeit.de/sport/2026-09/mario-vuskovic-hsv-dopingsperre-training-fans",
+      "published": "Tue, 15 Sep 2026 14:54:03 -0000",
+      "published_display": "15.09.2026 · 14:54 Uhr"
+    },
+    {
+      "title": "Benzin und Diesel: Spritpreise: Brandenburgs Koalition will schnelle Entlastung",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/spritpreise-brandenburgs-koalition-will-schnelle-entlastung-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/spritpreise-brandenburgs-koalition-will-schnelle-entlastung",
+      "published": "Tue, 15 Sep 2026 14:53:41 -0000",
+      "published_display": "15.09.2026 · 14:53 Uhr"
+    },
+    {
+      "title": "Finanzen der Hauptstadt: Bundeszuschuss für Sicherheit und Kultur in Berlin wird erhöht",
+      "summary": "Zwischen 2028 und 2037 erhält die Hauptstadt 1,35 Milliarden Euro mehr vom Bund als bisher. Damit sollen Kultur und Einsätze von Sicherheitskräften finanziert werden.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/hauptstadtfinanzierungsvertrag-berlin-bund-kultur-innere-sicherheit-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/hauptstadtfinanzierungsvertrag-berlin-bund-kultur-innere-sicherheit",
+      "published": "Tue, 15 Sep 2026 14:51:02 -0000",
+      "published_display": "15.09.2026 · 14:51 Uhr"
+    },
+    {
+      "title": "Reisen: Weitere Airline fliegt von Hamburg in Hauptstadt Kosovos",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/weitere-airline-fliegt-von-hamburg-in-hauptstadt-kosovos-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/weitere-airline-fliegt-von-hamburg-in-hauptstadt-kosovos",
+      "published": "Tue, 15 Sep 2026 14:48:37 -0000",
+      "published_display": "15.09.2026 · 14:48 Uhr"
+    },
+    {
+      "title": "IAA Transportation: Lkw-Branche fordert Tempo bei Infrastrukturausbau",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/lkw-branche-fordert-tempo-bei-infrastrukturausbau-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/lkw-branche-fordert-tempo-bei-infrastrukturausbau",
+      "published": "Tue, 15 Sep 2026 14:48:14 -0000",
+      "published_display": "15.09.2026 · 14:48 Uhr"
+    },
+    {
+      "title": "Kanzler-Krise: Brandenburgs CDU-Fraktionsvize: Keine «Sonntagsreden» mehr",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/brandenburgs-cdu-fraktionsvize-keine-sonntagsreden-mehr-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/brandenburgs-cdu-fraktionsvize-keine-sonntagsreden-mehr",
+      "published": "Tue, 15 Sep 2026 14:48:02 -0000",
+      "published_display": "15.09.2026 · 14:48 Uhr"
+    },
+    {
+      "title": "Kommunen: Ordnungsamt-Mitarbeiter soll Kolleginnen vergewaltigt haben",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/ordnungsamt-mitarbeiter-soll-kolleginnen-vergewaltigt-haben-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/ordnungsamt-mitarbeiter-soll-kolleginnen-vergewaltigt-haben",
+      "published": "Tue, 15 Sep 2026 14:47:58 -0000",
+      "published_display": "15.09.2026 · 14:47 Uhr"
+    },
+    {
+      "title": "Deutsches Reich: AfD wirbt mit Pappfiguren von Hindenburg bis Weidel",
+      "summary": "",
+      "image": "",
+      "link": "https://www.zeit.de/news/2026-09/15/afd-wirbt-mit-pappfiguren-von-hindenburg-bis-weidel",
+      "published": "Tue, 15 Sep 2026 14:47:24 -0000",
+      "published_display": "15.09.2026 · 14:47 Uhr"
+    },
+    {
+      "title": "Ermittlungen: Lehrer wegen Missbrauchsverdachts in U-Haft",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/lehrer-wegen-missbrauchsverdachts-in-u-haft-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/lehrer-wegen-missbrauchsverdachts-in-u-haft",
+      "published": "Tue, 15 Sep 2026 14:45:30 -0000",
+      "published_display": "15.09.2026 · 14:45 Uhr"
+    },
     {
       "title": "Krieg gegen die Ukraine: Ukraine hat offenbar Gebiet im Donezk zurückerobert",
       "summary": "Das ukrainische Militär hat erfolgreiche Gebietsrückeroberungen in der Region Donezk publik gemacht. Polen verstärkt seinen Grenzschutz zur Ukraine. Das Liveblog",
@@ -9,6 +89,14 @@
       "link": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
       "published": "Tue, 15 Sep 2026 14:44:38 -0000",
       "published_display": "15.09.2026 · 14:44 Uhr"
+    },
+    {
+      "title": "Kriminalität: Verdacht auf Drogenhandel - drei Festnahmen in Osthessen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/verdacht-auf-drogenhandel-drei-festnahmen-in-osthessen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/verdacht-auf-drogenhandel-drei-festnahmen-in-osthessen",
+      "published": "Tue, 15 Sep 2026 14:43:43 -0000",
+      "published_display": "15.09.2026 · 14:43 Uhr"
     },
     {
       "title": "Vorstoß im Landtag: SPD fordert «Hundeführerschein» für neue Herrchen",
@@ -33,94 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/15/ueberfallserie-mit-schusswaffe-15-jaehriger-in-u-haft",
       "published": "Tue, 15 Sep 2026 14:40:45 -0000",
       "published_display": "15.09.2026 · 14:40 Uhr"
-    },
-    {
-      "title": "Kulturgut: Kürzungen gefährden Digitalisierung von Kulturgut in Sachsen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/kuerzungen-gefaehrden-digitalisierung-von-kulturgut-in-sachsen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/kuerzungen-gefaehrden-digitalisierung-von-kulturgut-in-sachsen",
-      "published": "Tue, 15 Sep 2026 14:35:18 -0000",
-      "published_display": "15.09.2026 · 14:35 Uhr"
-    },
-    {
-      "title": "Sydney Sweeney: Wir bleiben am Ball",
-      "summary": "Die Schauspielerin Sydney Sweenie produziert wieder mal Ärger durch Nacktheit, diesmal in einer Werbung für Sportwetten. Kleine Anmerkungen zum großen Erregungspotenzial",
-      "image": "https://img.zeit.de/feuilleton/film/2026-09/sydney-sweeney-nacktheit-werbung-sportwetten-novig-bild-1/original__640x360",
-      "link": "https://www.zeit.de/feuilleton/film/2026-09/sydney-sweeney-nacktheit-werbung-sportwetten-novig",
-      "published": "Tue, 15 Sep 2026 14:34:21 -0000",
-      "published_display": "15.09.2026 · 14:34 Uhr"
-    },
-    {
-      "title": "Freibäder: 1,68 Millionen Besucher: Berliner Freibäder ziehen Bilanz",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/1-68-millionen-besucher-berliner-freibaeder-ziehen-bilanz-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/1-68-millionen-besucher-berliner-freibaeder-ziehen-bilanz",
-      "published": "Tue, 15 Sep 2026 14:34:00 -0000",
-      "published_display": "15.09.2026 · 14:34 Uhr"
-    },
-    {
-      "title": "Zusammenstoß: Falschfahrer verursacht Unfall auf Autobahn - zwei Verletzte",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/falschfahrer-verursacht-unfall-auf-autobahn-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/falschfahrer-verursacht-unfall-auf-autobahn",
-      "published": "Tue, 15 Sep 2026 14:33:40 -0000",
-      "published_display": "15.09.2026 · 14:33 Uhr"
-    },
-    {
-      "title": "Nach vier Jahren Doping-Sperre: «Die Reise war lang»: Jubel bei Vuskovic' Trainings-Comeback",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/die-reise-war-lang-jubel-bei-vuskovic-trainings-comeback-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/die-reise-war-lang-jubel-bei-vuskovic-trainings-comeback",
-      "published": "Tue, 15 Sep 2026 14:32:49 -0000",
-      "published_display": "15.09.2026 · 14:32 Uhr"
-    },
-    {
-      "title": "Personalien: Intendantin Dorotty Szalma bleibt am Theater der Altmark",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/intendantin-dorotty-szalma-bleibt-am-theater-der-altmark-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/intendantin-dorotty-szalma-bleibt-am-theater-der-altmark",
-      "published": "Tue, 15 Sep 2026 14:30:00 -0000",
-      "published_display": "15.09.2026 · 14:30 Uhr"
-    },
-    {
-      "title": "Unter Drogeneinfluss: Mit fast 80 km/h auf E-Scooter unterwegs - Mann gestoppt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/mit-fast-80-km-h-auf-e-scooter-unterwegs-mann-gestoppt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/mit-fast-80-km-h-auf-e-scooter-unterwegs-mann-gestoppt",
-      "published": "Tue, 15 Sep 2026 14:25:23 -0000",
-      "published_display": "15.09.2026 · 14:25 Uhr"
-    },
-    {
-      "title": "Epidemie im Kongo: UN melden erste Erfolge im Kampf gegen Ebola im Kongo",
-      "summary": "Die Maßnahmen zur Bekämpfung der Ebola-Epidemie im Kongo scheinen zu wirken. Dennoch sei die Gefahr noch nicht gebannt, warnen die Vereinten Nationen.",
-      "image": "https://img.zeit.de/gesundheit/2026-09/ebola-kongo-demokratische-republik-epidemie-un-who-foto-1/original__640x360",
-      "link": "https://www.zeit.de/gesundheit/2026-09/ebola-kongo-demokratische-republik-epidemie-un-who",
-      "published": "Tue, 15 Sep 2026 14:25:10 -0000",
-      "published_display": "15.09.2026 · 14:25 Uhr"
-    },
-    {
-      "title": "Dinosaurier: Diplodocus lebte laut Knochenfunden auch in Europa",
-      "summary": "Der langhalsige Diplodocus gehört zu den bekanntesten Dinosaurierarten. Forscher haben jetzt erstmals nachgewiesen, dass er auch in Europa lebte.",
-      "image": "https://img.zeit.de/wissenschaft/2026-09/diplodocus-dinosaurier-spanien-europa-palaeontologie-fossilien-foto-1/original__640x360",
-      "link": "https://www.zeit.de/wissenschaft/2026-09/diplodocus-dinosaurier-spanien-europa-palaeontologie-fossilien",
-      "published": "Tue, 15 Sep 2026 14:22:15 -0000",
-      "published_display": "15.09.2026 · 14:22 Uhr"
-    },
-    {
-      "title": "Strafprozess: Vorwurf der Rechtsbeugung: Richterin freigesprochen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/vorwurf-der-rechtsbeugung-richterin-freigesprochen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/vorwurf-der-rechtsbeugung-richterin-freigesprochen",
-      "published": "Tue, 15 Sep 2026 14:18:20 -0000",
-      "published_display": "15.09.2026 · 14:18 Uhr"
-    },
-    {
-      "title": "Fußball-Nationalmannschaft: Nationalelf: Baumann wohl nicht dabei, Einladung für El Mala",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/bild-baumann-bei-neuanfang-unter-klopp-nicht-dabei-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/bild-baumann-bei-neuanfang-unter-klopp-nicht-dabei",
-      "published": "Tue, 15 Sep 2026 14:17:38 -0000",
-      "published_display": "15.09.2026 · 14:17 Uhr"
     }
   ]
 }
