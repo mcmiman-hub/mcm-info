@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-14T23:54:25.839049+00:00",
+  "updated": "2026-09-15T00:26:06.504338+00:00",
   "items": [
+    {
+      "title": "Künstliche Intelligenz: Musk lässt Wettbewerbsklage gegen Apple fallen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/musk-laesst-wettbewerbsklage-gegen-apple-fallen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/musk-laesst-wettbewerbsklage-gegen-apple-fallen",
+      "published": "Tue, 15 Sep 2026 00:08:30 -0000",
+      "published_display": "15.09.2026 · 00:08 Uhr"
+    },
+    {
+      "title": "Klimawandel: USA heben Emissionsvorschriften für Kraftwerke auf",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/usa-heben-emissionsvorschriften-fuer-kraftwerke-auf-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/usa-heben-emissionsvorschriften-fuer-kraftwerke-auf",
+      "published": "Mon, 14 Sep 2026 23:52:45 -0000",
+      "published_display": "14.09.2026 · 23:52 Uhr"
+    },
     {
       "title": "«PCD Forever»-Tour: Pussycat Dolls heizen Olympiahalle ein - 8.500 Fans jubeln",
       "summary": "",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/14/feuer-bricht-waehrend-betrieb-in-restaurantkueche-aus",
       "published": "Mon, 14 Sep 2026 21:10:35 -0000",
       "published_display": "14.09.2026 · 21:10 Uhr"
-    },
-    {
-      "title": "Korruption in der Ukraine: Ukrainischer Präsident Selenskyj entlässt Generalstaatsanwalt",
-      "summary": "Dem ukrainischen Generalstaatsanwalt Ruslan Krawtschenko wird Korruption im Zusammenhang mit betrügerischen Callcentern vorgeworfen. Nun hat Selenskyj ihn entlassen.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/generalstaatsanwalt-ukraine-ruslan-krawtschenko-korruption-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/generalstaatsanwalt-ukraine-ruslan-krawtschenko-korruption",
-      "published": "Mon, 14 Sep 2026 20:51:46 -0000",
-      "published_display": "14.09.2026 · 20:51 Uhr"
-    },
-    {
-      "title": "Sizilien: Flughafen von Catania wegen Ätna-Aktivität vorübergehend geschlossen",
-      "summary": "Wegen erneuter vulkanischer Aktivität des Ätna sind alle Ankünfte und Abflüge am Flughafen Catania vorübergehend ausgesetzt. Die Sperrung gilt bis Dienstagvormittag.",
-      "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-09/flughafen-catania-schliessung-vulkan-aetna-sizilien-foto-1/original__640x360",
-      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-09/flughafen-catania-schliessung-vulkan-aetna-sizilien",
-      "published": "Mon, 14 Sep 2026 20:36:15 -0000",
-      "published_display": "14.09.2026 · 20:36 Uhr"
     }
   ]
 }
