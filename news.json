@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-15T19:55:12.349013+00:00",
+  "updated": "2026-09-15T20:17:59.083956+00:00",
   "items": [
+    {
+      "title": "Es ging um einen Ball: Eltern eskalieren Streit ihrer Kinder - fünf Verletzte",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/eltern-eskalieren-streit-ihrer-kinder-fuenf-verletzte-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/eltern-eskalieren-streit-ihrer-kinder-fuenf-verletzte",
+      "published": "Tue, 15 Sep 2026 20:02:34 -0000",
+      "published_display": "15.09.2026 · 20:02 Uhr"
+    },
+    {
+      "title": "Kennedy Center in Washington D.C.: Donald Trump ordnet sofortige Schließung des Kennedy Centers an",
+      "summary": "Ein Gericht hatte Donald Trump wiederholt die Anbringung seines Namens an der Fassade des Kennedy Centers untersagt. Nun lässt er das nationale Kulturzentrum schließen.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/kennedy-center-washington-dc-schliessung-donald-trump-renovierung-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/kennedy-center-washington-dc-schliessung-donald-trump-renovierung",
+      "published": "Tue, 15 Sep 2026 20:00:16 -0000",
+      "published_display": "15.09.2026 · 20:00 Uhr"
+    },
     {
       "title": "Künstliche Intelligenz: KI‑Konzerne OpenAI, Anthropic und Google wollen sich selbst regulieren",
       "summary": "OpenAI, Anthropic und Google planen eine gemeinsame Aufsichtsorganisation für KI. US-Präsident Donald Trump hatte zuvor eine staatliche Regulierung abgelehnt.",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/hamburg/2026-09/vorsorgerecht-erbrecht-beratung-assistierter-suizid-anne-woywod-hamburg",
       "published": "Tue, 15 Sep 2026 18:24:15 -0000",
       "published_display": "15.09.2026 · 18:24 Uhr"
-    },
-    {
-      "title": "Kanzler-Krise: Merz sagt Reise zur UN-Generaldebatte nach New York ab",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/merz-sagt-reise-zur-un-generaldebatte-nach-new-york-ab-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/merz-sagt-reise-zur-un-generaldebatte-nach-new-york-ab",
-      "published": "Tue, 15 Sep 2026 18:20:43 -0000",
-      "published_display": "15.09.2026 · 18:20 Uhr"
-    },
-    {
-      "title": "Tennis: Zverev sagt Davis-Cup-Teilnahme zu",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/zverev-sagt-davis-cup-teilnahme-zu-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/zverev-sagt-davis-cup-teilnahme-zu",
-      "published": "Tue, 15 Sep 2026 18:20:21 -0000",
-      "published_display": "15.09.2026 · 18:20 Uhr"
     }
   ]
 }
