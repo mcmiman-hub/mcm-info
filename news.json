@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-15T15:55:45.370413+00:00",
+  "updated": "2026-09-15T16:18:07.308398+00:00",
   "items": [
+    {
+      "title": "Gertrude Lübbe-Wolff: Das Bundesverfassungsgericht ist für Konflikte mit der AfD gerüstet",
+      "summary": "Nur: Noch mehr Menschen würden dem Gericht vertrauen, wenn auch die AfD Richter vorschlagen könnte. Dafür wirbt die ehemalige Verfassungsrichterin Gertrude Lübbe-Wolff.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/gertrude-luebbe-wolff-bundesverfassungsgericht-afd-sachsen-anhalt-bild-02/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/gertrude-luebbe-wolff-bundesverfassungsgericht-afd-sachsen-anhalt",
+      "published": "Tue, 15 Sep 2026 16:08:05 -0000",
+      "published_display": "15.09.2026 · 16:08 Uhr"
+    },
+    {
+      "title": "Krankheiten: Zwei Anwohner des Frankfurter Flughafens an Malaria erkrankt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/behoerde-zwei-menschen-in-frankfurt-an-malaria-erkrankt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/behoerde-zwei-menschen-in-frankfurt-an-malaria-erkrankt",
+      "published": "Tue, 15 Sep 2026 16:06:06 -0000",
+      "published_display": "15.09.2026 · 16:06 Uhr"
+    },
     {
       "title": "»Das Boot«: Schauspieler Ralf Richter ist tot",
       "summary": "Im Alter von 69 Jahren ist der Schauspieler Ralf Richter gestorben. Seinen Durchbruch feierte er 1981 als Dieselmaat Frenssen in »Das Boot«.",
@@ -35,8 +51,8 @@
       "published_display": "15.09.2026 · 15:52 Uhr"
     },
     {
-      "title": "Festnahmen in Istanbul: Zahlreiche Aktivisten bei LGBT-Protest in der Türkei festgenommen",
-      "summary": "In Istanbul ist bei einem queeren Protest eine Reihe von Menschen festgenommen worden. Razzien in LGBT-Vereinen fanden in der Türkei zuletzt landesweit statt.",
+      "title": "Festnahmen in Istanbul: Zahlreiche Aktivisten bei LGBTQ-Protest in der Türkei festgenommen",
+      "summary": "In Istanbul ist bei einem queeren Protest eine Reihe von Menschen festgenommen worden. Razzien in LGBTQ-Vereinen fanden in der Türkei zuletzt landesweit statt.",
       "image": "https://img.zeit.de/gesellschaft/2026-09/istanbul-lgbt-festnahmen-journalisten-anwaelte-polizei-foto-1/original__640x360",
       "link": "https://www.zeit.de/gesellschaft/2026-09/istanbul-lgbt-festnahmen-journalisten-anwaelte-polizei",
       "published": "Tue, 15 Sep 2026 15:52:15 -0000",
@@ -83,14 +99,6 @@
       "published_display": "15.09.2026 · 15:35 Uhr"
     },
     {
-      "title": "Krankheiten: Behörde: Zwei Menschen in Frankfurt an Malaria erkrankt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/behoerde-zwei-menschen-in-frankfurt-an-malaria-erkrankt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/behoerde-zwei-menschen-in-frankfurt-an-malaria-erkrankt",
-      "published": "Tue, 15 Sep 2026 15:34:36 -0000",
-      "published_display": "15.09.2026 · 15:34 Uhr"
-    },
-    {
       "title": "Spritpreise: Der Staat soll helfen – aber nicht beim Spritpreis",
       "summary": "Die Spritpreise steigen so stark an, dass jetzt auch der Kanzler eingreifen will. Er kündigt neue Entlastungen an. Hoffentlich wird es nicht wieder ein Tankrabatt.",
       "image": "https://img.zeit.de/wirtschaft/2026-09/spritpreise-rabatt-stromsteuer-senkung-tankrabatt-bild/original__640x360",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/15/60-jaehriger-stirbt-an-schussverletzung-fahndung-laeuft",
       "published": "Tue, 15 Sep 2026 15:24:44 -0000",
       "published_display": "15.09.2026 · 15:24 Uhr"
-    },
-    {
-      "title": "BSW-Fraktionskrise: «Laute Protestpartei»: BSW verliert erneut Abgeordneten",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/brandenburger-bsw-abgeordneter-verlaesst-partei-und-fraktion-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/brandenburger-bsw-abgeordneter-verlaesst-partei-und-fraktion",
-      "published": "Tue, 15 Sep 2026 15:23:56 -0000",
-      "published_display": "15.09.2026 · 15:23 Uhr"
     }
   ]
 }
