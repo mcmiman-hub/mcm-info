@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-15T00:49:28.828926+00:00",
+  "updated": "2026-09-15T01:00:15.260151+00:00",
   "items": [
+    {
+      "title": "Tötungsdelikt: 60-Jähriger stirbt an Schussverletzung - Fahndung läuft",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/60-jaehriger-stirbt-an-schussverletzung-fahndung-laeuft-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/60-jaehriger-stirbt-an-schussverletzung-fahndung-laeuft",
+      "published": "Tue, 15 Sep 2026 00:50:56 -0000",
+      "published_display": "15.09.2026 · 00:50 Uhr"
+    },
     {
       "title": "Legendäre Prügelei: Kein Hausverbot für Oasis im Bayerischen Hof",
       "summary": "",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/15/laib-fuer-60-dollar-run-auf-roggenbrot-in-new-york",
       "published": "Mon, 14 Sep 2026 22:30:04 -0000",
       "published_display": "14.09.2026 · 22:30 Uhr"
-    },
-    {
-      "title": "John Brennan: Ex-CIA-Chef Brennan soll zu angeblicher Verschwörung befragt werden",
-      "summary": "Ein Gericht soll klären, ob Ermittlungen gegen Trump eine Verschwörung waren. Der Anwalt des früheren Geheimdienstdirektors nennt die Straftat »vollständig erfunden«.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/john-brennan-cia-donald-trump-verschwoerung-grand-jury-florida-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/john-brennan-cia-donald-trump-verschwoerung-grand-jury-florida",
-      "published": "Mon, 14 Sep 2026 22:17:50 -0000",
-      "published_display": "14.09.2026 · 22:17 Uhr"
     }
   ]
 }
