@@ -1,7 +1,103 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-15T11:29:43.400898+00:00",
+  "updated": "2026-09-15T11:44:14.623080+00:00",
   "items": [
+    {
+      "title": "Landtagswahl in Mecklenburg-Vorpommern: Das sind die Herausforderer von Manuela Schwesig",
+      "summary": "Die SPD-Ministerpräsidentin muss sich in ihrem Wahlkreis gegen AfD-Spitzenkandidat Leif-Erik Holm behaupten. CDU-Chef Peters grenzt sich nach rechts wie nach links ab.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-08/faq-schwesig-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-08/landtagswahl-mecklenburg-vorpommern-spitzenkandidaten-manuela-schwesig-leif-erik-holm-faq-gxe",
+      "published": "Tue, 15 Sep 2026 11:41:47 -0000",
+      "published_display": "15.09.2026 · 11:41 Uhr"
+    },
+    {
+      "title": "Wetter: Spätsommer kommt nach Regen am Mittwoch wieder nach Sachsen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/spaetsommer-kommt-nach-regen-am-mittwoch-wieder-nach-sachsen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/spaetsommer-kommt-nach-regen-am-mittwoch-wieder-nach-sachsen",
+      "published": "Tue, 15 Sep 2026 11:41:19 -0000",
+      "published_display": "15.09.2026 · 11:41 Uhr"
+    },
+    {
+      "title": "Vermisstensuche: Maisfeld wird für Grundschüler zum Labyrinth",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/maisfeld-wird-fuer-grundschueler-zum-labyrinth-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/maisfeld-wird-fuer-grundschueler-zum-labyrinth",
+      "published": "Tue, 15 Sep 2026 11:41:07 -0000",
+      "published_display": "15.09.2026 · 11:41 Uhr"
+    },
+    {
+      "title": "Störung auf Hauptroute: Probleme auf Münchner S-Bahn-Stammstrecke im Berufsverkehr",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/probleme-auf-muenchner-s-bahn-stammstrecke-im-berufsverkehr-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/probleme-auf-muenchner-s-bahn-stammstrecke-im-berufsverkehr",
+      "published": "Tue, 15 Sep 2026 11:39:50 -0000",
+      "published_display": "15.09.2026 · 11:39 Uhr"
+    },
+    {
+      "title": "Krise des Kanzlers: Söder rechnet fest mit CDU-Rückendeckung für Merz",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/soeder-rechnet-fest-mit-cdu-rueckendeckung-fuer-merz-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/soeder-rechnet-fest-mit-cdu-rueckendeckung-fuer-merz",
+      "published": "Tue, 15 Sep 2026 11:37:44 -0000",
+      "published_display": "15.09.2026 · 11:37 Uhr"
+    },
+    {
+      "title": "Xiangshan-Sicherheitsforum: Experten fordern Dialog zwischen KI-Vorreiterländern USA und China",
+      "summary": "Die USA und China müssten über mögliche Zusammenarbeit im Bereich KI sprechen, fordern Experten auf dem Xiangshan-Forum in Peking. Auch um das Militär müsse es gehen.",
+      "image": "https://img.zeit.de/digital/2026-09/xiangshan-sicherheitsforum-peking-ki-usa-china-foto-1/original__640x360",
+      "link": "https://www.zeit.de/digital/2026-09/xiangshan-sicherheitsforum-peking-ki-usa-china",
+      "published": "Tue, 15 Sep 2026 11:36:49 -0000",
+      "published_display": "15.09.2026 · 11:36 Uhr"
+    },
+    {
+      "title": "Kabinettssitzung: Söder kündigt neue Auslandsbüros und Arabien-Reise an",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/soeder-kuendigt-neue-auslandsbueros-und-arabien-reise-an-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/soeder-kuendigt-neue-auslandsbueros-und-arabien-reise-an",
+      "published": "Tue, 15 Sep 2026 11:36:19 -0000",
+      "published_display": "15.09.2026 · 11:36 Uhr"
+    },
+    {
+      "title": "Identität geklärt: Absturz eines Kleinflugzeugs: Vater und Tochter sterben",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/absturz-eines-kleinflugzeugs-vater-und-tochter-sterben-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/absturz-eines-kleinflugzeugs-vater-und-tochter-sterben",
+      "published": "Tue, 15 Sep 2026 11:35:42 -0000",
+      "published_display": "15.09.2026 · 11:35 Uhr"
+    },
+    {
+      "title": "Europa League: Maza vor Europa-Auftakt fraglich, Flekken bei Bayer gesetzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/maza-vor-europa-auftakt-fraglich-flekken-bei-bayer-gesetzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/maza-vor-europa-auftakt-fraglich-flekken-bei-bayer-gesetzt",
+      "published": "Tue, 15 Sep 2026 11:32:36 -0000",
+      "published_display": "15.09.2026 · 11:32 Uhr"
+    },
+    {
+      "title": "Zehn Verletzte: Chemische Flüssigkeit ausgelaufen - 2.000 Schüler evakuiert",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/chemische-fluessigkeit-ausgelaufen-2-000-schueler-evakuiert-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/chemische-fluessigkeit-ausgelaufen-2-000-schueler-evakuiert",
+      "published": "Tue, 15 Sep 2026 11:31:19 -0000",
+      "published_display": "15.09.2026 · 11:31 Uhr"
+    },
+    {
+      "title": "Ermittlungen: Anklage gegen Ex-Trainer wegen sexuellen Missbrauchs",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/anklage-gegen-ex-trainer-wegen-sexuellen-missbrauchs-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/anklage-gegen-ex-trainer-wegen-sexuellen-missbrauchs",
+      "published": "Tue, 15 Sep 2026 11:30:07 -0000",
+      "published_display": "15.09.2026 · 11:30 Uhr"
+    },
+    {
+      "title": "Künstliche Intelligenz: Übersetzen mit eigenem Tonfall: DeepL rüstet Sprach-KI auf",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/uebersetzen-mit-eigenem-tonfall-deepl-ruestet-sprach-ki-auf-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/uebersetzen-mit-eigenem-tonfall-deepl-ruestet-sprach-ki-auf",
+      "published": "Tue, 15 Sep 2026 11:30:04 -0000",
+      "published_display": "15.09.2026 · 11:30 Uhr"
+    },
     {
       "title": "Aggression durch Russland: Russisches Kriegsschiff feuert Leuchtkugeln auf dänischen Hubschrauber",
       "summary": "Leuchtkugeln von einer russischen Fregatte haben einen dänischen Hubschrauber knapp verfehlt. Russland behauptet, er habe gefährliche Manöver über der Ostsee geflogen.",
@@ -25,102 +121,6 @@
       "link": "https://www.zeit.de/zeit-magazin/2026-09/hotelunterbringung-hamburg-harburg-gefluechtete-kosten-kritik",
       "published": "Tue, 15 Sep 2026 11:26:26 -0000",
       "published_display": "15.09.2026 · 11:26 Uhr"
-    },
-    {
-      "title": "Weinbau: Verbände: Frühe Weinlese, kleinere Trauben, gute Qualität",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/verbaende-fruehe-weinlese-kleinere-trauben-gute-qualitaet-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/verbaende-fruehe-weinlese-kleinere-trauben-gute-qualitaet",
-      "published": "Tue, 15 Sep 2026 11:26:19 -0000",
-      "published_display": "15.09.2026 · 11:26 Uhr"
-    },
-    {
-      "title": "«Aktenzeichen XY... ungelöst»: Kind im Wald missbraucht: Über 80 Hinweise nach ZDF-Sendung",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/kind-im-wald-missbraucht-ueber-80-hinweise-nach-zdf-sendung-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/kind-im-wald-missbraucht-ueber-80-hinweise-nach-zdf-sendung",
-      "published": "Tue, 15 Sep 2026 11:25:19 -0000",
-      "published_display": "15.09.2026 · 11:25 Uhr"
-    },
-    {
-      "title": "Zusammenstoß: Falschfahrer verursacht Unfall auf Autobahn",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/falschfahrer-verursacht-unfall-auf-autobahn-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/falschfahrer-verursacht-unfall-auf-autobahn",
-      "published": "Tue, 15 Sep 2026 11:22:05 -0000",
-      "published_display": "15.09.2026 · 11:22 Uhr"
-    },
-    {
-      "title": "Finanzen: Hamburger Senat bewilligt weitere Milliarde für den Haushalt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/hamburger-senat-bewilligt-weitere-milliarde-fuer-den-haushalt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/hamburger-senat-bewilligt-weitere-milliarde-fuer-den-haushalt",
-      "published": "Tue, 15 Sep 2026 11:20:57 -0000",
-      "published_display": "15.09.2026 · 11:20 Uhr"
-    },
-    {
-      "title": "Bauarbeiten in Bremen: Römisches Schwert - Warum der Zufallsfund so bedeutend ist",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/roemisches-schwert-warum-der-zufallsfund-so-bedeutend-ist-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/roemisches-schwert-warum-der-zufallsfund-so-bedeutend-ist",
-      "published": "Tue, 15 Sep 2026 11:18:07 -0000",
-      "published_display": "15.09.2026 · 11:18 Uhr"
-    },
-    {
-      "title": "Aufmerksamkeit im Verkehr: 18-Jährige läuft mit Handy gegen Scheibe – Polizei warnt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/18-jaehrige-laeuft-mit-handy-gegen-scheibe-polizei-warnt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/18-jaehrige-laeuft-mit-handy-gegen-scheibe-polizei-warnt",
-      "published": "Tue, 15 Sep 2026 11:15:48 -0000",
-      "published_display": "15.09.2026 · 11:15 Uhr"
-    },
-    {
-      "title": "Landesregierung: Ex-DGB-Chef wird Migrationsbeauftragter",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/ex-dgb-chef-wird-migrationsbeauftragter-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/ex-dgb-chef-wird-migrationsbeauftragter",
-      "published": "Tue, 15 Sep 2026 11:13:47 -0000",
-      "published_display": "15.09.2026 · 11:13 Uhr"
-    },
-    {
-      "title": "Teure Tankfüllungen: Hohe Spritpreise: Was könnte die Politik tun?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/hohe-spritpreise-was-koennte-die-politik-tun-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/hohe-spritpreise-was-koennte-die-politik-tun",
-      "published": "Tue, 15 Sep 2026 11:09:47 -0000",
-      "published_display": "15.09.2026 · 11:09 Uhr"
-    },
-    {
-      "title": "Vulkan: Ätna-Aschewolke: weiterhin kein Flugverkehr über Sizilien",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/aetna-aschewolke-behindert-flugverkehr-ueber-sizilien-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/aetna-aschewolke-behindert-flugverkehr-ueber-sizilien",
-      "published": "Tue, 15 Sep 2026 11:09:24 -0000",
-      "published_display": "15.09.2026 · 11:09 Uhr"
-    },
-    {
-      "title": "Xiangshan-Sicherheitsforum: Experten fordern Dialog zwischen KI-Vorreiterländern USA und China",
-      "summary": "Die USA und China müssten über mögliche Zusammenarbeit im Bereich KI sprechen, fordern Experten auf dem Xiangshan-Forum in Peking. Auch um das Militär müsse es gehen.",
-      "image": "https://img.zeit.de/digital/2026-09/xiangshan-sicherheitsforum-peking-ki-usa-china-foto-1/original__640x360",
-      "link": "https://www.zeit.de/digital/2026-09/xiangshan-sicherheitsforum-peking-ki-usa-china",
-      "published": "Tue, 15 Sep 2026 11:09:22 -0000",
-      "published_display": "15.09.2026 · 11:09 Uhr"
-    },
-    {
-      "title": "Strafprozess: Maschsee-Mörder beteuert Unschuld",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/maschsee-moerder-beteuert-unschuld-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/maschsee-moerder-beteuert-unschuld",
-      "published": "Tue, 15 Sep 2026 11:09:10 -0000",
-      "published_display": "15.09.2026 · 11:09 Uhr"
-    },
-    {
-      "title": "Vor den nächsten Wahlen: Union sinkt auf historisches Tief – Warnung vor Untergang",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/afd-bleibt-laut-umfrage-staerkste-partei-cdu-csu-auf-tief-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/afd-bleibt-laut-umfrage-staerkste-partei-cdu-csu-auf-tief",
-      "published": "Tue, 15 Sep 2026 11:08:30 -0000",
-      "published_display": "15.09.2026 · 11:08 Uhr"
     }
   ]
 }
