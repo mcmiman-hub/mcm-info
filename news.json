@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-15T03:34:07.268690+00:00",
+  "updated": "2026-09-15T03:47:53.456621+00:00",
   "items": [
+    {
+      "title": "Fischfilet mit Chermoula und Olivensalsa: Schmeckt wie am Strand von Essaouira",
+      "summary": "Die marokkanische Marinade Chermoula wird eigentlich zu weißem Fisch gegessen. Hier bildet der etwas fettere Lachs ein herrliches Gegengewicht zu ihren intensiven Aromen.",
+      "image": "https://img.zeit.de/zeit-magazin/wochenmarkt/2026-08/1602-bild/original__640x360",
+      "link": "https://www.zeit.de/zeit-magazin/wochenmarkt/2026-08/fischfilet-chermoula-olivensalsa-rezept-wochenmarkt",
+      "published": "Tue, 15 Sep 2026 03:45:14 -0000",
+      "published_display": "15.09.2026 · 03:45 Uhr"
+    },
+    {
+      "title": "Basketball-Bundesliga: Bayern-Bosse mit Titelansage: «Deutscher Meister werden!»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/bayern-bosse-mit-titelansage-deutscher-meister-werden-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/bayern-bosse-mit-titelansage-deutscher-meister-werden",
+      "published": "Tue, 15 Sep 2026 03:45:04 -0000",
+      "published_display": "15.09.2026 · 03:45 Uhr"
+    },
+    {
+      "title": "Wetter: Mildes Spätsommerwetter weicht Schauern und Gewittern",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/mildes-spaetsommerwetter-weicht-schauern-und-gewittern-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/mildes-spaetsommerwetter-weicht-schauern-und-gewittern",
+      "published": "Tue, 15 Sep 2026 03:39:55 -0000",
+      "published_display": "15.09.2026 · 03:39 Uhr"
+    },
     {
       "title": "Immobilienpreise: So finden Sie Ihre Schmerzgrenze beim Hauskauf",
       "summary": "Die Preise für Immobilien in Ihrer Region sind höher als Ihr Budget? So finden Sie heraus, was Sie sich leisten können – und ob sich die Schmerzgrenze verschieben lässt.",
@@ -96,30 +120,6 @@
       "image": "https://img.zeit.de/news/2026-09/15/piwarz-warnt-neuverschuldung-darf-kein-dauerzustand-werden-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-09/15/piwarz-warnt-neuverschuldung-darf-kein-dauerzustand-werden",
       "published": "Tue, 15 Sep 2026 03:00:15 -0000",
-      "published_display": "15.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Forderung an die Regierung: Hohe Spritpreise: Kämpfer für Übergewinnsteuer",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/hohe-spritpreise-kaempfer-fuer-uebergewinnsteuer-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/hohe-spritpreise-kaempfer-fuer-uebergewinnsteuer",
-      "published": "Tue, 15 Sep 2026 03:00:09 -0000",
-      "published_display": "15.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Nur Land in Sicht - noch: Wann ist der Wiesensee wieder mehr See als Wiese?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/wann-ist-der-wiesensee-wieder-mehr-see-als-wiese-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/wann-ist-der-wiesensee-wieder-mehr-see-als-wiese",
-      "published": "Tue, 15 Sep 2026 03:00:08 -0000",
-      "published_display": "15.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Leichenfund: Nach Torso-Fund ermittelt Polizei weiter mit Hochdruck",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/nach-torso-fund-ermittelt-polizei-weiter-mit-hochdruck-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/nach-torso-fund-ermittelt-polizei-weiter-mit-hochdruck",
-      "published": "Tue, 15 Sep 2026 03:00:04 -0000",
       "published_display": "15.09.2026 · 03:00 Uhr"
     }
   ]
