@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-15T19:28:45.657920+00:00",
+  "updated": "2026-09-15T19:43:22.913512+00:00",
   "items": [
+    {
+      "title": "Unfall auf B268: Drei Menschen bei Frontalzusammenstoß schwer verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/drei-menschen-bei-frontalzusammenstoss-schwer-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/drei-menschen-bei-frontalzusammenstoss-schwer-verletzt",
+      "published": "Tue, 15 Sep 2026 19:33:20 -0000",
+      "published_display": "15.09.2026 · 19:33 Uhr"
+    },
+    {
+      "title": "USA-Reise: Pistorius und Hegseth unterzeichnen Rüstungsvereinbarung",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/pistorius-reist-in-die-usa-gespraech-mit-us-minister-hegseth-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/pistorius-reist-in-die-usa-gespraech-mit-us-minister-hegseth",
+      "published": "Tue, 15 Sep 2026 19:26:55 -0000",
+      "published_display": "15.09.2026 · 19:26 Uhr"
+    },
     {
       "title": "Kultureinrichtung: Trump: Kennedy Center wird umgehend geschlossen",
       "summary": "",
@@ -33,14 +49,6 @@
       "link": "https://www.zeit.de/news/2026-09/15/bild-baumann-bei-neuanfang-unter-klopp-nicht-dabei",
       "published": "Tue, 15 Sep 2026 19:14:43 -0000",
       "published_display": "15.09.2026 · 19:14 Uhr"
-    },
-    {
-      "title": "USA-Reise: Pistorius unterzeichnet Rüstungsvereinbarung mit den USA",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/pistorius-reist-in-die-usa-gespraech-mit-us-minister-hegseth-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/pistorius-reist-in-die-usa-gespraech-mit-us-minister-hegseth",
-      "published": "Tue, 15 Sep 2026 19:12:43 -0000",
-      "published_display": "15.09.2026 · 19:12 Uhr"
     },
     {
       "title": "Fußball-Regionalliga: 1860 München spielt unentschieden bei Greuther Fürth II",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/15/spahn-gibt-bezirksvorsitz-im-muensterland-auf-feller-folgt",
       "published": "Tue, 15 Sep 2026 18:16:11 -0000",
       "published_display": "15.09.2026 · 18:16 Uhr"
-    },
-    {
-      "title": "Unfälle: Binnenschiff kollidiert mit der Eisenbahnbrücke in Elsfleth",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/binnenschiff-kollidiert-mit-der-eisenbahnbruecke-in-elsfleth-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/binnenschiff-kollidiert-mit-der-eisenbahnbruecke-in-elsfleth",
-      "published": "Tue, 15 Sep 2026 18:11:07 -0000",
-      "published_display": "15.09.2026 · 18:11 Uhr"
     }
   ]
 }
