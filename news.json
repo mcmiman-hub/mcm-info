@@ -1,14 +1,118 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-15T06:24:43.512387+00:00",
+  "updated": "2026-09-15T06:50:17.414250+00:00",
   "items": [
     {
-      "title": "Börsengang: Kleinanleger können Anteile an Afrikas größter Ölraffinerie kaufen",
+      "title": "Aggression durch Russland: Russisches Kriegsschiff feuert Leuchtkugeln auf dänischen Hubschrauber",
+      "summary": "Leuchtkugeln von einer russischen Fregatte haben einen dänischen Hubschrauber nur knapp verfehlt. Dänemark will den Botschafter Russlands in dem Land einbestellen.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/russische-fregatte-daenemark-hubschrauber-leuchtkugel-nato-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/russische-fregatte-daenemark-hubschrauber-leuchtkugel-nato",
+      "published": "Tue, 15 Sep 2026 06:49:20 -0000",
+      "published_display": "15.09.2026 · 06:49 Uhr"
+    },
+    {
+      "title": "Pflegekosten: Kommunen kritisieren stark gestiegene Ausgaben für Pflegekosten",
+      "summary": "Wenn Pflegebedürftige und Angehörige ihren Eigenanteil an den Pflegekosten nicht tragen können, springen die Kommunen ein. Diese schlagen wegen steigender Ausgaben Alarm.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/pflege-kosten-eigenanteil-kommunen-sozialamt-hilfe-zur-pflege-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/pflege-kosten-eigenanteil-kommunen-sozialamt-hilfe-zur-pflege",
+      "published": "Tue, 15 Sep 2026 06:45:34 -0000",
+      "published_display": "15.09.2026 · 06:45 Uhr"
+    },
+    {
+      "title": "Luftverkehr: Flughafen Köln/Bonn: Passagiere müssen länger warten",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/flughafen-koeln-bonn-passagiere-muessen-laenger-warten-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/flughafen-koeln-bonn-passagiere-muessen-laenger-warten",
+      "published": "Tue, 15 Sep 2026 06:45:33 -0000",
+      "published_display": "15.09.2026 · 06:45 Uhr"
+    },
+    {
+      "title": "Einbruch: Vier Einbrecher schlagen Bewohner und fordern Geld",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/vier-einbrecher-schlagen-bewohner-und-fordern-geld-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/vier-einbrecher-schlagen-bewohner-und-fordern-geld",
+      "published": "Tue, 15 Sep 2026 06:45:28 -0000",
+      "published_display": "15.09.2026 · 06:45 Uhr"
+    },
+    {
+      "title": "Börsengang: Kleinanleger können erstmals in größte Raffinerie Afrikas investieren",
       "summary": "Der nigerianische Unternehmer Aliko Dangote bietet Aktien im Wert von 1,8 Milliarden Dollar an. Es wäre der größte Börsengang in der Geschichte des Kontinents.",
       "image": "https://img.zeit.de/wirtschaft/2026-09/aliko-dangote-oelraffinerie-boersengang-afrika-lagos-aktien-foto-1/original__640x360",
       "link": "https://www.zeit.de/wirtschaft/2026-09/aliko-dangote-oelraffinerie-boersengang-afrika-lagos-aktien",
-      "published": "Tue, 15 Sep 2026 06:16:32 -0000",
-      "published_display": "15.09.2026 · 06:16 Uhr"
+      "published": "Tue, 15 Sep 2026 06:43:11 -0000",
+      "published_display": "15.09.2026 · 06:43 Uhr"
+    },
+    {
+      "title": "Bei Verkehrskontrolle: Falscher Führerschein und 450 Stangen unverzollte Zigaretten",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/falscher-fuehrerschein-und-450-stangen-unverzollte-zigaretten-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/falscher-fuehrerschein-und-450-stangen-unverzollte-zigaretten",
+      "published": "Tue, 15 Sep 2026 06:41:49 -0000",
+      "published_display": "15.09.2026 · 06:41 Uhr"
+    },
+    {
+      "title": "Weltkindertag am 20.9.: Kinderanteil im Osten niedriger als im Westen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/kinderanteil-im-osten-niedriger-als-im-westen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/kinderanteil-im-osten-niedriger-als-im-westen",
+      "published": "Tue, 15 Sep 2026 06:39:19 -0000",
+      "published_display": "15.09.2026 · 06:39 Uhr"
+    },
+    {
+      "title": "Unfall: Zwei Schwerverletzte nach Unfall – Polizei entdeckt Verstöße",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/zwei-schwerverletzte-nach-unfall-polizei-entdeckt-verstoesse-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/zwei-schwerverletzte-nach-unfall-polizei-entdeckt-verstoesse",
+      "published": "Tue, 15 Sep 2026 06:36:26 -0000",
+      "published_display": "15.09.2026 · 06:36 Uhr"
+    },
+    {
+      "title": "Kriminalität: Schüsse in Hamburg-Harburg: Mann schwer verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/schuesse-in-hamburg-harburg-mann-schwer-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/schuesse-in-hamburg-harburg-mann-schwer-verletzt",
+      "published": "Tue, 15 Sep 2026 06:31:29 -0000",
+      "published_display": "15.09.2026 · 06:31 Uhr"
+    },
+    {
+      "title": "Leute: Brad Pitts ältester Sohn legt Namen des Vaters ab",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/brad-pitts-aeltester-sohn-legt-namen-des-vaters-ab-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/brad-pitts-aeltester-sohn-legt-namen-des-vaters-ab",
+      "published": "Tue, 15 Sep 2026 06:29:52 -0000",
+      "published_display": "15.09.2026 · 06:29 Uhr"
+    },
+    {
+      "title": "Trennungsjahr: »Wir lebten noch ein paar Monate weiter zusammen. Es war die Hölle«",
+      "summary": "Ein Jahr müssen Ehepaare getrennt sein, bevor sie geschieden werden können. Drei Menschen erzählen, wie verdammt schwer das war – und wie sie diese Zeit gemeistert haben.",
+      "image": "https://img.zeit.de/familie/2026-09/trennungsjahr-scheidung-paare-familie-kinder-bild/original__640x360",
+      "link": "https://www.zeit.de/familie/2026-08/trennungsjahr-scheidung-paare-familie-kinder",
+      "published": "Tue, 15 Sep 2026 06:29:03 -0000",
+      "published_display": "15.09.2026 · 06:29 Uhr"
+    },
+    {
+      "title": "Künstliche Intelligenz: Gates-Stiftung will mit Milliarde Dollar KI-Zugang fördern",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/staatssekretaer-europa-droht-bei-ki-zum-zuschauer-zu-werden-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/staatssekretaer-europa-droht-bei-ki-zum-zuschauer-zu-werden",
+      "published": "Tue, 15 Sep 2026 06:27:48 -0000",
+      "published_display": "15.09.2026 · 06:27 Uhr"
+    },
+    {
+      "title": "Streit in Wohnung: Mann mit Baseballschläger verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/mann-mit-baseballschlaeger-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/mann-mit-baseballschlaeger-verletzt",
+      "published": "Tue, 15 Sep 2026 06:26:59 -0000",
+      "published_display": "15.09.2026 · 06:26 Uhr"
+    },
+    {
+      "title": "Seit sechs Jahren verschwunden: Suche nach Scarlett: Polizei prüft gefundenen Reißverschluss",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/suche-nach-scarlett-polizei-prueft-gefundenen-reissverschluss-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/suche-nach-scarlett-polizei-prueft-gefundenen-reissverschluss",
+      "published": "Tue, 15 Sep 2026 06:23:34 -0000",
+      "published_display": "15.09.2026 · 06:23 Uhr"
     },
     {
       "title": "Feuer: Stallbrand führt zu Millionenschaden - fünf Tiere sterben",
@@ -17,110 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/15/stallbrand-fuehrt-zu-millionenschaden-fuenf-tiere-sterben",
       "published": "Tue, 15 Sep 2026 06:14:21 -0000",
       "published_display": "15.09.2026 · 06:14 Uhr"
-    },
-    {
-      "title": "Verfolgungsfahrt: 22-Jähriger fährt vor Polizei davon und stößt gegen Ampel",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/22-jaehriger-faehrt-vor-polizei-davon-und-stoesst-gegen-ampel-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/22-jaehriger-faehrt-vor-polizei-davon-und-stoesst-gegen-ampel",
-      "published": "Tue, 15 Sep 2026 06:13:32 -0000",
-      "published_display": "15.09.2026 · 06:13 Uhr"
-    },
-    {
-      "title": "Wahlkampf: Krach: Bin sicher, dass Mietendeckel kommen wird",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/krach-bin-sicher-dass-mietendeckel-kommen-wird-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/krach-bin-sicher-dass-mietendeckel-kommen-wird",
-      "published": "Tue, 15 Sep 2026 06:08:24 -0000",
-      "published_display": "15.09.2026 · 06:08 Uhr"
-    },
-    {
-      "title": "US-Weltraumwaffen: U.S. Space Force bestätigt die Stationierung von Waffen im Weltall",
-      "summary": "Erstmals hat die U.S. Space Force öffentlich gemacht, Waffen im Weltall stationiert zu haben. Es gehe darum, den Weltraum »kontrollieren und verteidigen« zu können.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/usa-weltraumwaffen-orbit-space-force-russland-china-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/usa-weltraumwaffen-orbit-space-force-russland-china",
-      "published": "Tue, 15 Sep 2026 06:04:15 -0000",
-      "published_display": "15.09.2026 · 06:04 Uhr"
-    },
-    {
-      "title": "Football: Starkes Comeback von Mahomes bei Kansas-Sieg",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/starkes-comeback-von-mahomes-bei-kansas-sieg-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/starkes-comeback-von-mahomes-bei-kansas-sieg",
-      "published": "Tue, 15 Sep 2026 06:04:11 -0000",
-      "published_display": "15.09.2026 · 06:04 Uhr"
-    },
-    {
-      "title": "Polizei: Reizgas versprüht - Schule in Burg evakuiert",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/reizgas-versprueht-schule-in-burg-evakuiert-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/reizgas-versprueht-schule-in-burg-evakuiert",
-      "published": "Tue, 15 Sep 2026 05:58:45 -0000",
-      "published_display": "15.09.2026 · 05:58 Uhr"
-    },
-    {
-      "title": "Unfälle: Fahrer eines Motorrollers bei Unfall schwer verletzt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/fahrer-eines-motorrollers-bei-unfall-schwer-verletzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/fahrer-eines-motorrollers-bei-unfall-schwer-verletzt",
-      "published": "Tue, 15 Sep 2026 05:54:01 -0000",
-      "published_display": "15.09.2026 · 05:54 Uhr"
-    },
-    {
-      "title": "Suche in Berlin: Nach Clubbesuch vermisster Tourist wieder aufgetaucht",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/nach-clubbesuch-vermisster-tourist-wieder-aufgetaucht-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/nach-clubbesuch-vermisster-tourist-wieder-aufgetaucht",
-      "published": "Tue, 15 Sep 2026 05:51:57 -0000",
-      "published_display": "15.09.2026 · 05:51 Uhr"
-    },
-    {
-      "title": "Feuer in Dinklage: Brand in Weinhandlung – Nachbarhaus evakuiert",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/brand-in-weinhandlung-nachbarhaus-evakuiert-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/brand-in-weinhandlung-nachbarhaus-evakuiert",
-      "published": "Tue, 15 Sep 2026 05:51:37 -0000",
-      "published_display": "15.09.2026 · 05:51 Uhr"
-    },
-    {
-      "title": "Schulen: FDP kritisiert Sprengelpflicht bei Grundschulen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/fdp-kritisiert-sprengelpflicht-bei-grundschulen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/fdp-kritisiert-sprengelpflicht-bei-grundschulen",
-      "published": "Tue, 15 Sep 2026 05:41:26 -0000",
-      "published_display": "15.09.2026 · 05:41 Uhr"
-    },
-    {
-      "title": "Islamismus nach 9/11: Angst, den Islam anzuklagen",
-      "summary": "Nach dem 11. September 2001 tappte der Westen in eine Falle: in die der intellektuellen und ideellen Unterreaktion gegenüber dem Islam. Die Folgen sind bis heute spürbar.",
-      "image": "https://img.zeit.de/politik/2026-09/islamismus-9-11-entwicklung-terrorismus-5vor8-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/islamismus-9-11-entwicklung-terrorismus-5vor8",
-      "published": "Tue, 15 Sep 2026 05:39:31 -0000",
-      "published_display": "15.09.2026 · 05:39 Uhr"
-    },
-    {
-      "title": "Sydney Sweeney: Sportlerinnen kritisieren sexualisierte Werbung mit Sydney Sweeney",
-      "summary": "Die US-Schauspielerin Sydney Sweeney wirbt mit Nacktfotos für einen Sportwettenanbieter. Die Werbekampagne löst unter Sportlerinnen eine heftige Kontroverse aus.",
-      "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-09/sydney-sweeney-werbung-sportwetten-nacktheit-kritik-ariarne-titmus-foto-1/original__640x360",
-      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-09/sydney-sweeney-werbung-sportwetten-nacktheit-kritik-ariarne-titmus",
-      "published": "Tue, 15 Sep 2026 05:36:10 -0000",
-      "published_display": "15.09.2026 · 05:36 Uhr"
-    },
-    {
-      "title": "Wetteraussichten: Heiteres Sommerwetter und trübe Aussichten zur Wochenmitte",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/heiteres-sommerwetter-und-truebe-aussichten-zur-wochenmitte-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/heiteres-sommerwetter-und-truebe-aussichten-zur-wochenmitte",
-      "published": "Tue, 15 Sep 2026 05:35:13 -0000",
-      "published_display": "15.09.2026 · 05:35 Uhr"
-    },
-    {
-      "title": "Autobranche: VW-Krise - Experte warnt vor Folgen für Personalgewinnung",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/vw-krise-experte-warnt-vor-folgen-fuer-personalgewinnung-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/vw-krise-experte-warnt-vor-folgen-fuer-personalgewinnung",
-      "published": "Tue, 15 Sep 2026 05:34:15 -0000",
-      "published_display": "15.09.2026 · 05:34 Uhr"
     }
   ]
 }
