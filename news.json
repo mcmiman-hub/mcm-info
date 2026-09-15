@@ -1,7 +1,47 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-15T16:18:07.308398+00:00",
+  "updated": "2026-09-15T16:31:55.336570+00:00",
   "items": [
+    {
+      "title": "Kriminalität: Frau in Neumünster mit Messer verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/frau-in-neumuenster-mit-messer-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/frau-in-neumuenster-mit-messer-verletzt",
+      "published": "Tue, 15 Sep 2026 16:28:10 -0000",
+      "published_display": "15.09.2026 · 16:28 Uhr"
+    },
+    {
+      "title": "Film: Schauspieler Ralf Richter ist tot",
+      "summary": "",
+      "image": "",
+      "link": "https://www.zeit.de/news/2026-09/15/schauspieler-ralf-richter-ist-tot",
+      "published": "Tue, 15 Sep 2026 16:26:36 -0000",
+      "published_display": "15.09.2026 · 16:26 Uhr"
+    },
+    {
+      "title": "Klimawandel: Jetzt amtlich: Sommer mit Hitzerekorden in Bayern",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/jetzt-amtlich-sommer-mit-hitzerekorden-in-bayern-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/jetzt-amtlich-sommer-mit-hitzerekorden-in-bayern",
+      "published": "Tue, 15 Sep 2026 16:24:02 -0000",
+      "published_display": "15.09.2026 · 16:24 Uhr"
+    },
+    {
+      "title": "Brände: Brand in Braunschweig: Mann wegen Mordvorwurfs in U-Haft",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/brand-in-braunschweig-mann-wegen-mordvorwurfs-in-u-haft-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/brand-in-braunschweig-mann-wegen-mordvorwurfs-in-u-haft",
+      "published": "Tue, 15 Sep 2026 16:22:59 -0000",
+      "published_display": "15.09.2026 · 16:22 Uhr"
+    },
+    {
+      "title": "2. Fußball-Bundesliga: Hertha-Chef verteidigt Reese gegen Pfiffe wegen Abgang",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/hertha-chef-verteidigt-reese-gegen-pfiffe-wegen-abgang-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/hertha-chef-verteidigt-reese-gegen-pfiffe-wegen-abgang",
+      "published": "Tue, 15 Sep 2026 16:16:25 -0000",
+      "published_display": "15.09.2026 · 16:16 Uhr"
+    },
     {
       "title": "Gertrude Lübbe-Wolff: Das Bundesverfassungsgericht ist für Konflikte mit der AfD gerüstet",
       "summary": "Nur: Noch mehr Menschen würden dem Gericht vertrauen, wenn auch die AfD Richter vorschlagen könnte. Dafür wirbt die ehemalige Verfassungsrichterin Gertrude Lübbe-Wolff.",
@@ -54,7 +94,7 @@
       "title": "Festnahmen in Istanbul: Zahlreiche Aktivisten bei LGBTQ-Protest in der Türkei festgenommen",
       "summary": "In Istanbul ist bei einem queeren Protest eine Reihe von Menschen festgenommen worden. Razzien in LGBTQ-Vereinen fanden in der Türkei zuletzt landesweit statt.",
       "image": "https://img.zeit.de/gesellschaft/2026-09/istanbul-lgbt-festnahmen-journalisten-anwaelte-polizei-foto-1/original__640x360",
-      "link": "https://www.zeit.de/gesellschaft/2026-09/istanbul-lgbt-festnahmen-journalisten-anwaelte-polizei",
+      "link": "https://www.zeit.de/gesellschaft/2026-09/istanbul-lgbt-festnahmen-journalisten-anwaelte-polizei-gxe",
       "published": "Tue, 15 Sep 2026 15:52:15 -0000",
       "published_display": "15.09.2026 · 15:52 Uhr"
     },
@@ -81,46 +121,6 @@
       "link": "https://www.zeit.de/gesellschaft/2026-09/messerattacke-berlin-mordlust-richard-ramirez-verbrechen-podcast",
       "published": "Tue, 15 Sep 2026 15:48:17 -0000",
       "published_display": "15.09.2026 · 15:48 Uhr"
-    },
-    {
-      "title": "Klausur: SPD-Fraktion für Gesetz mit dauerhafter Demokratieförderung",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/spd-fraktion-fuer-gesetz-mit-dauerhafter-demokratiefoerderung-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/spd-fraktion-fuer-gesetz-mit-dauerhafter-demokratiefoerderung",
-      "published": "Tue, 15 Sep 2026 15:46:11 -0000",
-      "published_display": "15.09.2026 · 15:46 Uhr"
-    },
-    {
-      "title": "Debatte um Entlastungen: Merz kündigt schnelle Entlastung bei Spritpreisen an",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/spritpreise-auf-rekordkurs-debatte-ueber-entlastungen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/spritpreise-auf-rekordkurs-debatte-ueber-entlastungen",
-      "published": "Tue, 15 Sep 2026 15:35:07 -0000",
-      "published_display": "15.09.2026 · 15:35 Uhr"
-    },
-    {
-      "title": "Spritpreise: Der Staat soll helfen – aber nicht beim Spritpreis",
-      "summary": "Die Spritpreise steigen so stark an, dass jetzt auch der Kanzler eingreifen will. Er kündigt neue Entlastungen an. Hoffentlich wird es nicht wieder ein Tankrabatt.",
-      "image": "https://img.zeit.de/wirtschaft/2026-09/spritpreise-rabatt-stromsteuer-senkung-tankrabatt-bild/original__640x360",
-      "link": "https://www.zeit.de/wirtschaft/2026-09/pritpreise-rabatt-stromsteuer-senkung-tankrabatt",
-      "published": "Tue, 15 Sep 2026 15:30:28 -0000",
-      "published_display": "15.09.2026 · 15:30 Uhr"
-    },
-    {
-      "title": "Investition: Bis zu 60 Millionen Euro für Leipziger Sportforum",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/bis-zu-60-millionen-euro-fuer-leipziger-sportforum-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/bis-zu-60-millionen-euro-fuer-leipziger-sportforum",
-      "published": "Tue, 15 Sep 2026 15:30:20 -0000",
-      "published_display": "15.09.2026 · 15:30 Uhr"
-    },
-    {
-      "title": "Angriff mit Schusswaffe: Tötungsdelikt in Dietzenbach - drei Männer gefasst",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/60-jaehriger-stirbt-an-schussverletzung-fahndung-laeuft-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/60-jaehriger-stirbt-an-schussverletzung-fahndung-laeuft",
-      "published": "Tue, 15 Sep 2026 15:24:44 -0000",
-      "published_display": "15.09.2026 · 15:24 Uhr"
     }
   ]
 }
