@@ -1,7 +1,79 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-15T08:36:20.551549+00:00",
+  "updated": "2026-09-15T08:51:41.434234+00:00",
   "items": [
+    {
+      "title": "Unfall auf dem Weg zur Schule: 16 Kinder nach Busunfall im Krankenhaus",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/16-kinder-nach-busunfall-im-krankenhaus-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/16-kinder-nach-busunfall-im-krankenhaus",
+      "published": "Tue, 15 Sep 2026 08:49:12 -0000",
+      "published_display": "15.09.2026 · 08:49 Uhr"
+    },
+    {
+      "title": "Finanzen: Rendite von US-Staatsanleihen erreicht Hoch seit Finanzkrise",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/rendite-von-us-staatsanleihen-erreicht-hoch-seit-finanzkrise-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/rendite-von-us-staatsanleihen-erreicht-hoch-seit-finanzkrise",
+      "published": "Tue, 15 Sep 2026 08:48:31 -0000",
+      "published_display": "15.09.2026 · 08:48 Uhr"
+    },
+    {
+      "title": "Kommunale Finanzen: Schulden der Kommunen um fast 20 Prozent gestiegen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/schulden-der-kommunen-um-fast-20-prozent-gestiegen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/schulden-der-kommunen-um-fast-20-prozent-gestiegen",
+      "published": "Tue, 15 Sep 2026 08:47:14 -0000",
+      "published_display": "15.09.2026 · 08:47 Uhr"
+    },
+    {
+      "title": "Kritik an KiKa-Interviews: »logo!«-Kindernachrichten im KiKa ändern Konzept bei AfD-Interviews",
+      "summary": "Ein »logo!«-Interview mit dem AfD-Politiker Ulrich Siegmund sorgte für Kritik. Zur Wahl in Mecklenburg-Vorpommern will die Redaktion ihre Interviews besser einordnen.",
+      "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-09/kika-logo-interview-afd-enrico-schult-manuela-schwesig-schueler-petition-foto-1/original__640x360",
+      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-09/kika-logo-interview-afd-enrico-schult-manuela-schwesig-schueler-petition",
+      "published": "Tue, 15 Sep 2026 08:46:42 -0000",
+      "published_display": "15.09.2026 · 08:46 Uhr"
+    },
+    {
+      "title": "USA-Reise: Pistorius reist in die USA: Gespräch mit US-Minister Hegseth",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/pistorius-reist-in-die-usa-gespraech-mit-us-minister-hegseth-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/pistorius-reist-in-die-usa-gespraech-mit-us-minister-hegseth",
+      "published": "Tue, 15 Sep 2026 08:44:02 -0000",
+      "published_display": "15.09.2026 · 08:44 Uhr"
+    },
+    {
+      "title": "Krise in der Auto-Industrie: IG Metall plant Großproteste gegen Jobabbau in Autoindustrie",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/ig-metall-plant-grossproteste-gegen-jobabbau-in-autoindustrie-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/ig-metall-plant-grossproteste-gegen-jobabbau-in-autoindustrie",
+      "published": "Tue, 15 Sep 2026 08:41:41 -0000",
+      "published_display": "15.09.2026 · 08:41 Uhr"
+    },
+    {
+      "title": "Hundertjährige: Japan zählt erstmals mehr als 100.000 Hundertjährige",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/japan-zaehlt-erstmals-mehr-als-100-000-hundertjaehrige-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/japan-zaehlt-erstmals-mehr-als-100-000-hundertjaehrige",
+      "published": "Tue, 15 Sep 2026 08:41:38 -0000",
+      "published_display": "15.09.2026 · 08:41 Uhr"
+    },
+    {
+      "title": "Notfälle: Reizgas-Verdacht: Polizei ermittelt nach Vorfall in Schule",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/reizgas-verdacht-polizei-ermittelt-nach-vorfall-in-schule-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/reizgas-verdacht-polizei-ermittelt-nach-vorfall-in-schule",
+      "published": "Tue, 15 Sep 2026 08:40:17 -0000",
+      "published_display": "15.09.2026 · 08:40 Uhr"
+    },
+    {
+      "title": "Lagebild Organisierte Kriminalität: Dobrindt berichtet von zunehmender »Gewalt als Dienstleistung«",
+      "summary": "Organisierte und Rauschgiftkriminalität hat einen zunehmenden Servicecharakter. Darauf wies bei der Vorstellung der Lagebilder Bundesinnenminister Alexander Dobrindt hin.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/organisierte-kriminalitaet-alexander-dobrindt-crime-as-a-service-banden-rauschgift-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/organisierte-kriminalitaet-alexander-dobrindt-crime-as-a-service-banden-rauschgift",
+      "published": "Tue, 15 Sep 2026 08:37:10 -0000",
+      "published_display": "15.09.2026 · 08:37 Uhr"
+    },
     {
       "title": "Finanzen von Eltern: Was ihr als werdende Eltern finanziell regeln müsst",
       "summary": "Elterngeld, Versicherungen oder Heirat. Wer sich früh mit den wichtigsten Finanzfragen beschäftigt, kann später teure Fehler vermeiden. Unser neuer Geldpodcast",
@@ -49,78 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/15/auffahrunfall-im-dichten-nebel-fahrer-schwer-verletzt",
       "published": "Tue, 15 Sep 2026 08:24:53 -0000",
       "published_display": "15.09.2026 · 08:24 Uhr"
-    },
-    {
-      "title": "Vulkan: Ätna-Aschewolke behindert Flugverkehr über Sizilien",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/aetna-aschewolke-behindert-flugverkehr-ueber-sizilien-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/aetna-aschewolke-behindert-flugverkehr-ueber-sizilien",
-      "published": "Tue, 15 Sep 2026 08:22:50 -0000",
-      "published_display": "15.09.2026 · 08:22 Uhr"
-    },
-    {
-      "title": "Feuerwehreinsatz: Brand in Laborgebäude bei Biontech",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/brand-in-laborgebaeude-bei-biontech-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/brand-in-laborgebaeude-bei-biontech",
-      "published": "Tue, 15 Sep 2026 08:22:16 -0000",
-      "published_display": "15.09.2026 · 08:22 Uhr"
-    },
-    {
-      "title": "Bergbau: Neue Zinngrube: Saxore und Wismut loten Zusammenarbeit aus",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/neue-zinngrube-saxore-und-wismut-loten-zusammenarbeit-aus-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/neue-zinngrube-saxore-und-wismut-loten-zusammenarbeit-aus",
-      "published": "Tue, 15 Sep 2026 08:20:57 -0000",
-      "published_display": "15.09.2026 · 08:20 Uhr"
-    },
-    {
-      "title": "Drift durchs Eis: «ISS der Arktis» auf Expedition - Hund warnt vor Eisbären",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/iss-der-arktis-auf-expedition-hund-warnt-vor-eisbaeren-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/iss-der-arktis-auf-expedition-hund-warnt-vor-eisbaeren",
-      "published": "Tue, 15 Sep 2026 08:19:49 -0000",
-      "published_display": "15.09.2026 · 08:19 Uhr"
-    },
-    {
-      "title": "Ukraine-Krieg: Trotz Trump-Ansage: Ukraine greift russische Anlage an",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/trotz-trump-ansage-ukraine-greift-russische-anlage-an-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/trotz-trump-ansage-ukraine-greift-russische-anlage-an",
-      "published": "Tue, 15 Sep 2026 08:18:49 -0000",
-      "published_display": "15.09.2026 · 08:18 Uhr"
-    },
-    {
-      "title": "Brandstiftung auf Ferieninsel?: Prozess gegen Kegelbrüder auf Mallorca erst 2028",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/prozess-gegen-kegelbrueder-auf-mallorca-erst-2028-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/prozess-gegen-kegelbrueder-auf-mallorca-erst-2028",
-      "published": "Tue, 15 Sep 2026 08:18:24 -0000",
-      "published_display": "15.09.2026 · 08:18 Uhr"
-    },
-    {
-      "title": "Absturz: Bergunfall in Tirol: 27-Jähriger aus Frankfurt tot",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/bergunfall-in-tirol-27-jaehriger-aus-frankfurt-tot-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/bergunfall-in-tirol-27-jaehriger-aus-frankfurt-tot",
-      "published": "Tue, 15 Sep 2026 08:18:08 -0000",
-      "published_display": "15.09.2026 · 08:18 Uhr"
-    },
-    {
-      "title": "3. Fußball-Liga: Hansa Rostock trennt sich von Trainer Brinkmann",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/hansa-rostock-trennt-sich-von-trainer-brinkmann-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/hansa-rostock-trennt-sich-von-trainer-brinkmann",
-      "published": "Tue, 15 Sep 2026 08:10:34 -0000",
-      "published_display": "15.09.2026 · 08:10 Uhr"
-    },
-    {
-      "title": "Rüstungsindustrie: Pistorius will Rüstungskooperationen mit den USA weiter ausbauen",
-      "summary": "Deutschland plant eine Ausweitung der Rüstungsproduktion für und mit den USA. Verteidigungsminister Boris Pistorius will dazu Gespräche in den USA führen.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/boris-pistorius-usa-deutschland-ruestungskooperation-f-35-patriot-tomahawk-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/boris-pistorius-usa-deutschland-ruestungskooperation-f-35-patriot-tomahawk",
-      "published": "Tue, 15 Sep 2026 08:02:50 -0000",
-      "published_display": "15.09.2026 · 08:02 Uhr"
     }
   ]
 }
