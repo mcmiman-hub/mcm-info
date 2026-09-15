@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-15T01:34:11.028113+00:00",
+  "updated": "2026-09-15T01:47:50.271755+00:00",
   "items": [
+    {
+      "title": "Krieg gegen die Ukraine: EU verschiebt Verlängerung der Russlandsanktionen",
+      "summary": "Zu Sanktionen wird erst nächste Woche entschieden. Frankreich will Oligarch Usmanow von der Liste streichen. Nato-Jets schießen eine Drohne über Litauen ab. Das Liveblog",
+      "image": "https://img.zeit.de/politik/ausland/ukraine-krieg-news-russland-danktionen-liveblog-bild-2/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "published": "Tue, 15 Sep 2026 01:45:03 -0000",
+      "published_display": "15.09.2026 · 01:45 Uhr"
+    },
+    {
+      "title": "Bündnis im Alarmmodus: Nato registriert steigende Zahl russischer Hybrid-Angriffe",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/nato-registriert-steigende-zahl-russischer-hybrid-angriffe-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/nato-registriert-steigende-zahl-russischer-hybrid-angriffe",
+      "published": "Tue, 15 Sep 2026 01:35:05 -0000",
+      "published_display": "15.09.2026 · 01:35 Uhr"
+    },
     {
       "title": "Weinbau: Sehr frühe Weinlese – Verbände: kleine Beeren, gute Qualität",
       "summary": "",
@@ -75,14 +91,6 @@
       "published_display": "15.09.2026 · 01:15 Uhr"
     },
     {
-      "title": "Krieg gegen die Ukraine: EU verschiebt Verlängerung der Russlandsanktionen",
-      "summary": "Zu Sanktionen wird erst nächste Woche entschieden. Frankreich will Oligarch Usmanow von der Liste streichen. Nato-Jets schießen eine Drohne über Litauen ab. Das Liveblog",
-      "image": "https://img.zeit.de/politik/ausland/ukraine-krieg-news-russland-danktionen-liveblog-bild-2/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "published": "Tue, 15 Sep 2026 01:14:33 -0000",
-      "published_display": "15.09.2026 · 01:14 Uhr"
-    },
-    {
       "title": "Projekt von Juristen: Handreichung zeigt rechtliche Wege bei AfD-Kurswechsel auf",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-09/15/handreichung-zeigt-rechtliche-wege-bei-afd-kurswechsel-auf-image-group/original__640x360",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/politik/ausland/2026-09/briefwahl-usa-donald-trump-supreme-court-usps",
       "published": "Tue, 15 Sep 2026 00:40:25 -0000",
       "published_display": "15.09.2026 · 00:40 Uhr"
-    },
-    {
-      "title": "Vor den Midterms: Streit um Briefwahl: Niederlage für Trump vor Supreme Court",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/streit-um-briefwahl-niederlage-fuer-trump-vor-supreme-court-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/streit-um-briefwahl-niederlage-fuer-trump-vor-supreme-court",
-      "published": "Tue, 15 Sep 2026 00:37:49 -0000",
-      "published_display": "15.09.2026 · 00:37 Uhr"
     }
   ]
 }
