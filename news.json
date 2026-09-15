@@ -1,7 +1,95 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-15T02:57:32.513073+00:00",
+  "updated": "2026-09-15T03:19:17.798702+00:00",
   "items": [
+    {
+      "title": "Deutsche Eishockey Liga: Trainer sehen Ende der Eisbären-Dominanz: Mannheim Favorit",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/trainer-sehen-ende-der-eisbaeren-dominanz-mannheim-favorit-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/trainer-sehen-ende-der-eisbaeren-dominanz-mannheim-favorit",
+      "published": "Tue, 15 Sep 2026 03:12:04 -0000",
+      "published_display": "15.09.2026 · 03:12 Uhr"
+    },
+    {
+      "title": "App-Store: Elon Musk lässt Wettbewerbsklage gegen Apple fallen",
+      "summary": "Der Tech-Unternehmer warf dem iPhone-Konzern unfairen Wettbewerb gegenüber anderen Chatbots wie seiner Software Grok vor. Jetzt hat Elon Musk die Klage zurückgenommen.",
+      "image": "https://img.zeit.de/wirtschaft/unternehmen/2026-09/elon-musk-apple-klage-openai-sam-altman-chatgpt-foto-1/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/unternehmen/2026-09/elon-musk-apple-klage-openai-sam-altman-chatgpt",
+      "published": "Tue, 15 Sep 2026 03:11:30 -0000",
+      "published_display": "15.09.2026 · 03:11 Uhr"
+    },
+    {
+      "title": "Rauchen: Werden Zigaretten viel teurer? Tabakbranche warnt vor Folgen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/werden-zigaretten-viel-teurer-tabakbranche-warnt-vor-folgen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/werden-zigaretten-viel-teurer-tabakbranche-warnt-vor-folgen",
+      "published": "Tue, 15 Sep 2026 03:05:04 -0000",
+      "published_display": "15.09.2026 · 03:05 Uhr"
+    },
+    {
+      "title": "USA-Reise: Pistorius reist in die USA: Gespräch mit US-Minister Hegseth",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/pistorius-reist-in-die-usa-gespraech-mit-us-minister-hegseth-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/pistorius-reist-in-die-usa-gespraech-mit-us-minister-hegseth",
+      "published": "Tue, 15 Sep 2026 03:01:04 -0000",
+      "published_display": "15.09.2026 · 03:01 Uhr"
+    },
+    {
+      "title": "Landtagswahl: Schwesig gegen Holm: Zwei Spitzenkandidaten, ein Wahlkreis",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/schwesig-gegen-holm-zwei-spitzenkandidaten-ein-wahlkreis-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/schwesig-gegen-holm-zwei-spitzenkandidaten-ein-wahlkreis",
+      "published": "Tue, 15 Sep 2026 03:00:16 -0000",
+      "published_display": "15.09.2026 · 03:00 Uhr"
+    },
+    {
+      "title": "Nach langem Sommer: Reiner Sauerstoff soll Fischsterben in Talsperren verhindern",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/reiner-sauerstoff-soll-fischsterben-in-talsperren-verhindern-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/reiner-sauerstoff-soll-fischsterben-in-talsperren-verhindern",
+      "published": "Tue, 15 Sep 2026 03:00:16 -0000",
+      "published_display": "15.09.2026 · 03:00 Uhr"
+    },
+    {
+      "title": "Finanzpolitik: Piwarz warnt: Neuverschuldung darf kein Dauerzustand werden",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/piwarz-warnt-neuverschuldung-darf-kein-dauerzustand-werden-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/piwarz-warnt-neuverschuldung-darf-kein-dauerzustand-werden",
+      "published": "Tue, 15 Sep 2026 03:00:15 -0000",
+      "published_display": "15.09.2026 · 03:00 Uhr"
+    },
+    {
+      "title": "Forderung an die Regierung: Hohe Spritpreise: Kämpfer für Übergewinnsteuer",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/hohe-spritpreise-kaempfer-fuer-uebergewinnsteuer-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/hohe-spritpreise-kaempfer-fuer-uebergewinnsteuer",
+      "published": "Tue, 15 Sep 2026 03:00:09 -0000",
+      "published_display": "15.09.2026 · 03:00 Uhr"
+    },
+    {
+      "title": "Nur Land in Sicht - noch: Wann ist der Wiesensee wieder mehr See als Wiese?",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/wann-ist-der-wiesensee-wieder-mehr-see-als-wiese-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/wann-ist-der-wiesensee-wieder-mehr-see-als-wiese",
+      "published": "Tue, 15 Sep 2026 03:00:08 -0000",
+      "published_display": "15.09.2026 · 03:00 Uhr"
+    },
+    {
+      "title": "Leichenfund: Nach Torso-Fund ermittelt Polizei weiter mit Hochdruck",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/nach-torso-fund-ermittelt-polizei-weiter-mit-hochdruck-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/nach-torso-fund-ermittelt-polizei-weiter-mit-hochdruck",
+      "published": "Tue, 15 Sep 2026 03:00:04 -0000",
+      "published_display": "15.09.2026 · 03:00 Uhr"
+    },
+    {
+      "title": "Gala in Los Angeles: Krankenhausserie «The Pitt» gewinnt Emmy als bestes Drama",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/krankenhausserie-the-pitt-gewinnt-emmy-als-bestes-drama-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/krankenhausserie-the-pitt-gewinnt-emmy-als-bestes-drama",
+      "published": "Tue, 15 Sep 2026 02:56:57 -0000",
+      "published_display": "15.09.2026 · 02:56 Uhr"
+    },
     {
       "title": "Vor den Midterms: Streit um Briefwahl: Niederlage für Trump vor Supreme Court",
       "summary": "",
@@ -33,94 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/15/eisbaer-diebstahl-kinofilme-kurioses-zur-cap-san-diego",
       "published": "Tue, 15 Sep 2026 02:30:06 -0000",
       "published_display": "15.09.2026 · 02:30 Uhr"
-    },
-    {
-      "title": "Sozialsystem: Stiftung Bethel warnt vor Versorgungslücken bei Behinderten",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/stiftung-bethel-warnt-vor-versorgungsluecken-bei-behinderten-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/stiftung-bethel-warnt-vor-versorgungsluecken-bei-behinderten",
-      "published": "Tue, 15 Sep 2026 02:30:05 -0000",
-      "published_display": "15.09.2026 · 02:30 Uhr"
-    },
-    {
-      "title": "Luftraum über Litauen: Kampfflugzeuge schießen Drohne über Litauen ab",
-      "summary": "Dem litauischen Präsidenten zufolge ist eine Drohne in den Luftraum des Landes eingedrungen. Sie sei von Nato-Kampfjets abgeschossen worden. Ihre Herkunft ist unklar.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/drohne-litauen-nato-luftraum-russland-ukraine-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/drohne-litauen-nato-luftraum-russland-ukraine",
-      "published": "Tue, 15 Sep 2026 02:02:36 -0000",
-      "published_display": "15.09.2026 · 02:02 Uhr"
-    },
-    {
-      "title": "Elektromobilität: 100.000 Bestellungen für iX3 von BMW allein in Europa",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/100-000-bestellungen-fuer-ix3-von-bmw-allein-in-europa-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/100-000-bestellungen-fuer-ix3-von-bmw-allein-in-europa",
-      "published": "Tue, 15 Sep 2026 02:00:38 -0000",
-      "published_display": "15.09.2026 · 02:00 Uhr"
-    },
-    {
-      "title": "«Verdammt, ich lieb' dich ...»: Matthias Reim klaut bei sich selbst für sein neues Album",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/matthias-reim-klaut-bei-sich-selbst-fuer-sein-neues-album-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/matthias-reim-klaut-bei-sich-selbst-fuer-sein-neues-album",
-      "published": "Tue, 15 Sep 2026 02:00:37 -0000",
-      "published_display": "15.09.2026 · 02:00 Uhr"
-    },
-    {
-      "title": "Landtagswahl: Welche Koalitionen in MV denkbar sind",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/welche-koalitionen-in-mv-denkbar-sind-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/welche-koalitionen-in-mv-denkbar-sind",
-      "published": "Tue, 15 Sep 2026 02:00:35 -0000",
-      "published_display": "15.09.2026 · 02:00 Uhr"
-    },
-    {
-      "title": "Wetter: Neues Schuljahr in Bayern startet mit viel Sonne",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/neues-schuljahr-in-bayern-startet-mit-viel-sonne-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/neues-schuljahr-in-bayern-startet-mit-viel-sonne",
-      "published": "Tue, 15 Sep 2026 02:00:28 -0000",
-      "published_display": "15.09.2026 · 02:00 Uhr"
-    },
-    {
-      "title": "Wahlkampf in Berlin: Eralp will stärker gegen Organisierte Kriminalität vorgehen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/eralp-will-staerker-gegen-organisierte-kriminalitaet-vorgehen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/eralp-will-staerker-gegen-organisierte-kriminalitaet-vorgehen",
-      "published": "Tue, 15 Sep 2026 02:00:28 -0000",
-      "published_display": "15.09.2026 · 02:00 Uhr"
-    },
-    {
-      "title": "Unternehmen: Viele junge Deutsche wollen Firmen gründen – wenige tun es",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/viele-junge-deutsche-wollen-firmen-gruenden-wenige-tun-es-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/viele-junge-deutsche-wollen-firmen-gruenden-wenige-tun-es",
-      "published": "Tue, 15 Sep 2026 02:00:19 -0000",
-      "published_display": "15.09.2026 · 02:00 Uhr"
-    },
-    {
-      "title": "Teure Tankfüllungen: Hohe Spritpreise: Was könnte die Politik tun?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/hohe-spritpreise-was-koennte-die-politik-tun-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/hohe-spritpreise-was-koennte-die-politik-tun",
-      "published": "Tue, 15 Sep 2026 02:00:14 -0000",
-      "published_display": "15.09.2026 · 02:00 Uhr"
-    },
-    {
-      "title": "Unerlaubt gespritzt: Botox-Prozess in Konstanz: Kieferorthopädin vor Gericht",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/botox-prozess-in-konstanz-kieferorthopaedin-vor-gericht-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/botox-prozess-in-konstanz-kieferorthopaedin-vor-gericht",
-      "published": "Tue, 15 Sep 2026 02:00:14 -0000",
-      "published_display": "15.09.2026 · 02:00 Uhr"
-    },
-    {
-      "title": "Mysteriöser Schwund in Berlin: Das Tschilpen verstummt - Spatzen «wie in Luft aufgelöst»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/das-tschilpen-verstummt-spatzen-wie-in-luft-aufgeloest-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/das-tschilpen-verstummt-spatzen-wie-in-luft-aufgeloest",
-      "published": "Tue, 15 Sep 2026 02:00:13 -0000",
-      "published_display": "15.09.2026 · 02:00 Uhr"
     }
   ]
 }
