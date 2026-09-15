@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-15T22:29:12.573182+00:00",
+  "updated": "2026-09-15T22:42:12.409767+00:00",
   "items": [
+    {
+      "title": "Irankrieg: USA räumen erstmals Munitionsmangel ein",
+      "summary": "Der Kongress beziffert die bisherigen Gesamtkosten des Irankieges auf 38 Milliarden Dollar. Das Pentagon spricht von Engpässe bei der Munitionsbeschaffung. Das Liveblog",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/u-s-navy-sailors-work-on-the-flight-deck-of-the-aircraft-carrier-uss-george-washington-as-it-transits-the-arabian-sea-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-05/iran-krieg-donald-trump-hormus-live",
+      "published": "Tue, 15 Sep 2026 22:41:56 -0000",
+      "published_display": "15.09.2026 · 22:41 Uhr"
+    },
+    {
+      "title": "Drohnenshow im Hafen: Leuchtendes Fischbrötchen über Hamburg",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/leuchtendes-fischbroetchen-ueber-hamburg-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/leuchtendes-fischbroetchen-ueber-hamburg",
+      "published": "Tue, 15 Sep 2026 22:34:06 -0000",
+      "published_display": "15.09.2026 · 22:34 Uhr"
+    },
+    {
+      "title": "Reformen der Koalition: Friedrich Merz bekräftigt Durchsetzungswillen für Reformen",
+      "summary": "Der Bundeskanzler hat die Umsetzung der geplanten Reformen als Kraftakt bezeichnet. Er verspricht, es versuchen zu wollen. Die SPD forderte zuvor Änderungen.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/kanzler-merz-bei-veranstaltung-zum-150-geburtstag-von-adenauer-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/reformpaket-koalition-friedrich-merz-cdu-bundestag",
+      "published": "Tue, 15 Sep 2026 22:32:27 -0000",
+      "published_display": "15.09.2026 · 22:32 Uhr"
+    },
     {
       "title": "Spritpreise: Wirtschaftsministerium lehnt Forderungen der SPD zu Spritpreisen ab",
       "summary": "Aus dem Haus von Katherina Reiche werden Bedenken zu Vorschlägen der SPD gegen hohe Treibstoffpreise laut. Eine Übergewinnsteuer und ein Preisdeckel seien problematisch.",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/15/gruene-und-bsw-bei-marineschiffbau-in-tv-debatte-uneins",
       "published": "Tue, 15 Sep 2026 20:28:44 -0000",
       "published_display": "15.09.2026 · 20:28 Uhr"
-    },
-    {
-      "title": "Kennedy Center in Washington, D. C.: Donald Trump ordnet sofortige Schließung des Kennedy Centers an",
-      "summary": "Ein Gericht hatte Donald Trump wiederholt die Anbringung seines Namens an der Fassade des Kennedy Centers untersagt. Nun lässt er das nationale Kulturzentrum schließen.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/kennedy-center-washington-dc-schliessung-donald-trump-renovierung-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/kennedy-center-washington-dc-schliessung-donald-trump-renovierung",
-      "published": "Tue, 15 Sep 2026 20:25:25 -0000",
-      "published_display": "15.09.2026 · 20:25 Uhr"
-    },
-    {
-      "title": "TV-Runde vor MV-Wahl: Peters rechnet fest mit CDU-Einzug in den Schweriner Landtag",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/peters-rechnet-fest-mit-cdu-einzug-in-den-schweriner-landtag-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/peters-rechnet-fest-mit-cdu-einzug-in-den-schweriner-landtag",
-      "published": "Tue, 15 Sep 2026 20:20:18 -0000",
-      "published_display": "15.09.2026 · 20:20 Uhr"
-    },
-    {
-      "title": "Es ging um einen Ball: Eltern eskalieren Streit ihrer Kinder - fünf Verletzte",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/eltern-eskalieren-streit-ihrer-kinder-fuenf-verletzte-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/eltern-eskalieren-streit-ihrer-kinder-fuenf-verletzte",
-      "published": "Tue, 15 Sep 2026 20:02:34 -0000",
-      "published_display": "15.09.2026 · 20:02 Uhr"
     }
   ]
 }
