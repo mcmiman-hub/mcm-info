@@ -1,7 +1,63 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-15T05:56:49.223721+00:00",
+  "updated": "2026-09-15T06:24:43.512387+00:00",
   "items": [
+    {
+      "title": "Börsengang: Kleinanleger können Anteile an Afrikas größter Ölraffinerie kaufen",
+      "summary": "Der nigerianische Unternehmer Aliko Dangote bietet Aktien im Wert von 1,8 Milliarden Dollar an. Es wäre der größte Börsengang in der Geschichte des Kontinents.",
+      "image": "https://img.zeit.de/wirtschaft/2026-09/aliko-dangote-oelraffinerie-boersengang-afrika-lagos-aktien-foto-1/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/2026-09/aliko-dangote-oelraffinerie-boersengang-afrika-lagos-aktien",
+      "published": "Tue, 15 Sep 2026 06:16:32 -0000",
+      "published_display": "15.09.2026 · 06:16 Uhr"
+    },
+    {
+      "title": "Feuer: Stallbrand führt zu Millionenschaden - fünf Tiere sterben",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/stallbrand-fuehrt-zu-millionenschaden-fuenf-tiere-sterben-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/stallbrand-fuehrt-zu-millionenschaden-fuenf-tiere-sterben",
+      "published": "Tue, 15 Sep 2026 06:14:21 -0000",
+      "published_display": "15.09.2026 · 06:14 Uhr"
+    },
+    {
+      "title": "Verfolgungsfahrt: 22-Jähriger fährt vor Polizei davon und stößt gegen Ampel",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/22-jaehriger-faehrt-vor-polizei-davon-und-stoesst-gegen-ampel-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/22-jaehriger-faehrt-vor-polizei-davon-und-stoesst-gegen-ampel",
+      "published": "Tue, 15 Sep 2026 06:13:32 -0000",
+      "published_display": "15.09.2026 · 06:13 Uhr"
+    },
+    {
+      "title": "Wahlkampf: Krach: Bin sicher, dass Mietendeckel kommen wird",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/krach-bin-sicher-dass-mietendeckel-kommen-wird-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/krach-bin-sicher-dass-mietendeckel-kommen-wird",
+      "published": "Tue, 15 Sep 2026 06:08:24 -0000",
+      "published_display": "15.09.2026 · 06:08 Uhr"
+    },
+    {
+      "title": "US-Weltraumwaffen: U.S. Space Force bestätigt die Stationierung von Waffen im Weltall",
+      "summary": "Erstmals hat die U.S. Space Force öffentlich gemacht, Waffen im Weltall stationiert zu haben. Es gehe darum, den Weltraum »kontrollieren und verteidigen« zu können.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/usa-weltraumwaffen-orbit-space-force-russland-china-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/usa-weltraumwaffen-orbit-space-force-russland-china",
+      "published": "Tue, 15 Sep 2026 06:04:15 -0000",
+      "published_display": "15.09.2026 · 06:04 Uhr"
+    },
+    {
+      "title": "Football: Starkes Comeback von Mahomes bei Kansas-Sieg",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/starkes-comeback-von-mahomes-bei-kansas-sieg-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/starkes-comeback-von-mahomes-bei-kansas-sieg",
+      "published": "Tue, 15 Sep 2026 06:04:11 -0000",
+      "published_display": "15.09.2026 · 06:04 Uhr"
+    },
+    {
+      "title": "Polizei: Reizgas versprüht - Schule in Burg evakuiert",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/reizgas-versprueht-schule-in-burg-evakuiert-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/reizgas-versprueht-schule-in-burg-evakuiert",
+      "published": "Tue, 15 Sep 2026 05:58:45 -0000",
+      "published_display": "15.09.2026 · 05:58 Uhr"
+    },
     {
       "title": "Unfälle: Fahrer eines Motorrollers bei Unfall schwer verletzt",
       "summary": "",
@@ -25,14 +81,6 @@
       "link": "https://www.zeit.de/news/2026-09/15/brand-in-weinhandlung-nachbarhaus-evakuiert",
       "published": "Tue, 15 Sep 2026 05:51:37 -0000",
       "published_display": "15.09.2026 · 05:51 Uhr"
-    },
-    {
-      "title": "US-Weltraumwaffen: USA bestätigen die Stationierung von Waffen im Weltall",
-      "summary": "Erstmals hat die US-Space Force öffentlich geäußert, Waffen im Weltall stationiert zu haben. Es gehe darum, den Weltraum »kontrollieren und verteidigen« zu können.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/usa-weltraumwaffen-orbit-space-force-russland-china-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/usa-weltraumwaffen-orbit-space-force-russland-china",
-      "published": "Tue, 15 Sep 2026 05:49:57 -0000",
-      "published_display": "15.09.2026 · 05:49 Uhr"
     },
     {
       "title": "Schulen: FDP kritisiert Sprengelpflicht bei Grundschulen",
@@ -73,54 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/15/vw-krise-experte-warnt-vor-folgen-fuer-personalgewinnung",
       "published": "Tue, 15 Sep 2026 05:34:15 -0000",
       "published_display": "15.09.2026 · 05:34 Uhr"
-    },
-    {
-      "title": "Aussichten: Spätsommerliches Wetter am Dienstag",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/spaetsommerliches-wetter-am-dienstag-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/spaetsommerliches-wetter-am-dienstag",
-      "published": "Tue, 15 Sep 2026 05:34:08 -0000",
-      "published_display": "15.09.2026 · 05:34 Uhr"
-    },
-    {
-      "title": "Gala in Los Angeles: Comedy-Horror «Widow's Bay» erzielt Rekord bei Emmy-Gala",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/krankenhausserie-the-pitt-gewinnt-emmy-als-bestes-drama-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/krankenhausserie-the-pitt-gewinnt-emmy-als-bestes-drama",
-      "published": "Tue, 15 Sep 2026 05:32:15 -0000",
-      "published_display": "15.09.2026 · 05:32 Uhr"
-    },
-    {
-      "title": "Sicherheit im Zugverkehr: Deutsche Bahn will Alkohol an allen Bahnhöfen verbieten",
-      "summary": "Nach dem gewaltsamen Tod eines Zugbegleiters sollen zahlreiche Maßnahmen für mehr Sicherheit sorgen. Unter anderem soll Alkoholkonsum an Bahnhöfen verboten werden.",
-      "image": "https://img.zeit.de/mobilitaet/2026-09/deutsche-bahn-gedenkveranstaltung-serkan-calar-zugbegleiter-sicherheit-foto-1/original__640x360",
-      "link": "https://www.zeit.de/mobilitaet/2026-09/deutsche-bahn-gedenkveranstaltung-serkan-calar-zugbegleiter-sicherheit",
-      "published": "Tue, 15 Sep 2026 05:15:07 -0000",
-      "published_display": "15.09.2026 · 05:15 Uhr"
-    },
-    {
-      "title": "Feuer: Stallbrand führt zu Millionenschaden - fünf Tiere sterben",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/stallbrand-fuehrt-zu-millionenschaden-fuenf-tiere-sterben-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/stallbrand-fuehrt-zu-millionenschaden-fuenf-tiere-sterben",
-      "published": "Tue, 15 Sep 2026 05:10:00 -0000",
-      "published_display": "15.09.2026 · 05:10 Uhr"
-    },
-    {
-      "title": "Emmy Awards: »Widow’s Bay« und »The Pitt« sind die Sieger der Emmyverleihung",
-      "summary": "Die Horror-Comedyserie »Widow’s Bay« hat mehr Emmys gewonnen als jemals eine Serie in der Comedykategorie. »The Pitt« erhielt sechs Auszeichnungen.",
-      "image": "https://img.zeit.de/feuilleton/film/2026-09/emmy-awards-widows-bay-apple-tv-matthew-rhys-the-pitt-foto-1/original__640x360",
-      "link": "https://www.zeit.de/feuilleton/film/2026-09/emmy-awards-widows-bay-apple-tv-matthew-rhys-the-pitt",
-      "published": "Tue, 15 Sep 2026 05:08:45 -0000",
-      "published_display": "15.09.2026 · 05:08 Uhr"
-    },
-    {
-      "title": "Künstliche Intelligenz: Staatssekretär: Europa droht bei KI zum Zuschauer zu werden",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/staatssekretaer-europa-droht-bei-ki-zum-zuschauer-zu-werden-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/staatssekretaer-europa-droht-bei-ki-zum-zuschauer-zu-werden",
-      "published": "Tue, 15 Sep 2026 05:02:00 -0000",
-      "published_display": "15.09.2026 · 05:02 Uhr"
     }
   ]
 }
