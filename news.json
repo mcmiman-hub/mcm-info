@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-15T23:27:27.928681+00:00",
+  "updated": "2026-09-15T23:41:46.362203+00:00",
   "items": [
+    {
+      "title": "Spritpreise: Wirtschaftsministerium lehnt Forderungen der SPD zu Spritpreisen ab",
+      "summary": "Das Haus von Katherina Reiche äußert Bedenken an einer Übergewinnsteuer sowie einem Preisdeckel. Monika Schnitzer warnt, die Krise lasse sich nicht »wegsubventionieren«.",
+      "image": "https://img.zeit.de/wirtschaft/2026-09/spritpreise-katharina-reiche-cdu-spritpreisdeckel-uebergewinnsteuer-foto-1/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/2026-09/spritpreise-katharina-reiche-cdu-spritpreisdeckel-uebergewinnsteuer",
+      "published": "Tue, 15 Sep 2026 23:38:43 -0000",
+      "published_display": "15.09.2026 · 23:38 Uhr"
+    },
+    {
+      "title": "Gasspeicher: Bundesregierung spricht wegen Gasspeichern mit Staatsunternehmen",
+      "summary": "Die Gasspeicher haben ungewöhnlich niedrige Füllstände. Berichten zufolge hat Katherina Reiche die staatlichen Unternehmen Sefe und Uniper um Unterstützung gebeten.",
+      "image": "https://img.zeit.de/wirtschaft/2026-09/gasspeicher-katharina-reiche-sefe-uniper-foto-1/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/2026-09/gasspeicher-katharina-reiche-sefe-uniper",
+      "published": "Tue, 15 Sep 2026 23:30:39 -0000",
+      "published_display": "15.09.2026 · 23:30 Uhr"
+    },
+    {
+      "title": "Ceuta: Italien und Spanien verlängern gegenseitige Grenzkontrollen",
+      "summary": "Wegen der Situation auf Ceuta verlängert Italien Grenzkontrollen. Die Regierung gibt »hohe Risiken für die innere Sicherheit« an. Spanien zieht nach.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/migrant-crisis-in-ceuta-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/grenzkontrollen-italien-spanien-ceuta-schengen-migranten",
+      "published": "Tue, 15 Sep 2026 23:30:10 -0000",
+      "published_display": "15.09.2026 · 23:30 Uhr"
+    },
     {
       "title": "USA-Reise: Hegseth: Deutsche Industrie für Nato-Verteidigung nutzen",
       "summary": "",
@@ -33,14 +57,6 @@
       "link": "https://www.zeit.de/politik/deutschland/2026-09/reformpaket-koalition-friedrich-merz-cdu-bundestag",
       "published": "Tue, 15 Sep 2026 22:32:27 -0000",
       "published_display": "15.09.2026 · 22:32 Uhr"
-    },
-    {
-      "title": "Spritpreise: Wirtschaftsministerium lehnt Forderungen der SPD zu Spritpreisen ab",
-      "summary": "Aus dem Haus von Katherina Reiche werden Bedenken zu Vorschlägen der SPD gegen hohe Treibstoffpreise laut. Eine Übergewinnsteuer und ein Preisdeckel seien problematisch.",
-      "image": "https://img.zeit.de/wirtschaft/2026-09/spritpreise-katharina-reiche-cdu-spritpreisdeckel-uebergewinnsteuer-foto-1/original__640x360",
-      "link": "https://www.zeit.de/wirtschaft/2026-09/spritpreise-katharina-reiche-cdu-spritpreisdeckel-uebergewinnsteuer",
-      "published": "Tue, 15 Sep 2026 22:16:41 -0000",
-      "published_display": "15.09.2026 · 22:16 Uhr"
     },
     {
       "title": "ADAC-Auswertung: Deutlich mehr Stau in Hessen: So zäh waren die Sommerferien",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/politik/ausland/2026-09/ruestungskooperation-usa-deutschland-boris-pistorius-pete-hegseth",
       "published": "Tue, 15 Sep 2026 20:58:01 -0000",
       "published_display": "15.09.2026 · 20:58 Uhr"
-    },
-    {
-      "title": "TV-Viererrunde vor MV-Wahl: Grüne in MV: «Wer Schwesig will, muss Grün wählen»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/gruene-in-mv-wer-schwesig-will-muss-gruen-waehlen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/gruene-in-mv-wer-schwesig-will-muss-gruen-waehlen",
-      "published": "Tue, 15 Sep 2026 20:56:43 -0000",
-      "published_display": "15.09.2026 · 20:56 Uhr"
-    },
-    {
-      "title": "Verkehr: Unfall mit Verletzten nahe Koblenz – Vollsperrung",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/unfall-mit-verletzten-nahe-koblenz-vollsperrung-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/unfall-mit-verletzten-nahe-koblenz-vollsperrung",
-      "published": "Tue, 15 Sep 2026 20:41:34 -0000",
-      "published_display": "15.09.2026 · 20:41 Uhr"
     }
   ]
 }
