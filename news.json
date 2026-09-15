@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-15T07:49:17.921255+00:00",
+  "updated": "2026-09-15T07:58:57.230519+00:00",
   "items": [
+    {
+      "title": "Zugausfälle: Sabotage legt Bahnverkehr in Teilen der Niederlande lahm",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/sabotage-legt-bahnverkehr-in-teilen-der-niederlande-lahm-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/sabotage-legt-bahnverkehr-in-teilen-der-niederlande-lahm",
+      "published": "Tue, 15 Sep 2026 07:49:09 -0000",
+      "published_display": "15.09.2026 · 07:49 Uhr"
+    },
     {
       "title": "Kinder in Deutschland: Kinderanteil ist im Osten Deutschlands niedriger als im Westen",
       "summary": "Der Anteil ​von Kindern an der deutschen Bevölkerung hat in den letzten zehn Jahren leicht zugenommen. In Deutschland leben 10,8 Millionen Menschen unter 14 ​Jahren.",
@@ -110,17 +118,9 @@
       "title": "Aggression durch Russland: Russisches Kriegsschiff feuert Leuchtkugeln auf dänischen Hubschrauber",
       "summary": "Leuchtkugeln von einer russischen Fregatte haben einen dänischen Hubschrauber nur knapp verfehlt. Dänemark will den Botschafter Russlands in dem Land einbestellen.",
       "image": "https://img.zeit.de/politik/ausland/2026-09/russische-fregatte-daenemark-hubschrauber-leuchtkugel-nato-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/russische-fregatte-daenemark-hubschrauber-leuchtkugel-nato",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/russische-fregatte-daenemark-hubschrauber-leuchtkugel-nato-gxe",
       "published": "Tue, 15 Sep 2026 07:14:47 -0000",
       "published_display": "15.09.2026 · 07:14 Uhr"
-    },
-    {
-      "title": "Wetter: Wolken über Mecklenburg-Vorpommern - Wann es gewittern kann",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/wolken-ueber-mecklenburg-vorpommern-wann-es-gewittern-kann-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/wolken-ueber-mecklenburg-vorpommern-wann-es-gewittern-kann",
-      "published": "Tue, 15 Sep 2026 07:12:28 -0000",
-      "published_display": "15.09.2026 · 07:12 Uhr"
     }
   ]
 }
