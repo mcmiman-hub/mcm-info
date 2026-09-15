@@ -1,7 +1,39 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-15T19:16:12.055666+00:00",
+  "updated": "2026-09-15T19:28:45.657920+00:00",
   "items": [
+    {
+      "title": "Kultureinrichtung: Trump: Kennedy Center wird umgehend geschlossen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/trump-kennedy-center-wird-umgehend-geschlossen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/trump-kennedy-center-wird-umgehend-geschlossen",
+      "published": "Tue, 15 Sep 2026 19:26:04 -0000",
+      "published_display": "15.09.2026 · 19:26 Uhr"
+    },
+    {
+      "title": "Fußball-Nationalmannschaft: Bericht: Klopp nominiert Elversberg-Newcomer Keidel",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/bericht-klopp-nominiert-elversberg-newcomer-keidel-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/bericht-klopp-nominiert-elversberg-newcomer-keidel",
+      "published": "Tue, 15 Sep 2026 19:23:24 -0000",
+      "published_display": "15.09.2026 · 19:23 Uhr"
+    },
+    {
+      "title": "Künstliche Intelligenz: KI‑Konzerne OpenAI, Anthropic und Google wollen sich selbst regulieren",
+      "summary": "OpenAI, Anthropic und Google planen eine gemeinsame Aufsichtsorganisation für KI. US-Präsident Donald Trump hatte zuvor eine staatliche Regulierung abgelehnt.",
+      "image": "https://img.zeit.de/digital/internet/2026-09/openai-ki-selbstregulierung-konkurrenz-bild/original__640x360",
+      "link": "https://www.zeit.de/digital/2026-09/selbstregulierung-ki-openai-anthropic-google-dario-amodei-sam-altman-donald-trump-china",
+      "published": "Tue, 15 Sep 2026 19:19:19 -0000",
+      "published_display": "15.09.2026 · 19:19 Uhr"
+    },
+    {
+      "title": "Fußball-Nationalmannschaft: Bericht: Klopp nominiert Elversberg-Newcomer Keidel",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/bild-baumann-bei-neuanfang-unter-klopp-nicht-dabei-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/bild-baumann-bei-neuanfang-unter-klopp-nicht-dabei",
+      "published": "Tue, 15 Sep 2026 19:14:43 -0000",
+      "published_display": "15.09.2026 · 19:14 Uhr"
+    },
     {
       "title": "USA-Reise: Pistorius unterzeichnet Rüstungsvereinbarung mit den USA",
       "summary": "",
@@ -89,38 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/15/binnenschiff-kollidiert-mit-der-eisenbahnbruecke-in-elsfleth",
       "published": "Tue, 15 Sep 2026 18:11:07 -0000",
       "published_display": "15.09.2026 · 18:11 Uhr"
-    },
-    {
-      "title": "Schwerer Unfall: Mann von Lieferwagen in Fußgängerzone erfasst und gestorben",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/mann-von-lieferwagen-in-fussgaengerzone-erfasst-und-gestorben-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/mann-von-lieferwagen-in-fussgaengerzone-erfasst-und-gestorben",
-      "published": "Tue, 15 Sep 2026 17:58:13 -0000",
-      "published_display": "15.09.2026 · 17:58 Uhr"
-    },
-    {
-      "title": "Rund halbe Million Menschen: Mehr Geld für Beschäftigte im Einzel- und Versandhandel",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/mehr-geld-fuer-beschaeftigte-im-einzel-und-versandhandel-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/mehr-geld-fuer-beschaeftigte-im-einzel-und-versandhandel",
-      "published": "Tue, 15 Sep 2026 17:56:08 -0000",
-      "published_display": "15.09.2026 · 17:56 Uhr"
-    },
-    {
-      "title": "Nationalsozialismus: «Wunder Punkt» – Erinnerungen an Holocaust-Opfer",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/wunder-punkt-erinnerungen-an-holocaust-opfer-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/wunder-punkt-erinnerungen-an-holocaust-opfer",
-      "published": "Tue, 15 Sep 2026 17:53:29 -0000",
-      "published_display": "15.09.2026 · 17:53 Uhr"
-    },
-    {
-      "title": "Regierungskrise: Friedrich Merz sagt Reise zur UN-Generaldebatte nach New York ab",
-      "summary": "Kanzler Merz hat seine Reise zu den UN nächste Woche abgesagt. Seine Präsenz sei in Berlin »erforderlich«, hieß es. Am Wochenende wird in zwei Bundesländern gewählt.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/un-generalversammlung-new-york-friedrich-merz-reise-absage-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/un-generalversammlung-new-york-friedrich-merz-reise-absage",
-      "published": "Tue, 15 Sep 2026 17:50:37 -0000",
-      "published_display": "15.09.2026 · 17:50 Uhr"
     }
   ]
 }
