@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-15T19:43:22.913512+00:00",
+  "updated": "2026-09-15T19:55:12.349013+00:00",
   "items": [
+    {
+      "title": "Künstliche Intelligenz: KI‑Konzerne OpenAI, Anthropic und Google wollen sich selbst regulieren",
+      "summary": "OpenAI, Anthropic und Google planen eine gemeinsame Aufsichtsorganisation für KI. US-Präsident Donald Trump hatte zuvor eine staatliche Regulierung abgelehnt.",
+      "image": "https://img.zeit.de/digital/internet/2026-09/openai-ki-selbstregulierung-konkurrenz-bild/original__640x360",
+      "link": "https://www.zeit.de/digital/2026-09/selbstregulierung-ki-openai-anthropic-google-dario-amodei-sam-altman-donald-trump-china",
+      "published": "Tue, 15 Sep 2026 19:45:30 -0000",
+      "published_display": "15.09.2026 · 19:45 Uhr"
+    },
+    {
+      "title": "TV-Runde vor MV-Wahl: Lehrer aus der Rente holen? Bildung eröffnet TV-Debatte",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/lehrer-aus-der-rente-holen-bildung-eroeffnet-tv-debatte-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/lehrer-aus-der-rente-holen-bildung-eroeffnet-tv-debatte",
+      "published": "Tue, 15 Sep 2026 19:42:18 -0000",
+      "published_display": "15.09.2026 · 19:42 Uhr"
+    },
     {
       "title": "Unfall auf B268: Drei Menschen bei Frontalzusammenstoß schwer verletzt",
       "summary": "",
@@ -33,14 +49,6 @@
       "link": "https://www.zeit.de/news/2026-09/15/bericht-klopp-nominiert-elversberg-newcomer-keidel",
       "published": "Tue, 15 Sep 2026 19:23:24 -0000",
       "published_display": "15.09.2026 · 19:23 Uhr"
-    },
-    {
-      "title": "Künstliche Intelligenz: KI‑Konzerne OpenAI, Anthropic und Google wollen sich selbst regulieren",
-      "summary": "OpenAI, Anthropic und Google planen eine gemeinsame Aufsichtsorganisation für KI. US-Präsident Donald Trump hatte zuvor eine staatliche Regulierung abgelehnt.",
-      "image": "https://img.zeit.de/digital/internet/2026-09/openai-ki-selbstregulierung-konkurrenz-bild/original__640x360",
-      "link": "https://www.zeit.de/digital/2026-09/selbstregulierung-ki-openai-anthropic-google-dario-amodei-sam-altman-donald-trump-china",
-      "published": "Tue, 15 Sep 2026 19:19:19 -0000",
-      "published_display": "15.09.2026 · 19:19 Uhr"
     },
     {
       "title": "Fußball-Nationalmannschaft: Bericht: Klopp nominiert Elversberg-Newcomer Keidel",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/15/zverev-sagt-davis-cup-teilnahme-zu",
       "published": "Tue, 15 Sep 2026 18:20:21 -0000",
       "published_display": "15.09.2026 · 18:20 Uhr"
-    },
-    {
-      "title": "Spahn-Rückzug: Spahn gibt Bezirksvorsitz im Münsterland auf - Feller folgt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/spahn-gibt-bezirksvorsitz-im-muensterland-auf-feller-folgt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/spahn-gibt-bezirksvorsitz-im-muensterland-auf-feller-folgt",
-      "published": "Tue, 15 Sep 2026 18:16:11 -0000",
-      "published_display": "15.09.2026 · 18:16 Uhr"
     }
   ]
 }
