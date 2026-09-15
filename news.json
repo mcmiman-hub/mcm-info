@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-15T20:17:59.083956+00:00",
+  "updated": "2026-09-15T20:29:32.293061+00:00",
   "items": [
+    {
+      "title": "Kennedy Center in Washington D.C.: Donald Trump ordnet sofortige Schließung des Kennedy Centers an",
+      "summary": "Ein Gericht hatte Donald Trump wiederholt die Anbringung seines Namens an der Fassade des Kennedy Centers untersagt. Nun lässt er das nationale Kulturzentrum schließen.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/kennedy-center-washington-dc-schliessung-donald-trump-renovierung-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/kennedy-center-washington-dc-schliessung-donald-trump-renovierung",
+      "published": "Tue, 15 Sep 2026 20:25:25 -0000",
+      "published_display": "15.09.2026 · 20:25 Uhr"
+    },
+    {
+      "title": "TV-Runde vor MV-Wahl: Peters rechnet fest mit CDU-Einzug in den Schweriner Landtag",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/peters-rechnet-fest-mit-cdu-einzug-in-den-schweriner-landtag-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/peters-rechnet-fest-mit-cdu-einzug-in-den-schweriner-landtag",
+      "published": "Tue, 15 Sep 2026 20:20:18 -0000",
+      "published_display": "15.09.2026 · 20:20 Uhr"
+    },
     {
       "title": "Es ging um einen Ball: Eltern eskalieren Streit ihrer Kinder - fünf Verletzte",
       "summary": "",
@@ -9,14 +25,6 @@
       "link": "https://www.zeit.de/news/2026-09/15/eltern-eskalieren-streit-ihrer-kinder-fuenf-verletzte",
       "published": "Tue, 15 Sep 2026 20:02:34 -0000",
       "published_display": "15.09.2026 · 20:02 Uhr"
-    },
-    {
-      "title": "Kennedy Center in Washington D.C.: Donald Trump ordnet sofortige Schließung des Kennedy Centers an",
-      "summary": "Ein Gericht hatte Donald Trump wiederholt die Anbringung seines Namens an der Fassade des Kennedy Centers untersagt. Nun lässt er das nationale Kulturzentrum schließen.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/kennedy-center-washington-dc-schliessung-donald-trump-renovierung-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/kennedy-center-washington-dc-schliessung-donald-trump-renovierung",
-      "published": "Tue, 15 Sep 2026 20:00:16 -0000",
-      "published_display": "15.09.2026 · 20:00 Uhr"
     },
     {
       "title": "Künstliche Intelligenz: KI‑Konzerne OpenAI, Anthropic und Google wollen sich selbst regulieren",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/politik/ausland/2026-09/russischer-angriff-zug-ukraine-polen-politiker",
       "published": "Tue, 15 Sep 2026 18:30:29 -0000",
       "published_display": "15.09.2026 · 18:30 Uhr"
-    },
-    {
-      "title": "Vorsorge und Erbrecht: »Ist das noch aktuell? Möchten Sie sterben?«, fragt die Anwältin",
-      "summary": "Die Hamburger Juristin Anne Woywod begleitet Menschen in den Tod. Sie will, dass sie selbstbestimmt sterben können. Und in Würde. Doch ihr Job fordert von ihr einiges.",
-      "image": "https://img.zeit.de/hamburg/2026-09/vorsorgerecht-erbrecht-beratung-assistierter-suizid-anne-woywod-hamburg-bild-1/original__640x360",
-      "link": "https://www.zeit.de/hamburg/2026-09/vorsorgerecht-erbrecht-beratung-assistierter-suizid-anne-woywod-hamburg",
-      "published": "Tue, 15 Sep 2026 18:24:15 -0000",
-      "published_display": "15.09.2026 · 18:24 Uhr"
     }
   ]
 }
