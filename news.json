@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-16T20:18:56.332715+00:00",
+  "updated": "2026-09-16T20:32:01.877562+00:00",
   "items": [
+    {
+      "title": "Vor wichtiger Wahl: Berliner Spitzenkandidaten streiten in großem TV-Duell",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/spitzenkandidaten-streiten-in-grossem-tv-duell-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/spitzenkandidaten-streiten-in-grossem-tv-duell",
+      "published": "Wed, 16 Sep 2026 20:24:48 -0000",
+      "published_display": "16.09.2026 · 20:24 Uhr"
+    },
     {
       "title": "Mecklenburg-Vorpommern: Schwesig wirft Holm Übertreibung bei Migration vor",
       "summary": "Im letzten TV‑Duell vor der Wahl wurde zu den Themen Migration, Frauenrechte und Wirtschaft gestritten. AfD-Kandidat Holm griff den NDR an. Das Liveblog zum Nachlesen",
@@ -81,14 +89,6 @@
       "link": "https://www.zeit.de/news/2026-09/16/zweijaehriges-kind-in-auto-eingeschlossen-feuerwehreinsatz",
       "published": "Wed, 16 Sep 2026 19:59:54 -0000",
       "published_display": "16.09.2026 · 19:59 Uhr"
-    },
-    {
-      "title": "Vor wichtiger Wahl: Spitzenkandidaten streiten in großem TV-Duell",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/spitzenkandidaten-streiten-in-grossem-tv-duell-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/spitzenkandidaten-streiten-in-grossem-tv-duell",
-      "published": "Wed, 16 Sep 2026 19:53:54 -0000",
-      "published_display": "16.09.2026 · 19:53 Uhr"
     },
     {
       "title": "TV-Duell Holm gegen Schwesig: Schwesig und Holm streiten über Frauenrechte",
