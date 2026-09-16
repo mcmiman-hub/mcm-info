@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-16T20:44:38.691733+00:00",
+  "updated": "2026-09-16T20:55:32.173649+00:00",
   "items": [
+    {
+      "title": "Fußball: Bayer Leverkusen startet mit Heimsieg in die Europa League",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/bayer-leverkusen-startet-mit-heimsieg-in-die-europa-league-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/bayer-leverkusen-startet-mit-heimsieg-in-die-europa-league",
+      "published": "Wed, 16 Sep 2026 20:51:38 -0000",
+      "published_display": "16.09.2026 · 20:51 Uhr"
+    },
+    {
+      "title": "US-Wirtschaft: US-Notenbank erhöht erstmals seit Juli 2023 wieder Leitzins",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/us-notenbank-erhoeht-erstmals-seit-juli-2023-wieder-leitzins-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/us-notenbank-erhoeht-erstmals-seit-juli-2023-wieder-leitzins",
+      "published": "Wed, 16 Sep 2026 20:47:44 -0000",
+      "published_display": "16.09.2026 · 20:47 Uhr"
+    },
+    {
+      "title": "Feuerwehreinsatz: Frau von herabstürzendem Ast getroffen und verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/frau-von-herabstuerzendem-ast-getroffen-und-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/frau-von-herabstuerzendem-ast-getroffen-und-verletzt",
+      "published": "Wed, 16 Sep 2026 20:45:55 -0000",
+      "published_display": "16.09.2026 · 20:45 Uhr"
+    },
     {
       "title": "Handball-Champions-League: DHB-Profi dreimal am Boden: Füchse verlieren Topspiel",
       "summary": "",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/16/zweijaehriges-kind-in-auto-eingeschlossen-feuerwehreinsatz",
       "published": "Wed, 16 Sep 2026 19:59:54 -0000",
       "published_display": "16.09.2026 · 19:59 Uhr"
-    },
-    {
-      "title": "TV-Duell Holm gegen Schwesig: Schwesig und Holm streiten über Frauenrechte",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/schwesig-und-holm-streiten-ueber-frauenrechte-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/schwesig-und-holm-streiten-ueber-frauenrechte",
-      "published": "Wed, 16 Sep 2026 19:49:14 -0000",
-      "published_display": "16.09.2026 · 19:49 Uhr"
-    },
-    {
-      "title": "Unfälle: Frontalzusammenstoß in Worms - 63-Jähriger stirbt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/toedlicher-frontalzusammenstoss-in-worms-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/toedlicher-frontalzusammenstoss-in-worms",
-      "published": "Wed, 16 Sep 2026 19:40:33 -0000",
-      "published_display": "16.09.2026 · 19:40 Uhr"
-    },
-    {
-      "title": "Vor der Wahl in Berlin: Grüne für stärkeren Ausbau der Berliner Radwege",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/gruene-fuer-staerkeren-ausbau-der-berliner-radwege-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/gruene-fuer-staerkeren-ausbau-der-berliner-radwege",
-      "published": "Wed, 16 Sep 2026 19:31:49 -0000",
-      "published_display": "16.09.2026 · 19:31 Uhr"
     }
   ]
 }
