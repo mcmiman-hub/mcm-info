@@ -1,13 +1,85 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-16T15:17:52.902546+00:00",
+  "updated": "2026-09-16T15:30:53.467722+00:00",
   "items": [
+    {
+      "title": "Wahl-O-Mat in Berlin: Wer kann mit wem?",
+      "summary": "Am Sonntag wählt Berlin. Unsere Analyse zeigt, bei welchen Themen sich die Parteien einig sind und wo es bei der Regierungsbildung knirschen könnte.",
+      "image": "https://img.zeit.de/politik/2026-09/wahlomat-berlin-parteien-programm-kandidaten-analyse-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/wahlomat-berlin-parteien-programm-kandidaten-analyse",
+      "published": "Wed, 16 Sep 2026 15:28:00 -0000",
+      "published_display": "16.09.2026 · 15:28 Uhr"
+    },
+    {
+      "title": "Klage gegen LNG-Terminal: LNG-Terminal auf Rügen: Gemeinde Binz verliert Rechtsstreit",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/lng-terminal-auf-ruegen-bundesgericht-prueft-risiken-fuer-binz-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/lng-terminal-auf-ruegen-bundesgericht-prueft-risiken-fuer-binz",
+      "published": "Wed, 16 Sep 2026 15:27:44 -0000",
+      "published_display": "16.09.2026 · 15:27 Uhr"
+    },
+    {
+      "title": "Hybride Kriegsführung: Nicht im Krieg, aber Ziel von Angriffen",
+      "summary": "Von Desinformation bis Drohnen: Russland greift Deutschland seit Jahren an. Und die hybriden Attacken werden immer gefährlicher. Wie soll man sich dagegen wehren?",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/hybride-kriegsfuehrung-russland-bundesregierung-verteidigung-sabotage-desinformation-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/hybride-kriegsfuehrung-russland-bundesregierung-verteidigung-sabotage-desinformation",
+      "published": "Wed, 16 Sep 2026 15:25:22 -0000",
+      "published_display": "16.09.2026 · 15:25 Uhr"
+    },
+    {
+      "title": "2. Fußball-Bundesliga: Fürth zieht Option und verlängert mit Sillah",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/fuerth-zieht-option-und-verlaengert-mit-sillah-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/fuerth-zieht-option-und-verlaengert-mit-sillah",
+      "published": "Wed, 16 Sep 2026 15:24:34 -0000",
+      "published_display": "16.09.2026 · 15:24 Uhr"
+    },
+    {
+      "title": "Abgeordnetenhauswahl Berlin: Wahlkämpfer von Berliner AfD und CDU an drei Ständen angegriffen",
+      "summary": "An mehreren Wahlständen der Berliner AfD und CDU sind Parteianhänger verbal oder körperlich angegriffen worden. Der Staatsschutz ermittelt zu den Vorfällen.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/angriffe-wahlkampfstaende-cdu-afd-berlin-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/angriffe-wahlkampfstaende-cdu-afd-berlin",
+      "published": "Wed, 16 Sep 2026 15:23:21 -0000",
+      "published_display": "16.09.2026 · 15:23 Uhr"
+    },
+    {
+      "title": "Kanzler-Krise: Peters erfreut über Signal der CDU-Ministerpräsidenten",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/peters-erfreut-ueber-signal-der-cdu-ministerpraesidenten-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/peters-erfreut-ueber-signal-der-cdu-ministerpraesidenten",
+      "published": "Wed, 16 Sep 2026 15:22:55 -0000",
+      "published_display": "16.09.2026 · 15:22 Uhr"
+    },
+    {
+      "title": "Sexuelle Selbstbestimmung: Vergewaltigungsvorwurf: Deutscher auf Mallorca vor Gericht",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/vergewaltigungsvorwurf-deutscher-auf-mallorca-vor-gericht-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/vergewaltigungsvorwurf-deutscher-auf-mallorca-vor-gericht",
+      "published": "Wed, 16 Sep 2026 15:20:19 -0000",
+      "published_display": "16.09.2026 · 15:20 Uhr"
+    },
+    {
+      "title": "Auto-Standort: Landtag debattiert über VW - Kretschmer sieht Chancen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/landtag-debattiert-ueber-vw-kretschmer-sieht-chancen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/landtag-debattiert-ueber-vw-kretschmer-sieht-chancen",
+      "published": "Wed, 16 Sep 2026 15:17:51 -0000",
+      "published_display": "16.09.2026 · 15:17 Uhr"
+    },
     {
       "title": "Arbeiten am Seekabel: Helgoland ist zwei Tage von Festlandstrom abgeschnitten",
       "summary": "Wegen Arbeiten an einem Seekabel wird Helgoland bis Freitag zeitweise vom Festlandstrom und Internet abgeschnitten. Notrufe bleiben auf der Insel jedoch möglich.",
       "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-09/helgoland-stromausfall-internet-seekabel-diesel-aggregate-foto-1/original__640x360",
       "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-09/helgoland-stromausfall-internet-seekabel-diesel-aggregate",
       "published": "Wed, 16 Sep 2026 15:17:21 -0000",
+      "published_display": "16.09.2026 · 15:17 Uhr"
+    },
+    {
+      "title": "Klassik-Festival: Belgier Peter de Caluwe wird Salzburger Festspielchef",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/belgier-peter-de-caluwe-wird-salzburger-festspielchef-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/belgier-peter-de-caluwe-wird-salzburger-festspielchef",
+      "published": "Wed, 16 Sep 2026 15:17:20 -0000",
       "published_display": "16.09.2026 · 15:17 Uhr"
     },
     {
@@ -49,78 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/16/leiche-in-einem-auto-am-bahnhof-entdeckt",
       "published": "Wed, 16 Sep 2026 15:06:50 -0000",
       "published_display": "16.09.2026 · 15:06 Uhr"
-    },
-    {
-      "title": "Bundesgerichtshof: Worum geht es in dem Milliarden-Streit um Corona-Masken?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/worum-geht-es-in-dem-milliarden-streit-um-corona-masken-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/worum-geht-es-in-dem-milliarden-streit-um-corona-masken",
-      "published": "Wed, 16 Sep 2026 15:05:18 -0000",
-      "published_display": "16.09.2026 · 15:05 Uhr"
-    },
-    {
-      "title": "Ursula von der Leyen: Wie sich die EU gegen eine »feindselige Welt« wappnen will",
-      "summary": "Von der Leyen beschwört ein starkes Europa – und hat für Kanada eine ungewöhnliche Idee. Und: Deutschland vertieft die Rüstungskooperation mit den USA.",
-      "image": "https://img.zeit.de/politik/2026-09/ursula-von-der-leyen-europaeische-union-rede-krise-veraenderungen-nachrichtenpodcast-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/2026-09/ursula-von-der-leyen-europaeische-union-rede-krise-veraenderungen-nachrichtenpodcast",
-      "published": "Wed, 16 Sep 2026 15:03:06 -0000",
-      "published_display": "16.09.2026 · 15:03 Uhr"
-    },
-    {
-      "title": "Post: Versand von kleinen Online-Bestellungen wird teurer",
-      "summary": "Das Europäische Parlament hat einer erhöhten Bearbeitungsgebühr für kleine Pakete mit Online-Ware zugestimmt. Die Regelung soll am 1. November in Kraft treten.",
-      "image": "https://img.zeit.de/wirtschaft/2026-09/bearbeitungsgebuehr-pakete-online-handelsplattformen-eu-foto-1/original__640x360",
-      "link": "https://www.zeit.de/wirtschaft/2026-09/bearbeitungsgebuehr-pakete-online-handelsplattformen-eu",
-      "published": "Wed, 16 Sep 2026 15:02:23 -0000",
-      "published_display": "16.09.2026 · 15:02 Uhr"
-    },
-    {
-      "title": "Hunde an der Schule: Ohne den Schulhund? Wahrscheinlich wäre ein Krieg ausgebrochen!",
-      "summary": "Unser Autor war skeptisch, als zwei Hunde ans Gymnasium kamen. Inzwischen weiß er: Die Tiere bewirken Wunder – und greift selbst oft zur Leine. Die Lehrerkolumne",
-      "image": "https://img.zeit.de/bildung/2026-09/hunde-schule-tiere-emotion-kinder-lehrerkolumne-bild/original__640x360",
-      "link": "https://www.zeit.de/bildung/2026-09/hunde-schule-tiere-emotion-kinder-lehrerkolumne",
-      "published": "Wed, 16 Sep 2026 15:01:43 -0000",
-      "published_display": "16.09.2026 · 15:01 Uhr"
-    },
-    {
-      "title": "Huthi-Miliz: Ist Saudi-Arabien geliefert?",
-      "summary": "Saudi-Arabien sieht sich blitzartigen Attacken der Huthi ausgesetzt. Das zeigt, wie sich die Macht in der Welt verschiebt. Die Folgen für den Energiemarkt sind drastisch.",
-      "image": "https://img.zeit.de/2026/40/ist-saudi-arabien-geliefert-bild-1/original__640x360",
-      "link": "https://www.zeit.de/2026/40/huthi-miliz-bab-al-mandab-saudi-arabien-jemen-oelpreis",
-      "published": "Wed, 16 Sep 2026 14:59:19 -0000",
-      "published_display": "16.09.2026 · 14:59 Uhr"
-    },
-    {
-      "title": "Urteil: Leiche in der Kühltruhe: Elf Jahre Haft für Angeklagten",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/leiche-in-der-kuehltruhe-elf-jahre-haft-fuer-angeklagten-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/leiche-in-der-kuehltruhe-elf-jahre-haft-fuer-angeklagten",
-      "published": "Wed, 16 Sep 2026 14:58:58 -0000",
-      "published_display": "16.09.2026 · 14:58 Uhr"
-    },
-    {
-      "title": "Nach der Wahl: Landtag von Sachsen-Anhalt konstituiert sich am 6. Oktober",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/landtag-von-sachsen-anhalt-konstituiert-sich-am-6-oktober-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/landtag-von-sachsen-anhalt-konstituiert-sich-am-6-oktober",
-      "published": "Wed, 16 Sep 2026 14:58:57 -0000",
-      "published_display": "16.09.2026 · 14:58 Uhr"
-    },
-    {
-      "title": "Faktencheck im Vermisstenfall: Was im Fall Scarlett belegt ist – und was nicht",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/was-im-fall-scarlett-belegt-ist-und-was-nicht-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/was-im-fall-scarlett-belegt-ist-und-was-nicht",
-      "published": "Wed, 16 Sep 2026 14:58:22 -0000",
-      "published_display": "16.09.2026 · 14:58 Uhr"
-    },
-    {
-      "title": "Bedeutende Begräbnisstätte: Rätsel um Friedhofs-Zaun - Wildschweine wühlen auf Gräbern",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/raetsel-um-friedhofs-zaun-wildschweine-wuehlen-auf-graebern-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/raetsel-um-friedhofs-zaun-wildschweine-wuehlen-auf-graebern",
-      "published": "Wed, 16 Sep 2026 14:57:26 -0000",
-      "published_display": "16.09.2026 · 14:57 Uhr"
     }
   ]
 }
