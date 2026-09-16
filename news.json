@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-16T17:28:40.341333+00:00",
+  "updated": "2026-09-16T17:43:23.871242+00:00",
   "items": [
+    {
+      "title": "Atomenergie: Grenznaher Reaktor in Tschechien außerplanmäßig abgeschaltet",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/grenznaher-reaktor-in-tschechien-ausserplanmaessig-abgeschaltet-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/grenznaher-reaktor-in-tschechien-ausserplanmaessig-abgeschaltet",
+      "published": "Wed, 16 Sep 2026 17:40:36 -0000",
+      "published_display": "16.09.2026 · 17:40 Uhr"
+    },
+    {
+      "title": "Clubfestival in Hamburg: «Elefant im Raum» prägt Startschuss für Reeperbahn-Festival",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/reeperbahn-festival-blickt-auf-zukunft-der-musikwirtschaft-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/reeperbahn-festival-blickt-auf-zukunft-der-musikwirtschaft",
+      "published": "Wed, 16 Sep 2026 17:39:09 -0000",
+      "published_display": "16.09.2026 · 17:39 Uhr"
+    },
+    {
+      "title": "CDU-Ministerpräsidenten: Wie heißt dieser Mann noch gleich?",
+      "summary": "Die Ministerpräsidenten der CDU stärken Bundeskanzler Friedrich Merz den Rücken – oder? Vor allem verdeutlichen sie mit einem bemerkenswerten Manöver ihren Machtanspruch.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/cdu-ministerpraesidenten-friedrich-merz-unterstuetzung-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/cdu-ministerpraesidenten-friedrich-merz-unterstuetzung",
+      "published": "Wed, 16 Sep 2026 17:34:47 -0000",
+      "published_display": "16.09.2026 · 17:34 Uhr"
+    },
     {
       "title": "Gazastreifen: Mindestens 21 Tote nach Gebäudeeinsturz in Gaza-Stadt",
       "summary": "Beim Einsturz eines Wohnhauses in der Nacht sind mindestens 21 Menschen gestorben. Das Gebäude war zuvor im Krieg durch israelische Angriffe beschädigt worden.",
@@ -12,7 +36,7 @@
     },
     {
       "title": "Luftraum in Lettland: Bundeswehr beteiligt sich an Schutz des lettischen Luftraums",
-      "summary": "Lettland hat die Nato-Bündnispartner um Schutz bei den Parlamentswahlen im Oktober gebeten. Die Bundeswehr soll das Land nach gehäuften Drohnen-Vorfällen unterstützen.",
+      "summary": "Lettland hat die Nato-Bündnispartner um Schutz bei den Parlamentswahlen im Oktober gebeten. Die Bundeswehr soll das Land nach gehäuften Drohnenvorfällen unterstützen.",
       "image": "https://img.zeit.de/politik/2026-09/luftraum-lettland-bundeswehr-eurofighter-parlamentswahl-drohnen-foto-1/original__640x360",
       "link": "https://www.zeit.de/politik/2026-09/luftraum-lettland-bundeswehr-eurofighter-parlamentswahl-drohnen",
       "published": "Wed, 16 Sep 2026 17:20:29 -0000",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/16/linke-wehrt-sich-gegen-yallah-intifada-sticker",
       "published": "Wed, 16 Sep 2026 17:01:17 -0000",
       "published_display": "16.09.2026 · 17:01 Uhr"
-    },
-    {
-      "title": "Katholische Kirche: Kardinal Marx «nicht amtsmüde»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/kardinal-marx-nicht-amtsmuede-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/kardinal-marx-nicht-amtsmuede",
-      "published": "Wed, 16 Sep 2026 17:00:05 -0000",
-      "published_display": "16.09.2026 · 17:00 Uhr"
-    },
-    {
-      "title": "Alarm auf Flughafen: Nato: Russische Behauptung zu Leipzig-Ermittlung ist absurd",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/nato-russische-behauptung-zu-leipzig-ermittlung-ist-absurd-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/nato-russische-behauptung-zu-leipzig-ermittlung-ist-absurd",
-      "published": "Wed, 16 Sep 2026 16:59:51 -0000",
-      "published_display": "16.09.2026 · 16:59 Uhr"
-    },
-    {
-      "title": "Thüringer Landtag: Höcke kündigt Volksbegehren für Neuwahl an",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/hoecke-kuendigt-volksbegehren-fuer-neuwahl-an-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/hoecke-kuendigt-volksbegehren-fuer-neuwahl-an",
-      "published": "Wed, 16 Sep 2026 16:52:23 -0000",
-      "published_display": "16.09.2026 · 16:52 Uhr"
     }
   ]
 }
