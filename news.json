@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-16T23:29:27.616089+00:00",
+  "updated": "2026-09-16T23:42:18.097780+00:00",
   "items": [
+    {
+      "title": "LGBTQ-Aktivisten in der Türkei: Festgenommene Demonstranten in Istanbul wieder freigelassen",
+      "summary": "Nach Protesten gegen Anti-LGBTQ-Razzien hat die Polizei in der Türkei 106 Personen wieder freigelassen. Unter den Festgenommenen waren auch Journalisten.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/lgbtq-aktivisten-tuerkei-festnahmen-polizeirazzien-istanbul-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/lgbtq-aktivisten-tuerkei-festnahmen-polizeirazzien-istanbul",
+      "published": "Wed, 16 Sep 2026 23:39:02 -0000",
+      "published_display": "16.09.2026 · 23:39 Uhr"
+    },
+    {
+      "title": "Künstliche Intelligenz: Deutschland und Kanada wollen KI »im Dienste des Menschen« fördern",
+      "summary": "Beide Länder haben eine Allianz geschlossen, um eine wertebasierte Entwicklung von KI-Technologie voranzutreiben. Auch EU und Vereinte Nationen dringen zu mehr Handeln.",
+      "image": "https://img.zeit.de/digital/internet/2026-09/deutschland-kanada-ki-allianz-sicherheit-yoshua-bengio-lawzero-foto-1/original__640x360",
+      "link": "https://www.zeit.de/digital/internet/2026-09/deutschland-kanada-ki-ai-allianz-wildberger",
+      "published": "Wed, 16 Sep 2026 23:36:05 -0000",
+      "published_display": "16.09.2026 · 23:36 Uhr"
+    },
     {
       "title": "Hilfe für Mütter in Not: Vor 25 Jahren öffnete die erste Babyklappe in Hessen",
       "summary": "",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/16/us-notenbank-erhoeht-erstmals-seit-juli-2023-wieder-leitzins",
       "published": "Wed, 16 Sep 2026 20:47:44 -0000",
       "published_display": "16.09.2026 · 20:47 Uhr"
-    },
-    {
-      "title": "Feuerwehreinsatz: Frau von herabstürzendem Ast getroffen und verletzt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/frau-von-herabstuerzendem-ast-getroffen-und-verletzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/frau-von-herabstuerzendem-ast-getroffen-und-verletzt",
-      "published": "Wed, 16 Sep 2026 20:45:55 -0000",
-      "published_display": "16.09.2026 · 20:45 Uhr"
-    },
-    {
-      "title": "Handball-Champions-League: DHB-Profi dreimal am Boden: Füchse verlieren Topspiel",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/dhb-profi-dreimal-am-boden-fuechse-verlieren-topspiel-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/dhb-profi-dreimal-am-boden-fuechse-verlieren-topspiel",
-      "published": "Wed, 16 Sep 2026 20:35:34 -0000",
-      "published_display": "16.09.2026 · 20:35 Uhr"
     }
   ]
 }
