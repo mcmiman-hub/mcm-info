@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-16T23:42:18.097780+00:00",
+  "updated": "2026-09-16T23:54:28.756139+00:00",
   "items": [
+    {
+      "title": "Neuer transatlantischer Bund?: Trump droht EU wegen geplanter Annäherung an Kanada",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/trump-droht-eu-wegen-geplanter-annaeherung-an-kanada-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/trump-droht-eu-wegen-geplanter-annaeherung-an-kanada",
+      "published": "Wed, 16 Sep 2026 23:50:54 -0000",
+      "published_display": "16.09.2026 · 23:50 Uhr"
+    },
     {
       "title": "LGBTQ-Aktivisten in der Türkei: Festgenommene Demonstranten in Istanbul wieder freigelassen",
       "summary": "Nach Protesten gegen Anti-LGBTQ-Razzien hat die Polizei in der Türkei 106 Personen wieder freigelassen. Unter den Festgenommenen waren auch Journalisten.",
@@ -12,7 +20,7 @@
     },
     {
       "title": "Künstliche Intelligenz: Deutschland und Kanada wollen KI »im Dienste des Menschen« fördern",
-      "summary": "Beide Länder haben eine Allianz geschlossen, um eine wertebasierte Entwicklung von KI-Technologie voranzutreiben. Auch EU und Vereinte Nationen dringen zu mehr Handeln.",
+      "summary": "Beide Länder haben eine Allianz geschlossen, um eine wertebasierte Entwicklung von KI-Technologie voranzutreiben. Auch EU und Vereinte Nationen dringen auf mehr Handeln.",
       "image": "https://img.zeit.de/digital/internet/2026-09/deutschland-kanada-ki-allianz-sicherheit-yoshua-bengio-lawzero-foto-1/original__640x360",
       "link": "https://www.zeit.de/digital/internet/2026-09/deutschland-kanada-ki-ai-allianz-wildberger",
       "published": "Wed, 16 Sep 2026 23:36:05 -0000",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/16/bayer-leverkusen-startet-mit-heimsieg-in-die-europa-league",
       "published": "Wed, 16 Sep 2026 20:51:38 -0000",
       "published_display": "16.09.2026 · 20:51 Uhr"
-    },
-    {
-      "title": "US-Wirtschaft: US-Notenbank erhöht erstmals seit Juli 2023 wieder Leitzins",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/us-notenbank-erhoeht-erstmals-seit-juli-2023-wieder-leitzins-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/us-notenbank-erhoeht-erstmals-seit-juli-2023-wieder-leitzins",
-      "published": "Wed, 16 Sep 2026 20:47:44 -0000",
-      "published_display": "16.09.2026 · 20:47 Uhr"
     }
   ]
 }
