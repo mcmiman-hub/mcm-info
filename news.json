@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-16T21:17:47.104950+00:00",
+  "updated": "2026-09-16T21:30:48.165707+00:00",
   "items": [
+    {
+      "title": "Europa League: FC Bayer Leverkusen siegt im Auftaktspiel gegen NK Celje",
+      "summary": "Am ersten Spieltag der Europa League erzielte Bayer Leverkusen einen glanzlosen Sieg gegen den NK Celje. Ein Eigentor der Slowenen brachte Leverkusen in Führung.",
+      "image": "",
+      "link": "https://www.zeit.de/sport/2026-09/bayer-leverkusen-nk-celje-europa-league-2-0",
+      "published": "Wed, 16 Sep 2026 21:22:24 -0000",
+      "published_display": "16.09.2026 · 21:22 Uhr"
+    },
+    {
+      "title": "Fernsehen: «The Masked Singer»: Ben Zucker und Edvardsson sind enthüllt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/the-masked-singer-ben-zucker-und-edvardsson-sind-enthuellt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/the-masked-singer-ben-zucker-und-edvardsson-sind-enthuellt",
+      "published": "Wed, 16 Sep 2026 21:21:04 -0000",
+      "published_display": "16.09.2026 · 21:21 Uhr"
+    },
     {
       "title": "Federal Reserve: US-Notenbank erhöht erstmals seit 2023 den Leitzins",
       "summary": "Die Fed setzt der steigenden Inflation einen um 0,25 Prozentpunkte höheren Leitzins entgegen. US-Präsident Donald Trump kritisiert die Entscheidung.",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/16/mitbegruender-der-ost-spd-martin-gutzeit-gestorben",
       "published": "Wed, 16 Sep 2026 20:06:31 -0000",
       "published_display": "16.09.2026 · 20:06 Uhr"
-    },
-    {
-      "title": "TV-Duell vor der Wahl: Holm: Stimmung wird besser, wenn Illegale abgeschoben werden",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/holm-stimmung-wird-besser-wenn-illegale-abgeschoben-werden-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/holm-stimmung-wird-besser-wenn-illegale-abgeschoben-werden",
-      "published": "Wed, 16 Sep 2026 20:06:10 -0000",
-      "published_display": "16.09.2026 · 20:06 Uhr"
-    },
-    {
-      "title": "Notfälle: Zweijähriges Kind in Auto eingeschlossen - Feuerwehreinsatz",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/zweijaehriges-kind-in-auto-eingeschlossen-feuerwehreinsatz-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/zweijaehriges-kind-in-auto-eingeschlossen-feuerwehreinsatz",
-      "published": "Wed, 16 Sep 2026 19:59:54 -0000",
-      "published_display": "16.09.2026 · 19:59 Uhr"
     }
   ]
 }
