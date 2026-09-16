@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-16T19:16:42.530083+00:00",
+  "updated": "2026-09-16T19:28:41.892888+00:00",
   "items": [
+    {
+      "title": "Wiz Khalifa: Runner’s High",
+      "summary": "Früher gab Wiz Khalifa mit leichten Mädchen und schweren Vergehen an, heute tut er das mit beim Joggen zurückgelegten Kilometern. Darf ein Rapper so langweilig werden?",
+      "image": "https://img.zeit.de/zeit-magazin/2026/39/runner-s-high-bild-1/original__640x360",
+      "link": "https://www.zeit.de/zeit-magazin/2026/39/wiz-khalifa-joggen-lifestyle-gegenkultur",
+      "published": "Wed, 16 Sep 2026 19:16:54 -0000",
+      "published_display": "16.09.2026 · 19:16 Uhr"
+    },
     {
       "title": "Mecklenburg-Vorpommern: Schwesig wendet sich gegen AfD-Frauenbild",
       "summary": "Schwesig betont, dass sie für Frauenrechte eintritt. Holm wirft ihr vor, zu polarisieren. Er wolle für mehr Sicherheit für Frauen sorgen. Das Liveblog",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/politik/deutschland/2026-09/afd-bsw-sachsen-anhalt-landtag-magdeburg",
       "published": "Wed, 16 Sep 2026 18:41:11 -0000",
       "published_display": "16.09.2026 · 18:41 Uhr"
-    },
-    {
-      "title": "AKW Temelín: Grenznaher Reaktor in Tschechien außerplanmäßig abgeschaltet",
-      "summary": "Im Steuersystem des AKW Temelín hat es eine Fehlfunktion gegeben. Der zugehörige Reaktorblock wurde heruntergefahren – soll aber schon morgen wieder ans Netz gehen.",
-      "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-09/tschechien-atomkraftwerk-temelin-reaktorblock-heruntergefahren-cez-bild/original__640x360",
-      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-09/akw-temelin-tschechien-panne-reaktor-cez",
-      "published": "Wed, 16 Sep 2026 18:39:52 -0000",
-      "published_display": "16.09.2026 · 18:39 Uhr"
     }
   ]
 }
