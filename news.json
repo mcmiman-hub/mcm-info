@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-16T17:43:23.871242+00:00",
+  "updated": "2026-09-16T17:55:29.743272+00:00",
   "items": [
+    {
+      "title": "Funktionär und Trainer: Leichtathletik-Vordenker Fred Eberle gestorben",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/leichtathletik-vordenker-fred-eberle-gestorben-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/leichtathletik-vordenker-fred-eberle-gestorben",
+      "published": "Wed, 16 Sep 2026 17:51:46 -0000",
+      "published_display": "16.09.2026 · 17:51 Uhr"
+    },
+    {
+      "title": "Europa League: Leverkusens Top-Transfer Doué fällt lange aus",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/leverkusens-top-transfer-dou-faellt-lange-aus-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/leverkusens-top-transfer-dou-faellt-lange-aus",
+      "published": "Wed, 16 Sep 2026 17:46:36 -0000",
+      "published_display": "16.09.2026 · 17:46 Uhr"
+    },
     {
       "title": "Atomenergie: Grenznaher Reaktor in Tschechien außerplanmäßig abgeschaltet",
       "summary": "",
@@ -83,7 +99,7 @@
       "published_display": "16.09.2026 · 17:12 Uhr"
     },
     {
-      "title": "Ursula von der Leyen: Die Alles-ist-möglich-Union",
+      "title": "Ursula von der Leyen: Die Alles-ist-möglich-EU",
       "summary": "In ihrer State of the Union bietet Ursula von der Leyen Kanada eine »assoziierte Partnerschaft«. Was immer das sein soll: Es klingt groß. Und das könnte es auch werden.",
       "image": "https://img.zeit.de/politik/2026-09/ursula-von-der-leyen-eu-parlament-rede-europa-bild/original__640x360",
       "link": "https://www.zeit.de/politik/deutschland/2026-09/ursula-von-der-leyen-eu-parlament-rede-europa",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/politik/2026-09/ursula-heinen-esser-energiewende-bundesregierung-krisenpodcast",
       "published": "Wed, 16 Sep 2026 17:06:16 -0000",
       "published_display": "16.09.2026 · 17:06 Uhr"
-    },
-    {
-      "title": "Mathematik und KI: »Die mathematische Fachwelt ist in Aufruhr«",
-      "summary": "Hat menschliche Mathematik noch eine Zukunft, wenn KI alle großen Probleme löst? Der Mathematiker Jeremy Avigad und die Historikerin Tanya Klowden sind optimistisch.",
-      "image": "https://img.zeit.de/wissenschaft/2026-09/mathematik-ki-tanya-klowden-jeremy-avigad-bild-4/original__640x360",
-      "link": "https://www.zeit.de/wissenschaft/2026-09/mathematik-ki-tanya-klowden-jeremy-avigad",
-      "published": "Wed, 16 Sep 2026 17:02:40 -0000",
-      "published_display": "16.09.2026 · 17:02 Uhr"
-    },
-    {
-      "title": "Parteien: Linke wehrt sich gegen «Yallah Intifada!»-Sticker",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/linke-wehrt-sich-gegen-yallah-intifada-sticker-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/linke-wehrt-sich-gegen-yallah-intifada-sticker",
-      "published": "Wed, 16 Sep 2026 17:01:17 -0000",
-      "published_display": "16.09.2026 · 17:01 Uhr"
     }
   ]
 }
