@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-16T09:31:36.380193+00:00",
+  "updated": "2026-09-16T09:45:11.524004+00:00",
   "items": [
+    {
+      "title": "Ermittlungen laufen: Nach Waffenfund im Wald bei Speyer - Polizei prüft Herkunft",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/nach-waffenfund-im-wald-bei-speyer-polizei-prueft-herkunft-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/nach-waffenfund-im-wald-bei-speyer-polizei-prueft-herkunft",
+      "published": "Wed, 16 Sep 2026 09:43:03 -0000",
+      "published_display": "16.09.2026 · 09:43 Uhr"
+    },
     {
       "title": "Belarus: USA heben Sanktionen gegen mehrere belarussische Firmen auf",
       "summary": "Im Rahmen einer Vereinbarung mit den USA lässt Belarus 25 politische Gefangene frei. Im Gegenzug lockert die US-Regierung Sanktionen gegen den russischen Verbündeten.",
@@ -11,11 +19,27 @@
       "published_display": "16.09.2026 · 09:31 Uhr"
     },
     {
+      "title": "Bildungsvergleich: Opposition kritisiert Schulpolitik in Schleswig-Holstein",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/opposition-kritisiert-schulpolitik-in-schleswig-holstein-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/opposition-kritisiert-schulpolitik-in-schleswig-holstein",
+      "published": "Wed, 16 Sep 2026 09:30:05 -0000",
+      "published_display": "16.09.2026 · 09:30 Uhr"
+    },
+    {
       "title": "Basketball-Bundesliga: EWE Baskets Oldenburg holen serbischen Nationalspieler",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-09/16/ewe-baskets-oldenburg-holen-serbischen-nationalspieler-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-09/16/ewe-baskets-oldenburg-holen-serbischen-nationalspieler",
       "published": "Wed, 16 Sep 2026 09:29:42 -0000",
+      "published_display": "16.09.2026 · 09:29 Uhr"
+    },
+    {
+      "title": "Krisenunternehmen: Baywa: 267 von 268 Gläubigern stimmen längerer Sanierung zu",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/baywa-267-von-268-glaeubigern-stimmen-laengerer-sanierung-zu-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/baywa-267-von-268-glaeubigern-stimmen-laengerer-sanierung-zu",
+      "published": "Wed, 16 Sep 2026 09:29:40 -0000",
       "published_display": "16.09.2026 · 09:29 Uhr"
     },
     {
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/feuilleton/film/2026-09/ralf-richter-schauspieler-synchronsprecher-tot-das-boot-nachruf",
       "published": "Wed, 16 Sep 2026 09:21:07 -0000",
       "published_display": "16.09.2026 · 09:21 Uhr"
-    },
-    {
-      "title": "Anschlag auf den Berliner CSD: Regierung kündigt Zehn-Punkte-Plan gegen islamistischen Terror an",
-      "summary": "Im Vorgehen gegen islamistischen Terrorismus hat die Bundesregierung Strafverschärfungen angekündigt. Spendensammeln für Terrorgruppen soll härter bestraft werden.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/csd-berlin-anschlag-islamistischer-terrorismus-zehn-punkte-plan-alexander-dobrindt-stefanie-hubig-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/csd-berlin-anschlag-islamistischer-terrorismus-zehn-punkte-plan-alexander-dobrindt-stefanie-hubig-gxe",
-      "published": "Wed, 16 Sep 2026 09:19:53 -0000",
-      "published_display": "16.09.2026 · 09:19 Uhr"
-    },
-    {
-      "title": "Krankheiten: Malariafälle in Frankfurt: Untersuchungen ausgeweitet",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/malariafaelle-in-frankfurt-untersuchungen-ausgeweitet-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/malariafaelle-in-frankfurt-untersuchungen-ausgeweitet",
-      "published": "Wed, 16 Sep 2026 09:19:29 -0000",
-      "published_display": "16.09.2026 · 09:19 Uhr"
-    },
-    {
-      "title": "Vor der Landtagswahl: Umfrage: AfD in MV nur noch zwei Punkte vor SPD",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/umfrage-afd-in-mecklenburg-vorpommern-zwei-punkte-vor-spd-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/umfrage-afd-in-mecklenburg-vorpommern-zwei-punkte-vor-spd",
-      "published": "Wed, 16 Sep 2026 09:18:28 -0000",
-      "published_display": "16.09.2026 · 09:18 Uhr"
     }
   ]
 }
