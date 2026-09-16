@@ -1,7 +1,79 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-16T07:00:29.246052+00:00",
+  "updated": "2026-09-16T07:19:01.237975+00:00",
   "items": [
+    {
+      "title": "Fußball-Europa-League: «Rundherum Urlaubsbetrieb»: Hoffenheim reist nach Kreta",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/rundherum-urlaubsbetrieb-hoffenheim-reist-nach-kreta-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/rundherum-urlaubsbetrieb-hoffenheim-reist-nach-kreta",
+      "published": "Wed, 16 Sep 2026 07:16:54 -0000",
+      "published_display": "16.09.2026 · 07:16 Uhr"
+    },
+    {
+      "title": "Umweltschutz: Lateinamerika bleibt gefährlichste Region für Umweltschützer",
+      "summary": "2025 wurden in Lateinamerika mehr als 100 Umweltschützer getötet. Mehr als die Hälfte aller weltweit registrierten Todesfälle entfiel auf Kolumbien und Brasilien.",
+      "image": "https://img.zeit.de/wissenschaft/umwelt/2026-09/umweltschuetzer-morde-lateinamerika-kolumbien-brasilien-global-witness-foto-1/original__640x360",
+      "link": "https://www.zeit.de/wissenschaft/umwelt/2026-09/umweltschuetzer-morde-lateinamerika-kolumbien-brasilien-global-witness",
+      "published": "Wed, 16 Sep 2026 07:16:08 -0000",
+      "published_display": "16.09.2026 · 07:16 Uhr"
+    },
+    {
+      "title": "Kriminalität: Voyeur mit High Heels und Strapsen filmt Kundin in Umkleide",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/voyeur-mit-high-heels-und-strapsen-filmt-kundin-in-umkleide-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/voyeur-mit-high-heels-und-strapsen-filmt-kundin-in-umkleide",
+      "published": "Wed, 16 Sep 2026 07:14:39 -0000",
+      "published_display": "16.09.2026 · 07:14 Uhr"
+    },
+    {
+      "title": "Jahreswechsel: Erneut Silvesterparty am Brandenburger Tor geplant",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/erneut-silvesterparty-am-brandenburger-tor-geplant-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/erneut-silvesterparty-am-brandenburger-tor-geplant",
+      "published": "Wed, 16 Sep 2026 07:13:51 -0000",
+      "published_display": "16.09.2026 · 07:13 Uhr"
+    },
+    {
+      "title": "Schlechte Umfragewerte: Frei: Merz auch nach Landtagswahlen unumstößlich Kanzler",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/frei-merz-auch-nach-landtagswahlen-unumstoesslich-kanzler-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/frei-merz-auch-nach-landtagswahlen-unumstoesslich-kanzler",
+      "published": "Wed, 16 Sep 2026 07:12:53 -0000",
+      "published_display": "16.09.2026 · 07:12 Uhr"
+    },
+    {
+      "title": "Mobilitätskosten: Benzinpreis eilt von Rekord zu Rekord",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/benzinpreis-eilt-von-rekord-zu-rekord-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/benzinpreis-eilt-von-rekord-zu-rekord",
+      "published": "Wed, 16 Sep 2026 07:10:34 -0000",
+      "published_display": "16.09.2026 · 07:10 Uhr"
+    },
+    {
+      "title": "Angriffe: Angriffe auf Politiker an Berliner Wahlständen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/angriffe-auf-politiker-an-berliner-wahlstaenden-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/angriffe-auf-politiker-an-berliner-wahlstaenden",
+      "published": "Wed, 16 Sep 2026 07:08:49 -0000",
+      "published_display": "16.09.2026 · 07:08 Uhr"
+    },
+    {
+      "title": "Unfälle: Unfall auf der A14: Betrunkener fährt in Schilderwagen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/unfall-auf-der-a14-betrunkener-faehrt-in-schilderwagen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/unfall-auf-der-a14-betrunkener-faehrt-in-schilderwagen",
+      "published": "Wed, 16 Sep 2026 07:07:43 -0000",
+      "published_display": "16.09.2026 · 07:07 Uhr"
+    },
+    {
+      "title": "Rüstungskooperation: 16 Minuten und 33 Sekunden lang Begeisterung",
+      "summary": "Keine Schelte, kein Tadel, sondern Anerkennung: Boris Pistorius wird von Pete Hegseth in Washington mit Freundlichkeit überschüttet. Was steckt dahinter?",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/boris-pistorius-pete-hegseth-ruestung-kooperation-usa-waffen-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/boris-pistorius-pete-hegseth-ruestung-kooperation-usa-waffen",
+      "published": "Wed, 16 Sep 2026 07:00:36 -0000",
+      "published_display": "16.09.2026 · 07:00 Uhr"
+    },
     {
       "title": "Ifo-Institut: Stimmung im Wohnungsbau verbessert sich laut Ifo-Umfrage deutlich",
       "summary": "Das Geschäftsklima im Wohnungsbau hellt sich laut Ifo-Institut deutlich auf. Grund dafür ist die Hoffnung, dass die steigenden Baugenehmigungen zu mehr Aufträgen führen.",
@@ -17,14 +89,6 @@
       "link": "https://www.zeit.de/news/2026-09/16/toter-im-auto-am-kanal-neue-ermittlungen-nach-12-jahren",
       "published": "Wed, 16 Sep 2026 06:56:18 -0000",
       "published_display": "16.09.2026 · 06:56 Uhr"
-    },
-    {
-      "title": "Umweltschutz: Lateinamerika bleibt gefährlichste Region für Umweltschützer",
-      "summary": "2025 wurden in Lateinamerika mehr als 100 Umweltschützer getötet. Mehr als die Hälfte aller weltweit registrierten Todesfälle entfielen auf Kolumbien und Brasilien.",
-      "image": "https://img.zeit.de/wissenschaft/umwelt/2026-09/umweltschuetzer-morde-lateinamerika-kolumbien-brasilien-global-witness-foto-1/original__640x360",
-      "link": "https://www.zeit.de/wissenschaft/umwelt/2026-09/umweltschuetzer-morde-lateinamerika-kolumbien-brasilien-global-witness",
-      "published": "Wed, 16 Sep 2026 06:48:56 -0000",
-      "published_display": "16.09.2026 · 06:48 Uhr"
     },
     {
       "title": "Theater: Joachim Meyerhoff bricht Proben ab: «gesundheitliche Gründe»",
@@ -57,70 +121,6 @@
       "link": "https://www.zeit.de/arbeit/2026-09/lehrer-schule-erwachsene-lernen-erinnerung",
       "published": "Wed, 16 Sep 2026 06:31:53 -0000",
       "published_display": "16.09.2026 · 06:31 Uhr"
-    },
-    {
-      "title": "Irankrieg: US-Kongress bewertet Kriegskosten mit drei Milliarden Dollar pro Monat",
-      "summary": "Fast 40 Milliarden Dollar gaben die USA bislang für den Irankrieg aus. US-Außenministerium rät nach Huthi-Angriffen von Reisen nach Saudi-Arabien ab. Das Liveblog",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/iran-krieg-donald-trump-hormus-kriegskosten-live/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-05/iran-krieg-donald-trump-hormus-live",
-      "published": "Wed, 16 Sep 2026 06:30:17 -0000",
-      "published_display": "16.09.2026 · 06:30 Uhr"
-    },
-    {
-      "title": "Wetter: Wechselhaftes Wetter im Norden",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/wechselhaftes-wetter-im-norden-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/wechselhaftes-wetter-im-norden",
-      "published": "Wed, 16 Sep 2026 06:29:35 -0000",
-      "published_display": "16.09.2026 · 06:29 Uhr"
-    },
-    {
-      "title": "Feuer: Älteres Ehepaar stirbt bei Brand in einer Wohnung",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/zwei-menschen-sterben-bei-brand-in-einer-wohnung-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/zwei-menschen-sterben-bei-brand-in-einer-wohnung",
-      "published": "Wed, 16 Sep 2026 06:20:52 -0000",
-      "published_display": "16.09.2026 · 06:20 Uhr"
-    },
-    {
-      "title": "Kabinett: Zehn Maßnahmen für mehr Schutz gegen islamistischen Terror",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/zehn-massnahmen-fuer-mehr-schutz-gegen-islamistischen-terror-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/zehn-massnahmen-fuer-mehr-schutz-gegen-islamistischen-terror",
-      "published": "Wed, 16 Sep 2026 06:15:05 -0000",
-      "published_display": "16.09.2026 · 06:15 Uhr"
-    },
-    {
-      "title": "Wetter: Gewitter und Regen in Niedersachsen - wo es ungemütlich wird",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/gewitter-und-regen-in-niedersachsen-wo-es-ungemuetlich-wird-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/gewitter-und-regen-in-niedersachsen-wo-es-ungemuetlich-wird",
-      "published": "Wed, 16 Sep 2026 06:03:11 -0000",
-      "published_display": "16.09.2026 · 06:03 Uhr"
-    },
-    {
-      "title": "Verkehrsunfall: Autofahrer stirbt bei Unfall mit Lastwagen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/autofahrer-stirbt-bei-unfall-mit-lastwagen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/autofahrer-stirbt-bei-unfall-mit-lastwagen",
-      "published": "Wed, 16 Sep 2026 05:56:54 -0000",
-      "published_display": "16.09.2026 · 05:56 Uhr"
-    },
-    {
-      "title": "CDU: Und was, wenn Merz dann weg ist?",
-      "summary": "Auch mit einem anderen Kanzler bliebe das Benzin teuer und das Geld knapp. Die CDU muss endlich klären, wofür sie steht, findet unser Autor. Diskutieren Sie live mit ihm",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/cdu-friedrich-merz-bundeskanzler-5vor8-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/cdu-friedrich-merz-bundeskanzler-5vor8",
-      "published": "Wed, 16 Sep 2026 05:56:19 -0000",
-      "published_display": "16.09.2026 · 05:56 Uhr"
-    },
-    {
-      "title": "Kriminalität: Mülltonnen in Brand gesetzt: Zwei Männer festgenommen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/muelltonnen-in-brand-gesetzt-zwei-maenner-festgenommen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/muelltonnen-in-brand-gesetzt-zwei-maenner-festgenommen",
-      "published": "Wed, 16 Sep 2026 05:52:27 -0000",
-      "published_display": "16.09.2026 · 05:52 Uhr"
     }
   ]
 }
