@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-16T16:31:00.678654+00:00",
+  "updated": "2026-09-16T16:44:58.479676+00:00",
   "items": [
+    {
+      "title": "Notfälle: Gefahrstoff ausgetreten - Fähre in Rostock evakuiert",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/gefahrstoff-ausgetreten-faehre-in-rostock-evakuiert-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/gefahrstoff-ausgetreten-faehre-in-rostock-evakuiert",
+      "published": "Wed, 16 Sep 2026 16:39:26 -0000",
+      "published_display": "16.09.2026 · 16:39 Uhr"
+    },
+    {
+      "title": "Luftraum in Lettland: Bundeswehr beteiligt sich an Schutz des lettischen Luftraums",
+      "summary": "Lettland hat die Nato-Bündnispartner um Schutz bei den Parlamentswahlen im Oktober gebeten. Die Bundeswehr soll das Land nach gehäuften Drohnen-Vorfällen unterstützen.",
+      "image": "https://img.zeit.de/politik/2026-09/luftraum-lettland-bundeswehr-eurofighter-parlamentswahl-drohnen-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/2026-09/luftraum-lettland-bundeswehr-eurofighter-parlamentswahl-drohnen",
+      "published": "Wed, 16 Sep 2026 16:35:51 -0000",
+      "published_display": "16.09.2026 · 16:35 Uhr"
+    },
+    {
+      "title": "Hohe Spritpreise: Katherina Reiche will Mehrwertsteuer auf Sprit senken",
+      "summary": "Die Steuer für Kraftstoffe soll vorübergehend sieben statt 19 Prozent betragen. Die Bundeswirtschaftsministerin will so die Bürger und Logistikunternehmen entlasten.",
+      "image": "https://img.zeit.de/wirtschaft/2026-09/katherina-reiche-cdu-mehrwertsteuer-kraftstoff-spritpreise-foto-1/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/2026-09/katherina-reiche-cdu-mehrwertsteuer-kraftstoff-spritpreise-gxe",
+      "published": "Wed, 16 Sep 2026 16:30:41 -0000",
+      "published_display": "16.09.2026 · 16:30 Uhr"
+    },
     {
       "title": "Huthi-Miliz: Huthis melden neue Angriffe auf Saudi-Arabien",
       "summary": "Die Huthi-Miliz gibt an, eine Ölanlage und einen Militärstützpunkt in Saudi-Arabien attackiert zu haben. Sie weist aber den Vorwurf eines Angriffs auf Mekka zurück.",
@@ -51,14 +75,6 @@
       "published_display": "16.09.2026 · 16:16 Uhr"
     },
     {
-      "title": "Hohe Spritpreise: Katharina Reiche will Mehrwertsteuer auf Sprit senken",
-      "summary": "Die Steuer für Kraftstoffe soll vorübergehend sieben statt 19 Prozent betragen. Die Bundeswirtschaftsministerin will so die Bürger und Logistikunternehmen entlasten.",
-      "image": "https://img.zeit.de/wirtschaft/2026-09/katherina-reiche-cdu-mehrwertsteuer-kraftstoff-spritpreise-foto-1/original__640x360",
-      "link": "https://www.zeit.de/wirtschaft/2026-09/katherina-reiche-cdu-mehrwertsteuer-kraftstoff-spritpreise",
-      "published": "Wed, 16 Sep 2026 16:12:54 -0000",
-      "published_display": "16.09.2026 · 16:12 Uhr"
-    },
-    {
       "title": "Unwetterfront im Voralpenland: Warnung vor schweren Gewittern im Süden Bayerns aufgehoben",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-09/16/wetterdienst-warnt-vor-schweren-gewittern-im-sueden-bayerns-image-group/original__640x360",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/16/niederlaendische-grenze-bundespolizei-aendert-taktik",
       "published": "Wed, 16 Sep 2026 15:53:56 -0000",
       "published_display": "16.09.2026 · 15:53 Uhr"
-    },
-    {
-      "title": "Fotografie: Bilder des Tages",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/bilder-des-tages-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/bilder-des-tages",
-      "published": "Wed, 16 Sep 2026 15:49:01 -0000",
-      "published_display": "16.09.2026 · 15:49 Uhr"
-    },
-    {
-      "title": "DEL: Eishockey: Kukuk fällt auf unbestimmte Zeit aus",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/eishockey-kukuk-faellt-auf-unbestimmte-zeit-aus-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/eishockey-kukuk-faellt-auf-unbestimmte-zeit-aus",
-      "published": "Wed, 16 Sep 2026 15:44:22 -0000",
-      "published_display": "16.09.2026 · 15:44 Uhr"
     }
   ]
 }
