@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-16T00:23:58.352789+00:00",
+  "updated": "2026-09-16T00:48:52.382839+00:00",
   "items": [
+    {
+      "title": "Amazonasgebiet: Studie: Goldabbau und Wetter bedrohen Indigene im Amazonas",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/studie-goldabbau-und-wetter-bedrohen-indigene-im-amazonas-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/studie-goldabbau-und-wetter-bedrohen-indigene-im-amazonas",
+      "published": "Wed, 16 Sep 2026 00:36:51 -0000",
+      "published_display": "16.09.2026 · 00:36 Uhr"
+    },
     {
       "title": "Sommer-Staubilanz: ADAC: Mehr Staus als vor einem Jahr",
       "summary": "",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/15/wohltuend-langweilig-tv-runde-der-kleineren-parteien",
       "published": "Tue, 15 Sep 2026 21:19:15 -0000",
       "published_display": "15.09.2026 · 21:19 Uhr"
-    },
-    {
-      "title": "Leute: Thomas Gottschalk erleichtert nach neuer Krebs-Untersuchung",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/thomas-gottschalk-erleichtert-nach-neuer-krebs-untersuchung-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/thomas-gottschalk-erleichtert-nach-neuer-krebs-untersuchung",
-      "published": "Tue, 15 Sep 2026 21:13:09 -0000",
-      "published_display": "15.09.2026 · 21:13 Uhr"
     }
   ]
 }
