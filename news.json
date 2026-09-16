@@ -1,7 +1,39 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-16T07:19:01.237975+00:00",
+  "updated": "2026-09-16T07:32:58.222595+00:00",
   "items": [
+    {
+      "title": "Ukrainekarte aktuell: Ukrainische Offensive befreit Gebiet nördlich von Lyman",
+      "summary": "Die Ukraine hat die ersten Ergebnisse einer neuen Gegenoffensive in der Region Donezk bekanntgegeben. Auch in der Region Saporischschja stießen ukrainische Truppen vor.",
+      "image": "https://img.zeit.de/politik/ausland/2023-09/karte-ukraine-krieg-russland-frontverlauf-truppenbewegungen-teaserbild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/ukraine-russland-frontverlauf-krieg-karte-aktuell",
+      "published": "Wed, 16 Sep 2026 07:26:21 -0000",
+      "published_display": "16.09.2026 · 07:26 Uhr"
+    },
+    {
+      "title": "Drohnenkrieg: Ukraine: Drohne tötet fünf Menschen in Bus - Zug getroffen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/ukraine-drohne-toetet-fuenf-menschen-in-bus-zug-getroffen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/ukraine-drohne-toetet-fuenf-menschen-in-bus-zug-getroffen",
+      "published": "Wed, 16 Sep 2026 07:23:39 -0000",
+      "published_display": "16.09.2026 · 07:23 Uhr"
+    },
+    {
+      "title": "EU-Parlament: Live: Von der Leyen hält Rede zur Lage der Union",
+      "summary": "EU-Kommissionspräsidentin Ursula von der Leyen hält ihre jährliche Rede zur Lage der Union im Europaparlament. Jetzt im Livestream",
+      "image": "https://img.zeit.de/2026-09/vdl-live/original__640x360",
+      "link": "https://www.zeit.de/politik/2026-09/von-der-leyen-live",
+      "published": "Wed, 16 Sep 2026 07:22:09 -0000",
+      "published_display": "16.09.2026 · 07:22 Uhr"
+    },
+    {
+      "title": "Verkehr: Wildunfälle auf Thüringens Straßen - das rät die Polizei",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/wildunfaelle-auf-thueringens-strassen-das-raet-die-polizei-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/wildunfaelle-auf-thueringens-strassen-das-raet-die-polizei",
+      "published": "Wed, 16 Sep 2026 07:17:03 -0000",
+      "published_display": "16.09.2026 · 07:17 Uhr"
+    },
     {
       "title": "Fußball-Europa-League: «Rundherum Urlaubsbetrieb»: Hoffenheim reist nach Kreta",
       "summary": "",
@@ -89,38 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/16/toter-im-auto-am-kanal-neue-ermittlungen-nach-12-jahren",
       "published": "Wed, 16 Sep 2026 06:56:18 -0000",
       "published_display": "16.09.2026 · 06:56 Uhr"
-    },
-    {
-      "title": "Theater: Joachim Meyerhoff bricht Proben ab: «gesundheitliche Gründe»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/joachim-meyerhoff-bricht-proben-ab-gesundheitliche-gruende-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/joachim-meyerhoff-bricht-proben-ab-gesundheitliche-gruende",
-      "published": "Wed, 16 Sep 2026 06:45:59 -0000",
-      "published_display": "16.09.2026 · 06:45 Uhr"
-    },
-    {
-      "title": "Wanderin wird weiter vermisst: Förster schätzt Fund von Scarlett als unwahrscheinlich ein",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/foerster-schaetzt-fund-von-scarlett-als-unwahrscheinlich-ein-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/foerster-schaetzt-fund-von-scarlett-als-unwahrscheinlich-ein",
-      "published": "Wed, 16 Sep 2026 06:40:24 -0000",
-      "published_display": "16.09.2026 · 06:40 Uhr"
-    },
-    {
-      "title": "Trainerbank gegen Lehrerpult: Früherer Handball-Bundestrainer Prokop ist jetzt Lehrer",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/frueherer-handball-bundestrainer-prokop-ist-jetzt-lehrer-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/frueherer-handball-bundestrainer-prokop-ist-jetzt-lehrer",
-      "published": "Wed, 16 Sep 2026 06:32:00 -0000",
-      "published_display": "16.09.2026 · 06:32 Uhr"
-    },
-    {
-      "title": "Lehrer: »Dank Frau Lucas habe ich nie wieder jemanden gemobbt«",
-      "summary": "Sie erkennen Talente, machen Mut und beeinflussen das spätere Leben: Zwölf Erwachsene erzählen, wie ihre Lehrer sie geprägt haben – und was gute Lehrer wirklich ausmacht.",
-      "image": "https://img.zeit.de/arbeit/2026-09/lehrer-schule-erwachsene-lernen-erinnerung-bild/original__640x360",
-      "link": "https://www.zeit.de/arbeit/2026-09/lehrer-schule-erwachsene-lernen-erinnerung",
-      "published": "Wed, 16 Sep 2026 06:31:53 -0000",
-      "published_display": "16.09.2026 · 06:31 Uhr"
     }
   ]
 }
