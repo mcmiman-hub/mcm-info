@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-16T10:45:15.093670+00:00",
+  "updated": "2026-09-16T10:56:00.313472+00:00",
   "items": [
+    {
+      "title": "Sinkende Margen und Sanierung: Braunkohleförderer Mibrag schreibt Verluste",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/braunkohlefoerderer-mibrag-schreibt-verluste-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/braunkohlefoerderer-mibrag-schreibt-verluste",
+      "published": "Wed, 16 Sep 2026 10:45:48 -0000",
+      "published_display": "16.09.2026 · 10:45 Uhr"
+    },
+    {
+      "title": "Entscheidung über Bewerber: «Kommt aus der Mitte Berlins»: 132 Stimmen für Olympia",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/kommt-aus-der-mitte-berlins-132-stimmen-fuer-olympia-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/kommt-aus-der-mitte-berlins-132-stimmen-fuer-olympia",
+      "published": "Wed, 16 Sep 2026 10:44:24 -0000",
+      "published_display": "16.09.2026 · 10:44 Uhr"
+    },
     {
       "title": "Feuer in Einfamilienhaus: Nach Explosion in Weimar – Suche nach Bewohner läuft weiter",
       "summary": "",
@@ -86,7 +102,7 @@
       "title": "Drohnenangriff nahe Nikopol: Fünf Tote bei russischem Angriff auf Bus in der Ukraine",
       "summary": "Russland hat im Südosten der Ukraine einen Linienbus mit einer Drohne angegriffen. Dabei wurden fünf Menschen getötet und mindestens sieben weitere verletzt.",
       "image": "https://img.zeit.de/politik/ausland/2026-09/russischer-drohnenangriff-nikopol-ukraine-zivilisten-dnipropetrowsk-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/russischer-drohnenangriff-nikopol-ukraine-zivilisten-dnipropetrowsk",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/russischer-drohnenangriff-nikopol-ukraine-zivilisten-dnipropetrowsk-gxe",
       "published": "Wed, 16 Sep 2026 10:31:00 -0000",
       "published_display": "16.09.2026 · 10:31 Uhr"
     },
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/16/reizgas-verdacht-an-dresdner-schule-hintergruende-unklar",
       "published": "Wed, 16 Sep 2026 10:29:10 -0000",
       "published_display": "16.09.2026 · 10:29 Uhr"
-    },
-    {
-      "title": "Fußball-Nationalmannschaft: Klopps Kader-Knaller auf der Suche nach dem Liverpool-Gen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/klopps-kader-knaller-auf-der-suche-nach-dem-liverpool-gen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/klopps-kader-knaller-auf-der-suche-nach-dem-liverpool-gen",
-      "published": "Wed, 16 Sep 2026 10:25:08 -0000",
-      "published_display": "16.09.2026 · 10:25 Uhr"
-    },
-    {
-      "title": "Verkehrspolitik: Fahren mit Bus und Bahn ist in Berlin viel teurer geworden",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/fahren-mit-bus-und-bahn-ist-in-berlin-viel-teurer-geworden-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/fahren-mit-bus-und-bahn-ist-in-berlin-viel-teurer-geworden",
-      "published": "Wed, 16 Sep 2026 10:24:37 -0000",
-      "published_display": "16.09.2026 · 10:24 Uhr"
     }
   ]
 }
