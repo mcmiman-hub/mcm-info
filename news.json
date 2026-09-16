@@ -1,7 +1,39 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-16T18:35:46.983218+00:00",
+  "updated": "2026-09-16T18:48:59.545168+00:00",
   "items": [
+    {
+      "title": "Wahlarena in Berlin: Elif Eralp wirbt für »Recht und Ordnung auf dem Wohnungsmarkt«",
+      "summary": "Die Berliner Kandidaten streiten über das richtige Vorgehen gegen Wohnungsnot. In einem Punkt zeigt sich eine Nähe zwischen CDU und Linkspartei. Das Liveblog",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/wahlarena-berlin-wahl-abgeordnetenhaus-debatte-rbb-live-bild-2/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/wahlarena-berlin-wahl-abgeordnetenhaus-debatte-rbb-live",
+      "published": "Wed, 16 Sep 2026 18:42:45 -0000",
+      "published_display": "16.09.2026 · 18:42 Uhr"
+    },
+    {
+      "title": "Landtag in Sachsen-Anhalt: AfD und BSW wollen in die Mitte",
+      "summary": "Nach der Wahl zeigt die AfD erstmals ihr neues Selbstbewusstsein und stellt Ansprüche – etwa zur neuen Sitzordnung im Landtag. Das BSW scheint dem nicht abgeneigt.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/afd-bsw-sachsen-anhalt-landtag-magdeburg-bild-2/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/afd-bsw-sachsen-anhalt-landtag-magdeburg",
+      "published": "Wed, 16 Sep 2026 18:41:11 -0000",
+      "published_display": "16.09.2026 · 18:41 Uhr"
+    },
+    {
+      "title": "AKW Temelin: Grenznaher Reaktor in Tschechien außerplanmäßig abgeschaltet",
+      "summary": "Im Steuersystem des AKW Temelin hat es eine Fehlfunktion gegeben. Der zugehörige Reaktorblock wurde heruntergefahren – soll aber schon morgen wieder ans Netz gehen.",
+      "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-09/tschechien-atomkraftwerk-temelin-reaktorblock-heruntergefahren-cez-bild/original__640x360",
+      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-09/akw-temelin-tschechien-panne-reaktor-cez",
+      "published": "Wed, 16 Sep 2026 18:39:52 -0000",
+      "published_display": "16.09.2026 · 18:39 Uhr"
+    },
+    {
+      "title": "Im Krankenhaus gestorben: Vermummter soll 45-Jährigen auf Party getötet haben",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/15/vermummter-mann-soll-45-jaehrigen-auf-party-getoetet-haben-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/vermummter-mann-soll-45-jaehrigen-auf-party-getoetet-haben",
+      "published": "Wed, 16 Sep 2026 18:38:17 -0000",
+      "published_display": "16.09.2026 · 18:38 Uhr"
+    },
     {
       "title": "Angriffe auf Bahn-Beschäftigte: Bundesjustizministerin will Gewalt gegen Bahnpersonal härter bestrafen",
       "summary": "Laut Bundesjustizministerin Stefanie Hubig sollen Angriffe auf Mitarbeiter der Bahn härter bestraft werden. Der »Verrohung« müsse etwas entgegengesetzt werden.",
@@ -11,12 +43,20 @@
       "published_display": "16.09.2026 · 18:34 Uhr"
     },
     {
-      "title": "Wahlarena in Berlin: »Wir würden auch gern mehr in Bildung und Soziales investieren«",
-      "summary": "Die Wahlarena in Berlin beginnt mit einem Schulterschluss zwischen SPD und CDU. Vorwürfe des BSW weisen Stefan Evers und Steffen Krach zurück. Das Liveblog",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/wahlarena-berlin-wahl-abgeordnetenhaus-debatte-rbb-live-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/wahlarena-berlin-wahl-abgeordnetenhaus-debatte-rbb-live",
-      "published": "Wed, 16 Sep 2026 18:28:18 -0000",
-      "published_display": "16.09.2026 · 18:28 Uhr"
+      "title": "Tierseuche: Bienen-Sterben weitet sich im Landkreis Dahme-Spreewald aus",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/bienen-sterben-weitet-sich-im-landkreis-dahme-spreewald-aus-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/bienen-sterben-weitet-sich-im-landkreis-dahme-spreewald-aus",
+      "published": "Wed, 16 Sep 2026 18:34:02 -0000",
+      "published_display": "16.09.2026 · 18:34 Uhr"
+    },
+    {
+      "title": "Notfälle: Gefahrstoff ausgetreten - Fähre in Rostock evakuiert",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/gefahrstoff-ausgetreten-faehre-in-rostock-evakuiert-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/gefahrstoff-ausgetreten-faehre-in-rostock-evakuiert",
+      "published": "Wed, 16 Sep 2026 18:33:51 -0000",
+      "published_display": "16.09.2026 · 18:33 Uhr"
     },
     {
       "title": "Federal Reserve: US-Notenbank erhöht erstmals seit 2023 den Leitzins",
@@ -81,46 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/16/ki-fuehrt-zu-deutlich-mehr-klagen-bei-sozialgerichten",
       "published": "Wed, 16 Sep 2026 18:08:41 -0000",
       "published_display": "16.09.2026 · 18:08 Uhr"
-    },
-    {
-      "title": "US-Wirtschaft: US-Notenbank erhöht erstmals seit Juli 2023 wieder Leitzins",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/us-notenbank-erhoeht-erstmals-seit-juli-2023-wieder-leitzins-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/us-notenbank-erhoeht-erstmals-seit-juli-2023-wieder-leitzins",
-      "published": "Wed, 16 Sep 2026 18:01:58 -0000",
-      "published_display": "16.09.2026 · 18:01 Uhr"
-    },
-    {
-      "title": "Konjunktur: US-Notenbank erhöht erstmals seit Sommer 2023 Leitzins",
-      "summary": "",
-      "image": "",
-      "link": "https://www.zeit.de/news/2026-09/16/us-notenbank-erhoeht-erstmals-seit-sommer-2023-leitzins",
-      "published": "Wed, 16 Sep 2026 18:01:19 -0000",
-      "published_display": "16.09.2026 · 18:01 Uhr"
-    },
-    {
-      "title": "Dinosaurier : Warmblütiger Killer",
-      "summary": "Erstmals ist es gelungen, die Körpertemperatur eines T-Rex zu bestimmen. Das Ergebnis zeigt: Der gewaltige Fleischfresser war weder bei Hitze noch Kälte zu stoppen.",
-      "image": "https://img.zeit.de/2026/40/warmbluetiger-killer-bild-1/original__640x360",
-      "link": "https://www.zeit.de/2026/40/dinosaurier-koerpertemperatur-t-rex-warmblueter-palaeontologie",
-      "published": "Wed, 16 Sep 2026 18:01:02 -0000",
-      "published_display": "16.09.2026 · 18:01 Uhr"
-    },
-    {
-      "title": "Temperaturbestimmung beim Dino: Zahnanalyse bestätigt: Der T. rex war Warmblüter",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/zahnanalyse-bestaetigt-der-t-rex-war-warmblueter-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/zahnanalyse-bestaetigt-der-t-rex-war-warmblueter",
-      "published": "Wed, 16 Sep 2026 18:00:04 -0000",
-      "published_display": "16.09.2026 · 18:00 Uhr"
-    },
-    {
-      "title": "Funktionär und Trainer: Leichtathletik-Vordenker Fred Eberle gestorben",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/leichtathletik-vordenker-fred-eberle-gestorben-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/leichtathletik-vordenker-fred-eberle-gestorben",
-      "published": "Wed, 16 Sep 2026 17:51:46 -0000",
-      "published_display": "16.09.2026 · 17:51 Uhr"
     }
   ]
 }
