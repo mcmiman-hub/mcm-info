@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-16T06:50:07.364573+00:00",
+  "updated": "2026-09-16T07:00:29.246052+00:00",
   "items": [
+    {
+      "title": "Ifo-Institut: Stimmung im Wohnungsbau verbessert sich laut Ifo-Umfrage deutlich",
+      "summary": "Das Geschäftsklima im Wohnungsbau hellt sich laut Ifo-Institut deutlich auf. Grund dafür ist die Hoffnung, dass die steigenden Baugenehmigungen zu mehr Aufträgen führen.",
+      "image": "https://img.zeit.de/wirtschaft/2026-09/wohnungsbau-ifo-institut-geschaeftsklima-auftragslage-klaus-wohlrabe-foto-1/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/2026-09/wohnungsbau-ifo-institut-geschaeftsklima-auftragslage-klaus-wohlrabe",
+      "published": "Wed, 16 Sep 2026 06:59:06 -0000",
+      "published_display": "16.09.2026 · 06:59 Uhr"
+    },
+    {
+      "title": "Cold Case: Toter im Auto am Kanal: Neue Ermittlungen nach 12 Jahren",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/toter-im-auto-am-kanal-neue-ermittlungen-nach-12-jahren-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/toter-im-auto-am-kanal-neue-ermittlungen-nach-12-jahren",
+      "published": "Wed, 16 Sep 2026 06:56:18 -0000",
+      "published_display": "16.09.2026 · 06:56 Uhr"
+    },
     {
       "title": "Umweltschutz: Lateinamerika bleibt gefährlichste Region für Umweltschützer",
       "summary": "2025 wurden in Lateinamerika mehr als 100 Umweltschützer getötet. Mehr als die Hälfte aller weltweit registrierten Todesfälle entfielen auf Kolumbien und Brasilien.",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/16/muelltonnen-in-brand-gesetzt-zwei-maenner-festgenommen",
       "published": "Wed, 16 Sep 2026 05:52:27 -0000",
       "published_display": "16.09.2026 · 05:52 Uhr"
-    },
-    {
-      "title": "Aussichten: Wetter an Rhein, Mosel und Saar wechselhafter",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/wetter-an-rhein-mosel-und-saar-wechselhafter-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/wetter-an-rhein-mosel-und-saar-wechselhafter",
-      "published": "Wed, 16 Sep 2026 05:49:30 -0000",
-      "published_display": "16.09.2026 · 05:49 Uhr"
-    },
-    {
-      "title": "Eishockey: DEL-Saison mit Spannung, Rückkehrern und Blick auf Heim-WM",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/del-saison-mit-spannung-rueckkehrern-und-blick-auf-heim-wm-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/del-saison-mit-spannung-rueckkehrern-und-blick-auf-heim-wm",
-      "published": "Wed, 16 Sep 2026 05:45:36 -0000",
-      "published_display": "16.09.2026 · 05:45 Uhr"
     }
   ]
 }
