@@ -1,7 +1,87 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-16T14:19:16.453547+00:00",
+  "updated": "2026-09-16T14:32:33.351114+00:00",
   "items": [
+    {
+      "title": "Social-Media-Verbot: Von der Leyen plant Social-Media-Verbot für unter 13-Jährige",
+      "summary": "Kommt bald eine EU-weite Regel für soziale Netzwerke? Kein Social Media bis 13, eingeschränkte Nutzung bis 15 – das fordert Kommissionspräsidentin Ursula von der Leyen.",
+      "image": "https://img.zeit.de/digital/internet/2026-09/social-media-verbot-eu-kinder-ursula-von-der-leyen-foto-1/original__640x360",
+      "link": "https://www.zeit.de/digital/internet/2026-09/social-media-verbot-eu-kinder-ursula-von-der-leyen",
+      "published": "Wed, 16 Sep 2026 14:30:12 -0000",
+      "published_display": "16.09.2026 · 14:30 Uhr"
+    },
+    {
+      "title": "Kanzler-Krise: CDU-Ministerpräsidenten stützen Merz",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/cdu-ministerpraesidenten-gemeinsam-mit-dem-bundeskanzler-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/cdu-ministerpraesidenten-gemeinsam-mit-dem-bundeskanzler",
+      "published": "Wed, 16 Sep 2026 14:30:09 -0000",
+      "published_display": "16.09.2026 · 14:30 Uhr"
+    },
+    {
+      "title": "MLS: Werner-Wechsel in die MLS: Fehlende Wertschätzung ein Grund",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/werner-wechsel-in-die-mls-fehlende-wertschaetzung-ein-grund-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/werner-wechsel-in-die-mls-fehlende-wertschaetzung-ein-grund",
+      "published": "Wed, 16 Sep 2026 14:29:13 -0000",
+      "published_display": "16.09.2026 · 14:29 Uhr"
+    },
+    {
+      "title": "Verdacht in Kita: Ex-Kita-Mitarbeiter unter Missbrauchsverdacht – Ermittlungen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/ex-kita-mitarbeiter-unter-verdacht-polizei-eingeschaltet-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/ex-kita-mitarbeiter-unter-verdacht-polizei-eingeschaltet",
+      "published": "Wed, 16 Sep 2026 14:26:52 -0000",
+      "published_display": "16.09.2026 · 14:26 Uhr"
+    },
+    {
+      "title": "Desinformationskampagnen: Verfassungsschutz meldet Zunahme russischer Desinformation gegen Merz",
+      "summary": "Seit Ende Juni verbreiten sich laut Verfassungsschutz vermehrt Falschinformationen aus Russland über den Bundeskanzler. Die Kampagnen laufen meist über soziale Medien.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/russland-desinformationskampagnen-friedrich-merz-matrjoschka-kampagne-storm-1516-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/russland-desinformationskampagnen-friedrich-merz-matrjoschka-kampagne-storm-1516",
+      "published": "Wed, 16 Sep 2026 14:23:00 -0000",
+      "published_display": "16.09.2026 · 14:23 Uhr"
+    },
+    {
+      "title": "Post: Versand von kleinen Online-Bestellungen wird teurer",
+      "summary": "Das Europäische Parlament hat einer erhöhten Bearbeitungsgebühr für kleine Pakete mit Online-Ware zugestimmt. Die Regelung soll am 1. November in Kraft treten.",
+      "image": "",
+      "link": "https://www.zeit.de/wirtschaft/2026-09/bearbeitungsgebuehr-pakete-online-handelsplattformen-eu",
+      "published": "Wed, 16 Sep 2026 14:22:16 -0000",
+      "published_display": "16.09.2026 · 14:22 Uhr"
+    },
+    {
+      "title": "Gewalt in der Fanszene: Kriminelle Vereinigung: BGH bestätigt Urteil gegen Hooligans",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/kriminelle-vereinigung-bgh-bestaetigt-urteil-gegen-hooligans-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/kriminelle-vereinigung-bgh-bestaetigt-urteil-gegen-hooligans",
+      "published": "Wed, 16 Sep 2026 14:21:37 -0000",
+      "published_display": "16.09.2026 · 14:21 Uhr"
+    },
+    {
+      "title": "Oktoberfest 2026: KI-Kameras und neue Konzepte: Wiesn-Sicherheit verstärkt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/so-soll-die-wiesn-sicherer-werden-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/so-soll-die-wiesn-sicherer-werden",
+      "published": "Wed, 16 Sep 2026 14:20:28 -0000",
+      "published_display": "16.09.2026 · 14:20 Uhr"
+    },
+    {
+      "title": "Geldwäsche: Hunderte Einsatzkräfte führen Razzia gegen Scheinfirmen durch",
+      "summary": "Deutsche und belgische Ermittler haben in einem Geldwäschefall nach eigenen Angaben »die großen Fische am Haken«. Es geht um Steuerhinterziehung in Millionenhöhe.",
+      "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-09/razzia-steuerbetrug-geldwaesche-scheinfirmen-hessen-nordrhein-westfalen-foto-1/original__640x360",
+      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-09/razzia-steuerbetrug-geldwaesche-scheinfirmen-hessen-nordrhein-westfalen-gxe",
+      "published": "Wed, 16 Sep 2026 14:19:45 -0000",
+      "published_display": "16.09.2026 · 14:19 Uhr"
+    },
+    {
+      "title": "Finanzen: Bayern setzt 8,81 Milliarden Euro Erbschaftsteuer fest",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/bayern-setzt-8-81-milliarden-euro-erbschaftsteuer-fest-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/bayern-setzt-8-81-milliarden-euro-erbschaftsteuer-fest",
+      "published": "Wed, 16 Sep 2026 14:18:11 -0000",
+      "published_display": "16.09.2026 · 14:18 Uhr"
+    },
     {
       "title": "Leichenfund: Leiche in einem Auto am Bahnhof entdeckt",
       "summary": "",
@@ -27,10 +107,10 @@
       "published_display": "16.09.2026 · 14:14 Uhr"
     },
     {
-      "title": "Missbrauch von Sozialleistungen: Bärbel Bas legt Aktionsplan gegen organisiserten Sozialbetrug vor",
+      "title": "Missbrauch von Sozialleistungen: Bärbel Bas legt Aktionsplan gegen organisierten Sozialbetrug vor",
       "summary": "Die Bundesarbeitsministerin will stärker gegen Schwarzarbeit und Scheinbeschäftigung vorgehen. Zudem sollen ausländische Arbeitnehmer besser vor Betrug geschützt werden.",
       "image": "https://img.zeit.de/politik/deutschland/2026-09/organisierter-sozialleistungsmissbrauch-schrottimmobilien-eu-zuwanderung-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/organisierter-sozialleistungsmissbrauch-schrottimmobilien-eu-zuwanderung",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/organisierter-sozialleistungsmissbrauch-schrottimmobilien-eu-zuwanderung-gxe",
       "published": "Wed, 16 Sep 2026 14:14:36 -0000",
       "published_display": "16.09.2026 · 14:14 Uhr"
     },
@@ -41,86 +121,6 @@
       "link": "https://www.zeit.de/mobilitaet/2026-09/leichtkraftfahrzeuge-microcars-autoindustrie-microlino-debatte",
       "published": "Wed, 16 Sep 2026 14:13:46 -0000",
       "published_display": "16.09.2026 · 14:13 Uhr"
-    },
-    {
-      "title": "Redeschlacht im Landtag: Abrechnung mit dem «Reservekanzler»: Was hat Wüst geschafft?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/landtag-steigt-in-beratung-des-landeshaushalts-2027-ein-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/landtag-steigt-in-beratung-des-landeshaushalts-2027-ein",
-      "published": "Wed, 16 Sep 2026 14:12:43 -0000",
-      "published_display": "16.09.2026 · 14:12 Uhr"
-    },
-    {
-      "title": "Mordurteil: Freundin im Wahn erstochen: Über zehn Jahre Haft",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/freundin-im-wahn-erstochen-ueber-zehn-jahre-haft-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/freundin-im-wahn-erstochen-ueber-zehn-jahre-haft",
-      "published": "Wed, 16 Sep 2026 14:11:53 -0000",
-      "published_display": "16.09.2026 · 14:11 Uhr"
-    },
-    {
-      "title": "Social-Media-Verbot: Von der Leyen plant Social-Media-Verbot für unter 13-Jährige",
-      "summary": "Kommt bald eine EU-weite Regel für soziale Netzwerke? Kein Social Media bis 13, eingeschränkte Nutzung bis 15 – das fordert Kommissionspräsidentin Ursula von der Leyen.",
-      "image": "https://img.zeit.de/digital/internet/2026-09/social-media-verbot-eu-kinder-ursula-von-der-leyen-foto-1/original__640x360",
-      "link": "https://www.zeit.de/digital/internet/2026-09/social-media-verbot-eu-kinder-ursula-von-der-leyen",
-      "published": "Wed, 16 Sep 2026 14:11:14 -0000",
-      "published_display": "16.09.2026 · 14:11 Uhr"
-    },
-    {
-      "title": "ÖPNV im Norden: SPD fordert landesweiten Sozialtarif für den Nahverkehr",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/spd-fordert-landesweiten-sozialtarif-fuer-den-nahverkehr-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/spd-fordert-landesweiten-sozialtarif-fuer-den-nahverkehr",
-      "published": "Wed, 16 Sep 2026 14:11:01 -0000",
-      "published_display": "16.09.2026 · 14:11 Uhr"
-    },
-    {
-      "title": "Halbleiterindustrie: Infineon verkauft Teil seines Speichergeschäfts",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/infineon-verkauft-teil-seines-speichergeschaefts-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/infineon-verkauft-teil-seines-speichergeschaefts",
-      "published": "Wed, 16 Sep 2026 14:08:49 -0000",
-      "published_display": "16.09.2026 · 14:08 Uhr"
-    },
-    {
-      "title": "Geldwäsche: Hunderte Einsatzkräfte führen Razzia gegen Scheinfirmen durch",
-      "summary": "Deutsche und belgische Ermittler haben in einem Geldwäschefall nach eigenen Angaben »die großen Fische am Haken«. Es geht um Steuerhinterziehung in Millionenhöhe.",
-      "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-09/razzia-steuerbetrug-geldwaesche-scheinfirmen-hessen-nordrhein-westfalen-foto-1/original__640x360",
-      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-09/razzia-steuerbetrug-geldwaesche-scheinfirmen-hessen-nordrhein-westfalen",
-      "published": "Wed, 16 Sep 2026 14:07:42 -0000",
-      "published_display": "16.09.2026 · 14:07 Uhr"
-    },
-    {
-      "title": "Bundesgerichtshof: BGH prüft Streit um Maskenlieferungen - Urteil im Dezember",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/bgh-prueft-streit-um-maskenlieferungen-urteil-im-dezember-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/bgh-prueft-streit-um-maskenlieferungen-urteil-im-dezember",
-      "published": "Wed, 16 Sep 2026 14:06:38 -0000",
-      "published_display": "16.09.2026 · 14:06 Uhr"
-    },
-    {
-      "title": "DDR: Pfarrer und DDR-Bürgerrechtler Martin Gutzeit ist tot",
-      "summary": "Der evangelische Theologe und DDR-Bürgerrechtler Martin Gutzeit ist mit 74 Jahren gestorben. Er war auch Landesbeauftragter für die Stasi-Unterlagen in Berlin.",
-      "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-09/martin-gutzeit-theologe-ddr-buergerrechtler-sdp-stasi-unterlagen-foto-1/original__640x360",
-      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-09/martin-gutzeit-theologe-ddr-buergerrechtler-sdp-stasi-unterlagen",
-      "published": "Wed, 16 Sep 2026 14:05:48 -0000",
-      "published_display": "16.09.2026 · 14:05 Uhr"
-    },
-    {
-      "title": "Drohnenangriffe auf Züge in der Ukraine: Drohnen im Anflug, bitte alle aussteigen",
-      "summary": "Russische Angriffe treffen immer öfter Bahnen in der Ukraine. Unsere Korrespondentin war in einem der vielen Züge unterwegs, die täglich evakuiert werden.",
-      "image": "https://img.zeit.de/2026/40/drohnen-im-anflug-bitte-alle-aussteigen-bild-2/original__640x360",
-      "link": "https://www.zeit.de/2026/40/drohnenangriffe-zuege-ukraine-krieg-russland-infrastruktur",
-      "published": "Wed, 16 Sep 2026 14:05:23 -0000",
-      "published_display": "16.09.2026 · 14:05 Uhr"
-    },
-    {
-      "title": "Desinformationskampagnen: Verfassungsschutz meldet Zunahme russischer Desinformation gegen Merz",
-      "summary": "Seit Ende Juni verbreiten sich laut Verfassungsschutz vermehrt Falschinformationen aus Russland über den Bundeskanzler. Die Kampagnen laufen meist über soziale Medien.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/russland-desinformationskampagnen-friedrich-merz-matrjoschka-kampagne-storm-1516-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/russland-desinformationskampagnen-friedrich-merz-matrjoschka-kampagne-storm-1516",
-      "published": "Wed, 16 Sep 2026 14:03:49 -0000",
-      "published_display": "16.09.2026 · 14:03 Uhr"
     }
   ]
 }
