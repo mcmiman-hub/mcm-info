@@ -1,7 +1,103 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-16T11:45:04.462380+00:00",
+  "updated": "2026-09-16T11:55:25.661413+00:00",
   "items": [
+    {
+      "title": "Tuğba Tekerek: Journalistin nach queerfeindlichen Razzien in der Türkei verhaftet",
+      "summary": "Im Zuge queerfeindlicher Razzien hat die türkische Polizei die Journalistin Tuğba Tekerek festgenommen. Gegen sie und sieben andere Personen wurden Haftbefehle erlassen.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/tugba-tekerek-journalistin-haftbefehl-ankara-tuerkei-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/tugba-tekerek-journalistin-haftbefehl-ankara-tuerkei",
+      "published": "Wed, 16 Sep 2026 11:53:53 -0000",
+      "published_display": "16.09.2026 · 11:53 Uhr"
+    },
+    {
+      "title": "Erkrankungen in Frankfurt: Malaria bei Anwohnern von Flughafen - wie kam es dazu?",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/malaria-bei-anwohnern-von-flughafen-wie-kam-es-dazu-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/malaria-bei-anwohnern-von-flughafen-wie-kam-es-dazu",
+      "published": "Wed, 16 Sep 2026 11:53:30 -0000",
+      "published_display": "16.09.2026 · 11:53 Uhr"
+    },
+    {
+      "title": "Krise um Friedrich Merz: Hat er noch eine Chance?",
+      "summary": "Erkundungen im Umfeld des Kanzlers: bei enttäuschten Merz-Ultras, bei Sozialdemokraten – und bei jenen, die weiter an ihn glauben.",
+      "image": "https://img.zeit.de/2026/40/hat-er-noch-eine-chance-bild-2/original__640x360",
+      "link": "https://www.zeit.de/2026/40/krise-friedrich-merz-cdu-spd-minderheitsregierung-wolfram-weimer",
+      "published": "Wed, 16 Sep 2026 11:51:37 -0000",
+      "published_display": "16.09.2026 · 11:51 Uhr"
+    },
+    {
+      "title": "Von Loitsche in die Welt: Podcast-Serie erzählt Geschichte der Tokio Hotel-Brüder",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/podcast-serie-erzaehlt-geschichte-der-tokio-hotel-brueder-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/podcast-serie-erzaehlt-geschichte-der-tokio-hotel-brueder",
+      "published": "Wed, 16 Sep 2026 11:51:22 -0000",
+      "published_display": "16.09.2026 · 11:51 Uhr"
+    },
+    {
+      "title": "Hohe Energiekosten: Hohe Spritpreise – Lohnt das Tanken hinter der Grenze?",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/hohe-spritpreise-lohnt-das-tanken-hinter-der-grenze-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/hohe-spritpreise-lohnt-das-tanken-hinter-der-grenze",
+      "published": "Wed, 16 Sep 2026 11:49:32 -0000",
+      "published_display": "16.09.2026 · 11:49 Uhr"
+    },
+    {
+      "title": "Sam Altman: »I’m on Team Human«",
+      "summary": "With ChatGPT, Sam Altman has kick-started the AI revolution. Now he is promising intelligence in abundance – but at what cost?",
+      "image": "https://img.zeit.de/zeit-magazin/2026/40/ich-bin-team-mensch-bild-1/original__640x360",
+      "link": "https://www.zeit.de/zeit-magazin/leben/2026-09/sam-altman-openai-artificial-intelligence-chatgpt-english",
+      "published": "Wed, 16 Sep 2026 11:49:09 -0000",
+      "published_display": "16.09.2026 · 11:49 Uhr"
+    },
+    {
+      "title": "Oktoberfest 2026: KI-Kameras und neue Konzepte: Wiesn-Sicherheit verstärkt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/so-soll-die-wiesn-sicherer-werden-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/so-soll-die-wiesn-sicherer-werden",
+      "published": "Wed, 16 Sep 2026 11:47:24 -0000",
+      "published_display": "16.09.2026 · 11:47 Uhr"
+    },
+    {
+      "title": "Großeinsatz: Drohnenteile gefunden - Polizei sucht in unwegsamem Gelände",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/drohnenteile-gefunden-polizei-sucht-in-unwegsamem-gelaende-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/drohnenteile-gefunden-polizei-sucht-in-unwegsamem-gelaende",
+      "published": "Wed, 16 Sep 2026 11:47:03 -0000",
+      "published_display": "16.09.2026 · 11:47 Uhr"
+    },
+    {
+      "title": "Gaza: Israelischer Minister Katz kündigt neue Offensive im Gazastreifen an",
+      "summary": "Minister Israel Katz hat mit der Vertreibung der zwei Millionen Palästinenser in Gaza gedroht. Die israelische Armee solle »die Aufgabe zu Ende bringen«. Das Liveblog",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/krieg-gaza-israel-hamas-liveblog-katz-bild-2/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2025-10/krieg-gaza-israel-hamas-liveblog",
+      "published": "Wed, 16 Sep 2026 11:46:28 -0000",
+      "published_display": "16.09.2026 · 11:46 Uhr"
+    },
+    {
+      "title": "Entscheidung am 26. September: Bundespräsident Steinmeier verkündet Olympia-Bewerber",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/bundespraesident-steinmeier-verkuendet-olympia-bewerber-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/bundespraesident-steinmeier-verkuendet-olympia-bewerber",
+      "published": "Wed, 16 Sep 2026 11:45:25 -0000",
+      "published_display": "16.09.2026 · 11:45 Uhr"
+    },
+    {
+      "title": "Entlastungen: Verkehrsminister für drei Schritte zur Spritpreissenkung",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/verkehrsminister-fuer-drei-schritte-zur-spritpreissenkung-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/verkehrsminister-fuer-drei-schritte-zur-spritpreissenkung",
+      "published": "Wed, 16 Sep 2026 11:44:25 -0000",
+      "published_display": "16.09.2026 · 11:44 Uhr"
+    },
+    {
+      "title": "Unfälle: Transporter bleibt an Brücke hängen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/transporter-bleibt-an-bruecke-haengen-landstrasse-gesperrt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/transporter-bleibt-an-bruecke-haengen-landstrasse-gesperrt",
+      "published": "Wed, 16 Sep 2026 11:43:36 -0000",
+      "published_display": "16.09.2026 · 11:43 Uhr"
+    },
     {
       "title": "Verurteilung: Kriegsverbrechen: 25 Jahre Haft für Kosovos Ex-Präsident",
       "summary": "",
@@ -25,102 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/16/leck-bei-bauarbeiten-sorgt-fuer-gasaustritt-in-wiesbaden",
       "published": "Wed, 16 Sep 2026 11:36:32 -0000",
       "published_display": "16.09.2026 · 11:36 Uhr"
-    },
-    {
-      "title": "Gaza: Israelischer Minister Katz kündigt neue Offensive im Gazastreifen an",
-      "summary": "Minister Israel Katz hat mit der Vertreibung der zwei Millionen Palästinenser in Gaza gedroht. Die israelische Armee solle »die Aufgabe zu Ende bringen«. Das Liveblog",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/krieg-gaza-israel-hamas-liveblog-katz-bild-2/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2025-10/krieg-gaza-israel-hamas-liveblog",
-      "published": "Wed, 16 Sep 2026 11:35:48 -0000",
-      "published_display": "16.09.2026 · 11:35 Uhr"
-    },
-    {
-      "title": "Nach der Landtagswahl: Linke will sich stärker außerhalb des Landtags engagieren",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/linke-will-sich-staerker-ausserhalb-des-landtags-engagieren-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/linke-will-sich-staerker-ausserhalb-des-landtags-engagieren",
-      "published": "Wed, 16 Sep 2026 11:34:46 -0000",
-      "published_display": "16.09.2026 · 11:34 Uhr"
-    },
-    {
-      "title": "Bevölkerungsentwicklung: Einwohnerzahl in Bayern sinkt erneut",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/einwohnerzahl-in-bayern-sinkt-erneut-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/einwohnerzahl-in-bayern-sinkt-erneut",
-      "published": "Wed, 16 Sep 2026 11:32:54 -0000",
-      "published_display": "16.09.2026 · 11:32 Uhr"
-    },
-    {
-      "title": "Entscheidung nächste Woche: Olympia-Bewerbung: Kommission wird Stellungnahme abgeben",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/olympia-bewerbung-kommission-wird-stellungnahme-abgeben-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/olympia-bewerbung-kommission-wird-stellungnahme-abgeben",
-      "published": "Wed, 16 Sep 2026 11:31:21 -0000",
-      "published_display": "16.09.2026 · 11:31 Uhr"
-    },
-    {
-      "title": "Diskussion über Friedrich Merz: CDU-Ministerpräsidenten unterstützen Bundeskanzler Merz",
-      "summary": "Seit der Wahl in Sachsen-Anhalt wird über die Zukunft von Friedrich Merz debattiert. Die CDU-Ministerpräsidenten stellen sich geschlossen hinter ihren Parteivorsitzenden.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/ministerpraesidenten-cdu-friedrich-merz-personaldiskussion-erklaerung-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/ministerpraesidenten-cdu-friedrich-merz-personaldiskussion-erklaerung-gxe",
-      "published": "Wed, 16 Sep 2026 11:31:15 -0000",
-      "published_display": "16.09.2026 · 11:31 Uhr"
-    },
-    {
-      "title": "Wissenschaftspreis: Zukunftspreis: Energiespeicher, Chip und Intensiv-Therapie",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/zukunftspreis-energiespeicher-chip-und-intensiv-therapie-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/zukunftspreis-energiespeicher-chip-und-intensiv-therapie",
-      "published": "Wed, 16 Sep 2026 11:30:05 -0000",
-      "published_display": "16.09.2026 · 11:30 Uhr"
-    },
-    {
-      "title": "Tuğba Tekerek: Journalistin nach queerfeindlichen Razzien in der Türkei verhaftet",
-      "summary": "Im Zuge queerfeindlicher Razzien hat die türkische Polizei die Journalistin Tuğba Tekerek festgenommen. Gegen sie und sieben andere Personen wurden Haftbefehle erlassen.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/tugba-tekerek-journalistin-haftbefehl-ankara-tuerkei-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/tugba-tekerek-journalistin-haftbefehl-ankara-tuerkei",
-      "published": "Wed, 16 Sep 2026 11:29:59 -0000",
-      "published_display": "16.09.2026 · 11:29 Uhr"
-    },
-    {
-      "title": "Sam Altman: »Ich bin Team Mensch«",
-      "summary": "Mit ChatGPT hat Sam Altman die KI-Revolution begonnen. Dann hackte sein Produkt eine andere Plattform. Hier erklärt er, was ihn besorgt – und was er seinen Kindern rät.",
-      "image": "https://img.zeit.de/zeit-magazin/2026/40/koennte-das-mit-der-ki-auch-furchtbar-schiefgehen-sam-altman-bild-2/original__640x360",
-      "link": "https://www.zeit.de/zeit-magazin/2026/40/sam-altman-openai-kuenstliche-intelligenz-chatgpt",
-      "published": "Wed, 16 Sep 2026 11:29:32 -0000",
-      "published_display": "16.09.2026 · 11:29 Uhr"
-    },
-    {
-      "title": "Kommunalwahl in Niedersachsen: CDU ist auch auf Gemeindeebene in Niedersachsen stärkste Kraft",
-      "summary": "Auch bei den Gemeinden erreicht die CDU in Niedersachsen die meisten Stimmen. Im Vergleich zu 2021 war die Wahlbeteiligung bei den Kommunalwahlen deutlich höher.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/kommunalwahl-niedersachsen-ergebnisse-cdu-spd-afd-gemeindewahlen-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/kommunalwahl-niedersachsen-ergebnisse-cdu-spd-afd-gemeindewahlen",
-      "published": "Wed, 16 Sep 2026 11:26:24 -0000",
-      "published_display": "16.09.2026 · 11:26 Uhr"
-    },
-    {
-      "title": "Rüstung und Remigration: Wagenknecht: Provokationen der AfD torpedieren Gespräche",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/wagenknecht-provokationen-der-afd-torpedieren-gespraeche-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/wagenknecht-provokationen-der-afd-torpedieren-gespraeche",
-      "published": "Wed, 16 Sep 2026 11:24:34 -0000",
-      "published_display": "16.09.2026 · 11:24 Uhr"
-    },
-    {
-      "title": "Bayern-Fußballerinnen: Gwinn an Oberdorf: «Weißt, wie sehr ich an dich glaube!»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/gwinn-an-oberdorf-weisst-wie-sehr-ich-an-dich-glaube-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/gwinn-an-oberdorf-weisst-wie-sehr-ich-an-dich-glaube",
-      "published": "Wed, 16 Sep 2026 11:24:11 -0000",
-      "published_display": "16.09.2026 · 11:24 Uhr"
-    },
-    {
-      "title": "Belarus: USA heben Sanktionen gegen mehrere belarussische Firmen auf",
-      "summary": "Im Rahmen einer Vereinbarung mit den USA lässt Belarus 25 politische Gefangene frei. Im Gegenzug lockert die US-Regierung Sanktionen gegen den russischen Verbündeten.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/sanktionen-belarus-usa-politische-gefangene-russland-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/sanktionen-belarus-usa-politische-gefangene-russland",
-      "published": "Wed, 16 Sep 2026 11:24:01 -0000",
-      "published_display": "16.09.2026 · 11:24 Uhr"
     }
   ]
 }
