@@ -1,7 +1,111 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-16T10:56:00.313472+00:00",
+  "updated": "2026-09-16T11:17:57.016068+00:00",
   "items": [
+    {
+      "title": "Sondertribunal in Den Haag: Kosovos Ex-Präsident Hashim Thaçi zu 25 Jahren Haft verurteilt",
+      "summary": "Das Kosovo-Sondertribunal in Den Haag hat den ehemaligen Präsidenten Thaçi wegen Kriegsverbrechen zu langjähriger Haft verurteilt. Er hatte die Vorwürfe abgestritten.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/25-jahre-haft-wegen-kriegsverbrechen-fuer-kosovos-ex-praesidenten-thaci-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/25-jahre-haft-wegen-kriegsverbrechen-fuer-kosovos-ex-praesidenten-thaci",
+      "published": "Wed, 16 Sep 2026 11:15:02 -0000",
+      "published_display": "16.09.2026 · 11:15 Uhr"
+    },
+    {
+      "title": "Landtag: Pharmakonzern GSK wegen Schließungsplänen kritisiert",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/pharmakonzern-gsk-wegen-schliessungsplaenen-kritisiert-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/pharmakonzern-gsk-wegen-schliessungsplaenen-kritisiert",
+      "published": "Wed, 16 Sep 2026 11:14:59 -0000",
+      "published_display": "16.09.2026 · 11:14 Uhr"
+    },
+    {
+      "title": "Erster Gesundheitscheck: Rote Pandas in Kleve wachsen prächtig - beides Weibchen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/rote-pandas-in-kleve-wachsen-praechtig-beides-weibchen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/rote-pandas-in-kleve-wachsen-praechtig-beides-weibchen",
+      "published": "Wed, 16 Sep 2026 11:12:28 -0000",
+      "published_display": "16.09.2026 · 11:12 Uhr"
+    },
+    {
+      "title": "Kommunalwahl in Niedersachsen: CDU ist auch auf Gemeindeebene in Niedersachsen stärkste Kraft",
+      "summary": "Auch bei den Gemeinden erreicht die CDU in Niedersachsen die meisten Stimmen. Im Vergleich zu 2021 war die Wahlbeteiligung bei den Kommunalwahlen deutlich höher.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/kommunalwahl-niedersachsen-ergebnisse-cdu-spd-afd-gemeindewahlen-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/kommunalwahl-niedersachsen-ergebnisse-cdu-spd-afd-gemeindewahlen",
+      "published": "Wed, 16 Sep 2026 11:11:04 -0000",
+      "published_display": "16.09.2026 · 11:11 Uhr"
+    },
+    {
+      "title": "Basketball: Meister Alba mit «Wunschkader»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/meister-alba-mit-wunschkader-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/meister-alba-mit-wunschkader",
+      "published": "Wed, 16 Sep 2026 11:09:25 -0000",
+      "published_display": "16.09.2026 · 11:09 Uhr"
+    },
+    {
+      "title": "Verbindung Hannover-Hamburg: Rot-Grün uneins über Bahn-Neubaustrecke",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/rot-gruen-uneins-ueber-bahn-neubaustrecke-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/rot-gruen-uneins-ueber-bahn-neubaustrecke",
+      "published": "Wed, 16 Sep 2026 11:08:47 -0000",
+      "published_display": "16.09.2026 · 11:08 Uhr"
+    },
+    {
+      "title": "Kanzler-Krise: CDU-Ministerpräsidenten stärken Merz den Rücken",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/cdu-ministerpraesidenten-gemeinsam-mit-dem-bundeskanzler-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/cdu-ministerpraesidenten-gemeinsam-mit-dem-bundeskanzler",
+      "published": "Wed, 16 Sep 2026 11:05:52 -0000",
+      "published_display": "16.09.2026 · 11:05 Uhr"
+    },
+    {
+      "title": "Kabinett: Bund plant härtere Strafen für gefährliche Messerangriffe",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/zehn-massnahmen-fuer-mehr-schutz-gegen-islamistischen-terror-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/zehn-massnahmen-fuer-mehr-schutz-gegen-islamistischen-terror",
+      "published": "Wed, 16 Sep 2026 11:05:30 -0000",
+      "published_display": "16.09.2026 · 11:05 Uhr"
+    },
+    {
+      "title": "Verfassungsgericht: Ordnungsrufe im Landtag - Richter betonen Spielraum",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/ordnungsrufe-im-landtag-richter-betonen-spielraum-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/ordnungsrufe-im-landtag-richter-betonen-spielraum",
+      "published": "Wed, 16 Sep 2026 11:03:24 -0000",
+      "published_display": "16.09.2026 · 11:03 Uhr"
+    },
+    {
+      "title": "Gesetzesreform verabschiedet: Kommunen können künftig Alkoholverbotszonen einrichten",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/kommunen-koennen-kuenftig-alkoholverbotszonen-einrichten-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/kommunen-koennen-kuenftig-alkoholverbotszonen-einrichten",
+      "published": "Wed, 16 Sep 2026 11:03:00 -0000",
+      "published_display": "16.09.2026 · 11:03 Uhr"
+    },
+    {
+      "title": "Langer Nachbarschaftsstreit: Nachbar setzt Gartentor mit 230 Volt unter Strom",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/nachbar-setzt-gartentor-mit-230-volt-unter-strom-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/nachbar-setzt-gartentor-mit-230-volt-unter-strom",
+      "published": "Wed, 16 Sep 2026 11:01:19 -0000",
+      "published_display": "16.09.2026 · 11:01 Uhr"
+    },
+    {
+      "title": "Rheinau (Ortenaukreis): Schiff auf dem Rhein in Brand",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/schiff-auf-dem-rhein-in-brand-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/schiff-auf-dem-rhein-in-brand",
+      "published": "Wed, 16 Sep 2026 11:00:20 -0000",
+      "published_display": "16.09.2026 · 11:00 Uhr"
+    },
+    {
+      "title": "Ermittlungen dauern an: Täter nach Messerangriff in Potsdam noch nicht gefasst",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/mutmassliche-koerperverletzung-in-potsdam-ein-verletzter-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/15/mutmassliche-koerperverletzung-in-potsdam-ein-verletzter",
+      "published": "Wed, 16 Sep 2026 10:54:19 -0000",
+      "published_display": "16.09.2026 · 10:54 Uhr"
+    },
     {
       "title": "Sinkende Margen und Sanierung: Braunkohleförderer Mibrag schreibt Verluste",
       "summary": "",
@@ -17,110 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/16/kommt-aus-der-mitte-berlins-132-stimmen-fuer-olympia",
       "published": "Wed, 16 Sep 2026 10:44:24 -0000",
       "published_display": "16.09.2026 · 10:44 Uhr"
-    },
-    {
-      "title": "Feuer in Einfamilienhaus: Nach Explosion in Weimar – Suche nach Bewohner läuft weiter",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/nach-explosion-in-weimar-suche-nach-bewohner-laeuft-weiter-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/nach-explosion-in-weimar-suche-nach-bewohner-laeuft-weiter",
-      "published": "Wed, 16 Sep 2026 10:43:31 -0000",
-      "published_display": "16.09.2026 · 10:43 Uhr"
-    },
-    {
-      "title": "Jahrzehntelanges Engagement: Saumagen-Orden für obersten Karnevalisten Fess",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/saumagen-orden-fuer-obersten-karnevalisten-fess-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/saumagen-orden-fuer-obersten-karnevalisten-fess",
-      "published": "Wed, 16 Sep 2026 10:41:33 -0000",
-      "published_display": "16.09.2026 · 10:41 Uhr"
-    },
-    {
-      "title": "Mutmaßlicher Täter flüchtig: Mann mit Messer schwer verletzt - Hund in Wohnung erschossen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/mutmassliche-koerperverletzung-in-potsdam-ein-verletzter-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/mutmassliche-koerperverletzung-in-potsdam-ein-verletzter",
-      "published": "Wed, 16 Sep 2026 10:40:48 -0000",
-      "published_display": "16.09.2026 · 10:40 Uhr"
-    },
-    {
-      "title": "Feuer: Älteres Ehepaar stirbt bei Brand in einer Wohnung",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/zwei-menschen-sterben-bei-brand-in-einer-wohnung-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/zwei-menschen-sterben-bei-brand-in-einer-wohnung",
-      "published": "Wed, 16 Sep 2026 10:39:29 -0000",
-      "published_display": "16.09.2026 · 10:39 Uhr"
-    },
-    {
-      "title": "Sondertribunal in Den Haag: Kosovos Ex-Präsident Hashim Thaçi zu 25 Jahren Haft verurteilt",
-      "summary": "Das Kosovo-Sondertribunal in Den Haag hat den ehemaligen Präsidenten Thaçi wegen Kriegsverbrechen zu langjähriger Haft verurteilt. Er hatte die Vorwürfe abgestritten.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/25-jahre-haft-wegen-kriegsverbrechen-fuer-kosovos-ex-praesidenten-thaci-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/25-jahre-haft-wegen-kriegsverbrechen-fuer-kosovos-ex-praesidenten-thaci",
-      "published": "Wed, 16 Sep 2026 10:39:15 -0000",
-      "published_display": "16.09.2026 · 10:39 Uhr"
-    },
-    {
-      "title": "Jüdische Kultur: 100 Jahre Jüdische Gemeinden - Warnende Töne bei Feierstunde",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/100-jahre-juedische-gemeinden-warnende-toene-bei-feierstunde-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/100-jahre-juedische-gemeinden-warnende-toene-bei-feierstunde",
-      "published": "Wed, 16 Sep 2026 10:38:18 -0000",
-      "published_display": "16.09.2026 · 10:38 Uhr"
-    },
-    {
-      "title": "Schulen: Amokalarm an Berufskolleg: Schüler in Gewahrsam",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/amokalarm-an-berufskolleg-in-velbert-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/amokalarm-an-berufskolleg-in-velbert",
-      "published": "Wed, 16 Sep 2026 10:38:02 -0000",
-      "published_display": "16.09.2026 · 10:38 Uhr"
-    },
-    {
-      "title": "Rettungshubschrauber: Achtjähriger überrollt Kleinkind mit Radlader auf Hof",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/achtjaehriger-ueberrollt-kleinkind-mit-radlader-auf-hof-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/achtjaehriger-ueberrollt-kleinkind-mit-radlader-auf-hof",
-      "published": "Wed, 16 Sep 2026 10:37:11 -0000",
-      "published_display": "16.09.2026 · 10:37 Uhr"
-    },
-    {
-      "title": "Kanzler-Krise: CDU-Ministerpräsidenten stärken Merz den Rücken",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/cdu-ministerpraesidenten-gemeinsam-mit-dem-bundeskanzler-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/cdu-ministerpraesidenten-gemeinsam-mit-dem-bundeskanzler",
-      "published": "Wed, 16 Sep 2026 10:34:04 -0000",
-      "published_display": "16.09.2026 · 10:34 Uhr"
-    },
-    {
-      "title": "Landtag: Neue Befugnisse für die saarländische Polizei",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/neue-befugnisse-fuer-die-saarlaendische-polizei-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/neue-befugnisse-fuer-die-saarlaendische-polizei",
-      "published": "Wed, 16 Sep 2026 10:32:22 -0000",
-      "published_display": "16.09.2026 · 10:32 Uhr"
-    },
-    {
-      "title": "Drohnenangriff nahe Nikopol: Fünf Tote bei russischem Angriff auf Bus in der Ukraine",
-      "summary": "Russland hat im Südosten der Ukraine einen Linienbus mit einer Drohne angegriffen. Dabei wurden fünf Menschen getötet und mindestens sieben weitere verletzt.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/russischer-drohnenangriff-nikopol-ukraine-zivilisten-dnipropetrowsk-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/russischer-drohnenangriff-nikopol-ukraine-zivilisten-dnipropetrowsk-gxe",
-      "published": "Wed, 16 Sep 2026 10:31:00 -0000",
-      "published_display": "16.09.2026 · 10:31 Uhr"
-    },
-    {
-      "title": "Bombe von Zweitem Weltkrieg: Spaziergänger findet Fliegerbombe: Anwohner evakuiert",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/spaziergaenger-findet-fliegerbombe-anwohner-werden-evakuiert-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/spaziergaenger-findet-fliegerbombe-anwohner-werden-evakuiert",
-      "published": "Wed, 16 Sep 2026 10:29:56 -0000",
-      "published_display": "16.09.2026 · 10:29 Uhr"
-    },
-    {
-      "title": "101 betroffene Personen: Reizgas-Verdacht an Dresdner Schule: Hintergründe unklar",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/reizgas-verdacht-an-dresdner-schule-hintergruende-unklar-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/reizgas-verdacht-an-dresdner-schule-hintergruende-unklar",
-      "published": "Wed, 16 Sep 2026 10:29:10 -0000",
-      "published_display": "16.09.2026 · 10:29 Uhr"
     }
   ]
 }
