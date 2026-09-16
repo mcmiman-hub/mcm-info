@@ -1,7 +1,79 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-16T09:45:11.524004+00:00",
+  "updated": "2026-09-16T09:56:15.214683+00:00",
   "items": [
+    {
+      "title": "Friedrich Merz: Bisschen runterkühlen",
+      "summary": "Auf seiner Reise zum Arktis-Gipfel kämpft sich Friedrich Merz aus der Zerknirschung heraus: Er hat ein entscheidendes Argument dafür gefunden, dass er bleiben muss.",
+      "image": "https://img.zeit.de/2026/40/friedrich-merz-arktis-gipfel-cdu-krise-afd-bundeskanzler-bild-2/original__640x360",
+      "link": "https://www.zeit.de/2026/40/friedrich-merz-arktis-gipfel-cdu-krise-afd-bundeskanzler",
+      "published": "Wed, 16 Sep 2026 09:54:35 -0000",
+      "published_display": "16.09.2026 · 09:54 Uhr"
+    },
+    {
+      "title": "Bombe von Zweitem Weltkrieg: Spaziergänger findet Fliegerbombe: Anwohner werden evakuiert",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/spaziergaenger-findet-fliegerbombe-anwohner-werden-evakuiert-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/spaziergaenger-findet-fliegerbombe-anwohner-werden-evakuiert",
+      "published": "Wed, 16 Sep 2026 09:52:23 -0000",
+      "published_display": "16.09.2026 · 09:52 Uhr"
+    },
+    {
+      "title": "Plenarsitzung: Finanzminister zu Haushalt: Brandenburg «nicht kaputtsparen»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/finanzminister-zu-haushalt-brandenburg-nicht-kaputtsparen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/finanzminister-zu-haushalt-brandenburg-nicht-kaputtsparen",
+      "published": "Wed, 16 Sep 2026 09:50:42 -0000",
+      "published_display": "16.09.2026 · 09:50 Uhr"
+    },
+    {
+      "title": "Bier aus Bordbistro gestohlen: 1860-Fan soll ICE-Fahrt zur Freibier-Tour gemacht haben",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/1860-fan-soll-ice-fahrt-zur-freibier-tour-gemacht-haben-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/1860-fan-soll-ice-fahrt-zur-freibier-tour-gemacht-haben",
+      "published": "Wed, 16 Sep 2026 09:48:53 -0000",
+      "published_display": "16.09.2026 · 09:48 Uhr"
+    },
+    {
+      "title": "Belarus: USA heben Sanktionen gegen mehrere belarussische Firmen auf",
+      "summary": "Im Rahmen einer Vereinbarung mit den USA lässt Belarus 25 politische Gefangene frei. Im Gegenzug lockert die US-Regierung Sanktionen gegen den russischen Verbündeten.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/sanktionen-belarus-usa-politische-gefangene-russland-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/sanktionen-belarus-usa-politische-gefangene-russland",
+      "published": "Wed, 16 Sep 2026 09:48:09 -0000",
+      "published_display": "16.09.2026 · 09:48 Uhr"
+    },
+    {
+      "title": "Wahlkampf in Berlin: Was beschäftigt Sie vor der Wahl in Berlin?",
+      "summary": "Wer künftig die Hauptstadt regiert, ist auch kurz vor der Wahl unklar. Wir wollen von Berlinerinnen und Berlinern hören, welche Themen für sie wahlentscheidend sind.",
+      "image": "https://img.zeit.de/politik/2026-09/wahlkampf-berlin-themen-buergerinnen-abgeordnetenhaus-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/wahlkampf-berlin-themen-buergerinnen-abgeordnetenhaus",
+      "published": "Wed, 16 Sep 2026 09:46:24 -0000",
+      "published_display": "16.09.2026 · 09:46 Uhr"
+    },
+    {
+      "title": "2. Fußball-Bundesliga: Hertha-Chef kritisiert Kollektivstrafen nach Krawallen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/hertha-chef-kritisiert-kollektivstrafen-nach-krawallen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/hertha-chef-kritisiert-kollektivstrafen-nach-krawallen",
+      "published": "Wed, 16 Sep 2026 09:46:09 -0000",
+      "published_display": "16.09.2026 · 09:46 Uhr"
+    },
+    {
+      "title": "Kriminalität: Hessen schiebt Terror-Sympathisant und zwei Straftäter ab",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/hessen-schiebt-terror-sympathisant-und-zwei-straftaeter-ab-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/hessen-schiebt-terror-sympathisant-und-zwei-straftaeter-ab",
+      "published": "Wed, 16 Sep 2026 09:45:59 -0000",
+      "published_display": "16.09.2026 · 09:45 Uhr"
+    },
+    {
+      "title": "25 Jahre Haft wegen Kriegsverbrechen für Kosovos Ex-Präsidenten Thaci",
+      "summary": "",
+      "image": "https://img.zeit.de/administratives/eilmeldung/fallback-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/25-jahre-haft-wegen-kriegsverbrechen-fuer-kosovos-ex-praesidenten-thaci",
+      "published": "Wed, 16 Sep 2026 09:45:44 -0000",
+      "published_display": "16.09.2026 · 09:45 Uhr"
+    },
     {
       "title": "Ermittlungen laufen: Nach Waffenfund im Wald bei Speyer - Polizei prüft Herkunft",
       "summary": "",
@@ -9,14 +81,6 @@
       "link": "https://www.zeit.de/news/2026-09/16/nach-waffenfund-im-wald-bei-speyer-polizei-prueft-herkunft",
       "published": "Wed, 16 Sep 2026 09:43:03 -0000",
       "published_display": "16.09.2026 · 09:43 Uhr"
-    },
-    {
-      "title": "Belarus: USA heben Sanktionen gegen mehrere belarussische Firmen auf",
-      "summary": "Im Rahmen einer Vereinbarung mit den USA lässt Belarus 25 politische Gefangene frei. Im Gegenzug lockert die US-Regierung Sanktionen gegen den russischen Verbündeten.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/sanktionen-belarus-usa-politische-gefangene-russland-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/sanktionen-belarus-usa-politische-gefangene-russland",
-      "published": "Wed, 16 Sep 2026 09:31:05 -0000",
-      "published_display": "16.09.2026 · 09:31 Uhr"
     },
     {
       "title": "Bildungsvergleich: Opposition kritisiert Schulpolitik in Schleswig-Holstein",
@@ -57,70 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/16/als-die-quadriga-ploetzlich-verschwand",
       "published": "Wed, 16 Sep 2026 09:28:22 -0000",
       "published_display": "16.09.2026 · 09:28 Uhr"
-    },
-    {
-      "title": "Technische Entwicklung: Weniger Tempo bei KI: Von der Leyen stellt sich gegen Trump",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/weniger-tempo-bei-ki-von-der-leyen-stellt-sich-gegen-trump-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/weniger-tempo-bei-ki-von-der-leyen-stellt-sich-gegen-trump",
-      "published": "Wed, 16 Sep 2026 09:28:21 -0000",
-      "published_display": "16.09.2026 · 09:28 Uhr"
-    },
-    {
-      "title": "«Lage nicht schlechtreden»: IG Metall sieht Erholung und attackiert Arbeitgeber",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/ig-metall-sieht-erholung-und-attackiert-arbeitgeber-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/ig-metall-sieht-erholung-und-attackiert-arbeitgeber",
-      "published": "Wed, 16 Sep 2026 09:27:07 -0000",
-      "published_display": "16.09.2026 · 09:27 Uhr"
-    },
-    {
-      "title": "Handball-Bundesliga: TVB-Routinier Häfner verlängert bis 2028",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/tvb-routinier-haefner-verlaengert-bis-2028-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/tvb-routinier-haefner-verlaengert-bis-2028",
-      "published": "Wed, 16 Sep 2026 09:26:23 -0000",
-      "published_display": "16.09.2026 · 09:26 Uhr"
-    },
-    {
-      "title": "Berchtesgadener Land: Radfahrer stirbt nach mutmaßlichem Rotwildunfall",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/radfahrer-stirbt-nach-mutmasslichem-rotwildunfall-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/radfahrer-stirbt-nach-mutmasslichem-rotwildunfall",
-      "published": "Wed, 16 Sep 2026 09:23:42 -0000",
-      "published_display": "16.09.2026 · 09:23 Uhr"
-    },
-    {
-      "title": "IT-Sicherheit: Hunderte von Anfragen nach Hackerangriff in Berlin",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/hunderte-von-anfragen-nach-hackerangriff-in-berlin-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/hunderte-von-anfragen-nach-hackerangriff-in-berlin",
-      "published": "Wed, 16 Sep 2026 09:23:15 -0000",
-      "published_display": "16.09.2026 · 09:23 Uhr"
-    },
-    {
-      "title": "Diskussion über Friedrich Merz: CDU-Ministerpräsidenten unterstützen Bundeskanzler Merz",
-      "summary": "Seit der Wahl in Sachsen-Anhalt wird über die Zukunft von Friedrich Merz debattiert. Die CDU-Ministerpräsidenten stellen sich geschlossen hinter ihren Parteivorsitzenden.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/ministerpraesidenten-cdu-friedrich-merz-personaldiskussion-erklaerung-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/ministerpraesidenten-cdu-friedrich-merz-personaldiskussion-erklaerung",
-      "published": "Wed, 16 Sep 2026 09:22:58 -0000",
-      "published_display": "16.09.2026 · 09:22 Uhr"
-    },
-    {
-      "title": "An der Ampel: Maskierter attackiert Autofahrer",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/maskierter-attackiert-autofahrer-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/maskierter-attackiert-autofahrer",
-      "published": "Wed, 16 Sep 2026 09:21:26 -0000",
-      "published_display": "16.09.2026 · 09:21 Uhr"
-    },
-    {
-      "title": "Ralf Richter: Der war geil",
-      "summary": "Ralf Richter war ein Virtuose des Vulgären, Exzesse der Leere und Langeweile füllte er mit Leben. Nachruf auf einen Schauspieler, der die alte BRD zum Brummen brachte.",
-      "image": "https://img.zeit.de/feuilleton/film/2026-09/ralf-richter-schauspieler-synchronsprecher-tot-das-boot-nachruf-bild-1/original__640x360",
-      "link": "https://www.zeit.de/feuilleton/film/2026-09/ralf-richter-schauspieler-synchronsprecher-tot-das-boot-nachruf",
-      "published": "Wed, 16 Sep 2026 09:21:07 -0000",
-      "published_display": "16.09.2026 · 09:21 Uhr"
     }
   ]
 }
