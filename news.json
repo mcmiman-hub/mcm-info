@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-16T02:44:42.871012+00:00",
+  "updated": "2026-09-16T02:56:03.962029+00:00",
   "items": [
+    {
+      "title": "Medien: Sprechstunde mit Hans Sigl - TV-Star startet Podcast",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/sprechstunde-mit-hans-sigl-tv-star-startet-podcast-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/sprechstunde-mit-hans-sigl-tv-star-startet-podcast",
+      "published": "Wed, 16 Sep 2026 02:45:05 -0000",
+      "published_display": "16.09.2026 · 02:45 Uhr"
+    },
+    {
+      "title": "Fotografie: Bilder des Tages",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/bilder-des-tages-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/bilder-des-tages",
+      "published": "Wed, 16 Sep 2026 02:42:46 -0000",
+      "published_display": "16.09.2026 · 02:42 Uhr"
+    },
     {
       "title": "Seenotrettung: Mehrtägige Such- und Rettungsübung auf der Ostsee startet",
       "summary": "",
@@ -104,22 +120,6 @@
       "image": "https://img.zeit.de/news/2026-09/16/schulfrieden-an-brennpunktschule-auf-dem-pruefstand-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-09/16/schulfrieden-an-brennpunktschule-auf-dem-pruefstand",
       "published": "Wed, 16 Sep 2026 02:00:07 -0000",
-      "published_display": "16.09.2026 · 02:00 Uhr"
-    },
-    {
-      "title": "Fahrtrichtung Stuttgart: Erneute A8-Teilsperrung steht an - Was Fahrer wissen müssen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/erneute-a8-teilsperrung-steht-an-was-fahrer-wissen-muessen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/erneute-a8-teilsperrung-steht-an-was-fahrer-wissen-muessen",
-      "published": "Wed, 16 Sep 2026 02:00:06 -0000",
-      "published_display": "16.09.2026 · 02:00 Uhr"
-    },
-    {
-      "title": "Verfahrensflut: Immer mehr offene Verfahren in den Staatsanwaltschaften",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/immer-mehr-offene-verfahren-in-den-staatsanwaltschaften-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/immer-mehr-offene-verfahren-in-den-staatsanwaltschaften",
-      "published": "Wed, 16 Sep 2026 02:00:05 -0000",
       "published_display": "16.09.2026 · 02:00 Uhr"
     }
   ]
