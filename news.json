@@ -1,10 +1,34 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-16T15:44:41.837804+00:00",
+  "updated": "2026-09-16T15:56:29.080552+00:00",
   "items": [
     {
-      "title": "Werbung von Desigual: Wer hat hier wen im Griff?",
-      "summary": "Eine Werbekampagne inszeniert Vivian Wilson, die Tochter von Elon Musk, als Rebellin gegen KI. Was für ein Kitsch.",
+      "title": "Verkehrskontrollen: Niederländische Grenze: Bundespolizei ändert Taktik",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/niederlaendische-grenze-bundespolizei-aendert-taktik-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/niederlaendische-grenze-bundespolizei-aendert-taktik",
+      "published": "Wed, 16 Sep 2026 15:53:56 -0000",
+      "published_display": "16.09.2026 · 15:53 Uhr"
+    },
+    {
+      "title": "Fotografie: Bilder des Tages",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/bilder-des-tages-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/bilder-des-tages",
+      "published": "Wed, 16 Sep 2026 15:49:01 -0000",
+      "published_display": "16.09.2026 · 15:49 Uhr"
+    },
+    {
+      "title": "DEL: Eishockey: Kukuk fällt auf unbestimmte Zeit aus",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/eishockey-kukuk-faellt-auf-unbestimmte-zeit-aus-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/eishockey-kukuk-faellt-auf-unbestimmte-zeit-aus",
+      "published": "Wed, 16 Sep 2026 15:44:22 -0000",
+      "published_display": "16.09.2026 · 15:44 Uhr"
+    },
+    {
+      "title": "Werbung von Desigual: Was für ein Kitsch",
+      "summary": "Eine Werbekampagne inszeniert Vivian Wilson, die Tochter von Elon Musk, als Rebellin gegen KI. Wer hat hier wen im Griff?",
       "image": "https://img.zeit.de/feuilleton/2026-09/werbung-desigual-vivian-wilson-ki-bild-1/original__640x360",
       "link": "https://www.zeit.de/feuilleton/2026-09/werbung-desigual-vivian-wilson-ki",
       "published": "Wed, 16 Sep 2026 15:44:17 -0000",
@@ -62,7 +86,7 @@
       "title": "Arbeiten am Seekabel: Helgoland ist zwei Tage von Festlandstrom abgeschnitten",
       "summary": "Wegen Arbeiten an einem Seekabel wird Helgoland bis Freitag zeitweise vom Festlandstrom und Internet abgeschnitten. Notrufe bleiben auf der Insel jedoch möglich.",
       "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-09/helgoland-stromausfall-internet-seekabel-diesel-aggregate-foto-1/original__640x360",
-      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-09/helgoland-stromausfall-internet-seekabel-diesel-aggregate",
+      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-09/helgoland-stromausfall-internet-seekabel-diesel-aggregate-gxe",
       "published": "Wed, 16 Sep 2026 15:31:35 -0000",
       "published_display": "16.09.2026 · 15:31 Uhr"
     },
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/politik/deutschland/2026-09/hybride-kriegsfuehrung-russland-bundesregierung-verteidigung-sabotage-desinformation",
       "published": "Wed, 16 Sep 2026 15:25:22 -0000",
       "published_display": "16.09.2026 · 15:25 Uhr"
-    },
-    {
-      "title": "2. Fußball-Bundesliga: Fürth zieht Option und verlängert mit Sillah",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/fuerth-zieht-option-und-verlaengert-mit-sillah-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/fuerth-zieht-option-und-verlaengert-mit-sillah",
-      "published": "Wed, 16 Sep 2026 15:24:34 -0000",
-      "published_display": "16.09.2026 · 15:24 Uhr"
-    },
-    {
-      "title": "Abgeordnetenhauswahl Berlin: Wahlkämpfer von Berliner AfD und CDU an drei Ständen angegriffen",
-      "summary": "An mehreren Wahlständen der Berliner AfD und CDU sind Parteianhänger verbal oder körperlich angegriffen worden. Der Staatsschutz ermittelt zu den Vorfällen.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/angriffe-wahlkampfstaende-cdu-afd-berlin-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/angriffe-wahlkampfstaende-cdu-afd-berlin",
-      "published": "Wed, 16 Sep 2026 15:23:21 -0000",
-      "published_display": "16.09.2026 · 15:23 Uhr"
-    },
-    {
-      "title": "Kanzler-Krise: Peters erfreut über Signal der CDU-Ministerpräsidenten",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/peters-erfreut-ueber-signal-der-cdu-ministerpraesidenten-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/peters-erfreut-ueber-signal-der-cdu-ministerpraesidenten",
-      "published": "Wed, 16 Sep 2026 15:22:55 -0000",
-      "published_display": "16.09.2026 · 15:22 Uhr"
     }
   ]
 }
