@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-16T04:18:11.237151+00:00",
+  "updated": "2026-09-16T04:31:45.541569+00:00",
   "items": [
+    {
+      "title": "Neu im Kino: «Pressure»: Ein Wetterbericht am D-Day schreibt Geschichte",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/pressure-ein-wetterbericht-am-d-day-schreibt-geschichte-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/pressure-ein-wetterbericht-am-d-day-schreibt-geschichte",
+      "published": "Wed, 16 Sep 2026 04:30:05 -0000",
+      "published_display": "16.09.2026 · 04:30 Uhr"
+    },
     {
       "title": "Entertainer im Polit-Talk: Harald Schmidt glaubt nicht an «Messias» Hendrik Wüst",
       "summary": "",
@@ -20,7 +28,7 @@
     },
     {
       "title": "Jemen: Mehr als 100.000 Menschen im Jemen auf der Flucht",
-      "summary": "Die Kämpfe zwischen der Huthi-Miliz und der jemenitischen Regierung treibt laut UN Zehntausende in die Flucht. Unter den Toten und Verletzten sind zahlreiche Kinder.",
+      "summary": "Die Kämpfe zwischen der Huthi-Miliz und der jemenitischen Regierung treiben laut UN Zehntausende in die Flucht. Unter den Toten und Verletzten sind zahlreiche Kinder.",
       "image": "https://img.zeit.de/politik/ausland/2026-09/jemen-huthi-miliz-kaempfe-binnenfluechtlinge-foto-1/original__640x360",
       "link": "https://www.zeit.de/politik/ausland/2026-09/jemen-huthi-miliz-kaempfe-binnenfluechtlinge",
       "published": "Wed, 16 Sep 2026 04:04:54 -0000",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/16/verkehrsminister-fuer-drei-schritte-zur-spritpreissenkung",
       "published": "Wed, 16 Sep 2026 03:45:04 -0000",
       "published_display": "16.09.2026 · 03:45 Uhr"
-    },
-    {
-      "title": "Wetter: Schauer und Gewitter, aber nicht kalt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/schauer-und-gewitter-aber-nicht-kalt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/schauer-und-gewitter-aber-nicht-kalt",
-      "published": "Wed, 16 Sep 2026 03:40:35 -0000",
-      "published_display": "16.09.2026 · 03:40 Uhr"
     }
   ]
 }
