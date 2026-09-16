@@ -1,7 +1,95 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-16T17:55:29.743272+00:00",
+  "updated": "2026-09-16T18:20:11.855779+00:00",
   "items": [
+    {
+      "title": "Federal Reserve: US-Notenbank erhöht erstmals seit 2023 den Leitzins",
+      "summary": "Die Fed setzt der steigenden Inflation einen um 0,25 Prozentpunkte höheren Leitzins entgegen. US-Präsident Donald Trump dürfte die Entscheidung nicht gefallen.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/us-notenbank-erhoeht-erstmals-seit-2023-den-leitzins-bild/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/2026-09/us-notenbank-erhoeht-erstmals-seit-2023-den-leitzins",
+      "published": "Wed, 16 Sep 2026 18:17:40 -0000",
+      "published_display": "16.09.2026 · 18:17 Uhr"
+    },
+    {
+      "title": "Wahlarena in Berlin: Die letzte Diskussionsrunde vor der Berlin-Wahl",
+      "summary": "Ein letztes Mal vor der Wahl am Sonntag treffen die Berliner Spitzenkandidaten aufeinander. Wer überzeugt in der Fragerunde mit Bürgerinnen und Bürgern? Das Liveblog",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/landtagswahl-berlin-liveblog/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/wahlarena-berlin-wahl-abgeordnetenhaus-debatte-rbb-live",
+      "published": "Wed, 16 Sep 2026 18:15:53 -0000",
+      "published_display": "16.09.2026 · 18:15 Uhr"
+    },
+    {
+      "title": "Vor den Midterms: Wegen Hegseth? US-Repräsentantenhaus zieht Ferien vor",
+      "summary": "",
+      "image": "",
+      "link": "https://www.zeit.de/news/2026-09/16/wegen-hegseth-us-repraesentantenhaus-zieht-ferien-vor",
+      "published": "Wed, 16 Sep 2026 18:15:14 -0000",
+      "published_display": "16.09.2026 · 18:15 Uhr"
+    },
+    {
+      "title": "Unfälle: Tödlicher Frontalzusammenstoß in Worms",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/toedlicher-frontalzusammenstoss-in-worms-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/toedlicher-frontalzusammenstoss-in-worms",
+      "published": "Wed, 16 Sep 2026 18:10:40 -0000",
+      "published_display": "16.09.2026 · 18:10 Uhr"
+    },
+    {
+      "title": "Kritik an Regierung: Orafol-Chef: Fürchte, dass es Bundesregierung zerreißt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/orafol-chef-fuerchte-dass-es-bundesregierung-zerreisst-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/orafol-chef-fuerchte-dass-es-bundesregierung-zerreisst",
+      "published": "Wed, 16 Sep 2026 18:08:54 -0000",
+      "published_display": "16.09.2026 · 18:08 Uhr"
+    },
+    {
+      "title": "KI und Gerichte: KI führt zu deutlich mehr Klagen bei Sozialgerichten",
+      "summary": "",
+      "image": "",
+      "link": "https://www.zeit.de/news/2026-09/16/ki-fuehrt-zu-deutlich-mehr-klagen-bei-sozialgerichten",
+      "published": "Wed, 16 Sep 2026 18:08:41 -0000",
+      "published_display": "16.09.2026 · 18:08 Uhr"
+    },
+    {
+      "title": "Angriffe auf Bahn-Beschäftigte: Bundesjustizministerin will Gewalt gegen Bahnpersonal härter bestrafen",
+      "summary": "Laut Bundesjustizministerin Stefanie Hubig sollen Angriffe auf Mitarbeiter der Bahn härter bestraft werden. Der »Verrohung« müsse etwas entgegengesetzt werden.",
+      "image": "https://img.zeit.de/politik/2026-09/angriffe-bahn-beschaeftigte-strafen-stephanie-hubig-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/2026-09/angriffe-bahn-beschaeftigte-strafen-stephanie-hubig",
+      "published": "Wed, 16 Sep 2026 18:06:27 -0000",
+      "published_display": "16.09.2026 · 18:06 Uhr"
+    },
+    {
+      "title": "US-Wirtschaft: US-Notenbank erhöht erstmals seit Juli 2023 wieder Leitzins",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/us-notenbank-erhoeht-erstmals-seit-juli-2023-wieder-leitzins-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/us-notenbank-erhoeht-erstmals-seit-juli-2023-wieder-leitzins",
+      "published": "Wed, 16 Sep 2026 18:01:58 -0000",
+      "published_display": "16.09.2026 · 18:01 Uhr"
+    },
+    {
+      "title": "Konjunktur: US-Notenbank erhöht erstmals seit Sommer 2023 Leitzins",
+      "summary": "",
+      "image": "",
+      "link": "https://www.zeit.de/news/2026-09/16/us-notenbank-erhoeht-erstmals-seit-sommer-2023-leitzins",
+      "published": "Wed, 16 Sep 2026 18:01:19 -0000",
+      "published_display": "16.09.2026 · 18:01 Uhr"
+    },
+    {
+      "title": "Dinosaurier : Warmblütiger Killer",
+      "summary": "Erstmals ist es gelungen, die Körpertemperatur eines T-Rex zu bestimmen. Das Ergebnis zeigt: Der gewaltige Fleischfresser war weder bei Hitze noch Kälte zu stoppen.",
+      "image": "https://img.zeit.de/2026/40/warmbluetiger-killer-bild-1/original__640x360",
+      "link": "https://www.zeit.de/2026/40/dinosaurier-koerpertemperatur-t-rex-warmblueter-palaeontologie",
+      "published": "Wed, 16 Sep 2026 18:01:02 -0000",
+      "published_display": "16.09.2026 · 18:01 Uhr"
+    },
+    {
+      "title": "Temperaturbestimmung beim Dino: Zahnanalyse bestätigt: Der T. rex war Warmblüter",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/zahnanalyse-bestaetigt-der-t-rex-war-warmblueter-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/zahnanalyse-bestaetigt-der-t-rex-war-warmblueter",
+      "published": "Wed, 16 Sep 2026 18:00:04 -0000",
+      "published_display": "16.09.2026 · 18:00 Uhr"
+    },
     {
       "title": "Funktionär und Trainer: Leichtathletik-Vordenker Fred Eberle gestorben",
       "summary": "",
@@ -33,94 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/16/reeperbahn-festival-blickt-auf-zukunft-der-musikwirtschaft",
       "published": "Wed, 16 Sep 2026 17:39:09 -0000",
       "published_display": "16.09.2026 · 17:39 Uhr"
-    },
-    {
-      "title": "CDU-Ministerpräsidenten: Wie heißt dieser Mann noch gleich?",
-      "summary": "Die Ministerpräsidenten der CDU stärken Bundeskanzler Friedrich Merz den Rücken – oder? Vor allem verdeutlichen sie mit einem bemerkenswerten Manöver ihren Machtanspruch.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/cdu-ministerpraesidenten-friedrich-merz-unterstuetzung-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/cdu-ministerpraesidenten-friedrich-merz-unterstuetzung",
-      "published": "Wed, 16 Sep 2026 17:34:47 -0000",
-      "published_display": "16.09.2026 · 17:34 Uhr"
-    },
-    {
-      "title": "Gazastreifen: Mindestens 21 Tote nach Gebäudeeinsturz in Gaza-Stadt",
-      "summary": "Beim Einsturz eines Wohnhauses in der Nacht sind mindestens 21 Menschen gestorben. Das Gebäude war zuvor im Krieg durch israelische Angriffe beschädigt worden.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/gaza-stadt-gebaeudeeinsturz-palaestinenser-hamas-israel-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/gaza-stadt-gebaeudeeinsturz-palaestinenser-hamas-israel-gxe",
-      "published": "Wed, 16 Sep 2026 17:27:47 -0000",
-      "published_display": "16.09.2026 · 17:27 Uhr"
-    },
-    {
-      "title": "Luftraum in Lettland: Bundeswehr beteiligt sich an Schutz des lettischen Luftraums",
-      "summary": "Lettland hat die Nato-Bündnispartner um Schutz bei den Parlamentswahlen im Oktober gebeten. Die Bundeswehr soll das Land nach gehäuften Drohnenvorfällen unterstützen.",
-      "image": "https://img.zeit.de/politik/2026-09/luftraum-lettland-bundeswehr-eurofighter-parlamentswahl-drohnen-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/2026-09/luftraum-lettland-bundeswehr-eurofighter-parlamentswahl-drohnen",
-      "published": "Wed, 16 Sep 2026 17:20:29 -0000",
-      "published_display": "16.09.2026 · 17:20 Uhr"
-    },
-    {
-      "title": "Nepal: Zahl der Vermissten im Himalaya steigt auf mehr als 6.100",
-      "summary": "Die nepalesischen Behörden korrigieren die Vermisstenzahlen nach der Sturzflut deutlich nach oben. Auch die Zahl der Getöteten dürfte weiter steigen.",
-      "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-09/himalaya-flut-nepal-tibet-langtang-lirung-gletscherabbruch-foto-1/original__640x360",
-      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-09/himalaya-flut-nepal-tibet-langtang-lirung-gletscherabbruch",
-      "published": "Wed, 16 Sep 2026 17:19:01 -0000",
-      "published_display": "16.09.2026 · 17:19 Uhr"
-    },
-    {
-      "title": "Schrottimmobilien: Zehn-Punkte-Plan von Bas und Dobrindt gegen Sozialbetrug",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/regierung-legt-zehn-punkte-plan-zu-sozialbetrug-vor-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/regierung-legt-zehn-punkte-plan-zu-sozialbetrug-vor",
-      "published": "Wed, 16 Sep 2026 17:18:22 -0000",
-      "published_display": "16.09.2026 · 17:18 Uhr"
-    },
-    {
-      "title": "Fußball-Bundesliga: Regionales Bündnis erweitert erneut Engagement bei Werder",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/regionales-buendnis-erweitert-erneut-engagement-bei-werder-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/regionales-buendnis-erweitert-erneut-engagement-bei-werder",
-      "published": "Wed, 16 Sep 2026 17:16:29 -0000",
-      "published_display": "16.09.2026 · 17:16 Uhr"
-    },
-    {
-      "title": "Katholische Kirche: Marx 30 Jahre im Bischofsamt: «Ihr werdet mich nicht los»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/marx-feiert-30-jahre-bischofsamt-reformdiskussion-geplant-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/marx-feiert-30-jahre-bischofsamt-reformdiskussion-geplant",
-      "published": "Wed, 16 Sep 2026 17:15:05 -0000",
-      "published_display": "16.09.2026 · 17:15 Uhr"
-    },
-    {
-      "title": "Mössingen: Leiche in einem Auto am Bahnhof entdeckt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/leiche-in-einem-auto-am-bahnhof-entdeckt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/leiche-in-einem-auto-am-bahnhof-entdeckt",
-      "published": "Wed, 16 Sep 2026 17:12:25 -0000",
-      "published_display": "16.09.2026 · 17:12 Uhr"
-    },
-    {
-      "title": "Ursula von der Leyen: Die Alles-ist-möglich-EU",
-      "summary": "In ihrer State of the Union bietet Ursula von der Leyen Kanada eine »assoziierte Partnerschaft«. Was immer das sein soll: Es klingt groß. Und das könnte es auch werden.",
-      "image": "https://img.zeit.de/politik/2026-09/ursula-von-der-leyen-eu-parlament-rede-europa-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/ursula-von-der-leyen-eu-parlament-rede-europa",
-      "published": "Wed, 16 Sep 2026 17:10:05 -0000",
-      "published_display": "16.09.2026 · 17:10 Uhr"
-    },
-    {
-      "title": "Lehrerin zeigt sich selbst an: Polizei ermittelt gegen Lehrerin: Verdacht einer Sexstraftat",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/polizei-ermittelt-gegen-lehrerin-verdacht-einer-sexstraftat-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/polizei-ermittelt-gegen-lehrerin-verdacht-einer-sexstraftat",
-      "published": "Wed, 16 Sep 2026 17:09:03 -0000",
-      "published_display": "16.09.2026 · 17:09 Uhr"
-    },
-    {
-      "title": "Ursula Heinen-Esser: Was die Energiewende behindert? »Sehnsucht nach der guten alten Zeit!«",
-      "summary": "Sie muss die Energiewende vor der Bundesregierung schützen. Ursula Heinen-Esser ist die Cheflobbyistin für erneuerbare Energien in Berlin – und spürt Gegenwind.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/ursula-heinen-esser-energiewende-bundesregierung-krisenpodcast-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/2026-09/ursula-heinen-esser-energiewende-bundesregierung-krisenpodcast",
-      "published": "Wed, 16 Sep 2026 17:06:16 -0000",
-      "published_display": "16.09.2026 · 17:06 Uhr"
     }
   ]
 }
