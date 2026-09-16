@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-16T22:28:41.396122+00:00",
+  "updated": "2026-09-16T22:43:03.742071+00:00",
   "items": [
+    {
+      "title": "Konflikte: US-Kongress beschließt Gesetz für Russland-Sanktionen",
+      "summary": "",
+      "image": "",
+      "link": "https://www.zeit.de/news/2026-09/17/us-kongress-beschliesst-gesetz-fuer-russland-sanktionen",
+      "published": "Wed, 16 Sep 2026 22:33:44 -0000",
+      "published_display": "16.09.2026 · 22:33 Uhr"
+    },
+    {
+      "title": "Musik: Oktoberfest-Musical feiert München-Premiere",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/oktoberfest-musical-feiert-muenchen-premiere-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/oktoberfest-musical-feiert-muenchen-premiere",
+      "published": "Wed, 16 Sep 2026 22:26:56 -0000",
+      "published_display": "16.09.2026 · 22:26 Uhr"
+    },
     {
       "title": "Wahlarena in Berlin: SPD-Kandidat Krach schließt Koalition mit Linkspartei nicht aus",
       "summary": "In der Wahlarena stritten die Berliner Kandidaten über Mietenpolitik, Steuern und Antisemitismus. Offen bleibt, wer mit wem koalieren könnte. Das Liveblog zum Nachlesen",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/16/evers-attackiert-eralp-wegen-antisemitismus-bei-linken",
       "published": "Wed, 16 Sep 2026 20:11:38 -0000",
       "published_display": "16.09.2026 · 20:11 Uhr"
-    },
-    {
-      "title": "Nepal: Zahl der Vermissten im Himalaya steigt auf mehr als 6.100",
-      "summary": "Die nepalesischen Behörden geben die Vermisstenzahlen nach der Sturzflut deutlich höher an als bisher. Auch die Zahl der Getöteten dürfte weiter steigen.",
-      "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-09/himalaya-flut-nepal-tibet-langtang-lirung-gletscherabbruch-foto-1/original__640x360",
-      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-09/himalaya-flut-nepal-tibet-langtang-lirung-gletscherabbruch",
-      "published": "Wed, 16 Sep 2026 20:09:50 -0000",
-      "published_display": "16.09.2026 · 20:09 Uhr"
-    },
-    {
-      "title": "Landtag: Wölfe in Sachsen können künftig bejagt werden",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/woelfe-in-sachsen-koennen-kuenftig-bejagt-werden-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/woelfe-in-sachsen-koennen-kuenftig-bejagt-werden",
-      "published": "Wed, 16 Sep 2026 20:07:50 -0000",
-      "published_display": "16.09.2026 · 20:07 Uhr"
     }
   ]
 }
