@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-16T19:42:07.768999+00:00",
+  "updated": "2026-09-16T19:54:05.647046+00:00",
   "items": [
+    {
+      "title": "Wahlarena in Berlin: Linkenkandidatin weist Antisemitismusvorwurf zurück",
+      "summary": "Eine Fragestellerin konfrontiert Elif Eralp mit »Intifada«-Rufen bei einer Linken-Veranstaltung. Diese bekennt sich zum Existenzrecht Israels. Das Liveblog",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/wahlarena-berlin-wahl-abgeordnetenhaus-debatte-rbb-live-bild-5/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/wahlarena-berlin-wahl-abgeordnetenhaus-debatte-rbb-live",
+      "published": "Wed, 16 Sep 2026 19:52:26 -0000",
+      "published_display": "16.09.2026 · 19:52 Uhr"
+    },
+    {
+      "title": "TV-Duell Holm gegen Schwesig: Schwesig und Holm streiten über Frauenrechte",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/schwesig-und-holm-streiten-ueber-frauenrechte-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/schwesig-und-holm-streiten-ueber-frauenrechte",
+      "published": "Wed, 16 Sep 2026 19:49:14 -0000",
+      "published_display": "16.09.2026 · 19:49 Uhr"
+    },
     {
       "title": "Mecklenburg-Vorpommern: »Die AfD wird Arbeitsplätze vernichten«",
       "summary": "Beim Thema Wirtschafts- und Arbeitsplätze werden beide Kandidaten emotional. Holm wirft Schwesig vor, »andauernd zu lügen«. Das Liveblog",
@@ -11,12 +27,12 @@
       "published_display": "16.09.2026 · 19:40 Uhr"
     },
     {
-      "title": "Wahlarena in Berlin: Stefan Evers fordert Lehren aus CSD-Anschlag",
-      "summary": "Mehr Sozialpolitik oder Härte gegen Kriminelle? Diese Frage spaltet die Kandidaten. Elif Eralp soll ihre Partei gegen Antisemitismusvorwürfe verteidigen. Das Liveblog",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/wahlarena-berlin-wahl-abgeordnetenhaus-debatte-rbb-live-bild-4/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/wahlarena-berlin-wahl-abgeordnetenhaus-debatte-rbb-live",
-      "published": "Wed, 16 Sep 2026 19:37:09 -0000",
-      "published_display": "16.09.2026 · 19:37 Uhr"
+      "title": "Unfälle: Frontalzusammenstoß in Worms - 63-Jähriger stirbt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/toedlicher-frontalzusammenstoss-in-worms-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/toedlicher-frontalzusammenstoss-in-worms",
+      "published": "Wed, 16 Sep 2026 19:40:33 -0000",
+      "published_display": "16.09.2026 · 19:40 Uhr"
     },
     {
       "title": "Vor der Wahl in Berlin: Grüne für stärkeren Ausbau der Berliner Radwege",
@@ -91,14 +107,6 @@
       "published_display": "16.09.2026 · 19:06 Uhr"
     },
     {
-      "title": "Unfälle: Tödlicher Frontalzusammenstoß in Worms - 63-Jähriger stirbt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/toedlicher-frontalzusammenstoss-in-worms-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/toedlicher-frontalzusammenstoss-in-worms",
-      "published": "Wed, 16 Sep 2026 19:01:03 -0000",
-      "published_display": "16.09.2026 · 19:01 Uhr"
-    },
-    {
       "title": "Gesellschaft in Sachsen-Anhalt: Sie gehören zu den ersten Zielen der AfD",
       "summary": "In Sachsen-Anhalt bereitet sich die demokratische Zivilgesellschaft auf eine AfD-Landesregierung vor. Illusionen macht sich kaum wer. Aber es gibt Trotz und Kampfgeist.",
       "image": "https://img.zeit.de/politik/deutschland/2026-09/gesellschaft-sachsen-anhalt-afd-regierung-landtag-bild-11/original__640x360",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/16/us-notenbank-erhoeht-erstmals-seit-juli-2023-wieder-leitzins",
       "published": "Wed, 16 Sep 2026 19:00:05 -0000",
       "published_display": "16.09.2026 · 19:00 Uhr"
-    },
-    {
-      "title": "Österreich: Kindesmissbrauch: Österreichischer Kabarettist angeklagt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/kindesmissbrauch-oesterreichischer-kabarettist-angeklagt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/kindesmissbrauch-oesterreichischer-kabarettist-angeklagt",
-      "published": "Wed, 16 Sep 2026 18:55:39 -0000",
-      "published_display": "16.09.2026 · 18:55 Uhr"
     }
   ]
 }
