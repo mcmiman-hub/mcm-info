@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-16T23:16:18.711314+00:00",
+  "updated": "2026-09-16T23:29:27.616089+00:00",
   "items": [
+    {
+      "title": "Hilfe für Mütter in Not: Vor 25 Jahren öffnete die erste Babyklappe in Hessen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/vor-25-jahren-oeffnete-die-erste-babyklappe-in-hessen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/vor-25-jahren-oeffnete-die-erste-babyklappe-in-hessen",
+      "published": "Wed, 16 Sep 2026 23:20:04 -0000",
+      "published_display": "16.09.2026 · 23:20 Uhr"
+    },
     {
       "title": "Klimawandel: Analyse: Erderwärmung erhöhte Risiko für Sturzflut im Nepal",
       "summary": "",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/16/dhb-profi-dreimal-am-boden-fuechse-verlieren-topspiel",
       "published": "Wed, 16 Sep 2026 20:35:34 -0000",
       "published_display": "16.09.2026 · 20:35 Uhr"
-    },
-    {
-      "title": "Vor wichtiger Wahl: Berliner Spitzenkandidaten streiten in großem TV-Duell",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/spitzenkandidaten-streiten-in-grossem-tv-duell-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/spitzenkandidaten-streiten-in-grossem-tv-duell",
-      "published": "Wed, 16 Sep 2026 20:24:48 -0000",
-      "published_display": "16.09.2026 · 20:24 Uhr"
     }
   ]
 }
