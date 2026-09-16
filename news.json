@@ -1,22 +1,54 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-16T18:20:11.855779+00:00",
+  "updated": "2026-09-16T18:35:46.983218+00:00",
   "items": [
+    {
+      "title": "Angriffe auf Bahn-Beschäftigte: Bundesjustizministerin will Gewalt gegen Bahnpersonal härter bestrafen",
+      "summary": "Laut Bundesjustizministerin Stefanie Hubig sollen Angriffe auf Mitarbeiter der Bahn härter bestraft werden. Der »Verrohung« müsse etwas entgegengesetzt werden.",
+      "image": "https://img.zeit.de/politik/2026-09/angriffe-bahn-beschaeftigte-strafen-stephanie-hubig-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/2026-09/angriffe-bahn-beschaeftigte-strafen-stephanie-hubig",
+      "published": "Wed, 16 Sep 2026 18:34:41 -0000",
+      "published_display": "16.09.2026 · 18:34 Uhr"
+    },
+    {
+      "title": "Wahlarena in Berlin: »Wir würden auch gern mehr in Bildung und Soziales investieren«",
+      "summary": "Die Wahlarena in Berlin beginnt mit einem Schulterschluss zwischen SPD und CDU. Vorwürfe des BSW weisen Stefan Evers und Steffen Krach zurück. Das Liveblog",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/wahlarena-berlin-wahl-abgeordnetenhaus-debatte-rbb-live-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/wahlarena-berlin-wahl-abgeordnetenhaus-debatte-rbb-live",
+      "published": "Wed, 16 Sep 2026 18:28:18 -0000",
+      "published_display": "16.09.2026 · 18:28 Uhr"
+    },
     {
       "title": "Federal Reserve: US-Notenbank erhöht erstmals seit 2023 den Leitzins",
       "summary": "Die Fed setzt der steigenden Inflation einen um 0,25 Prozentpunkte höheren Leitzins entgegen. US-Präsident Donald Trump dürfte die Entscheidung nicht gefallen.",
       "image": "https://img.zeit.de/politik/ausland/2026-09/us-notenbank-erhoeht-erstmals-seit-2023-den-leitzins-bild/original__640x360",
       "link": "https://www.zeit.de/wirtschaft/2026-09/us-notenbank-erhoeht-erstmals-seit-2023-den-leitzins",
-      "published": "Wed, 16 Sep 2026 18:17:40 -0000",
-      "published_display": "16.09.2026 · 18:17 Uhr"
+      "published": "Wed, 16 Sep 2026 18:24:20 -0000",
+      "published_display": "16.09.2026 · 18:24 Uhr"
     },
     {
-      "title": "Wahlarena in Berlin: Die letzte Diskussionsrunde vor der Berlin-Wahl",
-      "summary": "Ein letztes Mal vor der Wahl am Sonntag treffen die Berliner Spitzenkandidaten aufeinander. Wer überzeugt in der Fragerunde mit Bürgerinnen und Bürgern? Das Liveblog",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/landtagswahl-berlin-liveblog/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/wahlarena-berlin-wahl-abgeordnetenhaus-debatte-rbb-live",
-      "published": "Wed, 16 Sep 2026 18:15:53 -0000",
-      "published_display": "16.09.2026 · 18:15 Uhr"
+      "title": "Herzgesundheit: »Licht ist ein Risikofaktor wie Rauchen«",
+      "summary": "Schon wenig Licht während des Schlafs schadet dem Herzen messbar, das zeigt eine neue Studie. Der Kardiologe Thomas Münzel erklärt, welche Auswirkungen das haben kann.",
+      "image": "https://img.zeit.de/gesundheit/2026-09/herzgesundheit-kardiologie-licht-herzmuskel-studie-bild/original__640x360",
+      "link": "https://www.zeit.de/gesundheit/2026-09/herzgesundheit-kardiologie-licht-herzmuskel-studie",
+      "published": "Wed, 16 Sep 2026 18:23:59 -0000",
+      "published_display": "16.09.2026 · 18:23 Uhr"
+    },
+    {
+      "title": "Fußball: Hoffenheims Europa-Reise beginnt mit Pannen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/hoffenheims-europa-reise-beginnt-mit-pannen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/hoffenheims-europa-reise-beginnt-mit-pannen",
+      "published": "Wed, 16 Sep 2026 18:23:34 -0000",
+      "published_display": "16.09.2026 · 18:23 Uhr"
+    },
+    {
+      "title": "Schrottimmobilien: Zehn-Punkte-Plan von Bas und Dobrindt gegen Sozialbetrug",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/regierung-legt-zehn-punkte-plan-zu-sozialbetrug-vor-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/regierung-legt-zehn-punkte-plan-zu-sozialbetrug-vor",
+      "published": "Wed, 16 Sep 2026 18:22:40 -0000",
+      "published_display": "16.09.2026 · 18:22 Uhr"
     },
     {
       "title": "Vor den Midterms: Wegen Hegseth? US-Repräsentantenhaus zieht Ferien vor",
@@ -49,14 +81,6 @@
       "link": "https://www.zeit.de/news/2026-09/16/ki-fuehrt-zu-deutlich-mehr-klagen-bei-sozialgerichten",
       "published": "Wed, 16 Sep 2026 18:08:41 -0000",
       "published_display": "16.09.2026 · 18:08 Uhr"
-    },
-    {
-      "title": "Angriffe auf Bahn-Beschäftigte: Bundesjustizministerin will Gewalt gegen Bahnpersonal härter bestrafen",
-      "summary": "Laut Bundesjustizministerin Stefanie Hubig sollen Angriffe auf Mitarbeiter der Bahn härter bestraft werden. Der »Verrohung« müsse etwas entgegengesetzt werden.",
-      "image": "https://img.zeit.de/politik/2026-09/angriffe-bahn-beschaeftigte-strafen-stephanie-hubig-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/2026-09/angriffe-bahn-beschaeftigte-strafen-stephanie-hubig",
-      "published": "Wed, 16 Sep 2026 18:06:27 -0000",
-      "published_display": "16.09.2026 · 18:06 Uhr"
     },
     {
       "title": "US-Wirtschaft: US-Notenbank erhöht erstmals seit Juli 2023 wieder Leitzins",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/16/leichtathletik-vordenker-fred-eberle-gestorben",
       "published": "Wed, 16 Sep 2026 17:51:46 -0000",
       "published_display": "16.09.2026 · 17:51 Uhr"
-    },
-    {
-      "title": "Europa League: Leverkusens Top-Transfer Doué fällt lange aus",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/leverkusens-top-transfer-dou-faellt-lange-aus-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/leverkusens-top-transfer-dou-faellt-lange-aus",
-      "published": "Wed, 16 Sep 2026 17:46:36 -0000",
-      "published_display": "16.09.2026 · 17:46 Uhr"
-    },
-    {
-      "title": "Atomenergie: Grenznaher Reaktor in Tschechien außerplanmäßig abgeschaltet",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/grenznaher-reaktor-in-tschechien-ausserplanmaessig-abgeschaltet-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/grenznaher-reaktor-in-tschechien-ausserplanmaessig-abgeschaltet",
-      "published": "Wed, 16 Sep 2026 17:40:36 -0000",
-      "published_display": "16.09.2026 · 17:40 Uhr"
-    },
-    {
-      "title": "Clubfestival in Hamburg: «Elefant im Raum» prägt Startschuss für Reeperbahn-Festival",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/reeperbahn-festival-blickt-auf-zukunft-der-musikwirtschaft-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/reeperbahn-festival-blickt-auf-zukunft-der-musikwirtschaft",
-      "published": "Wed, 16 Sep 2026 17:39:09 -0000",
-      "published_display": "16.09.2026 · 17:39 Uhr"
     }
   ]
 }
