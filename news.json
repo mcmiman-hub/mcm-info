@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-17T01:17:41.170348+00:00",
+  "updated": "2026-09-17T01:30:00.175231+00:00",
   "items": [
+    {
+      "title": "Krieg gegen die Ukraine: Russland greift erneut Odessa und Kyjiw an",
+      "summary": "Augenzeugen berichten von schweren Explosionen in der ukrainischen Hauptstadt. In der Hafenstadt Odessa wurden Behörden zufolge mehrere Menschen verletzt. Das Liveblog",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/krieg-ukraine-russland-angriffe-odessa-kyjiw-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "published": "Thu, 17 Sep 2026 01:20:38 -0000",
+      "published_display": "17.09.2026 · 01:20 Uhr"
+    },
     {
       "title": "Krieg gegen die Ukraine: US-Kongress beschließt härtere Sanktionen gegen Russland",
       "summary": "Nach dem Senat stimmte auch das Repräsentantenhaus neuen Strafmaßnahmen zu. Die Sanktionen sollen Russlands Präsident Wladimir Putin und die Ölexporte des Landes treffen.",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/17/analyse-erderwaermung-erhoehte-risiko-fuer-sturzflut-im-nepal",
       "published": "Wed, 16 Sep 2026 23:01:05 -0000",
       "published_display": "16.09.2026 · 23:01 Uhr"
-    },
-    {
-      "title": "Krieg gegen die Ukraine: US-Kongress bewilligt härtere Sanktionen gegen Russland",
-      "summary": "Erstmals seit Beginn der zweiten Amtszeit von Donald Trump verhängen die USA neue Strafmaßnahmen gegen Russland. Der Präsident muss noch unterschreiben. Das Liveblog",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/usa-kongress-sanktionen-russland-beschlossen-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "published": "Wed, 16 Sep 2026 23:00:49 -0000",
-      "published_display": "16.09.2026 · 23:00 Uhr"
     }
   ]
 }
