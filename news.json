@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-17T20:42:59.102914+00:00",
+  "updated": "2026-09-17T20:54:15.598220+00:00",
   "items": [
+    {
+      "title": "ZDF-Politbarometer Extra: SPD überholt AfD in Mecklenburg-Vorpommern knapp",
+      "summary": "Vor der Landtagswahl in Mecklenburg-Vorpommern liegen die Sozialdemokraten in einer Umfrage knapp vor der AfD. CDU und Grünen kämen demnach ins Parlament, das BSW nicht.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/landtagswahl-mecklenburg-vorpommern-spd-afd-cdu-umfrage-zdf-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/landtagswahl-mecklenburg-vorpommern-spd-afd-cdu-umfrage-zdf",
+      "published": "Thu, 17 Sep 2026 20:48:27 -0000",
+      "published_display": "17.09.2026 · 20:48 Uhr"
+    },
+    {
+      "title": "Neue Erhebung: Umfrage: Linke knapp vor CDU bei Berlin-Wahl",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/umfrage-linke-knapp-vor-cdu-bei-berlin-wahl-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/umfrage-linke-knapp-vor-cdu-bei-berlin-wahl",
+      "published": "Thu, 17 Sep 2026 20:45:28 -0000",
+      "published_display": "17.09.2026 · 20:45 Uhr"
+    },
     {
       "title": "Krieg gegen die Ukraine: Ursula von der Leyen kündigt Milliardenzahlung an Ukraine an",
       "summary": "Die EU zahlt der Ukraine 3,3 Milliarden Euro für Raketen und Drohnen. Polens Ministerpräsident Donald Tusk rechnet mit mehr Drohnenangriffen aus Russland. Das Liveblog",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/17/melsungen-verliert-bei-polnischem-spitzenteam-plock",
       "published": "Thu, 17 Sep 2026 18:41:25 -0000",
       "published_display": "17.09.2026 · 18:41 Uhr"
-    },
-    {
-      "title": "CDU und Linke: Klare Kante zur Linken - CDU-Mann Müller kritisiert Gysi",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/klare-kante-zur-linken-cdu-mann-mueller-kritisiert-gysi-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/klare-kante-zur-linken-cdu-mann-mueller-kritisiert-gysi",
-      "published": "Thu, 17 Sep 2026 18:40:34 -0000",
-      "published_display": "17.09.2026 · 18:40 Uhr"
-    },
-    {
-      "title": "Fußball-Europa-League: Fehlstart auf Urlaubsinsel: Hoffenheim kassiert 0:2-Schlappe",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/fehlstart-auf-urlaubsinsel-hoffenheim-kassiert-0-2-schlappe-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/fehlstart-auf-urlaubsinsel-hoffenheim-kassiert-0-2-schlappe",
-      "published": "Thu, 17 Sep 2026 18:37:45 -0000",
-      "published_display": "17.09.2026 · 18:37 Uhr"
     }
   ]
 }
