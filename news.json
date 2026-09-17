@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-17T00:49:22.930145+00:00",
+  "updated": "2026-09-17T00:59:45.704131+00:00",
   "items": [
+    {
+      "title": "Künstliche Intelligenz: OpenAI macht weitere KI-Probleme öffentlich",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/openai-macht-weitere-ki-probleme-oeffentlich-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/openai-macht-weitere-ki-probleme-oeffentlich",
+      "published": "Thu, 17 Sep 2026 00:47:55 -0000",
+      "published_display": "17.09.2026 · 00:47 Uhr"
+    },
     {
       "title": "Krieg gegen die Ukraine: US-Kongress beschließt Gesetz für Sanktionen gegen Russland",
       "summary": "Nach dem Senat stimmte auch das Repräsentantenhaus neuen Strafmaßnahmen zu. Die Sanktionen sollen Russlands Präsident Wladimir Putin und die Ölexporte des Landes treffen.",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/politik/deutschland/2026-09/wahlarena-berlin-wahl-abgeordnetenhaus-debatte-rbb-live",
       "published": "Wed, 16 Sep 2026 22:21:09 -0000",
       "published_display": "16.09.2026 · 22:21 Uhr"
-    },
-    {
-      "title": "Federal Reserve: US-Notenbank erhöht erstmals seit 2023 den Leitzins",
-      "summary": "Die Fed setzt der steigenden Inflation einen um 0,25 Prozentpunkte höheren Leitzins entgegen. US-Präsident Donald Trump kritisiert die Entscheidung.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/us-notenbank-erhoeht-erstmals-seit-2023-den-leitzins-bild/original__640x360",
-      "link": "https://www.zeit.de/wirtschaft/2026-09/us-notenbank-erhoeht-erstmals-seit-2023-den-leitzins",
-      "published": "Wed, 16 Sep 2026 22:07:19 -0000",
-      "published_display": "16.09.2026 · 22:07 Uhr"
     }
   ]
 }
