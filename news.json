@@ -1,7 +1,103 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-17T09:32:24.957926+00:00",
+  "updated": "2026-09-17T09:45:14.630943+00:00",
   "items": [
+    {
+      "title": "Rede von Mark Carney: Jetzt live: Mark Carney vor dem EU-Parlament",
+      "summary": "EU-Kommissionspräsidentin Ursula von der Leyen will eine »assoziierte Mitgliedschaft« Kanadas. Wie reagiert dessen Premier? Verfolgen Sie hier seine Rede in Strasbourg.",
+      "image": "https://img.zeit.de/video/2026-09/carney-eu-2/original__640x360",
+      "link": "https://www.zeit.de/video/2026-09/eu-parlament-rede-kanadischer-premierminister-mark-carney-live",
+      "published": "Thu, 17 Sep 2026 09:43:57 -0000",
+      "published_display": "17.09.2026 · 09:43 Uhr"
+    },
+    {
+      "title": "Glücksspiel: Sechs Euro Einsatz - Lottospieler gewinnt 50 Millionen Euro",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/lottospieler-aus-mv-gewinnt-50-millionen-euro-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/lottospieler-aus-mv-gewinnt-50-millionen-euro",
+      "published": "Thu, 17 Sep 2026 09:42:41 -0000",
+      "published_display": "17.09.2026 · 09:42 Uhr"
+    },
+    {
+      "title": "Bundesgerichtshof: BGH fragt EuGH: Wann greifen Datenschutzregeln im Privaten?",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/bgh-fragt-eugh-wann-greifen-datenschutzregeln-im-privaten-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/bgh-fragt-eugh-wann-greifen-datenschutzregeln-im-privaten",
+      "published": "Thu, 17 Sep 2026 09:41:07 -0000",
+      "published_display": "17.09.2026 · 09:41 Uhr"
+    },
+    {
+      "title": "Statistik: Einwanderung stoppt Rückgang des Anteils von Familien",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/einwanderung-stoppt-rueckgang-des-anteils-von-familien-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/einwanderung-stoppt-rueckgang-des-anteils-von-familien",
+      "published": "Thu, 17 Sep 2026 09:40:54 -0000",
+      "published_display": "17.09.2026 · 09:40 Uhr"
+    },
+    {
+      "title": "Statistik: Weniger Geburten in Niedersachsen im vergangenen Jahr",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/weniger-geburten-in-niedersachsen-im-vergangenen-jahr-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/weniger-geburten-in-niedersachsen-im-vergangenen-jahr",
+      "published": "Thu, 17 Sep 2026 09:38:46 -0000",
+      "published_display": "17.09.2026 · 09:38 Uhr"
+    },
+    {
+      "title": "Bürgerschaft: AfD-Überprüfung - Rot-Grün und Linke für Bund-Länder-Gruppe",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/afd-ueberpruefung-rot-gruen-und-linke-fuer-bund-laender-gruppe-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/afd-ueberpruefung-rot-gruen-und-linke-fuer-bund-laender-gruppe",
+      "published": "Thu, 17 Sep 2026 09:38:02 -0000",
+      "published_display": "17.09.2026 · 09:38 Uhr"
+    },
+    {
+      "title": "Europa League: «Luft nach oben»: Leverkusen zwischen Sieg und Selbstkritik",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/luft-nach-oben-leverkusen-zwischen-sieg-und-selbstkritik-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/luft-nach-oben-leverkusen-zwischen-sieg-und-selbstkritik",
+      "published": "Thu, 17 Sep 2026 09:37:50 -0000",
+      "published_display": "17.09.2026 · 09:37 Uhr"
+    },
+    {
+      "title": "Keine Verletzten: Auto fährt auf Demonstranten zu - und dreht ab",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/auto-faehrt-auf-demonstranten-zu-und-dreht-ab-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/auto-faehrt-auf-demonstranten-zu-und-dreht-ab",
+      "published": "Thu, 17 Sep 2026 09:36:50 -0000",
+      "published_display": "17.09.2026 · 09:36 Uhr"
+    },
+    {
+      "title": "Bundestrainer: Jürgen Klopp spricht sich für »positiven Patriotismus« aus",
+      "summary": "»Ich würde mir oder uns gerne die Fahne zurückholen«: Bundestrainer Klopp will Bekenntnisse zu Deutschland nach eigenen Worten »nicht den falschen Leuten überlassen«.",
+      "image": "https://img.zeit.de/sport/2026-09/juergen-klopp-rede-bundestrainer-patriotismus-nationalstolz-afd-foto-1/original__640x360",
+      "link": "https://www.zeit.de/sport/2026-09/juergen-klopp-rede-bundestrainer-patriotismus-nationalstolz-afd",
+      "published": "Thu, 17 Sep 2026 09:36:05 -0000",
+      "published_display": "17.09.2026 · 09:36 Uhr"
+    },
+    {
+      "title": "Leichenfund auf Parkplatz: Mann liegt mehrere Tage tot in Auto",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/polizei-toter-lag-mehrere-tage-in-abgestelltem-auto-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/polizei-toter-lag-mehrere-tage-in-abgestelltem-auto",
+      "published": "Thu, 17 Sep 2026 09:30:57 -0000",
+      "published_display": "17.09.2026 · 09:30 Uhr"
+    },
+    {
+      "title": "Nach neuem Gesetzentwurf: EVG zieht Streikdrohung im Nahverkehr zurück",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/evg-zieht-streikdrohung-im-nahverkehr-zurueck-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/evg-zieht-streikdrohung-im-nahverkehr-zurueck",
+      "published": "Thu, 17 Sep 2026 09:30:54 -0000",
+      "published_display": "17.09.2026 · 09:30 Uhr"
+    },
+    {
+      "title": "Energie: Weiterer Großauftrag für Windstrom-Plattform geht nach MV",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/weiterer-grossauftrag-fuer-windstrom-plattform-geht-nach-mv-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/weiterer-grossauftrag-fuer-windstrom-plattform-geht-nach-mv",
+      "published": "Thu, 17 Sep 2026 09:30:04 -0000",
+      "published_display": "17.09.2026 · 09:30 Uhr"
+    },
     {
       "title": "Polizei ermittelt: Attacke mit Stühlen – Mann in Eisenbahnstraße verletzt",
       "summary": "",
@@ -25,102 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/17/toedlicher-schuss-auf-jaeger-er-war-mein-bester-freund",
       "published": "Thu, 17 Sep 2026 09:28:00 -0000",
       "published_display": "17.09.2026 · 09:28 Uhr"
-    },
-    {
-      "title": "Fotografie: Bilder des Tages",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/bilder-des-tages-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/bilder-des-tages",
-      "published": "Thu, 17 Sep 2026 09:27:29 -0000",
-      "published_display": "17.09.2026 · 09:27 Uhr"
-    },
-    {
-      "title": "Kommunalwahlen: Unbesetzte Sitze – AfD beklagt Druck auf Kandidaten",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/unbesetzte-sitze-afd-beklagt-druck-auf-kandidaten-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/unbesetzte-sitze-afd-beklagt-druck-auf-kandidaten",
-      "published": "Thu, 17 Sep 2026 09:26:39 -0000",
-      "published_display": "17.09.2026 · 09:26 Uhr"
-    },
-    {
-      "title": "Weltraum: Nasa-Forscher entdecken riesigen neu entstandenen Mondkrater",
-      "summary": "Weltraumforscher haben einen erst kürzlich entstandenen Krater auf dem Mond entdeckt. Dieser sei größer als das Kolosseum in Rom. Es handle sich um einen Jahrhundertfund.",
-      "image": "https://img.zeit.de/wissenschaft/2026-09/mond-krater-mcgetchin-nasa-meteoriteneinschlag-foto-1/original__640x360",
-      "link": "https://www.zeit.de/wissenschaft/2026-09/mond-krater-mcgetchin-nasa-meteoriteneinschlag",
-      "published": "Thu, 17 Sep 2026 09:24:49 -0000",
-      "published_display": "17.09.2026 · 09:24 Uhr"
-    },
-    {
-      "title": "Autoindustrie: IG Metall plant in 50 Unternehmen Protest gegen Stellenabbau",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/ig-metall-plant-in-50-unternehmen-protest-gegen-stellenabbau-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/ig-metall-plant-in-50-unternehmen-protest-gegen-stellenabbau",
-      "published": "Thu, 17 Sep 2026 09:23:22 -0000",
-      "published_display": "17.09.2026 · 09:23 Uhr"
-    },
-    {
-      "title": "Störung im U-Bahnverkehr: Brand in Technikraum: U-Bahnlinien in City-West unterbrochen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/brand-am-sicherungskasten-stoppt-u-bahnen-in-berlin-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/brand-am-sicherungskasten-stoppt-u-bahnen-in-berlin",
-      "published": "Thu, 17 Sep 2026 09:20:56 -0000",
-      "published_display": "17.09.2026 · 09:20 Uhr"
-    },
-    {
-      "title": "Real Madrid: Mbappé wehrt sich gegen Kritik nach Shirt-Aktion zu Ceuta",
-      "summary": "Rechtsextreme Kreise haben ein Solidaritätsshirt für Migranten in Ceuta angeprangert, das Kylian Mbappé vor einem Spiel trug. Der Madrid-Spieler wies die Kritik zurück.",
-      "image": "https://img.zeit.de/sport/2026-09/ceuta-real-madrid-kylian-mbappe-vinicius-junior-ibrahima-konate-solidaritaet-foto-1/original__640x360",
-      "link": "https://www.zeit.de/sport/2026-09/ceuta-real-madrid-kylian-mbappe-vinicius-junior-ibrahima-konate-solidaritaet",
-      "published": "Thu, 17 Sep 2026 09:19:52 -0000",
-      "published_display": "17.09.2026 · 09:19 Uhr"
-    },
-    {
-      "title": "Großeinsatz der Feuerwehr: Feuerwehr löscht Brand auf einem Mannheimer Recyclinghof",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/fenster-schliessen-brand-auf-einem-mannheimer-recyclinghof-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/fenster-schliessen-brand-auf-einem-mannheimer-recyclinghof",
-      "published": "Thu, 17 Sep 2026 09:16:40 -0000",
-      "published_display": "17.09.2026 · 09:16 Uhr"
-    },
-    {
-      "title": "Soziale Medien: EU-Kommission: Apps für Kinder müssen sicher sein",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/eu-kommission-apps-fuer-kinder-muessen-sicher-sein-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/eu-kommission-apps-fuer-kinder-muessen-sicher-sein",
-      "published": "Thu, 17 Sep 2026 09:16:25 -0000",
-      "published_display": "17.09.2026 · 09:16 Uhr"
-    },
-    {
-      "title": "Vor wichtiger Wahl: Palästinenser-Anstecker bei TV-Runde sorgt für Diskussionen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/palaestinenser-anstecker-bei-tv-runde-sorgt-fuer-diskussionen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/palaestinenser-anstecker-bei-tv-runde-sorgt-fuer-diskussionen",
-      "published": "Thu, 17 Sep 2026 09:14:39 -0000",
-      "published_display": "17.09.2026 · 09:14 Uhr"
-    },
-    {
-      "title": "Fußball-Nationalmannschaft: Ter Stegen ist Klopps Nummer eins - Urbig winkt Debüt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/ter-stegen-ist-klopps-nummer-eins-urbig-winkt-debuet-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/ter-stegen-ist-klopps-nummer-eins-urbig-winkt-debuet",
-      "published": "Thu, 17 Sep 2026 09:13:53 -0000",
-      "published_display": "17.09.2026 · 09:13 Uhr"
-    },
-    {
-      "title": "Insekt im Auto: Frau ekelt sich vor Spinne und fährt gegen Mauer",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/frau-ekelt-sich-vor-spinne-und-faehrt-gegen-mauer-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/frau-ekelt-sich-vor-spinne-und-faehrt-gegen-mauer",
-      "published": "Thu, 17 Sep 2026 09:13:14 -0000",
-      "published_display": "17.09.2026 · 09:13 Uhr"
-    },
-    {
-      "title": "Statistik: Schuldenberg der Kommunen in Sachsen-Anhalt wächst weiter",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/schuldenberg-der-kommunen-in-sachsen-anhalt-waechst-weiter-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/schuldenberg-der-kommunen-in-sachsen-anhalt-waechst-weiter",
-      "published": "Thu, 17 Sep 2026 09:10:53 -0000",
-      "published_display": "17.09.2026 · 09:10 Uhr"
     }
   ]
 }
