@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-17T19:42:32.670719+00:00",
+  "updated": "2026-09-17T19:54:35.854453+00:00",
   "items": [
+    {
+      "title": "Wahl zum Abgeordnetenhaus: Kochen oder schlafen - das wünschen sich die Kandidaten",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/kochen-oder-schlafen-das-wuenschen-sich-die-kandidaten-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/kochen-oder-schlafen-das-wuenschen-sich-die-kandidaten",
+      "published": "Thu, 17 Sep 2026 19:46:30 -0000",
+      "published_display": "17.09.2026 · 19:46 Uhr"
+    },
     {
       "title": "Krieg gegen die Ukraine: Ursula von der Leyen kündigt Milliardenzahlung an Ukraine an",
       "summary": "Die EU zahlt der Ukraine 3,3 Milliarden Euro für Raketen und Drohnen. Die Ukraine plant, 2027 so viel für Verteidigung auszugeben, wie noch nie zuvor. Das Liveblog",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-09/brandanschlag-synagoge-wuppertal-juedische-gemeinde-antisemitismus-gxe",
       "published": "Thu, 17 Sep 2026 18:29:27 -0000",
       "published_display": "17.09.2026 · 18:29 Uhr"
-    },
-    {
-      "title": "Vor wichtiger Wahl: Kanzler schließt seinen Wahlkampf mit einem Heimspiel ab",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/kanzler-schliesst-seinen-wahlkampf-mit-einem-heimspiel-ab-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/kanzler-schliesst-seinen-wahlkampf-mit-einem-heimspiel-ab",
-      "published": "Thu, 17 Sep 2026 18:27:10 -0000",
-      "published_display": "17.09.2026 · 18:27 Uhr"
     }
   ]
 }
