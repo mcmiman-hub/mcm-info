@@ -1,7 +1,103 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-17T09:45:14.630943+00:00",
+  "updated": "2026-09-17T09:55:47.552603+00:00",
   "items": [
+    {
+      "title": "Wahlplakate in Berlin: Berlin sucht Subjekt, Prädikat, Objekt",
+      "summary": "»Die können ja nicht mal Grammatik«, sagt mein Sohn, als er die Plakate zur Berlin-Wahl sieht. Und schlägt vor, den Pisa-Test mal in den Parteien zu machen.",
+      "image": "https://img.zeit.de/feuilleton/2026-09/wahlplakate-berlin-abgeordnetenhaus-vater-sohn-sprache-bild-04/original__640x360",
+      "link": "https://www.zeit.de/feuilleton/2026-09/wahlplakate-berlin-abgeordnetenhaus-vater-sohn-sprache",
+      "published": "Thu, 17 Sep 2026 09:52:43 -0000",
+      "published_display": "17.09.2026 · 09:52 Uhr"
+    },
+    {
+      "title": "Real Madrid: Mbappé wehrt sich gegen Kritik nach Shirt-Aktion zu Ceuta",
+      "summary": "Rechtsextreme Kreise haben ein Solidaritätsshirt für Migranten in Ceuta angeprangert, das Kylian Mbappé vor einem Spiel trug. Der Madrid-Spieler wies die Kritik zurück.",
+      "image": "https://img.zeit.de/sport/2026-09/ceuta-real-madrid-kylian-mbappe-vinicius-junior-ibrahima-konate-solidaritaet-foto-1/original__640x360",
+      "link": "https://www.zeit.de/sport/2026-09/ceuta-real-madrid-kylian-mbappe-vinicius-junior-ibrahima-konate-solidaritaet",
+      "published": "Thu, 17 Sep 2026 09:52:08 -0000",
+      "published_display": "17.09.2026 · 09:52 Uhr"
+    },
+    {
+      "title": "Deutsche Bahn: Evelyn Palla begrüßt härtere Strafen bei Attacken auf Bahnmitarbeiter",
+      "summary": "Stefanie Hubig will Angriffe auf Bahnmitarbeiter härter bestrafen. Das sei »enorm wichtig«, sagt Bahnchefin Palla. Die Gewerkschaft EVG will auf Streiks verzichten.",
+      "image": "https://img.zeit.de/mobilitaet/2026-09/angriffe-bahn-beschaeftigte-strafen-stefanie-hubig-foto-1/original__640x360",
+      "link": "https://www.zeit.de/mobilitaet/2026-09/angriffe-bahn-beschaeftigte-strafen-stefanie-hubig",
+      "published": "Thu, 17 Sep 2026 09:50:42 -0000",
+      "published_display": "17.09.2026 · 09:50 Uhr"
+    },
+    {
+      "title": "Großeinsatz: Feuerwehr löscht Brand auf Mannheimer Recyclinghof",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/fenster-schliessen-brand-auf-einem-mannheimer-recyclinghof-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/fenster-schliessen-brand-auf-einem-mannheimer-recyclinghof",
+      "published": "Thu, 17 Sep 2026 09:50:03 -0000",
+      "published_display": "17.09.2026 · 09:50 Uhr"
+    },
+    {
+      "title": "Fremdeinwirkung ausgeschlossen: Zug rammt umgestürzten Baum - keine Fahrgäste verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/zug-rammt-umgestuerzten-baum-keine-fahrgaeste-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/zug-rammt-umgestuerzten-baum-keine-fahrgaeste-verletzt",
+      "published": "Thu, 17 Sep 2026 09:49:41 -0000",
+      "published_display": "17.09.2026 · 09:49 Uhr"
+    },
+    {
+      "title": "Mordprozess: Erzieher sah Fabian «freudestrahlend» am Vortag seines Todes",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/erzieher-sah-fabian-freudestrahlend-am-vortag-seines-todes-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/erzieher-sah-fabian-freudestrahlend-am-vortag-seines-todes",
+      "published": "Thu, 17 Sep 2026 09:49:38 -0000",
+      "published_display": "17.09.2026 · 09:49 Uhr"
+    },
+    {
+      "title": "Teuerung: Inflation im Euroraum leicht niedriger als zunächst angenommen",
+      "summary": "Die Verbraucherpreise in der Eurozone sind im August um 3,2 Prozent gestiegen. Inflationstreiber sind die Energiepreise, die sich um mehr als 14 Prozent erhöhten.",
+      "image": "https://img.zeit.de/wirtschaft/2026-09/inflation-eurozone-energie-ezb-leitzins-foto-1/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/2026-09/inflation-eurozone-energie-ezb-leitzins",
+      "published": "Thu, 17 Sep 2026 09:49:08 -0000",
+      "published_display": "17.09.2026 · 09:49 Uhr"
+    },
+    {
+      "title": "Nach neuem Gesetzentwurf: EVG zieht Streikdrohung im Nahverkehr zurück",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/evg-zieht-streikdrohung-im-nahverkehr-zurueck-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/evg-zieht-streikdrohung-im-nahverkehr-zurueck",
+      "published": "Thu, 17 Sep 2026 09:46:40 -0000",
+      "published_display": "17.09.2026 · 09:46 Uhr"
+    },
+    {
+      "title": "Fußball-Nationalmannschaft: Klopps eindringliches Plädoyer: «Die Fahne zurückholen»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/klopps-eindringliches-plaedoyer-die-fahne-zurueckholen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/klopps-eindringliches-plaedoyer-die-fahne-zurueckholen",
+      "published": "Thu, 17 Sep 2026 09:46:38 -0000",
+      "published_display": "17.09.2026 · 09:46 Uhr"
+    },
+    {
+      "title": "Verfassungsbeschwerde: Wohnungsdurchsuchung in Nürnberg war nicht rechtens",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/wohnungsdurchsuchung-in-nuernberg-war-nicht-rechtens-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/wohnungsdurchsuchung-in-nuernberg-war-nicht-rechtens",
+      "published": "Thu, 17 Sep 2026 09:45:32 -0000",
+      "published_display": "17.09.2026 · 09:45 Uhr"
+    },
+    {
+      "title": "Anteilnahme: Nach dem Tod von Ralf Richter: Spendenaktion für Beisetzung",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/nach-dem-tod-von-ralf-richter-spendenaktion-fuer-beisetzung-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/nach-dem-tod-von-ralf-richter-spendenaktion-fuer-beisetzung",
+      "published": "Thu, 17 Sep 2026 09:44:34 -0000",
+      "published_display": "17.09.2026 · 09:44 Uhr"
+    },
+    {
+      "title": "Nationalmannschaft: Mit Ebnoutalib: Eintracht-Trio bei Nationalmannschaft",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/mit-ebnoutalib-eintracht-trio-bei-nationalmannschaft-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/mit-ebnoutalib-eintracht-trio-bei-nationalmannschaft",
+      "published": "Thu, 17 Sep 2026 09:44:28 -0000",
+      "published_display": "17.09.2026 · 09:44 Uhr"
+    },
     {
       "title": "Rede von Mark Carney: Jetzt live: Mark Carney vor dem EU-Parlament",
       "summary": "EU-Kommissionspräsidentin Ursula von der Leyen will eine »assoziierte Mitgliedschaft« Kanadas. Wie reagiert dessen Premier? Verfolgen Sie hier seine Rede in Strasbourg.",
@@ -25,102 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/17/bgh-fragt-eugh-wann-greifen-datenschutzregeln-im-privaten",
       "published": "Thu, 17 Sep 2026 09:41:07 -0000",
       "published_display": "17.09.2026 · 09:41 Uhr"
-    },
-    {
-      "title": "Statistik: Einwanderung stoppt Rückgang des Anteils von Familien",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/einwanderung-stoppt-rueckgang-des-anteils-von-familien-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/einwanderung-stoppt-rueckgang-des-anteils-von-familien",
-      "published": "Thu, 17 Sep 2026 09:40:54 -0000",
-      "published_display": "17.09.2026 · 09:40 Uhr"
-    },
-    {
-      "title": "Statistik: Weniger Geburten in Niedersachsen im vergangenen Jahr",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/weniger-geburten-in-niedersachsen-im-vergangenen-jahr-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/weniger-geburten-in-niedersachsen-im-vergangenen-jahr",
-      "published": "Thu, 17 Sep 2026 09:38:46 -0000",
-      "published_display": "17.09.2026 · 09:38 Uhr"
-    },
-    {
-      "title": "Bürgerschaft: AfD-Überprüfung - Rot-Grün und Linke für Bund-Länder-Gruppe",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/afd-ueberpruefung-rot-gruen-und-linke-fuer-bund-laender-gruppe-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/afd-ueberpruefung-rot-gruen-und-linke-fuer-bund-laender-gruppe",
-      "published": "Thu, 17 Sep 2026 09:38:02 -0000",
-      "published_display": "17.09.2026 · 09:38 Uhr"
-    },
-    {
-      "title": "Europa League: «Luft nach oben»: Leverkusen zwischen Sieg und Selbstkritik",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/luft-nach-oben-leverkusen-zwischen-sieg-und-selbstkritik-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/luft-nach-oben-leverkusen-zwischen-sieg-und-selbstkritik",
-      "published": "Thu, 17 Sep 2026 09:37:50 -0000",
-      "published_display": "17.09.2026 · 09:37 Uhr"
-    },
-    {
-      "title": "Keine Verletzten: Auto fährt auf Demonstranten zu - und dreht ab",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/auto-faehrt-auf-demonstranten-zu-und-dreht-ab-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/auto-faehrt-auf-demonstranten-zu-und-dreht-ab",
-      "published": "Thu, 17 Sep 2026 09:36:50 -0000",
-      "published_display": "17.09.2026 · 09:36 Uhr"
-    },
-    {
-      "title": "Bundestrainer: Jürgen Klopp spricht sich für »positiven Patriotismus« aus",
-      "summary": "»Ich würde mir oder uns gerne die Fahne zurückholen«: Bundestrainer Klopp will Bekenntnisse zu Deutschland nach eigenen Worten »nicht den falschen Leuten überlassen«.",
-      "image": "https://img.zeit.de/sport/2026-09/juergen-klopp-rede-bundestrainer-patriotismus-nationalstolz-afd-foto-1/original__640x360",
-      "link": "https://www.zeit.de/sport/2026-09/juergen-klopp-rede-bundestrainer-patriotismus-nationalstolz-afd",
-      "published": "Thu, 17 Sep 2026 09:36:05 -0000",
-      "published_display": "17.09.2026 · 09:36 Uhr"
-    },
-    {
-      "title": "Leichenfund auf Parkplatz: Mann liegt mehrere Tage tot in Auto",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/polizei-toter-lag-mehrere-tage-in-abgestelltem-auto-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/polizei-toter-lag-mehrere-tage-in-abgestelltem-auto",
-      "published": "Thu, 17 Sep 2026 09:30:57 -0000",
-      "published_display": "17.09.2026 · 09:30 Uhr"
-    },
-    {
-      "title": "Nach neuem Gesetzentwurf: EVG zieht Streikdrohung im Nahverkehr zurück",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/evg-zieht-streikdrohung-im-nahverkehr-zurueck-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/evg-zieht-streikdrohung-im-nahverkehr-zurueck",
-      "published": "Thu, 17 Sep 2026 09:30:54 -0000",
-      "published_display": "17.09.2026 · 09:30 Uhr"
-    },
-    {
-      "title": "Energie: Weiterer Großauftrag für Windstrom-Plattform geht nach MV",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/weiterer-grossauftrag-fuer-windstrom-plattform-geht-nach-mv-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/weiterer-grossauftrag-fuer-windstrom-plattform-geht-nach-mv",
-      "published": "Thu, 17 Sep 2026 09:30:04 -0000",
-      "published_display": "17.09.2026 · 09:30 Uhr"
-    },
-    {
-      "title": "Polizei ermittelt: Attacke mit Stühlen – Mann in Eisenbahnstraße verletzt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/attacke-mit-stuehlen-mann-in-eisenbahnstrasse-verletzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/attacke-mit-stuehlen-mann-in-eisenbahnstrasse-verletzt",
-      "published": "Thu, 17 Sep 2026 09:29:53 -0000",
-      "published_display": "17.09.2026 · 09:29 Uhr"
-    },
-    {
-      "title": "Staatsregierung: Eisenreich will perspektivisch wieder als Anwalt arbeiten",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/eisenreich-will-perspektivisch-wieder-als-anwalt-arbeiten-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/eisenreich-will-perspektivisch-wieder-als-anwalt-arbeiten",
-      "published": "Thu, 17 Sep 2026 09:29:36 -0000",
-      "published_display": "17.09.2026 · 09:29 Uhr"
-    },
-    {
-      "title": "Prozess um Jagdunfall: Tödlicher Schuss auf Jäger - «Er war mein bester Freund»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/toedlicher-schuss-auf-jaeger-er-war-mein-bester-freund-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/toedlicher-schuss-auf-jaeger-er-war-mein-bester-freund",
-      "published": "Thu, 17 Sep 2026 09:28:00 -0000",
-      "published_display": "17.09.2026 · 09:28 Uhr"
     }
   ]
 }
