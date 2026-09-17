@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-17T23:25:34.923381+00:00",
+  "updated": "2026-09-17T23:40:15.083954+00:00",
   "items": [
+    {
+      "title": "Benefiz-Bühnendinner: Söder: Ohne Kultur stirbt ein Staat im Inneren",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/soeder-ohne-kultur-stirbt-ein-staat-im-inneren-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/soeder-ohne-kultur-stirbt-ein-staat-im-inneren",
+      "published": "Thu, 17 Sep 2026 23:36:41 -0000",
+      "published_display": "17.09.2026 · 23:36 Uhr"
+    },
     {
       "title": "Russland: Parlamentswahl in Russland hat begonnen",
       "summary": "In elf Zeitzonen wird bis Sonntag in Russland ein neues Parlament gewählt. Der Sieg ist der Regierungspartei von Präsident Wladimir Putin sicher.",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/17/umfrage-spd-in-mv-ueberholt-afd-cdu-rutscht-weiter-ab",
       "published": "Thu, 17 Sep 2026 20:23:17 -0000",
       "published_display": "17.09.2026 · 20:23 Uhr"
-    },
-    {
-      "title": "Handball: SC Magdeburg siegt klar bei Kriens-Luzern",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/sc-magdeburg-siegt-klar-bei-kriens-luzern-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/sc-magdeburg-siegt-klar-bei-kriens-luzern",
-      "published": "Thu, 17 Sep 2026 20:15:17 -0000",
-      "published_display": "17.09.2026 · 20:15 Uhr"
     }
   ]
 }
