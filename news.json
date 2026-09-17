@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-17T22:27:06.828913+00:00",
+  "updated": "2026-09-17T22:40:54.448126+00:00",
   "items": [
+    {
+      "title": "Russland: Parlamentswahl in Russland hat begonnen",
+      "summary": "In elf Zeitzonen wird bis Sonntag in Russland ein neues Parlament gewählt. Der Sieg ist der Regierungspartei von Präsident Wladimir Putin sicher.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/a-worker-steams-a-curtain-in-a-voting-booth-at-a-polling-station-in-podolsk-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/parlamentswahl-russland-duma-wladimir-putin-geeintes-russland",
+      "published": "Thu, 17 Sep 2026 22:35:06 -0000",
+      "published_display": "17.09.2026 · 22:35 Uhr"
+    },
+    {
+      "title": "Umfrage: Fast jeder Zweite erwartet Kanzlerwechsel vor Jahresende",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/fast-jeder-zweite-erwartet-kanzlerwechsel-vor-jahresende-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/fast-jeder-zweite-erwartet-kanzlerwechsel-vor-jahresende",
+      "published": "Thu, 17 Sep 2026 22:30:04 -0000",
+      "published_display": "17.09.2026 · 22:30 Uhr"
+    },
     {
       "title": "Krieg gegen die Ukraine: Donald Tusk warnt vor russischen Angriffen auf Verbündete der Ukraine",
       "summary": "Russland plant nach Angaben des polnischen Geheimdienstes »hybride Angriffe« auf Unterstützer der Ukraine. Die EU hat Milliarden für das Land angekündigt. Das Liveblog",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/17/sc-magdeburg-siegt-klar-bei-kriens-luzern",
       "published": "Thu, 17 Sep 2026 20:15:17 -0000",
       "published_display": "17.09.2026 · 20:15 Uhr"
-    },
-    {
-      "title": "Deutsche Eishockey Liga: Eisbären Berlin gewinnen DEL-Eröffnungsspiel gegen Straubing",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/eisbaeren-berlin-gewinnen-del-eroeffnungsspiel-gegen-straubing-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/eisbaeren-berlin-gewinnen-del-eroeffnungsspiel-gegen-straubing",
-      "published": "Thu, 17 Sep 2026 19:59:48 -0000",
-      "published_display": "17.09.2026 · 19:59 Uhr"
-    },
-    {
-      "title": "Wahl zum Abgeordnetenhaus: Kochen oder schlafen - das wünschen sich die Kandidaten",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/kochen-oder-schlafen-das-wuenschen-sich-die-kandidaten-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/kochen-oder-schlafen-das-wuenschen-sich-die-kandidaten",
-      "published": "Thu, 17 Sep 2026 19:46:30 -0000",
-      "published_display": "17.09.2026 · 19:46 Uhr"
     }
   ]
 }
