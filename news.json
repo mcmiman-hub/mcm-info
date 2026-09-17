@@ -1,7 +1,87 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-17T10:18:29.391528+00:00",
+  "updated": "2026-09-17T10:31:16.942803+00:00",
   "items": [
+    {
+      "title": "Europäische Union: Mark Carney offen für Idee einer EU-Sondermitgliedschaft Kanadas",
+      "summary": "Ursula von der Leyens Vorschlag zu einer assoziierten EU-Mitgliedschaft Kanadas kommt dort gut an. Man begrüße den Vorstoß, sagte Premierminister Carney.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/kanada-ist-offen-fuer-idee-einer-eu-sondermitgliedschaft-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/kanada-ist-offen-fuer-idee-einer-eu-sondermitgliedschaft",
+      "published": "Thu, 17 Sep 2026 10:29:48 -0000",
+      "published_display": "17.09.2026 · 10:29 Uhr"
+    },
+    {
+      "title": "Fotografie: Bilder des Tages",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/bilder-des-tages-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/bilder-des-tages",
+      "published": "Thu, 17 Sep 2026 10:27:05 -0000",
+      "published_display": "17.09.2026 · 10:27 Uhr"
+    },
+    {
+      "title": "Justiz: Urteil: Meta haftet für Fake-Werbung auf Instagram & Co",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/urteil-meta-haftet-fuer-fake-werbung-auf-instagram-co-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/urteil-meta-haftet-fuer-fake-werbung-auf-instagram-co",
+      "published": "Thu, 17 Sep 2026 10:25:21 -0000",
+      "published_display": "17.09.2026 · 10:25 Uhr"
+    },
+    {
+      "title": "Kämpfe im Jemen: Heftige Kämpfe zwischen Huthi-Miliz und Regierungstruppen im Jemen",
+      "summary": "Im Jemen gehen die Gefechte unvermindert weiter, saudische Kampfjets flogen Luftangriffe. Die heftigsten Kämpfe finden in der Nähe der Meerenge Bab al-Mandab statt.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/jemen-huthi-provinz-tais-bab-al-mandab-saudi-arabien-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/jemen-huthi-provinz-tais-bab-al-mandab-saudi-arabien",
+      "published": "Thu, 17 Sep 2026 10:23:27 -0000",
+      "published_display": "17.09.2026 · 10:23 Uhr"
+    },
+    {
+      "title": "Erste Lesung: Landtag berät über Wohnraum für Azubis",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/cdu-und-gruene-wollen-wohnraum-fuer-azubis-schaffen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/cdu-und-gruene-wollen-wohnraum-fuer-azubis-schaffen",
+      "published": "Thu, 17 Sep 2026 10:22:01 -0000",
+      "published_display": "17.09.2026 · 10:22 Uhr"
+    },
+    {
+      "title": "Störung im U-Bahnverkehr: Brand in Technikraum: U-Bahnlinien in City-West unterbrochen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/brand-am-sicherungskasten-stoppt-u-bahnen-in-berlin-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/brand-am-sicherungskasten-stoppt-u-bahnen-in-berlin",
+      "published": "Thu, 17 Sep 2026 10:21:07 -0000",
+      "published_display": "17.09.2026 · 10:21 Uhr"
+    },
+    {
+      "title": "Zu wenig Mediziner: Neue Medizin-Uni: Brandenburgs Rezept gegen Hausärztemangel",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/neue-medizin-uni-brandenburgs-rezept-gegen-hausaerztemangel-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/neue-medizin-uni-brandenburgs-rezept-gegen-hausaerztemangel",
+      "published": "Thu, 17 Sep 2026 10:19:33 -0000",
+      "published_display": "17.09.2026 · 10:19 Uhr"
+    },
+    {
+      "title": "Chancen für Wirtschaft: Sicherheitsindustrie sucht Partner - Treffen in Mainz",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/sicherheitsindustrie-sucht-partner-treffen-in-mainz-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/sicherheitsindustrie-sucht-partner-treffen-in-mainz",
+      "published": "Thu, 17 Sep 2026 10:19:00 -0000",
+      "published_display": "17.09.2026 · 10:19 Uhr"
+    },
+    {
+      "title": "Erzgebirge als Wander-Mekka: Großes Wanderfest: Erzgebirge lockt Wanderer aus ganz Europa",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/grosses-wanderfest-erzgebirge-lockt-wanderer-aus-ganz-europa-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/grosses-wanderfest-erzgebirge-lockt-wanderer-aus-ganz-europa",
+      "published": "Thu, 17 Sep 2026 10:18:48 -0000",
+      "published_display": "17.09.2026 · 10:18 Uhr"
+    },
+    {
+      "title": "Hitzesommer im Süden: Robert-Koch-Institut: 2.150 Hitzetote in Bayerns Sommer",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/robert-koch-institut-2-150-hitzetote-in-bayerns-sommer-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/robert-koch-institut-2-150-hitzetote-in-bayerns-sommer",
+      "published": "Thu, 17 Sep 2026 10:18:14 -0000",
+      "published_display": "17.09.2026 · 10:18 Uhr"
+    },
     {
       "title": "Benzinpreise in Deutschland: Das sind die teuersten Tankstellen Deutschlands",
       "summary": "Diesel hat nie so viel gekostet. In einigen Orten: mehr als drei Euro pro Liter. Sehen Sie hier, ob es Ihre Region besonders hart trifft. Und wo es am günstigsten ist.",
@@ -11,28 +91,12 @@
       "published_display": "17.09.2026 · 10:15 Uhr"
     },
     {
-      "title": "Kanada ist offen für Idee einer EU-Sondermitgliedschaft",
-      "summary": "",
-      "image": "https://img.zeit.de/administratives/eilmeldung/fallback-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/kanada-ist-offen-fuer-idee-einer-eu-sondermitgliedschaft",
-      "published": "Thu, 17 Sep 2026 10:15:32 -0000",
-      "published_display": "17.09.2026 · 10:15 Uhr"
-    },
-    {
       "title": "Sturm in Spanien: Ein Toter bei Unwetter in Spanien",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-09/17/ein-toter-bei-unwetter-in-spanien-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-09/17/ein-toter-bei-unwetter-in-spanien",
       "published": "Thu, 17 Sep 2026 10:14:34 -0000",
       "published_display": "17.09.2026 · 10:14 Uhr"
-    },
-    {
-      "title": "Fotografie: Bilder des Tages",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/bilder-des-tages-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/bilder-des-tages",
-      "published": "Thu, 17 Sep 2026 10:13:17 -0000",
-      "published_display": "17.09.2026 · 10:13 Uhr"
     },
     {
       "title": "Dahmen und Behrens: Novum und «Bestätigung» für FCA: Zwei Profis in DFB-Auswahl",
@@ -57,70 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/17/fc-bayern-reagiert-auf-transfergeruecht-um-mega-talent",
       "published": "Thu, 17 Sep 2026 10:09:42 -0000",
       "published_display": "17.09.2026 · 10:09 Uhr"
-    },
-    {
-      "title": "Turbulente Sitzung: Erfurter SPD-Stadtratsfraktion zerbricht an Dezernentenwahl",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/erfurter-spd-stadtratsfraktion-zerbricht-an-dezernentenwahl-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/erfurter-spd-stadtratsfraktion-zerbricht-an-dezernentenwahl",
-      "published": "Thu, 17 Sep 2026 10:09:01 -0000",
-      "published_display": "17.09.2026 · 10:09 Uhr"
-    },
-    {
-      "title": "Bildungsmisere: Mangelhaftes Zeugnis für NRW: Ministerin will Kurs halten",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/mangelhaftes-zeugnis-fuer-nrw-ministerin-will-kurs-halten-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/mangelhaftes-zeugnis-fuer-nrw-ministerin-will-kurs-halten",
-      "published": "Thu, 17 Sep 2026 10:08:36 -0000",
-      "published_display": "17.09.2026 · 10:08 Uhr"
-    },
-    {
-      "title": "Teuerung: Inflation im Euroraum leicht niedriger als zunächst angenommen",
-      "summary": "Die Verbraucherpreise in der Eurozone sind im August um 3,2 Prozent gestiegen. Inflationstreiber sind die Energiepreise, die sich um mehr als 14 Prozent erhöhten.",
-      "image": "https://img.zeit.de/wirtschaft/2026-09/inflation-eurozone-energie-ezb-leitzins-foto-1/original__640x360",
-      "link": "https://www.zeit.de/wirtschaft/2026-09/inflation-eurozone-energie-ezb-leitzins",
-      "published": "Thu, 17 Sep 2026 10:08:24 -0000",
-      "published_display": "17.09.2026 · 10:08 Uhr"
-    },
-    {
-      "title": "Kriminalität: Mann kommt zur Polizei und gesteht Tötung seiner Ehefrau",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/mann-kommt-zur-polizei-und-gesteht-toetung-seiner-ehefrau-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/mann-kommt-zur-polizei-und-gesteht-toetung-seiner-ehefrau",
-      "published": "Thu, 17 Sep 2026 10:08:21 -0000",
-      "published_display": "17.09.2026 · 10:08 Uhr"
-    },
-    {
-      "title": "Kriminalität: Lieferwagen während Paket-Zustellung gestohlen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/lieferwagen-waehrend-paket-zustellung-gestohlen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/lieferwagen-waehrend-paket-zustellung-gestohlen",
-      "published": "Thu, 17 Sep 2026 10:07:44 -0000",
-      "published_display": "17.09.2026 · 10:07 Uhr"
-    },
-    {
-      "title": "45-Jährigen getötet: Tödlicher Angriff auf Party - U-Haft für Verdächtigen?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/toedlicher-angriff-auf-party-u-haft-fuer-verdaechtigen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/toedlicher-angriff-auf-party-u-haft-fuer-verdaechtigen",
-      "published": "Thu, 17 Sep 2026 10:05:37 -0000",
-      "published_display": "17.09.2026 · 10:05 Uhr"
-    },
-    {
-      "title": "Kämpfe im Jemen: Heftige Kämpfe zwischen Huthi-Miliz und Regierungstruppen im Jemen",
-      "summary": "Im Jemen gehen die Gefechte unvermindert weiter, saudische Kampfjets flogen Luftangriffe. Die heftigsten Kämpfe finden in der Nähe der Meerenge Bab al-Mandab statt.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/jemen-huthi-provinz-tais-bab-al-mandab-saudi-arabien-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/jemen-huthi-provinz-tais-bab-al-mandab-saudi-arabien",
-      "published": "Thu, 17 Sep 2026 10:04:54 -0000",
-      "published_display": "17.09.2026 · 10:04 Uhr"
-    },
-    {
-      "title": "Fußball-Bundesliga: Kompany: Deshalb freue ich mich besonders auf die Wiesn",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/kompany-deshalb-freue-ich-mich-besonders-auf-die-wiesn-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/kompany-deshalb-freue-ich-mich-besonders-auf-die-wiesn",
-      "published": "Thu, 17 Sep 2026 10:04:32 -0000",
-      "published_display": "17.09.2026 · 10:04 Uhr"
     }
   ]
 }
