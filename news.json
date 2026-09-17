@@ -1,7 +1,55 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-17T15:18:05.704635+00:00",
+  "updated": "2026-09-17T15:30:30.570589+00:00",
   "items": [
+    {
+      "title": "Pressestimmen zu DFB-Kader: »Klopp revolutioniert Deutschland«",
+      "summary": "Die DFB-Kader-Entscheidung von Bundestrainer Jürgen Klopp sorgt in der internationalen Presse für Aufregung. Die Reaktionen reichen von »Revolution« bis »bizarr«.",
+      "image": "https://img.zeit.de/sport/2026-09/jurgen-klopp-kader-england-nationalmannschaft-nations-league-44-spieler-foto-1/original__640x360",
+      "link": "https://www.zeit.de/sport/2026-09/jurgen-klopp-dfb-kader-internationale-pressestimmen",
+      "published": "Thu, 17 Sep 2026 15:28:23 -0000",
+      "published_display": "17.09.2026 · 15:28 Uhr"
+    },
+    {
+      "title": "Bahnstrecke nach Polen: Ostbahn: Brandenburger Landtag macht dem Bund Dampf",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/ostbahn-brandenburger-landtag-macht-dem-bund-dampf-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/ostbahn-brandenburger-landtag-macht-dem-bund-dampf",
+      "published": "Thu, 17 Sep 2026 15:21:08 -0000",
+      "published_display": "17.09.2026 · 15:21 Uhr"
+    },
+    {
+      "title": "Erste Lesung: Schleswig-Holstein will Brandschutzgesetz modernisieren",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/schleswig-holstein-will-brandschutzgesetz-modernisieren-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/schleswig-holstein-will-brandschutzgesetz-modernisieren",
+      "published": "Thu, 17 Sep 2026 15:20:52 -0000",
+      "published_display": "17.09.2026 · 15:20 Uhr"
+    },
+    {
+      "title": "Stuttgarter Oper: Geht CDU auf Konfrontationskurs im Streit um Opernsanierung?",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/geht-cdu-auf-konfrontationskurs-im-streit-um-opernsanierung-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/geht-cdu-auf-konfrontationskurs-im-streit-um-opernsanierung",
+      "published": "Thu, 17 Sep 2026 15:20:37 -0000",
+      "published_display": "17.09.2026 · 15:20 Uhr"
+    },
+    {
+      "title": "Tödliches Feuer: Ehepaar bei Brand getötet - Feuer wohl fahrlässig entstanden",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/ehepaar-bei-brand-getoetet-feuer-wohl-fahrlaessig-entstanden-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/ehepaar-bei-brand-getoetet-feuer-wohl-fahrlaessig-entstanden",
+      "published": "Thu, 17 Sep 2026 15:19:49 -0000",
+      "published_display": "17.09.2026 · 15:19 Uhr"
+    },
+    {
+      "title": "Migration nach Ceuta: EU-Parlament kritisiert spanische Regierung wegen Ceuta-Krise",
+      "summary": "Die Migrationspolitik von Spaniens Regierung sendet laut EU-Parlament ein »falsches Signal«. Eine entsprechende Erklärung wurde mit Stimmen der Union und AfD beschlossen.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/ceuta-migranten-spanien-eu-parlament-grenze-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/ceuta-migranten-spanien-eu-parlament-grenze",
+      "published": "Thu, 17 Sep 2026 15:19:14 -0000",
+      "published_display": "17.09.2026 · 15:19 Uhr"
+    },
     {
       "title": "Extremismus: Nach Angriff: Menschen tragen aus Solidarität Davidstern",
       "summary": "",
@@ -51,14 +99,6 @@
       "published_display": "17.09.2026 · 15:07 Uhr"
     },
     {
-      "title": "Migration nach Ceuta: EU-Parlament kritisiert spanische Regierung wegen Ceuta-Krise",
-      "summary": "Die Migrationspolitik von Spaniens Regierung sendet laut EU-Parlament das »falsche Signal«. Die illegale Einreise dürfe keine Abkürzung für einen legalen Aufenthalt sein.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/ceuta-migranten-spanien-eu-parlament-grenze-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/ceuta-migranten-spanien-eu-parlament-grenze",
-      "published": "Thu, 17 Sep 2026 15:07:14 -0000",
-      "published_display": "17.09.2026 · 15:07 Uhr"
-    },
-    {
       "title": "Oktoberfest: «Teufelsrad» umgestaltet - Debatte um Wiesn-Figur mit Schuh",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-09/17/teufelsrad-umgestaltet-debatte-um-wiesn-figur-mit-schuh-image-group/original__640x360",
@@ -68,7 +108,7 @@
     },
     {
       "title": "Liberale: FDP-Spitze will Wahlkämpfe mit höheren Mitgliedsbeiträgen finanzieren",
-      "summary": "FDP-Mitglieder sollen einen Wahlkampagnen-Fonds aufbessern, heißt es in einem Antrag der Parteispitze. Sonst verliere man die »nötige Schlagkraft« bei anstehenden Wahlen.",
+      "summary": "FDP-Mitglieder sollen einen Wahlkampagnenfonds aufbessern, heißt es in einem Antrag der Parteispitze. Sonst verliere man die »nötige Schlagkraft« bei anstehenden Wahlen.",
       "image": "https://img.zeit.de/politik/deutschland/2026-09/fdp-sonderumlage-mitglieder-beitragserhoehung-landtagswahlen-foto-1/original__640x360",
       "link": "https://www.zeit.de/politik/deutschland/2026-09/fdp-sonderumlage-mitglieder-beitragserhoehung-landtagswahlen",
       "published": "Thu, 17 Sep 2026 15:05:26 -0000",
@@ -81,46 +121,6 @@
       "link": "https://www.zeit.de/politik/2026-09/mark-carney-kanada-eu-nachrichtenpodcast",
       "published": "Thu, 17 Sep 2026 15:04:05 -0000",
       "published_display": "17.09.2026 · 15:04 Uhr"
-    },
-    {
-      "title": "Fotografie: Bilder des Tages",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/bilder-des-tages-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/bilder-des-tages",
-      "published": "Thu, 17 Sep 2026 15:04:01 -0000",
-      "published_display": "17.09.2026 · 15:04 Uhr"
-    },
-    {
-      "title": "Präsident der Türkei: Erdoğan will durch vorgezogene Wahl weitere Amtszeit ermöglichen",
-      "summary": "Eigentlich befindet sich Erdoğan in seiner letzten Amtszeit als türkischer Präsident. Er will aber ein selbst geschaffenes Schlupfloch in der Verfassung nutzen.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/recep-tayyip-erdogan-praesident-tuerkei-kandidatur-2028-verfassung-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/recep-tayyip-erdogan-praesident-tuerkei-kandidatur-2028-verfassung",
-      "published": "Thu, 17 Sep 2026 15:02:22 -0000",
-      "published_display": "17.09.2026 · 15:02 Uhr"
-    },
-    {
-      "title": "Pressestimmen zu DFB-Kader: »Klopp revolutioniert Deutschland«",
-      "summary": "Die DFB-Kader-Entscheidung von Bundestrainer Jürgen Klopp sorgt in der internationalen Presse für Aufregung. Die Reaktionen reichen von »Revolution« bis »bizarr«.",
-      "image": "https://img.zeit.de/sport/2026-09/jurgen-klopp-kader-england-nationalmannschaft-nations-league-44-spieler-foto-1/original__640x360",
-      "link": "https://www.zeit.de/sport/2026-09/jurgen-klopp-dfb-kader-internationale-pressestimmen",
-      "published": "Thu, 17 Sep 2026 15:01:36 -0000",
-      "published_display": "17.09.2026 · 15:01 Uhr"
-    },
-    {
-      "title": "Straßenbrücke: Fehmarnsundbrücke: Sanierung kostet rund 170 Millionen Euro",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/fehmarnsundbruecke-sanierung-kostet-rund-170-millionen-euro-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/fehmarnsundbruecke-sanierung-kostet-rund-170-millionen-euro",
-      "published": "Thu, 17 Sep 2026 15:01:23 -0000",
-      "published_display": "17.09.2026 · 15:01 Uhr"
-    },
-    {
-      "title": "Bibliotheken: Zentralbibliothek am Alex? Absichtserklärung unterzeichnet",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/zentralbibliothek-am-alex-absichtserklaerung-unterzeichnet-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/zentralbibliothek-am-alex-absichtserklaerung-unterzeichnet",
-      "published": "Thu, 17 Sep 2026 14:58:03 -0000",
-      "published_display": "17.09.2026 · 14:58 Uhr"
     }
   ]
 }
