@@ -1,7 +1,39 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-17T17:15:18.772152+00:00",
+  "updated": "2026-09-17T17:27:49.606943+00:00",
   "items": [
+    {
+      "title": "Ermittlungen: Toter Mann verschüttet in Stall gefunden",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/toter-mann-verschuettet-in-stall-gefunden-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/toter-mann-verschuettet-in-stall-gefunden",
+      "published": "Thu, 17 Sep 2026 17:24:31 -0000",
+      "published_display": "17.09.2026 · 17:24 Uhr"
+    },
+    {
+      "title": "Meerenge Bab al-Mandab: Italien will Fahrt seiner Schiffe durch bedrohte Meerenge schützen",
+      "summary": "Die Huthi-Miliz rückt auf die Meerenge Bab al-Mandab vor und bedroht den Schiffsverkehr. Italien will die Marine einsetzen und nicht auf eine EU-Entscheidung warten.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/meerenge-bab-al-mandab-italien-marine-huthi-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/meerenge-bab-al-mandab-italien-marine-huthi",
+      "published": "Thu, 17 Sep 2026 17:22:53 -0000",
+      "published_display": "17.09.2026 · 17:22 Uhr"
+    },
+    {
+      "title": "»Was jetzt? - die Woche«: Made in China - Krise in Europa?",
+      "summary": "Deutschland kauft immer mehr Waren aus China – und verkauft immer weniger dorthin. Wie sehr setzt uns Chinas Exportmaschine unter Druck?",
+      "image": "https://img.zeit.de/video/2026-09/wjdw-september-china/original__640x360",
+      "link": "https://www.zeit.de/video/2026-09/industrie-wirtschaft-china-deutschland-was-jetzt-video",
+      "published": "Thu, 17 Sep 2026 17:22:41 -0000",
+      "published_display": "17.09.2026 · 17:22 Uhr"
+    },
+    {
+      "title": "Kollision: Mopedfahrer bei Unfall lebensgefährlich verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/mopedfahrer-bei-unfall-lebensgefaehrlich-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/mopedfahrer-bei-unfall-lebensgefaehrlich-verletzt",
+      "published": "Thu, 17 Sep 2026 17:16:03 -0000",
+      "published_display": "17.09.2026 · 17:16 Uhr"
+    },
     {
       "title": "Kollision: Motorradfahrer prallt gegen Pferd und verletzt sich",
       "summary": "",
@@ -89,38 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/17/wird-kanada-eine-art-eu-mitglied-heute-ist-carney-am-zug",
       "published": "Thu, 17 Sep 2026 16:26:31 -0000",
       "published_display": "17.09.2026 · 16:26 Uhr"
-    },
-    {
-      "title": "CDU-Wahlkampf in Berlin: Merz ruft zum Kampf gegen Rassismus auf",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/merz-ruft-zum-kampf-gegen-rassismus-auf-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/merz-ruft-zum-kampf-gegen-rassismus-auf",
-      "published": "Thu, 17 Sep 2026 16:24:21 -0000",
-      "published_display": "17.09.2026 · 16:24 Uhr"
-    },
-    {
-      "title": "Wahl zum Abgeordnetenhaus: CDU-Kandidat Evers vor der Wahl: Alles bleibt möglich",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/cdu-kandidat-evers-vor-der-wahl-alles-bleibt-moeglich-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/cdu-kandidat-evers-vor-der-wahl-alles-bleibt-moeglich",
-      "published": "Thu, 17 Sep 2026 16:21:20 -0000",
-      "published_display": "17.09.2026 · 16:21 Uhr"
-    },
-    {
-      "title": "Sprit in Frankreich: In Frankreich kostet das Benzin nur 1,99 Euro – wie kann das sein?",
-      "summary": "Der Energiekonzern TotalEnergies bremst damit den Zorn der Bürger. Und droht zugleich: Sollte er höher besteuert werden, fällt der weltweit einmalige Rabatt weg.",
-      "image": "https://img.zeit.de/wirtschaft/2026-09/sprit-frankreich-totalenergies-preis-tankstelle-bild/original__640x360",
-      "link": "https://www.zeit.de/wirtschaft/2026-09/sprit-frankreich-totalenergies-preis-tankstelle",
-      "published": "Thu, 17 Sep 2026 16:21:00 -0000",
-      "published_display": "17.09.2026 · 16:21 Uhr"
-    },
-    {
-      "title": "Enzkreis: Spezialkräfte nehmen psychisch auffälligen Mann fest",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/spezialkraefte-suchen-psychisch-auffaelligen-mann-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/spezialkraefte-suchen-psychisch-auffaelligen-mann",
-      "published": "Thu, 17 Sep 2026 16:20:08 -0000",
-      "published_display": "17.09.2026 · 16:20 Uhr"
     }
   ]
 }
