@@ -1,7 +1,39 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-17T18:36:17.726261+00:00",
+  "updated": "2026-09-17T18:49:18.057482+00:00",
   "items": [
+    {
+      "title": "Champions League: Melsungen verliert bei polnischem Spitzenteam Plock",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/melsungen-verliert-bei-polnischem-spitzenteam-plock-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/melsungen-verliert-bei-polnischem-spitzenteam-plock",
+      "published": "Thu, 17 Sep 2026 18:41:25 -0000",
+      "published_display": "17.09.2026 · 18:41 Uhr"
+    },
+    {
+      "title": "CDU und Linke: Klare Kante zur Linken - CDU-Mann Müller kritisiert Gysi",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/klare-kante-zur-linken-cdu-mann-mueller-kritisiert-gysi-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/klare-kante-zur-linken-cdu-mann-mueller-kritisiert-gysi",
+      "published": "Thu, 17 Sep 2026 18:40:34 -0000",
+      "published_display": "17.09.2026 · 18:40 Uhr"
+    },
+    {
+      "title": "Fußball-Europa-League: Fehlstart auf Urlaubsinsel: Hoffenheim kassiert 0:2-Schlappe",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/fehlstart-auf-urlaubsinsel-hoffenheim-kassiert-0-2-schlappe-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/fehlstart-auf-urlaubsinsel-hoffenheim-kassiert-0-2-schlappe",
+      "published": "Thu, 17 Sep 2026 18:37:45 -0000",
+      "published_display": "17.09.2026 · 18:37 Uhr"
+    },
+    {
+      "title": "Malaria: Wie weit kann eine Mücke bitte fliegen?",
+      "summary": "Ein Anwohner des Frankfurter Flughafens ist an Malaria gestorben, das Gesundheitsamt ruft die Bevölkerung zum Mückenschutz auf. Was wir über die aktuellen Fälle wissen.",
+      "image": "https://img.zeit.de/gesundheit/2026-09/malaria-flughafen-frankfurt-muecke-infektion-bild-2/original__640x360",
+      "link": "https://www.zeit.de/gesundheit/2026-09/malaria-flughafen-frankfurt-muecke-infektion",
+      "published": "Thu, 17 Sep 2026 18:37:14 -0000",
+      "published_display": "17.09.2026 · 18:37 Uhr"
+    },
     {
       "title": "Landtagswahl: Wagenknecht für Benzinpreisdeckel und Steuersenkung",
       "summary": "",
@@ -89,38 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/17/landesweiter-grosseinsatz-gegen-mutmassliche-betruegergruppe",
       "published": "Thu, 17 Sep 2026 17:39:37 -0000",
       "published_display": "17.09.2026 · 17:39 Uhr"
-    },
-    {
-      "title": "Leute: Klum feiert «HeidiFest» - und wartet auf die Stargäste",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/klum-feiert-heidifest-und-wartet-auf-die-stargaeste-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/klum-feiert-heidifest-und-wartet-auf-die-stargaeste",
-      "published": "Thu, 17 Sep 2026 17:39:27 -0000",
-      "published_display": "17.09.2026 · 17:39 Uhr"
-    },
-    {
-      "title": "Gesellschaft: Auseinandersetzung bei Protest gegen Circus Krone in Hamburg",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/auseinandersetzung-bei-protest-gegen-circus-krone-in-hamburg-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/auseinandersetzung-bei-protest-gegen-circus-krone-in-hamburg",
-      "published": "Thu, 17 Sep 2026 17:39:05 -0000",
-      "published_display": "17.09.2026 · 17:39 Uhr"
-    },
-    {
-      "title": "Jürgen Klopp: Der Trainer holt der Republik ihre Fahne zurück",
-      "summary": "Jürgen Klopps erster großer Auftritt hat nicht nur eine fußballerische Dimension. Er zeigt, wie man Patriotismus neu denkt – und die müde Mitte endlich elektrifiziert.",
-      "image": "https://img.zeit.de/feuilleton/2026-09/juergen-klopp-nationalmannschaft-fussball-patriotismus-optimismus-afd-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/juergen-klopp-nationalmannschaft-fussball-patriotismus-optimismus-afd",
-      "published": "Thu, 17 Sep 2026 17:33:34 -0000",
-      "published_display": "17.09.2026 · 17:33 Uhr"
-    },
-    {
-      "title": "Mecklenburg-Vorpommern: BSW rechnet mit «sechs bis acht Prozent» bei Landtagswahl",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/bsw-rechnet-mit-sechs-bis-acht-prozent-bei-landtagswahl-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/bsw-rechnet-mit-sechs-bis-acht-prozent-bei-landtagswahl",
-      "published": "Thu, 17 Sep 2026 17:32:48 -0000",
-      "published_display": "17.09.2026 · 17:32 Uhr"
     }
   ]
 }
