@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-17T03:45:33.471837+00:00",
+  "updated": "2026-09-17T03:56:27.783754+00:00",
   "items": [
+    {
+      "title": "Vereinte Nationen: USA verweigern Palästinenservertretern erneut Visa für UN-Debatte",
+      "summary": "Die US-Regierung verlängert Sanktionen gegen Palästinenserpräsident Mahmud Abbas und andere Delegierte. Sie würden den Friedensprozess im Nahen Osten behindern, heißt es.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/usa-visa-mahmud-abbas-un-generalversammlung-palaestinensische-autonomiebehoerde-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/usa-visa-mahmud-abbas-un-generalversammlung-palaestinenser-verweigert",
+      "published": "Thu, 17 Sep 2026 03:46:02 -0000",
+      "published_display": "17.09.2026 · 03:46 Uhr"
+    },
     {
       "title": "Krieg gegen die Ukraine: Russland greift erneut Odessa und Kyjiw an",
       "summary": "Augenzeugen berichten von schweren Explosionen in der ukrainischen Hauptstadt. In der Hafenstadt Odessa wurden Behörden zufolge mehrere Menschen verletzt. Das Liveblog",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/17/warum-mv-so-haeufig-im-fokus-der-grossen-politik-steht",
       "published": "Thu, 17 Sep 2026 03:08:44 -0000",
       "published_display": "17.09.2026 · 03:08 Uhr"
-    },
-    {
-      "title": "Spirituosen-Markt: Berentzen spricht über Kauf durch US-Konzern",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/berentzen-spricht-ueber-kauf-durch-us-konzern-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/berentzen-spricht-ueber-kauf-durch-us-konzern",
-      "published": "Thu, 17 Sep 2026 03:05:05 -0000",
-      "published_display": "17.09.2026 · 03:05 Uhr"
     }
   ]
 }
