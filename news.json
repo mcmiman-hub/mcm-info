@@ -1,14 +1,30 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-17T17:55:03.047800+00:00",
+  "updated": "2026-09-17T18:21:01.492209+00:00",
   "items": [
+    {
+      "title": "Frankreichs Haushaltsdefizit: Frankreich will den Haushalt um 54 Milliarden Euro kürzen",
+      "summary": "Die französische Regierung will für den Haushaltsentwurf 2027 Einsparungen in Milliardenhöhe vornehmen. Das Defizit könnte sonst bei über 6,5 Prozent des BIP liegen.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/frankreich-haushaltsdefizit-sparpaket-2027-marine-le-pen-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/frankreich-haushaltsdefizit-sparpaket-2027-marine-le-pen",
+      "published": "Thu, 17 Sep 2026 18:18:00 -0000",
+      "published_display": "17.09.2026 · 18:18 Uhr"
+    },
+    {
+      "title": "CDU-Wahlkampf in Berlin: Merz ruft zum Kampf gegen Antisemitismus auf",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/merz-ruft-zum-kampf-gegen-rassismus-auf-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/merz-ruft-zum-kampf-gegen-rassismus-auf",
+      "published": "Thu, 17 Sep 2026 18:03:56 -0000",
+      "published_display": "17.09.2026 · 18:03 Uhr"
+    },
     {
       "title": "Irankrieg: Iran bestellt wegen Aussage von Merz deutschen Botschafter ein",
       "summary": "Der Bundeskanzler hatte den Iran aufgefordert, die Straße von Hormus zu öffnen und das Atomprogramm zu stoppen. Deshalb bestellte das Land den deutschen Botschafter ein.",
       "image": "https://img.zeit.de/politik/ausland/2026-09/iran-axel-dittmann-deutscher-botschafter-friedrich-merz-foto-1/original__640x360",
       "link": "https://www.zeit.de/politik/ausland/2026-09/irankrieg-deutscher-botschafter-bundeskanzler-friedrich-merz-kritik",
-      "published": "Thu, 17 Sep 2026 17:43:45 -0000",
-      "published_display": "17.09.2026 · 17:43 Uhr"
+      "published": "Thu, 17 Sep 2026 17:57:35 -0000",
+      "published_display": "17.09.2026 · 17:57 Uhr"
     },
     {
       "title": "Meerenge Bab al-Mandab: Italien will Fahrt seiner Schiffe durch bedrohte Meerenge schützen",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/17/kanzler-merz-faehrt-in-berlin-auch-mal-s-bahn",
       "published": "Thu, 17 Sep 2026 16:56:32 -0000",
       "published_display": "17.09.2026 · 16:56 Uhr"
-    },
-    {
-      "title": "Niemand verletzt: 37-Jähriger soll Feuer an Wuppertaler Synagoge gelegt haben",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/mann-soll-feuer-an-tuer-von-wuppertaler-synagoge-gelegt-haben-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/mann-soll-feuer-an-tuer-von-wuppertaler-synagoge-gelegt-haben",
-      "published": "Thu, 17 Sep 2026 16:51:09 -0000",
-      "published_display": "17.09.2026 · 16:51 Uhr"
-    },
-    {
-      "title": "Volleyball: Dezimierte BR Volleys verlieren erstes Testspiel",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/dezimierte-br-volleys-verlieren-erstes-testspiel-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/dezimierte-br-volleys-verlieren-erstes-testspiel",
-      "published": "Thu, 17 Sep 2026 16:50:51 -0000",
-      "published_display": "17.09.2026 · 16:50 Uhr"
     }
   ]
 }
