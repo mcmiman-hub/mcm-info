@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-17T21:17:28.073197+00:00",
+  "updated": "2026-09-17T21:28:52.649097+00:00",
   "items": [
+    {
+      "title": "Brände: Ein Todesopfer und zwei Verletzte nach Haus-Brand",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/ein-todesopfer-und-zwei-verletzte-nach-haus-brand-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/ein-todesopfer-und-zwei-verletzte-nach-haus-brand",
+      "published": "Thu, 17 Sep 2026 21:18:59 -0000",
+      "published_display": "17.09.2026 · 21:18 Uhr"
+    },
     {
       "title": "ZDF-»Politbarometer Extra«: SPD überholt AfD in Mecklenburg-Vorpommern knapp",
       "summary": "Vor der Landtagswahl in Mecklenburg-Vorpommern liegen die Sozialdemokraten in einer Umfrage knapp vor der AfD. CDU und Grünen kämen demnach ins Parlament, das BSW nicht.",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/sport/2026-09/tsg-hoffenheim-ofi-kreta-europa-league-christian-ilzer",
       "published": "Thu, 17 Sep 2026 19:11:54 -0000",
       "published_display": "17.09.2026 · 19:11 Uhr"
-    },
-    {
-      "title": "Fußball-Europa-League: Baumann tritt gegen Nagelsmann nach: «War unfassbar»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/baumann-tritt-gegen-nagelsmann-nach-war-unfassbar-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/baumann-tritt-gegen-nagelsmann-nach-war-unfassbar",
-      "published": "Thu, 17 Sep 2026 19:06:23 -0000",
-      "published_display": "17.09.2026 · 19:06 Uhr"
     }
   ]
 }
