@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-17T18:49:18.057482+00:00",
+  "updated": "2026-09-17T18:58:39.036893+00:00",
   "items": [
+    {
+      "title": "Europa League: Hoffenheim verliert sein Eröffnungsspiel in der Europa League",
+      "summary": "Die TSG Hoffenheim ist mit einer Niederlage in die neue Europapokalsaison gestartet. OFI Kreta gewann überraschend im ersten Gruppenspiel. Der Spielbericht",
+      "image": "https://img.zeit.de/sport/2026-09/tsg-hoffenheim-ofi-kreta-europa-league-christian-ilzer-bild/original__640x360",
+      "link": "https://www.zeit.de/sport/2026-09/tsg-hoffenheim-ofi-kreta-europa-league-christian-ilzer",
+      "published": "Thu, 17 Sep 2026 18:53:23 -0000",
+      "published_display": "17.09.2026 · 18:53 Uhr"
+    },
+    {
+      "title": "Reeperbahn-Festival: Jan Delay plus Delaydies - Gratiskonzert auf Wassercontainer",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/jan-delay-plus-delaydies-gratiskonzert-auf-wassercontainer-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/jan-delay-plus-delaydies-gratiskonzert-auf-wassercontainer",
+      "published": "Thu, 17 Sep 2026 18:51:21 -0000",
+      "published_display": "17.09.2026 · 18:51 Uhr"
+    },
     {
       "title": "Champions League: Melsungen verliert bei polnischem Spitzenteam Plock",
       "summary": "",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/politik/ausland/2026-09/irankrieg-deutscher-botschafter-bundeskanzler-friedrich-merz-kritik",
       "published": "Thu, 17 Sep 2026 17:57:35 -0000",
       "published_display": "17.09.2026 · 17:57 Uhr"
-    },
-    {
-      "title": "Meerenge Bab al-Mandab: Italien will Fahrt seiner Schiffe durch bedrohte Meerenge schützen",
-      "summary": "Die Huthi-Miliz rückt auf die Meerenge Bab al-Mandab vor und bedroht den Schiffsverkehr. Italien will die Marine einsetzen und nicht auf eine EU-Entscheidung warten.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/meerenge-bab-al-mandab-italien-marine-huthi-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/meerenge-bab-al-mandab-italien-marine-huthi",
-      "published": "Thu, 17 Sep 2026 17:41:13 -0000",
-      "published_display": "17.09.2026 · 17:41 Uhr"
-    },
-    {
-      "title": "Festnahmen: Landesweiter Großeinsatz gegen mutmaßliche Betrügergruppe",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/landesweiter-grosseinsatz-gegen-mutmassliche-betruegergruppe-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/landesweiter-grosseinsatz-gegen-mutmassliche-betruegergruppe",
-      "published": "Thu, 17 Sep 2026 17:39:37 -0000",
-      "published_display": "17.09.2026 · 17:39 Uhr"
     }
   ]
 }
