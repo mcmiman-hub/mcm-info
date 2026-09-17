@@ -1,7 +1,39 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-17T11:17:37.487333+00:00",
+  "updated": "2026-09-17T11:29:41.575565+00:00",
   "items": [
+    {
+      "title": "Frankfurter Innenstadt: Zwillingsbrüder tot – Urteil nach Unfall mit E-Roller",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/16/zwillingsbrueder-tot-urteil-nach-unfall-mit-e-roller-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/16/zwillingsbrueder-tot-urteil-nach-unfall-mit-e-roller",
+      "published": "Thu, 17 Sep 2026 11:25:55 -0000",
+      "published_display": "17.09.2026 · 11:25 Uhr"
+    },
+    {
+      "title": "Schwedens Mitte-Links-Opposition gewinnt Parlamentswahl knapp",
+      "summary": "",
+      "image": "https://img.zeit.de/administratives/eilmeldung/fallback-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/schwedens-mitte-links-opposition-gewinnt-parlamentswahl-knapp",
+      "published": "Thu, 17 Sep 2026 11:22:58 -0000",
+      "published_display": "17.09.2026 · 11:22 Uhr"
+    },
+    {
+      "title": "Fußball-Bundesliga: Bayern-Prosit auch ohne Wiesn-Pflichtspiel",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/kompany-deshalb-freue-ich-mich-besonders-auf-die-wiesn-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/kompany-deshalb-freue-ich-mich-besonders-auf-die-wiesn",
+      "published": "Thu, 17 Sep 2026 11:21:09 -0000",
+      "published_display": "17.09.2026 · 11:21 Uhr"
+    },
+    {
+      "title": "Jagdgesetz: Ministerin: Mit neuem Jagdrecht Interessen zusammenbringen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/ministerin-mit-neuem-jagdrecht-interessen-zusammenbringen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/ministerin-mit-neuem-jagdrecht-interessen-zusammenbringen",
+      "published": "Thu, 17 Sep 2026 11:18:37 -0000",
+      "published_display": "17.09.2026 · 11:18 Uhr"
+    },
     {
       "title": "Markenstreit unter Baumärkten: BGH untersagt Markenschutz für orangen Farbton der Obi-Baumarktkette",
       "summary": "Vor Jahren ließ die Baumarktkette Obi ihren Farbton schützen, die Konkurrenz zog vor Gericht. Der BGH urteilte nun, dem Obi-Orange fehle es an »Unterscheidungskraft«.",
@@ -89,38 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/17/leiterin-setzt-bei-documenta-16-auf-debatte-und-grenzen",
       "published": "Thu, 17 Sep 2026 11:01:23 -0000",
       "published_display": "17.09.2026 · 11:01 Uhr"
-    },
-    {
-      "title": "Steuern: Klüssendorf räumt Fehler bei Zweitwohnsitzsteuer ein",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/kluessendorf-raeumt-fehler-bei-zweitwohnsitzsteuer-ein-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/kluessendorf-raeumt-fehler-bei-zweitwohnsitzsteuer-ein",
-      "published": "Thu, 17 Sep 2026 11:01:06 -0000",
-      "published_display": "17.09.2026 · 11:01 Uhr"
-    },
-    {
-      "title": "Plenum: Debatte um Organspende entzweit das Plenum",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/debatte-um-organspende-entzweit-das-plenum-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/debatte-um-organspende-entzweit-das-plenum",
-      "published": "Thu, 17 Sep 2026 11:00:45 -0000",
-      "published_display": "17.09.2026 · 11:00 Uhr"
-    },
-    {
-      "title": "Bayern: Bayerischer Justizminister Georg Eisenreich kündigt Rücktritt an",
-      "summary": "Nach acht Jahren als Minister räumt Eisenreich seinen Posten Ende September. Bayerns Ministerpräsident Markus Söder will kommende Woche die Nachfolge regeln.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/georg-eisenreich-csu-ruecktritt-bayern-justizminister-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/georg-eisenreich-csu-ruecktritt-bayern-justizminister",
-      "published": "Thu, 17 Sep 2026 10:59:08 -0000",
-      "published_display": "17.09.2026 · 10:59 Uhr"
-    },
-    {
-      "title": "Hitzetote: RKI: Rund 200 Menschen in Brandenburg durch Hitze gestorben",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/rki-rund-200-menschen-in-brandenburg-durch-hitze-gestorben-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/rki-rund-200-menschen-in-brandenburg-durch-hitze-gestorben",
-      "published": "Thu, 17 Sep 2026 10:55:48 -0000",
-      "published_display": "17.09.2026 · 10:55 Uhr"
     }
   ]
 }
