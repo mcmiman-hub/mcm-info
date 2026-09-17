@@ -1,7 +1,95 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-17T03:56:27.783754+00:00",
+  "updated": "2026-09-17T04:18:12.484051+00:00",
   "items": [
+    {
+      "title": "Kollision zweier Autos: Autofahrer stirbt bei Verkehrsunfall – Polizei ermittelt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/autofahrer-stirbt-bei-verkehrsunfall-polizei-ermittelt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/autofahrer-stirbt-bei-verkehrsunfall-polizei-ermittelt",
+      "published": "Thu, 17 Sep 2026 04:16:18 -0000",
+      "published_display": "17.09.2026 · 04:16 Uhr"
+    },
+    {
+      "title": "Fernsehen: Ehrlich-Bruder: Chris war schon als Kind Schauspieler",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/ehrlich-bruder-chris-war-schon-als-kind-schauspieler-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/ehrlich-bruder-chris-war-schon-als-kind-schauspieler",
+      "published": "Thu, 17 Sep 2026 04:15:04 -0000",
+      "published_display": "17.09.2026 · 04:15 Uhr"
+    },
+    {
+      "title": "Wetter: Nebliger Start - So wird das Wetter im Tagesverlauf",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/nebliger-start-so-wird-das-wetter-im-tagesverlauf-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/nebliger-start-so-wird-das-wetter-im-tagesverlauf",
+      "published": "Thu, 17 Sep 2026 04:07:33 -0000",
+      "published_display": "17.09.2026 · 04:07 Uhr"
+    },
+    {
+      "title": "Friedrich Merz: Kanzlersturz-Debatte – wie gefährdet ist Merz wirklich?",
+      "summary": "Seit der Wahl in Sachsen-Anhalt diskutiert die CDU über Merz: Ist seine Kanzlerschaft in Gefahr? Und: Warum Saudi-Arabien nach Huthi-Angriffen ohne Hilfe bleibt.",
+      "image": "https://img.zeit.de/politik/2026-09/friedrich-merz-cdu-bundeskanzler-nachrichtenpodcast-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/2026-09/friedrich-merz-cdu-bundeskanzler-nachrichtenpodcast",
+      "published": "Thu, 17 Sep 2026 04:01:31 -0000",
+      "published_display": "17.09.2026 · 04:01 Uhr"
+    },
+    {
+      "title": "Kanzler-Krise: CDU-Vorstandsmitglied Augustin: «Die Wünsche sind deutlich»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/cdu-vorstandsmitglied-augustin-die-wuensche-sind-deutlich-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/cdu-vorstandsmitglied-augustin-die-wuensche-sind-deutlich",
+      "published": "Thu, 17 Sep 2026 04:00:11 -0000",
+      "published_display": "17.09.2026 · 04:00 Uhr"
+    },
+    {
+      "title": "Klima und Wasser: WMO: Die weltweiten Wasserspeicher schrumpfen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/wmo-die-weltweiten-wasserspeicher-schrumpfen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/wmo-die-weltweiten-wasserspeicher-schrumpfen",
+      "published": "Thu, 17 Sep 2026 04:00:10 -0000",
+      "published_display": "17.09.2026 · 04:00 Uhr"
+    },
+    {
+      "title": "Gesundheit: Kostenloser Herz-Check am Berliner Hauptbahnhof",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/kostenloser-herz-check-am-berliner-hauptbahnhof-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/kostenloser-herz-check-am-berliner-hauptbahnhof",
+      "published": "Thu, 17 Sep 2026 04:00:09 -0000",
+      "published_display": "17.09.2026 · 04:00 Uhr"
+    },
+    {
+      "title": "Elbvertiefung: Der tägliche Newsletter aus Hamburg: Millionenschaden durch Missmanagement in öffentlichen Unternehmen",
+      "summary": "Die Elbvertiefung am Donnerstag – Mit unerledigten Strafermittlungen, männerzentrierter Planung und einer Liebesgeschichte",
+      "image": "https://img.zeit.de/hamburg/2026-09/muellverbrennungsanlage/original__640x360",
+      "link": "https://www.zeit.de/hamburg/2026-09/elbvertiefung-17-09-2026",
+      "published": "Thu, 17 Sep 2026 04:00:07 -0000",
+      "published_display": "17.09.2026 · 04:00 Uhr"
+    },
+    {
+      "title": "Technischer Defekt: Brand am Sicherungskasten stoppt U-Bahnen in Berlin",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/brand-am-sicherungskasten-stoppt-u-bahnen-in-berlin-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/brand-am-sicherungskasten-stoppt-u-bahnen-in-berlin",
+      "published": "Thu, 17 Sep 2026 04:00:03 -0000",
+      "published_display": "17.09.2026 · 04:00 Uhr"
+    },
+    {
+      "title": "Rechenzentren in den USA: Der Kampf ums »digitale Tor zur Hölle«",
+      "summary": "Die Angst vor KI ist das wichtigste Wahlkampfthema in den USA. Vor allem für Donald Trump wird das zum Problem.",
+      "image": "https://img.zeit.de/2026/40/der-kampf-ums-digitale-tor-zur-hoelle-bild-2/original__640x360",
+      "link": "https://www.zeit.de/2026/40/rechenzentren-usa-ki-wahlkampf-republikaner-donald-trump-sherrod-brown",
+      "published": "Thu, 17 Sep 2026 03:59:54 -0000",
+      "published_display": "17.09.2026 · 03:59 Uhr"
+    },
+    {
+      "title": "Notfälle: Fünfjähriger und sein Vater sterben bei Hausbrand",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/fuenfjaehriger-und-sein-vater-sterben-bei-hausbrand-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/fuenfjaehriger-und-sein-vater-sterben-bei-hausbrand",
+      "published": "Thu, 17 Sep 2026 03:59:12 -0000",
+      "published_display": "17.09.2026 · 03:59 Uhr"
+    },
     {
       "title": "Vereinte Nationen: USA verweigern Palästinenservertretern erneut Visa für UN-Debatte",
       "summary": "Die US-Regierung verlängert Sanktionen gegen Palästinenserpräsident Mahmud Abbas und andere Delegierte. Sie würden den Friedensprozess im Nahen Osten behindern, heißt es.",
@@ -33,94 +121,6 @@
       "link": "https://www.zeit.de/geld/2026-09/faktor-etf-sparer-investieren-msci-world-geldverbesserer",
       "published": "Thu, 17 Sep 2026 03:32:30 -0000",
       "published_display": "17.09.2026 · 03:32 Uhr"
-    },
-    {
-      "title": "Weinanbau im Klimawandel: Weinlese im Norden: Solaris statt Riesling",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/weinlese-im-norden-solaris-statt-riesling-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/weinlese-im-norden-solaris-statt-riesling",
-      "published": "Thu, 17 Sep 2026 03:30:09 -0000",
-      "published_display": "17.09.2026 · 03:30 Uhr"
-    },
-    {
-      "title": "Bundesgerichtshof prüft: Müssen Anbieter illegale Glücksspiel-Verluste zurückzahlen?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/muessen-anbieter-illegale-gluecksspiel-verluste-zurueckzahlen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/muessen-anbieter-illegale-gluecksspiel-verluste-zurueckzahlen",
-      "published": "Thu, 17 Sep 2026 03:30:06 -0000",
-      "published_display": "17.09.2026 · 03:30 Uhr"
-    },
-    {
-      "title": "Bauarbeiten: A1 Richtung Bremen wird gesperrt - Stau bei Hamburg erwartet",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/a1-richtung-bremen-wird-gesperrt-stau-bei-hamburg-erwartet-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/a1-richtung-bremen-wird-gesperrt-stau-bei-hamburg-erwartet",
-      "published": "Thu, 17 Sep 2026 03:30:05 -0000",
-      "published_display": "17.09.2026 · 03:30 Uhr"
-    },
-    {
-      "title": "Bahnverkehr: Zug rammt in Bayern umgestürzten Baum - Fahrgäste unverletzt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/zug-rammt-in-bayern-umgestuerzten-baum-fahrgaeste-unverletzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/zug-rammt-in-bayern-umgestuerzten-baum-fahrgaeste-unverletzt",
-      "published": "Thu, 17 Sep 2026 03:26:08 -0000",
-      "published_display": "17.09.2026 · 03:26 Uhr"
-    },
-    {
-      "title": "Wahlarena in Berlin: SPD-Kandidat Krach schließt Koalition mit Linkspartei nicht aus",
-      "summary": "In der Wahlarena stritten die Berliner Kandidaten über Mietenpolitik, Steuern und Antisemitismus. Offen bleibt, wer mit wem koalieren könnte. Das Liveblog zum Nachlesen",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/wahlarena-berlin-wahl-abgeordnetenhaus-debatte-rbb-live-bild-6/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/wahlarena-berlin-wahl-abgeordnetenhaus-debatte-rbb-live",
-      "published": "Thu, 17 Sep 2026 03:25:40 -0000",
-      "published_display": "17.09.2026 · 03:25 Uhr"
-    },
-    {
-      "title": "Autonomes Fahren: US-Behörde nimmt sich Teslas Robotaxi vor",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/us-behoerde-nimmt-sich-teslas-robotaxi-vor-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/us-behoerde-nimmt-sich-teslas-robotaxi-vor",
-      "published": "Thu, 17 Sep 2026 03:22:21 -0000",
-      "published_display": "17.09.2026 · 03:22 Uhr"
-    },
-    {
-      "title": "Haustiere: «Werden sie schrecklich vermissen»: Obamas trauern um Hündin",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/werden-sie-schrecklich-vermissen-obamas-trauern-um-huendin-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/werden-sie-schrecklich-vermissen-obamas-trauern-um-huendin",
-      "published": "Thu, 17 Sep 2026 03:19:52 -0000",
-      "published_display": "17.09.2026 · 03:19 Uhr"
-    },
-    {
-      "title": "TV-Duell: Wie ein altes Paar, das die Lügen nicht mehr hören kann",
-      "summary": "Wenige Tage vor der Landtagswahl in Mecklenburg-Vorpommern trifft Ministerpräsidentin Schwesig auf AfD-Herausforderer Holm. Anmerkungen zu einem hitzigen Duell",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/tv-duell-vor-landtagswahl-mecklenburg-vorpommern-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/tv-duell-manuela-schwesig-leif-erik-holm-mecklenburg-vorpommern-ndr",
-      "published": "Thu, 17 Sep 2026 03:17:22 -0000",
-      "published_display": "17.09.2026 · 03:17 Uhr"
-    },
-    {
-      "title": "Schifffahrt: Hohe Treibstoffpreise belasten deutsche Fischerei",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/hohe-treibstoffpreise-belasten-deutsche-fischerei-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/hohe-treibstoffpreise-belasten-deutsche-fischerei",
-      "published": "Thu, 17 Sep 2026 03:15:04 -0000",
-      "published_display": "17.09.2026 · 03:15 Uhr"
-    },
-    {
-      "title": "FC Bayern München: Hoeneß: Kane muss Ballon d'Or gewinnen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/hoeness-kane-muss-ballon-d-or-gewinnen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/hoeness-kane-muss-ballon-d-or-gewinnen",
-      "published": "Thu, 17 Sep 2026 03:10:04 -0000",
-      "published_display": "17.09.2026 · 03:10 Uhr"
-    },
-    {
-      "title": "Sicherheit und Energie: Warum MV so häufig im Fokus der großen Politik steht",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/warum-mv-so-haeufig-im-fokus-der-grossen-politik-steht-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/warum-mv-so-haeufig-im-fokus-der-grossen-politik-steht",
-      "published": "Thu, 17 Sep 2026 03:08:44 -0000",
-      "published_display": "17.09.2026 · 03:08 Uhr"
     }
   ]
 }
