@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-17T19:54:35.854453+00:00",
+  "updated": "2026-09-17T20:18:30.789664+00:00",
   "items": [
+    {
+      "title": "Handball: SC Magdeburg siegt klar bei Kriens-Luzern",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/sc-magdeburg-siegt-klar-bei-kriens-luzern-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/sc-magdeburg-siegt-klar-bei-kriens-luzern",
+      "published": "Thu, 17 Sep 2026 20:15:17 -0000",
+      "published_display": "17.09.2026 · 20:15 Uhr"
+    },
+    {
+      "title": "Deutsche Eishockey Liga: Eisbären Berlin gewinnen DEL-Eröffnungsspiel gegen Straubing",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/eisbaeren-berlin-gewinnen-del-eroeffnungsspiel-gegen-straubing-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/eisbaeren-berlin-gewinnen-del-eroeffnungsspiel-gegen-straubing",
+      "published": "Thu, 17 Sep 2026 19:59:48 -0000",
+      "published_display": "17.09.2026 · 19:59 Uhr"
+    },
     {
       "title": "Wahl zum Abgeordnetenhaus: Kochen oder schlafen - das wünschen sich die Kandidaten",
       "summary": "",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/gesundheit/2026-09/malaria-flughafen-frankfurt-muecke-infektion",
       "published": "Thu, 17 Sep 2026 18:37:14 -0000",
       "published_display": "17.09.2026 · 18:37 Uhr"
-    },
-    {
-      "title": "Landtagswahl: Wagenknecht für Benzinpreisdeckel und Steuersenkung",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/wagenknecht-fuer-benzinpreisdeckel-und-steuersenkung-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/wagenknecht-fuer-benzinpreisdeckel-und-steuersenkung",
-      "published": "Thu, 17 Sep 2026 18:31:03 -0000",
-      "published_display": "17.09.2026 · 18:31 Uhr"
-    },
-    {
-      "title": "Antisemitismus: Brandanschlag auf Synagoge in Wuppertal",
-      "summary": "In Wuppertal ist an einer Synagoge Feuer gelegt worden, die Polizei nahm einen Verdächtigen fest. Der Zentralrat der Juden fordert verstärkten Schutz zu Jom Kippur.",
-      "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-09/brandanschlag-synagoge-wuppertal-juedische-gemeinde-antisemitismus-foto-1/original__640x360",
-      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-09/brandanschlag-synagoge-wuppertal-juedische-gemeinde-antisemitismus-gxe",
-      "published": "Thu, 17 Sep 2026 18:29:27 -0000",
-      "published_display": "17.09.2026 · 18:29 Uhr"
     }
   ]
 }
