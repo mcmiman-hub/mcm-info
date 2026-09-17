@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-17T04:32:06.678232+00:00",
+  "updated": "2026-09-17T04:45:24.277969+00:00",
   "items": [
+    {
+      "title": "Polizei: Einsturzgefahr nach Verpuffung – Hausbewohnerin unverletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/einsturzgefahr-nach-verpuffung-hausbewohnerin-unverletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/einsturzgefahr-nach-verpuffung-hausbewohnerin-unverletzt",
+      "published": "Thu, 17 Sep 2026 04:33:41 -0000",
+      "published_display": "17.09.2026 · 04:33 Uhr"
+    },
     {
       "title": "Künstliche Intelligenz: OpenAI macht weitere Probleme mit KI öffentlich",
       "summary": "In Tests versuchte ein Modell laut dem Unternehmen, eigene Dateien als Quellen auszugeben. Die Veröffentlichung ist Teil eines neuen Verfahrens für mehr Transparenz.",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/17/fuenfjaehriger-und-sein-vater-sterben-bei-hausbrand",
       "published": "Thu, 17 Sep 2026 03:59:12 -0000",
       "published_display": "17.09.2026 · 03:59 Uhr"
-    },
-    {
-      "title": "Vereinte Nationen: USA verweigern Palästinenservertretern erneut Visa für UN-Debatte",
-      "summary": "Die US-Regierung verlängert Sanktionen gegen Palästinenserpräsident Mahmud Abbas und andere Delegierte. Sie würden den Friedensprozess im Nahen Osten behindern, heißt es.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/usa-visa-mahmud-abbas-un-generalversammlung-palaestinensische-autonomiebehoerde-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/usa-visa-mahmud-abbas-un-generalversammlung-palaestinenser-verweigert",
-      "published": "Thu, 17 Sep 2026 03:46:02 -0000",
-      "published_display": "17.09.2026 · 03:46 Uhr"
     }
   ]
 }
