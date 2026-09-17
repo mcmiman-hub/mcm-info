@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-17T00:23:57.894401+00:00",
+  "updated": "2026-09-17T00:49:22.930145+00:00",
   "items": [
+    {
+      "title": "Krieg gegen die Ukraine: US-Kongress beschließt Gesetz für Sanktionen gegen Russland",
+      "summary": "Nach dem Senat stimmte auch das Repräsentantenhaus neuen Strafmaßnahmen zu. Die Sanktionen sollen Russlands Präsident Wladimir Putin und die Ölexporte des Landes treffen.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/us-sanktionsgesetz-russland-kongress-ukraine-lindsey-graham-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/us-sanktionsgesetz-russland-kongress-ukraine-lindsey-graham",
+      "published": "Thu, 17 Sep 2026 00:33:23 -0000",
+      "published_display": "17.09.2026 · 00:33 Uhr"
+    },
     {
       "title": "Europäische Union: Trump droht EU mit Handelsstopp bei engerer Partnerschaft mit Kanada",
       "summary": "Die EU bietet Kanada eine »assoziierte Mitgliedschaft« an. Der US-Präsident nennt den Plan »lächerlich« – und droht Europa mit neuen Handelsbarrieren.",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/wirtschaft/2026-09/us-notenbank-erhoeht-erstmals-seit-2023-den-leitzins",
       "published": "Wed, 16 Sep 2026 22:07:19 -0000",
       "published_display": "16.09.2026 · 22:07 Uhr"
-    },
-    {
-      "title": "Kalenderblatt: Was geschah am 17. September?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/16/was-geschah-am-17-september-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/16/was-geschah-am-17-september",
-      "published": "Wed, 16 Sep 2026 21:55:04 -0000",
-      "published_display": "16.09.2026 · 21:55 Uhr"
     }
   ]
 }
