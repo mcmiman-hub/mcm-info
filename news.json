@@ -1,7 +1,55 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-17T21:54:29.254819+00:00",
+  "updated": "2026-09-17T22:16:56.770416+00:00",
   "items": [
+    {
+      "title": "Fernsehen: Im «Fiebertraum» - Klum feiert zweites «HeidiFest»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/klum-feiert-heidifest-und-wartet-auf-die-stargaeste-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/klum-feiert-heidifest-und-wartet-auf-die-stargaeste",
+      "published": "Thu, 17 Sep 2026 22:05:06 -0000",
+      "published_display": "17.09.2026 · 22:05 Uhr"
+    },
+    {
+      "title": "Sachsen-Anhalt: BSW-Chefin Mohamed Ali schließt Koalition mit AfD aus",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/bsw-chefin-mohamed-ali-schliesst-koalition-mit-afd-aus-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/bsw-chefin-mohamed-ali-schliesst-koalition-mit-afd-aus",
+      "published": "Thu, 17 Sep 2026 22:01:05 -0000",
+      "published_display": "17.09.2026 · 22:01 Uhr"
+    },
+    {
+      "title": "Gewerkschaften: DGB warnt vor AfD - und protestiert gegen Regierung",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/dgb-warnt-vor-afd-und-protestiert-gegen-regierung-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/dgb-warnt-vor-afd-und-protestiert-gegen-regierung",
+      "published": "Thu, 17 Sep 2026 22:01:04 -0000",
+      "published_display": "17.09.2026 · 22:01 Uhr"
+    },
+    {
+      "title": "Krieg gegen die Ukraine: Donald Tusk warnt vor russischen Angriffen auf Verbündete der Ukraine",
+      "summary": "Russland plant nach Angaben des polnischen Geheimdienstes »hybride Angriffe« auf Unterstützer der Ukraine. Die EU hat Milliarden für das Land angekündigt. Das Liveblog",
+      "image": "https://img.zeit.de/politik/2026-09/donald-tusk-ukraine-russland/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "published": "Thu, 17 Sep 2026 21:59:44 -0000",
+      "published_display": "17.09.2026 · 21:59 Uhr"
+    },
+    {
+      "title": "US-Einwanderungsbehörde ICE: Trump zieht Vorschlag für Leitung von ICE-Behörde zurück",
+      "summary": "Lance Schroyer sollte der neue Leiter der umstrittenen Einwanderungsbehörde werden. Nun hat Donald Trump seinen Personalvorschlag für die zentrale Stelle zurückgezogen.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/ice-leitung-lance-schroyer-donald-trump-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/ice-leitung-lance-schroyer-donald-trump",
+      "published": "Thu, 17 Sep 2026 21:59:29 -0000",
+      "published_display": "17.09.2026 · 21:59 Uhr"
+    },
+    {
+      "title": "Kalenderblatt: Was geschah am 18. September?",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/was-geschah-am-18-september-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/was-geschah-am-18-september",
+      "published": "Thu, 17 Sep 2026 21:55:04 -0000",
+      "published_display": "17.09.2026 · 21:55 Uhr"
+    },
     {
       "title": "Brände: Ein Todesopfer und zwei Verletzte nach Haus-Brand",
       "summary": "",
@@ -43,14 +91,6 @@
       "published_display": "17.09.2026 · 20:45 Uhr"
     },
     {
-      "title": "Krieg gegen die Ukraine: Ursula von der Leyen kündigt Milliardenzahlung an Ukraine an",
-      "summary": "Die EU zahlt der Ukraine 3,3 Milliarden Euro für Raketen und Drohnen. Polens Ministerpräsident Donald Tusk rechnet mit mehr Drohnenangriffen aus Russland. Das Liveblog",
-      "image": "https://img.zeit.de/politik/ausland/2026-03/ukraine-krieg-news-liveblog-bild-6/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "published": "Thu, 17 Sep 2026 20:29:23 -0000",
-      "published_display": "17.09.2026 · 20:29 Uhr"
-    },
-    {
       "title": "Umfrage zur MV-Wahl: Umfrage: SPD in MV überholt AfD - CDU rutscht weiter ab",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-09/17/umfrage-spd-in-mv-ueberholt-afd-cdu-rutscht-weiter-ab-image-group/original__640x360",
@@ -81,46 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/17/kochen-oder-schlafen-das-wuenschen-sich-die-kandidaten",
       "published": "Thu, 17 Sep 2026 19:46:30 -0000",
       "published_display": "17.09.2026 · 19:46 Uhr"
-    },
-    {
-      "title": "Vereinte Nationen: UN: Gleichstellung der Geschlechter 171 Jahre entfernt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/un-gleichstellung-der-geschlechter-171-jahre-entfernt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/un-gleichstellung-der-geschlechter-171-jahre-entfernt",
-      "published": "Thu, 17 Sep 2026 19:34:37 -0000",
-      "published_display": "17.09.2026 · 19:34 Uhr"
-    },
-    {
-      "title": "Leute: Klum feiert «HeidiFest» - und wartet auf die Stargäste",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/klum-feiert-heidifest-und-wartet-auf-die-stargaeste-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/klum-feiert-heidifest-und-wartet-auf-die-stargaeste",
-      "published": "Thu, 17 Sep 2026 19:30:52 -0000",
-      "published_display": "17.09.2026 · 19:30 Uhr"
-    },
-    {
-      "title": "Wahl zum Abgeordnetenhaus: Letzte Debatte vor Berlin-Wahl: Koalitionsfrage ist offen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/letzte-debatte-vor-berlin-wahl-koalitionsfrage-ist-offen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/letzte-debatte-vor-berlin-wahl-koalitionsfrage-ist-offen",
-      "published": "Thu, 17 Sep 2026 19:25:29 -0000",
-      "published_display": "17.09.2026 · 19:25 Uhr"
-    },
-    {
-      "title": "US-Migrationspolitik: Trump zieht überraschend Toppersonalie zu ICE-Behörde zurück",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/trump-zieht-ueberraschend-toppersonalie-zu-ice-behoerde-zurueck-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/trump-zieht-ueberraschend-toppersonalie-zu-ice-behoerde-zurueck",
-      "published": "Thu, 17 Sep 2026 19:24:04 -0000",
-      "published_display": "17.09.2026 · 19:24 Uhr"
-    },
-    {
-      "title": "Europa League: Hoffenheim verliert sein Eröffnungsspiel in der Europa League",
-      "summary": "Die TSG Hoffenheim ist mit einer Niederlage in die neue Europapokalsaison gestartet. OFI Kreta gewann überraschend im ersten Gruppenspiel. Der Spielbericht",
-      "image": "https://img.zeit.de/sport/2026-09/tsg-hoffenheim-ofi-kreta-europa-league-christian-ilzer-bild/original__640x360",
-      "link": "https://www.zeit.de/sport/2026-09/tsg-hoffenheim-ofi-kreta-europa-league-christian-ilzer",
-      "published": "Thu, 17 Sep 2026 19:11:54 -0000",
-      "published_display": "17.09.2026 · 19:11 Uhr"
     }
   ]
 }
