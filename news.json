@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-17T04:18:12.484051+00:00",
+  "updated": "2026-09-17T04:32:06.678232+00:00",
   "items": [
+    {
+      "title": "Künstliche Intelligenz: OpenAI macht weitere Probleme mit KI öffentlich",
+      "summary": "In Tests versuchte ein Modell laut dem Unternehmen, eigene Dateien als Quellen auszugeben. Die Veröffentlichung ist Teil eines neuen Verfahrens für mehr Transparenz.",
+      "image": "https://img.zeit.de/digital/2026-09/openai-ki-zwischenfaelle-sandbox-transparenz-sam-altman-foto-1/original__640x360",
+      "link": "https://www.zeit.de/digital/2026-09/openai-ki-zwischenfaelle-sandbox-transparenz-sam-altman",
+      "published": "Thu, 17 Sep 2026 04:27:54 -0000",
+      "published_display": "17.09.2026 · 04:27 Uhr"
+    },
+    {
+      "title": "Verkehr: Lkw-Brand auf A27 – Sperrung in beide Richtungen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/lkw-brand-auf-a27-sperrung-in-beide-richtungen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/lkw-brand-auf-a27-sperrung-in-beide-richtungen",
+      "published": "Thu, 17 Sep 2026 04:20:29 -0000",
+      "published_display": "17.09.2026 · 04:20 Uhr"
+    },
+    {
+      "title": "Fußball-Nationalmannschaft: Das ist bei der Klopp-Nominierung heute wichtig",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/das-ist-bei-der-klopp-nominierung-heute-wichtig-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/das-ist-bei-der-klopp-nominierung-heute-wichtig",
+      "published": "Thu, 17 Sep 2026 04:18:04 -0000",
+      "published_display": "17.09.2026 · 04:18 Uhr"
+    },
     {
       "title": "Kollision zweier Autos: Autofahrer stirbt bei Verkehrsunfall – Polizei ermittelt",
       "summary": "",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/politik/ausland/2026-09/usa-visa-mahmud-abbas-un-generalversammlung-palaestinenser-verweigert",
       "published": "Thu, 17 Sep 2026 03:46:02 -0000",
       "published_display": "17.09.2026 · 03:46 Uhr"
-    },
-    {
-      "title": "Krieg gegen die Ukraine: Russland greift erneut Odessa und Kyjiw an",
-      "summary": "Augenzeugen berichten von schweren Explosionen in der ukrainischen Hauptstadt. In der Hafenstadt Odessa wurden Behörden zufolge mehrere Menschen verletzt. Das Liveblog",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/krieg-ukraine-russland-angriffe-odessa-kyjiw-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "published": "Thu, 17 Sep 2026 03:44:14 -0000",
-      "published_display": "17.09.2026 · 03:44 Uhr"
-    },
-    {
-      "title": "Tacos mit geröstetem Sellerie und Jalapeño-Soße: Zeit, Ihre Tacos winterfest zu machen",
-      "summary": "Der Knollensellerie gewinnt keine Schönheitspreise, aber es sind die inneren Werte, die zählen. So wie in diesem Taco, in dem die Knolle gebacken zur Höchstform aufläuft.",
-      "image": "https://img.zeit.de/zeit-magazin/wochenmarkt/2026-09/tacos-sellerie-jalapeno-sosse-rezept-wochenmarkt-bild/original__640x360",
-      "link": "https://www.zeit.de/zeit-magazin/wochenmarkt/2026-09/tacos-sellerie-jalapeno-sosse-rezept-wochenmarkt",
-      "published": "Thu, 17 Sep 2026 03:42:25 -0000",
-      "published_display": "17.09.2026 · 03:42 Uhr"
-    },
-    {
-      "title": "Faktor-ETFs: Kann man so den MSCI World schlagen?",
-      "summary": "Mit Faktor-ETFs können Sparer höhere Renditen erzielen – und sind zugleich besser abgesichert. Zumindest theoretisch. Über Stärken und Schwächen des Produkts",
-      "image": "https://img.zeit.de/geld/2026-09/faktor-etf-sparer-investieren-msci-world-geldverbesserer-bild/original__640x360",
-      "link": "https://www.zeit.de/geld/2026-09/faktor-etf-sparer-investieren-msci-world-geldverbesserer",
-      "published": "Thu, 17 Sep 2026 03:32:30 -0000",
-      "published_display": "17.09.2026 · 03:32 Uhr"
     }
   ]
 }
