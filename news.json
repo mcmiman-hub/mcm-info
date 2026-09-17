@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-17T20:18:30.789664+00:00",
+  "updated": "2026-09-17T20:31:02.504810+00:00",
   "items": [
+    {
+      "title": "Krieg gegen die Ukraine: Ursula von der Leyen kündigt Milliardenzahlung an Ukraine an",
+      "summary": "Die EU zahlt der Ukraine 3,3 Milliarden Euro für Raketen und Drohnen. Polens Ministerpräsident Donald Tusk rechnet mit mehr Drohnenangriffen aus Russland. Das Liveblog",
+      "image": "https://img.zeit.de/politik/ausland/2026-03/ukraine-krieg-news-liveblog-bild-6/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "published": "Thu, 17 Sep 2026 20:29:23 -0000",
+      "published_display": "17.09.2026 · 20:29 Uhr"
+    },
+    {
+      "title": "Umfrage zur MV-Wahl: Umfrage: SPD in MV überholt AfD - CDU rutscht weiter ab",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/umfrage-spd-in-mv-ueberholt-afd-cdu-rutscht-weiter-ab-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/umfrage-spd-in-mv-ueberholt-afd-cdu-rutscht-weiter-ab",
+      "published": "Thu, 17 Sep 2026 20:23:17 -0000",
+      "published_display": "17.09.2026 · 20:23 Uhr"
+    },
     {
       "title": "Handball: SC Magdeburg siegt klar bei Kriens-Luzern",
       "summary": "",
@@ -25,14 +41,6 @@
       "link": "https://www.zeit.de/news/2026-09/17/kochen-oder-schlafen-das-wuenschen-sich-die-kandidaten",
       "published": "Thu, 17 Sep 2026 19:46:30 -0000",
       "published_display": "17.09.2026 · 19:46 Uhr"
-    },
-    {
-      "title": "Krieg gegen die Ukraine: Ursula von der Leyen kündigt Milliardenzahlung an Ukraine an",
-      "summary": "Die EU zahlt der Ukraine 3,3 Milliarden Euro für Raketen und Drohnen. Die Ukraine plant, 2027 so viel für Verteidigung auszugeben, wie noch nie zuvor. Das Liveblog",
-      "image": "https://img.zeit.de/politik/ausland/2026-03/ukraine-krieg-news-liveblog-bild-6/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "published": "Thu, 17 Sep 2026 19:39:47 -0000",
-      "published_display": "17.09.2026 · 19:39 Uhr"
     },
     {
       "title": "Vereinte Nationen: UN: Gleichstellung der Geschlechter 171 Jahre entfernt",
@@ -112,14 +120,6 @@
       "image": "https://img.zeit.de/news/2026-09/17/fehlstart-auf-urlaubsinsel-hoffenheim-kassiert-0-2-schlappe-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-09/17/fehlstart-auf-urlaubsinsel-hoffenheim-kassiert-0-2-schlappe",
       "published": "Thu, 17 Sep 2026 18:37:45 -0000",
-      "published_display": "17.09.2026 · 18:37 Uhr"
-    },
-    {
-      "title": "Malaria: Wie weit kann eine Mücke bitte fliegen?",
-      "summary": "Ein Anwohner des Frankfurter Flughafens ist an Malaria gestorben, das Gesundheitsamt ruft die Bevölkerung zum Mückenschutz auf. Was wir über die aktuellen Fälle wissen.",
-      "image": "https://img.zeit.de/gesundheit/2026-09/malaria-flughafen-frankfurt-muecke-infektion-bild-2/original__640x360",
-      "link": "https://www.zeit.de/gesundheit/2026-09/malaria-flughafen-frankfurt-muecke-infektion",
-      "published": "Thu, 17 Sep 2026 18:37:14 -0000",
       "published_display": "17.09.2026 · 18:37 Uhr"
     }
   ]
