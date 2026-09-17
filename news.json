@@ -1,7 +1,55 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-17T07:33:26.883032+00:00",
+  "updated": "2026-09-17T07:46:11.196800+00:00",
   "items": [
+    {
+      "title": "Leichenfund auf Parkplatz: Polizei: Toter lag mehrere Tage in abgestelltem Auto",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/polizei-toter-lag-mehrere-tage-in-abgestelltem-auto-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/polizei-toter-lag-mehrere-tage-in-abgestelltem-auto",
+      "published": "Thu, 17 Sep 2026 07:42:53 -0000",
+      "published_display": "17.09.2026 · 07:42 Uhr"
+    },
+    {
+      "title": "Glücksspiel: Lottospieler aus MV gewinnt 50 Millionen Euro",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/lottospieler-aus-mv-gewinnt-50-millionen-euro-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/lottospieler-aus-mv-gewinnt-50-millionen-euro",
+      "published": "Thu, 17 Sep 2026 07:41:44 -0000",
+      "published_display": "17.09.2026 · 07:41 Uhr"
+    },
+    {
+      "title": "Konjunktur: Auftragsbestand der deutschen Industrie steigt auf Rekord",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/auftragsbestand-der-deutschen-industrie-steigt-auf-rekord-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/auftragsbestand-der-deutschen-industrie-steigt-auf-rekord",
+      "published": "Thu, 17 Sep 2026 07:41:29 -0000",
+      "published_display": "17.09.2026 · 07:41 Uhr"
+    },
+    {
+      "title": "Regierung: Kreise: Bayerns Justizminister Eisenreich will zurücktreten",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/kreise-bayerns-justizminister-eisenreich-will-zuruecktreten-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/kreise-bayerns-justizminister-eisenreich-will-zuruecktreten",
+      "published": "Thu, 17 Sep 2026 07:40:55 -0000",
+      "published_display": "17.09.2026 · 07:40 Uhr"
+    },
+    {
+      "title": "Frankfurter Flughafen: Gesundheitsamt rät zu Mückenschutz wegen Malaria-Fällen in Frankfurt",
+      "summary": "Zwei neue Malaria-Fälle sind nahe dem Frankfurter Flughafen entdeckt worden. Die Bewohner sollen sich mit entsprechender Kleidung, Sprays und Fliegengittern schützen.",
+      "image": "https://img.zeit.de/gesundheit/2026-09/malaria-frankfurt-flughafen-muecke-gesundheitsamt-foto-1/original__640x360",
+      "link": "https://www.zeit.de/gesundheit/2026-09/malaria-frankfurt-flughafen-muecke-gesundheitsamt",
+      "published": "Thu, 17 Sep 2026 07:39:56 -0000",
+      "published_display": "17.09.2026 · 07:39 Uhr"
+    },
+    {
+      "title": "Ukrainekarte aktuell: Ukrainische Armee rückt nordöstlich des Verteidigungsgürtels vor",
+      "summary": "Ukrainische Einheiten haben Gebiete an der Front von Borowa bis Slowjansk zurückerobert. Russische Streitkräfte dringen dagegen bei Dobropillja und Orichiw vor.",
+      "image": "https://img.zeit.de/politik/ausland/2023-09/karte-ukraine-krieg-russland-frontverlauf-truppenbewegungen-teaserbild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/ukraine-russland-frontverlauf-krieg-karte-aktuell",
+      "published": "Thu, 17 Sep 2026 07:36:20 -0000",
+      "published_display": "17.09.2026 · 07:36 Uhr"
+    },
     {
       "title": "Freizeit: Kasper statt Achterbahn: Nostalgie auf der Eisleber Wiese",
       "summary": "",
@@ -33,14 +81,6 @@
       "link": "https://www.zeit.de/news/2026-09/17/bayern-heiss-auf-basketball-revanche-alba-haelt-starspieler",
       "published": "Thu, 17 Sep 2026 07:25:20 -0000",
       "published_display": "17.09.2026 · 07:25 Uhr"
-    },
-    {
-      "title": "Glücksspiele: Lottospieler aus MV gewinnt 50 Millionen Euro",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/lottospieler-aus-mv-gewinnt-50-millionen-euro-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/lottospieler-aus-mv-gewinnt-50-millionen-euro",
-      "published": "Thu, 17 Sep 2026 07:24:40 -0000",
-      "published_display": "17.09.2026 · 07:24 Uhr"
     },
     {
       "title": "Spritpreise: Diesel in Deutschland ist so teuer wie nie zuvor",
@@ -81,46 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/17/mann-bei-einsturz-eines-baugeruests-toedlich-verunglueckt",
       "published": "Thu, 17 Sep 2026 07:10:50 -0000",
       "published_display": "17.09.2026 · 07:10 Uhr"
-    },
-    {
-      "title": "Unfallursache unklar: Unfall bei Iserlohn: Zwei Menschen lebensgefährlich verletzt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/unfall-bei-iserlohn-zwei-menschen-lebensgefaehrlich-verletzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/unfall-bei-iserlohn-zwei-menschen-lebensgefaehrlich-verletzt",
-      "published": "Thu, 17 Sep 2026 07:08:38 -0000",
-      "published_display": "17.09.2026 · 07:08 Uhr"
-    },
-    {
-      "title": "Unfälle: 150 Bierkästen kippen auf die Autobahn - A73 gesperrt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/150-bierkaesten-kippen-auf-die-autobahn-a73-gesperrt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/150-bierkaesten-kippen-auf-die-autobahn-a73-gesperrt",
-      "published": "Thu, 17 Sep 2026 07:07:30 -0000",
-      "published_display": "17.09.2026 · 07:07 Uhr"
-    },
-    {
-      "title": "Leute: MTV Video Music Awards: Madonna singt nach 23 Jahren wieder",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/mtv-video-music-awards-madonna-singt-nach-23-jahren-wieder-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/mtv-video-music-awards-madonna-singt-nach-23-jahren-wieder",
-      "published": "Thu, 17 Sep 2026 07:04:18 -0000",
-      "published_display": "17.09.2026 · 07:04 Uhr"
-    },
-    {
-      "title": "Unfälle: Notarztwagen stößt auf Weg zu Einsatz mit Lastwagen zusammen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/notarztwagen-stoesst-auf-weg-zu-einsatz-mit-lastwagen-zusammen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/notarztwagen-stoesst-auf-weg-zu-einsatz-mit-lastwagen-zusammen",
-      "published": "Thu, 17 Sep 2026 07:03:34 -0000",
-      "published_display": "17.09.2026 · 07:03 Uhr"
-    },
-    {
-      "title": "Soziale Medien: Experten begrüßen geplante Social-Media-Beschränkungen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/experten-begruessen-geplante-social-media-beschraenkungen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/experten-begruessen-geplante-social-media-beschraenkungen",
-      "published": "Thu, 17 Sep 2026 07:00:07 -0000",
-      "published_display": "17.09.2026 · 07:00 Uhr"
     }
   ]
 }
