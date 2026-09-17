@@ -1,7 +1,71 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-17T13:32:36.680929+00:00",
+  "updated": "2026-09-17T13:45:59.115083+00:00",
   "items": [
+    {
+      "title": "Offshore-Windpark He Dreiht: Deutschlands größter Windpark auf See offiziell eröffnet",
+      "summary": "Rund 110 Kilometer vor Helgoland können 64 Windräder fast ein Gigawatt Strom liefern. Seine volle Leistung soll der Windpark erstmals im Oktober erreichen.",
+      "image": "https://img.zeit.de/wirtschaft/2026-09/offshore-windpark-he-dreiht-enbw-nordsee-vestas-foto-1/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/2026-09/offshore-windpark-he-dreiht-enbw-nordsee-vestas",
+      "published": "Thu, 17 Sep 2026 13:44:04 -0000",
+      "published_display": "17.09.2026 · 13:44 Uhr"
+    },
+    {
+      "title": "Hose ausgezogen und gestohlen: Mann nach sexueller Orientierung gefragt und ausgeraubt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/mann-nach-sexueller-orientierung-gefragt-und-ausgeraubt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/mann-nach-sexueller-orientierung-gefragt-und-ausgeraubt",
+      "published": "Thu, 17 Sep 2026 13:43:21 -0000",
+      "published_display": "17.09.2026 · 13:43 Uhr"
+    },
+    {
+      "title": "Risiken von KI: Reguliert sie!",
+      "summary": "Ist KI so riskant wie Atomkraft? Die Menschen könnten ihr jedenfalls irgendwann herzlich egal sein.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/reguliert-sie-bild/original__640x360",
+      "link": "https://www.zeit.de/2026/40/risiken-ki-gefahren-atomkraft-regulierung-kontrolle",
+      "published": "Thu, 17 Sep 2026 13:42:59 -0000",
+      "published_display": "17.09.2026 · 13:42 Uhr"
+    },
+    {
+      "title": "Prozess: BGH bestätigt Urteil nach Leichenfund am Rodder Maar",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/bgh-bestaetigt-urteil-nach-leichenfund-am-rodder-maar-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/bgh-bestaetigt-urteil-nach-leichenfund-am-rodder-maar",
+      "published": "Thu, 17 Sep 2026 13:40:32 -0000",
+      "published_display": "17.09.2026 · 13:40 Uhr"
+    },
+    {
+      "title": "Spritpreise: Nach Diesel-Rekord - Spritpreise in Sachsen besonders hoch",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/nach-diesel-rekord-spritpreise-in-sachsen-besonders-hoch-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/nach-diesel-rekord-spritpreise-in-sachsen-besonders-hoch",
+      "published": "Thu, 17 Sep 2026 13:35:47 -0000",
+      "published_display": "17.09.2026 · 13:35 Uhr"
+    },
+    {
+      "title": "Malaria in Deutschland: Todesfall nach Malariainfektion nahe dem Frankfurter Flughafen",
+      "summary": "Zwei Bewohner aus Frankfurt-Schwanheim waren an Malaria erkrankt, wie am Dienstag bekannt wurde. Eine Person ist nun nach Angaben der Stadt verstorben.",
+      "image": "https://img.zeit.de/gesellschaft/2026-09/malaria-frankfurt-bild/original__640x360",
+      "link": "https://www.zeit.de/gesundheit/2026-09/todesfall-nach-malariainfektion-nahe-dem-frankfurter-flughafen",
+      "published": "Thu, 17 Sep 2026 13:34:09 -0000",
+      "published_display": "17.09.2026 · 13:34 Uhr"
+    },
+    {
+      "title": "Filmstar: Heinz Hoenig hat das Krankenhaus wieder verlassen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/heinz-hoenig-hat-das-krankenhaus-wieder-verlassen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/heinz-hoenig-hat-das-krankenhaus-wieder-verlassen",
+      "published": "Thu, 17 Sep 2026 13:31:54 -0000",
+      "published_display": "17.09.2026 · 13:31 Uhr"
+    },
+    {
+      "title": "Tarife: Seehäfen warnen vor Eskalation im Tarifstreit",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/seehaefen-warnen-vor-eskalation-im-tarifstreit-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/seehaefen-warnen-vor-eskalation-im-tarifstreit",
+      "published": "Thu, 17 Sep 2026 13:31:30 -0000",
+      "published_display": "17.09.2026 · 13:31 Uhr"
+    },
     {
       "title": "Glücksspiel: Sechs Euro Einsatz - Lottospieler gewinnt 50 Millionen Euro",
       "summary": "",
@@ -24,14 +88,6 @@
       "image": "https://img.zeit.de/news/2026-09/17/dfb-aus-schalke-profi-el-faouzi-im-marokko-aufgebot-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-09/17/dfb-aus-schalke-profi-el-faouzi-im-marokko-aufgebot",
       "published": "Thu, 17 Sep 2026 13:28:58 -0000",
-      "published_display": "17.09.2026 · 13:28 Uhr"
-    },
-    {
-      "title": "Malaria in Deutschland: Todesfall nach Malariainfektion nahe dem Frankfurter Flughafen",
-      "summary": "Zwei Bewohner aus Frankfurt-Schwanheim waren an Malaria erkrankt. Eine Person ist nun verstorben, wie die Stadt Frankfurt mitteilte.",
-      "image": "https://img.zeit.de/administratives/eilmeldung/fallback-bild/original__640x360",
-      "link": "https://www.zeit.de/gesundheit/2026-09/todesfall-nach-malariainfektion-nahe-dem-frankfurter-flughafen",
-      "published": "Thu, 17 Sep 2026 13:28:29 -0000",
       "published_display": "17.09.2026 · 13:28 Uhr"
     },
     {
@@ -65,62 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/17/mainz-vor-gladbach-martel-im-kader-schwolow-wohl-im-tor",
       "published": "Thu, 17 Sep 2026 13:27:26 -0000",
       "published_display": "17.09.2026 · 13:27 Uhr"
-    },
-    {
-      "title": "Bundesanwaltschaft: Mutmaßlicher IS-Anhänger soll Anschlag in Bremen geplant haben",
-      "summary": "Die Polizei hat in Brandenburg einen mutmaßlichen IS-Anhänger festgenommen, der mit anderen Anschläge geplant haben soll. Erstes Ziel sollte eine Kirche in Bremen sein.",
-      "image": "https://img.zeit.de/politik/2026-09/gba-nimmt-is-anhaenger-in-brandenburg-fest-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/festnahme-mutmasslicher-is-anhaenger-soll-anschlag-geplant-haben",
-      "published": "Thu, 17 Sep 2026 13:27:03 -0000",
-      "published_display": "17.09.2026 · 13:27 Uhr"
-    },
-    {
-      "title": "2. Fußball-Bundesliga: Analyse statt freier Tag: Lieberknecht vor Wiedersehen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/analyse-statt-freier-tag-lieberknecht-vor-wiedersehen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/analyse-statt-freier-tag-lieberknecht-vor-wiedersehen",
-      "published": "Thu, 17 Sep 2026 13:25:38 -0000",
-      "published_display": "17.09.2026 · 13:25 Uhr"
-    },
-    {
-      "title": "Fußball-Bundesliga: Werder will Aufschwung gegen Augsburg fortsetzen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/werder-will-aufschwung-gegen-augsburg-fortsetzen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/werder-will-aufschwung-gegen-augsburg-fortsetzen",
-      "published": "Thu, 17 Sep 2026 13:24:51 -0000",
-      "published_display": "17.09.2026 · 13:24 Uhr"
-    },
-    {
-      "title": "2. Fußball-Bundesliga: Kloses Handschrift in Nürnberg: «Passt wie Arsch auf Eimer»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/kloses-handschrift-in-nuernberg-passt-wie-arsch-auf-eimer-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/kloses-handschrift-in-nuernberg-passt-wie-arsch-auf-eimer",
-      "published": "Thu, 17 Sep 2026 13:22:33 -0000",
-      "published_display": "17.09.2026 · 13:22 Uhr"
-    },
-    {
-      "title": "Fußball-Bundesliga: Atubolu: Wilde Wochen und ein schnelles Wiedersehen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/atubolu-wilde-wochen-und-ein-schnelles-wiedersehen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/atubolu-wilde-wochen-und-ein-schnelles-wiedersehen",
-      "published": "Thu, 17 Sep 2026 13:22:07 -0000",
-      "published_display": "17.09.2026 · 13:22 Uhr"
-    },
-    {
-      "title": "Riesenland in Nordamerika: Politik, Monarchie, Geografie: So tickt das begehrte Kanada",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/politik-monarchie-geografie-so-tickt-das-begehrte-kanada-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/politik-monarchie-geografie-so-tickt-das-begehrte-kanada",
-      "published": "Thu, 17 Sep 2026 13:20:35 -0000",
-      "published_display": "17.09.2026 · 13:20 Uhr"
-    },
-    {
-      "title": "2. Fußball-Bundesliga: Analyse statt freier Tag: FCK optimistisch vor Braunschweig",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/analyse-statt-freier-tag-fck-optimistisch-vor-braunschweig-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/analyse-statt-freier-tag-fck-optimistisch-vor-braunschweig",
-      "published": "Thu, 17 Sep 2026 13:20:15 -0000",
-      "published_display": "17.09.2026 · 13:20 Uhr"
     }
   ]
 }
