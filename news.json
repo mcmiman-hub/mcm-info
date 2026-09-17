@@ -1,7 +1,55 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-17T07:46:11.196800+00:00",
+  "updated": "2026-09-17T07:55:50.879629+00:00",
   "items": [
+    {
+      "title": "Spritpreise: Diesel in Deutschland ist so teuer wie nie zuvor",
+      "summary": "Mit 2,453 Euro pro Liter hat der Preis für Diesel den bisherigen Höchstwert vom April überschritten. Der Benzinpreis hatte schon am Mittwoch einen Höchstpreis erreicht.",
+      "image": "https://img.zeit.de/wirtschaft/2026-09/diesel-in-deutschland-teuer-wie-nie-zuvor-bild-2/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/2026-09/diesel-in-deutschland-teuer-wie-nie-zuvor",
+      "published": "Thu, 17 Sep 2026 07:53:42 -0000",
+      "published_display": "17.09.2026 · 07:53 Uhr"
+    },
+    {
+      "title": "Brände: Wohnungsbrand in Buxtehude – Nachbar rettet Mann mit Leiter",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/wohnungsbrand-in-buxtehude-nachbar-rettet-mann-mit-leiter-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/wohnungsbrand-in-buxtehude-nachbar-rettet-mann-mit-leiter",
+      "published": "Thu, 17 Sep 2026 07:49:15 -0000",
+      "published_display": "17.09.2026 · 07:49 Uhr"
+    },
+    {
+      "title": "Vorhersage: Regenschirme raus – wechselhaftes Wochenende in NRW",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/regenschirme-raus-wechselhaftes-wochenende-in-nrw-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/regenschirme-raus-wechselhaftes-wochenende-in-nrw",
+      "published": "Thu, 17 Sep 2026 07:48:48 -0000",
+      "published_display": "17.09.2026 · 07:48 Uhr"
+    },
+    {
+      "title": "Kriminalität: Polizei meldet eine Festnahme nach Explosionen in Frankfurt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/anwohner-schrecken-auf-erneut-zwei-explosionen-in-frankfurt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/anwohner-schrecken-auf-erneut-zwei-explosionen-in-frankfurt",
+      "published": "Thu, 17 Sep 2026 07:47:47 -0000",
+      "published_display": "17.09.2026 · 07:47 Uhr"
+    },
+    {
+      "title": "Wahlumfragen zu Landtagswahlen 2026: Das sagen die Umfragen für Berlin und Mecklenburg-Vorpommern",
+      "summary": "Die AfD führt in Mecklenburg-Vorpommern, in Berlin ringen derzeit vier Parteien um die Spitze. Unsere Übersicht aller Umfragen für die Landtagswahlen 2026",
+      "image": "https://img.zeit.de/politik/deutschland/2025-09/sonntagsfrage-landtagswahlen-2026-wahltrends-umfrage-2/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/wahlumfragen-landtagswahlen-2026-wahltrends",
+      "published": "Thu, 17 Sep 2026 07:46:45 -0000",
+      "published_display": "17.09.2026 · 07:46 Uhr"
+    },
+    {
+      "title": "Staatsregierung: Kreise: Bayerns Justizminister Eisenreich tritt zurück",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/kreise-bayerns-justizminister-eisenreich-will-zuruecktreten-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/kreise-bayerns-justizminister-eisenreich-will-zuruecktreten",
+      "published": "Thu, 17 Sep 2026 07:46:31 -0000",
+      "published_display": "17.09.2026 · 07:46 Uhr"
+    },
     {
       "title": "Leichenfund auf Parkplatz: Polizei: Toter lag mehrere Tage in abgestelltem Auto",
       "summary": "",
@@ -25,14 +73,6 @@
       "link": "https://www.zeit.de/news/2026-09/17/auftragsbestand-der-deutschen-industrie-steigt-auf-rekord",
       "published": "Thu, 17 Sep 2026 07:41:29 -0000",
       "published_display": "17.09.2026 · 07:41 Uhr"
-    },
-    {
-      "title": "Regierung: Kreise: Bayerns Justizminister Eisenreich will zurücktreten",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/kreise-bayerns-justizminister-eisenreich-will-zuruecktreten-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/kreise-bayerns-justizminister-eisenreich-will-zuruecktreten",
-      "published": "Thu, 17 Sep 2026 07:40:55 -0000",
-      "published_display": "17.09.2026 · 07:40 Uhr"
     },
     {
       "title": "Frankfurter Flughafen: Gesundheitsamt rät zu Mückenschutz wegen Malaria-Fällen in Frankfurt",
@@ -81,46 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/17/bayern-heiss-auf-basketball-revanche-alba-haelt-starspieler",
       "published": "Thu, 17 Sep 2026 07:25:20 -0000",
       "published_display": "17.09.2026 · 07:25 Uhr"
-    },
-    {
-      "title": "Spritpreise: Diesel in Deutschland ist so teuer wie nie zuvor",
-      "summary": "Mit 2,453 Euro pro Liter hat der Preis für Diesel den bisherigen Höchstwert vom April überschritten. Der Benzinpreis hatte schon am Mittwoch einen Höchstpreis erreicht.",
-      "image": "https://img.zeit.de/wirtschaft/2026-09/diesel-in-deutschland-teuer-wie-nie-zuvor-bild/original__640x360",
-      "link": "https://www.zeit.de/wirtschaft/2026-09/diesel-in-deutschland-teuer-wie-nie-zuvor",
-      "published": "Thu, 17 Sep 2026 07:16:21 -0000",
-      "published_display": "17.09.2026 · 07:16 Uhr"
-    },
-    {
-      "title": "Fußball-Bundesliga: Medien: HSV verlängert Vertrag mit Trainer Polzin bis 2029",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/medien-hsv-verlaengert-vertrag-mit-trainer-polzin-bis-2029-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/medien-hsv-verlaengert-vertrag-mit-trainer-polzin-bis-2029",
-      "published": "Thu, 17 Sep 2026 07:14:30 -0000",
-      "published_display": "17.09.2026 · 07:14 Uhr"
-    },
-    {
-      "title": "Vorhersage: Herbstwetter in Hessen: Regen, Wind und milde Temperaturen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/herbstwetter-in-hessen-regen-wind-und-milde-temperaturen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/herbstwetter-in-hessen-regen-wind-und-milde-temperaturen",
-      "published": "Thu, 17 Sep 2026 07:13:09 -0000",
-      "published_display": "17.09.2026 · 07:13 Uhr"
-    },
-    {
-      "title": "Verkehr: Fußgänger verunglückt tödlich auf Autobahn Richtung Airport",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/fussgaenger-verunglueckt-toedlich-auf-autobahn-richtung-airport-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/fussgaenger-verunglueckt-toedlich-auf-autobahn-richtung-airport",
-      "published": "Thu, 17 Sep 2026 07:11:48 -0000",
-      "published_display": "17.09.2026 · 07:11 Uhr"
-    },
-    {
-      "title": "Unfall in Dortmunder Zoo: Mann bei Einsturz eines Baugerüsts tödlich verunglückt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/mann-bei-einsturz-eines-baugeruests-toedlich-verunglueckt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/mann-bei-einsturz-eines-baugeruests-toedlich-verunglueckt",
-      "published": "Thu, 17 Sep 2026 07:10:50 -0000",
-      "published_display": "17.09.2026 · 07:10 Uhr"
     }
   ]
 }
