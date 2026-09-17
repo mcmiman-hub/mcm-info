@@ -1,14 +1,30 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-17T20:54:15.598220+00:00",
+  "updated": "2026-09-17T21:17:28.073197+00:00",
   "items": [
     {
-      "title": "ZDF-Politbarometer Extra: SPD überholt AfD in Mecklenburg-Vorpommern knapp",
+      "title": "ZDF-»Politbarometer Extra«: SPD überholt AfD in Mecklenburg-Vorpommern knapp",
       "summary": "Vor der Landtagswahl in Mecklenburg-Vorpommern liegen die Sozialdemokraten in einer Umfrage knapp vor der AfD. CDU und Grünen kämen demnach ins Parlament, das BSW nicht.",
       "image": "https://img.zeit.de/politik/deutschland/2026-09/landtagswahl-mecklenburg-vorpommern-spd-afd-cdu-umfrage-zdf-foto-1/original__640x360",
       "link": "https://www.zeit.de/politik/deutschland/2026-09/landtagswahl-mecklenburg-vorpommern-spd-afd-cdu-umfrage-zdf",
-      "published": "Thu, 17 Sep 2026 20:48:27 -0000",
-      "published_display": "17.09.2026 · 20:48 Uhr"
+      "published": "Thu, 17 Sep 2026 21:10:22 -0000",
+      "published_display": "17.09.2026 · 21:10 Uhr"
+    },
+    {
+      "title": "Wahl in Berlin: Linke liegt in Berlin vor der CDU",
+      "summary": "Die Linke liegt einer ZDF-Umfrage nach drei Tage vor der Berliner Abgeordnetenhauswahl in Führung. Knapp dahinter folgt die CDU, die AfD ist drittstärkste Kraft.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/berlin-wahl-2026-umfrage-cdu-linke-afd-stefan-evers-kai-wegner-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/berlin-wahl-2026-umfrage-cdu-linke-afd-stefan-evers-kai-wegner",
+      "published": "Thu, 17 Sep 2026 21:08:48 -0000",
+      "published_display": "17.09.2026 · 21:08 Uhr"
+    },
+    {
+      "title": "Münchner Philharmoniker: Dirigent Lahav Shani feiert umjubelte Premiere in München",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/dirigent-lahav-shani-feiert-umjubelte-premiere-in-muenchen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/dirigent-lahav-shani-feiert-umjubelte-premiere-in-muenchen",
+      "published": "Thu, 17 Sep 2026 21:03:27 -0000",
+      "published_display": "17.09.2026 · 21:03 Uhr"
     },
     {
       "title": "Neue Erhebung: Umfrage: Linke knapp vor CDU bei Berlin-Wahl",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/17/baumann-tritt-gegen-nagelsmann-nach-war-unfassbar",
       "published": "Thu, 17 Sep 2026 19:06:23 -0000",
       "published_display": "17.09.2026 · 19:06 Uhr"
-    },
-    {
-      "title": "Reeperbahn-Festival: Jan Delay plus Delaydies - Gratiskonzert auf Wassercontainer",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/jan-delay-plus-delaydies-gratiskonzert-auf-wassercontainer-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/jan-delay-plus-delaydies-gratiskonzert-auf-wassercontainer",
-      "published": "Thu, 17 Sep 2026 18:51:21 -0000",
-      "published_display": "17.09.2026 · 18:51 Uhr"
-    },
-    {
-      "title": "Champions League: Melsungen verliert bei polnischem Spitzenteam Plock",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/melsungen-verliert-bei-polnischem-spitzenteam-plock-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/melsungen-verliert-bei-polnischem-spitzenteam-plock",
-      "published": "Thu, 17 Sep 2026 18:41:25 -0000",
-      "published_display": "17.09.2026 · 18:41 Uhr"
     }
   ]
 }
