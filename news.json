@@ -1,21 +1,29 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-17T16:44:32.951722+00:00",
+  "updated": "2026-09-17T16:55:49.012799+00:00",
   "items": [
+    {
+      "title": "Niemand verletzt: 37-Jähriger soll Feuer an Wuppertaler Synagoge gelegt haben",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/mann-soll-feuer-an-tuer-von-wuppertaler-synagoge-gelegt-haben-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/mann-soll-feuer-an-tuer-von-wuppertaler-synagoge-gelegt-haben",
+      "published": "Thu, 17 Sep 2026 16:51:09 -0000",
+      "published_display": "17.09.2026 · 16:51 Uhr"
+    },
+    {
+      "title": "Volleyball: Dezimierte BR Volleys verlieren erstes Testspiel",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/dezimierte-br-volleys-verlieren-erstes-testspiel-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/dezimierte-br-volleys-verlieren-erstes-testspiel",
+      "published": "Thu, 17 Sep 2026 16:50:51 -0000",
+      "published_display": "17.09.2026 · 16:50 Uhr"
+    },
     {
       "title": "Satiresendung »extra 3«: Jetzt mal im Ernst: Dem deutschen Humor geht es prächtig",
       "summary": "»extra« 3 ist die älteste Satiresendung im deutschen Fernsehen. Sie wird diese Woche 50 Jahre alt. Glückwunsch!",
       "image": "https://img.zeit.de/feuilleton/film/2026-09/satiresendung-extra-3-ard-christian-ehring-fernsehen-humor-bild-1/original__640x360",
       "link": "https://www.zeit.de/feuilleton/film/2026-09/satiresendung-extra-3-ard-christian-ehring-fernsehen-humor",
       "published": "Thu, 17 Sep 2026 16:37:54 -0000",
-      "published_display": "17.09.2026 · 16:37 Uhr"
-    },
-    {
-      "title": "Niemand verletzt: Mann soll Feuer an Tür von Wuppertaler Synagoge gelegt haben",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/mann-soll-feuer-an-tuer-von-wuppertaler-synagoge-gelegt-haben-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/mann-soll-feuer-an-tuer-von-wuppertaler-synagoge-gelegt-haben",
-      "published": "Thu, 17 Sep 2026 16:37:02 -0000",
       "published_display": "17.09.2026 · 16:37 Uhr"
     },
     {
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/17/brantner-beim-haustuerwahlkampf-locker-zwei-nackte-gesehen",
       "published": "Thu, 17 Sep 2026 16:16:08 -0000",
       "published_display": "17.09.2026 · 16:16 Uhr"
-    },
-    {
-      "title": "Arbeit: Jeder Achte arbeitet in Sachsen im Handwerk",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/jeder-achte-arbeitet-in-sachsen-im-handwerk-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/jeder-achte-arbeitet-in-sachsen-im-handwerk",
-      "published": "Thu, 17 Sep 2026 16:13:50 -0000",
-      "published_display": "17.09.2026 · 16:13 Uhr"
     }
   ]
 }
