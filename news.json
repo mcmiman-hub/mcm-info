@@ -1,7 +1,39 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-17T00:59:45.704131+00:00",
+  "updated": "2026-09-17T01:17:41.170348+00:00",
   "items": [
+    {
+      "title": "Krieg gegen die Ukraine: US-Kongress beschließt härtere Sanktionen gegen Russland",
+      "summary": "Nach dem Senat stimmte auch das Repräsentantenhaus neuen Strafmaßnahmen zu. Die Sanktionen sollen Russlands Präsident Wladimir Putin und die Ölexporte des Landes treffen.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/us-sanktionsgesetz-russland-kongress-ukraine-lindsey-graham-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/us-sanktionsgesetz-russland-kongress-ukraine-lindsey-graham",
+      "published": "Thu, 17 Sep 2026 01:04:36 -0000",
+      "published_display": "17.09.2026 · 01:04 Uhr"
+    },
+    {
+      "title": "Fotografie: Bilder des Tages",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/bilder-des-tages-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/bilder-des-tages",
+      "published": "Thu, 17 Sep 2026 01:00:21 -0000",
+      "published_display": "17.09.2026 · 01:00 Uhr"
+    },
+    {
+      "title": "Koran im Klassenzimmer: Nur wenige Muslime besuchen Islamunterricht in der Schule",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/nur-wenige-muslime-besuchen-islamunterricht-in-der-schule-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/nur-wenige-muslime-besuchen-islamunterricht-in-der-schule",
+      "published": "Thu, 17 Sep 2026 01:00:06 -0000",
+      "published_display": "17.09.2026 · 01:00 Uhr"
+    },
+    {
+      "title": "Federal Reserve: US-Notenbank erhöht erstmals seit 2023 den Leitzins",
+      "summary": "Die Fed setzt der steigenden Inflation einen um 0,25 Prozentpunkte höheren Leitzins entgegen. US-Präsident Donald Trump wirft der Notenbank vor, ihm schaden zu wollen.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/us-notenbank-erhoeht-erstmals-seit-2023-den-leitzins-bild/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/2026-09/us-notenbank-erhoeht-erstmals-seit-2023-den-leitzins",
+      "published": "Thu, 17 Sep 2026 01:00:04 -0000",
+      "published_display": "17.09.2026 · 01:00 Uhr"
+    },
     {
       "title": "Künstliche Intelligenz: OpenAI macht weitere KI-Probleme öffentlich",
       "summary": "",
@@ -9,14 +41,6 @@
       "link": "https://www.zeit.de/news/2026-09/17/openai-macht-weitere-ki-probleme-oeffentlich",
       "published": "Thu, 17 Sep 2026 00:47:55 -0000",
       "published_display": "17.09.2026 · 00:47 Uhr"
-    },
-    {
-      "title": "Krieg gegen die Ukraine: US-Kongress beschließt Gesetz für Sanktionen gegen Russland",
-      "summary": "Nach dem Senat stimmte auch das Repräsentantenhaus neuen Strafmaßnahmen zu. Die Sanktionen sollen Russlands Präsident Wladimir Putin und die Ölexporte des Landes treffen.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/us-sanktionsgesetz-russland-kongress-ukraine-lindsey-graham-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/us-sanktionsgesetz-russland-kongress-ukraine-lindsey-graham",
-      "published": "Thu, 17 Sep 2026 00:33:23 -0000",
-      "published_display": "17.09.2026 · 00:33 Uhr"
     },
     {
       "title": "Europäische Union: Trump droht EU mit Handelsstopp bei engerer Partnerschaft mit Kanada",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
       "published": "Wed, 16 Sep 2026 23:00:49 -0000",
       "published_display": "16.09.2026 · 23:00 Uhr"
-    },
-    {
-      "title": "Suche nach Location: Hallenprojekt der NRW-AfD vorerst gestoppt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/hallenprojekt-der-nrw-afd-vorerst-gestoppt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/hallenprojekt-der-nrw-afd-vorerst-gestoppt",
-      "published": "Wed, 16 Sep 2026 23:00:04 -0000",
-      "published_display": "16.09.2026 · 23:00 Uhr"
-    },
-    {
-      "title": "Musik: Oktoberfest-Musical feiert München-Premiere",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/oktoberfest-musical-feiert-muenchen-premiere-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/oktoberfest-musical-feiert-muenchen-premiere",
-      "published": "Wed, 16 Sep 2026 22:26:56 -0000",
-      "published_display": "16.09.2026 · 22:26 Uhr"
-    },
-    {
-      "title": "Wahlarena in Berlin: SPD-Kandidat Krach schließt Koalition mit Linkspartei nicht aus",
-      "summary": "In der Wahlarena stritten die Berliner Kandidaten über Mietenpolitik, Steuern und Antisemitismus. Offen bleibt, wer mit wem koalieren könnte. Das Liveblog zum Nachlesen",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/wahlarena-berlin-wahl-abgeordnetenhaus-debatte-rbb-live-bild-6/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/wahlarena-berlin-wahl-abgeordnetenhaus-debatte-rbb-live",
-      "published": "Wed, 16 Sep 2026 22:21:09 -0000",
-      "published_display": "16.09.2026 · 22:21 Uhr"
     }
   ]
 }
