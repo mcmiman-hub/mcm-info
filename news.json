@@ -1,7 +1,71 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-17T05:55:37.371832+00:00",
+  "updated": "2026-09-17T06:23:48.953798+00:00",
   "items": [
+    {
+      "title": "Erklärung von CDU-Ministerpräsidenten: Thorsten Frei weist Zweifel an Positionierung für Merz zurück",
+      "summary": "In einer Erklärung der acht CDU-Ministerpräsidenten fehlt der Name des Kanzlers. Darüber zu diskutieren, sei »Haarspalterei«, sagt Unionsfraktionschef Thorsten Frei.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/cdu-ministerpraesidenten-solidaritaetserklaerung-friedrich-merz-thorsten-frei-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/cdu-ministerpraesidenten-solidaritaetserklaerung-friedrich-merz-thorsten-frei",
+      "published": "Thu, 17 Sep 2026 06:21:19 -0000",
+      "published_display": "17.09.2026 · 06:21 Uhr"
+    },
+    {
+      "title": "Kriminalität: Anwohner schrecken auf: Erneut zwei Explosionen in Frankfurt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/anwohner-schrecken-auf-erneut-zwei-explosionen-in-frankfurt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/anwohner-schrecken-auf-erneut-zwei-explosionen-in-frankfurt",
+      "published": "Thu, 17 Sep 2026 06:16:14 -0000",
+      "published_display": "17.09.2026 · 06:16 Uhr"
+    },
+    {
+      "title": "Mecklenburg-Vorpommern: Schwesig wirft Holm Übertreibung bei Migration vor",
+      "summary": "Im letzten TV‑Duell vor der Wahl wurde zu den Themen Migration, Frauenrechte und Wirtschaft diskutiert. AfD-Kandidat Holm griff den NDR an. Das Liveblog zum Nachlesen",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/mecklenburg-vorpommern-landtagswahl-manuela-schwesig-leif-erik-holm-live-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/mecklenburg-vorpommern-landtagswahl-manuela-schwesig-leif-erik-holm-live",
+      "published": "Thu, 17 Sep 2026 06:14:55 -0000",
+      "published_display": "17.09.2026 · 06:14 Uhr"
+    },
+    {
+      "title": "Unfallursache unklar: Unfall bei Iserlohn: Zwei Menschen lebensgefährlich verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/unfall-bei-iserlohn-zwei-menschen-lebensgefaehrlich-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/unfall-bei-iserlohn-zwei-menschen-lebensgefaehrlich-verletzt",
+      "published": "Thu, 17 Sep 2026 06:13:30 -0000",
+      "published_display": "17.09.2026 · 06:13 Uhr"
+    },
+    {
+      "title": "Weltwetterorganisation: Wasserspeicher gehen weltweit zurück",
+      "summary": "Auf der ganzen Welt schrumpfen laut einem Bericht der Weltwetterorganisation die Wasserressourcen. Besonders knapp ist das Grundwasser in Zentral- und Osteuropa.",
+      "image": "https://img.zeit.de/wissenschaft/umwelt/2026-09/wmo-wasserbericht-wasserknappheit-grundwasser-klimawandel-foto-1/original__640x360",
+      "link": "https://www.zeit.de/wissenschaft/umwelt/2026-09/wmo-wasserbericht-wasserknappheit-grundwasser-klimawandel",
+      "published": "Thu, 17 Sep 2026 06:06:26 -0000",
+      "published_display": "17.09.2026 · 06:06 Uhr"
+    },
+    {
+      "title": "Unfälle: Motorradfahrer nach Unfall bei Herrnhut schwer verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/motorradfahrer-nach-unfall-bei-herrnhut-schwer-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/motorradfahrer-nach-unfall-bei-herrnhut-schwer-verletzt",
+      "published": "Thu, 17 Sep 2026 06:02:44 -0000",
+      "published_display": "17.09.2026 · 06:02 Uhr"
+    },
+    {
+      "title": "Vier Jahre ohne Wachstum: Deutsche Maschinenbauer erwarten erst 2027 Produktionsplus",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/deutsche-maschinenbauer-erwarten-erst-2027-produktionsplus-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/deutsche-maschinenbauer-erwarten-erst-2027-produktionsplus",
+      "published": "Thu, 17 Sep 2026 06:00:06 -0000",
+      "published_display": "17.09.2026 · 06:00 Uhr"
+    },
+    {
+      "title": "Wetter: Regnerische Tage und stürmischer Wind im Norden erwartet",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/17/regnerische-tage-und-stuermischer-wind-im-norden-erwartet-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/regnerische-tage-und-stuermischer-wind-im-norden-erwartet",
+      "published": "Thu, 17 Sep 2026 05:53:45 -0000",
+      "published_display": "17.09.2026 · 05:53 Uhr"
+    },
     {
       "title": "Ukraine-Krieg: US-Kongress beschließt Gesetz für Russland-Sanktionen",
       "summary": "",
@@ -57,70 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/17/gesuchte-bei-kontrollen-auf-autobahnen-entdeckt",
       "published": "Thu, 17 Sep 2026 05:33:22 -0000",
       "published_display": "17.09.2026 · 05:33 Uhr"
-    },
-    {
-      "title": "Fotografie: Bilder des Tages",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/bilder-des-tages-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/bilder-des-tages",
-      "published": "Thu, 17 Sep 2026 05:32:22 -0000",
-      "published_display": "17.09.2026 · 05:32 Uhr"
-    },
-    {
-      "title": "Kanzler-Debatte: Frei tritt Zweifeln an Positionierung für Merz entgegen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/frei-tritt-zweifeln-an-positionierung-fuer-merz-entgegen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/frei-tritt-zweifeln-an-positionierung-fuer-merz-entgegen",
-      "published": "Thu, 17 Sep 2026 05:29:05 -0000",
-      "published_display": "17.09.2026 · 05:29 Uhr"
-    },
-    {
-      "title": "Unfälle: Seniorin stirbt nach Zusammenstoß",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/seniorin-stirbt-nach-zusammenstoss-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/seniorin-stirbt-nach-zusammenstoss",
-      "published": "Thu, 17 Sep 2026 05:25:43 -0000",
-      "published_display": "17.09.2026 · 05:25 Uhr"
-    },
-    {
-      "title": "Weltwetterorganisation: Wasserspeicher gehen weltweit zurück",
-      "summary": "Auf der ganzen Welt schrumpfen laut einem Bericht der Weltwasserorganisation die Wasserressourcen. Besonders knapp ist das Grundwasser in Zentral- und Osteuropa.",
-      "image": "https://img.zeit.de/wissenschaft/umwelt/2026-09/wmo-wasserbericht-wasserknappheit-grundwasser-klimawandel-foto-1/original__640x360",
-      "link": "https://www.zeit.de/wissenschaft/umwelt/2026-09/wmo-wasserbericht-wasserknappheit-grundwasser-klimawandel",
-      "published": "Thu, 17 Sep 2026 05:23:11 -0000",
-      "published_display": "17.09.2026 · 05:23 Uhr"
-    },
-    {
-      "title": "Gefährliche Tropenkrankheit: Malaria am Frankfurter Airport: Behörde rät zu Mückenschutz",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/malaria-am-frankfurter-airport-behoerde-raet-zu-mueckenschutz-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/malaria-am-frankfurter-airport-behoerde-raet-zu-mueckenschutz",
-      "published": "Thu, 17 Sep 2026 05:22:33 -0000",
-      "published_display": "17.09.2026 · 05:22 Uhr"
-    },
-    {
-      "title": "Unfälle: Seniorin stirbt nach Sturz in Regenauffangbecken",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/seniorin-stirbt-nach-sturz-in-regenauffangbecken-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/seniorin-stirbt-nach-sturz-in-regenauffangbecken",
-      "published": "Thu, 17 Sep 2026 05:21:06 -0000",
-      "published_display": "17.09.2026 · 05:21 Uhr"
-    },
-    {
-      "title": "Nach Sachsen-Anhalt-Wahl: SPD-Chef verteidigt Sachsens Kurs: «BSW ist nicht die AfD»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/spd-chef-verteidigt-sachsens-kurs-bsw-ist-nicht-die-afd-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/spd-chef-verteidigt-sachsens-kurs-bsw-ist-nicht-die-afd",
-      "published": "Thu, 17 Sep 2026 05:11:29 -0000",
-      "published_display": "17.09.2026 · 05:11 Uhr"
-    },
-    {
-      "title": "Mecklenburg-Vorpommern: Schwesig wirft Holm Übertreibung bei Migration vor",
-      "summary": "Im letzten TV‑Duell vor der Wahl wurde zu den Themen Migration, Frauenrechte und Wirtschaft gestritten. AfD-Kandidat Holm griff den NDR an. Das Liveblog zum Nachlesen",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/mecklenburg-vorpommern-landtagswahl-manuela-schwesig-leif-erik-holm-live-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/mecklenburg-vorpommern-landtagswahl-manuela-schwesig-leif-erik-holm-live",
-      "published": "Thu, 17 Sep 2026 05:11:27 -0000",
-      "published_display": "17.09.2026 · 05:11 Uhr"
     }
   ]
 }
