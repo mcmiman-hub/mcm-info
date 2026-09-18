@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-18T07:18:02.239605+00:00",
+  "updated": "2026-09-18T07:30:59.611382+00:00",
   "items": [
+    {
+      "title": "Bahnbetriebsunfall: Zug fährt durch Baustelle und kracht gegen Werkzeuganhänger",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/zug-faehrt-durch-baustelle-und-kracht-gegen-werkzeuganhaenger-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/zug-faehrt-durch-baustelle-und-kracht-gegen-werkzeuganhaenger",
+      "published": "Fri, 18 Sep 2026 07:22:55 -0000",
+      "published_display": "18.09.2026 · 07:22 Uhr"
+    },
+    {
+      "title": "Brände: Etwa 100.000 Euro Schaden durch Garagenbrand",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/etwa-100-000-euro-schaden-durch-garagenbrand-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/etwa-100-000-euro-schaden-durch-garagenbrand",
+      "published": "Fri, 18 Sep 2026 07:21:56 -0000",
+      "published_display": "18.09.2026 · 07:21 Uhr"
+    },
     {
       "title": "Ukrainekarte aktuell: Ukrainische Truppen erobern Gebiete bei Kupjansk zurück",
       "summary": "Die ukrainische Armee rückt in einem Waldstück nördlich von Kupjansk vor. In der Region Donezk infiltrieren russische Truppen Gelände südlich von Dobropillja.",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/18/nach-hausbrand-mit-totem-vater-und-sohn-tochter-gestorben",
       "published": "Fri, 18 Sep 2026 06:49:23 -0000",
       "published_display": "18.09.2026 · 06:49 Uhr"
-    },
-    {
-      "title": "Landtagswahl: Schwesig: Drücken der AfD-Werte «große Leistung»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/schwesig-druecken-der-afd-werte-grosse-leistung-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/schwesig-druecken-der-afd-werte-grosse-leistung",
-      "published": "Fri, 18 Sep 2026 06:48:52 -0000",
-      "published_display": "18.09.2026 · 06:48 Uhr"
-    },
-    {
-      "title": "Luxusgüter: Klotzen statt kleckern",
-      "summary": "Wofür die Reichen und Superreichen ihr Geld ausgeben. Eine Übersicht in Grafiken",
-      "image": "https://img.zeit.de/2026/40/grafik-teaser/original__640x360",
-      "link": "https://www.zeit.de/2026/40/luxusgueter-reichtum-dollar-millionaere-usa-schweiz",
-      "published": "Fri, 18 Sep 2026 06:48:34 -0000",
-      "published_display": "18.09.2026 · 06:48 Uhr"
     }
   ]
 }
