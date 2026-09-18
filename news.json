@@ -1,7 +1,111 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-18T13:55:35.045946+00:00",
+  "updated": "2026-09-18T14:17:36.059892+00:00",
   "items": [
+    {
+      "title": "Herrenloser Koffer gefunden: Verzögerungen bei der S-Bahn nach Einsätzen der Polizei",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/verzoegerungen-bei-der-s-bahn-nach-einsaetzen-der-polizei-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/verzoegerungen-bei-der-s-bahn-nach-einsaetzen-der-polizei",
+      "published": "Fri, 18 Sep 2026 14:14:18 -0000",
+      "published_display": "18.09.2026 · 14:14 Uhr"
+    },
+    {
+      "title": "Ärztliche Versorgung: Gesundheitspersonal altert: WHO warnt vor Lücke",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/gesundheitspersonal-altert-who-warnt-vor-luecke-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/gesundheitspersonal-altert-who-warnt-vor-luecke",
+      "published": "Fri, 18 Sep 2026 14:13:21 -0000",
+      "published_display": "18.09.2026 · 14:13 Uhr"
+    },
+    {
+      "title": "Busunfall auf Bundesstraße 27: Frau stirbt bei Kollision mit Bus – Fahrer schwer verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/frau-stirbt-bei-kollision-mit-bus-fahrer-schwer-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/frau-stirbt-bei-kollision-mit-bus-fahrer-schwer-verletzt",
+      "published": "Fri, 18 Sep 2026 14:12:50 -0000",
+      "published_display": "18.09.2026 · 14:12 Uhr"
+    },
+    {
+      "title": "Krebsdiagnose: »Heute frage ich mich, warum ich nicht die Klappe gehalten habe«",
+      "summary": "Ich habe Krebs. Ein Satz, der schwer fällt. Hier berichten drei Betroffene, wie ihre Arbeitskollegen damit umgegangen sind und was ihnen nach der Diagnose im Job half.",
+      "image": "https://img.zeit.de/arbeit/2026-09/krebsdiagnose-krankheit-arbeit-chef-krankschreibung-bild/original__640x360",
+      "link": "https://www.zeit.de/arbeit/2026-08/krebsdiagnose-krankheit-arbeit-chef-krankschreibung",
+      "published": "Fri, 18 Sep 2026 14:09:24 -0000",
+      "published_display": "18.09.2026 · 14:09 Uhr"
+    },
+    {
+      "title": "Anschlagspläne: Unter Terrorverdacht: Iraker kam über Aufnahmeprogramm 2021",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/unter-terrorverdacht-iraker-kam-ueber-aufnahmeprogramm-2021-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/unter-terrorverdacht-iraker-kam-ueber-aufnahmeprogramm-2021",
+      "published": "Fri, 18 Sep 2026 14:08:06 -0000",
+      "published_display": "18.09.2026 · 14:08 Uhr"
+    },
+    {
+      "title": "Streit um Block-Kinder: Dänisches Gericht: Kein Umgangsrecht Eugen Blocks mit Enkeln",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/gericht-kein-umgangsrecht-fuer-eugen-block-mit-enkeln-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/gericht-kein-umgangsrecht-fuer-eugen-block-mit-enkeln",
+      "published": "Fri, 18 Sep 2026 14:06:22 -0000",
+      "published_display": "18.09.2026 · 14:06 Uhr"
+    },
+    {
+      "title": "Ausgliederung der Frauen-Bundesliga: DFB gibt Organisation der Frauen-Bundesliga ab",
+      "summary": "Der DFB überträgt die Organisation der Frauen-Bundesliga an den Ligaverband FBL. DFB-Präsident Bernd Neuendorf spricht von einer bedeutenden Richtungsentscheidung.",
+      "image": "https://img.zeit.de/sport/2026-09/frauen-bundesliga-ausgliederung-dfb-fbl-katharina-kiel-foto-1/original__640x360",
+      "link": "https://www.zeit.de/sport/2026-09/frauen-bundesliga-ausgliederung-dfb-fbl-katharina-kiel",
+      "published": "Fri, 18 Sep 2026 14:04:44 -0000",
+      "published_display": "18.09.2026 · 14:04 Uhr"
+    },
+    {
+      "title": "Mindset: Madsen: Schleswig-Holsteiner und Dänen sind sich ähnlich",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/madsen-schleswig-holsteiner-und-daenen-sind-sich-aehnlich-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/madsen-schleswig-holsteiner-und-daenen-sind-sich-aehnlich",
+      "published": "Fri, 18 Sep 2026 14:02:05 -0000",
+      "published_display": "18.09.2026 · 14:02 Uhr"
+    },
+    {
+      "title": "Gewerkschaften: DGB ruft zu bundesweiten Protesten gegen Regierungskurs auf",
+      "summary": "Die Gewerkschaften warnen vor Sozialkürzungen und dem Aufstieg der AfD. DGB-Chefin Yasmin Fahimi ruft daher zum Aktionstag in 15 Großstädten auf.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/yasmin-fahimi-dgb-bundesregierung-sozialpolitik-afd-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/yasmin-fahimi-dgb-bundesregierung-sozialpolitik-afd",
+      "published": "Fri, 18 Sep 2026 14:00:15 -0000",
+      "published_display": "18.09.2026 · 14:00 Uhr"
+    },
+    {
+      "title": "Tod im Regionalexpress: Attacke im Zug: Gedenken und Konsequenzen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/gedenken-auf-gleis-1-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/gedenken-auf-gleis-1",
+      "published": "Fri, 18 Sep 2026 13:59:55 -0000",
+      "published_display": "18.09.2026 · 13:59 Uhr"
+    },
+    {
+      "title": "Ausstellung: Die bekanntesten Gallier erobern Hamburg",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/die-bekanntesten-gallier-erobern-hamburg-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/die-bekanntesten-gallier-erobern-hamburg",
+      "published": "Fri, 18 Sep 2026 13:58:59 -0000",
+      "published_display": "18.09.2026 · 13:58 Uhr"
+    },
+    {
+      "title": "Vor der Landtagswahl in MV: Schwesig weist Kritik an ihrem Wahlkampf zurück",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/schwesig-weist-kritik-an-ihrem-wahlkampf-zurueck-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/schwesig-weist-kritik-an-ihrem-wahlkampf-zurueck",
+      "published": "Fri, 18 Sep 2026 13:58:39 -0000",
+      "published_display": "18.09.2026 · 13:58 Uhr"
+    },
+    {
+      "title": "Wald: Eichensterben in einigen Thüringer Regionen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/eichensterben-in-einigen-thueringer-regionen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/eichensterben-in-einigen-thueringer-regionen",
+      "published": "Fri, 18 Sep 2026 13:55:46 -0000",
+      "published_display": "18.09.2026 · 13:55 Uhr"
+    },
     {
       "title": "Landtagswahl: Wahlkampf-Finale: Grüne werben für Verkehrswende",
       "summary": "",
@@ -17,110 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/18/mindestens-14-tote-bei-anschlag-mit-autobombe-in-pakistan",
       "published": "Fri, 18 Sep 2026 13:52:40 -0000",
       "published_display": "18.09.2026 · 13:52 Uhr"
-    },
-    {
-      "title": "Weltbekannter Dirigent: Barenboim erlitt Schwächeanfall: Dortmund-Auftritt abgesagt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/barenboim-erlitt-schwaecheanfall-dortmund-auftritt-abgesagt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/barenboim-erlitt-schwaecheanfall-dortmund-auftritt-abgesagt",
-      "published": "Fri, 18 Sep 2026 13:52:38 -0000",
-      "published_display": "18.09.2026 · 13:52 Uhr"
-    },
-    {
-      "title": "Kriminalität: Frau stirbt - Haftbefehl gegen Ehemann erlassen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/frau-stirbt-haftbefehl-gegen-ehemann-erlassen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/frau-stirbt-haftbefehl-gegen-ehemann-erlassen",
-      "published": "Fri, 18 Sep 2026 13:52:27 -0000",
-      "published_display": "18.09.2026 · 13:52 Uhr"
-    },
-    {
-      "title": "Sprengstoffexperten im Einsatz: Explosion auf Recyclinghof – Mitarbeiter schwer verletzt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/explosion-auf-recyclinghof-mitarbeiter-schwer-verletzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/explosion-auf-recyclinghof-mitarbeiter-schwer-verletzt",
-      "published": "Fri, 18 Sep 2026 13:50:46 -0000",
-      "published_display": "18.09.2026 · 13:50 Uhr"
-    },
-    {
-      "title": "Demografie: Prognose: Schülerzahl schrumpft in 2030er Jahren deutlich",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/prognose-schuelerzahl-schrumpft-in-2030er-jahren-deutlich-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/prognose-schuelerzahl-schrumpft-in-2030er-jahren-deutlich",
-      "published": "Fri, 18 Sep 2026 13:50:20 -0000",
-      "published_display": "18.09.2026 · 13:50 Uhr"
-    },
-    {
-      "title": "Fußball-Bundesliga: Bekenntnis in der Krise: Neuer HSV-Vertrag für Polzin",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/bekenntnis-in-der-krise-neuer-hsv-vertrag-fuer-polzin-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/bekenntnis-in-der-krise-neuer-hsv-vertrag-fuer-polzin",
-      "published": "Fri, 18 Sep 2026 13:49:43 -0000",
-      "published_display": "18.09.2026 · 13:49 Uhr"
-    },
-    {
-      "title": "Geschäft mit der Wiesn: Wiesn-Lizenz: Das gilt für Influencer auf dem Oktoberfest",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/wiesn-lizenz-das-gilt-fuer-influencer-auf-dem-oktoberfest-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/wiesn-lizenz-das-gilt-fuer-influencer-auf-dem-oktoberfest",
-      "published": "Fri, 18 Sep 2026 13:47:42 -0000",
-      "published_display": "18.09.2026 · 13:47 Uhr"
-    },
-    {
-      "title": "Schulhomepage gehackt: Hackerattacke auf Grundschule - Homepage führt zu Pornoseite",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/hackerattacke-auf-grundschule-homepage-fuehrt-zu-pornoseite-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/hackerattacke-auf-grundschule-homepage-fuehrt-zu-pornoseite",
-      "published": "Fri, 18 Sep 2026 13:46:17 -0000",
-      "published_display": "18.09.2026 · 13:46 Uhr"
-    },
-    {
-      "title": "Veganes Butter Chicken: Die Sahne macht mal Pause",
-      "summary": "Wer gesund altern will, sollte sich auch gesund ernähren. Zum Glück muss das nicht fad schmecken! Dieses vegane Butter Chicken ist der lebende Beweis.",
-      "image": "https://img.zeit.de/zeit-magazin/wochenmarkt/2026-09/veganes-butter-chicken-c-maria-grossmann-bild/original__640x360",
-      "link": "https://www.zeit.de/zeit-magazin/wochenmarkt/2026-09/veganes-butter-chicken-nobody-told-me-sonntagsessen",
-      "published": "Fri, 18 Sep 2026 13:45:49 -0000",
-      "published_display": "18.09.2026 · 13:45 Uhr"
-    },
-    {
-      "title": "Bahn: Zugangskontrolle am Bahnhof: Frankfurt als Modellstadt?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/zugangskontrolle-am-bahnhof-frankfurt-als-modellstadt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/zugangskontrolle-am-bahnhof-frankfurt-als-modellstadt",
-      "published": "Fri, 18 Sep 2026 13:45:39 -0000",
-      "published_display": "18.09.2026 · 13:45 Uhr"
-    },
-    {
-      "title": "Schutz jüdischen Lebens: Zwölf-Punkte-Plan gegen Antisemitismus – Kritik am Senat",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/zwoelf-punkte-plan-gegen-antisemitismus-kritik-am-senat-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/zwoelf-punkte-plan-gegen-antisemitismus-kritik-am-senat",
-      "published": "Fri, 18 Sep 2026 13:45:11 -0000",
-      "published_display": "18.09.2026 · 13:45 Uhr"
-    },
-    {
-      "title": "Mücke reiste wohl im Flugzeug: Keine neuen Malaria-Fälle in Frankfurt gemeldet",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/bislang-keine-weiteren-malaria-faelle-in-frankfurt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/bislang-keine-weiteren-malaria-faelle-in-frankfurt",
-      "published": "Fri, 18 Sep 2026 13:38:41 -0000",
-      "published_display": "18.09.2026 · 13:38 Uhr"
-    },
-    {
-      "title": "Gesundheitsreform: Im Nordsaarland soll neues Versorgungszentrum entstehen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/im-nordsaarland-soll-neues-versorgungszentrum-entstehen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/im-nordsaarland-soll-neues-versorgungszentrum-entstehen",
-      "published": "Fri, 18 Sep 2026 13:38:12 -0000",
-      "published_display": "18.09.2026 · 13:38 Uhr"
-    },
-    {
-      "title": "Tod im Regionalexpress: «Deine Spuren bleiben»: Gedenkort für getöteten Zugbegleiter",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/deine-spuren-bleiben-gedenkort-fuer-getoeteten-zugbegleiter-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/deine-spuren-bleiben-gedenkort-fuer-getoeteten-zugbegleiter",
-      "published": "Fri, 18 Sep 2026 13:37:36 -0000",
-      "published_display": "18.09.2026 · 13:37 Uhr"
     }
   ]
 }
