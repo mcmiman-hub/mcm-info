@@ -1,7 +1,63 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-18T03:29:46.978264+00:00",
+  "updated": "2026-09-18T03:44:10.341596+00:00",
   "items": [
+    {
+      "title": "Lazarus Lake: »Der eigentliche Schlüssel beim Backyard liegt zwischen den Runden«",
+      "summary": "Beim Backyard Ultra läuft man jede Stunde 6,7 Kilometer, bis nur noch einer kann. Der Erfinder Lazarus Lake weiß, wieso viele den Ultralauf lieben. Und wie man gewinnt.",
+      "image": "https://img.zeit.de/sport/2026-09/lazarus-lake-backyard-ultra/original__640x360",
+      "link": "https://www.zeit.de/sport/2026-09/lazarus-lake-backyard-ultra-langstreckenlauf-extremsport",
+      "published": "Fri, 18 Sep 2026 03:40:08 -0000",
+      "published_display": "18.09.2026 · 03:40 Uhr"
+    },
+    {
+      "title": "Wahl in Russland: Putins Spezialoperation »Wahl«",
+      "summary": "Warum eigentlich wählen, wenn sowieso vorher klar ist, wer gewinnt? Die Parlamentswahlen in Russland sind aus drei Gründen nützlich für Präsident Wladimir Putin.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/wahlen-russland-wladimir-putin-gewinner-5vor8-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/wahlen-russland-wladimir-putin-gewinner-5vor8",
+      "published": "Fri, 18 Sep 2026 03:38:37 -0000",
+      "published_display": "18.09.2026 · 03:38 Uhr"
+    },
+    {
+      "title": "Wahl in Berlin: Linke liegt in Berlin vor der CDU",
+      "summary": "Die Linke liegt einer ZDF-Umfrage nach drei Tage vor der Berliner Abgeordnetenhauswahl in Führung. Knapp dahinter folgt die CDU, die AfD ist drittstärkste Kraft.",
+      "image": "https://img.zeit.de/politik/2026-09/elif-eralp-berlin-linke/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/berlin-wahl-2026-umfrage-cdu-linke-afd-stefan-evers-kai-wegner",
+      "published": "Fri, 18 Sep 2026 03:36:36 -0000",
+      "published_display": "18.09.2026 · 03:36 Uhr"
+    },
+    {
+      "title": "Mietpreise in Berlin: Was senkt die Mieten wirklich? Enteignung ist es nicht",
+      "summary": "Berlins Wahlkampfthema Nummer eins: Enteignung. Niedrigere Mieten bekäme dadurch aber nur ein Bruchteil. Für alle anderen würde Wohnen noch teurer. Vier Alternativen",
+      "image": "https://img.zeit.de/geld/2026-09/mietpreise-berlin-enteignung-wohnungskonzerne-wahlkampf-bild/original__640x360",
+      "link": "https://www.zeit.de/geld/2026-09/mietpreise-berlin-enteignung-wohnungskonzerne-wahlkampf",
+      "published": "Fri, 18 Sep 2026 03:33:32 -0000",
+      "published_display": "18.09.2026 · 03:33 Uhr"
+    },
+    {
+      "title": "Wetterbericht: So hoch steigen die Temperaturen am Wochenende",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/so-hoch-steigen-die-temperaturen-am-wochenende-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/so-hoch-steigen-die-temperaturen-am-wochenende",
+      "published": "Fri, 18 Sep 2026 03:30:12 -0000",
+      "published_display": "18.09.2026 · 03:30 Uhr"
+    },
+    {
+      "title": "Oktoberfest: Wiesn-Kuriosa: Flöhe als Artisten und Turbo-Rolltreppen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/wiesn-kuriosa-floehe-als-artisten-und-turbo-rolltreppen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/wiesn-kuriosa-floehe-als-artisten-und-turbo-rolltreppen",
+      "published": "Fri, 18 Sep 2026 03:30:11 -0000",
+      "published_display": "18.09.2026 · 03:30 Uhr"
+    },
+    {
+      "title": "Kunstvolle Elbtunnel-Fliesen: Ratten, Fische, Robben - Vom Fliesenkünstler des Elbtunnels",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/ratten-fische-robben-vom-fliesenkuenstler-des-elbtunnels-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/ratten-fische-robben-vom-fliesenkuenstler-des-elbtunnels",
+      "published": "Fri, 18 Sep 2026 03:30:07 -0000",
+      "published_display": "18.09.2026 · 03:30 Uhr"
+    },
     {
       "title": "Nahost-Konflikt: Ed Sheeran und Macklemore: Darum geht es bei dem Streit",
       "summary": "",
@@ -65,62 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/18/sofort-lernen-hoffenheim-droht-unruhige-laenderspiel-pause",
       "published": "Fri, 18 Sep 2026 03:00:14 -0000",
       "published_display": "18.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Schulverbot unter den Taliban: Wie afghanische Mädchen im Geheimen weiterlernen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/wie-afghanische-maedchen-im-geheimen-weiterlernen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/wie-afghanische-maedchen-im-geheimen-weiterlernen",
-      "published": "Fri, 18 Sep 2026 03:00:14 -0000",
-      "published_display": "18.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Öko-Landwirtschaft: Bio-Betriebe öffnen bei Bio-Landpartie in MV ihre Tore",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/bio-betriebe-oeffnen-bei-bio-landpartie-in-mv-ihre-tore-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/bio-betriebe-oeffnen-bei-bio-landpartie-in-mv-ihre-tore",
-      "published": "Fri, 18 Sep 2026 03:00:10 -0000",
-      "published_display": "18.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Kunstwerk oder Gemeingut?: Streit um die «Strat» - Aufruhr in der Gitarrenwelt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/streit-um-die-strat-aufruhr-in-der-gitarrenwelt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/streit-um-die-strat-aufruhr-in-der-gitarrenwelt",
-      "published": "Fri, 18 Sep 2026 03:00:10 -0000",
-      "published_display": "18.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Gesundheit: Malaria-Gefahr am Hamburger Flughafen?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/malaria-gefahr-am-hamburger-flughafen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/malaria-gefahr-am-hamburger-flughafen",
-      "published": "Fri, 18 Sep 2026 03:00:06 -0000",
-      "published_display": "18.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Wahlkampf: Gratis-Eis und Haustürwahlkampf: Grünen-Chef im MV-Endspurt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/gratis-eis-und-haustuerwahlkampf-gruenen-chef-im-mv-endspurt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/gratis-eis-und-haustuerwahlkampf-gruenen-chef-im-mv-endspurt",
-      "published": "Fri, 18 Sep 2026 03:00:05 -0000",
-      "published_display": "18.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Fest in Bremen: Von A bis Z - Wissenswertes zum Tag der Deutschen Einheit",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/von-a-bis-z-wissenswertes-zum-tag-der-deutschen-einheit-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/von-a-bis-z-wissenswertes-zum-tag-der-deutschen-einheit",
-      "published": "Fri, 18 Sep 2026 02:45:05 -0000",
-      "published_display": "18.09.2026 · 02:45 Uhr"
-    },
-    {
-      "title": "Organspende: 58 Abgeordnete stellen sich gegen Widerspruchsregelung",
-      "summary": "Der Bundestag soll kommende Woche über die Organspende beraten. Eine parteiübergreifende Gruppe von Politikern kritisiert Pläne einer Widerspruchsregelung.",
-      "image": "https://img.zeit.de/wissenschaft/2026-09/organspende-deutschland-abgeordnete-bundestag-widerspruchsregelung-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/2026-09/organspende-deutschland-abgeordnete-bundestag-widerspruchsregelung",
-      "published": "Fri, 18 Sep 2026 02:31:25 -0000",
-      "published_display": "18.09.2026 · 02:31 Uhr"
     }
   ]
 }
