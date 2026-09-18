@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-18T19:40:25.264961+00:00",
+  "updated": "2026-09-18T19:54:24.956750+00:00",
   "items": [
+    {
+      "title": "Pressefreiheit: Donald Trump verbietet CNN, Politico und MSNOW Zugang zum Weißen Haus",
+      "summary": "Der US-Präsident hat die Pressefreiheit weiter eingeschränkt. CNN, Politico und MSNOW dürfen nicht mehr aus dem Weißen Haus berichten, weitere Verbote sollen folgen.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/donald-trump-pressefreiheit-cnn-politico-msnow/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/donald-trump-verbietet-cnn-politico-und-msnow-zugang-zum-weissen-haus",
+      "published": "Fri, 18 Sep 2026 19:51:30 -0000",
+      "published_display": "18.09.2026 · 19:51 Uhr"
+    },
+    {
+      "title": "Teures Tanken: Bund und Länder einigen sich auf neuen Tankrabatt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/grundsaetzliche-einigung-auf-tankrabatt-und-spritpreisdeckel-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/grundsaetzliche-einigung-auf-tankrabatt-und-spritpreisdeckel",
+      "published": "Fri, 18 Sep 2026 19:44:08 -0000",
+      "published_display": "18.09.2026 · 19:44 Uhr"
+    },
+    {
+      "title": "Medien: Trump verbietet CNN Zugang zum Weißen Haus",
+      "summary": "",
+      "image": "https://img.zeit.de/administratives/sharing/fallback-image-die-zeit/wide__1300x731",
+      "link": "https://www.zeit.de/news/2026-09/18/trump-verbietet-cnn-zugang-zum-weissen-haus",
+      "published": "Fri, 18 Sep 2026 19:43:16 -0000",
+      "published_display": "18.09.2026 · 19:43 Uhr"
+    },
     {
       "title": "USA: Pistorius nimmt in Texas ersten F-35-Kampfjet für Deutschland entgegen",
       "summary": "Verteidigungsminister Boris Pistorius hat im US-Bundesstaat Texas den ersten Kampfjet vom Typ F-35 entgegengenommen. Insgesamt acht Flugzeuge werden geliefert.",
@@ -19,28 +43,12 @@
       "published_display": "18.09.2026 · 19:33 Uhr"
     },
     {
-      "title": "Donald Trump verbietet CNN, Politico und MSNOW Zugang zum Weißen Haus",
-      "summary": "",
-      "image": "https://img.zeit.de/administratives/eilmeldung/fallback-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/donald-trump-verbietet-cnn-politico-und-msnow-zugang-zum-weissen-haus",
-      "published": "Fri, 18 Sep 2026 19:32:05 -0000",
-      "published_display": "18.09.2026 · 19:32 Uhr"
-    },
-    {
       "title": "Nach Einigung: Schnieder: Entlastungen bei Spritpreisen «wichtiges Signal»",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-09/18/schnieder-entlastungen-bei-spritpreisen-wichtiges-signal-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-09/18/schnieder-entlastungen-bei-spritpreisen-wichtiges-signal",
       "published": "Fri, 18 Sep 2026 19:30:38 -0000",
       "published_display": "18.09.2026 · 19:30 Uhr"
-    },
-    {
-      "title": "Teures Tanken: Bund und Länder einigen sich auf neuen Tankrabatt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/grundsaetzliche-einigung-auf-tankrabatt-und-spritpreisdeckel-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/grundsaetzliche-einigung-auf-tankrabatt-und-spritpreisdeckel",
-      "published": "Fri, 18 Sep 2026 19:26:12 -0000",
-      "published_display": "18.09.2026 · 19:26 Uhr"
     },
     {
       "title": "Tankpreis: Regierung einigt sich auf Tankrabatt und Spritpreisdeckel",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/digital/internet/2026-09/pauseai-demonstration-berlin-ki-entwicklung",
       "published": "Fri, 18 Sep 2026 19:02:10 -0000",
       "published_display": "18.09.2026 · 19:02 Uhr"
-    },
-    {
-      "title": "Regierungsbildung in Magdeburg: Siegmund: AfD-Regierung in Sachsen-Anhalt bis Jahresende",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/siegmund-afd-regierung-in-sachsen-anhalt-bis-jahresende-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/siegmund-afd-regierung-in-sachsen-anhalt-bis-jahresende",
-      "published": "Fri, 18 Sep 2026 18:46:17 -0000",
-      "published_display": "18.09.2026 · 18:46 Uhr"
     }
   ]
 }
