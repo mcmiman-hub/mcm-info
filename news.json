@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-18T15:44:11.176747+00:00",
+  "updated": "2026-09-18T15:54:57.485534+00:00",
   "items": [
+    {
+      "title": "Prognose gekappt: Volkswagen senkt Gewinnprognose deutlich",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/volkswagen-senkt-gewinnprognose-deutlich-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/volkswagen-senkt-gewinnprognose-deutlich",
+      "published": "Fri, 18 Sep 2026 15:52:40 -0000",
+      "published_display": "18.09.2026 · 15:52 Uhr"
+    },
+    {
+      "title": "Rentenreform: Gesetzesentwurf entschärft Empfehlungen der Rentenkommission",
+      "summary": "Ein Entwurf des Arbeitsministeriums, der der ZEIT vorliegt, konkretisiert die Umsetzung der Vorschläge der Rentenkommission. Es könnte einen Run auf Altersteilzeit geben.",
+      "image": "https://img.zeit.de/wirtschaft/2026-09/rentengesetzentwurf-bild/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/2026-09/rentenreform-rentenalter-lebenserwartung-abschlagsfreie-rente-arbeitsministerium",
+      "published": "Fri, 18 Sep 2026 15:50:46 -0000",
+      "published_display": "18.09.2026 · 15:50 Uhr"
+    },
+    {
+      "title": "Medien: Böhmermann hört mit «ZDF Magazin Royale» auf",
+      "summary": "",
+      "image": "",
+      "link": "https://www.zeit.de/news/2026-09/18/boehmermann-hoert-mit-zdf-magazin-royale-auf",
+      "published": "Fri, 18 Sep 2026 15:45:11 -0000",
+      "published_display": "18.09.2026 · 15:45 Uhr"
+    },
     {
       "title": "Festakt: 65 Jahre Anwerbeabkommen: Wüst dankt Gastarbeitern",
       "summary": "",
@@ -51,14 +75,6 @@
       "published_display": "18.09.2026 · 15:30 Uhr"
     },
     {
-      "title": "Rentenreform: Gesetzesentwurf entschärft Empfehlungen der Rentenkommission",
-      "summary": "Ein Entwurf aus dem Arbeitsministerium konkretisiert erstmals die Umsetzung der Empfehlungen der Rentenkommission. Er könnte einen Run auf Altersteilzeit auslösen.",
-      "image": "https://img.zeit.de/wirtschaft/2026-09/rentengesetzentwurf-bild/original__640x360",
-      "link": "https://www.zeit.de/wirtschaft/2026-09/rentenreform-rentenalter-lebenserwartung-abschlagsfreie-rente-arbeitsministerium",
-      "published": "Fri, 18 Sep 2026 15:29:29 -0000",
-      "published_display": "18.09.2026 · 15:29 Uhr"
-    },
-    {
       "title": "Lebensbedrohlich verletzt: Brand in Mehrfamilienhaus - Bewohner in Lebensgefahr",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-09/18/brand-in-mehrfamilienhaus-bewohner-in-lebensgefahr-image-group/original__640x360",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/politik/deutschland/2026-09/tankpreisdeckel-spritpreise-regierung-entlastung-gxe",
       "published": "Fri, 18 Sep 2026 15:22:42 -0000",
       "published_display": "18.09.2026 · 15:22 Uhr"
-    },
-    {
-      "title": "Falsche Polizeibeamte: 82-Jähriger entlarvt Betrüger – Polizei nimmt Abholer fest",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/82-jaehriger-entlarvt-betrueger-polizei-nimmt-abholer-fest-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/82-jaehriger-entlarvt-betrueger-polizei-nimmt-abholer-fest",
-      "published": "Fri, 18 Sep 2026 15:21:50 -0000",
-      "published_display": "18.09.2026 · 15:21 Uhr"
-    },
-    {
-      "title": "Ampeln außer Betrieb: Stromausfall in Lüneburg – Reparatur läuft auf Hochtouren",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/stromausfall-in-lueneburg-reparatur-laeuft-auf-hochtouren-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/stromausfall-in-lueneburg-reparatur-laeuft-auf-hochtouren",
-      "published": "Fri, 18 Sep 2026 15:20:18 -0000",
-      "published_display": "18.09.2026 · 15:20 Uhr"
     }
   ]
 }
