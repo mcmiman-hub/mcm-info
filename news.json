@@ -1,21 +1,29 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-18T22:28:07.690983+00:00",
+  "updated": "2026-09-18T22:42:02.624275+00:00",
   "items": [
+    {
+      "title": "Grönland: USA und Dänemark einigen sich in Streit um Grönland",
+      "summary": "Die USA sollen laut Präsident Donald Trump die dauerhafte Kontrolle über Grönlands Sicherheit bekommen. Dänemark bezeichnet den Deal als »gut für die Nato und Europa«.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/groenland-trump-insel-sicherheit-kontrolle/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/groenland-usa-daenemark-donald-trump-kontrolle",
+      "published": "Fri, 18 Sep 2026 22:37:52 -0000",
+      "published_display": "18.09.2026 · 22:37 Uhr"
+    },
+    {
+      "title": "Konflikte: Dänemark und USA verkünden Durchbruch im Grönland-Streit",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/daenemark-und-usa-verkuenden-durchbruch-im-groenland-streit-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/daenemark-und-usa-verkuenden-durchbruch-im-groenland-streit",
+      "published": "Fri, 18 Sep 2026 22:26:57 -0000",
+      "published_display": "18.09.2026 · 22:26 Uhr"
+    },
     {
       "title": "Landkreis Ludwigslust-Parchim: Verdacht auf Kontamination mit Quecksilber in Wohnung",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-09/19/verdacht-auf-kontamination-mit-quecksilber-in-wohnung-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-09/19/verdacht-auf-kontamination-mit-quecksilber-in-wohnung",
       "published": "Fri, 18 Sep 2026 22:07:47 -0000",
-      "published_display": "18.09.2026 · 22:07 Uhr"
-    },
-    {
-      "title": "Militär: Dänemark und USA verkünden Durchbruch im Grönland-Streit",
-      "summary": "",
-      "image": "https://img.zeit.de/administratives/sharing/fallback-image-die-zeit/wide__1300x731",
-      "link": "https://www.zeit.de/news/2026-09/19/daenemark-und-usa-verkuenden-durchbruch-im-groenland-streit",
-      "published": "Fri, 18 Sep 2026 22:07:26 -0000",
       "published_display": "18.09.2026 · 22:07 Uhr"
     },
     {
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/18/neubaur-fordert-mineraloelkonzerne-zu-fairen-preisen-auf",
       "published": "Fri, 18 Sep 2026 20:42:36 -0000",
       "published_display": "18.09.2026 · 20:42 Uhr"
-    },
-    {
-      "title": "Basketball-Bundesliga: Niners Chemnitz verpassen Überraschung bei Meister Alba",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/niners-chemnitz-verpassen-ueberraschung-bei-meister-alba-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/niners-chemnitz-verpassen-ueberraschung-bei-meister-alba",
-      "published": "Fri, 18 Sep 2026 20:09:01 -0000",
-      "published_display": "18.09.2026 · 20:09 Uhr"
     }
   ]
 }
