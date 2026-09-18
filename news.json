@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-18T17:15:47.973846+00:00",
+  "updated": "2026-09-18T17:26:35.729733+00:00",
   "items": [
+    {
+      "title": "Eingeschleppte Mücken: Mediziner: Malaria-Fälle nahe Flughäfen werden zunehmen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/mediziner-malaria-faelle-nahe-flughaefen-werden-zunehmen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/mediziner-malaria-faelle-nahe-flughaefen-werden-zunehmen",
+      "published": "Fri, 18 Sep 2026 17:22:26 -0000",
+      "published_display": "18.09.2026 · 17:22 Uhr"
+    },
+    {
+      "title": "Künstliche Intelligenz: US-Bundesstaat Kalifornien prüft »Notschalter« für KI",
+      "summary": "Kaliforniens Gouverneur Gavin Newsom wirft Trump Untätigkeit bei KI-Sicherheit vor. In seinem Bundesstaat lässt er mögliche Maßnahmen prüfen – etwa einen »kill switch«.",
+      "image": "https://img.zeit.de/digital/2026-09/gavin-newsom-ki-kill-switch-kalifornien-foto-1/original__640x360",
+      "link": "https://www.zeit.de/digital/2026-09/usa-kalifornien-kuenstliche-intelligenz-kontrolle-notschalter-gavin-newsom",
+      "published": "Fri, 18 Sep 2026 17:18:08 -0000",
+      "published_display": "18.09.2026 · 17:18 Uhr"
+    },
     {
       "title": "Volkswagen: Volkswagen senkt Gewinnprognose für 2026 deutlich",
       "summary": "Volkswagen rechnet 2026 mit nur einem Prozent Gewinn. Grund sind laut Konzern unter anderem die schwachen Geschäfte in China und eine Abschreibung auf Porsche.",
@@ -59,14 +75,6 @@
       "published_display": "18.09.2026 · 16:58 Uhr"
     },
     {
-      "title": "Künstliche Intelligenz: US-Bundesstaat Kalifornien prüft »Notschalter« für KI",
-      "summary": "Kaliforniens Gouverneur Gavin Newsom wirft Trump Untätigkeit bei KI-Sicherheit vor. In seinem Bundesstaat lässt er mögliche Maßnahmen prüfen – etwa einen »kill switch«.",
-      "image": "https://img.zeit.de/digital/2026-09/gavin-newsom-ki-kill-switch-kalifornien-foto-1/original__640x360",
-      "link": "https://www.zeit.de/digital/2026-09/usa-kalifornien-kuenstliche-intelligenz-kontrolle-notschalter-gavin-newsom",
-      "published": "Fri, 18 Sep 2026 16:56:29 -0000",
-      "published_display": "18.09.2026 · 16:56 Uhr"
-    },
-    {
       "title": "Protest gegen die AfD: Wenn die AfD ein Nachbar wird",
       "summary": "Direkt neben Celina Sprengers Friseursalon in Berlin eröffnete vor Kurzem ein AfD-Bürgerbüro. Doch die Friseurin hat nicht vor, ihre Nachbarschaft der AfD zu überlassen.",
       "image": "https://img.zeit.de/politik/deutschland/2026-09/protest-afd-berlin-neukoelln-gropiusstadt-buergerbuero-bild-2/original__640x360",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/17/ex-cdu-politiker-friedman-wirbt-fuer-die-gruenen",
       "published": "Fri, 18 Sep 2026 16:46:44 -0000",
       "published_display": "18.09.2026 · 16:46 Uhr"
-    },
-    {
-      "title": "In Frankfurt und Offenbach: Sorge nach Explosionen: «Nehmen Entwicklungen sehr ernst»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/poseck-gewalt-darf-in-hessen-kein-geschaeftsmodell-sein-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/poseck-gewalt-darf-in-hessen-kein-geschaeftsmodell-sein",
-      "published": "Fri, 18 Sep 2026 16:40:24 -0000",
-      "published_display": "18.09.2026 · 16:40 Uhr"
     }
   ]
 }
