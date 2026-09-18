@@ -1,7 +1,39 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-18T16:42:59.634280+00:00",
+  "updated": "2026-09-18T16:54:17.006201+00:00",
   "items": [
+    {
+      "title": "Magersucht: »So wie ich jetzt geliebt werde, kann ich mich auch selbst lieben«",
+      "summary": "Martina hat zehn Jahre gebraucht, um ihre Magersucht zu überwinden. Sie weiß, wie fragil der Frieden mit dem Körper sein kann.",
+      "image": "https://img.zeit.de/2026/40/magersucht-kontrolle-koerper-pubertaet-erfahrungen-bild-2/original__640x360",
+      "link": "https://www.zeit.de/2026/40/magersucht-kontrolle-koerper-pubertaet-erfahrungen",
+      "published": "Fri, 18 Sep 2026 16:52:15 -0000",
+      "published_display": "18.09.2026 · 16:52 Uhr"
+    },
+    {
+      "title": "Warnstreik: Peter Fox singt bei Pflegekräfte-Demo in Berlin",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/peter-fox-singt-bei-pflegekraefte-demo-in-berlin-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/peter-fox-singt-bei-pflegekraefte-demo-in-berlin",
+      "published": "Fri, 18 Sep 2026 16:50:11 -0000",
+      "published_display": "18.09.2026 · 16:50 Uhr"
+    },
+    {
+      "title": "Nationalmannschaft: Klopps 44",
+      "summary": "Gleich 44 Spieler hat Jürgen Klopp in seinen Doppelkader berufen. Aber wer hat Chancen, auch dauerhaft dabeizubleiben? Wir stellen das ganze Team vor.",
+      "image": "https://img.zeit.de/sport/2026-09/juergen-klopp-kader-44-teaser/original__640x360",
+      "link": "https://www.zeit.de/sport/2026-09/juergen-klopp-kader-44-dfb",
+      "published": "Fri, 18 Sep 2026 16:47:07 -0000",
+      "published_display": "18.09.2026 · 16:47 Uhr"
+    },
+    {
+      "title": "Wahlkampf im Nordosten: Ex-CDU-Politiker Friedman wirbt für die Grünen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/ex-cdu-politiker-friedman-wirbt-fuer-die-gruenen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/17/ex-cdu-politiker-friedman-wirbt-fuer-die-gruenen",
+      "published": "Fri, 18 Sep 2026 16:46:44 -0000",
+      "published_display": "18.09.2026 · 16:46 Uhr"
+    },
     {
       "title": "Volkswagen: Volkswagen senkt Gewinnprognose für 2026 deutlich",
       "summary": "Volkswagen rechnet 2026 mit nur einem Prozent Gewinn. Grund sind laut Konzern unter anderem die schwachen Geschäfte in China und eine Abschreibung auf Porsche.",
@@ -89,38 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/18/peters-es-geht-nicht-um-beliebtheit-einzelner-politiker",
       "published": "Fri, 18 Sep 2026 16:17:31 -0000",
       "published_display": "18.09.2026 · 16:17 Uhr"
-    },
-    {
-      "title": "Fotografie: Bilder des Tages",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/bilder-des-tages-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/bilder-des-tages",
-      "published": "Fri, 18 Sep 2026 16:09:43 -0000",
-      "published_display": "18.09.2026 · 16:09 Uhr"
-    },
-    {
-      "title": "Gewerkschaften: Kathrin Vitzthum bleibt GEW-Landeschefin",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/kathrin-vitzthum-bleibt-gew-landeschefin-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/kathrin-vitzthum-bleibt-gew-landeschefin",
-      "published": "Fri, 18 Sep 2026 16:08:32 -0000",
-      "published_display": "18.09.2026 · 16:08 Uhr"
-    },
-    {
-      "title": "Medizintechnik: Ypsomed bekommt grünes Licht für Windenergieanlage",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/ypsomed-bekommt-gruenes-licht-fuer-windenergieanlage-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/ypsomed-bekommt-gruenes-licht-fuer-windenergieanlage",
-      "published": "Fri, 18 Sep 2026 16:07:03 -0000",
-      "published_display": "18.09.2026 · 16:07 Uhr"
-    },
-    {
-      "title": "AfD in Mecklenburg-Vorpommern: Leif-Erik Holm und die radikalen Burschen",
-      "summary": "Mit bürgerlichem Image will der AfD-Spitzenkandidat Ministerpräsident in Schwerin werden. Doch hinter ihm haben sich Rechtsextreme breitgemacht, deren Einfluss wächst.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/leif-erik-holm-afd-mecklenburg-vorpommern-landtagswahl-ministerpraesident-bild-01/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/leif-erik-holm-afd-mecklenburg-vorpommern-landtagswahl-ministerpraesident",
-      "published": "Fri, 18 Sep 2026 16:05:05 -0000",
-      "published_display": "18.09.2026 · 16:05 Uhr"
     }
   ]
 }
