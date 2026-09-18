@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-18T23:27:36.434251+00:00",
+  "updated": "2026-09-18T23:41:04.733534+00:00",
   "items": [
+    {
+      "title": "Ukraine-Krieg: Trump unterzeichnet Paket mit Sanktionen gegen Russland",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/trump-unterzeichnet-paket-mit-sanktionen-gegen-russland-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/trump-unterzeichnet-paket-mit-sanktionen-gegen-russland",
+      "published": "Fri, 18 Sep 2026 23:34:50 -0000",
+      "published_display": "18.09.2026 · 23:34 Uhr"
+    },
     {
       "title": "Grönland: USA und Dänemark einigen sich in Streit um Grönland",
       "summary": "Die USA sollen laut Präsident Donald Trump die dauerhafte Kontrolle über Grönlands Sicherheit bekommen. Dänemark bezeichnet den Deal als »gut für die Nato und Europa«.",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/18/erstmals-seit-100-jahren-neue-katzenart-entdeckt",
       "published": "Fri, 18 Sep 2026 20:49:44 -0000",
       "published_display": "18.09.2026 · 20:49 Uhr"
-    },
-    {
-      "title": "Bürgermeisterwahl: Wahlchaos in Strausberg - Ermittlungen eingestellt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/wahlchaos-in-strausberg-ermittlungen-eingestellt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/wahlchaos-in-strausberg-ermittlungen-eingestellt",
-      "published": "Fri, 18 Sep 2026 20:45:47 -0000",
-      "published_display": "18.09.2026 · 20:45 Uhr"
     }
   ]
 }
