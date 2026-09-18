@@ -1,7 +1,39 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-18T09:17:34.406899+00:00",
+  "updated": "2026-09-18T09:30:13.485404+00:00",
   "items": [
+    {
+      "title": "Vor Wahlen: «Trifft uns mitten ins Mark»: Special Olympics warnt vor AfD",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/trifft-uns-mitten-ins-mark-special-olympics-warnt-vor-afd-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/trifft-uns-mitten-ins-mark-special-olympics-warnt-vor-afd",
+      "published": "Fri, 18 Sep 2026 09:27:03 -0000",
+      "published_display": "18.09.2026 · 09:27 Uhr"
+    },
+    {
+      "title": "Kripo ermittelt: Sieben Verletzte bei Brand in Notunterkunft in Stuttgart",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/acht-verletzte-bei-brand-in-notunterkunft-in-stuttgart-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/acht-verletzte-bei-brand-in-notunterkunft-in-stuttgart",
+      "published": "Fri, 18 Sep 2026 09:24:41 -0000",
+      "published_display": "18.09.2026 · 09:24 Uhr"
+    },
+    {
+      "title": "Ermittlungen in Italien: Kameras und GPS-Tracker: Mann spioniert Ex-Partnerin aus",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/kameras-und-gps-tracker-mann-spioniert-ex-partnerin-aus-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/kameras-und-gps-tracker-mann-spioniert-ex-partnerin-aus",
+      "published": "Fri, 18 Sep 2026 09:23:22 -0000",
+      "published_display": "18.09.2026 · 09:23 Uhr"
+    },
+    {
+      "title": "Steigende Spritpreise: Greenpeace protestiert mit Geldregen-Projektion an Tanklager",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/greenpeace-protestiert-mit-geldregen-projektion-an-tanklager-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/greenpeace-protestiert-mit-geldregen-projektion-an-tanklager",
+      "published": "Fri, 18 Sep 2026 09:19:03 -0000",
+      "published_display": "18.09.2026 · 09:19 Uhr"
+    },
     {
       "title": "Drohnenteile bei Wunstorf: Bundesanwaltschaft prüft nach Drohnenfund Verbindung zu Leipzig",
       "summary": "Nach dem Fund von Drohnenteilen nahe einem Militärflughafen in Niedersachsen ermitteln die Behörden. Die Teile haben eine ähnliche Bauweise wie die Leipziger Drohne.",
@@ -89,38 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/18/mann-mit-waffe-im-garten-sek-und-helikopter-ruecken-an",
       "published": "Fri, 18 Sep 2026 09:01:47 -0000",
       "published_display": "18.09.2026 · 09:01 Uhr"
-    },
-    {
-      "title": "Asien: Philippinen: Sechs Tote bei Schusswaffenangriff an Schule",
-      "summary": "",
-      "image": "",
-      "link": "https://www.zeit.de/news/2026-09/18/philippinen-sechs-tote-bei-schusswaffenangriff-an-schule",
-      "published": "Fri, 18 Sep 2026 09:00:29 -0000",
-      "published_display": "18.09.2026 · 09:00 Uhr"
-    },
-    {
-      "title": "Landtagswahl in MV: Was man über die Wahl im Nordosten wissen sollte",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/was-man-ueber-die-wahl-im-nordosten-wissen-sollte-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/was-man-ueber-die-wahl-im-nordosten-wissen-sollte",
-      "published": "Fri, 18 Sep 2026 09:00:05 -0000",
-      "published_display": "18.09.2026 · 09:00 Uhr"
-    },
-    {
-      "title": "Teures Autofahren: Dieselpreis klettert weiter - Super E10 minimal günstiger",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/dieselpreis-klettert-weiter-super-e10-minimal-guenstiger-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/dieselpreis-klettert-weiter-super-e10-minimal-guenstiger",
-      "published": "Fri, 18 Sep 2026 08:59:15 -0000",
-      "published_display": "18.09.2026 · 08:59 Uhr"
-    },
-    {
-      "title": "Brand in Oberfranken: Brand von Lithium-Ionen-Akkus in Bamberger Wertstoffhof",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/brand-von-lithium-ionen-akkus-in-bamberger-wertstoffhof-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/brand-von-lithium-ionen-akkus-in-bamberger-wertstoffhof",
-      "published": "Fri, 18 Sep 2026 08:59:09 -0000",
-      "published_display": "18.09.2026 · 08:59 Uhr"
     }
   ]
 }
