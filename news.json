@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-18T03:17:25.926776+00:00",
+  "updated": "2026-09-18T03:29:46.978264+00:00",
   "items": [
+    {
+      "title": "Nahost-Konflikt: Ed Sheeran und Macklemore: Darum geht es bei dem Streit",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/ed-sheeran-und-macklemore-darum-geht-es-bei-dem-streit-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/ed-sheeran-und-macklemore-darum-geht-es-bei-dem-streit",
+      "published": "Fri, 18 Sep 2026 03:25:56 -0000",
+      "published_display": "18.09.2026 · 03:25 Uhr"
+    },
+    {
+      "title": "Rüstungsprojekte: «Modernstes Kampfflugzeug»: Deutschland bekommt F-35",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/modernstes-kampfflugzeug-deutschland-bekommt-f-35-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/modernstes-kampfflugzeug-deutschland-bekommt-f-35",
+      "published": "Fri, 18 Sep 2026 03:25:04 -0000",
+      "published_display": "18.09.2026 · 03:25 Uhr"
+    },
     {
       "title": "Abgeordnetenhauswahl: Diese Online-Entscheidungshilfen gibt es vor der Berlin-Wahl",
       "summary": "",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/politik/2026-09/organspende-deutschland-abgeordnete-bundestag-widerspruchsregelung",
       "published": "Fri, 18 Sep 2026 02:31:25 -0000",
       "published_display": "18.09.2026 · 02:31 Uhr"
-    },
-    {
-      "title": "Irankrieg: UN-Bericht attestiert USA Kriegsverbrechen im Iran",
-      "summary": "Eine UN-Kommission wirft den USA in einem Bericht mögliche Kriegsverbrechen und dem Iran mutmaßliche Verbrechen gegen die Menschlichkeit vor. Die US-Regierung übt Kritik.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/photos-show-what-remains-of-an-iranian-school-where-some-120-children-died-in-a-u-s-strike-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/un-bericht-usa-iran-kriegsverbrechen-syrien",
-      "published": "Fri, 18 Sep 2026 02:31:23 -0000",
-      "published_display": "18.09.2026 · 02:31 Uhr"
-    },
-    {
-      "title": "Nach der Landtagswahl: Mehrheit versteht Migranten-Sorgen nach AfD-Wahlsieg",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/mehrheit-versteht-migranten-sorgen-nach-afd-wahlsieg-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/mehrheit-versteht-migranten-sorgen-nach-afd-wahlsieg",
-      "published": "Fri, 18 Sep 2026 02:30:10 -0000",
-      "published_display": "18.09.2026 · 02:30 Uhr"
     }
   ]
 }
