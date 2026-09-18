@@ -1,7 +1,71 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-18T04:55:22.927913+00:00",
+  "updated": "2026-09-18T05:16:23.094908+00:00",
   "items": [
+    {
+      "title": "Wetter im Norden: Wo es am Wochenende stürmisch werden kann",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/wo-es-am-wochenende-stuermisch-werden-kann-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/wo-es-am-wochenende-stuermisch-werden-kann",
+      "published": "Fri, 18 Sep 2026 05:12:19 -0000",
+      "published_display": "18.09.2026 · 05:12 Uhr"
+    },
+    {
+      "title": "Ursache noch unklar: 500 Fische in Teichen in Oberfranken gestorben",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/500-fische-in-teichen-in-oberfranken-gestorben-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/500-fische-in-teichen-in-oberfranken-gestorben",
+      "published": "Fri, 18 Sep 2026 05:11:04 -0000",
+      "published_display": "18.09.2026 · 05:11 Uhr"
+    },
+    {
+      "title": "Vorhersage: Herbstwetter in NRW: Sonne, Wolken und gelegentlich Schauer",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/herbstwetter-in-nrw-sonne-wolken-und-gelegentlich-schauer-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/herbstwetter-in-nrw-sonne-wolken-und-gelegentlich-schauer",
+      "published": "Fri, 18 Sep 2026 05:10:36 -0000",
+      "published_display": "18.09.2026 · 05:10 Uhr"
+    },
+    {
+      "title": "Hochwasser in Hanoi: Überschwemmungen in Vietnam: Drei Tote und meterhohe Fluten",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/ueberschwemmungen-in-vietnam-drei-tote-und-meterhohe-fluten-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/ueberschwemmungen-in-vietnam-drei-tote-und-meterhohe-fluten",
+      "published": "Fri, 18 Sep 2026 05:01:57 -0000",
+      "published_display": "18.09.2026 · 05:01 Uhr"
+    },
+    {
+      "title": "Forsa-Umfrage: Mehrheit der Deutschen sorgt sich um Zukunft der Demokratie",
+      "summary": "Frauen und junge Erwachsene blicken mit Sorge auf die politische Zukunft. In Ostdeutschland ist die Unzufriedenheit mit der praktizierten Demokratie größer als im Westen.",
+      "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-09/forsa-umfrage-demokratie-sorge-deutschland-foto-1/original__640x360",
+      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-09/forsa-umfrage-demokratie-sorge-deutschland",
+      "published": "Fri, 18 Sep 2026 05:01:17 -0000",
+      "published_display": "18.09.2026 · 05:01 Uhr"
+    },
+    {
+      "title": "Musical: Udo-Jürgens-Musical nach zehn Jahren wieder auf der Bühne",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/udo-juergens-musical-nach-zehn-jahren-wieder-auf-der-buehne-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/udo-juergens-musical-nach-zehn-jahren-wieder-auf-der-buehne",
+      "published": "Fri, 18 Sep 2026 05:00:05 -0000",
+      "published_display": "18.09.2026 · 05:00 Uhr"
+    },
+    {
+      "title": "Fernsehen: Jean Pütz will jetzt auch noch 100 werden",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/jean-puetz-will-jetzt-auch-noch-100-werden-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/jean-puetz-will-jetzt-auch-noch-100-werden",
+      "published": "Fri, 18 Sep 2026 05:00:05 -0000",
+      "published_display": "18.09.2026 · 05:00 Uhr"
+    },
+    {
+      "title": "Bahnunfall: 90-Jährige umfährt Schranke und kollidiert mit Zug",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/90-jaehrige-umfaehrt-schranke-und-kollidiert-mit-zug-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/90-jaehrige-umfaehrt-schranke-und-kollidiert-mit-zug",
+      "published": "Fri, 18 Sep 2026 04:55:47 -0000",
+      "published_display": "18.09.2026 · 04:55 Uhr"
+    },
     {
       "title": "Japan: Japans Zentralbank hebt Leitzins auf höchsten Stand seit 31 Jahren",
       "summary": "Nachdem die USA ihre Leitzinsen erhöht haben, zieht auch die japanische Zentralbank nach. Experten rechnen mit weiteren Zinserhöhungen.",
@@ -57,70 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/18/auto-ueberschlaegt-sich-in-berlin-zwei-leichtverletzte",
       "published": "Fri, 18 Sep 2026 04:26:36 -0000",
       "published_display": "18.09.2026 · 04:26 Uhr"
-    },
-    {
-      "title": "Frontaler Zusammenstoß: Drei Schwerverletzte nach Verkehrsunfall",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/drei-schwerverletzte-nach-verkehrsunfall-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/drei-schwerverletzte-nach-verkehrsunfall",
-      "published": "Fri, 18 Sep 2026 04:14:12 -0000",
-      "published_display": "18.09.2026 · 04:14 Uhr"
-    },
-    {
-      "title": "Wahlen in Russland: Wozu braucht Putin noch Wahlen?",
-      "summary": "In Russland wird gewählt, doch echte politische Konkurrenz gibt es nicht. Warum inszeniert das Regime noch immer Wahlen? Und: Wie gefährlich könnte eine Super-KI werden?",
-      "image": "https://img.zeit.de/politik/2026-09/wahlen-russland-wladimir-putin-opposition-nachrichtenpodcast-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/2026-09/wahlen-russland-wladimir-putin-opposition-nachrichtenpodcast",
-      "published": "Fri, 18 Sep 2026 04:00:19 -0000",
-      "published_display": "18.09.2026 · 04:00 Uhr"
-    },
-    {
-      "title": "Abschlussveranstaltung: Finale bei «Rhein in Flammen» in Sankt Goar und Goarshausen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/finale-bei-rhein-in-flammen-in-sankt-goar-und-goarshausen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/finale-bei-rhein-in-flammen-in-sankt-goar-und-goarshausen",
-      "published": "Fri, 18 Sep 2026 04:00:12 -0000",
-      "published_display": "18.09.2026 · 04:00 Uhr"
-    },
-    {
-      "title": "Musik: Gentleman: «Im Alter werde ich gelassener»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/gentleman-im-alter-werde-ich-gelassener-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/gentleman-im-alter-werde-ich-gelassener",
-      "published": "Fri, 18 Sep 2026 04:00:11 -0000",
-      "published_display": "18.09.2026 · 04:00 Uhr"
-    },
-    {
-      "title": "Pride-Feierlichkeiten: Drei CSDs in Brandenburg - Gegendemo erwartet",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/drei-csds-in-brandenburg-gegendemo-erwartet-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/drei-csds-in-brandenburg-gegendemo-erwartet",
-      "published": "Fri, 18 Sep 2026 04:00:11 -0000",
-      "published_display": "18.09.2026 · 04:00 Uhr"
-    },
-    {
-      "title": "Nach Rechtsstreit: Neuer Anlauf: Strausberg wiederholt die Bürgermeisterwahl",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/neuer-anlauf-strausberg-wiederholt-die-buergermeisterwahl-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/neuer-anlauf-strausberg-wiederholt-die-buergermeisterwahl",
-      "published": "Fri, 18 Sep 2026 04:00:10 -0000",
-      "published_display": "18.09.2026 · 04:00 Uhr"
-    },
-    {
-      "title": "Elbvertiefung: Der tägliche Newsletter aus Hamburg: Weshalb ist der Klops so weich?",
-      "summary": "Die Elbvertiefung am Freitag – mit Schiffen, die im Hafen bleiben, Gründen für ein AfD-Verbot und Kindern weltberühmter Schurken",
-      "image": "https://img.zeit.de/2026-09/foto-18-09-2026-6/original__640x360",
-      "link": "https://www.zeit.de/hamburg/2026-09/elbvertiefung-18-09-2026",
-      "published": "Fri, 18 Sep 2026 04:00:09 -0000",
-      "published_display": "18.09.2026 · 04:00 Uhr"
-    },
-    {
-      "title": "Jérémie Queyras: »Die Raute hätte zu sehr abgelenkt vom Gesicht«",
-      "summary": "Im Wochenendpodcast erzählt der Maler Jérémie Queyras von seinem Kanzlerinnen-Porträt von Angela Merkel. Und warum »Gilmore Girls« sein Guilty Pleasure bleibt.",
-      "image": "https://img.zeit.de/gesellschaft/2026-09/jeremie-queyras-maler-wochenende-tipps-podcast-bild/original__640x360",
-      "link": "https://www.zeit.de/gesellschaft/2026-09/jeremie-queyras-maler-wochenende-tipps-podcast",
-      "published": "Fri, 18 Sep 2026 04:00:06 -0000",
-      "published_display": "18.09.2026 · 04:00 Uhr"
     }
   ]
 }
