@@ -1,7 +1,71 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-18T15:29:30.268989+00:00",
+  "updated": "2026-09-18T15:44:11.176747+00:00",
   "items": [
+    {
+      "title": "Festakt: 65 Jahre Anwerbeabkommen: Wüst dankt Gastarbeitern",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/65-jahre-anwerbeabkommen-wuest-dankt-gastarbeitern-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/65-jahre-anwerbeabkommen-wuest-dankt-gastarbeitern",
+      "published": "Fri, 18 Sep 2026 15:41:19 -0000",
+      "published_display": "18.09.2026 · 15:41 Uhr"
+    },
+    {
+      "title": "Entlastung bei Spritpreisen: Kommt der Tankrabatt 2.0?",
+      "summary": "Offenbar will die Bundesregierung neben einem Preisdeckel auch einen neuen Tankrabatt einführen. Und: Was steckt hinter den Malaria-Todesfällen in Frankfurt am Main?",
+      "image": "https://img.zeit.de/politik/2026-09/entlastung-spritpreise-europaeische-union-nachrichtenpodcast-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/2026-09/entlastung-spritpreise-europaeische-union-nachrichtenpodcast",
+      "published": "Fri, 18 Sep 2026 15:33:28 -0000",
+      "published_display": "18.09.2026 · 15:33 Uhr"
+    },
+    {
+      "title": "Schnitzwettbewerb: Kettensägen-Künstler setzen DDR-Musiker Denkmal in Suhl",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/kettensaegen-kuenstler-setzen-ddr-musiker-denkmal-in-suhl-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/kettensaegen-kuenstler-setzen-ddr-musiker-denkmal-in-suhl",
+      "published": "Fri, 18 Sep 2026 15:32:36 -0000",
+      "published_display": "18.09.2026 · 15:32 Uhr"
+    },
+    {
+      "title": "Fußball: PR-Coup: Grimme-Preisträger unterschreibt bei Regionalligist",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/pr-coup-grimme-preistraeger-unterschreibt-bei-regionalligist-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/pr-coup-grimme-preistraeger-unterschreibt-bei-regionalligist",
+      "published": "Fri, 18 Sep 2026 15:31:44 -0000",
+      "published_display": "18.09.2026 · 15:31 Uhr"
+    },
+    {
+      "title": "Verkehr: Vollsperrung wegen Brückenschäden - Speyer warnt vor Folgen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/vollsperrung-wegen-brueckenschaeden-speyer-warnt-vor-folgen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/vollsperrung-wegen-brueckenschaeden-speyer-warnt-vor-folgen",
+      "published": "Fri, 18 Sep 2026 15:30:55 -0000",
+      "published_display": "18.09.2026 · 15:30 Uhr"
+    },
+    {
+      "title": "Fußball-Bundesliga: Augsburg will in Bremen nachlegen - DFB-Nominierte im Fokus",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/augsburg-will-in-bremen-nachlegen-dfb-nominierte-im-fokus-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/augsburg-will-in-bremen-nachlegen-dfb-nominierte-im-fokus",
+      "published": "Fri, 18 Sep 2026 15:30:09 -0000",
+      "published_display": "18.09.2026 · 15:30 Uhr"
+    },
+    {
+      "title": "Rentenreform: Gesetzesentwurf entschärft Empfehlungen der Rentenkommission",
+      "summary": "Ein Entwurf aus dem Arbeitsministerium konkretisiert erstmals die Umsetzung der Empfehlungen der Rentenkommission. Er könnte einen Run auf Altersteilzeit auslösen.",
+      "image": "https://img.zeit.de/wirtschaft/2026-09/rentengesetzentwurf-bild/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/2026-09/rentenreform-rentenalter-lebenserwartung-abschlagsfreie-rente-arbeitsministerium",
+      "published": "Fri, 18 Sep 2026 15:29:29 -0000",
+      "published_display": "18.09.2026 · 15:29 Uhr"
+    },
+    {
+      "title": "Lebensbedrohlich verletzt: Brand in Mehrfamilienhaus - Bewohner in Lebensgefahr",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/brand-in-mehrfamilienhaus-bewohner-in-lebensgefahr-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/brand-in-mehrfamilienhaus-bewohner-in-lebensgefahr",
+      "published": "Fri, 18 Sep 2026 15:27:03 -0000",
+      "published_display": "18.09.2026 · 15:27 Uhr"
+    },
     {
       "title": "Abgeordnetenhauswahl Berlin: Es geht noch viel härter",
       "summary": "Die Berliner AfD und ihre Auslandskontakte: Von anderen Rechten will sie lernen, wie man Sozialpolitik für Deutsche macht. Das endet oft mit Überraschungen.",
@@ -38,7 +102,7 @@
       "title": "Spritkrise: Regierung will offenbar wieder Tankrabatt einführen",
       "summary": "Nachdem die Spritpreise Höchstwerte erreicht haben, hat sich die Regierung anscheinend auf Maßnahmen wie einen Preisdeckel geeinigt. Die Länder müssen noch zustimmen.",
       "image": "https://img.zeit.de/politik/2026-09/tankrabatt-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/tankpreisdeckel-spritpreise-regierung-entlastung",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/tankpreisdeckel-spritpreise-regierung-entlastung-gxe",
       "published": "Fri, 18 Sep 2026 15:22:42 -0000",
       "published_display": "18.09.2026 · 15:22 Uhr"
     },
@@ -57,70 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/18/stromausfall-in-lueneburg-reparatur-laeuft-auf-hochtouren",
       "published": "Fri, 18 Sep 2026 15:20:18 -0000",
       "published_display": "18.09.2026 · 15:20 Uhr"
-    },
-    {
-      "title": "Nach Wahl in Sachsen-Anhalt: Grüne rechnet mit «faschistischem Landtagspräsidenten»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/gruene-rechnet-mit-faschistischem-landtagspraesidenten-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/gruene-rechnet-mit-faschistischem-landtagspraesidenten",
-      "published": "Fri, 18 Sep 2026 15:13:36 -0000",
-      "published_display": "18.09.2026 · 15:13 Uhr"
-    },
-    {
-      "title": "»City of Blood«: Zur Ader, zu Staub",
-      "summary": "Klimakollaps, Rechtspopulisten, überall Müll und Lars Eidinger als Vampir: In der Berlin-Serie »City of Blood« steht es fast so schlimm um die Stadt wie in echt.",
-      "image": "https://img.zeit.de/feuilleton/film/2026-09/city-of-blood-serie-klima-berlin-vampire-disney-bild-1/original__640x360",
-      "link": "https://www.zeit.de/feuilleton/film/2026-09/city-of-blood-serie-klima-berlin-vampire-disney",
-      "published": "Fri, 18 Sep 2026 15:10:21 -0000",
-      "published_display": "18.09.2026 · 15:10 Uhr"
-    },
-    {
-      "title": "Ehrung: Schule umbenannt: Margot-Friedländer-Gymnasium in Spandau",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/schule-umbenannt-margot-friedlaender-gymnasium-in-spandau-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/schule-umbenannt-margot-friedlaender-gymnasium-in-spandau",
-      "published": "Fri, 18 Sep 2026 15:09:41 -0000",
-      "published_display": "18.09.2026 · 15:09 Uhr"
-    },
-    {
-      "title": "Jugendliche greifen ein: Jugendliche schreiten gegen aggressiven Ladendieb ein",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/jugendliche-schreiten-gegen-aggressiven-ladendieb-ein-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/jugendliche-schreiten-gegen-aggressiven-ladendieb-ein",
-      "published": "Fri, 18 Sep 2026 15:06:05 -0000",
-      "published_display": "18.09.2026 · 15:06 Uhr"
-    },
-    {
-      "title": "Pannenserie: Akku nicht geladen: «Missunde III» erneut kurz ausgefallen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/akku-nicht-geladen-missunde-iii-erneut-kurz-ausgefallen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/akku-nicht-geladen-missunde-iii-erneut-kurz-ausgefallen",
-      "published": "Fri, 18 Sep 2026 15:04:05 -0000",
-      "published_display": "18.09.2026 · 15:04 Uhr"
-    },
-    {
-      "title": "Tod im Regionalexpress: Der Name, der auf Gleis 1 bleibt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/deine-spuren-bleiben-gedenkort-fuer-getoeteten-zugbegleiter-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/deine-spuren-bleiben-gedenkort-fuer-getoeteten-zugbegleiter",
-      "published": "Fri, 18 Sep 2026 15:03:51 -0000",
-      "published_display": "18.09.2026 · 15:03 Uhr"
-    },
-    {
-      "title": "Nach Sieg bei Parlamentswahl: Sozialdemokratin bekommt in Schweden Auftrag zur Sondierung",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/sozialdemokratin-bekommt-in-schweden-auftrag-zur-sondierung-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/sozialdemokratin-bekommt-in-schweden-auftrag-zur-sondierung",
-      "published": "Fri, 18 Sep 2026 15:01:22 -0000",
-      "published_display": "18.09.2026 · 15:01 Uhr"
-    },
-    {
-      "title": "Abgeordnetenhauswahl: Linken-Kandidatin Eralp wirbt für «Politikwechsel» in Berlin",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/cdu-kandidat-clans-sollen-spass-an-berlin-verlieren-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/cdu-kandidat-clans-sollen-spass-an-berlin-verlieren",
-      "published": "Fri, 18 Sep 2026 14:58:17 -0000",
-      "published_display": "18.09.2026 · 14:58 Uhr"
     }
   ]
 }
