@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-18T04:18:00.045801+00:00",
+  "updated": "2026-09-18T04:30:31.712177+00:00",
   "items": [
+    {
+      "title": "Unfälle: Auto überschlägt sich in Berlin – zwei Leichtverletzte",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/auto-ueberschlaegt-sich-in-berlin-zwei-leichtverletzte-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/auto-ueberschlaegt-sich-in-berlin-zwei-leichtverletzte",
+      "published": "Fri, 18 Sep 2026 04:26:36 -0000",
+      "published_display": "18.09.2026 · 04:26 Uhr"
+    },
     {
       "title": "Frontaler Zusammenstoß: Drei Schwerverletzte nach Verkehrsunfall",
       "summary": "",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/18/bundesliga-trainer-sehen-bayerns-basketballer-vorne",
       "published": "Fri, 18 Sep 2026 03:45:04 -0000",
       "published_display": "18.09.2026 · 03:45 Uhr"
-    },
-    {
-      "title": "Lazarus Lake: »Der eigentliche Schlüssel beim Backyard liegt zwischen den Runden«",
-      "summary": "Beim Backyard Ultra läuft man jede Stunde 6,7 Kilometer, bis nur noch einer kann. Der Erfinder Lazarus Lake weiß, wieso viele den Ultralauf lieben. Und wie man gewinnt.",
-      "image": "https://img.zeit.de/sport/2026-09/lazarus-lake-backyard-ultra/original__640x360",
-      "link": "https://www.zeit.de/sport/2026-09/lazarus-lake-backyard-ultra-langstreckenlauf-extremsport",
-      "published": "Fri, 18 Sep 2026 03:40:08 -0000",
-      "published_display": "18.09.2026 · 03:40 Uhr"
     }
   ]
 }
