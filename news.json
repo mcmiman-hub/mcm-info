@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-17T23:54:08.549397+00:00",
+  "updated": "2026-09-18T00:24:07.511399+00:00",
   "items": [
+    {
+      "title": "Energiepreise: Gewerkschaftsbund fordert Entlastungen bei Gas, Strom und Sprit",
+      "summary": "DGB-Chefin Yasmin Fahimi verlangt einen Spritpreisdeckel und eine Übergewinnsteuer. Wie der ADAC und der Handwerkspräsident unterstützt sie eine Senkung der Stromsteuer.",
+      "image": "https://img.zeit.de/wirtschaft/2026-09/energiepreise-dgb-yasmin-fahimi-entlastungen-steuern-foto-1/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/2026-09/energiepreise-dgb-yasmin-fahimi-entlastungen-steuern",
+      "published": "Fri, 18 Sep 2026 00:12:39 -0000",
+      "published_display": "18.09.2026 · 00:12 Uhr"
+    },
+    {
+      "title": "Folge wachsender Impfskepsis: Kinder-Impfquoten sinken in vielen EU-Ländern",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/kinder-impfquoten-sinken-in-vielen-eu-laendern-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/kinder-impfquoten-sinken-in-vielen-eu-laendern",
+      "published": "Fri, 18 Sep 2026 00:00:05 -0000",
+      "published_display": "18.09.2026 · 00:00 Uhr"
+    },
+    {
+      "title": "Unfälle: Auto überschlägt sich - Fahrerin schwer verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/auto-ueberschlaegt-sich-fahrerin-schwer-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/auto-ueberschlaegt-sich-fahrerin-schwer-verletzt",
+      "published": "Thu, 17 Sep 2026 23:52:38 -0000",
+      "published_display": "17.09.2026 · 23:52 Uhr"
+    },
     {
       "title": "Benefiz-Bühnendinner: Söder: Ohne Kultur stirbt ein Staat im Inneren",
       "summary": "",
@@ -84,7 +108,7 @@
     },
     {
       "title": "ZDF-»Politbarometer Extra«: SPD überholt AfD in Mecklenburg-Vorpommern knapp",
-      "summary": "Vor der Landtagswahl in Mecklenburg-Vorpommern liegen die Sozialdemokraten in einer Umfrage knapp vor der AfD. CDU und Grünen kämen demnach ins Parlament, das BSW nicht.",
+      "summary": "Vor der Landtagswahl in Mecklenburg-Vorpommern liegen die Sozialdemokraten in einer Umfrage knapp vor der AfD. CDU und Grüne kämen demnach ins Parlament, das BSW nicht.",
       "image": "https://img.zeit.de/politik/deutschland/2026-09/landtagswahl-mecklenburg-vorpommern-spd-afd-cdu-umfrage-zdf-foto-1/original__640x360",
       "link": "https://www.zeit.de/politik/deutschland/2026-09/landtagswahl-mecklenburg-vorpommern-spd-afd-cdu-umfrage-zdf",
       "published": "Thu, 17 Sep 2026 21:10:22 -0000",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/politik/deutschland/2026-09/berlin-wahl-2026-umfrage-cdu-linke-afd-stefan-evers-kai-wegner",
       "published": "Thu, 17 Sep 2026 21:08:48 -0000",
       "published_display": "17.09.2026 · 21:08 Uhr"
-    },
-    {
-      "title": "Münchner Philharmoniker: Dirigent Lahav Shani feiert umjubelte Premiere in München",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/dirigent-lahav-shani-feiert-umjubelte-premiere-in-muenchen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/dirigent-lahav-shani-feiert-umjubelte-premiere-in-muenchen",
-      "published": "Thu, 17 Sep 2026 21:03:27 -0000",
-      "published_display": "17.09.2026 · 21:03 Uhr"
-    },
-    {
-      "title": "Neue Erhebung: Umfrage: Linke knapp vor CDU bei Berlin-Wahl",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/umfrage-linke-knapp-vor-cdu-bei-berlin-wahl-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/umfrage-linke-knapp-vor-cdu-bei-berlin-wahl",
-      "published": "Thu, 17 Sep 2026 20:45:28 -0000",
-      "published_display": "17.09.2026 · 20:45 Uhr"
-    },
-    {
-      "title": "Umfrage zur MV-Wahl: Umfrage: SPD in MV überholt AfD - CDU rutscht weiter ab",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/umfrage-spd-in-mv-ueberholt-afd-cdu-rutscht-weiter-ab-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/umfrage-spd-in-mv-ueberholt-afd-cdu-rutscht-weiter-ab",
-      "published": "Thu, 17 Sep 2026 20:23:17 -0000",
-      "published_display": "17.09.2026 · 20:23 Uhr"
     }
   ]
 }
