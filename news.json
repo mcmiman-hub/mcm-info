@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-18T19:16:15.297973+00:00",
+  "updated": "2026-09-18T19:27:23.038538+00:00",
   "items": [
+    {
+      "title": "Tankpreis: Regierung einigt sich auf Tankrabatt und Spritpreisdeckel",
+      "summary": "Die Koalition hat einen neuen Tankrabatt und einen Spritpreisdeckel beschlossen. Die Preise für Sprit sollen ab dem 1. Oktober um 17 Cent pro Liter gesenkt werden.",
+      "image": "https://img.zeit.de/politik/2026-09/tankrabatt-und-spritpreisdeckel-bild-2/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/regierung-einigt-sich-auf-tankrabatt-und-spritpreisdeckel",
+      "published": "Fri, 18 Sep 2026 19:25:47 -0000",
+      "published_display": "18.09.2026 · 19:25 Uhr"
+    },
+    {
+      "title": "Zum siebten Mal 2026: Stromnetz auf Kuba bricht erneut zusammen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/stromnetz-auf-kuba-bricht-erneut-zusammen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/stromnetz-auf-kuba-bricht-erneut-zusammen",
+      "published": "Fri, 18 Sep 2026 19:23:12 -0000",
+      "published_display": "18.09.2026 · 19:23 Uhr"
+    },
+    {
+      "title": "Landtagswahl in MV: MV-Wahlkampfendspurt: AfD und SPD in Umfrage Kopf an Kopf",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/mv-wahlkampfendspurt-afd-und-spd-in-umfrage-kopf-an-kopf-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/mv-wahlkampfendspurt-afd-und-spd-in-umfrage-kopf-an-kopf",
+      "published": "Fri, 18 Sep 2026 19:19:19 -0000",
+      "published_display": "18.09.2026 · 19:19 Uhr"
+    },
     {
       "title": "Entlastungen: Tankrabatt und Preisdeckel - Was bringen die Maßnahmen?",
       "summary": "",
@@ -41,14 +65,6 @@
       "link": "https://www.zeit.de/feuilleton/2026-09/roger-g-comedian-mecklenburg-vorpommern-landtagswahl",
       "published": "Fri, 18 Sep 2026 19:03:26 -0000",
       "published_display": "18.09.2026 · 19:03 Uhr"
-    },
-    {
-      "title": "Tankpreis: Regierung einigt sich auf Tankrabatt und Spritpreisdeckel",
-      "summary": "Die Regierungskoalition hat einen neuen Tankrabatt und einen Spritpreisdeckel beschlossen. Die Benzin- und Dieselpreise sollen wohl um 17 Cent pro Liter gesenkt werden.",
-      "image": "https://img.zeit.de/politik/2026-09/tankrabatt-und-spritpreisdeckel-bild-2/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/regierung-einigt-sich-auf-tankrabatt-und-spritpreisdeckel",
-      "published": "Fri, 18 Sep 2026 19:02:22 -0000",
-      "published_display": "18.09.2026 · 19:02 Uhr"
     },
     {
       "title": "PauseAI-Demonstration: »Die bauen keine KI, die züchten die«",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/18/jan-boehmermann-hoert-mit-zdf-magazin-royale-auf",
       "published": "Fri, 18 Sep 2026 18:31:22 -0000",
       "published_display": "18.09.2026 · 18:31 Uhr"
-    },
-    {
-      "title": "Krise in der Autoindustrie: Wegen Porsche-Abschreibung: Volkswagen senkt Gewinnprognose",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/wegen-porsche-abschreibung-volkswagen-senkt-gewinnprognose-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/wegen-porsche-abschreibung-volkswagen-senkt-gewinnprognose",
-      "published": "Fri, 18 Sep 2026 18:29:39 -0000",
-      "published_display": "18.09.2026 · 18:29 Uhr"
-    },
-    {
-      "title": "Salzburger Festspiele: Zu beneiden ist er nicht",
-      "summary": "Nach dem Abgang von Markus Hinterhäuser wird der Belgier Peter de Caluwe neuer künstlerischer Leiter der Salzburger Festspiele. Vor ihm liegt ein Kampf an vielen Fronten.",
-      "image": "https://img.zeit.de/feuilleton/2026-09/salzburger-festspiele-leitung-intendant-peter-de-caluwe-bild-2/original__640x360",
-      "link": "https://www.zeit.de/feuilleton/2026-09/salzburger-festspiele-leitung-intendant-peter-de-caluwe",
-      "published": "Fri, 18 Sep 2026 18:29:14 -0000",
-      "published_display": "18.09.2026 · 18:29 Uhr"
     }
   ]
 }
