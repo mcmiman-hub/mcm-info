@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-18T07:43:55.439788+00:00",
+  "updated": "2026-09-18T07:55:00.732309+00:00",
   "items": [
+    {
+      "title": "Immobilienmarkt: Baugenehmigungen steigen - deutliches Plus seit Jahresbeginn",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/baugenehmigungen-steigen-deutliches-plus-seit-jahresbeginn-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/baugenehmigungen-steigen-deutliches-plus-seit-jahresbeginn",
+      "published": "Fri, 18 Sep 2026 07:45:58 -0000",
+      "published_display": "18.09.2026 · 07:45 Uhr"
+    },
+    {
+      "title": "Tropenkrankheiten: Nach Todesfällen: Droht Flughafen-Malaria auch im Südwesten?",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/malaria-in-frankfurt-aber-sehr-geringes-risiko-im-suedwesten-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/malaria-in-frankfurt-aber-sehr-geringes-risiko-im-suedwesten",
+      "published": "Fri, 18 Sep 2026 07:44:24 -0000",
+      "published_display": "18.09.2026 · 07:44 Uhr"
+    },
     {
       "title": "Gefahren von KI: Künstliche Intelligenz ist zu gefährlich für ein paar Superreiche",
       "summary": "Privaten Unternehmen wichtige Aufgaben zu übertragen, ist oft richtig. Aber bei einer derart potenten Technologie wie KI ist dies keine Option mehr.",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/zeit-magazin/2026/40/robert-pattinson-batman-alter-actionfilme",
       "published": "Fri, 18 Sep 2026 07:06:38 -0000",
       "published_display": "18.09.2026 · 07:06 Uhr"
-    },
-    {
-      "title": "Davis Cup: Gegen alle Ratschläge: Zverev im Davis Cup dabei",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/gegen-alle-ratschlaege-zverev-im-davis-cup-dabei-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/gegen-alle-ratschlaege-zverev-im-davis-cup-dabei",
-      "published": "Fri, 18 Sep 2026 07:05:04 -0000",
-      "published_display": "18.09.2026 · 07:05 Uhr"
-    },
-    {
-      "title": "Lahav Shani in München: Herrlich, wie sie auf dem Minenfeld tanzen",
-      "summary": "Die Münchner Philharmoniker und ihr neuer Chef haben schon viel durchgemacht, dabei war der noch gar nicht im Amt. Sein Antrittskonzert verspricht eine Zeitenwende.",
-      "image": "https://img.zeit.de/feuilleton/musik/2026-09/lahav-shani-muenchner-philharmoniker-chefdirigent-kritik-bild/original__640x360",
-      "link": "https://www.zeit.de/feuilleton/musik/2026-09/lahav-shani-muenchner-philharmoniker-chefdirigent-kritik",
-      "published": "Fri, 18 Sep 2026 07:04:09 -0000",
-      "published_display": "18.09.2026 · 07:04 Uhr"
     }
   ]
 }
