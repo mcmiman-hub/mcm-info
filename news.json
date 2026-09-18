@@ -1,7 +1,71 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-18T05:54:15.599978+00:00",
+  "updated": "2026-09-18T06:22:33.945254+00:00",
   "items": [
+    {
+      "title": "Tödlicher Unfall: Motorradfahrer kollidiert mit Auto und stirbt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/motorradfahrer-kollidiert-mit-auto-und-stirbt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/motorradfahrer-kollidiert-mit-auto-und-stirbt",
+      "published": "Fri, 18 Sep 2026 06:19:47 -0000",
+      "published_display": "18.09.2026 · 06:19 Uhr"
+    },
+    {
+      "title": "Wetter: Wolken und Regen in Ostdeutschland erwartet",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/wolken-und-regen-in-ostdeutschland-erwartet-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/wolken-und-regen-in-ostdeutschland-erwartet",
+      "published": "Fri, 18 Sep 2026 06:09:59 -0000",
+      "published_display": "18.09.2026 · 06:09 Uhr"
+    },
+    {
+      "title": "Textiles Brauchtum: Filigrane Spitze unter Tage: Annaberg als Klöppel-Hauptstadt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/filigrane-spitze-unter-tage-annaberg-als-kloeppel-hauptstadt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/filigrane-spitze-unter-tage-annaberg-als-kloeppel-hauptstadt",
+      "published": "Fri, 18 Sep 2026 06:06:51 -0000",
+      "published_display": "18.09.2026 · 06:06 Uhr"
+    },
+    {
+      "title": "Beliebter Strand in Perth: Wieder Haiangriff in Westaustralien: Mann im Meer vermisst",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/wieder-haiangriff-in-westaustralien-mann-im-meer-vermisst-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/wieder-haiangriff-in-westaustralien-mann-im-meer-vermisst",
+      "published": "Fri, 18 Sep 2026 06:06:30 -0000",
+      "published_display": "18.09.2026 · 06:06 Uhr"
+    },
+    {
+      "title": "CO₂-Entfernung: Putzen lohnt sich",
+      "summary": "Brüssel, Herbst 2036, und eine neue Industrie boomt in Europa. Ihr Produkt: die Reinigung der Atmosphäre – und das ist bares Geld wert. Was, wenn das tatsächlich gelänge?",
+      "image": "https://img.zeit.de/2026/40/putzen-lohnt-sich-bild-2/original__640x360",
+      "link": "https://www.zeit.de/2026/40/co2-entfernung-luft-erdatmosphaere-europa-emissionen",
+      "published": "Fri, 18 Sep 2026 06:04:28 -0000",
+      "published_display": "18.09.2026 · 06:04 Uhr"
+    },
+    {
+      "title": "Berlin-Wahl: Grünen-Spitzenkandidat: Gegen Schießereien vorgehen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/gruenen-spitzenkandidat-gegen-schiessereien-vorgehen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/gruenen-spitzenkandidat-gegen-schiessereien-vorgehen",
+      "published": "Fri, 18 Sep 2026 06:01:58 -0000",
+      "published_display": "18.09.2026 · 06:01 Uhr"
+    },
+    {
+      "title": "Stimmung in Deutschland: Lass mal richtig geil abschmieren",
+      "summary": "Man kann die Dinge nicht nur schön-, sondern auch schwarzreden: Wieso beschwören wir als Land eigentlich ständig den eigenen Untergang herauf?",
+      "image": "https://img.zeit.de/zeit-magazin/leben/2026-09/deutschland-pessimismus-schwarzmalerei-bild-3/original__640x360",
+      "link": "https://www.zeit.de/zeit-magazin/leben/2026-09/stimmung-deutschland-bevoelkerung-pessimismus-krise",
+      "published": "Fri, 18 Sep 2026 06:00:08 -0000",
+      "published_display": "18.09.2026 · 06:00 Uhr"
+    },
+    {
+      "title": "Cyberangriffe: Nordkorea-Cybergruppe bestiehlt IT-Fachleute auf Jobsuche",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/nordkorea-cybergruppe-bestiehlt-it-fachleute-auf-jobsuche-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/nordkorea-cybergruppe-bestiehlt-it-fachleute-auf-jobsuche",
+      "published": "Fri, 18 Sep 2026 06:00:07 -0000",
+      "published_display": "18.09.2026 · 06:00 Uhr"
+    },
     {
       "title": "Verdis »Macbeth« in Hamburg: Die Macbeths als Helikoptereltern",
       "summary": "Tobias Kratzer inszeniert in Hamburg Verdis erste Shakespeare-Oper. Mit einer genialen Idee: Er verpasst den Tyrannen Kinder.",
@@ -30,7 +94,7 @@
       "title": "Überschuldungsreport: Alleinerziehende in Deutschland besonders oft überschuldet",
       "summary": "Mehr als fünf Millionen Menschen in Deutschland konnten 2025 ihre Schulden nicht bezahlen. Die Ursachen sind vielfältig – eine Rolle spielen oft hohe Wohnkosten.",
       "image": "https://img.zeit.de/gesellschaft/2026-09/ueberschuldung-deutschland-iff-institut-alleinerziehende-digitalkonsum-foto-1/original__640x360",
-      "link": "https://www.zeit.de/gesellschaft/2026-09/ueberschuldung-deutschland-iff-institut-alleinerziehende-digitalkonsum",
+      "link": "https://www.zeit.de/gesellschaft/2026-09/ueberschuldung-deutschland-iff-institut-alleinerziehende-digitalkonsum-gxe",
       "published": "Fri, 18 Sep 2026 05:44:24 -0000",
       "published_display": "18.09.2026 · 05:44 Uhr"
     },
@@ -57,70 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/18/wolken-und-regen-am-wochenende-erwartet",
       "published": "Fri, 18 Sep 2026 05:34:26 -0000",
       "published_display": "18.09.2026 · 05:34 Uhr"
-    },
-    {
-      "title": "Kripo ermittelt: Acht Verletzte bei Brand in Notunterkunft in Stuttgart",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/acht-verletzte-bei-brand-in-notunterkunft-in-stuttgart-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/acht-verletzte-bei-brand-in-notunterkunft-in-stuttgart",
-      "published": "Fri, 18 Sep 2026 05:29:32 -0000",
-      "published_display": "18.09.2026 · 05:29 Uhr"
-    },
-    {
-      "title": "Kriminalität: Handelsverband besorgt nach Serie von Explosionen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/handelsverband-besorgt-nach-serie-von-explosionen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/handelsverband-besorgt-nach-serie-von-explosionen",
-      "published": "Fri, 18 Sep 2026 05:24:18 -0000",
-      "published_display": "18.09.2026 · 05:24 Uhr"
-    },
-    {
-      "title": "Landtagswahlen: Karin Prien erwartet Unterstützung für Kanzler am Wahlabend",
-      "summary": "Friedrich Merz hat für Sonntagabend zu einer formellen CDU-Präsidiumssitzung eingeladen. »Wir stehen zum Kanzler«, sagt die Bundesbildungsministerin schon jetzt.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/karin-prien-cdu-vizepraesidentin-friedrich-merz-personaldebatte-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/karin-prien-cdu-vizepraesidentin-friedrich-merz-personaldebatte",
-      "published": "Fri, 18 Sep 2026 05:23:47 -0000",
-      "published_display": "18.09.2026 · 05:23 Uhr"
-    },
-    {
-      "title": "Störung im U-Bahnverkehr: Nach Brand: U3 soll wieder fahren",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/nach-brand-u3-soll-wieder-fahren-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/nach-brand-u3-soll-wieder-fahren",
-      "published": "Fri, 18 Sep 2026 05:20:02 -0000",
-      "published_display": "18.09.2026 · 05:20 Uhr"
-    },
-    {
-      "title": "Ursache noch unklar: 500 Fische in Teichen in Oberfranken gestorben",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/500-fische-in-teichen-in-oberfranken-gestorben-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/500-fische-in-teichen-in-oberfranken-gestorben",
-      "published": "Fri, 18 Sep 2026 05:18:12 -0000",
-      "published_display": "18.09.2026 · 05:18 Uhr"
-    },
-    {
-      "title": "Landtagswahl: Grüne: Stabile Mehrheiten in Schwerin nur mit Rot-Rot-Grün",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/gruene-stabile-mehrheiten-in-schwerin-nur-mit-rot-rot-gruen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/gruene-stabile-mehrheiten-in-schwerin-nur-mit-rot-rot-gruen",
-      "published": "Fri, 18 Sep 2026 05:14:24 -0000",
-      "published_display": "18.09.2026 · 05:14 Uhr"
-    },
-    {
-      "title": "Wetter im Norden: Wo es am Wochenende stürmisch werden kann",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/wo-es-am-wochenende-stuermisch-werden-kann-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/wo-es-am-wochenende-stuermisch-werden-kann",
-      "published": "Fri, 18 Sep 2026 05:12:19 -0000",
-      "published_display": "18.09.2026 · 05:12 Uhr"
-    },
-    {
-      "title": "Vorhersage: Herbstwetter in NRW: Sonne, Wolken und gelegentlich Schauer",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/herbstwetter-in-nrw-sonne-wolken-und-gelegentlich-schauer-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/herbstwetter-in-nrw-sonne-wolken-und-gelegentlich-schauer",
-      "published": "Fri, 18 Sep 2026 05:10:36 -0000",
-      "published_display": "18.09.2026 · 05:10 Uhr"
     }
   ]
 }
