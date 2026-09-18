@@ -1,7 +1,103 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-18T18:19:54.899293+00:00",
+  "updated": "2026-09-18T18:33:45.423528+00:00",
   "items": [
+    {
+      "title": "Fußball: Eintracht-Frauen drehen Partie bei Aufsteiger Mainz",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/eintracht-frauen-drehen-partie-bei-aufsteiger-mainz-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/eintracht-frauen-drehen-partie-bei-aufsteiger-mainz",
+      "published": "Fri, 18 Sep 2026 18:31:41 -0000",
+      "published_display": "18.09.2026 · 18:31 Uhr"
+    },
+    {
+      "title": "Satiriker plant neue Show: Jan Böhmermann hört mit «ZDF Magazin Royale» auf",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/jan-boehmermann-hoert-mit-zdf-magazin-royale-auf-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/jan-boehmermann-hoert-mit-zdf-magazin-royale-auf",
+      "published": "Fri, 18 Sep 2026 18:31:22 -0000",
+      "published_display": "18.09.2026 · 18:31 Uhr"
+    },
+    {
+      "title": "Krise in der Autoindustrie: Wegen Porsche-Abschreibung: Volkswagen senkt Gewinnprognose",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/wegen-porsche-abschreibung-volkswagen-senkt-gewinnprognose-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/wegen-porsche-abschreibung-volkswagen-senkt-gewinnprognose",
+      "published": "Fri, 18 Sep 2026 18:29:39 -0000",
+      "published_display": "18.09.2026 · 18:29 Uhr"
+    },
+    {
+      "title": "Salzburger Festspiele: Zu beneiden ist er nicht",
+      "summary": "Nach dem Abgang von Markus Hinterhäuser wird der Belgier Peter de Caluwe neuer künstlerischer Leiter der Salzburger Festspiele. Vor ihm liegt ein Kampf an vielen Fronten.",
+      "image": "https://img.zeit.de/feuilleton/2026-09/salzburger-festspiele-leitung-intendant-peter-de-caluwe-bild-2/original__640x360",
+      "link": "https://www.zeit.de/feuilleton/2026-09/salzburger-festspiele-leitung-intendant-peter-de-caluwe",
+      "published": "Fri, 18 Sep 2026 18:29:14 -0000",
+      "published_display": "18.09.2026 · 18:29 Uhr"
+    },
+    {
+      "title": "Wahlen: Günther: Kein Abgrenzungswahlkampf gegen Bundesregierung",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/guenther-kein-abgrenzungswahlkampf-gegen-bundesregierung-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/guenther-kein-abgrenzungswahlkampf-gegen-bundesregierung",
+      "published": "Fri, 18 Sep 2026 18:29:00 -0000",
+      "published_display": "18.09.2026 · 18:29 Uhr"
+    },
+    {
+      "title": "2. Fußball-Bundesliga: Auswärts nichts zu holen: Darmstadt verliert 1:5",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/auswaerts-nichts-zu-holen-darmstadt-verliert-1-5-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/auswaerts-nichts-zu-holen-darmstadt-verliert-1-5",
+      "published": "Fri, 18 Sep 2026 18:28:44 -0000",
+      "published_display": "18.09.2026 · 18:28 Uhr"
+    },
+    {
+      "title": "2. Fußball-Bundesliga: Erster Heimsieg seit Januar: Wolfsburg gewinnt 5:1",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/erster-heimsieg-seit-januar-wolfsburg-gewinnt-5-1-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/erster-heimsieg-seit-januar-wolfsburg-gewinnt-5-1",
+      "published": "Fri, 18 Sep 2026 18:27:37 -0000",
+      "published_display": "18.09.2026 · 18:27 Uhr"
+    },
+    {
+      "title": "2. Fußball-Bundesliga: Diesmal unspektakulär: Fürth und Magdeburg mit Remis",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/diesmal-unspektakulaer-fuerth-und-magdeburg-mit-remis-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/diesmal-unspektakulaer-fuerth-und-magdeburg-mit-remis",
+      "published": "Fri, 18 Sep 2026 18:25:47 -0000",
+      "published_display": "18.09.2026 · 18:25 Uhr"
+    },
+    {
+      "title": "Krise in der Autoindustrie: Volkswagen senkt Gewinnprognose deutlich",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/volkswagen-senkt-gewinnprognose-deutlich-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/volkswagen-senkt-gewinnprognose-deutlich",
+      "published": "Fri, 18 Sep 2026 18:23:44 -0000",
+      "published_display": "18.09.2026 · 18:23 Uhr"
+    },
+    {
+      "title": "Rüstungsprojekte: «Neue Ära» für die Luftwaffe: F-35 soll abschrecken",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/modernstes-kampfflugzeug-deutschland-bekommt-f-35-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/modernstes-kampfflugzeug-deutschland-bekommt-f-35",
+      "published": "Fri, 18 Sep 2026 18:23:30 -0000",
+      "published_display": "18.09.2026 · 18:23 Uhr"
+    },
+    {
+      "title": "Tankpreis: Regierung einigt sich auf Tankrabatt und Spritpreisdeckel",
+      "summary": "Die Regierungskoalition hat einen neuen Tankrabatt und einen Spritpreisdeckel beschlossen. Die Benzin- und Dieselpreise sollen wohl um 17 Cent pro Liter gesenkt werden.",
+      "image": "https://img.zeit.de/politik/2026-09/tankrabatt-und-spritpreisdeckel-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/regierung-einigt-sich-auf-tankrabatt-und-spritpreisdeckel",
+      "published": "Fri, 18 Sep 2026 18:21:46 -0000",
+      "published_display": "18.09.2026 · 18:21 Uhr"
+    },
+    {
+      "title": "Sanierung der Stuttgarter Oper: Jetzt nehmen sie die Oper auseinander",
+      "summary": "Stuttgart 21, Teil 2: zu den spektakulären Plänen für die Württembergischen Staatstheater",
+      "image": "https://img.zeit.de/2026/40/staatstheater-stuttgart-teaser/original__640x360",
+      "link": "https://www.zeit.de/2026/40/staatstheater-stuttgart-opernhaus-sanierung-littmann-bau",
+      "published": "Fri, 18 Sep 2026 18:20:53 -0000",
+      "published_display": "18.09.2026 · 18:20 Uhr"
+    },
     {
       "title": "Donald Trump: Kleptokratie Made in the USA?",
       "summary": "Kryptodeals, ein Jumbojet aus Katar, Insidertrading: Donald Trump nutzt das Präsidentenamt zur Selbstbereicherung wie kein Amtsinhaber vor ihm.",
@@ -9,14 +105,6 @@
       "link": "https://www.zeit.de/video/2026-09/trumpo-f02-v03",
       "published": "Fri, 18 Sep 2026 18:15:01 -0000",
       "published_display": "18.09.2026 · 18:15 Uhr"
-    },
-    {
-      "title": "Tankpreis: Regierung einigt sich auf Tankrabatt und Spritpreisdeckel",
-      "summary": "Die Regierungskoalition hat einen neuen Tankrabatt und einen Spritpreisdeckel beschlossen. Die Benzin- und Dieselpreise sollen wohl um 17 Cent pro Liter gesenkt werden.",
-      "image": "https://img.zeit.de/politik/2026-09/tankrabatt-und-spritpreisdeckel-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/regierung-einigt-sich-auf-tankrabatt-und-spritpreisdeckel",
-      "published": "Fri, 18 Sep 2026 18:14:38 -0000",
-      "published_display": "18.09.2026 · 18:14 Uhr"
     },
     {
       "title": "Wahlkampf in Berlin: Und plötzlich ging es nur noch um Antisemitismus",
@@ -33,94 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/18/bayern-ohne-laimer-gegen-union-rueckschlag-fuer-nationalteam",
       "published": "Fri, 18 Sep 2026 18:02:45 -0000",
       "published_display": "18.09.2026 · 18:02 Uhr"
-    },
-    {
-      "title": "Teures Tanken: Grundsätzliche Einigung auf Tankrabatt und Spritpreisdeckel",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/grundsaetzliche-einigung-auf-tankrabatt-und-spritpreisdeckel-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/grundsaetzliche-einigung-auf-tankrabatt-und-spritpreisdeckel",
-      "published": "Fri, 18 Sep 2026 17:58:51 -0000",
-      "published_display": "18.09.2026 · 17:58 Uhr"
-    },
-    {
-      "title": "Wahlkampf im Nordosten: AfD in MV setzt im Finale auf Nichtwähler-Mobilisierung",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/afd-in-mv-setzt-im-finale-auf-nichtwaehler-mobilisierung-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/afd-in-mv-setzt-im-finale-auf-nichtwaehler-mobilisierung",
-      "published": "Fri, 18 Sep 2026 17:54:54 -0000",
-      "published_display": "18.09.2026 · 17:54 Uhr"
-    },
-    {
-      "title": "Gescheiterter Fluchtversuch: In Kleid und mit Perücke: Serienkiller in Brasilien gefasst",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/in-kleid-und-mit-peruecke-serienkiller-in-brasilien-gefasst-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/in-kleid-und-mit-peruecke-serienkiller-in-brasilien-gefasst",
-      "published": "Fri, 18 Sep 2026 17:54:25 -0000",
-      "published_display": "18.09.2026 · 17:54 Uhr"
-    },
-    {
-      "title": "Nations League: Nürnbergs Zoma für Italiens Nationalmannschaft nominiert",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/nuernbergs-zoma-fuer-italiens-nationalmannschaft-nominiert-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/nuernbergs-zoma-fuer-italiens-nationalmannschaft-nominiert",
-      "published": "Fri, 18 Sep 2026 17:42:03 -0000",
-      "published_display": "18.09.2026 · 17:42 Uhr"
-    },
-    {
-      "title": "Krise in der Autoindustrie: Volkswagen senkt Gewinnprognose deutlich",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/volkswagen-senkt-gewinnprognose-deutlich-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/volkswagen-senkt-gewinnprognose-deutlich",
-      "published": "Fri, 18 Sep 2026 17:40:46 -0000",
-      "published_display": "18.09.2026 · 17:40 Uhr"
-    },
-    {
-      "title": "USA: Pistorius nimmt in Texas ersten F-35-Kampfjet für Deutschland entgegen",
-      "summary": "Verteidigungsminister Boris Pistorius hat im US-Bundesstaat Texas den ersten Kampfjet vom Typ F-35 entgegengenommen. Insgesamt acht Flugzeuge werden geliefert.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/f-35a-lockheed-martin-bundeswehr-luftwaffe-boris-pistorius-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/verteidigungsminister-boris-pistorius-kampfjets-f-35-usa-texas-luftwaffe",
-      "published": "Fri, 18 Sep 2026 17:37:18 -0000",
-      "published_display": "18.09.2026 · 17:37 Uhr"
-    },
-    {
-      "title": "Landtagswahl in MV: Neubauer: «Werden uns verteidigen, komme, was wolle»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/neubauer-werden-uns-verteidigen-komme-was-wolle-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/neubauer-werden-uns-verteidigen-komme-was-wolle",
-      "published": "Fri, 18 Sep 2026 17:37:12 -0000",
-      "published_display": "18.09.2026 · 17:37 Uhr"
-    },
-    {
-      "title": "Abstimmung am Sonntag: Endspurt im Berliner Wahlkampf - enges Rennen erwartet",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/endspurt-im-berliner-wahlkampf-enges-rennen-erwartet-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/endspurt-im-berliner-wahlkampf-enges-rennen-erwartet",
-      "published": "Fri, 18 Sep 2026 17:30:30 -0000",
-      "published_display": "18.09.2026 · 17:30 Uhr"
-    },
-    {
-      "title": "Eingeschleppte Mücken: Mediziner: Malaria-Fälle nahe Flughäfen werden zunehmen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/mediziner-malaria-faelle-nahe-flughaefen-werden-zunehmen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/mediziner-malaria-faelle-nahe-flughaefen-werden-zunehmen",
-      "published": "Fri, 18 Sep 2026 17:22:26 -0000",
-      "published_display": "18.09.2026 · 17:22 Uhr"
-    },
-    {
-      "title": "Künstliche Intelligenz: US-Bundesstaat Kalifornien prüft »Notschalter« für KI",
-      "summary": "Kaliforniens Gouverneur Gavin Newsom wirft Trump Untätigkeit bei KI-Sicherheit vor. In seinem Bundesstaat lässt er mögliche Maßnahmen prüfen – etwa einen »Kill Switch«.",
-      "image": "https://img.zeit.de/digital/2026-09/gavin-newsom-ki-kill-switch-kalifornien-foto-1/original__640x360",
-      "link": "https://www.zeit.de/digital/2026-09/usa-kalifornien-kuenstliche-intelligenz-kontrolle-notschalter-gavin-newsom",
-      "published": "Fri, 18 Sep 2026 17:18:08 -0000",
-      "published_display": "18.09.2026 · 17:18 Uhr"
-    },
-    {
-      "title": "Volkswagen: Volkswagen senkt Gewinnprognose für 2026 deutlich",
-      "summary": "Volkswagen rechnet 2026 mit nur einem Prozent Gewinn. Grund sind laut Konzern unter anderem die schwachen Geschäfte in China und eine Abschreibung auf Porsche.",
-      "image": "https://img.zeit.de/wirtschaft/unternehmen/2026-09/volkswagen-gewinnprognose-abschreibung-porsche-china-foto-1/original__640x360",
-      "link": "https://www.zeit.de/wirtschaft/unternehmen/2026-09/volkswagen-gewinnprognose-abschreibung-porsche-china",
-      "published": "Fri, 18 Sep 2026 17:14:01 -0000",
-      "published_display": "18.09.2026 · 17:14 Uhr"
     }
   ]
 }
