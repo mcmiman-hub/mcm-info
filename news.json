@@ -1,7 +1,47 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-18T05:16:23.094908+00:00",
+  "updated": "2026-09-18T05:28:12.891498+00:00",
   "items": [
+    {
+      "title": "Kriminalität: Handelsverband besorgt nach Serie von Explosionen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/handelsverband-besorgt-nach-serie-von-explosionen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/handelsverband-besorgt-nach-serie-von-explosionen",
+      "published": "Fri, 18 Sep 2026 05:24:18 -0000",
+      "published_display": "18.09.2026 · 05:24 Uhr"
+    },
+    {
+      "title": "Landtagswahlen: Karin Prien erwartet Unterstützung für Kanzler am Wahlabend",
+      "summary": "Friedrich Merz hat für Sonntagabend zu einer formellen CDU-Präsidiumssitzung eingeladen. »Wir stehen zum Kanzler«, sagt die Bundesbildungsministerin schon jetzt.",
+      "image": "",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/karin-prien-cdu-vizepraesidentin-friedrich-merz-personaldebatte",
+      "published": "Fri, 18 Sep 2026 05:23:47 -0000",
+      "published_display": "18.09.2026 · 05:23 Uhr"
+    },
+    {
+      "title": "Störung im U-Bahnverkehr: Nach Brand: U3 soll wieder fahren",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/nach-brand-u3-soll-wieder-fahren-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/nach-brand-u3-soll-wieder-fahren",
+      "published": "Fri, 18 Sep 2026 05:20:02 -0000",
+      "published_display": "18.09.2026 · 05:20 Uhr"
+    },
+    {
+      "title": "Ursache noch unklar: 500 Fische in Teichen in Oberfranken gestorben",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/500-fische-in-teichen-in-oberfranken-gestorben-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/500-fische-in-teichen-in-oberfranken-gestorben",
+      "published": "Fri, 18 Sep 2026 05:18:12 -0000",
+      "published_display": "18.09.2026 · 05:18 Uhr"
+    },
+    {
+      "title": "Landtagswahl: Grüne: Stabile Mehrheiten in Schwerin nur mit Rot-Rot-Grün",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/gruene-stabile-mehrheiten-in-schwerin-nur-mit-rot-rot-gruen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/gruene-stabile-mehrheiten-in-schwerin-nur-mit-rot-rot-gruen",
+      "published": "Fri, 18 Sep 2026 05:14:24 -0000",
+      "published_display": "18.09.2026 · 05:14 Uhr"
+    },
     {
       "title": "Wetter im Norden: Wo es am Wochenende stürmisch werden kann",
       "summary": "",
@@ -9,14 +49,6 @@
       "link": "https://www.zeit.de/news/2026-09/18/wo-es-am-wochenende-stuermisch-werden-kann",
       "published": "Fri, 18 Sep 2026 05:12:19 -0000",
       "published_display": "18.09.2026 · 05:12 Uhr"
-    },
-    {
-      "title": "Ursache noch unklar: 500 Fische in Teichen in Oberfranken gestorben",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/500-fische-in-teichen-in-oberfranken-gestorben-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/500-fische-in-teichen-in-oberfranken-gestorben",
-      "published": "Fri, 18 Sep 2026 05:11:04 -0000",
-      "published_display": "18.09.2026 · 05:11 Uhr"
     },
     {
       "title": "Vorhersage: Herbstwetter in NRW: Sonne, Wolken und gelegentlich Schauer",
@@ -89,38 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/18/es-wird-wolkig-und-ein-bisschen-nass",
       "published": "Fri, 18 Sep 2026 04:40:52 -0000",
       "published_display": "18.09.2026 · 04:40 Uhr"
-    },
-    {
-      "title": "Landtagswahl: BSW gibt sich in Mecklenburg-Vorpommern zuversichtlich",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/bsw-gibt-sich-in-mecklenburg-vorpommern-zuversichtlich-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/bsw-gibt-sich-in-mecklenburg-vorpommern-zuversichtlich",
-      "published": "Fri, 18 Sep 2026 04:40:20 -0000",
-      "published_display": "18.09.2026 · 04:40 Uhr"
-    },
-    {
-      "title": "Fotografie: Bilder des Tages",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/bilder-des-tages-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/bilder-des-tages",
-      "published": "Fri, 18 Sep 2026 04:37:07 -0000",
-      "published_display": "18.09.2026 · 04:37 Uhr"
-    },
-    {
-      "title": "Fitness im Alter: Dieter Hallervorden: Jeden Morgen eine Stunde Sport",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/dieter-hallervorden-jeden-morgen-eine-stunde-sport-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/dieter-hallervorden-jeden-morgen-eine-stunde-sport",
-      "published": "Fri, 18 Sep 2026 04:30:04 -0000",
-      "published_display": "18.09.2026 · 04:30 Uhr"
-    },
-    {
-      "title": "Unfälle: Auto überschlägt sich in Berlin – zwei Leichtverletzte",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/auto-ueberschlaegt-sich-in-berlin-zwei-leichtverletzte-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/auto-ueberschlaegt-sich-in-berlin-zwei-leichtverletzte",
-      "published": "Fri, 18 Sep 2026 04:26:36 -0000",
-      "published_display": "18.09.2026 · 04:26 Uhr"
     }
   ]
 }
