@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-18T23:41:04.733534+00:00",
+  "updated": "2026-09-18T23:54:45.962171+00:00",
   "items": [
+    {
+      "title": "Schwerer Unfall: Unfall in Wuppertal – eine Schwerverletzte",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/unfall-in-wuppertal-ein-schwerverletzter-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/unfall-in-wuppertal-ein-schwerverletzter",
+      "published": "Fri, 18 Sep 2026 23:50:38 -0000",
+      "published_display": "18.09.2026 · 23:50 Uhr"
+    },
+    {
+      "title": "Künstliche Intelligenz: Kalifornien könnte Notschalter für KI vorschreiben",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/kalifornien-koennte-notschalter-fuer-ki-vorschreiben-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/kalifornien-koennte-notschalter-fuer-ki-vorschreiben",
+      "published": "Fri, 18 Sep 2026 23:46:27 -0000",
+      "published_display": "18.09.2026 · 23:46 Uhr"
+    },
     {
       "title": "Ukraine-Krieg: Trump unterzeichnet Paket mit Sanktionen gegen Russland",
       "summary": "",
@@ -51,14 +67,6 @@
       "published_display": "18.09.2026 · 22:02 Uhr"
     },
     {
-      "title": "Schwerer Unfall: Unfall in Wuppertal – ein Schwerverletzter",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/unfall-in-wuppertal-ein-schwerverletzter-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/unfall-in-wuppertal-ein-schwerverletzter",
-      "published": "Fri, 18 Sep 2026 21:59:44 -0000",
-      "published_display": "18.09.2026 · 21:59 Uhr"
-    },
-    {
       "title": "Kalenderblatt: Was geschah am 19. September?",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-09/18/was-geschah-am-19-september-image-group/original__640x360",
@@ -83,8 +91,8 @@
       "published_display": "18.09.2026 · 21:37 Uhr"
     },
     {
-      "title": "Pressefreiheit: Donald Trump verbietet CNN, Politico und MSNOW Zugang zum Weißen Haus",
-      "summary": "Der US-Präsident hat die Pressefreiheit weiter eingeschränkt. CNN, Politico und MSNOW dürfen nicht mehr aus dem Weißen Haus berichten, weitere Verbote sollen folgen.",
+      "title": "Pressefreiheit: Trump verbietet CNN, »Politico« und MSNOW Zugang zum Weißen Haus",
+      "summary": "Der US-Präsident hat die Pressefreiheit weiter eingeschränkt. CNN, »Politico« und MS NOW dürfen nicht mehr aus dem Weißen Haus berichten, weitere Verbote sollen folgen.",
       "image": "https://img.zeit.de/politik/ausland/2026-09/donald-trump-pressefreiheit-cnn-politico-msnow/original__640x360",
       "link": "https://www.zeit.de/politik/ausland/2026-09/donald-trump-verbietet-cnn-politico-und-msnow-zugang-zum-weissen-haus",
       "published": "Fri, 18 Sep 2026 21:21:28 -0000",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/18/durchsuchung-bei-mitarbeiter-von-afd-spitzenkandidatin",
       "published": "Fri, 18 Sep 2026 20:58:35 -0000",
       "published_display": "18.09.2026 · 20:58 Uhr"
-    },
-    {
-      "title": "Tilcayo-Tigerkatze: Erstmals seit 100 Jahren: Neue Katzenart entdeckt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/erstmals-seit-100-jahren-neue-katzenart-entdeckt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/erstmals-seit-100-jahren-neue-katzenart-entdeckt",
-      "published": "Fri, 18 Sep 2026 20:49:44 -0000",
-      "published_display": "18.09.2026 · 20:49 Uhr"
     }
   ]
 }
