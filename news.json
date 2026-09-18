@@ -1,7 +1,71 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-18T06:58:01.233485+00:00",
+  "updated": "2026-09-18T07:18:02.239605+00:00",
   "items": [
+    {
+      "title": "Ukrainekarte aktuell: Ukrainische Truppen erobern Gebiete bei Kupjansk zurück",
+      "summary": "Die ukrainische Armee rückt in einem Waldstück nördlich von Kupjansk vor. In der Region Donezk infiltrieren russische Truppen Gelände südlich von Dobropillja.",
+      "image": "https://img.zeit.de/politik/ausland/2023-09/karte-ukraine-krieg-russland-frontverlauf-truppenbewegungen-teaserbild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/ukraine-russland-frontverlauf-krieg-karte-aktuell",
+      "published": "Fri, 18 Sep 2026 07:16:22 -0000",
+      "published_display": "18.09.2026 · 07:16 Uhr"
+    },
+    {
+      "title": "Landtagswahl: CDU-Spitzenkandidat beklagt Aussitzen von Reformen im Bund",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/cdu-spitzenkandidat-beklagt-aussitzen-von-reformen-im-bund-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/cdu-spitzenkandidat-beklagt-aussitzen-von-reformen-im-bund",
+      "published": "Fri, 18 Sep 2026 07:15:15 -0000",
+      "published_display": "18.09.2026 · 07:15 Uhr"
+    },
+    {
+      "title": "Vollsperrung: Betrunken gegen Betonwand gefahren - Fahrzeug gerät in Brand",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/betrunken-gegen-betonwand-gefahren-fahrzeug-geraet-in-brand-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/betrunken-gegen-betonwand-gefahren-fahrzeug-geraet-in-brand",
+      "published": "Fri, 18 Sep 2026 07:07:38 -0000",
+      "published_display": "18.09.2026 · 07:07 Uhr"
+    },
+    {
+      "title": "Papstaudienz: Saar-Ministerpräsidentin Rehlinger reist zu Papstaudienz",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/saar-ministerpraesidentin-rehlinger-reist-zu-papstaudienz-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/saar-ministerpraesidentin-rehlinger-reist-zu-papstaudienz",
+      "published": "Fri, 18 Sep 2026 07:07:12 -0000",
+      "published_display": "18.09.2026 · 07:07 Uhr"
+    },
+    {
+      "title": "Robert Pattinson: Voltaren für Batman",
+      "summary": "Selbst Batman kommt an seine Grenzen: über die Mühen des Heldendaseins und die Einsicht, dass man sich manchmal besser helfen lässt.",
+      "image": "https://img.zeit.de/zeit-magazin/2026/40/voltaren-fuer-batman-bild-1/original__640x360",
+      "link": "https://www.zeit.de/zeit-magazin/2026/40/robert-pattinson-batman-alter-actionfilme",
+      "published": "Fri, 18 Sep 2026 07:06:38 -0000",
+      "published_display": "18.09.2026 · 07:06 Uhr"
+    },
+    {
+      "title": "Davis Cup: Gegen alle Ratschläge: Zverev im Davis Cup dabei",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/gegen-alle-ratschlaege-zverev-im-davis-cup-dabei-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/gegen-alle-ratschlaege-zverev-im-davis-cup-dabei",
+      "published": "Fri, 18 Sep 2026 07:05:04 -0000",
+      "published_display": "18.09.2026 · 07:05 Uhr"
+    },
+    {
+      "title": "Lahav Shani in München: Herrlich, wie sie auf dem Minenfeld tanzen",
+      "summary": "Die Münchner Philharmoniker und ihr neuer Chef haben schon viel durchgemacht, dabei war der noch gar nicht im Amt. Sein Antrittskonzert verspricht eine Zeitenwende.",
+      "image": "https://img.zeit.de/feuilleton/2026-09/lahav-shani-muenchner-philharmoniker-chefdirigent-kritik-bild/original__640x360",
+      "link": "https://www.zeit.de/feuilleton/musik/2026-09/lahav-shani-muenchner-philharmoniker-chefdirigent-kritik",
+      "published": "Fri, 18 Sep 2026 07:04:09 -0000",
+      "published_display": "18.09.2026 · 07:04 Uhr"
+    },
+    {
+      "title": "Manöver: Bundeswehrübungen bei Zweibrücken",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/bundeswehruebungen-bei-zweibruecken-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/bundeswehruebungen-bei-zweibruecken",
+      "published": "Fri, 18 Sep 2026 06:56:25 -0000",
+      "published_display": "18.09.2026 · 06:56 Uhr"
+    },
     {
       "title": "Steigende Spritpreise: Greenpeace protestiert mit Geldregen-Projektion an Tanklager",
       "summary": "",
@@ -57,70 +121,6 @@
       "link": "https://www.zeit.de/2026/40/luxusgueter-reichtum-dollar-millionaere-usa-schweiz",
       "published": "Fri, 18 Sep 2026 06:48:34 -0000",
       "published_display": "18.09.2026 · 06:48 Uhr"
-    },
-    {
-      "title": "US-Wahlkampf: US-Republikanerin wirft Donald Trump »Verrat« an Hispanics vor",
-      "summary": "Sieben Wochen vor den Midterm-Wahlen kämpfen die US-Republikaner mit schlechten Umfragewerten. An der Migrationspolitik des Präsidenten regt sich nun auch interne Kritik.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/maria-elvira-salazar-donald-trump-migrationspolitik-usa-florida-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/usa-donald-trump-midterms-kritik-migrationspolitik",
-      "published": "Fri, 18 Sep 2026 06:45:50 -0000",
-      "published_display": "18.09.2026 · 06:45 Uhr"
-    },
-    {
-      "title": "Immobilienmarkt: Baugenehmigungen steigen - deutliches Plus seit Jahresbeginn",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/baugenehmigungen-steigen-deutliches-plus-seit-jahresbeginn-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/baugenehmigungen-steigen-deutliches-plus-seit-jahresbeginn",
-      "published": "Fri, 18 Sep 2026 06:45:50 -0000",
-      "published_display": "18.09.2026 · 06:45 Uhr"
-    },
-    {
-      "title": "Brände: Ein Todesopfer und zwei Verletzte nach Haus-Brand",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/ein-todesopfer-und-zwei-verletzte-nach-haus-brand-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/ein-todesopfer-und-zwei-verletzte-nach-haus-brand",
-      "published": "Fri, 18 Sep 2026 06:43:09 -0000",
-      "published_display": "18.09.2026 · 06:43 Uhr"
-    },
-    {
-      "title": "Regensburger Wurstsalat: An Guadn!",
-      "summary": "In München wird jetzt das erste Fass der Wiesn angestochen. Falls Sie gerade der Neid packt, haben wir genau das richtige Rezept für Sie.",
-      "image": "https://img.zeit.de/zeit-magazin/wochenmarkt/2026-09/regensburger-wurstsalat-bayern-oktoberfest-rezept-bild-14/original__640x360",
-      "link": "https://www.zeit.de/zeit-magazin/wochenmarkt/2026-09/regensburger-wurstsalat-bayern-oktoberfest-rezept",
-      "published": "Fri, 18 Sep 2026 06:41:22 -0000",
-      "published_display": "18.09.2026 · 06:41 Uhr"
-    },
-    {
-      "title": "Bratkartoffeln mit Tomatensoße und Rüchermakrele: Ach du heilige Makrele!",
-      "summary": "Ein Wochentagsdinner in Reinform! Die guten, alten Bratkartoffeln werden in diesem Rezept mit einer würzigen Tomatensoße und geräucherten Makrelen aufgepeppt.",
-      "image": "https://img.zeit.de/zeit-magazin/wochenmarkt/2025-11/schnell-bratkartoffeln-tomatensosse-geraeucherte-makrele-rezept-wochenmarkt-bild/original__640x360",
-      "link": "https://www.zeit.de/zeit-magazin/wochenmarkt/2025-11/schnell-bratkartoffeln-tomatensosse-geraeucherte-makrele-rezept-wochenmarkt",
-      "published": "Fri, 18 Sep 2026 06:40:45 -0000",
-      "published_display": "18.09.2026 · 06:40 Uhr"
-    },
-    {
-      "title": "Landtagswahl: Linke erwartet Bewegung im Bund bei Vermögensteuer",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/linke-erwartet-bewegung-im-bund-bei-vermoegensteuer-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/linke-erwartet-bewegung-im-bund-bei-vermoegensteuer",
-      "published": "Fri, 18 Sep 2026 06:20:11 -0000",
-      "published_display": "18.09.2026 · 06:20 Uhr"
-    },
-    {
-      "title": "Tödlicher Unfall: Motorradfahrer kollidiert mit Auto und stirbt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/motorradfahrer-kollidiert-mit-auto-und-stirbt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/motorradfahrer-kollidiert-mit-auto-und-stirbt",
-      "published": "Fri, 18 Sep 2026 06:19:47 -0000",
-      "published_display": "18.09.2026 · 06:19 Uhr"
-    },
-    {
-      "title": "Wetter: Wolken und Regen in Ostdeutschland erwartet",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/wolken-und-regen-in-ostdeutschland-erwartet-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/wolken-und-regen-in-ostdeutschland-erwartet",
-      "published": "Fri, 18 Sep 2026 06:09:59 -0000",
-      "published_display": "18.09.2026 · 06:09 Uhr"
     }
   ]
 }
