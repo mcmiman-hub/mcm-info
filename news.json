@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-18T21:28:16.376004+00:00",
+  "updated": "2026-09-18T21:41:29.401239+00:00",
   "items": [
+    {
+      "title": "Tankpreis: Regierung einigt sich auf Tankrabatt und Spritpreisdeckel",
+      "summary": "Die Koalition hat einen neuen Tankrabatt und einen Spritpreisdeckel beschlossen. Die Preise für Sprit sollen ab dem 1. Oktober um 17 Cent pro Liter gesenkt werden.",
+      "image": "https://img.zeit.de/politik/2026-09/tankrabatt-und-spritpreisdeckel-bild-2/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/regierung-einigt-sich-auf-tankrabatt-und-spritpreisdeckel",
+      "published": "Fri, 18 Sep 2026 21:37:39 -0000",
+      "published_display": "18.09.2026 · 21:37 Uhr"
+    },
+    {
+      "title": "Bundesliga, 4. Spieltag – Freitag: FC Bayern gewinnt deutlich gegen Union Berlin",
+      "summary": "Zum Beginn des Oktoberfestes gewinnt Bayern hoch gegen die Union. Olise wird dreifacher Torschütze und Harry Kane feiert sein 100. Bundesliga-Tor. Der Spielbericht",
+      "image": "https://img.zeit.de/sport/2026-09/bayern-muenchen-union-berlin-bundesliga-harry-kane-michael-olise-foto-1/original__640x360",
+      "link": "https://www.zeit.de/sport/2026-09/bayern-muenchen-union-berlin-bundesliga-harry-kane-michael-olise",
+      "published": "Fri, 18 Sep 2026 21:29:48 -0000",
+      "published_display": "18.09.2026 · 21:29 Uhr"
+    },
+    {
+      "title": "Medien: Trump verbietet CNN und «Politico» Zugang zum Weißen Haus",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/trump-verbietet-cnn-und-politico-zugang-zum-weissen-haus-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/trump-verbietet-cnn-und-politico-zugang-zum-weissen-haus",
+      "published": "Fri, 18 Sep 2026 21:29:30 -0000",
+      "published_display": "18.09.2026 · 21:29 Uhr"
+    },
     {
       "title": "Pressefreiheit: Donald Trump verbietet CNN, Politico und MSNOW Zugang zum Weißen Haus",
       "summary": "Der US-Präsident hat die Pressefreiheit weiter eingeschränkt. CNN, Politico und MSNOW dürfen nicht mehr aus dem Weißen Haus berichten, weitere Verbote sollen folgen.",
@@ -75,14 +99,6 @@
       "published_display": "18.09.2026 · 20:05 Uhr"
     },
     {
-      "title": "Medien: Trump verbietet CNN und «Politico» Zugang zum Weißen Haus",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/trump-verbietet-cnn-und-politico-zugang-zum-weissen-haus-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/trump-verbietet-cnn-und-politico-zugang-zum-weissen-haus",
-      "published": "Fri, 18 Sep 2026 20:00:22 -0000",
-      "published_display": "18.09.2026 · 20:00 Uhr"
-    },
-    {
       "title": "Unfall: 85-Jähriger gerät mit Auto unter Lkw-Anhänger und stirbt",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-09/18/85-jaehriger-geraet-mit-auto-unter-lkw-anhaenger-und-stirbt-image-group/original__640x360",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/18/krefeld-verliert-bei-del-rueckkehr-gegen-bremerhaven",
       "published": "Fri, 18 Sep 2026 19:55:36 -0000",
       "published_display": "18.09.2026 · 19:55 Uhr"
-    },
-    {
-      "title": "Einigung: Lies fordert Übergewinnsteuer für Ölkonzerne nach Tankrabatt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/lies-fordert-uebergewinnsteuer-fuer-oelkonzerne-nach-tankrabatt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/lies-fordert-uebergewinnsteuer-fuer-oelkonzerne-nach-tankrabatt",
-      "published": "Fri, 18 Sep 2026 19:54:21 -0000",
-      "published_display": "18.09.2026 · 19:54 Uhr"
-    },
-    {
-      "title": "Handball-Bundesliga: THW Kiel erkämpft Auswärtssieg in Eisenach",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/thw-kiel-erkaempft-auswaertssieg-in-eisenach-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/thw-kiel-erkaempft-auswaertssieg-in-eisenach",
-      "published": "Fri, 18 Sep 2026 19:52:15 -0000",
-      "published_display": "18.09.2026 · 19:52 Uhr"
     }
   ]
 }
