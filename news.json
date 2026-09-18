@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-18T20:17:16.515787+00:00",
+  "updated": "2026-09-18T20:28:43.059336+00:00",
   "items": [
+    {
+      "title": "Fußball-Bundesliga: Zum Wiesn-Beginn: FC Bayern schenkt Union kräftig ein",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/zum-wiesn-beginn-fc-bayern-schenkt-union-kraeftig-ein-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/zum-wiesn-beginn-fc-bayern-schenkt-union-kraeftig-ein",
+      "published": "Fri, 18 Sep 2026 20:22:40 -0000",
+      "published_display": "18.09.2026 · 20:22 Uhr"
+    },
     {
       "title": "Basketball-Bundesliga: Niners Chemnitz verpassen Überraschung bei Meister Alba",
       "summary": "",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/18/schnieder-entlastungen-bei-spritpreisen-wichtiges-signal",
       "published": "Fri, 18 Sep 2026 19:30:38 -0000",
       "published_display": "18.09.2026 · 19:30 Uhr"
-    },
-    {
-      "title": "Tankpreis: Regierung einigt sich auf Tankrabatt und Spritpreisdeckel",
-      "summary": "Die Koalition hat einen neuen Tankrabatt und einen Spritpreisdeckel beschlossen. Die Preise für Sprit sollen ab dem 1. Oktober um 17 Cent pro Liter gesenkt werden.",
-      "image": "https://img.zeit.de/politik/2026-09/tankrabatt-und-spritpreisdeckel-bild-2/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/regierung-einigt-sich-auf-tankrabatt-und-spritpreisdeckel",
-      "published": "Fri, 18 Sep 2026 19:25:47 -0000",
-      "published_display": "18.09.2026 · 19:25 Uhr"
     }
   ]
 }
