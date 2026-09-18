@@ -1,7 +1,39 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-18T05:28:12.891498+00:00",
+  "updated": "2026-09-18T05:43:12.551464+00:00",
   "items": [
+    {
+      "title": "Wetter: Zeigt sich zwischen Schauer und Böen noch einmal die Sonne?",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/zeigt-sich-zwischen-schauer-und-boeen-noch-einmal-die-sonne-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/zeigt-sich-zwischen-schauer-und-boeen-noch-einmal-die-sonne",
+      "published": "Fri, 18 Sep 2026 05:40:13 -0000",
+      "published_display": "18.09.2026 · 05:40 Uhr"
+    },
+    {
+      "title": "Arbeitsstellenrückgang: Wo Einsteigerjobs wegen KI wegfallen",
+      "summary": "Es gibt immer weniger Stellenanzeigen für Berufsanfänger. Neue Daten zeigen, dass das nicht nur an KI liegt und in welchen Bereichen junge Menschen gute Aussichten haben.",
+      "image": "https://img.zeit.de/arbeit/2026-09/arbeitsstellenrueckgang-berufseinsteiger-kuenstliche-intelligenz-arbeitsmarkt-bild/original__640x360",
+      "link": "https://www.zeit.de/arbeit/2026-09/arbeitsstellenrueckgang-berufseinsteiger-kuenstliche-intelligenz-arbeitsmarkt",
+      "published": "Fri, 18 Sep 2026 05:36:27 -0000",
+      "published_display": "18.09.2026 · 05:36 Uhr"
+    },
+    {
+      "title": "Wetter: Wolken und Regen am Wochenende erwartet",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/wolken-und-regen-am-wochenende-erwartet-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/wolken-und-regen-am-wochenende-erwartet",
+      "published": "Fri, 18 Sep 2026 05:34:26 -0000",
+      "published_display": "18.09.2026 · 05:34 Uhr"
+    },
+    {
+      "title": "Kripo ermittelt: Acht Verletzte bei Brand in Notunterkunft in Stuttgart",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/acht-verletzte-bei-brand-in-notunterkunft-in-stuttgart-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/acht-verletzte-bei-brand-in-notunterkunft-in-stuttgart",
+      "published": "Fri, 18 Sep 2026 05:29:32 -0000",
+      "published_display": "18.09.2026 · 05:29 Uhr"
+    },
     {
       "title": "Kriminalität: Handelsverband besorgt nach Serie von Explosionen",
       "summary": "",
@@ -13,7 +45,7 @@
     {
       "title": "Landtagswahlen: Karin Prien erwartet Unterstützung für Kanzler am Wahlabend",
       "summary": "Friedrich Merz hat für Sonntagabend zu einer formellen CDU-Präsidiumssitzung eingeladen. »Wir stehen zum Kanzler«, sagt die Bundesbildungsministerin schon jetzt.",
-      "image": "",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/karin-prien-cdu-vizepraesidentin-friedrich-merz-personaldebatte-foto-1/original__640x360",
       "link": "https://www.zeit.de/politik/deutschland/2026-09/karin-prien-cdu-vizepraesidentin-friedrich-merz-personaldebatte",
       "published": "Fri, 18 Sep 2026 05:23:47 -0000",
       "published_display": "18.09.2026 · 05:23 Uhr"
@@ -89,38 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/18/jean-puetz-will-jetzt-auch-noch-100-werden",
       "published": "Fri, 18 Sep 2026 05:00:05 -0000",
       "published_display": "18.09.2026 · 05:00 Uhr"
-    },
-    {
-      "title": "Bahnunfall: 90-Jährige umfährt Schranke und kollidiert mit Zug",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/90-jaehrige-umfaehrt-schranke-und-kollidiert-mit-zug-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/90-jaehrige-umfaehrt-schranke-und-kollidiert-mit-zug",
-      "published": "Fri, 18 Sep 2026 04:55:47 -0000",
-      "published_display": "18.09.2026 · 04:55 Uhr"
-    },
-    {
-      "title": "Japan: Japans Zentralbank hebt Leitzins auf höchsten Stand seit 31 Jahren",
-      "summary": "Nachdem die USA ihre Leitzinsen erhöht haben, zieht auch die japanische Zentralbank nach. Experten rechnen mit weiteren Zinserhöhungen.",
-      "image": "https://img.zeit.de/wirtschaft/2026-09/leitzins-japan-bank-of-japan-toichiro-asada-ayano-sato-foto-1/original__640x360",
-      "link": "https://www.zeit.de/wirtschaft/2026-09/leitzins-japan-bank-of-japan-toichiro-asada-ayano-sato",
-      "published": "Fri, 18 Sep 2026 04:43:48 -0000",
-      "published_display": "18.09.2026 · 04:43 Uhr"
-    },
-    {
-      "title": "Landtagswahl: FDP in Mecklenburg-Vorpommern: «Lassen uns nicht entmutigen»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/fdp-in-mecklenburg-vorpommern-lassen-uns-nicht-entmutigen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/fdp-in-mecklenburg-vorpommern-lassen-uns-nicht-entmutigen",
-      "published": "Fri, 18 Sep 2026 04:42:55 -0000",
-      "published_display": "18.09.2026 · 04:42 Uhr"
-    },
-    {
-      "title": "Wetter: Es wird wolkig und ein bisschen nass",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/es-wird-wolkig-und-ein-bisschen-nass-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/es-wird-wolkig-und-ein-bisschen-nass",
-      "published": "Fri, 18 Sep 2026 04:40:52 -0000",
-      "published_display": "18.09.2026 · 04:40 Uhr"
     }
   ]
 }
