@@ -1,7 +1,63 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-18T18:54:17.466425+00:00",
+  "updated": "2026-09-18T19:16:15.297973+00:00",
   "items": [
+    {
+      "title": "Entlastungen: Tankrabatt und Preisdeckel - Was bringen die Maßnahmen?",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/tankrabatt-und-preisdeckel-was-bringen-die-massnahmen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/tankrabatt-und-preisdeckel-was-bringen-die-massnahmen",
+      "published": "Fri, 18 Sep 2026 19:12:58 -0000",
+      "published_display": "18.09.2026 · 19:12 Uhr"
+    },
+    {
+      "title": "Regulierung von künstlicher Intelligenz: Wie sich KI sicherer machen lässt",
+      "summary": "Die Chefs der wichtigsten KI-Unternehmen warnen vor einer Katastrophe und fordern mehr Überwachung. Braucht es eine Atombehörde für KI?",
+      "image": "https://img.zeit.de/digital/internet/2026-09/regulierung-kuenstliche-intelligenz-internationale-ki-aufsicht-kontrolle-bild/original__640x360",
+      "link": "https://www.zeit.de/digital/internet/2026-09/regulierung-kuenstliche-intelligenz-internationale-ki-aufsicht-kontrolle",
+      "published": "Fri, 18 Sep 2026 19:11:07 -0000",
+      "published_display": "18.09.2026 · 19:11 Uhr"
+    },
+    {
+      "title": "Fußball: Trotz Führung: Magdeburg mit nur einem Zähler in Fürth",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/trotz-fuehrung-magdeburg-mit-nur-einem-zaehler-in-fuerth-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/trotz-fuehrung-magdeburg-mit-nur-einem-zaehler-in-fuerth",
+      "published": "Fri, 18 Sep 2026 19:09:24 -0000",
+      "published_display": "18.09.2026 · 19:09 Uhr"
+    },
+    {
+      "title": "Parteiensystem in Italien: Das Land, das seine Populisten überlebte",
+      "summary": "Italien ist es gelungen, in 35 Jahren mehrere Wellen des Populismus zu überstehen. Diese Erfahrung zeigt Deutschland, wie widerstandsfähig eine Demokratie sein kann.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/parteiensystem-italien-zusammenbruch-demokratie-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/parteiensystem-italien-zusammenbruch-demokratie",
+      "published": "Fri, 18 Sep 2026 19:06:26 -0000",
+      "published_display": "18.09.2026 · 19:06 Uhr"
+    },
+    {
+      "title": "Roger G.: »Entweder es knallt, oder sie trinken Bier zusammen«",
+      "summary": "Eigentlich scherzt der Comedian Roger G. über Möwen und Gurken. Vor der Wahl in Mecklenburg-Vorpommern kritisiert er die AfD, deren Wähler auch in seinem Publikum sitzen.",
+      "image": "https://img.zeit.de/feuilleton/2026-09/roger-g-comedian-mecklenburg-vorpommern-landtagswahl-bild/original__640x360",
+      "link": "https://www.zeit.de/feuilleton/2026-09/roger-g-comedian-mecklenburg-vorpommern-landtagswahl",
+      "published": "Fri, 18 Sep 2026 19:03:26 -0000",
+      "published_display": "18.09.2026 · 19:03 Uhr"
+    },
+    {
+      "title": "Tankpreis: Regierung einigt sich auf Tankrabatt und Spritpreisdeckel",
+      "summary": "Die Regierungskoalition hat einen neuen Tankrabatt und einen Spritpreisdeckel beschlossen. Die Benzin- und Dieselpreise sollen wohl um 17 Cent pro Liter gesenkt werden.",
+      "image": "https://img.zeit.de/politik/2026-09/tankrabatt-und-spritpreisdeckel-bild-2/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/regierung-einigt-sich-auf-tankrabatt-und-spritpreisdeckel",
+      "published": "Fri, 18 Sep 2026 19:02:22 -0000",
+      "published_display": "18.09.2026 · 19:02 Uhr"
+    },
+    {
+      "title": "PauseAI-Demonstration: »Die bauen keine KI, die züchten die«",
+      "summary": "Mit einer Demo fordert eine kleine Gruppe einen Stopp der KI-Entwicklung. Noch sind sie nicht viele. Doch dank der Techbosse gewinnt ihre Forderung an Momentum.",
+      "image": "https://img.zeit.de/digital/internet/2026-09/pauseai-demonstration-berlin-ki-entwicklung-bild-04/original__640x360",
+      "link": "https://www.zeit.de/digital/internet/2026-09/pauseai-demonstration-berlin-ki-entwicklung",
+      "published": "Fri, 18 Sep 2026 19:02:10 -0000",
+      "published_display": "18.09.2026 · 19:02 Uhr"
+    },
     {
       "title": "Regierungsbildung in Magdeburg: Siegmund: AfD-Regierung in Sachsen-Anhalt bis Jahresende",
       "summary": "",
@@ -16,14 +72,6 @@
       "image": "https://img.zeit.de/news/2026-09/18/ganna-gewinnt-nachwuchs-preis-des-reeperbahn-festivals-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-09/18/ganna-gewinnt-nachwuchs-preis-des-reeperbahn-festivals",
       "published": "Fri, 18 Sep 2026 18:44:46 -0000",
-      "published_display": "18.09.2026 · 18:44 Uhr"
-    },
-    {
-      "title": "Tankpreis: Regierung einigt sich auf Tankrabatt und Spritpreisdeckel",
-      "summary": "Die Regierungskoalition hat einen neuen Tankrabatt und einen Spritpreisdeckel beschlossen. Die Benzin- und Dieselpreise sollen wohl um 17 Cent pro Liter gesenkt werden.",
-      "image": "https://img.zeit.de/politik/2026-09/tankrabatt-und-spritpreisdeckel-bild-2/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/regierung-einigt-sich-auf-tankrabatt-und-spritpreisdeckel",
-      "published": "Fri, 18 Sep 2026 18:44:02 -0000",
       "published_display": "18.09.2026 · 18:44 Uhr"
     },
     {
@@ -73,54 +121,6 @@
       "link": "https://www.zeit.de/feuilleton/2026-09/salzburger-festspiele-leitung-intendant-peter-de-caluwe",
       "published": "Fri, 18 Sep 2026 18:29:14 -0000",
       "published_display": "18.09.2026 · 18:29 Uhr"
-    },
-    {
-      "title": "Wahlen: Günther: Kein Abgrenzungswahlkampf gegen Bundesregierung",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/guenther-kein-abgrenzungswahlkampf-gegen-bundesregierung-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/guenther-kein-abgrenzungswahlkampf-gegen-bundesregierung",
-      "published": "Fri, 18 Sep 2026 18:29:00 -0000",
-      "published_display": "18.09.2026 · 18:29 Uhr"
-    },
-    {
-      "title": "2. Fußball-Bundesliga: Auswärts nichts zu holen: Darmstadt verliert 1:5",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/auswaerts-nichts-zu-holen-darmstadt-verliert-1-5-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/auswaerts-nichts-zu-holen-darmstadt-verliert-1-5",
-      "published": "Fri, 18 Sep 2026 18:28:44 -0000",
-      "published_display": "18.09.2026 · 18:28 Uhr"
-    },
-    {
-      "title": "2. Fußball-Bundesliga: Erster Heimsieg seit Januar: Wolfsburg gewinnt 5:1",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/erster-heimsieg-seit-januar-wolfsburg-gewinnt-5-1-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/erster-heimsieg-seit-januar-wolfsburg-gewinnt-5-1",
-      "published": "Fri, 18 Sep 2026 18:27:37 -0000",
-      "published_display": "18.09.2026 · 18:27 Uhr"
-    },
-    {
-      "title": "2. Fußball-Bundesliga: Diesmal unspektakulär: Fürth und Magdeburg mit Remis",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/diesmal-unspektakulaer-fuerth-und-magdeburg-mit-remis-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/diesmal-unspektakulaer-fuerth-und-magdeburg-mit-remis",
-      "published": "Fri, 18 Sep 2026 18:25:47 -0000",
-      "published_display": "18.09.2026 · 18:25 Uhr"
-    },
-    {
-      "title": "Krise in der Autoindustrie: Volkswagen senkt Gewinnprognose deutlich",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/volkswagen-senkt-gewinnprognose-deutlich-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/volkswagen-senkt-gewinnprognose-deutlich",
-      "published": "Fri, 18 Sep 2026 18:23:44 -0000",
-      "published_display": "18.09.2026 · 18:23 Uhr"
-    },
-    {
-      "title": "Rüstungsprojekte: «Neue Ära» für die Luftwaffe: F-35 soll abschrecken",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/modernstes-kampfflugzeug-deutschland-bekommt-f-35-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/modernstes-kampfflugzeug-deutschland-bekommt-f-35",
-      "published": "Fri, 18 Sep 2026 18:23:30 -0000",
-      "published_display": "18.09.2026 · 18:23 Uhr"
     }
   ]
 }
