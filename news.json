@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-18T20:54:51.247238+00:00",
+  "updated": "2026-09-18T21:16:49.871470+00:00",
   "items": [
+    {
+      "title": "Ermittlungen laufen: Streit in Flüchtlingsheim in Darmstadt endet tödlich",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/streit-in-fluechtlingsheim-in-darmstadt-endet-toedlich-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/streit-in-fluechtlingsheim-in-darmstadt-endet-toedlich",
+      "published": "Fri, 18 Sep 2026 21:08:36 -0000",
+      "published_display": "18.09.2026 · 21:08 Uhr"
+    },
+    {
+      "title": "Fußball-Bundesliga: Zum Wiesn-Beginn: FC Bayern schenkt Union kräftig ein",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/zum-wiesn-beginn-fc-bayern-schenkt-union-kraeftig-ein-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/zum-wiesn-beginn-fc-bayern-schenkt-union-kraeftig-ein",
+      "published": "Fri, 18 Sep 2026 21:00:06 -0000",
+      "published_display": "18.09.2026 · 21:00 Uhr"
+    },
+    {
+      "title": "Ermittlungen: Durchsuchung bei Mitarbeiter von AfD-Spitzenkandidatin",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/durchsuchung-bei-mitarbeiter-von-afd-spitzenkandidatin-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/durchsuchung-bei-mitarbeiter-von-afd-spitzenkandidatin",
+      "published": "Fri, 18 Sep 2026 20:58:35 -0000",
+      "published_display": "18.09.2026 · 20:58 Uhr"
+    },
     {
       "title": "Tilcayo-Tigerkatze: Erstmals seit 100 Jahren: Neue Katzenart entdeckt",
       "summary": "",
@@ -25,14 +49,6 @@
       "link": "https://www.zeit.de/news/2026-09/18/neubaur-fordert-mineraloelkonzerne-zu-fairen-preisen-auf",
       "published": "Fri, 18 Sep 2026 20:42:36 -0000",
       "published_display": "18.09.2026 · 20:42 Uhr"
-    },
-    {
-      "title": "Fußball-Bundesliga: Zum Wiesn-Beginn: FC Bayern schenkt Union kräftig ein",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/zum-wiesn-beginn-fc-bayern-schenkt-union-kraeftig-ein-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/zum-wiesn-beginn-fc-bayern-schenkt-union-kraeftig-ein",
-      "published": "Fri, 18 Sep 2026 20:22:40 -0000",
-      "published_display": "18.09.2026 · 20:22 Uhr"
     },
     {
       "title": "Basketball-Bundesliga: Niners Chemnitz verpassen Überraschung bei Meister Alba",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/18/thw-kiel-erkaempft-auswaertssieg-in-eisenach",
       "published": "Fri, 18 Sep 2026 19:52:15 -0000",
       "published_display": "18.09.2026 · 19:52 Uhr"
-    },
-    {
-      "title": "Teures Tanken: Bund und Länder einigen sich auf neuen Tankrabatt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/grundsaetzliche-einigung-auf-tankrabatt-und-spritpreisdeckel-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/grundsaetzliche-einigung-auf-tankrabatt-und-spritpreisdeckel",
-      "published": "Fri, 18 Sep 2026 19:44:08 -0000",
-      "published_display": "18.09.2026 · 19:44 Uhr"
-    },
-    {
-      "title": "Medien: Trump verbietet CNN Zugang zum Weißen Haus",
-      "summary": "",
-      "image": "https://img.zeit.de/administratives/sharing/fallback-image-die-zeit/wide__1300x731",
-      "link": "https://www.zeit.de/news/2026-09/18/trump-verbietet-cnn-zugang-zum-weissen-haus",
-      "published": "Fri, 18 Sep 2026 19:43:16 -0000",
-      "published_display": "18.09.2026 · 19:43 Uhr"
     }
   ]
 }
