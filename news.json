@@ -1,7 +1,71 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-18T15:54:57.485534+00:00",
+  "updated": "2026-09-18T16:16:43.612479+00:00",
   "items": [
+    {
+      "title": "Fotografie: Bilder des Tages",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/bilder-des-tages-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/bilder-des-tages",
+      "published": "Fri, 18 Sep 2026 16:09:43 -0000",
+      "published_display": "18.09.2026 · 16:09 Uhr"
+    },
+    {
+      "title": "Gewerkschaften: Kathrin Vitzthum bleibt GEW-Landeschefin",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/kathrin-vitzthum-bleibt-gew-landeschefin-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/kathrin-vitzthum-bleibt-gew-landeschefin",
+      "published": "Fri, 18 Sep 2026 16:08:32 -0000",
+      "published_display": "18.09.2026 · 16:08 Uhr"
+    },
+    {
+      "title": "Medizintechnik: Ypsomed bekommt grünes Licht für Windenergieanlage",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/ypsomed-bekommt-gruenes-licht-fuer-windenergieanlage-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/ypsomed-bekommt-gruenes-licht-fuer-windenergieanlage",
+      "published": "Fri, 18 Sep 2026 16:07:03 -0000",
+      "published_display": "18.09.2026 · 16:07 Uhr"
+    },
+    {
+      "title": "AfD in Mecklenburg-Vorpommern: Leif-Erik Holm und die radikalen Burschen",
+      "summary": "Mit bürgerlichem Image will der AfD-Spitzenkandidat Ministerpräsident in Schwerin werden. Doch hinter ihm haben sich Rechtsextreme breitgemacht, deren Einfluss wächst.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/leif-erik-holm-afd-mecklenburg-vorpommern-landtagswahl-ministerpraesident-bild-01/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/leif-erik-holm-afd-mecklenburg-vorpommern-landtagswahl-ministerpraesident",
+      "published": "Fri, 18 Sep 2026 16:05:05 -0000",
+      "published_display": "18.09.2026 · 16:05 Uhr"
+    },
+    {
+      "title": "Stilles Örtchen: Bewachte Toilette in Köln kostet Hunderttausende Euro",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/bewachte-toilette-in-koeln-kostet-hunderttausende-euro-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/bewachte-toilette-in-koeln-kostet-hunderttausende-euro",
+      "published": "Fri, 18 Sep 2026 16:04:47 -0000",
+      "published_display": "18.09.2026 · 16:04 Uhr"
+    },
+    {
+      "title": "Fernsehshow: Jan Böhmermann beendet »ZDF Magazin Royale« nach sechs Jahren",
+      "summary": "Das ZDF hat bestätigt, dass Jan Böhmermanns Show »ZDF Magazin Royale« Ende des Jahres eingestellt wird. Doch Gespräche über eine neue Show mit Böhmermann sind im Gange.",
+      "image": "https://img.zeit.de/politik/2026-09/boehmermann-zdf-bild/original__640x360",
+      "link": "https://www.zeit.de/gesellschaft/2026-09/jan-boehmermann-zdf-magazin-royal-ende-ankuendigung",
+      "published": "Fri, 18 Sep 2026 16:02:05 -0000",
+      "published_display": "18.09.2026 · 16:02 Uhr"
+    },
+    {
+      "title": "Satiriker plant neue Show: Jan Böhmermann hört mit «ZDF Magazin Royale» auf",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/jan-boehmermann-hoert-mit-zdf-magazin-royale-auf-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/jan-boehmermann-hoert-mit-zdf-magazin-royale-auf",
+      "published": "Fri, 18 Sep 2026 16:01:52 -0000",
+      "published_display": "18.09.2026 · 16:01 Uhr"
+    },
+    {
+      "title": "Nachweis illegal ausgestellt?: Nicht rettungsfähig im Schwimmkurs? – Neue Verdachtsfälle",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/nicht-rettungsfaehig-im-schwimmkurs-neue-verdachtsfaelle-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/nicht-rettungsfaehig-im-schwimmkurs-neue-verdachtsfaelle",
+      "published": "Fri, 18 Sep 2026 15:55:56 -0000",
+      "published_display": "18.09.2026 · 15:55 Uhr"
+    },
     {
       "title": "Prognose gekappt: Volkswagen senkt Gewinnprognose deutlich",
       "summary": "",
@@ -57,70 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/18/pr-coup-grimme-preistraeger-unterschreibt-bei-regionalligist",
       "published": "Fri, 18 Sep 2026 15:31:44 -0000",
       "published_display": "18.09.2026 · 15:31 Uhr"
-    },
-    {
-      "title": "Verkehr: Vollsperrung wegen Brückenschäden - Speyer warnt vor Folgen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/vollsperrung-wegen-brueckenschaeden-speyer-warnt-vor-folgen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/vollsperrung-wegen-brueckenschaeden-speyer-warnt-vor-folgen",
-      "published": "Fri, 18 Sep 2026 15:30:55 -0000",
-      "published_display": "18.09.2026 · 15:30 Uhr"
-    },
-    {
-      "title": "Fußball-Bundesliga: Augsburg will in Bremen nachlegen - DFB-Nominierte im Fokus",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/augsburg-will-in-bremen-nachlegen-dfb-nominierte-im-fokus-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/augsburg-will-in-bremen-nachlegen-dfb-nominierte-im-fokus",
-      "published": "Fri, 18 Sep 2026 15:30:09 -0000",
-      "published_display": "18.09.2026 · 15:30 Uhr"
-    },
-    {
-      "title": "Lebensbedrohlich verletzt: Brand in Mehrfamilienhaus - Bewohner in Lebensgefahr",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/brand-in-mehrfamilienhaus-bewohner-in-lebensgefahr-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/brand-in-mehrfamilienhaus-bewohner-in-lebensgefahr",
-      "published": "Fri, 18 Sep 2026 15:27:03 -0000",
-      "published_display": "18.09.2026 · 15:27 Uhr"
-    },
-    {
-      "title": "Abgeordnetenhauswahl Berlin: Es geht noch viel härter",
-      "summary": "Die Berliner AfD und ihre Auslandskontakte: Von anderen Rechten will sie lernen, wie man Sozialpolitik für Deutsche macht. Das endet oft mit Überraschungen.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/afd-berlin-anbgeodnetenhauswahl-kristin-brinker-wohnungspolitik-belgien-vlaams-belang-fpoe-neukoelln-bild-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/afd-berlin-anbgeodnetenhauswahl-kristin-brinker-wohnungspolitik-belgien-vlaams-belang-fpoe-neukoelln",
-      "published": "Fri, 18 Sep 2026 15:26:19 -0000",
-      "published_display": "18.09.2026 · 15:26 Uhr"
-    },
-    {
-      "title": "Mitarbeiter schwer verletzt: Kontrollierte Sprengung nach Explosion auf Recyclinghof",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/explosion-auf-recyclinghof-mitarbeiter-schwer-verletzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/explosion-auf-recyclinghof-mitarbeiter-schwer-verletzt",
-      "published": "Fri, 18 Sep 2026 15:25:47 -0000",
-      "published_display": "18.09.2026 · 15:25 Uhr"
-    },
-    {
-      "title": "Langes Ringen hat ein Ende: Lösung für die Westernstadt in Spandau gefunden",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/loesung-fuer-die-westernstadt-in-spandau-gefunden-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/loesung-fuer-die-westernstadt-in-spandau-gefunden",
-      "published": "Fri, 18 Sep 2026 15:24:10 -0000",
-      "published_display": "18.09.2026 · 15:24 Uhr"
-    },
-    {
-      "title": "Abgeordnetenhauswahl: Merkel hat schon gewählt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/merkel-hat-schon-gewaehlt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/merkel-hat-schon-gewaehlt",
-      "published": "Fri, 18 Sep 2026 15:23:34 -0000",
-      "published_display": "18.09.2026 · 15:23 Uhr"
-    },
-    {
-      "title": "Spritkrise: Regierung will offenbar wieder Tankrabatt einführen",
-      "summary": "Nachdem die Spritpreise Höchstwerte erreicht haben, hat sich die Regierung anscheinend auf Maßnahmen wie einen Preisdeckel geeinigt. Die Länder müssen noch zustimmen.",
-      "image": "https://img.zeit.de/politik/2026-09/tankrabatt-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/tankpreisdeckel-spritpreise-regierung-entlastung-gxe",
-      "published": "Fri, 18 Sep 2026 15:22:42 -0000",
-      "published_display": "18.09.2026 · 15:22 Uhr"
     }
   ]
 }
