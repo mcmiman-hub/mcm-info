@@ -1,13 +1,69 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-18T09:43:25.931225+00:00",
+  "updated": "2026-09-18T09:54:42.143870+00:00",
   "items": [
+    {
+      "title": "Fotografie: Bilder des Tages",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/bilder-des-tages-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/bilder-des-tages",
+      "published": "Fri, 18 Sep 2026 09:52:32 -0000",
+      "published_display": "18.09.2026 · 09:52 Uhr"
+    },
+    {
+      "title": "Nestlé, Auchan, Leroy Merlin: Russland stellt Geschäft von Nestlé und Auchan unter eigene Verwaltung",
+      "summary": "Die Russland-Geschäfte der Konzerne Nestlé und Auchan werden ab sofort von einer russischen Gesellschaft verwaltet. Nestlé kündigte an, seine Rechte schützen zu wollen.",
+      "image": "https://img.zeit.de/wirtschaft/2026-09/russland-nestle-auchan-leroy-merlin-wladimir-putin-verwaltung-foto-1/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/2026-09/russland-nestle-auchan-leroy-merlin-wladimir-putin-verwaltung",
+      "published": "Fri, 18 Sep 2026 09:50:48 -0000",
+      "published_display": "18.09.2026 · 09:50 Uhr"
+    },
+    {
+      "title": "Musik: Gentleman: «Im Alter werde ich gelassener»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/gentleman-im-alter-werde-ich-gelassener-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/gentleman-im-alter-werde-ich-gelassener",
+      "published": "Fri, 18 Sep 2026 09:48:32 -0000",
+      "published_display": "18.09.2026 · 09:48 Uhr"
+    },
+    {
+      "title": "Mordermittlungen in NRW: Mit Axt attackierter Mann in Hattingen gestorben",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/mit-axt-attackierter-mann-in-hattingen-gestorben-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/mit-axt-attackierter-mann-in-hattingen-gestorben",
+      "published": "Fri, 18 Sep 2026 09:46:29 -0000",
+      "published_display": "18.09.2026 · 09:46 Uhr"
+    },
+    {
+      "title": "Landesentwicklungsplan: Landtag ringt um starre Vorgaben für Gewerbeflächen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/landtag-ringt-um-starre-vorgaben-fuer-gewerbeflaechen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/landtag-ringt-um-starre-vorgaben-fuer-gewerbeflaechen",
+      "published": "Fri, 18 Sep 2026 09:45:00 -0000",
+      "published_display": "18.09.2026 · 09:45 Uhr"
+    },
+    {
+      "title": "Jubiläum in der Börde: Landwirt wirbt mit Riesenschriftzug für Dorfjubiläum",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/landwirt-wirbt-mit-riesenschriftzug-fuer-dorfjubilaeum-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/landwirt-wirbt-mit-riesenschriftzug-fuer-dorfjubilaeum",
+      "published": "Fri, 18 Sep 2026 09:43:38 -0000",
+      "published_display": "18.09.2026 · 09:43 Uhr"
+    },
     {
       "title": "Hans-Joachim Watzke: DFB-Vizepräsident fordert Ablösung von Infantino »ohne Wenn und Aber«",
       "summary": "Hans Joachim Watzke hat sich aufgrund vergangener Fehler für die Ablösung des Fifa-Chefs Gianni Infantino ausgesprochen. Dieser müsse »weg, ohne Wenn und Aber«.",
       "image": "https://img.zeit.de/sport/2026-09/hans-joachim-watzke-gianni-infantino-fifa-abloesung-foto-1/original__640x360",
       "link": "https://www.zeit.de/sport/2026-09/hans-joachim-watzke-gianni-infantino-fifa-abloesung",
       "published": "Fri, 18 Sep 2026 09:42:36 -0000",
+      "published_display": "18.09.2026 · 09:42 Uhr"
+    },
+    {
+      "title": "Kurorte: Kammern: Nein zu Kurtaxe für Geschäftsreisende",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/kammern-nein-zu-kurtaxe-fuer-geschaeftsreisende-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/kammern-nein-zu-kurtaxe-fuer-geschaeftsreisende",
+      "published": "Fri, 18 Sep 2026 09:42:20 -0000",
       "published_display": "18.09.2026 · 09:42 Uhr"
     },
     {
@@ -65,62 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/18/ein-monat-nach-unfall-mit-traktor-frau-erliegt-verletzungen",
       "published": "Fri, 18 Sep 2026 09:31:20 -0000",
       "published_display": "18.09.2026 · 09:31 Uhr"
-    },
-    {
-      "title": "Verkehrskontrolle: Lastwagen-Fahrer fährt bis zu 30 Stunden ohne Pause",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/17/lastwagen-fahrer-faehrt-bis-zu-30-stunden-ohne-pause-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/lastwagen-fahrer-faehrt-bis-zu-30-stunden-ohne-pause",
-      "published": "Fri, 18 Sep 2026 09:30:09 -0000",
-      "published_display": "18.09.2026 · 09:30 Uhr"
-    },
-    {
-      "title": "Gesundheit: Barmer: Zahnvorsorge kommt bei Pflegebedürftigen oft zu kurz",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/barmer-zahnvorsorge-kommt-bei-pflegebeduerftigen-oft-zu-kurz-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/barmer-zahnvorsorge-kommt-bei-pflegebeduerftigen-oft-zu-kurz",
-      "published": "Fri, 18 Sep 2026 09:30:04 -0000",
-      "published_display": "18.09.2026 · 09:30 Uhr"
-    },
-    {
-      "title": "Landtagswahl: Welche Koalitionen in MV denkbar sind",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/15/welche-koalitionen-in-mv-denkbar-sind-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/15/welche-koalitionen-in-mv-denkbar-sind",
-      "published": "Fri, 18 Sep 2026 09:30:03 -0000",
-      "published_display": "18.09.2026 · 09:30 Uhr"
-    },
-    {
-      "title": "Fest in Bremen: Von A bis Z - Wissenswertes zum Tag der Deutschen Einheit",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/von-a-bis-z-wissenswertes-zum-tag-der-deutschen-einheit-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/von-a-bis-z-wissenswertes-zum-tag-der-deutschen-einheit",
-      "published": "Fri, 18 Sep 2026 09:29:55 -0000",
-      "published_display": "18.09.2026 · 09:29 Uhr"
-    },
-    {
-      "title": "Vor Wahlen: «Trifft uns mitten ins Mark»: Special Olympics warnt vor AfD",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/trifft-uns-mitten-ins-mark-special-olympics-warnt-vor-afd-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/trifft-uns-mitten-ins-mark-special-olympics-warnt-vor-afd",
-      "published": "Fri, 18 Sep 2026 09:27:03 -0000",
-      "published_display": "18.09.2026 · 09:27 Uhr"
-    },
-    {
-      "title": "Kripo ermittelt: Sieben Verletzte bei Brand in Notunterkunft in Stuttgart",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/acht-verletzte-bei-brand-in-notunterkunft-in-stuttgart-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/acht-verletzte-bei-brand-in-notunterkunft-in-stuttgart",
-      "published": "Fri, 18 Sep 2026 09:24:41 -0000",
-      "published_display": "18.09.2026 · 09:24 Uhr"
-    },
-    {
-      "title": "Ermittlungen in Italien: Kameras und GPS-Tracker: Mann spioniert Ex-Partnerin aus",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/kameras-und-gps-tracker-mann-spioniert-ex-partnerin-aus-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/kameras-und-gps-tracker-mann-spioniert-ex-partnerin-aus",
-      "published": "Fri, 18 Sep 2026 09:23:22 -0000",
-      "published_display": "18.09.2026 · 09:23 Uhr"
     }
   ]
 }
