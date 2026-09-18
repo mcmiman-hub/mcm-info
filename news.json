@@ -1,7 +1,47 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-18T19:27:23.038538+00:00",
+  "updated": "2026-09-18T19:40:25.264961+00:00",
   "items": [
+    {
+      "title": "USA: Pistorius nimmt in Texas ersten F-35-Kampfjet für Deutschland entgegen",
+      "summary": "Verteidigungsminister Boris Pistorius hat im US-Bundesstaat Texas den ersten Kampfjet vom Typ F-35 entgegengenommen. Insgesamt acht Flugzeuge werden geliefert.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/f-35a-lockheed-martin-bundeswehr-luftwaffe-boris-pistorius-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/verteidigungsminister-boris-pistorius-kampfjets-f-35-usa-texas-luftwaffe",
+      "published": "Fri, 18 Sep 2026 19:39:41 -0000",
+      "published_display": "18.09.2026 · 19:39 Uhr"
+    },
+    {
+      "title": "Energie: Rhein begrüßt angekündigte Spritpreisbremse",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/rhein-begruesst-angekuendigte-spritpreisbremse-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/rhein-begruesst-angekuendigte-spritpreisbremse",
+      "published": "Fri, 18 Sep 2026 19:33:25 -0000",
+      "published_display": "18.09.2026 · 19:33 Uhr"
+    },
+    {
+      "title": "Donald Trump verbietet CNN, Politico und MSNOW Zugang zum Weißen Haus",
+      "summary": "",
+      "image": "https://img.zeit.de/administratives/eilmeldung/fallback-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/donald-trump-verbietet-cnn-politico-und-msnow-zugang-zum-weissen-haus",
+      "published": "Fri, 18 Sep 2026 19:32:05 -0000",
+      "published_display": "18.09.2026 · 19:32 Uhr"
+    },
+    {
+      "title": "Nach Einigung: Schnieder: Entlastungen bei Spritpreisen «wichtiges Signal»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/schnieder-entlastungen-bei-spritpreisen-wichtiges-signal-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/schnieder-entlastungen-bei-spritpreisen-wichtiges-signal",
+      "published": "Fri, 18 Sep 2026 19:30:38 -0000",
+      "published_display": "18.09.2026 · 19:30 Uhr"
+    },
+    {
+      "title": "Teures Tanken: Bund und Länder einigen sich auf neuen Tankrabatt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/grundsaetzliche-einigung-auf-tankrabatt-und-spritpreisdeckel-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/grundsaetzliche-einigung-auf-tankrabatt-und-spritpreisdeckel",
+      "published": "Fri, 18 Sep 2026 19:26:12 -0000",
+      "published_display": "18.09.2026 · 19:26 Uhr"
+    },
     {
       "title": "Tankpreis: Regierung einigt sich auf Tankrabatt und Spritpreisdeckel",
       "summary": "Die Koalition hat einen neuen Tankrabatt und einen Spritpreisdeckel beschlossen. Die Preise für Sprit sollen ab dem 1. Oktober um 17 Cent pro Liter gesenkt werden.",
@@ -81,46 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/18/siegmund-afd-regierung-in-sachsen-anhalt-bis-jahresende",
       "published": "Fri, 18 Sep 2026 18:46:17 -0000",
       "published_display": "18.09.2026 · 18:46 Uhr"
-    },
-    {
-      "title": "Musikpreis: Ganna gewinnt Nachwuchs-Preis des Reeperbahn-Festivals",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/ganna-gewinnt-nachwuchs-preis-des-reeperbahn-festivals-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/ganna-gewinnt-nachwuchs-preis-des-reeperbahn-festivals",
-      "published": "Fri, 18 Sep 2026 18:44:46 -0000",
-      "published_display": "18.09.2026 · 18:44 Uhr"
-    },
-    {
-      "title": "Teures Tanken: Grundsätzliche Einigung auf Tankrabatt und Spritpreisdeckel",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/grundsaetzliche-einigung-auf-tankrabatt-und-spritpreisdeckel-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/grundsaetzliche-einigung-auf-tankrabatt-und-spritpreisdeckel",
-      "published": "Fri, 18 Sep 2026 18:36:39 -0000",
-      "published_display": "18.09.2026 · 18:36 Uhr"
-    },
-    {
-      "title": "Mecklenburg-Vorpommern: Was Sie zur Landtagswahl in Mecklenburg-Vorpommern wissen müssen",
-      "summary": "In Mecklenburg-Vorpommern zeichnet sich ein knappes Rennen zwischen SPD und AfD ab. Welche Regierungsoptionen gibt es? Und wie steht es um die Brandmauer? Ein Überblick",
-      "image": "https://img.zeit.de/politik/deutschland/2026-08/faq-landtagswahl-meckpomm-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-07/landtagswahl-mecklenburg-vorpommern-2026-wahlkampf-kandidaten-spd-afd-faq",
-      "published": "Fri, 18 Sep 2026 18:33:16 -0000",
-      "published_display": "18.09.2026 · 18:33 Uhr"
-    },
-    {
-      "title": "Fußball: Eintracht-Frauen drehen Partie bei Aufsteiger Mainz",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/eintracht-frauen-drehen-partie-bei-aufsteiger-mainz-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/eintracht-frauen-drehen-partie-bei-aufsteiger-mainz",
-      "published": "Fri, 18 Sep 2026 18:31:41 -0000",
-      "published_display": "18.09.2026 · 18:31 Uhr"
-    },
-    {
-      "title": "Satiriker plant neue Show: Jan Böhmermann hört mit «ZDF Magazin Royale» auf",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/jan-boehmermann-hoert-mit-zdf-magazin-royale-auf-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/jan-boehmermann-hoert-mit-zdf-magazin-royale-auf",
-      "published": "Fri, 18 Sep 2026 18:31:22 -0000",
-      "published_display": "18.09.2026 · 18:31 Uhr"
     }
   ]
 }
