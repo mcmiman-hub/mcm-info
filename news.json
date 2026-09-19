@@ -1,7 +1,71 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-19T09:54:27.053719+00:00",
+  "updated": "2026-09-19T10:16:52.179350+00:00",
   "items": [
+    {
+      "title": "Beitragserhöhungen: Carsten Linnemann will wieder Informationspflicht für Krankenkassen",
+      "summary": "Gesundheitsminister Linnemann will das Vertrauen in die Krankenkassen stärken. Sie sollen Mitglieder künftig per Post oder App über Beitragserhöhungen informieren.",
+      "image": "https://img.zeit.de/politik/2026-09/informationspflicht-krankenkassen-beitragserhoehung-abschaffung-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/2026-09/informationspflicht-krankenkassen-beitragserhoehung-abschaffung",
+      "published": "Sat, 19 Sep 2026 10:12:12 -0000",
+      "published_display": "19.09.2026 · 10:12 Uhr"
+    },
+    {
+      "title": "Tierischer Aktionstag: Magdeburger Zoo feiert Tag des Roten Panda",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/magdeburger-zoo-feiert-tag-des-roten-panda-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/magdeburger-zoo-feiert-tag-des-roten-panda",
+      "published": "Sat, 19 Sep 2026 10:09:45 -0000",
+      "published_display": "19.09.2026 · 10:09 Uhr"
+    },
+    {
+      "title": "Volksfeste: 191. Münchner Oktoberfest ist eröffnet",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/in-muenchen-beginnt-das-oktoberfest-stadt-im-wiesn-fieber-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/in-muenchen-beginnt-das-oktoberfest-stadt-im-wiesn-fieber",
+      "published": "Sat, 19 Sep 2026 10:06:01 -0000",
+      "published_display": "19.09.2026 · 10:06 Uhr"
+    },
+    {
+      "title": "Feuerwehreinsatz: Ein Mensch stirbt bei Feuer in Pflegeeinrichtung in Berlin",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/brand-in-pflegeeinrichtung-in-kreuzberg-verletze-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/brand-in-pflegeeinrichtung-in-kreuzberg-verletze",
+      "published": "Sat, 19 Sep 2026 10:04:54 -0000",
+      "published_display": "19.09.2026 · 10:04 Uhr"
+    },
+    {
+      "title": "Jürgen Klopp: Ich will auch, Kloppo",
+      "summary": "Der neue Bundestrainer nominiert halb Fußballdeutschland für seine ersten Länderspiele. Unser Kolumnist wäre auch gerne dabei.",
+      "image": "https://img.zeit.de/sport/2026-09/juergen-klopp-fussballnationalmannschaft-kader-laenderspiele-fussball-gruenflaeche-bild/original__640x360",
+      "link": "https://www.zeit.de/sport/2026-09/juergen-klopp-fussballnationalmannschaft-kader-laenderspiele-fussball-gruenflaeche",
+      "published": "Sat, 19 Sep 2026 10:02:12 -0000",
+      "published_display": "19.09.2026 · 10:02 Uhr"
+    },
+    {
+      "title": "Feste: 191. Münchner Oktoberfest ist eröffnet",
+      "summary": "",
+      "image": "https://img.zeit.de/administratives/sharing/fallback-image-die-zeit/wide__1300x731",
+      "link": "https://www.zeit.de/news/2026-09/19/191-muenchner-oktoberfest-ist-eroeffnet",
+      "published": "Sat, 19 Sep 2026 10:01:31 -0000",
+      "published_display": "19.09.2026 · 10:01 Uhr"
+    },
+    {
+      "title": "Konflikt um Grönland: Dänischer Außenminister hofft auf Stabilität durch Grönland-Deal",
+      "summary": "Dänemarks Außenminister geht davon aus, dass Unsicherheiten durch den Grönland-Deal mit den USA beendet werden. »Nächste Woche könnte eine gute Woche werden«, sagt er.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/abkommen-daenemark-groenland-usa-nordatlantik-donald-trump-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/abkommen-daenemark-groenland-usa-nordatlantik-donald-trump",
+      "published": "Sat, 19 Sep 2026 09:56:48 -0000",
+      "published_display": "19.09.2026 · 09:56 Uhr"
+    },
+    {
+      "title": "Unfälle: Zehnjährige bei Unfall in Frankfurt verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/zehnjaehrige-bei-unfall-in-frankfurt-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/zehnjaehrige-bei-unfall-in-frankfurt-verletzt",
+      "published": "Sat, 19 Sep 2026 09:55:35 -0000",
+      "published_display": "19.09.2026 · 09:55 Uhr"
+    },
     {
       "title": "Pressefreiheit: Medien kritisieren Ausschluss aus dem Weißen Haus",
       "summary": "Donald Trump möchte CNN, Politico und MS NOW aus dem Weißen Haus verbannen. Die Medien kritisieren den Schritt als Angriff auf die Pressefreiheit.",
@@ -17,14 +81,6 @@
       "link": "https://www.zeit.de/news/2026-09/19/einzug-der-wirte-und-brauereien-stopp-am-attentats-mahnmal",
       "published": "Sat, 19 Sep 2026 09:51:52 -0000",
       "published_display": "19.09.2026 · 09:51 Uhr"
-    },
-    {
-      "title": "Feuerwehreinsatz: Ein Mensch stirbt bei Feuer in Pflegeeinrichtung in Berlin",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/brand-in-pflegeeinrichtung-in-kreuzberg-verletze-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/brand-in-pflegeeinrichtung-in-kreuzberg-verletze",
-      "published": "Sat, 19 Sep 2026 09:46:53 -0000",
-      "published_display": "19.09.2026 · 09:46 Uhr"
     },
     {
       "title": "Film »Naza«: Manche applaudieren, andere verlangen den Tod der Regisseure",
@@ -51,14 +107,6 @@
       "published_display": "19.09.2026 · 09:40 Uhr"
     },
     {
-      "title": "Konflikt um Grönland: Dänischer Außenminister spricht von Stabilität durch Grönland-Deal",
-      "summary": "Dänemarks Außenminister geht davon aus, dass Unsicherheit durch das Grönland-Abkommen mit den USA beendet werden. »Nächste Woche könnte eine gute Woche werden«, sagt er.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/abkommen-daenemark-groenland-usa-nordatlantik-donald-trump-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/abkommen-daenemark-groenland-usa-nordatlantik-donald-trump",
-      "published": "Sat, 19 Sep 2026 09:37:07 -0000",
-      "published_display": "19.09.2026 · 09:37 Uhr"
-    },
-    {
       "title": "Landespolitik: Thüringer Linke weiter mit Mitgliederzuwachs",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-09/19/thueringer-linke-weiter-mit-mitgliederzuwachs-image-group/original__640x360",
@@ -73,54 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/19/d-sir-e-nosbusch-hat-sich-beim-eislaufen-den-arm-gebrochen",
       "published": "Sat, 19 Sep 2026 09:31:57 -0000",
       "published_display": "19.09.2026 · 09:31 Uhr"
-    },
-    {
-      "title": "Unfallursache weiter unklar: Tödlicher Unfall auf der B252: Mann weiter in Lebensgefahr",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/toedlicher-unfall-auf-der-b252-mann-weiter-in-lebensgefahr-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/toedlicher-unfall-auf-der-b252-mann-weiter-in-lebensgefahr",
-      "published": "Sat, 19 Sep 2026 09:30:38 -0000",
-      "published_display": "19.09.2026 · 09:30 Uhr"
-    },
-    {
-      "title": "Beitragserhöhungen: Carsten Linnemann will wieder Informationspflicht für Krankenkassen",
-      "summary": "Gesundheitsminister Linnemann will das Vertrauen in die Krankenkassen stärken. Sie sollen Mitglieder künftig per Post oder App über Beitragserhöhungen informieren.",
-      "image": "https://img.zeit.de/politik/2026-09/informationspflicht-krankenkassen-beitragserhoehung-abschaffung-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/2026-09/informationspflicht-krankenkassen-beitragserhoehung-abschaffung",
-      "published": "Sat, 19 Sep 2026 09:30:02 -0000",
-      "published_display": "19.09.2026 · 09:30 Uhr"
-    },
-    {
-      "title": "Teures Tanken: Sachsens SPD lobt Tankrabatt – fordert aber Übergewinnsteuer",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/sachsens-spd-lobt-tankrabatt-fordert-aber-uebergewinnsteuer-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/sachsens-spd-lobt-tankrabatt-fordert-aber-uebergewinnsteuer",
-      "published": "Sat, 19 Sep 2026 09:22:42 -0000",
-      "published_display": "19.09.2026 · 09:22 Uhr"
-    },
-    {
-      "title": "Fahrer schwer verletzt: Auto kollidiert am Münchner Flughafen mit Flugzeug",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/auto-kollidiert-am-muenchner-flughafen-mit-flugzeug-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/auto-kollidiert-am-muenchner-flughafen-mit-flugzeug",
-      "published": "Sat, 19 Sep 2026 09:21:29 -0000",
-      "published_display": "19.09.2026 · 09:21 Uhr"
-    },
-    {
-      "title": "Oktoberfest: Grünen-Unterstützung für OB Krause",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/gruenen-unterstuetzung-fuer-ob-krause-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/gruenen-unterstuetzung-fuer-ob-krause",
-      "published": "Sat, 19 Sep 2026 09:20:57 -0000",
-      "published_display": "19.09.2026 · 09:20 Uhr"
-    },
-    {
-      "title": "Wetter: Viele Wolken und Regen erwartet",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/viele-wolken-und-regen-erwartet-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/viele-wolken-und-regen-erwartet",
-      "published": "Sat, 19 Sep 2026 09:18:56 -0000",
-      "published_display": "19.09.2026 · 09:18 Uhr"
     }
   ]
 }
