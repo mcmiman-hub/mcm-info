@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-19T03:43:02.648437+00:00",
+  "updated": "2026-09-19T03:54:27.183186+00:00",
   "items": [
+    {
+      "title": "EU-Asylreform: Deutschland entscheidet Mehrheit der Asylanträge im Schnellverfahren",
+      "summary": "Die Asylreform der Europäischen Union zeigt Wirkung. Im Juni und Juli wurden Anträge auf Schutz in Deutschland mehrheitlich mit höherem Tempo bearbeitet als bisher.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/eu-asylreform-schnellverfahren-grenzverfahren-asylverfahren-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/eu-asyl-reform-bundesregierung-anfrage-linkspartei-schnellverfahren",
+      "published": "Sat, 19 Sep 2026 03:51:53 -0000",
+      "published_display": "19.09.2026 · 03:51 Uhr"
+    },
     {
       "title": "Wetterbericht: Sonniger Spätsommer – bis zu 28 Grad am Wochenende",
       "summary": "",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/19/vattenfall-manager-brauchen-ein-neues-wort-fuer-energiewende",
       "published": "Sat, 19 Sep 2026 02:15:04 -0000",
       "published_display": "19.09.2026 · 02:15 Uhr"
-    },
-    {
-      "title": "Teures Tanken: Kritik an Spritpreis-Entlastungspaket von Bund und Ländern",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/kritik-an-spritpreis-entlastungspaket-von-bund-und-laendern-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/kritik-an-spritpreis-entlastungspaket-von-bund-und-laendern",
-      "published": "Sat, 19 Sep 2026 02:00:49 -0000",
-      "published_display": "19.09.2026 · 02:00 Uhr"
     }
   ]
 }
