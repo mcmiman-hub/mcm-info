@@ -1,7 +1,71 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-19T13:54:04.983407+00:00",
+  "updated": "2026-09-19T14:16:20.452825+00:00",
   "items": [
+    {
+      "title": "Spritpreise: Was bringen Tankrabatt und Preisdeckel?",
+      "summary": "Die Koalition hat sich auf Maßnahmen geeinigt, die die Spritpreise senken sollen. Ein Instrument ist bekannt, eines ist neu.",
+      "image": "https://img.zeit.de/politik/2026-09/spritpreise-bundesregierung-tankrabatt-preisdeckel-bild-2/original__640x360",
+      "link": "https://www.zeit.de/politik/2026-09/spritpreise-bundesregierung-tankrabatt-preisdeckel",
+      "published": "Sat, 19 Sep 2026 14:15:13 -0000",
+      "published_display": "19.09.2026 · 14:15 Uhr"
+    },
+    {
+      "title": "»Der Grüffelo«: Hier erzieht sich das Kind noch selbst",
+      "summary": "Der Einfluss von Bilderbüchern ist riesig, leider werden sie heute pädagogisch missbraucht. Dabei kann man darin alles erzählen, selbst Tod und Gewalt.",
+      "image": "https://img.zeit.de/2026/40/im-bilderbuch-zaehlt-jedes-wort-bild-1/original__640x360",
+      "link": "https://www.zeit.de/2026/40/grueffelo-bilderbuch-kinderliteratur-julia-donaldson-axel-scheffler",
+      "published": "Sat, 19 Sep 2026 14:14:00 -0000",
+      "published_display": "19.09.2026 · 14:14 Uhr"
+    },
+    {
+      "title": "»Die Grüffelo-Oma«: Wie der Grüffelo eine Großmutter bekam",
+      "summary": "Das Buch vom Monster und der schlauen Maus ist ein Welterfolg. Hier erzählen seine Macher exklusiv, was im neuen Band passiert und warum er gut 20 Jahre brauchte.",
+      "image": "https://img.zeit.de/2026/40/die-monster-ag-bild-4/original__640x360",
+      "link": "https://www.zeit.de/2026/40/die-grueffelo-oma-julia-donaldson-axel-scheffler-bilderbuch-kinder",
+      "published": "Sat, 19 Sep 2026 14:13:38 -0000",
+      "published_display": "19.09.2026 · 14:13 Uhr"
+    },
+    {
+      "title": "Sanktionen gegen Russland: Donald Trump setzt neues Sanktionspaket gegen Russland in Kraft",
+      "summary": "Ein neues US-Sanktionspaket gegen Russland tritt nach langen Verhandlungen in Kraft. Es geht neben Strafzöllen auch um ein Einreiseverbot für Wladimir Putin.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/donald-trump-russland-sanktionen-usa-wladimir-putin-ukraine-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/donald-trump-russland-sanktionen-usa-wladimir-putin-ukraine",
+      "published": "Sat, 19 Sep 2026 14:01:14 -0000",
+      "published_display": "19.09.2026 · 14:01 Uhr"
+    },
+    {
+      "title": "Fotografie: Bilder des Tages",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/bilder-des-tages-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/bilder-des-tages",
+      "published": "Sat, 19 Sep 2026 14:00:54 -0000",
+      "published_display": "19.09.2026 · 14:00 Uhr"
+    },
+    {
+      "title": "Kulturgutschutz: Kultureinrichtungen in Halle üben für Notfälle",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/kultureinrichtungen-in-halle-ueben-fuer-notfaelle-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/kultureinrichtungen-in-halle-ueben-fuer-notfaelle",
+      "published": "Sat, 19 Sep 2026 13:56:44 -0000",
+      "published_display": "19.09.2026 · 13:56 Uhr"
+    },
+    {
+      "title": "Schwerer Unfall: Unfall in Wuppertal – eine Schwerverletzte",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/unfall-in-wuppertal-ein-schwerverletzter-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/unfall-in-wuppertal-ein-schwerverletzter",
+      "published": "Sat, 19 Sep 2026 13:56:43 -0000",
+      "published_display": "19.09.2026 · 13:56 Uhr"
+    },
+    {
+      "title": "Abenteuerlicher Polizeieinsatz: Sechs Verletzte bei Verfolgungsfahrt durch zwei Bundesländer",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/sechs-verletzte-bei-verfolgungsfahrt-durch-zwei-bundeslaender-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/sechs-verletzte-bei-verfolgungsfahrt-durch-zwei-bundeslaender",
+      "published": "Sat, 19 Sep 2026 13:53:59 -0000",
+      "published_display": "19.09.2026 · 13:53 Uhr"
+    },
     {
       "title": "Wetter: Wind und teilweise Regen in NRW",
       "summary": "",
@@ -22,17 +86,9 @@
       "title": "Krise in der Autoindustrie: Porsche prüft laut Medienbericht Abbau von 4.000 weiteren Stellen",
       "summary": "2026 rechnet der VW-Konzern nur mit einer Umsatzrendite von einem Prozent. Die Sparmaßnahmen bei der Tochter Porsche könnten laut »Handelsblatt« ausgeweitet werden.",
       "image": "https://img.zeit.de/wirtschaft/2026-09/porsche-vw-stellenabbau-gewinnprognose-foto/original__640x360",
-      "link": "https://www.zeit.de/wirtschaft/2026-09/porsche-vw-stellenabbau-gewinnprognose",
+      "link": "https://www.zeit.de/wirtschaft/2026-09/porsche-vw-stellenabbau-gewinnprognose-gxe",
       "published": "Sat, 19 Sep 2026 13:46:33 -0000",
       "published_display": "19.09.2026 · 13:46 Uhr"
-    },
-    {
-      "title": "Sanktionen gegen Russland: Donald Trump setzt neues Sanktionspaket gegen Russland in Kraft",
-      "summary": "Ein neues US-Sanktionspaket gegen Russland tritt nach langen Verhandlungen in Kraft. Es geht neben Strafzöllen auch um ein Einreiseverbot für Wladimir Putin.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/donald-trump-russland-sanktionen-usa-wladimir-putin-ukraine-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/donald-trump-russland-sanktionen-usa-wladimir-putin-ukraine",
-      "published": "Sat, 19 Sep 2026 13:45:03 -0000",
-      "published_display": "19.09.2026 · 13:45 Uhr"
     },
     {
       "title": "Linke-Parteitag: Linke-Fraktionschef: Sind keine billigen Mehrheitsbeschaffer",
@@ -65,62 +121,6 @@
       "link": "https://www.zeit.de/2026/40/friedrich-merz-cdu-kontrollverlust-frankenstein-kuenstliche-intelligenz",
       "published": "Sat, 19 Sep 2026 13:41:06 -0000",
       "published_display": "19.09.2026 · 13:41 Uhr"
-    },
-    {
-      "title": "Demonstrationen: Protest gegen Schwangerschaftsabbrüche in Berlin",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/protest-gegen-schwangerschaftsabbrueche-in-berlin-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/protest-gegen-schwangerschaftsabbrueche-in-berlin",
-      "published": "Sat, 19 Sep 2026 13:40:12 -0000",
-      "published_display": "19.09.2026 · 13:40 Uhr"
-    },
-    {
-      "title": "Demonstrationen: Demos in Köln für und gegen Abtreibung",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/demos-in-koeln-fuer-und-gegen-abtreibung-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/demos-in-koeln-fuer-und-gegen-abtreibung",
-      "published": "Sat, 19 Sep 2026 13:38:25 -0000",
-      "published_display": "19.09.2026 · 13:38 Uhr"
-    },
-    {
-      "title": "Samuel Beckett: »Esse beschissene Gemüseplatte«",
-      "summary": "Samuel Beckett bereiste Nazideutschland und berichtet in seinen Tagebüchern von allerlei Scheußlichkeiten: von »Mahlzeit«-Geblöke bis »diabolischer bayerischer Blasmusik«",
-      "image": "https://img.zeit.de/2026/40/esse-beschissene-gemueseplatte-bild-4/original__640x360",
-      "link": "https://www.zeit.de/2026/40/samuel-beckett-tagebuch-nazideutschland-kunst-architektur",
-      "published": "Sat, 19 Sep 2026 13:38:13 -0000",
-      "published_display": "19.09.2026 · 13:38 Uhr"
-    },
-    {
-      "title": "Einigung auf Paket: Entlastung bei Spritpreisen - wie geht es jetzt weiter?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/entlastung-bei-spritpreisen-wie-geht-es-jetzt-weiter-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/entlastung-bei-spritpreisen-wie-geht-es-jetzt-weiter",
-      "published": "Sat, 19 Sep 2026 13:37:29 -0000",
-      "published_display": "19.09.2026 · 13:37 Uhr"
-    },
-    {
-      "title": "Donald Trump: Weißes Haus verweigert Mitarbeitern von MS NOW den Zugang",
-      "summary": "Ein Kameramann und ein Fotograf des TV-Senders MS NOW sind vom Wachdienst abgewiesen worden. US-Präsident Trump will kritische Medien nicht mehr ins Weiße Haus lassen.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/trump-verbietet-ms-now-zugang-zum-weissen-haus-foto/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/weisses-haus-ms-now-donald-trump",
-      "published": "Sat, 19 Sep 2026 13:31:29 -0000",
-      "published_display": "19.09.2026 · 13:31 Uhr"
-    },
-    {
-      "title": "Airport Findel: Drohnen legen Flughafen Luxemburg zeitweise lahm",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/drohnen-legen-flughafen-luxemburg-zeitweise-lahm-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/drohnen-legen-flughafen-luxemburg-zeitweise-lahm",
-      "published": "Sat, 19 Sep 2026 13:29:59 -0000",
-      "published_display": "19.09.2026 · 13:29 Uhr"
-    },
-    {
-      "title": "All’acqua pazza: Noch einmal Sommer",
-      "summary": "Was tun mit den letzten frischen Tomaten des Spätsommers? Fisch in würzigem Sud pochieren – mit der einfachen italienischen Zubereitung namens all’acqua pazza.",
-      "image": "https://img.zeit.de/zeit-magazin/2026/40/noch-einmal-sommer-bild-1/original__640x360",
-      "link": "https://www.zeit.de/zeit-magazin/2026/40/all-acqua-pazza-fisch-rezept-tomaten-sud",
-      "published": "Sat, 19 Sep 2026 13:28:49 -0000",
-      "published_display": "19.09.2026 · 13:28 Uhr"
     }
   ]
 }
