@@ -1,14 +1,38 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-19T16:17:04.168762+00:00",
+  "updated": "2026-09-19T16:28:40.968790+00:00",
   "items": [
     {
-      "title": "Tennis: 1:1 nach erstem Tag: Davis-Cup-Team mit Zverev muss bangen",
+      "title": "Carsten Breuer: Deutscher General wird Vorsitzender des Nato-Militärausschusses",
+      "summary": "Carsten Breuer ist zum neuen Vorsitzenden des Militärausschusses der Nato gewählt worden. Der Generalinspektor der Bundeswehr tritt das Amt im Juli 2027 an.",
+      "image": "https://img.zeit.de/politik/2026-09/nato-carsten-breuer-vorsitzender-militaerausschuss-foto/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/carsten-breuer-nato-militaerausschuss",
+      "published": "Sat, 19 Sep 2026 16:26:33 -0000",
+      "published_display": "19.09.2026 · 16:26 Uhr"
+    },
+    {
+      "title": "Brände: Bei Feuer auf Geflügelhof entsteht Millionenschaden",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/bei-feuer-auf-gefluegelhof-entsteht-millionenschaden-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/bei-feuer-auf-gefluegelhof-entsteht-millionenschaden",
+      "published": "Sat, 19 Sep 2026 16:26:32 -0000",
+      "published_display": "19.09.2026 · 16:26 Uhr"
+    },
+    {
+      "title": "Tennis: Trotz Sieg von Zverev: Davis-Cup-Team muss bangen",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-09/19/zverev-bringt-davis-cup-team-in-fuehrung-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-09/19/zverev-bringt-davis-cup-team-in-fuehrung",
-      "published": "Sat, 19 Sep 2026 16:14:03 -0000",
-      "published_display": "19.09.2026 · 16:14 Uhr"
+      "published": "Sat, 19 Sep 2026 16:22:31 -0000",
+      "published_display": "19.09.2026 · 16:22 Uhr"
+    },
+    {
+      "title": "Suchaktion: Taucher im Starnberger See vermisst",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/taucher-im-starnberger-see-vermisst-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/taucher-im-starnberger-see-vermisst",
+      "published": "Sat, 19 Sep 2026 16:16:12 -0000",
+      "published_display": "19.09.2026 · 16:16 Uhr"
     },
     {
       "title": "Flohmärkte in Hamburg: »Ach komm, Mädel. Gib mir den Zehner«",
@@ -33,14 +57,6 @@
       "link": "https://www.zeit.de/politik/ausland/2026-09/marine-le-pen-russland-paris-moskau-aussenpolitik",
       "published": "Sat, 19 Sep 2026 16:06:58 -0000",
       "published_display": "19.09.2026 · 16:06 Uhr"
-    },
-    {
-      "title": "Carsten Breuer: Deutscher General wird Vorsitzender des Nato-Militärausschusses",
-      "summary": "Carsten Breuer ist zum neuen Vorsitzenden des Militärausschusses der Nato gewählt worden. Der Generalinspektor der Bundeswehr tritt das Amt im Juli 2027 an.",
-      "image": "https://img.zeit.de/politik/2026-09/nato-carsten-breuer-vorsitzender-militaerausschuss-foto/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/carsten-breuer-nato-militaerausschuss",
-      "published": "Sat, 19 Sep 2026 16:00:20 -0000",
-      "published_display": "19.09.2026 · 16:00 Uhr"
     },
     {
       "title": "Galopprennen: Außenseiter Amigo Charly gewinnt in Hoppegarten",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/19/polizei-unterbindet-fan-auseinandersetzungen-in-kiel",
       "published": "Sat, 19 Sep 2026 15:45:30 -0000",
       "published_display": "19.09.2026 · 15:45 Uhr"
-    },
-    {
-      "title": "Notfälle: Polizei sucht mit Hubschrauber nach 78-jährigem Pilzsammler",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/polizei-sucht-mit-hubschrauber-nach-78-jaehrigem-pilzsammler-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/polizei-sucht-mit-hubschrauber-nach-78-jaehrigem-pilzsammler",
-      "published": "Sat, 19 Sep 2026 15:39:06 -0000",
-      "published_display": "19.09.2026 · 15:39 Uhr"
-    },
-    {
-      "title": "Fußball-Bundesliga: 3:2 nach 0:2: Später Werder-Wahnsinn gegen Augsburg",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/3-2-nach-0-2-spaeter-werder-wahnsinn-gegen-augsburg-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/3-2-nach-0-2-spaeter-werder-wahnsinn-gegen-augsburg",
-      "published": "Sat, 19 Sep 2026 15:38:37 -0000",
-      "published_display": "19.09.2026 · 15:38 Uhr"
     }
   ]
 }
