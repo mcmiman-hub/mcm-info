@@ -1,7 +1,79 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-19T13:41:37.942227+00:00",
+  "updated": "2026-09-19T13:54:04.983407+00:00",
   "items": [
+    {
+      "title": "Wetter: Wind und teilweise Regen in NRW",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/wind-und-teilweise-regen-in-nrw-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/wind-und-teilweise-regen-in-nrw",
+      "published": "Sat, 19 Sep 2026 13:49:53 -0000",
+      "published_display": "19.09.2026 · 13:49 Uhr"
+    },
+    {
+      "title": "Zweiter Weltkrieg: Luxemburger Nachfahren treffen Diezer erstmals am Gedenkort",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/luxemburger-nachfahren-treffen-diezer-erstmals-am-gedenkort-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/luxemburger-nachfahren-treffen-diezer-erstmals-am-gedenkort",
+      "published": "Sat, 19 Sep 2026 13:47:41 -0000",
+      "published_display": "19.09.2026 · 13:47 Uhr"
+    },
+    {
+      "title": "Krise in der Autoindustrie: Porsche prüft laut Medienbericht Abbau von 4.000 weiteren Stellen",
+      "summary": "2026 rechnet der VW-Konzern nur mit einer Umsatzrendite von einem Prozent. Die Sparmaßnahmen bei der Tochter Porsche könnten laut »Handelsblatt« ausgeweitet werden.",
+      "image": "https://img.zeit.de/wirtschaft/2026-09/porsche-vw-stellenabbau-gewinnprognose-foto/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/2026-09/porsche-vw-stellenabbau-gewinnprognose",
+      "published": "Sat, 19 Sep 2026 13:46:33 -0000",
+      "published_display": "19.09.2026 · 13:46 Uhr"
+    },
+    {
+      "title": "Sanktionen gegen Russland: Donald Trump setzt neues Sanktionspaket gegen Russland in Kraft",
+      "summary": "Ein neues US-Sanktionspaket gegen Russland tritt nach langen Verhandlungen in Kraft. Es geht neben Strafzöllen auch um ein Einreiseverbot für Wladimir Putin.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/donald-trump-russland-sanktionen-usa-wladimir-putin-ukraine-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/donald-trump-russland-sanktionen-usa-wladimir-putin-ukraine",
+      "published": "Sat, 19 Sep 2026 13:45:03 -0000",
+      "published_display": "19.09.2026 · 13:45 Uhr"
+    },
+    {
+      "title": "Linke-Parteitag: Linke-Fraktionschef: Sind keine billigen Mehrheitsbeschaffer",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/linke-fraktionschef-sind-keine-billigen-mehrheitsbeschaffer-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/linke-fraktionschef-sind-keine-billigen-mehrheitsbeschaffer",
+      "published": "Sat, 19 Sep 2026 13:45:00 -0000",
+      "published_display": "19.09.2026 · 13:45 Uhr"
+    },
+    {
+      "title": "Riesiges Volksfest: Blasmusik oder Beethoven? Chefdirigent Shani auf der Wiesn",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/blasmusik-oder-beethoven-chefdirigent-shani-auf-der-wiesn-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/blasmusik-oder-beethoven-chefdirigent-shani-auf-der-wiesn",
+      "published": "Sat, 19 Sep 2026 13:44:56 -0000",
+      "published_display": "19.09.2026 · 13:44 Uhr"
+    },
+    {
+      "title": "Peelinghandschuh: Der geht unter die Haut",
+      "summary": "Unsere Autorin schrubbt sich jede Woche mit diesem rauen Peelinghandschuh aus dem Hamam ab. Er hinterlässt samtweiche Haut – und das Gefühl innerer Stärke.",
+      "image": "https://img.zeit.de/zeit-magazin/2026-09/peelinghandschuh-hamam-haut-pflege-bild/original__640x360",
+      "link": "https://www.zeit.de/zeit-magazin/2026-09/peelinghandschuh-hamam-haut-pflege",
+      "published": "Sat, 19 Sep 2026 13:42:11 -0000",
+      "published_display": "19.09.2026 · 13:42 Uhr"
+    },
+    {
+      "title": "Friedrich Merz und die CDU: Jetzt mal was Anderes",
+      "summary": "Peter Dausend über die Gefahren der KI sowie Gemeinsamkeiten von Friedrich Merz und Mary Shellys literarischen Figuren.",
+      "image": "https://img.zeit.de/2026/40/jetzt-mal-was-anderes-bild-2/original__640x360",
+      "link": "https://www.zeit.de/2026/40/friedrich-merz-cdu-kontrollverlust-frankenstein-kuenstliche-intelligenz",
+      "published": "Sat, 19 Sep 2026 13:41:06 -0000",
+      "published_display": "19.09.2026 · 13:41 Uhr"
+    },
+    {
+      "title": "Demonstrationen: Protest gegen Schwangerschaftsabbrüche in Berlin",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/protest-gegen-schwangerschaftsabbrueche-in-berlin-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/protest-gegen-schwangerschaftsabbrueche-in-berlin",
+      "published": "Sat, 19 Sep 2026 13:40:12 -0000",
+      "published_display": "19.09.2026 · 13:40 Uhr"
+    },
     {
       "title": "Demonstrationen: Demos in Köln für und gegen Abtreibung",
       "summary": "",
@@ -49,78 +121,6 @@
       "link": "https://www.zeit.de/zeit-magazin/2026/40/all-acqua-pazza-fisch-rezept-tomaten-sud",
       "published": "Sat, 19 Sep 2026 13:28:49 -0000",
       "published_display": "19.09.2026 · 13:28 Uhr"
-    },
-    {
-      "title": "Pastete mit karamellisierten Zwiebeln: Hier dürfen die Nebendarsteller mal glänzen",
-      "summary": "Wie wäre es mit einem herbstlichen Picknick im bunten Laub? Diese herzhafte Pastete mit karamellisierten Zwiebeln, Safran und Kartoffeln wäre Ihr idealer Begleiter.",
-      "image": "https://img.zeit.de/zeit-magazin/wochenmarkt/2025-11/pastete-karamellisierten-zwiebeln-safran-kartoffeln-rezept-wochenmarkt-teaser/original__640x360",
-      "link": "https://www.zeit.de/zeit-magazin/wochenmarkt/2025-11/pastete-karamellisierten-zwiebeln-safran-kartoffeln-rezept-wochenmarkt",
-      "published": "Sat, 19 Sep 2026 13:28:18 -0000",
-      "published_display": "19.09.2026 · 13:28 Uhr"
-    },
-    {
-      "title": "Bürgerschaftswahl: Bremer SPD zieht mit Bovenschulte in den Wahlkampf",
-      "summary": "Die Bremer SPD setzt auf den erfahrenen Regierungschef. Er freue sich auf einen leidenschaftlichen Wahlkampf, sagte Bovenschulte. Es könnte seine dritte Amtszeit werden.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/bremen-buergerschaftswahl-2027-andreas-bovenschulte-spd-cdu-umfrage-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/bremen-buergerschaftswahl-2027-andreas-bovenschulte-spd-cdu-umfrage",
-      "published": "Sat, 19 Sep 2026 13:27:10 -0000",
-      "published_display": "19.09.2026 · 13:27 Uhr"
-    },
-    {
-      "title": "2. Fußball-Bundesliga: «Sehr glücklicher» Zoma schießt Nürnberg zum Sieg beim KSC",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/sehr-gluecklicher-zoma-schiesst-nuernberg-zum-sieg-beim-ksc-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/sehr-gluecklicher-zoma-schiesst-nuernberg-zum-sieg-beim-ksc",
-      "published": "Sat, 19 Sep 2026 13:26:22 -0000",
-      "published_display": "19.09.2026 · 13:26 Uhr"
-    },
-    {
-      "title": "Unfall in Stuttgart: Feuerwehr schneidet Mensch aus Auto nach Frontalzusammenstoß",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/feuerwehr-schneidet-mensch-aus-auto-nach-frontalzusammenstoss-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/feuerwehr-schneidet-mensch-aus-auto-nach-frontalzusammenstoss",
-      "published": "Sat, 19 Sep 2026 13:25:50 -0000",
-      "published_display": "19.09.2026 · 13:25 Uhr"
-    },
-    {
-      "title": "Europa: Wenn die Götter funken",
-      "summary": "Kanada will so nah an die EU heranrücken, wie es nur geht. Was den Reiz Europas für die Nordamerikaner ausmacht. Und welche Staaten noch dazukommen könnten.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/europa-kanada-kooperation-europaeische-union-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/europa-kanada-kooperation-europaeische-union",
-      "published": "Sat, 19 Sep 2026 13:23:47 -0000",
-      "published_display": "19.09.2026 · 13:23 Uhr"
-    },
-    {
-      "title": "US-Kampfjet F-35: Geheime F-35-Technologie ist offenbar nach Hongkong gelangt",
-      "summary": "Eine Ladung mit F-35-Teilen soll nach Hongkong umgeleitet worden und seitdem verschwunden sein. Aus ihnen ließen sich Informationen zu Tarnkappentechnologie ableiten.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/f-35-cockpithaube-tarnkappentechnologie-china-lockheed-martin-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/f-35-cockpithaube-tarnkappentechnologie-china-lockheed-martin",
-      "published": "Sat, 19 Sep 2026 13:23:24 -0000",
-      "published_display": "19.09.2026 · 13:23 Uhr"
-    },
-    {
-      "title": "Kriminalität: 38-Jähriger richtet Waffe auf Polizisten",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/38-jaehriger-richtet-waffe-auf-polizisten-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/38-jaehriger-richtet-waffe-auf-polizisten",
-      "published": "Sat, 19 Sep 2026 13:20:08 -0000",
-      "published_display": "19.09.2026 · 13:20 Uhr"
-    },
-    {
-      "title": "Fußball-Bundesliga: Sportchef Schröder: Gladbach hat klaren Trainerfavoriten",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/sportchef-schroeder-gladbach-hat-klaren-trainerfavoriten-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/sportchef-schroeder-gladbach-hat-klaren-trainerfavoriten",
-      "published": "Sat, 19 Sep 2026 13:14:32 -0000",
-      "published_display": "19.09.2026 · 13:14 Uhr"
-    },
-    {
-      "title": "Krise in der Autoindustrie: Porsche prüft laut Medienbericht Abbau von 4.000 weiteren Stellen",
-      "summary": "2026 rechnet der VW-Konzern nur mit einer Umsatzrendite von einem Prozent. Die Sparmaßnahmen bei der Tochter Porsche könnten laut »Handelsblatt« ausgeweitet werden.",
-      "image": "https://img.zeit.de/wirtschaft/2026-09/porsche-vw-stellenabbau-gewinnprognose-foto/original__640x360",
-      "link": "https://www.zeit.de/wirtschaft/2026-09/porsche-vw-stellenabbau-gewinnprognose",
-      "published": "Sat, 19 Sep 2026 13:08:58 -0000",
-      "published_display": "19.09.2026 · 13:08 Uhr"
     }
   ]
 }
