@@ -1,7 +1,39 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-19T12:35:47.845758+00:00",
+  "updated": "2026-09-19T12:47:38.707175+00:00",
   "items": [
+    {
+      "title": "Bürgerschaftswahl: Bremer SPD zieht mit Bovenschulte in den Wahlkampf",
+      "summary": "Die Bremer SPD setzt auf den erfahrenen Regierungschef als Spitzenkandidat. Mit leidenschaftlichem Wahlkampf wolle er seine dritte Amtszeit sichern, sagte Bovenschulte.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/bremen-buergerschaftswahl-2027-andreas-bovenschulte-spd-cdu-umfrage-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/bremen-buergerschaftswahl-2027-andreas-bovenschulte-spd-cdu-umfrage",
+      "published": "Sat, 19 Sep 2026 12:46:20 -0000",
+      "published_display": "19.09.2026 · 12:46 Uhr"
+    },
+    {
+      "title": "Folgenschwerer Unfall: Entlaufene Pferde kollidieren mit Auto - ein Tier tot",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/entlaufene-pferde-kollidieren-mit-auto-ein-tier-tot-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/entlaufene-pferde-kollidieren-mit-auto-ein-tier-tot",
+      "published": "Sat, 19 Sep 2026 12:38:35 -0000",
+      "published_display": "19.09.2026 · 12:38 Uhr"
+    },
+    {
+      "title": "Teurer Sprit: Neuer Tankrabatt ab Oktober – Kritik an Gießkannenlösung",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/kritik-an-spritpreis-entlastungspaket-von-bund-und-laendern-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/kritik-an-spritpreis-entlastungspaket-von-bund-und-laendern",
+      "published": "Sat, 19 Sep 2026 12:38:06 -0000",
+      "published_display": "19.09.2026 · 12:38 Uhr"
+    },
+    {
+      "title": "Saftige Erntezeit: Mobile Mosterei macht Station am Kloster Drübeck",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/mobile-mosterei-macht-station-am-kloster-druebeck-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/mobile-mosterei-macht-station-am-kloster-druebeck",
+      "published": "Sat, 19 Sep 2026 12:37:30 -0000",
+      "published_display": "19.09.2026 · 12:37 Uhr"
+    },
     {
       "title": "Naomi Beckwith: »Wir werden jede Art von Gewalt vermeiden«",
       "summary": "Naomi Beckwith ist die neue Leiterin der Documenta. Hier erzählt sie erstmals, wie sie nach den Skandalen um die Ausstellung weitermachen will.",
@@ -89,38 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/19/gorch-fock-nach-14-000-seemeilen-wieder-in-kiel",
       "published": "Sat, 19 Sep 2026 12:19:08 -0000",
       "published_display": "19.09.2026 · 12:19 Uhr"
-    },
-    {
-      "title": "Behandlungsfehler bei der Geburt: »Es war Totenstille«",
-      "summary": "Drei Frauen tragen gesunde Kinder im Bauch. Doch bei der Geburt kommt es zu schweren Komplikationen: durch Fehler, die dem zuständigen Arzt nicht hätten passieren dürfen.",
-      "image": "https://img.zeit.de/zeit-verbrechen/2026/40/es-war-totenstille-bild-2/original__640x360",
-      "link": "https://www.zeit.de/zeit-verbrechen/2026/40/behandlungsfehler-geburt-krankenhaus-chefarzt",
-      "published": "Sat, 19 Sep 2026 12:14:53 -0000",
-      "published_display": "19.09.2026 · 12:14 Uhr"
-    },
-    {
-      "title": "Im Transporter unterwegs: Frau mit 2,35 Promille am Steuer erwischt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/frau-mit-2-35-promille-am-steuer-erwischt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/frau-mit-2-35-promille-am-steuer-erwischt",
-      "published": "Sat, 19 Sep 2026 12:14:46 -0000",
-      "published_display": "19.09.2026 · 12:14 Uhr"
-    },
-    {
-      "title": "Besondere Ehre: Winfried Kretschmann erhält «Gasthörerschaft auf Lebenszeit»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/winfried-kretschmann-erhaelt-gasthoererschaft-auf-lebenszeit-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/winfried-kretschmann-erhaelt-gasthoererschaft-auf-lebenszeit",
-      "published": "Sat, 19 Sep 2026 12:10:09 -0000",
-      "published_display": "19.09.2026 · 12:10 Uhr"
-    },
-    {
-      "title": "Fußball-Bundesliga: Effenberg kritisiert Gladbacher Clubführung",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/effenberg-kritisiert-gladbacher-clubfuehrung-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/effenberg-kritisiert-gladbacher-clubfuehrung",
-      "published": "Sat, 19 Sep 2026 12:09:43 -0000",
-      "published_display": "19.09.2026 · 12:09 Uhr"
     }
   ]
 }
