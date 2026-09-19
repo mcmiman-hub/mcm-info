@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-19T20:54:00.133971+00:00",
+  "updated": "2026-09-19T21:16:10.121548+00:00",
   "items": [
+    {
+      "title": "Irankrieg: Huthi-Miliz bekennt sich zu Angriffen auf Riad",
+      "summary": "Die mit dem Iran verbündeten Huthi-Rebellen haben Saudi-Arabiens Hauptstadt mit Raketen und Drohnen attackiert. Iran tötet einen angeblichen Spion Israels. Das Liveblog",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/iran-saudi-arabien-riad-huthi-miliz-angriff-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-05/iran-krieg-donald-trump-hormus-live",
+      "published": "Sat, 19 Sep 2026 21:11:42 -0000",
+      "published_display": "19.09.2026 · 21:11 Uhr"
+    },
+    {
+      "title": "Ukraine-Krieg: Mutter und Kinder bei Angriff im Kiewer Umland getötet",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/mutter-und-kinder-bei-angriff-im-kiewer-umland-getoetet-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/mutter-und-kinder-bei-angriff-im-kiewer-umland-getoetet",
+      "published": "Sat, 19 Sep 2026 21:10:58 -0000",
+      "published_display": "19.09.2026 · 21:10 Uhr"
+    },
     {
       "title": "Flohmärkte in Hamburg: »Ach komm, Mädel. Gib mir den Zehner«",
       "summary": "Den Preis drücken? Gehört auf Flohmärkten dazu. Unserer Autorin fällt das schwer. Nun war sie mit einem Profi unterwegs – um endlich anständig Feilschen zu lernen.",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/sport/2026-09/fussball-bundesliga-4-spieltag-2026-27-eintracht-frankfurt-vfb-stuttgart-borussia-dortmund",
       "published": "Sat, 19 Sep 2026 18:41:49 -0000",
       "published_display": "19.09.2026 · 18:41 Uhr"
-    },
-    {
-      "title": "Thomas Lindlmair: Den Wahlkampf finanziert er mit Flaschensammeln",
-      "summary": "Berlin, die Stadt der teuren Mieten. Aber wird deshalb einer, der selbst ohne Obdach war, ins Abgeordnetenhaus gewählt? Wahlkampf mit Thomas Lindlmair.",
-      "image": "https://img.zeit.de/politik/2026-09/thomas-lindlmair-berlin-wahlkampf-wohnungspolitik-bild-02/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/thomas-lindlmair-berlin-wahlkampf-wohnungspolitik-wohnungslosigkeit",
-      "published": "Sat, 19 Sep 2026 18:36:39 -0000",
-      "published_display": "19.09.2026 · 18:36 Uhr"
-    },
-    {
-      "title": "Basketball: Rostock feiert Auftakterfolg gegen Aufsteiger Hagen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/rostock-feiert-auftakterfolg-gegen-aufsteiger-hagen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/rostock-feiert-auftakterfolg-gegen-aufsteiger-hagen",
-      "published": "Sat, 19 Sep 2026 18:33:36 -0000",
-      "published_display": "19.09.2026 · 18:33 Uhr"
     }
   ]
 }
