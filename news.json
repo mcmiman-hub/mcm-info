@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-19T02:17:04.919874+00:00",
+  "updated": "2026-09-19T02:28:51.197312+00:00",
   "items": [
+    {
+      "title": "Neues EU-Asylrecht: Asylrechtsreform: Mehrheit kommt jetzt ins Schnellverfahren",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/asylrechtsreform-mehrheit-kommt-jetzt-ins-schnellverfahren-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/asylrechtsreform-mehrheit-kommt-jetzt-ins-schnellverfahren",
+      "published": "Sat, 19 Sep 2026 02:15:05 -0000",
+      "published_display": "19.09.2026 · 02:15 Uhr"
+    },
+    {
+      "title": "Vattenfall: Vattenfall-Manager: Brauchen ein neues Wort für Energiewende",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/vattenfall-manager-brauchen-ein-neues-wort-fuer-energiewende-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/vattenfall-manager-brauchen-ein-neues-wort-fuer-energiewende",
+      "published": "Sat, 19 Sep 2026 02:15:04 -0000",
+      "published_display": "19.09.2026 · 02:15 Uhr"
+    },
     {
       "title": "Teures Tanken: Kritik an Spritpreis-Entlastungspaket von Bund und Ländern",
       "summary": "",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/19/jugendlicher-stirbt-bei-autounfall-in-oberfranken",
       "published": "Sat, 19 Sep 2026 01:58:51 -0000",
       "published_display": "19.09.2026 · 01:58 Uhr"
-    },
-    {
-      "title": "Künstliche Intelligenz: Auch Google meldet Cyberattacke seines KI-Modells Gemini",
-      "summary": "Immer neue Vorfälle kommen ans Licht, in denen eine künstliche Intelligenz aus ihrem Testumfeld ausbricht. Erstmals gesteht auch Google einen ungeplanten Hackerangriff.",
-      "image": "https://img.zeit.de/digital/internet/2026-09/google-gemini-ki-cybersicherheit-heather-adkins-irregular-foto-1/original__640x360",
-      "link": "https://www.zeit.de/digital/internet/2026-09/google-gemini-ki-hacker-angriff-cybersicherheit",
-      "published": "Sat, 19 Sep 2026 01:44:59 -0000",
-      "published_display": "19.09.2026 · 01:44 Uhr"
-    },
-    {
-      "title": "Bundesliga am Samstag: VfB empfängt BVB – Freiburg in Frankfurt gefordert",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/vfb-empfaengt-bvb-freiburg-in-frankfurt-gefordert-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/vfb-empfaengt-bvb-freiburg-in-frankfurt-gefordert",
-      "published": "Sat, 19 Sep 2026 01:30:10 -0000",
-      "published_display": "19.09.2026 · 01:30 Uhr"
     }
   ]
 }
