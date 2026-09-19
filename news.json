@@ -1,10 +1,34 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-19T00:56:11.985371+00:00",
+  "updated": "2026-09-19T01:15:22.025538+00:00",
   "items": [
     {
+      "title": "Künstliche Intelligenz: Googles KI Gemini hackte ebenfalls andere Unternehmen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/googles-ki-gemini-hackte-ebenfalls-andere-unternehmen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/googles-ki-gemini-hackte-ebenfalls-andere-unternehmen",
+      "published": "Sat, 19 Sep 2026 01:01:30 -0000",
+      "published_display": "19.09.2026 · 01:01 Uhr"
+    },
+    {
+      "title": "Kardinal Reinhard Marx: «Es geht weiter» – Optimismus zum Bischofsjubiläum",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/es-geht-weiter-optimismus-zum-bischofsjubilaeum-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/es-geht-weiter-optimismus-zum-bischofsjubilaeum",
+      "published": "Sat, 19 Sep 2026 01:00:05 -0000",
+      "published_display": "19.09.2026 · 01:00 Uhr"
+    },
+    {
+      "title": "Nach Streit mit Trump: Ist der Grönland-Konflikt jetzt beigelegt?",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/ist-der-groenland-konflikt-jetzt-beigelegt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/ist-der-groenland-konflikt-jetzt-beigelegt",
+      "published": "Sat, 19 Sep 2026 00:58:53 -0000",
+      "published_display": "19.09.2026 · 00:58 Uhr"
+    },
+    {
       "title": "AfD Berlin: Polizei durchsucht Haus von Mitarbeiter der Berliner AfD-Kandidatin",
-      "summary": "Die Polizei hat Medienberichten zufolge Drogen und Nazi-Devotionalien bei einem Mitarbeiter von AfD-Spitzenkandidatin Brinker gefunden. Sie sagt, er sei nur »Sammler«.",
+      "summary": "Die Polizei hat Medienberichten zufolge Drogen und Nazidevotionalien bei einem Mitarbeiter von AfD-Spitzenkandidatin Brinker gefunden. Sie sagt, er sei nur »Sammler«.",
       "image": "https://img.zeit.de/politik/deutschland/2026-09/kundgebung-der-afd-vor-dem-roten-rathaus-bild/original__640x360",
       "link": "https://www.zeit.de/politik/deutschland/2026-09/afd-kristin-brinker-mitarbeiter-wohnung-durchsuchung",
       "published": "Sat, 19 Sep 2026 00:42:36 -0000",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/18/was-geschah-am-19-september",
       "published": "Fri, 18 Sep 2026 21:55:04 -0000",
       "published_display": "18.09.2026 · 21:55 Uhr"
-    },
-    {
-      "title": "Medien: Trump verbietet CNN und «Politico» Zugang zum Weißen Haus",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/trump-verbietet-cnn-und-politico-zugang-zum-weissen-haus-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/trump-verbietet-cnn-und-politico-zugang-zum-weissen-haus",
-      "published": "Fri, 18 Sep 2026 21:42:32 -0000",
-      "published_display": "18.09.2026 · 21:42 Uhr"
-    },
-    {
-      "title": "Tankpreis: Regierung einigt sich auf Tankrabatt und Spritpreisdeckel",
-      "summary": "Die Koalition hat einen neuen Tankrabatt und einen Spritpreisdeckel beschlossen. Die Preise für Sprit sollen ab dem 1. Oktober um 17 Cent pro Liter gesenkt werden.",
-      "image": "https://img.zeit.de/politik/2026-09/tankrabatt-und-spritpreisdeckel-bild-2/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/regierung-einigt-sich-auf-tankrabatt-und-spritpreisdeckel",
-      "published": "Fri, 18 Sep 2026 21:37:39 -0000",
-      "published_display": "18.09.2026 · 21:37 Uhr"
-    },
-    {
-      "title": "Pressefreiheit: Trump verbietet CNN, »Politico« und MS NOW Zugang zum Weißen Haus",
-      "summary": "Der US-Präsident hat die Pressefreiheit weiter eingeschränkt. CNN, »Politico« und MS NOW dürfen nicht mehr aus dem Weißen Haus berichten, weitere Verbote sollen folgen.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/donald-trump-pressefreiheit-cnn-politico-msnow/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/donald-trump-verbietet-cnn-politico-und-msnow-zugang-zum-weissen-haus",
-      "published": "Fri, 18 Sep 2026 21:21:28 -0000",
-      "published_display": "18.09.2026 · 21:21 Uhr"
     }
   ]
 }
