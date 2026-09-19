@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-19T01:15:22.025538+00:00",
+  "updated": "2026-09-19T01:29:18.611727+00:00",
   "items": [
+    {
+      "title": "Fotografie: Bilder des Tages",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/bilder-des-tages-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/bilder-des-tages",
+      "published": "Sat, 19 Sep 2026 01:18:12 -0000",
+      "published_display": "19.09.2026 · 01:18 Uhr"
+    },
+    {
+      "title": "Pressefreiheit in den USA: Trump verbietet US-Sender CNN Zugang zum Weißen Haus",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/18/trump-verbietet-cnn-und-politico-zugang-zum-weissen-haus-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/trump-verbietet-cnn-und-politico-zugang-zum-weissen-haus",
+      "published": "Sat, 19 Sep 2026 01:15:34 -0000",
+      "published_display": "19.09.2026 · 01:15 Uhr"
+    },
     {
       "title": "Künstliche Intelligenz: Googles KI Gemini hackte ebenfalls andere Unternehmen",
       "summary": "",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/19/verdacht-auf-kontamination-mit-quecksilber-in-wohnung",
       "published": "Fri, 18 Sep 2026 22:07:47 -0000",
       "published_display": "18.09.2026 · 22:07 Uhr"
-    },
-    {
-      "title": "Bundesliga, 4. Spieltag – Freitag: FC Bayern gewinnt deutlich gegen Union Berlin",
-      "summary": "Zum Beginn des Oktoberfestes gewinnt Bayern hoch gegen die Union. Olise wird dreifacher Torschütze und Harry Kane feiert sein 100. Bundesligator. Der Spielbericht",
-      "image": "https://img.zeit.de/sport/2026-09/bayern-muenchen-union-berlin-bundesliga-harry-kane-michael-olise-foto-1/original__640x360",
-      "link": "https://www.zeit.de/sport/2026-09/bayern-muenchen-union-berlin-bundesliga-harry-kane-michael-olise",
-      "published": "Fri, 18 Sep 2026 22:02:20 -0000",
-      "published_display": "18.09.2026 · 22:02 Uhr"
-    },
-    {
-      "title": "Kalenderblatt: Was geschah am 19. September?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/was-geschah-am-19-september-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/was-geschah-am-19-september",
-      "published": "Fri, 18 Sep 2026 21:55:04 -0000",
-      "published_display": "18.09.2026 · 21:55 Uhr"
     }
   ]
 }
