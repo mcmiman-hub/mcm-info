@@ -1,7 +1,39 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-19T18:32:11.096193+00:00",
+  "updated": "2026-09-19T18:43:43.655619+00:00",
   "items": [
+    {
+      "title": "Bundesliga, 4. Spieltag – Samstag: BVB übernimmt in Stuttgart die Tabellenführung, HSV siegt gegen Köln",
+      "summary": "Borussia Dortmund siegt dank eines Tores von Maximilian Beier beim VfB Stuttgart, Mainz schießt in einem spektakulären Spiel Gladbach ans Tabellenende. Die Spielberichte",
+      "image": "https://img.zeit.de/sport/2026-09/vfb-stuttgart-borussia-dortmund-bundesliga-foto/original__640x360",
+      "link": "https://www.zeit.de/sport/2026-09/fussball-bundesliga-4-spieltag-2026-27-eintracht-frankfurt-vfb-stuttgart-borussia-dortmund",
+      "published": "Sat, 19 Sep 2026 18:41:49 -0000",
+      "published_display": "19.09.2026 · 18:41 Uhr"
+    },
+    {
+      "title": "Thomas Lindlmair: Den Wahlkampf finanziert er mit Flaschensammeln",
+      "summary": "Berlin, die Stadt der teuren Mieten. Aber wird deshalb einer, der selbst ohne Obdach war, ins Abgeordnetenhaus gewählt? Wahlkampf mit Thomas Lindlmair.",
+      "image": "https://img.zeit.de/politik/2026-09/thomas-lindlmair-berlin-wahlkampf-wohnungspolitik-bild-02/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/thomas-lindlmair-berlin-wahlkampf-wohnungspolitik-wohnungslosigkeit",
+      "published": "Sat, 19 Sep 2026 18:36:39 -0000",
+      "published_display": "19.09.2026 · 18:36 Uhr"
+    },
+    {
+      "title": "Basketball: Rostock feiert Auftakterfolg gegen Aufsteiger Hagen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/rostock-feiert-auftakterfolg-gegen-aufsteiger-hagen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/rostock-feiert-auftakterfolg-gegen-aufsteiger-hagen",
+      "published": "Sat, 19 Sep 2026 18:33:36 -0000",
+      "published_display": "19.09.2026 · 18:33 Uhr"
+    },
+    {
+      "title": "Iran-Krieg: Signal aus Teheran: Iran will zurück zu Rahmenabkommen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/signal-aus-teheran-iran-will-zurueck-zu-rahmenabkommen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/signal-aus-teheran-iran-will-zurueck-zu-rahmenabkommen",
+      "published": "Sat, 19 Sep 2026 18:32:02 -0000",
+      "published_display": "19.09.2026 · 18:32 Uhr"
+    },
     {
       "title": "Künstliche Intelligenz: Trump setzt stärker auf KI trotz Warnungen vor Gefahren",
       "summary": "",
@@ -89,38 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/18/trump-verbietet-cnn-und-politico-zugang-zum-weissen-haus",
       "published": "Sat, 19 Sep 2026 17:48:41 -0000",
       "published_display": "19.09.2026 · 17:48 Uhr"
-    },
-    {
-      "title": "Enteignung in Berlin: Angst und Panik in der Berliner Wohnungswirtschaft",
-      "summary": "Linke und Grüne wollen in Berlin große Immobilienkonzerne enteignen. Banken, Makler und Bauindustrie kämpfen mit aller Macht dagegen. Sie warnen vor einem Systemwechsel.",
-      "image": "https://img.zeit.de/politik/2026-09/enteignung-berlin-wohnungskonzerne-wahlkampf-immobilienlobby-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/2026-09/enteignung-berlin-wohnungskonzerne-wahlkampf-immobilienlobby",
-      "published": "Sat, 19 Sep 2026 17:43:40 -0000",
-      "published_display": "19.09.2026 · 17:43 Uhr"
-    },
-    {
-      "title": "Fußball-Bundesliga: Nase gebrochen? Mainz-Coach Fischer sorgt sich um Caci",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/nase-gebrochen-mainz-coach-fischer-sorgt-sich-um-caci-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/nase-gebrochen-mainz-coach-fischer-sorgt-sich-um-caci",
-      "published": "Sat, 19 Sep 2026 17:36:23 -0000",
-      "published_display": "19.09.2026 · 17:36 Uhr"
-    },
-    {
-      "title": "Ermittlungen: 18-Jährige nach Brandattacke gegen Mann in U-Haft",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/18-jaehrige-nach-brandattacke-gegen-mann-in-u-haft-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/18-jaehrige-nach-brandattacke-gegen-mann-in-u-haft",
-      "published": "Sat, 19 Sep 2026 17:35:26 -0000",
-      "published_display": "19.09.2026 · 17:35 Uhr"
-    },
-    {
-      "title": "Verena Bahlsen: »Im schlimmsten Fall zerstört Geld dich«",
-      "summary": "Verena Bahlsen scheiterte an der Spitze der Keksfirma ihrer Familie. Sie wollte sich nicht unterordnen. Durch ihren mittellosen Freund veränderte sich ihr Blick auf Geld.",
-      "image": "https://img.zeit.de/wirtschaft/2026-09/verena-bahlsen-panikjahre-bild-1/original__640x360",
-      "link": "https://www.zeit.de/2026/40/verena-bahlsen-panikjahre-unternehmen-familie-nationalsozialismus-zwangsarbeit",
-      "published": "Sat, 19 Sep 2026 17:21:56 -0000",
-      "published_display": "19.09.2026 · 17:21 Uhr"
     }
   ]
 }
