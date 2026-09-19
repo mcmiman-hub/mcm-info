@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-19T05:54:17.407886+00:00",
+  "updated": "2026-09-19T06:21:29.036524+00:00",
   "items": [
+    {
+      "title": "Wettervorhersage: Spätsommerliches Wetter zum Wiesn-Start erwartet",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/spaetsommerliches-wetter-zum-wiesn-start-erwartet-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/spaetsommerliches-wetter-zum-wiesn-start-erwartet",
+      "published": "Sat, 19 Sep 2026 06:14:19 -0000",
+      "published_display": "19.09.2026 · 06:14 Uhr"
+    },
+    {
+      "title": "Ungewöhnliche Aktion: Museen können sich bewerben: 1.500 Kunstwerke zu verschenken",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/museen-koennen-sich-bewerben-1-500-kunstwerke-zu-verschenken-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/museen-koennen-sich-bewerben-1-500-kunstwerke-zu-verschenken",
+      "published": "Sat, 19 Sep 2026 06:00:05 -0000",
+      "published_display": "19.09.2026 · 06:00 Uhr"
+    },
+    {
+      "title": "Justiz: Prozess nach Maut-Debakel: Ex-Minister weist Vorwurf zurück",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/prozess-nach-maut-debakel-ex-minister-weist-vorwurf-zurueck-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/prozess-nach-maut-debakel-ex-minister-weist-vorwurf-zurueck",
+      "published": "Sat, 19 Sep 2026 06:00:05 -0000",
+      "published_display": "19.09.2026 · 06:00 Uhr"
+    },
     {
       "title": "Demokratische Republik Kongo: Ebola-Epidemie weitet sich auf weitere Regionen aus",
       "summary": "Die Organisation Ärzte ohne Grenzen widerspricht der WHO: Die Ebola-Epidemie im Kongo ebbt demnach keineswegs ab, sondern verlagert sich.",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/19/kanes-100-tore-im-rekordtempo-und-olises-premiere",
       "published": "Sat, 19 Sep 2026 04:10:04 -0000",
       "published_display": "19.09.2026 · 04:10 Uhr"
-    },
-    {
-      "title": "Authentizität: Hat Natalie Portman keine Seele?",
-      "summary": "Rachel Cusk provoziert mit ihrem neuen Buch eine Debatte über die Grenzen der literarischen Freiheit. Und: Clemens J. Setz schreibt grandios über Nerds und das Internet.",
-      "image": "https://img.zeit.de/feuilleton/2026-09/authentizitaet-rachel-cusk-clemens-j-setz-buecherpodcast-bild/original__640x360",
-      "link": "https://www.zeit.de/feuilleton/2026-09/authentizitaet-rachel-cusk-clemens-j-setz-buecherpodcast",
-      "published": "Sat, 19 Sep 2026 04:05:07 -0000",
-      "published_display": "19.09.2026 · 04:05 Uhr"
-    },
-    {
-      "title": "Unfall in Eifel: Auto fährt gegen Baum – mindestens ein Schwerverletzter",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/auto-faehrt-gegen-baum-mindestens-ein-schwerverletzter-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/auto-faehrt-gegen-baum-mindestens-ein-schwerverletzter",
-      "published": "Sat, 19 Sep 2026 04:03:12 -0000",
-      "published_display": "19.09.2026 · 04:03 Uhr"
-    },
-    {
-      "title": "Abgeordnetenhauswahl in Berlin: Warum die Linkspartei Chancen aufs Rote Rathaus hat",
-      "summary": "Bei der Berlinwahl liegen Linke und CDU in den Umfragen eng beieinander. Welche Koalitionen wären nach der Wahl möglich? Und: Wie Eisbären mit dem Klimawandel leben.",
-      "image": "https://img.zeit.de/politik/2026-09/abgeordnetenhauswahl-berlin-die-linke-cdu/original__640x360",
-      "link": "https://www.zeit.de/politik/2026-09/abgeordnetenhauswahl-berlin-die-linke-cdu-nachrichtenpodcast",
-      "published": "Sat, 19 Sep 2026 04:00:10 -0000",
-      "published_display": "19.09.2026 · 04:00 Uhr"
     }
   ]
 }
