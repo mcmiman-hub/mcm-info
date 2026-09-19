@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-19T19:40:31.822587+00:00",
+  "updated": "2026-09-19T19:53:58.492700+00:00",
   "items": [
+    {
+      "title": "Krieg in Nahost: Huthi-Miliz reklamiert Angriffe in Saudi-Arabien",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/huthi-miliz-reklamiert-angriffe-in-saudi-arabien-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/huthi-miliz-reklamiert-angriffe-in-saudi-arabien",
+      "published": "Sat, 19 Sep 2026 19:42:43 -0000",
+      "published_display": "19.09.2026 · 19:42 Uhr"
+    },
+    {
+      "title": "Festtag: Literaturfestival Harbour Front startet mit USA-Fokus",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/literaturfestival-harbour-front-startet-mit-usa-fokus-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/literaturfestival-harbour-front-startet-mit-usa-fokus",
+      "published": "Sat, 19 Sep 2026 19:41:18 -0000",
+      "published_display": "19.09.2026 · 19:41 Uhr"
+    },
     {
       "title": "Handball-Bundesliga: Thüringer HC feiert vierten Sieg in Serie",
       "summary": "",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/19/offiziell-sandro-wagner-wird-trainer-von-hannover-96",
       "published": "Sat, 19 Sep 2026 18:21:19 -0000",
       "published_display": "19.09.2026 · 18:21 Uhr"
-    },
-    {
-      "title": "Künstliche Intelligenz: US-Präsident Donald Trump kündigt neuen KI-Sonderbeauftragten an",
-      "summary": "Donald Trump will eine »AI Force« namens »AI Czar« zur besseren Regulierung von KI aufbauen. Er werde zeitnah einen KI-Sonderbeauftragten ernennen, teilte er mit.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/donald-trump-ki-kuenstliche-intelligenz-ai-force-beauftragter-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/donald-trump-ki-kuenstliche-intelligenz-ai-force-beauftragter",
-      "published": "Sat, 19 Sep 2026 18:19:28 -0000",
-      "published_display": "19.09.2026 · 18:19 Uhr"
-    },
-    {
-      "title": "Donald Trump: Weißes Haus verweigert Reporterinnen von CNN und MS NOW den Zugang",
-      "summary": "Zwei Journalistinnen der TV-Sender CNN und MS NOW sind vom Wachdienst abgewiesen worden. US-Präsident Trump will kritische Medien nicht mehr ins Weiße Haus lassen.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/trump-verbietet-ms-now-zugang-zum-weissen-haus-foto/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/weisses-haus-ms-now-donald-trump",
-      "published": "Sat, 19 Sep 2026 18:17:41 -0000",
-      "published_display": "19.09.2026 · 18:17 Uhr"
     }
   ]
 }
