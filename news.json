@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-19T23:41:30.523557+00:00",
+  "updated": "2026-09-19T23:53:57.169255+00:00",
   "items": [
+    {
+      "title": "Kellerbrand: Ein Schwerverletzter bei Brand in Wohnhaus",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/ein-schwerverletzter-bei-brand-in-wohnhaus-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/ein-schwerverletzter-bei-brand-in-wohnhaus",
+      "published": "Sat, 19 Sep 2026 23:51:40 -0000",
+      "published_display": "19.09.2026 · 23:51 Uhr"
+    },
+    {
+      "title": "Niederlande: Rechtsextreme Proteste in Den Haag schlagen in Gewalt um",
+      "summary": "In Den Haag ist ein Protest Hunderter Rechtsextremer gegen Einwanderungspolitik eskaliert. Demonstranten warfen Feuerwerkskörper. Die Polizei nahm 24 Menschen fest.",
+      "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-09/rechtsextreme-demo-den-haag-niederlande-antisemitismus-polizei-rob-jetten-foto-1/original__640x360",
+      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-09/rechtsextreme-demo-den-haag-niederlande-antisemitismus-polizei-rob-jetten",
+      "published": "Sat, 19 Sep 2026 23:41:41 -0000",
+      "published_display": "19.09.2026 · 23:41 Uhr"
+    },
     {
       "title": "Irankrieg: Huthi-Miliz bekennt sich zu Angriffen auf Riad",
       "summary": "Die mit dem Iran verbündeten Huthi-Rebellen haben Saudi-Arabiens Hauptstadt mit Raketen und Drohnen attackiert. Iran tötet einen angeblichen Spion Israels. Das Liveblog",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/19/literaturfestival-harbour-front-startet-mit-usa-fokus",
       "published": "Sat, 19 Sep 2026 19:41:18 -0000",
       "published_display": "19.09.2026 · 19:41 Uhr"
-    },
-    {
-      "title": "Handball-Bundesliga: Thüringer HC feiert vierten Sieg in Serie",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/thueringer-hc-feiert-vierten-sieg-in-serie-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/thueringer-hc-feiert-vierten-sieg-in-serie",
-      "published": "Sat, 19 Sep 2026 19:27:31 -0000",
-      "published_display": "19.09.2026 · 19:27 Uhr"
-    },
-    {
-      "title": "Festival in San Sebastián: Naomi Watts wird mit Filmpreis für ihr Lebenswerk geehrt",
-      "summary": "Beim Festival von San Sebastián erhält Schauspielerin Naomi Watts den Donostia-Preis. Berühmt wurde sie mit ihren Rollen in den Filmen »Mulholland Drive« und 21 Gramm«.",
-      "image": "https://img.zeit.de/feuilleton/film/2026-09/imago0867269908h/original__640x360",
-      "link": "https://www.zeit.de/feuilleton/film/2026-09/naomi-watts-film-festival-san-sebastian",
-      "published": "Sat, 19 Sep 2026 18:59:56 -0000",
-      "published_display": "19.09.2026 · 18:59 Uhr"
     }
   ]
 }
