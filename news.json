@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-19T17:14:59.374267+00:00",
+  "updated": "2026-09-19T17:26:28.761581+00:00",
   "items": [
+    {
+      "title": "Verena Bahlsen: »Im schlimmsten Fall zerstört Geld dich«",
+      "summary": "Verena Bahlsen scheiterte an der Spitze der Keksfirma ihrer Familie. Sie wollte sich nicht unterordnen. Durch ihren mittellosen Freund veränderte sich ihr Blick auf Geld.",
+      "image": "https://img.zeit.de/wirtschaft/2026-09/verena-bahlsen-panikjahre-bild-1/original__640x360",
+      "link": "https://www.zeit.de/2026/40/verena-bahlsen-panikjahre-unternehmen-familie-nationalsozialismus-zwangsarbeit",
+      "published": "Sat, 19 Sep 2026 17:21:56 -0000",
+      "published_display": "19.09.2026 · 17:21 Uhr"
+    },
+    {
+      "title": "Fußball-Bundesliga: Harte Hütter-Kritik: Eintracht «zu wenig professionell»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/harte-huetter-kritik-eintracht-zu-wenig-professionell-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/harte-huetter-kritik-eintracht-zu-wenig-professionell",
+      "published": "Sat, 19 Sep 2026 17:14:51 -0000",
+      "published_display": "19.09.2026 · 17:14 Uhr"
+    },
     {
       "title": "Tennis: Trotz Sieges von Zverev: Davis-Cup-Team muss bangen",
       "summary": "",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/zeit-magazin/leben/2026-09/wahlen-berlin-herkunft-migration-syrien-zusammenleben",
       "published": "Sat, 19 Sep 2026 16:08:23 -0000",
       "published_display": "19.09.2026 · 16:08 Uhr"
-    },
-    {
-      "title": "Marine Le Pen: Frankreichs Le Pen spricht sich gegen russische Einflussnahme aus",
-      "summary": "Die französische Rechtsextreme Marine Le Pen distanziert sich von Russland. Die Außenpolitik des Landes werde in Paris entschieden, nicht in Moskau, teilte sie mit.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/marine-le-pen-russland-paris-moskau-aussenpolitik-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/marine-le-pen-russland-paris-moskau-aussenpolitik",
-      "published": "Sat, 19 Sep 2026 16:06:58 -0000",
-      "published_display": "19.09.2026 · 16:06 Uhr"
-    },
-    {
-      "title": "Galopprennen: Außenseiter Amigo Charly gewinnt in Hoppegarten",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/aussenseiter-amigo-charly-gewinnt-in-hoppegarten-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/aussenseiter-amigo-charly-gewinnt-in-hoppegarten",
-      "published": "Sat, 19 Sep 2026 15:59:47 -0000",
-      "published_display": "19.09.2026 · 15:59 Uhr"
     }
   ]
 }
