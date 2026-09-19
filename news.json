@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-19T19:53:58.492700+00:00",
+  "updated": "2026-09-19T20:16:47.320378+00:00",
   "items": [
+    {
+      "title": "Basketball: Hamburg kassiert klare Auftaktniederlage",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/hamburg-kassiert-klare-auftaktniederlage-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/hamburg-kassiert-klare-auftaktniederlage",
+      "published": "Sat, 19 Sep 2026 20:05:40 -0000",
+      "published_display": "19.09.2026 · 20:05 Uhr"
+    },
     {
       "title": "Krieg in Nahost: Huthi-Miliz reklamiert Angriffe in Saudi-Arabien",
       "summary": "",
@@ -36,7 +44,7 @@
     },
     {
       "title": "Peter Hermann: Fußball-Co-Trainer Peter Hermann ist tot",
-      "summary": "Als Co-Trainer begleitete er in mehr als 1.000 Spielen verschiedene Vereine und prägte über Jahrzehnte hinweg den deutschen Fußball. Nun ist Peter Hermann gestorben.",
+      "summary": "Als Co-Trainer begleitete er verschiedene Vereine und prägte über Jahrzehnte hinweg den deutschen Fußball. Nun ist Peter Hermann gestorben.",
       "image": "https://img.zeit.de/sport/2026-09/peter-hermann-co-trainer-fussball-bayer-leverkusen-fc-bayern-foto-1/original__640x360",
       "link": "https://www.zeit.de/sport/2026-09/peter-hermann-co-trainer-fussball-bayer-leverkusen-fc-bayern",
       "published": "Sat, 19 Sep 2026 19:21:49 -0000",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/19/freiburgs-siegesserie-reisst-erste-tore-und-punkte-fuer-hsv",
       "published": "Sat, 19 Sep 2026 18:22:59 -0000",
       "published_display": "19.09.2026 · 18:22 Uhr"
-    },
-    {
-      "title": "2. Fußball-Bundesliga: Trainer-Coup perfekt: Hannover 96 holt Sandro Wagner",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/offiziell-sandro-wagner-wird-trainer-von-hannover-96-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/offiziell-sandro-wagner-wird-trainer-von-hannover-96",
-      "published": "Sat, 19 Sep 2026 18:21:19 -0000",
-      "published_display": "19.09.2026 · 18:21 Uhr"
     }
   ]
 }
