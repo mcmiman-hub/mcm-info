@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-19T14:27:50.928731+00:00",
+  "updated": "2026-09-19T14:41:36.591008+00:00",
   "items": [
+    {
+      "title": "Spritpreise: Neuer Trankrabatt - Unterstützung und Kritik aus Brandenburg",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/neuer-trankrabatt-brandenburg-unterstuetzt-entlastungspaket-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/neuer-trankrabatt-brandenburg-unterstuetzt-entlastungspaket",
+      "published": "Sat, 19 Sep 2026 14:38:48 -0000",
+      "published_display": "19.09.2026 · 14:38 Uhr"
+    },
+    {
+      "title": "Brände: Bewohner bei Küchenbrand in Breuberg verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/bewohner-bei-kuechenbrand-in-breuberg-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/bewohner-bei-kuechenbrand-in-breuberg-verletzt",
+      "published": "Sat, 19 Sep 2026 14:28:05 -0000",
+      "published_display": "19.09.2026 · 14:28 Uhr"
+    },
     {
       "title": "Westaustralien: Australische Küstenwache jagt Weißen Hai nach tödlichem Angriff",
       "summary": "Ein Weißer Hai hat einen Schwimmer fünfzig Meter vor einem Strand in Westaustralien tödlich verletzt. Die Behörden ordneten nun an, den Hai zu fangen und zu töten.",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/18/unfall-in-wuppertal-ein-schwerverletzter",
       "published": "Sat, 19 Sep 2026 13:56:43 -0000",
       "published_display": "19.09.2026 · 13:56 Uhr"
-    },
-    {
-      "title": "Abenteuerlicher Polizeieinsatz: Sechs Verletzte bei Verfolgungsfahrt durch zwei Bundesländer",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/sechs-verletzte-bei-verfolgungsfahrt-durch-zwei-bundeslaender-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/sechs-verletzte-bei-verfolgungsfahrt-durch-zwei-bundeslaender",
-      "published": "Sat, 19 Sep 2026 13:53:59 -0000",
-      "published_display": "19.09.2026 · 13:53 Uhr"
-    },
-    {
-      "title": "Wetter: Wind und teilweise Regen in NRW",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/wind-und-teilweise-regen-in-nrw-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/wind-und-teilweise-regen-in-nrw",
-      "published": "Sat, 19 Sep 2026 13:49:53 -0000",
-      "published_display": "19.09.2026 · 13:49 Uhr"
     }
   ]
 }
