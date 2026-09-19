@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-19T11:41:31.997569+00:00",
+  "updated": "2026-09-19T11:54:15.371601+00:00",
   "items": [
+    {
+      "title": "Brände: Zwei Einsätze wegen Fahrzeugbränden in Berlin",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/zwei-einsaetze-wegen-fahrzeugbraenden-in-berlin-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/zwei-einsaetze-wegen-fahrzeugbraenden-in-berlin",
+      "published": "Sat, 19 Sep 2026 11:48:46 -0000",
+      "published_display": "19.09.2026 · 11:48 Uhr"
+    },
+    {
+      "title": "Kritik an Sparmaßnahmen: Demo gegen Reformen bei Lehrerausbildung",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/demo-gegen-reformen-bei-lehrerausbildung-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/demo-gegen-reformen-bei-lehrerausbildung",
+      "published": "Sat, 19 Sep 2026 11:47:24 -0000",
+      "published_display": "19.09.2026 · 11:47 Uhr"
+    },
+    {
+      "title": "Kanzlerkrise: Mahnung zur Geschlossenheit der CDU vor Landtagswahlen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/mahnung-zur-geschlossenheit-der-cdu-vor-landtagswahlen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/mahnung-zur-geschlossenheit-der-cdu-vor-landtagswahlen",
+      "published": "Sat, 19 Sep 2026 11:43:10 -0000",
+      "published_display": "19.09.2026 · 11:43 Uhr"
+    },
     {
       "title": "Wahlkampf in Berlin: Linkenwahlkämpfer in Berlin angegriffen",
       "summary": "Beim Haustürwahlkampf in Charlottenburg sind zwei Wahlkämpfer der Linkspartei angegriffen worden. Einem 36-Jährigen wurde mehrfach ins Gesicht geschlagen.",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/19/hund-beisst-spaziergaenger-in-die-wade-polizei-sucht-zeugen",
       "published": "Sat, 19 Sep 2026 11:05:04 -0000",
       "published_display": "19.09.2026 · 11:05 Uhr"
-    },
-    {
-      "title": "Unfälle: Mit Ampel zusammengeprallt - 44-Jähriger stirbt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/mit-ampel-zusammengeprallt-44-jaehriger-stirbt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/mit-ampel-zusammengeprallt-44-jaehriger-stirbt",
-      "published": "Sat, 19 Sep 2026 11:00:12 -0000",
-      "published_display": "19.09.2026 · 11:00 Uhr"
-    },
-    {
-      "title": "Wahlkampfendspurt: AfD hofft auf Regierungsverantwortung in MV",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/afd-hofft-auf-regierungsverantwortung-in-mv-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/afd-hofft-auf-regierungsverantwortung-in-mv",
-      "published": "Sat, 19 Sep 2026 10:58:26 -0000",
-      "published_display": "19.09.2026 · 10:58 Uhr"
-    },
-    {
-      "title": "Flucht vor Polizei: Autofahrer verunglückt auf Flucht vor dem Zoll",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/autofahrer-verunglueckt-auf-flucht-vor-dem-zoll-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/autofahrer-verunglueckt-auf-flucht-vor-dem-zoll",
-      "published": "Sat, 19 Sep 2026 10:54:36 -0000",
-      "published_display": "19.09.2026 · 10:54 Uhr"
     }
   ]
 }
