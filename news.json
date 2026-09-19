@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-19T06:36:17.455108+00:00",
+  "updated": "2026-09-19T06:48:09.802074+00:00",
   "items": [
+    {
+      "title": "Unfall in Stuttgart: Feuerwehr schneidet Mensch aus Auto nach Frontalzusammenstoß",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/feuerwehr-schneidet-mensch-aus-auto-nach-frontalzusammenstoss-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/feuerwehr-schneidet-mensch-aus-auto-nach-frontalzusammenstoss",
+      "published": "Sat, 19 Sep 2026 06:38:55 -0000",
+      "published_display": "19.09.2026 · 06:38 Uhr"
+    },
+    {
+      "title": "In Baumreihe gefahren: Jugendlicher stirbt bei Autounfall in Oberfranken",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/jugendlicher-stirbt-bei-autounfall-in-oberfranken-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/jugendlicher-stirbt-bei-autounfall-in-oberfranken",
+      "published": "Sat, 19 Sep 2026 06:35:36 -0000",
+      "published_display": "19.09.2026 · 06:35 Uhr"
+    },
     {
       "title": "Stromausfall in Kuba: Neun Millionen Menschen in Kuba erneut ohne Strom",
       "summary": "Seit Monaten gibt es in Kuba wegen einer maroden Infrastruktur und einer US‐Ölblockade nur stundenweise Strom. Nun ist das Stromnetz erneut komplett zusammengebrochen.",
@@ -75,14 +91,6 @@
       "published_display": "19.09.2026 · 04:45 Uhr"
     },
     {
-      "title": "In Baumreihe gefahren: Jugendlicher stirbt bei Autounfall in Oberfranken",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/jugendlicher-stirbt-bei-autounfall-in-oberfranken-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/jugendlicher-stirbt-bei-autounfall-in-oberfranken",
-      "published": "Sat, 19 Sep 2026 04:40:57 -0000",
-      "published_display": "19.09.2026 · 04:40 Uhr"
-    },
-    {
       "title": "Bösebrücke in Berlin: Tödlicher Unfall: Auto stürzt von Brücke auf S-Bahn-Gleise",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-09/19/toedlicher-unfall-auto-stuerzt-von-bruecke-auf-s-bahn-gleise-image-group/original__640x360",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/2026/40/auto-leasing-finanzierung-elektroautos-tesla-volkswagen",
       "published": "Sat, 19 Sep 2026 04:19:24 -0000",
       "published_display": "19.09.2026 · 04:19 Uhr"
-    },
-    {
-      "title": "Spritpreise: Der Tankrabatt kann trotz allem helfen",
-      "summary": "Auch wenn Tankrabatt und Preisdeckel nichts an der Ölknappheit ändern: Es gibt gute Argumente für die Entlastung, nicht nur aus politischen Gründen.",
-      "image": "https://img.zeit.de/wirtschaft/2026-09/spritpreise-entlastungen-bundesregierung-oelpreise-verbraucher-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/2026-09/spritpreise-entlastungen-bundesregierung-oelpreise-verbraucher",
-      "published": "Sat, 19 Sep 2026 04:17:20 -0000",
-      "published_display": "19.09.2026 · 04:17 Uhr"
     }
   ]
 }
