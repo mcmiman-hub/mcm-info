@@ -1,14 +1,22 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-19T06:21:29.036524+00:00",
+  "updated": "2026-09-19T06:36:17.455108+00:00",
   "items": [
+    {
+      "title": "Stromausfall in Kuba: Neun Millionen Menschen in Kuba erneut ohne Strom",
+      "summary": "Seit Monaten gibt es in Kuba wegen einer maroden Infrastruktur und einer US‐Ölblockade nur stundenweise Strom. Nun ist das Stromnetz erneut komplett zusammengebrochen.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/stromausfall-kuba-blackout-stromnetz-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/stromausfall-kuba-blackout-stromnetz",
+      "published": "Sat, 19 Sep 2026 06:26:59 -0000",
+      "published_display": "19.09.2026 · 06:26 Uhr"
+    },
     {
       "title": "Wettervorhersage: Spätsommerliches Wetter zum Wiesn-Start erwartet",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-09/19/spaetsommerliches-wetter-zum-wiesn-start-erwartet-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-09/19/spaetsommerliches-wetter-zum-wiesn-start-erwartet",
-      "published": "Sat, 19 Sep 2026 06:14:19 -0000",
-      "published_display": "19.09.2026 · 06:14 Uhr"
+      "published": "Sat, 19 Sep 2026 06:20:50 -0000",
+      "published_display": "19.09.2026 · 06:20 Uhr"
     },
     {
       "title": "Ungewöhnliche Aktion: Museen können sich bewerben: 1.500 Kunstwerke zu verschenken",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/politik/2026-09/spritpreise-entlastungen-bundesregierung-oelpreise-verbraucher",
       "published": "Sat, 19 Sep 2026 04:17:20 -0000",
       "published_display": "19.09.2026 · 04:17 Uhr"
-    },
-    {
-      "title": "Fußball-Bundesliga: Kanes 100 Tore im Rekordtempo und Olises Premiere",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/kanes-100-tore-im-rekordtempo-und-olises-premiere-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/kanes-100-tore-im-rekordtempo-und-olises-premiere",
-      "published": "Sat, 19 Sep 2026 04:10:04 -0000",
-      "published_display": "19.09.2026 · 04:10 Uhr"
     }
   ]
 }
