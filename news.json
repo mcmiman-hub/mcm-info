@@ -1,7 +1,71 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-19T10:27:58.990837+00:00",
+  "updated": "2026-09-19T10:41:51.622302+00:00",
   "items": [
+    {
+      "title": "Micky Beisenherz: »Am Stammtisch hat man noch eine Kernkompetenz gelernt«",
+      "summary": "In der echten Welt sind die Leute gar nicht so polarisiert, sagt der Komiker Micky Beisenherz. Und er erklärt, warum er politische Unzuverlässigkeit besonders schätzt.",
+      "image": "https://img.zeit.de/feuilleton/2026-09/micky-beisenherz-komiker-demokratie-internet-debatte-bild/original__640x360",
+      "link": "https://www.zeit.de/feuilleton/2026-09/micky-beisenherz-komiker-demokratie-internet-debatte",
+      "published": "Sat, 19 Sep 2026 10:33:09 -0000",
+      "published_display": "19.09.2026 · 10:33 Uhr"
+    },
+    {
+      "title": "Kürbis-Wiegemeisterschaft: Super-Kürbis in Brandenburg gesucht",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/super-kuerbis-in-brandenburg-gesucht-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/super-kuerbis-in-brandenburg-gesucht",
+      "published": "Sat, 19 Sep 2026 10:32:50 -0000",
+      "published_display": "19.09.2026 · 10:32 Uhr"
+    },
+    {
+      "title": "Fußball-Bundesliga: Ein Wiesn-Herz für den 100-Tore-Kane und Hymnen auf Olise",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/kanes-100-tore-im-rekordtempo-und-olises-premiere-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/kanes-100-tore-im-rekordtempo-und-olises-premiere",
+      "published": "Sat, 19 Sep 2026 10:32:41 -0000",
+      "published_display": "19.09.2026 · 10:32 Uhr"
+    },
+    {
+      "title": "Landtagswahl: Putins Beauftragter jubelt AfD vor MV-Wahl zu",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/putins-beauftragter-jubelt-afd-vor-mv-wahl-zu-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/putins-beauftragter-jubelt-afd-vor-mv-wahl-zu",
+      "published": "Sat, 19 Sep 2026 10:31:48 -0000",
+      "published_display": "19.09.2026 · 10:31 Uhr"
+    },
+    {
+      "title": "Zigarettenautomat gesprengt: Zigarettenautomat in Nordhausen gesprengt – Auto beschädigt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/zigarettenautomat-in-nordhausen-gesprengt-auto-beschaedigt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/zigarettenautomat-in-nordhausen-gesprengt-auto-beschaedigt",
+      "published": "Sat, 19 Sep 2026 10:30:42 -0000",
+      "published_display": "19.09.2026 · 10:30 Uhr"
+    },
+    {
+      "title": "Folgenreiche Kontrolle: Autofahrer mit abgelaufenem Führerschein leistet Widerstand",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/autofahrer-mit-abgelaufenem-fuehrerschein-leistet-widerstand-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/autofahrer-mit-abgelaufenem-fuehrerschein-leistet-widerstand",
+      "published": "Sat, 19 Sep 2026 10:28:26 -0000",
+      "published_display": "19.09.2026 · 10:28 Uhr"
+    },
+    {
+      "title": "Wahlen: Plakate beschädigt, Helfer attackiert – rund 500 Vorfälle",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/plakate-beschaedigt-helfer-attackiert-rund-500-vorfaelle-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/plakate-beschaedigt-helfer-attackiert-rund-500-vorfaelle",
+      "published": "Sat, 19 Sep 2026 10:28:26 -0000",
+      "published_display": "19.09.2026 · 10:28 Uhr"
+    },
+    {
+      "title": "Zwei Festnahmen: Auf frischer Tat ertappt: Polizeibeamte stoppen Räuber",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/auf-frischer-tat-ertappt-polizeibeamte-stoppen-raeuber-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/auf-frischer-tat-ertappt-polizeibeamte-stoppen-raeuber",
+      "published": "Sat, 19 Sep 2026 10:26:41 -0000",
+      "published_display": "19.09.2026 · 10:26 Uhr"
+    },
     {
       "title": "Gegen Hauswand gefahren: Autofahrer prallt nach mehreren Kollisionen gegen Hauswand",
       "summary": "",
@@ -11,10 +75,10 @@
       "published_display": "19.09.2026 · 10:24 Uhr"
     },
     {
-      "title": "Konflikt um Grönland: Dänischer Außenminister hofft auf Stabilität durch Grönland-Deal",
-      "summary": "Dänemarks Außenminister geht davon aus, dass Unsicherheiten durch den Grönland-Deal mit den USA beendet werden. Sein grönländischer Amtskollege gibt sich erleichtert.",
+      "title": "Konflikt um Grönland: Dänischer Außenminister hofft auf Stabilität durch Grönlanddeal",
+      "summary": "Dänemarks Außenminister geht davon aus, dass Unsicherheiten durch den Grönlanddeal mit den USA beendet werden. Sein grönländischer Amtskollege gibt sich erleichtert.",
       "image": "https://img.zeit.de/politik/ausland/2026-09/abkommen-daenemark-groenland-usa-nordatlantik-donald-trump-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/abkommen-daenemark-groenland-usa-nordatlantik-donald-trump",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/abkommen-daenemark-groenland-usa-nordatlantik-donald-trump-gxe",
       "published": "Sat, 19 Sep 2026 10:23:53 -0000",
       "published_display": "19.09.2026 · 10:23 Uhr"
     },
@@ -38,7 +102,7 @@
       "title": "Beitragserhöhungen: Carsten Linnemann will wieder Informationspflicht für Krankenkassen",
       "summary": "Gesundheitsminister Linnemann will das Vertrauen in die Krankenkassen stärken. Sie sollen Mitglieder künftig per Post oder App über Beitragserhöhungen informieren.",
       "image": "https://img.zeit.de/politik/2026-09/informationspflicht-krankenkassen-beitragserhoehung-abschaffung-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/2026-09/informationspflicht-krankenkassen-beitragserhoehung-abschaffung",
+      "link": "https://www.zeit.de/politik/2026-09/informationspflicht-krankenkassen-beitragserhoehung-abschaffung-gxe",
       "published": "Sat, 19 Sep 2026 10:12:12 -0000",
       "published_display": "19.09.2026 · 10:12 Uhr"
     },
@@ -57,70 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/19/in-muenchen-beginnt-das-oktoberfest-stadt-im-wiesn-fieber",
       "published": "Sat, 19 Sep 2026 10:06:01 -0000",
       "published_display": "19.09.2026 · 10:06 Uhr"
-    },
-    {
-      "title": "Feuerwehreinsatz: Ein Mensch stirbt bei Feuer in Pflegeeinrichtung in Berlin",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/brand-in-pflegeeinrichtung-in-kreuzberg-verletze-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/brand-in-pflegeeinrichtung-in-kreuzberg-verletze",
-      "published": "Sat, 19 Sep 2026 10:04:54 -0000",
-      "published_display": "19.09.2026 · 10:04 Uhr"
-    },
-    {
-      "title": "Jürgen Klopp: Ich will auch, Kloppo",
-      "summary": "Der neue Bundestrainer nominiert halb Fußballdeutschland für seine ersten Länderspiele. Unser Kolumnist wäre auch gerne dabei.",
-      "image": "https://img.zeit.de/sport/2026-09/juergen-klopp-fussballnationalmannschaft-kader-laenderspiele-fussball-gruenflaeche-bild/original__640x360",
-      "link": "https://www.zeit.de/sport/2026-09/juergen-klopp-fussballnationalmannschaft-kader-laenderspiele-fussball-gruenflaeche",
-      "published": "Sat, 19 Sep 2026 10:02:12 -0000",
-      "published_display": "19.09.2026 · 10:02 Uhr"
-    },
-    {
-      "title": "Feste: 191. Münchner Oktoberfest ist eröffnet",
-      "summary": "",
-      "image": "https://img.zeit.de/administratives/sharing/fallback-image-die-zeit/wide__1300x731",
-      "link": "https://www.zeit.de/news/2026-09/19/191-muenchner-oktoberfest-ist-eroeffnet",
-      "published": "Sat, 19 Sep 2026 10:01:31 -0000",
-      "published_display": "19.09.2026 · 10:01 Uhr"
-    },
-    {
-      "title": "Unfälle: Zehnjährige bei Unfall in Frankfurt verletzt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/zehnjaehrige-bei-unfall-in-frankfurt-verletzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/zehnjaehrige-bei-unfall-in-frankfurt-verletzt",
-      "published": "Sat, 19 Sep 2026 09:55:35 -0000",
-      "published_display": "19.09.2026 · 09:55 Uhr"
-    },
-    {
-      "title": "Pressefreiheit: Medien kritisieren Ausschluss aus dem Weißen Haus",
-      "summary": "Donald Trump möchte CNN, Politico und MS NOW aus dem Weißen Haus verbannen. Die Medien kritisieren den Schritt als Angriff auf die Pressefreiheit.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/donald-trump-cnn-politico-msnow-pressefreiheit-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/2026-09/donald-trump-cnn-politico-msnow-pressefreiheit",
-      "published": "Sat, 19 Sep 2026 09:52:49 -0000",
-      "published_display": "19.09.2026 · 09:52 Uhr"
-    },
-    {
-      "title": "Oktoberfest 2026: Einzug der Wirte und Brauereien - Stopp am Attentats-Mahnmal",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/einzug-der-wirte-und-brauereien-stopp-am-attentats-mahnmal-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/einzug-der-wirte-und-brauereien-stopp-am-attentats-mahnmal",
-      "published": "Sat, 19 Sep 2026 09:51:52 -0000",
-      "published_display": "19.09.2026 · 09:51 Uhr"
-    },
-    {
-      "title": "Film »Naza«: Manche applaudieren, andere verlangen den Tod der Regisseure",
-      "summary": "Selten polarisierte ein Dokumentarfilm so wie »Naza«. Warum dieser Streit am Ende Benjamin Netanjahu helfen könnte.",
-      "image": "https://img.zeit.de/feuilleton/2026-09/doku-naza-israel-gaza-militaer-bild/original__640x360",
-      "link": "https://www.zeit.de/feuilleton/2026-09/doku-naza-israel-gaza-militaer",
-      "published": "Sat, 19 Sep 2026 09:46:39 -0000",
-      "published_display": "19.09.2026 · 09:46 Uhr"
-    },
-    {
-      "title": "Plan D: Der Bustalk: »Ich rege mich inzwischen täglich über Berlin auf«",
-      "summary": "Vor der Berlin-Wahl liegen gleich vier Parteien eng beieinander. Wen wählen? Und warum? Sechs Zufallsfahrgäste sprechen in unserem Talkbus über ihre Wahlentscheidung.",
-      "image": "https://img.zeit.de/politik/2026-09/wahl-berlin-abgeordnetenhaus-wahlentscheidung-bild/original__640x360",
-      "link": "https://www.zeit.de/video/2026-09/wahl-berlin-abgeordnetenhaus-wahlentscheidung",
-      "published": "Sat, 19 Sep 2026 09:41:32 -0000",
-      "published_display": "19.09.2026 · 09:41 Uhr"
     }
   ]
 }
