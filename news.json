@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-19T04:42:42.686843+00:00",
+  "updated": "2026-09-19T04:54:18.528407+00:00",
   "items": [
+    {
+      "title": "Demokratische Republik Kongo: Ebola-Epidemie weitet sich laut Ärzten auf neue Regionen aus",
+      "summary": "Die Organisation Ärzte ohne Grenzen widerspricht der WHO: Die Ebola-Epidemie im Kongo ebbt demnach keineswegs ab, sondern verlagert sich.",
+      "image": "https://img.zeit.de/administratives/sharing/fallback-image-die-zeit/wide__1300x731",
+      "link": "https://www.zeit.de/gesundheit/2026-09/ebola-dr-kongo-aerzte-ohne-grenzen-epidemie-ausbreitung",
+      "published": "Sat, 19 Sep 2026 04:46:50 -0000",
+      "published_display": "19.09.2026 · 04:46 Uhr"
+    },
+    {
+      "title": "Künstliche Intelligenz: Googles KI Gemini hackte ebenfalls andere Unternehmen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/googles-ki-gemini-hackte-ebenfalls-andere-unternehmen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/googles-ki-gemini-hackte-ebenfalls-andere-unternehmen",
+      "published": "Sat, 19 Sep 2026 04:45:27 -0000",
+      "published_display": "19.09.2026 · 04:45 Uhr"
+    },
+    {
+      "title": "In Baumreihe gefahren: Jugendlicher stirbt bei Autounfall in Oberfranken",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/jugendlicher-stirbt-bei-autounfall-in-oberfranken-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/jugendlicher-stirbt-bei-autounfall-in-oberfranken",
+      "published": "Sat, 19 Sep 2026 04:40:57 -0000",
+      "published_display": "19.09.2026 · 04:40 Uhr"
+    },
     {
       "title": "Bösebrücke in Berlin: Tödlicher Unfall: Auto stürzt von Brücke auf S-Bahn-Gleise",
       "summary": "",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/19/walfisch-und-briefwaage-neue-toene-vom-komponisten-nachwuchs",
       "published": "Sat, 19 Sep 2026 04:00:04 -0000",
       "published_display": "19.09.2026 · 04:00 Uhr"
-    },
-    {
-      "title": "Fußball-Bundesliga: «Positiv bleiben»: Union-Kapitän mahnt nach Rekordniederlage",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/positiv-bleiben-union-kapitaen-mahnt-nach-rekordniederlage-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/positiv-bleiben-union-kapitaen-mahnt-nach-rekordniederlage",
-      "published": "Sat, 19 Sep 2026 03:55:04 -0000",
-      "published_display": "19.09.2026 · 03:55 Uhr"
-    },
-    {
-      "title": "EU-Asylreform: Deutschland entscheidet Mehrheit der Asylanträge im Schnellverfahren",
-      "summary": "Die Asylreform der Europäischen Union zeigt Wirkung. Im Juni und Juli wurden Anträge auf Schutz in Deutschland mehrheitlich mit höherem Tempo bearbeitet als bisher.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/eu-asylreform-schnellverfahren-grenzverfahren-asylverfahren-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/eu-asyl-reform-bundesregierung-anfrage-linkspartei-schnellverfahren",
-      "published": "Sat, 19 Sep 2026 03:51:53 -0000",
-      "published_display": "19.09.2026 · 03:51 Uhr"
-    },
-    {
-      "title": "Wetterbericht: Sonniger Spätsommer – bis zu 28 Grad am Wochenende",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/sonniger-spaetsommer-bis-zu-28-grad-am-wochenende-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/sonniger-spaetsommer-bis-zu-28-grad-am-wochenende",
-      "published": "Sat, 19 Sep 2026 03:30:06 -0000",
-      "published_display": "19.09.2026 · 03:30 Uhr"
     }
   ]
 }
