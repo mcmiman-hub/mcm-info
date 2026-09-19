@@ -1,14 +1,30 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-19T18:54:14.552056+00:00",
+  "updated": "2026-09-19T19:13:56.987122+00:00",
   "items": [
     {
-      "title": "Fußball-Bundesliga: Trauer um den Co-Trainer Deutschlands: Peter Hermann ist tot",
+      "title": "Festival in San Sebastián: Naomi Watts wird mit Filmpreis für ihr Lebenswerk geehrt",
+      "summary": "Beim Festival von San Sebastián erhält Schauspielerin Naomi Watts den Donostia-Preis. Berühmt wurde sie mit ihren Rollen in den Filmen »Mulholland Drive« und 21 Gramm«.",
+      "image": "https://img.zeit.de/feuilleton/film/2026-09/imago0867269908h/original__640x360",
+      "link": "https://www.zeit.de/feuilleton/film/2026-09/naomi-watts-film-festival-san-sebastian",
+      "published": "Sat, 19 Sep 2026 18:59:56 -0000",
+      "published_display": "19.09.2026 · 18:59 Uhr"
+    },
+    {
+      "title": "Fußball-Bundesliga: Dank Beier: BVB siegt beim VfB und übernimmt Tabellenführung",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/dank-beier-bvb-siegt-beim-vfb-und-uebernimmt-tabellenfuehrung-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/dank-beier-bvb-siegt-beim-vfb-und-uebernimmt-tabellenfuehrung",
+      "published": "Sat, 19 Sep 2026 18:56:21 -0000",
+      "published_display": "19.09.2026 · 18:56 Uhr"
+    },
+    {
+      "title": "Fußball: Trauer um den Co-Trainer Deutschlands: Peter Hermann ist tot",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-09/19/trauer-um-den-co-trainer-deutschlands-peter-hermann-ist-tot-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-09/19/trauer-um-den-co-trainer-deutschlands-peter-hermann-ist-tot",
-      "published": "Sat, 19 Sep 2026 18:46:35 -0000",
-      "published_display": "19.09.2026 · 18:46 Uhr"
+      "published": "Sat, 19 Sep 2026 18:55:25 -0000",
+      "published_display": "19.09.2026 · 18:55 Uhr"
     },
     {
       "title": "Gegen Vizeweltmeister: Volleyballer stehen nach Fünf-Satz-Krimi im EM-Viertelfinale",
@@ -67,14 +83,6 @@
       "published_display": "19.09.2026 · 18:22 Uhr"
     },
     {
-      "title": "Fußball-Bundesliga: Dank Beier: BVB siegt beim VfB und übernimmt Tabellenführung",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/dank-beier-bvb-siegt-beim-vfb-und-uebernimmt-tabellenfuehrung-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/dank-beier-bvb-siegt-beim-vfb-und-uebernimmt-tabellenfuehrung",
-      "published": "Sat, 19 Sep 2026 18:22:19 -0000",
-      "published_display": "19.09.2026 · 18:22 Uhr"
-    },
-    {
       "title": "2. Fußball-Bundesliga: Trainer-Coup perfekt: Hannover 96 holt Sandro Wagner",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-09/19/offiziell-sandro-wagner-wird-trainer-von-hannover-96-image-group/original__640x360",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/campus/ratgeber/2026/03/berg-erholung-stress-entspannung-wandern-alpen",
       "published": "Sat, 19 Sep 2026 18:12:02 -0000",
       "published_display": "19.09.2026 · 18:12 Uhr"
-    },
-    {
-      "title": "Begräbnisse auf Baltrum: Der Club der Totengräber",
-      "summary": "Auf der Insel Baltrum gibt es keinen Bestatter. Hier beerdigen die Bewohner selbst. Ihre Nachbarn. Ihren Freund. Ihren Vater. Ihren Sohn. Das klappt gut, meistens.",
-      "image": "https://img.zeit.de/2026/40/der-club-der-totengraeber-bild-5/original__640x360",
-      "link": "https://www.zeit.de/2026/40/bestatter-baltrum-totenfuersorge-beerdigung-nordsee",
-      "published": "Sat, 19 Sep 2026 18:03:41 -0000",
-      "published_display": "19.09.2026 · 18:03 Uhr"
     }
   ]
 }
