@@ -1,7 +1,71 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-19T03:54:27.183186+00:00",
+  "updated": "2026-09-19T04:17:13.308235+00:00",
   "items": [
+    {
+      "title": "Fußball-Bundesliga: Kanes 100 Tore im Rekordtempo und Olises Premiere",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/kanes-100-tore-im-rekordtempo-und-olises-premiere-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/kanes-100-tore-im-rekordtempo-und-olises-premiere",
+      "published": "Sat, 19 Sep 2026 04:10:04 -0000",
+      "published_display": "19.09.2026 · 04:10 Uhr"
+    },
+    {
+      "title": "Authentizität: Hat Natalie Portman keine Seele?",
+      "summary": "Rachel Cusk provoziert mit ihrem neuen Buch eine Debatte über die Grenzen der literarischen Freiheit. Und: Clemens J. Setz schreibt grandios über Nerds und das Internet.",
+      "image": "https://img.zeit.de/feuilleton/2026-09/authentizitaet-rachel-cusk-clemens-j-setz-buecherpodcast-bild/original__640x360",
+      "link": "https://www.zeit.de/feuilleton/2026-09/authentizitaet-rachel-cusk-clemens-j-setz-buecherpodcast",
+      "published": "Sat, 19 Sep 2026 04:05:07 -0000",
+      "published_display": "19.09.2026 · 04:05 Uhr"
+    },
+    {
+      "title": "Unfall in Eifel: Auto fährt gegen Baum – mindestens ein Schwerverletzter",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/auto-faehrt-gegen-baum-mindestens-ein-schwerverletzter-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/auto-faehrt-gegen-baum-mindestens-ein-schwerverletzter",
+      "published": "Sat, 19 Sep 2026 04:03:12 -0000",
+      "published_display": "19.09.2026 · 04:03 Uhr"
+    },
+    {
+      "title": "Abgeordnetenhauswahl in Berlin: Warum die Linkspartei Chancen aufs Rote Rathaus hat",
+      "summary": "Bei der Berlinwahl liegen Linke und CDU in den Umfragen eng beieinander. Welche Koalitionen wären nach der Wahl möglich? Und: Wie Eisbären mit dem Klimawandel leben.",
+      "image": "https://img.zeit.de/politik/2026-09/abgeordnetenhauswahl-berlin-die-linke-cdu/original__640x360",
+      "link": "https://www.zeit.de/politik/2026-09/abgeordnetenhauswahl-berlin-die-linke-cdu-nachrichtenpodcast",
+      "published": "Sat, 19 Sep 2026 04:00:10 -0000",
+      "published_display": "19.09.2026 · 04:00 Uhr"
+    },
+    {
+      "title": "Politische Akademie: AfD fördert Nachwuchs – Ziel: politische Verantwortung",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/afd-foerdert-nachwuchs-ziel-politische-verantwortung-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/afd-foerdert-nachwuchs-ziel-politische-verantwortung",
+      "published": "Sat, 19 Sep 2026 04:00:07 -0000",
+      "published_display": "19.09.2026 · 04:00 Uhr"
+    },
+    {
+      "title": "Schifffahrt: Wirtschaft sieht Seehäfen zunehmend Bedrohungen ausgesetzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/wirtschaft-sieht-seehaefen-zunehmend-bedrohungen-ausgesetzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/wirtschaft-sieht-seehaefen-zunehmend-bedrohungen-ausgesetzt",
+      "published": "Sat, 19 Sep 2026 04:00:07 -0000",
+      "published_display": "19.09.2026 · 04:00 Uhr"
+    },
+    {
+      "title": "Musikausbildung: Walfisch und Briefwaage: Neue Töne vom Komponisten-Nachwuchs",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/walfisch-und-briefwaage-neue-toene-vom-komponisten-nachwuchs-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/walfisch-und-briefwaage-neue-toene-vom-komponisten-nachwuchs",
+      "published": "Sat, 19 Sep 2026 04:00:04 -0000",
+      "published_display": "19.09.2026 · 04:00 Uhr"
+    },
+    {
+      "title": "Fußball-Bundesliga: «Positiv bleiben»: Union-Kapitän mahnt nach Rekordniederlage",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/positiv-bleiben-union-kapitaen-mahnt-nach-rekordniederlage-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/positiv-bleiben-union-kapitaen-mahnt-nach-rekordniederlage",
+      "published": "Sat, 19 Sep 2026 03:55:04 -0000",
+      "published_display": "19.09.2026 · 03:55 Uhr"
+    },
     {
       "title": "EU-Asylreform: Deutschland entscheidet Mehrheit der Asylanträge im Schnellverfahren",
       "summary": "Die Asylreform der Europäischen Union zeigt Wirkung. Im Juni und Juli wurden Anträge auf Schutz in Deutschland mehrheitlich mit höherem Tempo bearbeitet als bisher.",
@@ -57,70 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/19/tarifstreit-bei-stadtbussen-madsen-mahnt-augenmass-an",
       "published": "Sat, 19 Sep 2026 03:00:09 -0000",
       "published_display": "19.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Bilanz der Landesregierung: Ministerium: 339 Hektar im Hürtgenwald verbrannt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/ministerium-339-hektar-im-huertgenwald-verbrannt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/ministerium-339-hektar-im-huertgenwald-verbrannt",
-      "published": "Sat, 19 Sep 2026 03:00:08 -0000",
-      "published_display": "19.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Bitcoin und Co.: Scharfer Wettbewerb: Volksbanken öffnen sich für Krypto",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/scharfer-wettbewerb-volksbanken-oeffnen-sich-fuer-krypto-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/scharfer-wettbewerb-volksbanken-oeffnen-sich-fuer-krypto",
-      "published": "Sat, 19 Sep 2026 03:00:06 -0000",
-      "published_display": "19.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Geflohener Betrüger: Fall Hendrik Holt - ist Offener Vollzug der richtige Weg?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/fall-hendrik-holt-ist-offener-vollzug-der-richtige-weg-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/fall-hendrik-holt-ist-offener-vollzug-der-richtige-weg",
-      "published": "Sat, 19 Sep 2026 03:00:05 -0000",
-      "published_display": "19.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Preisexplosion an den Märkten: Öl und Gas: Drohen den Kunden hohe Heizkosten im Winter?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/oel-und-gas-drohen-den-kunden-hohe-heizkosten-im-winter-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/oel-und-gas-drohen-den-kunden-hohe-heizkosten-im-winter",
-      "published": "Sat, 19 Sep 2026 03:00:04 -0000",
-      "published_display": "19.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Seit sechs Jahren vermisst: Scarletts Vater: «Ein Verbrechen wäre das Schlimmste»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/scarletts-vater-ein-verbrechen-waere-das-schlimmste-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/scarletts-vater-ein-verbrechen-waere-das-schlimmste",
-      "published": "Sat, 19 Sep 2026 02:30:05 -0000",
-      "published_display": "19.09.2026 · 02:30 Uhr"
-    },
-    {
-      "title": "Angespannter Wohnungsmarkt: Berliner Wohnungskrise: Vonovia will «Teil der Lösung» sein",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/berliner-wohnungskrise-vonovia-will-teil-der-loesung-sein-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/berliner-wohnungskrise-vonovia-will-teil-der-loesung-sein",
-      "published": "Sat, 19 Sep 2026 02:30:05 -0000",
-      "published_display": "19.09.2026 · 02:30 Uhr"
-    },
-    {
-      "title": "Neues EU-Asylrecht: Asylrechtsreform: Mehrheit kommt jetzt ins Schnellverfahren",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/asylrechtsreform-mehrheit-kommt-jetzt-ins-schnellverfahren-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/asylrechtsreform-mehrheit-kommt-jetzt-ins-schnellverfahren",
-      "published": "Sat, 19 Sep 2026 02:15:05 -0000",
-      "published_display": "19.09.2026 · 02:15 Uhr"
-    },
-    {
-      "title": "Vattenfall: Vattenfall-Manager: Brauchen ein neues Wort für Energiewende",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/vattenfall-manager-brauchen-ein-neues-wort-fuer-energiewende-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/vattenfall-manager-brauchen-ein-neues-wort-fuer-energiewende",
-      "published": "Sat, 19 Sep 2026 02:15:04 -0000",
-      "published_display": "19.09.2026 · 02:15 Uhr"
     }
   ]
 }
