@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-19T08:30:43.916687+00:00",
+  "updated": "2026-09-19T08:43:09.621714+00:00",
   "items": [
+    {
+      "title": "Vorfahrt missachtet: E-Scooter-Fahrer nach Zusammenstoß mit Auto in Lebensgefahr",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/e-scooter-fahrer-nach-zusammenstoss-mit-auto-in-lebensgefahr-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/e-scooter-fahrer-nach-zusammenstoss-mit-auto-in-lebensgefahr",
+      "published": "Sat, 19 Sep 2026 08:34:57 -0000",
+      "published_display": "19.09.2026 · 08:34 Uhr"
+    },
+    {
+      "title": "Messerangriff: Messerattacke in Chemnitz: Tatverdächtiger weiter flüchtig",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/messerattacke-in-chemnitz-tatverdaechtiger-weiter-fluechtig-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/messerattacke-in-chemnitz-tatverdaechtiger-weiter-fluechtig",
+      "published": "Sat, 19 Sep 2026 08:32:04 -0000",
+      "published_display": "19.09.2026 · 08:32 Uhr"
+    },
+    {
+      "title": "Brände: Zwei Einsätze wegen Fahrzeugbränden in Berlin",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/zwei-einsaetze-wegen-fahrzeugbraenden-in-berlin-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/zwei-einsaetze-wegen-fahrzeugbraenden-in-berlin",
+      "published": "Sat, 19 Sep 2026 08:30:31 -0000",
+      "published_display": "19.09.2026 · 08:30 Uhr"
+    },
     {
       "title": "Todesstrafen im Iran: Mann im Iran wegen angeblicher Spionage für Israel hingerichtet",
       "summary": "Die iranische Justiz hat einen Mann zum Tode verurteilt, dem sie Spionage für Israel vorwirft. Er soll dem Mossad Informationen über iranische Raketen gegeben haben.",
@@ -75,7 +99,7 @@
       "published_display": "19.09.2026 · 08:10 Uhr"
     },
     {
-      "title": "Tankrabatt: Was bringen Tankrabatt und Preisdeckel?",
+      "title": "Spritpreise: Was bringen Tankrabatt und Preisdeckel?",
       "summary": "Die Koalition hat sich auf Maßnahmen geeinigt, die die Spritpreise senken sollen. Ein Instrument ist bekannt, eines ist neu.",
       "image": "https://img.zeit.de/politik/deutschland/2026-09/spritpreise-bundesregierung-tankrabatt-preisdeckel-bild/original__640x360",
       "link": "https://www.zeit.de/politik/2026-09/spritpreise-bundesregierung-tankrabatt-preisdeckel",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/19/gaskocher-unfall-einjaehriges-kind-und-eltern-verletzt",
       "published": "Sat, 19 Sep 2026 08:04:09 -0000",
       "published_display": "19.09.2026 · 08:04 Uhr"
-    },
-    {
-      "title": "Wetter: Erst Sonne, dann Regen in Rheinland-Pfalz und Saarland",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/erst-sonne-dann-regen-in-rheinland-pfalz-und-saarland-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/erst-sonne-dann-regen-in-rheinland-pfalz-und-saarland",
-      "published": "Sat, 19 Sep 2026 07:54:44 -0000",
-      "published_display": "19.09.2026 · 07:54 Uhr"
-    },
-    {
-      "title": "Fußball-Bundesliga: Ballon d'or: Eberls Yamal-Spitze und Kanes ruhige Reaktion",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/ballon-d-or-eberls-yamal-spitze-und-kanes-ruhige-reaktion-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/ballon-d-or-eberls-yamal-spitze-und-kanes-ruhige-reaktion",
-      "published": "Sat, 19 Sep 2026 07:40:58 -0000",
-      "published_display": "19.09.2026 · 07:40 Uhr"
-    },
-    {
-      "title": "Unfall in Stuttgart: Feuerwehr schneidet Mensch aus Auto nach Frontalzusammenstoß",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/feuerwehr-schneidet-mensch-aus-auto-nach-frontalzusammenstoss-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/feuerwehr-schneidet-mensch-aus-auto-nach-frontalzusammenstoss",
-      "published": "Sat, 19 Sep 2026 07:35:28 -0000",
-      "published_display": "19.09.2026 · 07:35 Uhr"
     }
   ]
 }
