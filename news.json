@@ -1,7 +1,71 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-19T08:54:41.619130+00:00",
+  "updated": "2026-09-19T09:16:53.971077+00:00",
   "items": [
+    {
+      "title": "Fotografie: Bilder des Tages",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/bilder-des-tages-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/bilder-des-tages",
+      "published": "Sat, 19 Sep 2026 09:12:30 -0000",
+      "published_display": "19.09.2026 · 09:12 Uhr"
+    },
+    {
+      "title": "Spritpreise: Tonne für europäisches Vorgehen bei Übergewinnsteuer",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/tonne-fuer-europaeisches-vorgehen-bei-uebergewinnsteuer-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/tonne-fuer-europaeisches-vorgehen-bei-uebergewinnsteuer",
+      "published": "Sat, 19 Sep 2026 09:08:30 -0000",
+      "published_display": "19.09.2026 · 09:08 Uhr"
+    },
+    {
+      "title": "Triumph: Straßen-WM: Farken rennt zu Gold über die Meile",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/strassen-wm-farken-rennt-zu-gold-ueber-die-meile-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/strassen-wm-farken-rennt-zu-gold-ueber-die-meile",
+      "published": "Sat, 19 Sep 2026 09:06:15 -0000",
+      "published_display": "19.09.2026 · 09:06 Uhr"
+    },
+    {
+      "title": "Plenarsitzung im Rathaus: Tom Tykwer über die «Babylon Berlin»-Dreharbeiten in Hamburg",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/tom-tykwer-ueber-die-babylon-berlin-dreharbeiten-in-hamburg-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/tom-tykwer-ueber-die-babylon-berlin-dreharbeiten-in-hamburg",
+      "published": "Sat, 19 Sep 2026 09:05:30 -0000",
+      "published_display": "19.09.2026 · 09:05 Uhr"
+    },
+    {
+      "title": "Wetter: Wann im Nordwesten Gewitter zu erwarten sind",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/wann-im-nordwesten-gewitter-zu-erwarten-sind-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/wann-im-nordwesten-gewitter-zu-erwarten-sind",
+      "published": "Sat, 19 Sep 2026 09:00:09 -0000",
+      "published_display": "19.09.2026 · 09:00 Uhr"
+    },
+    {
+      "title": "Landtagswahl in MV: Was man über die Wahl im Nordosten wissen sollte",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/was-man-ueber-die-wahl-im-nordosten-wissen-sollte-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/was-man-ueber-die-wahl-im-nordosten-wissen-sollte",
+      "published": "Sat, 19 Sep 2026 09:00:04 -0000",
+      "published_display": "19.09.2026 · 09:00 Uhr"
+    },
+    {
+      "title": "Trinkwasserversorgung: Keime im Wasser in Märkisch-Oderland: Abkochgebot bleibt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/keime-im-wasser-in-maerkisch-oderland-abkochgebot-bleibt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/keime-im-wasser-in-maerkisch-oderland-abkochgebot-bleibt",
+      "published": "Sat, 19 Sep 2026 08:56:11 -0000",
+      "published_display": "19.09.2026 · 08:56 Uhr"
+    },
+    {
+      "title": "Feuerwehreinsatz: Brand in Pflegeeinrichtung in Kreuzberg - Verletze",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/brand-in-pflegeeinrichtung-in-kreuzberg-verletze-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/brand-in-pflegeeinrichtung-in-kreuzberg-verletze",
+      "published": "Sat, 19 Sep 2026 08:55:56 -0000",
+      "published_display": "19.09.2026 · 08:55 Uhr"
+    },
     {
       "title": "Todesstrafen im Iran: Mann im Iran wegen angeblicher Spionage für Israel hingerichtet",
       "summary": "Die iranische Justiz hat einen Mann zum Tode verurteilt, dem sie Spionage für Israel vorwirft. Er soll dem Mossad Informationen über iranische Raketen gegeben haben.",
@@ -20,7 +84,7 @@
     },
     {
       "title": "F-35 für die Bundeswehr: Mit einer Überdosis Pathos",
-      "summary": "Die Übergabe des ersten deutschen F-35-Kampfflugzeugs gerät zu einer martialischen Waffenshow, die Boris Pistorius mitreißt. Ganz im Gegensatz zu zu seinem UN-Besuch.",
+      "summary": "Die Übergabe des ersten deutschen F-35-Kampfflugzeugs gerät zu einer martialischen Waffenshow, die Boris Pistorius mitreißt. Ganz im Gegensatz zu seinem UN-Besuch",
       "image": "https://img.zeit.de/politik/2026-09/f-35-bundeswehr-verteidigung-boris-pistorius-texas-usa-bild/original__640x360",
       "link": "https://www.zeit.de/politik/2026-09/f-35-bundeswehr-verteidigung-boris-pistorius-texas-usa",
       "published": "Sat, 19 Sep 2026 08:45:46 -0000",
@@ -57,70 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/19/zwei-einsaetze-wegen-fahrzeugbraenden-in-berlin",
       "published": "Sat, 19 Sep 2026 08:30:31 -0000",
       "published_display": "19.09.2026 · 08:30 Uhr"
-    },
-    {
-      "title": "Streit schaukelt sich hoch: Fahrzeug mit Mängeln? Streit in Autohaus eskaliert komplett",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/fahrzeug-mit-maengeln-streit-in-autohaus-eskaliert-komplett-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/fahrzeug-mit-maengeln-streit-in-autohaus-eskaliert-komplett",
-      "published": "Sat, 19 Sep 2026 08:26:45 -0000",
-      "published_display": "19.09.2026 · 08:26 Uhr"
-    },
-    {
-      "title": "Sechs Pistolen gefunden: Jugendliche sorgen mit Softair-Waffen für Polizeieinsatz",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/jugendliche-sorgen-mit-softair-waffen-fuer-polizeieinsatz-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/jugendliche-sorgen-mit-softair-waffen-fuer-polizeieinsatz",
-      "published": "Sat, 19 Sep 2026 08:24:12 -0000",
-      "published_display": "19.09.2026 · 08:24 Uhr"
-    },
-    {
-      "title": "Randale in Tankstelle: Mann wirft Bierdosen auf Verkäufer und demoliert Kasse",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/mann-wirft-bierdosen-auf-verkaeufer-und-demoliert-kasse-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/mann-wirft-bierdosen-auf-verkaeufer-und-demoliert-kasse",
-      "published": "Sat, 19 Sep 2026 08:16:37 -0000",
-      "published_display": "19.09.2026 · 08:16 Uhr"
-    },
-    {
-      "title": "Tarifverhandlungen: Wieder Streik bei Stadtbussen: Was Fahrgäste wissen müssen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/wieder-streik-bei-stadtbussen-was-fahrgaeste-wissen-muessen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/wieder-streik-bei-stadtbussen-was-fahrgaeste-wissen-muessen",
-      "published": "Sat, 19 Sep 2026 08:15:05 -0000",
-      "published_display": "19.09.2026 · 08:15 Uhr"
-    },
-    {
-      "title": "Wetter: Nach heiterem Start wird das Wochenende unbeständig",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/nach-heiterem-start-wird-das-wochenende-unbestaendig-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/nach-heiterem-start-wird-das-wochenende-unbestaendig",
-      "published": "Sat, 19 Sep 2026 08:15:04 -0000",
-      "published_display": "19.09.2026 · 08:15 Uhr"
-    },
-    {
-      "title": "Bösebrücke in Berlin: Tödlicher Unfall: Auto stürzt von Brücke auf S-Bahn-Gleise",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/toedlicher-unfall-auto-stuerzt-von-bruecke-auf-s-bahn-gleise-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/toedlicher-unfall-auto-stuerzt-von-bruecke-auf-s-bahn-gleise",
-      "published": "Sat, 19 Sep 2026 08:14:07 -0000",
-      "published_display": "19.09.2026 · 08:14 Uhr"
-    },
-    {
-      "title": "Fotografie: Bilder des Tages",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/bilder-des-tages-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/bilder-des-tages",
-      "published": "Sat, 19 Sep 2026 08:13:28 -0000",
-      "published_display": "19.09.2026 · 08:13 Uhr"
-    },
-    {
-      "title": "Mautprozess: Ex-Minister Scheuer wehrt sich gegen Lügenvorwurf bei Mautverträgen",
-      "summary": "Die gescheiterte Pkw-Maut hat für den ehemaligen Verkehrsminister ein juristisches Nachspiel. Er soll im Untersuchungsausschuss falsch ausgesagt haben.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/andreas-scheuer-csu-anklage-falschaussage-pkw-maut-gerhard-schulz-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/andreas-scheuer-csu-anklage-falschaussage-pkw-maut-gerhard-schulz-gxe",
-      "published": "Sat, 19 Sep 2026 08:10:18 -0000",
-      "published_display": "19.09.2026 · 08:10 Uhr"
     }
   ]
 }
