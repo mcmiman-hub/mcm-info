@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-19T07:41:57.000573+00:00",
+  "updated": "2026-09-19T07:54:06.722306+00:00",
   "items": [
+    {
+      "title": "Fußball-Bundesliga: Ballon d'or: Eberls Yamal-Spitze und Kanes ruhige Reaktion",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/ballon-d-or-eberls-yamal-spitze-und-kanes-ruhige-reaktion-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/ballon-d-or-eberls-yamal-spitze-und-kanes-ruhige-reaktion",
+      "published": "Sat, 19 Sep 2026 07:40:58 -0000",
+      "published_display": "19.09.2026 · 07:40 Uhr"
+    },
     {
       "title": "Unfall in Stuttgart: Feuerwehr schneidet Mensch aus Auto nach Frontalzusammenstoß",
       "summary": "",
@@ -75,7 +83,7 @@
       "published_display": "19.09.2026 · 07:16 Uhr"
     },
     {
-      "title": "Maut-Prozess: Ex-Minister Scheuer wehrt sich gegen Lügenvorwurf bei Mautverträgen",
+      "title": "Mautprozess: Ex-Minister Scheuer wehrt sich gegen Lügenvorwurf bei Mautverträgen",
       "summary": "Die gescheiterte Pkw-Maut hat für den ehemaligen Verkehrsminister ein juristisches Nachspiel. Er soll im Untersuchungsausschuss falsch ausgesagt haben.",
       "image": "https://img.zeit.de/politik/deutschland/2026-09/andreas-scheuer-csu-anklage-falschaussage-pkw-maut-gerhard-schulz-foto-1/original__640x360",
       "link": "https://www.zeit.de/politik/deutschland/2026-09/andreas-scheuer-csu-anklage-falschaussage-pkw-maut-gerhard-schulz",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/19/auto-landet-in-gleisbett-fahrer-stirbt",
       "published": "Sat, 19 Sep 2026 06:57:40 -0000",
       "published_display": "19.09.2026 · 06:57 Uhr"
-    },
-    {
-      "title": "Wettervorhersage: Spätsommerliches Wetter zum Wiesn-Start erwartet",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/spaetsommerliches-wetter-zum-wiesn-start-erwartet-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/spaetsommerliches-wetter-zum-wiesn-start-erwartet",
-      "published": "Sat, 19 Sep 2026 06:20:50 -0000",
-      "published_display": "19.09.2026 · 06:20 Uhr"
     }
   ]
 }
