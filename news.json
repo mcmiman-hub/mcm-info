@@ -1,10 +1,26 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-19T16:28:40.968790+00:00",
+  "updated": "2026-09-19T16:42:46.601811+00:00",
   "items": [
     {
+      "title": "Landtagswahl in MV: AfD zum Wahlkampfabschluss in MV siegessicher",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/afd-zum-wahlkampfabschluss-in-mv-siegessicher-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/afd-zum-wahlkampfabschluss-in-mv-siegessicher",
+      "published": "Sat, 19 Sep 2026 16:34:43 -0000",
+      "published_display": "19.09.2026 · 16:34 Uhr"
+    },
+    {
+      "title": "Deutschland in der Nato: Deutscher General wird Chef von Nato-Militärausschuss",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/deutscher-general-wird-chef-von-nato-militaerausschuss-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/deutscher-general-wird-chef-von-nato-militaerausschuss",
+      "published": "Sat, 19 Sep 2026 16:32:11 -0000",
+      "published_display": "19.09.2026 · 16:32 Uhr"
+    },
+    {
       "title": "Carsten Breuer: Deutscher General wird Vorsitzender des Nato-Militärausschusses",
-      "summary": "Carsten Breuer ist zum neuen Vorsitzenden des Militärausschusses der Nato gewählt worden. Der Generalinspektor der Bundeswehr tritt das Amt im Juli 2027 an.",
+      "summary": "Carsten Breuer ist zum neuen Vorsitzenden des Militärausschusses der Nato gewählt worden. Der Generalinspekteur der Bundeswehr tritt das Amt im Juli 2027 an.",
       "image": "https://img.zeit.de/politik/2026-09/nato-carsten-breuer-vorsitzender-militaerausschuss-foto/original__640x360",
       "link": "https://www.zeit.de/politik/ausland/2026-09/carsten-breuer-nato-militaerausschuss",
       "published": "Sat, 19 Sep 2026 16:26:33 -0000",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/19/evers-attackiert-die-linke-welten-liegen-zwischen-uns",
       "published": "Sat, 19 Sep 2026 15:49:30 -0000",
       "published_display": "19.09.2026 · 15:49 Uhr"
-    },
-    {
-      "title": "Eröffnung im Norden: 46 Millionen Euro Investition: Coherent eröffnet Neubau",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/46-millionen-euro-investition-coherent-eroeffnet-neubau-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/46-millionen-euro-investition-coherent-eroeffnet-neubau",
-      "published": "Sat, 19 Sep 2026 15:49:12 -0000",
-      "published_display": "19.09.2026 · 15:49 Uhr"
-    },
-    {
-      "title": "Gewalt unter Fangruppen: Polizei unterbindet Fan-Auseinandersetzungen in Kiel",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/polizei-unterbindet-fan-auseinandersetzungen-in-kiel-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/polizei-unterbindet-fan-auseinandersetzungen-in-kiel",
-      "published": "Sat, 19 Sep 2026 15:45:30 -0000",
-      "published_display": "19.09.2026 · 15:45 Uhr"
     }
   ]
 }
