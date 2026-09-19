@@ -1,20 +1,116 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-19T14:54:09.914252+00:00",
+  "updated": "2026-09-19T15:16:07.623021+00:00",
   "items": [
+    {
+      "title": "Authentizität: Hat Natalie Portman keine Seele?",
+      "summary": "Rachel Cusk provoziert mit ihrem neuen Buch eine Debatte über die Grenzen der literarischen Freiheit. Und: Clemens J. Setz schreibt grandios über Nerds und das Internet.",
+      "image": "https://img.zeit.de/feuilleton/2026-09/authentizitaet-rachel-cusk-clemens-j-setz-buecherpodcast-bild/original__640x360",
+      "link": "https://www.zeit.de/feuilleton/2026-09/authentizitaet-rachel-cusk-clemens-j-setz-buecherpodcast",
+      "published": "Sat, 19 Sep 2026 15:06:42 -0000",
+      "published_display": "19.09.2026 · 15:06 Uhr"
+    },
+    {
+      "title": "Verity: Dieser Smiley wird Sie verfolgen",
+      "summary": "In einer viralen Webserie geht es um Verity. Er ist der perfekte KI-Assistent – bis man ihn verlässt. Gruselig ist nicht nur sein Grinsen. Sondern die Nähe zur Realität.",
+      "image": "https://img.zeit.de/digital/2026-09/rose-internet-kolumne-smiley-bild-01/original__640x360",
+      "link": "https://www.zeit.de/digital/2026-09/verity-kuenstliche-intelligenz-smiley-minecraft-internetkolumne",
+      "published": "Sat, 19 Sep 2026 15:06:23 -0000",
+      "published_display": "19.09.2026 · 15:06 Uhr"
+    },
+    {
+      "title": "Donald Trump: Weißes Haus verweigert Reporterinnen von CNN und MS NOW den Zugang",
+      "summary": "Ein Kameramann und ein Fotograf des TV-Senders MS NOW sind vom Wachdienst abgewiesen worden. US-Präsident Trump will kritische Medien nicht mehr ins Weiße Haus lassen.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/trump-verbietet-ms-now-zugang-zum-weissen-haus-foto/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/weisses-haus-ms-now-donald-trump",
+      "published": "Sat, 19 Sep 2026 15:02:30 -0000",
+      "published_display": "19.09.2026 · 15:02 Uhr"
+    },
+    {
+      "title": "Landespolitik: Thüringer Linke: «An uns kommt niemand vorbei»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/thueringer-linke-an-uns-kommt-niemand-vorbei-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/thueringer-linke-an-uns-kommt-niemand-vorbei",
+      "published": "Sat, 19 Sep 2026 15:02:18 -0000",
+      "published_display": "19.09.2026 · 15:02 Uhr"
+    },
+    {
+      "title": "Grönlandabkommen: Ein symbolisches Geschenk für Donald Trump",
+      "summary": "Donald Trump verkündet eine »historische« Einigung mit Dänemark und Grönland über die Sicherheit der Arktisinsel. Was daran tatsächlich neu ist – und was nicht.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/groenland-abkommen-usa-daenemark-einigung-arktis-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/groenland-abkommen-usa-daenemark-einigung-arktis",
+      "published": "Sat, 19 Sep 2026 15:02:15 -0000",
+      "published_display": "19.09.2026 · 15:02 Uhr"
+    },
+    {
+      "title": "Westaustralien: Australische Küstenwache jagt Weißen Hai nach tödlichem Angriff",
+      "summary": "Ein Weißer Hai hat einen Schwimmer 50 Meter vor einem Strand in Westaustralien tödlich verletzt. Die Behörden ordneten an, den Hai zu fangen und zu töten.",
+      "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-09/haiattacke-australien-perth-schwimmer-sorrento-beach-foto-1/original__640x360",
+      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-09/haiattacke-australien-perth-schwimmer-sorrento-beach",
+      "published": "Sat, 19 Sep 2026 15:00:23 -0000",
+      "published_display": "19.09.2026 · 15:00 Uhr"
+    },
+    {
+      "title": "Trauer um Musiker: Peter Petrel gestorben: Schlagerstar wurde 86",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/peter-petrel-gestorben-schlagerstar-wurde-86-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/peter-petrel-gestorben-schlagerstar-wurde-86",
+      "published": "Sat, 19 Sep 2026 14:59:07 -0000",
+      "published_display": "19.09.2026 · 14:59 Uhr"
+    },
+    {
+      "title": "Rita Flores: Pussy-Riot-Aktivistin spricht über Zeit als FSB-Mitarbeiterin",
+      "summary": "Die Aktivistin der Gruppe Pussy Riot, Rita Flores, war Teil des russischen Geheimdienstes. Dem »Guardian« sagte sie, sie sei zur Mitarbeit gezwungen worden.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/rita-flores-pussy-riot-fsb-russland-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/rita-flores-pussy-riot-fsb-russland",
+      "published": "Sat, 19 Sep 2026 14:57:46 -0000",
+      "published_display": "19.09.2026 · 14:57 Uhr"
+    },
+    {
+      "title": "Wetter: Erst Sonne, dann Regen in Rheinland-Pfalz und Saarland",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/erst-sonne-dann-regen-in-rheinland-pfalz-und-saarland-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/erst-sonne-dann-regen-in-rheinland-pfalz-und-saarland",
+      "published": "Sat, 19 Sep 2026 14:55:48 -0000",
+      "published_display": "19.09.2026 · 14:55 Uhr"
+    },
     {
       "title": "2. Bundesliga: Medien: Wechsel von Sandro Wagner zu Hannover 96 perfekt",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-09/19/medien-wechsel-von-sandro-wagner-zu-hannover-96-perfekt-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-09/19/medien-wechsel-von-sandro-wagner-zu-hannover-96-perfekt",
-      "published": "Sat, 19 Sep 2026 14:49:13 -0000",
-      "published_display": "19.09.2026 · 14:49 Uhr"
+      "published": "Sat, 19 Sep 2026 14:55:36 -0000",
+      "published_display": "19.09.2026 · 14:55 Uhr"
+    },
+    {
+      "title": "Demonstrationen: Protest gegen Schwangerschaftsabbrüche in Berlin",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/protest-gegen-schwangerschaftsabbrueche-in-berlin-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/protest-gegen-schwangerschaftsabbrueche-in-berlin",
+      "published": "Sat, 19 Sep 2026 14:55:05 -0000",
+      "published_display": "19.09.2026 · 14:55 Uhr"
+    },
+    {
+      "title": "Pressefreiheit in den USA: Trump schließt CNN aus – Medien pochen auf Pressefreiheit",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/trump-verbietet-cnn-und-politico-zugang-zum-weissen-haus-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/trump-verbietet-cnn-und-politico-zugang-zum-weissen-haus",
+      "published": "Sat, 19 Sep 2026 14:54:14 -0000",
+      "published_display": "19.09.2026 · 14:54 Uhr"
+    },
+    {
+      "title": "Oktoberfest 2026: Einzug der Wirte und Brauereien - Stopp am Attentats-Mahnmal",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/einzug-der-wirte-und-brauereien-stopp-am-attentats-mahnmal-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/einzug-der-wirte-und-brauereien-stopp-am-attentats-mahnmal",
+      "published": "Sat, 19 Sep 2026 14:53:21 -0000",
+      "published_display": "19.09.2026 · 14:53 Uhr"
     },
     {
       "title": "Oktoberfest in München: Markus Söder lobt grünen Bürgermeister für Oktoberfest-Anstich",
-      "summary": "Zum ersten Mal hat Münchens Oberbürgermeister Dominik Krause von den Grünen das Oktoberfest eröffnet. Für das traditionelle »O'zapft is« benötigte er zwei Schläge.",
+      "summary": "Zum ersten Mal hat Münchens Oberbürgermeister Dominik Krause von den Grünen das Oktoberfest eröffnet. Für das traditionelle »O’zapft is« benötigte er zwei Schläge.",
       "image": "https://img.zeit.de/politik/2026-09/oktoberfest-muenchen-dominik-krause-anstich-markus-soeder-sicherheitskonzept-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/2026-09/oktoberfest-muenchen-dominik-krause-anstich-markus-soeder-sicherheitskonzept",
+      "link": "https://www.zeit.de/politik/2026-09/oktoberfest-muenchen-dominik-krause-anstich-markus-soeder-sicherheitskonzept-gxe",
       "published": "Sat, 19 Sep 2026 14:48:07 -0000",
       "published_display": "19.09.2026 · 14:48 Uhr"
     },
@@ -25,102 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/19/neuer-trankrabatt-brandenburg-unterstuetzt-entlastungspaket",
       "published": "Sat, 19 Sep 2026 14:38:48 -0000",
       "published_display": "19.09.2026 · 14:38 Uhr"
-    },
-    {
-      "title": "Brände: Bewohner bei Küchenbrand in Breuberg verletzt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/bewohner-bei-kuechenbrand-in-breuberg-verletzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/bewohner-bei-kuechenbrand-in-breuberg-verletzt",
-      "published": "Sat, 19 Sep 2026 14:28:05 -0000",
-      "published_display": "19.09.2026 · 14:28 Uhr"
-    },
-    {
-      "title": "Westaustralien: Australische Küstenwache jagt Weißen Hai nach tödlichem Angriff",
-      "summary": "Ein Weißer Hai hat einen Schwimmer fünfzig Meter vor einem Strand in Westaustralien tödlich verletzt. Die Behörden ordneten nun an, den Hai zu fangen und zu töten.",
-      "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-09/haiattacke-australien-perth-schwimmer-sorrento-beach-foto-1/original__640x360",
-      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-09/haiattacke-australien-perth-schwimmer-sorrento-beach",
-      "published": "Sat, 19 Sep 2026 14:24:26 -0000",
-      "published_display": "19.09.2026 · 14:24 Uhr"
-    },
-    {
-      "title": "Donald Trump: Weißes Haus verweigert Mitarbeitern von MS NOW den Zugang",
-      "summary": "Ein Kameramann und ein Fotograf des TV-Senders MS NOW sind vom Wachdienst abgewiesen worden. US-Präsident Trump will kritische Medien nicht mehr ins Weiße Haus lassen.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/trump-verbietet-ms-now-zugang-zum-weissen-haus-foto/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/weisses-haus-ms-now-donald-trump",
-      "published": "Sat, 19 Sep 2026 14:19:53 -0000",
-      "published_display": "19.09.2026 · 14:19 Uhr"
-    },
-    {
-      "title": "Bösebrücke in Berlin: Tödlicher Unfall: Auto stürzt von Brücke auf S-Bahn-Gleise",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/toedlicher-unfall-auto-stuerzt-von-bruecke-auf-s-bahn-gleise-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/toedlicher-unfall-auto-stuerzt-von-bruecke-auf-s-bahn-gleise",
-      "published": "Sat, 19 Sep 2026 14:19:53 -0000",
-      "published_display": "19.09.2026 · 14:19 Uhr"
-    },
-    {
-      "title": "Queere Community: Hunderte Menschen feiern CSDs in drei Städten Brandenburgs",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/csd-in-drei-staedten-brandenburgs-auch-protest-erwartet-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/csd-in-drei-staedten-brandenburgs-auch-protest-erwartet",
-      "published": "Sat, 19 Sep 2026 14:19:27 -0000",
-      "published_display": "19.09.2026 · 14:19 Uhr"
-    },
-    {
-      "title": "Tennis: Zverev bringt Davis-Cup-Team in Führung",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/zverev-bringt-davis-cup-team-in-fuehrung-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/zverev-bringt-davis-cup-team-in-fuehrung",
-      "published": "Sat, 19 Sep 2026 14:18:14 -0000",
-      "published_display": "19.09.2026 · 14:18 Uhr"
-    },
-    {
-      "title": "Bauarbeiten: Viel Verkehr wegen A1-Brückensperrung Richtung Bremen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/viel-verkehr-wegen-a1-brueckensperrung-richtung-bremen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/viel-verkehr-wegen-a1-brueckensperrung-richtung-bremen",
-      "published": "Sat, 19 Sep 2026 14:16:34 -0000",
-      "published_display": "19.09.2026 · 14:16 Uhr"
-    },
-    {
-      "title": "Spritpreise: Was bringen Tankrabatt und Preisdeckel?",
-      "summary": "Die Koalition hat sich auf Maßnahmen geeinigt, die die Spritpreise senken sollen. Ein Instrument ist bekannt, eines ist neu.",
-      "image": "https://img.zeit.de/politik/2026-09/spritpreise-bundesregierung-tankrabatt-preisdeckel-bild-2/original__640x360",
-      "link": "https://www.zeit.de/politik/2026-09/spritpreise-bundesregierung-tankrabatt-preisdeckel",
-      "published": "Sat, 19 Sep 2026 14:15:13 -0000",
-      "published_display": "19.09.2026 · 14:15 Uhr"
-    },
-    {
-      "title": "»Der Grüffelo«: Hier erzieht sich das Kind noch selbst",
-      "summary": "Der Einfluss von Bilderbüchern ist riesig, leider werden sie heute pädagogisch missbraucht. Dabei kann man darin alles erzählen, selbst Tod und Gewalt.",
-      "image": "https://img.zeit.de/2026/40/im-bilderbuch-zaehlt-jedes-wort-bild-1/original__640x360",
-      "link": "https://www.zeit.de/2026/40/grueffelo-bilderbuch-kinderliteratur-julia-donaldson-axel-scheffler",
-      "published": "Sat, 19 Sep 2026 14:14:00 -0000",
-      "published_display": "19.09.2026 · 14:14 Uhr"
-    },
-    {
-      "title": "»Die Grüffelo-Oma«: Wie der Grüffelo eine Großmutter bekam",
-      "summary": "Das Buch vom Monster und der schlauen Maus ist ein Welterfolg. Hier erzählen seine Macher exklusiv, was im neuen Band passiert und warum er gut 20 Jahre brauchte.",
-      "image": "https://img.zeit.de/2026/40/die-monster-ag-bild-4/original__640x360",
-      "link": "https://www.zeit.de/2026/40/die-grueffelo-oma-julia-donaldson-axel-scheffler-bilderbuch-kinder",
-      "published": "Sat, 19 Sep 2026 14:13:38 -0000",
-      "published_display": "19.09.2026 · 14:13 Uhr"
-    },
-    {
-      "title": "Sanktionen gegen Russland: Donald Trump setzt neues Sanktionspaket gegen Russland in Kraft",
-      "summary": "Ein neues US-Sanktionspaket gegen Russland tritt nach langen Verhandlungen in Kraft. Es geht neben Strafzöllen auch um ein Einreiseverbot für Wladimir Putin.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/donald-trump-russland-sanktionen-usa-wladimir-putin-ukraine-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/donald-trump-russland-sanktionen-usa-wladimir-putin-ukraine-gxe",
-      "published": "Sat, 19 Sep 2026 14:01:14 -0000",
-      "published_display": "19.09.2026 · 14:01 Uhr"
-    },
-    {
-      "title": "Fotografie: Bilder des Tages",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/bilder-des-tages-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/bilder-des-tages",
-      "published": "Sat, 19 Sep 2026 14:00:54 -0000",
-      "published_display": "19.09.2026 · 14:00 Uhr"
     }
   ]
 }
