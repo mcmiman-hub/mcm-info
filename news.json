@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-19T17:40:17.455158+00:00",
+  "updated": "2026-09-19T17:54:09.635673+00:00",
   "items": [
+    {
+      "title": "Künstliche Intelligenz: US-Präsident Donald Trump kündigt neuen KI-Sonderbeauftragten an",
+      "summary": "Donald Trump will eine »A.I. Force« zur besseren Regulierung von KI aufbauen. Er werde in naher Zukunft einen KI-Sonderbeauftragten ernennen, teilte er mit.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/donald-trump-ki-kuenstliche-intelligenz-ai-force-beauftragter-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/donald-trump-ki-kuenstliche-intelligenz-ai-force-beauftragter",
+      "published": "Sat, 19 Sep 2026 17:51:02 -0000",
+      "published_display": "19.09.2026 · 17:51 Uhr"
+    },
+    {
+      "title": "Pressefreiheit in den USA: Weißes Haus verweigert CNN, «Politico» und MS NOW den Zugang",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/trump-verbietet-cnn-und-politico-zugang-zum-weissen-haus-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/18/trump-verbietet-cnn-und-politico-zugang-zum-weissen-haus",
+      "published": "Sat, 19 Sep 2026 17:48:41 -0000",
+      "published_display": "19.09.2026 · 17:48 Uhr"
+    },
+    {
+      "title": "Enteignung in Berlin: Angst und Panik in der Berliner Wohnungswirtschaft",
+      "summary": "Linke und Grüne wollen in Berlin große Immobilienkonzerne enteignen. Banken, Makler und Bauindustrie kämpfen mit aller Macht dagegen. Sie warnen vor einem Systemwechsel.",
+      "image": "https://img.zeit.de/politik/2026-09/enteignung-berlin-wohnungskonzerne-wahlkampf-immobilienlobby-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/2026-09/enteignung-berlin-wohnungskonzerne-wahlkampf-immobilienlobby",
+      "published": "Sat, 19 Sep 2026 17:43:40 -0000",
+      "published_display": "19.09.2026 · 17:43 Uhr"
+    },
     {
       "title": "Fußball-Bundesliga: Nase gebrochen? Mainz-Coach Fischer sorgt sich um Caci",
       "summary": "",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/19/afd-zum-wahlkampfabschluss-in-mv-siegessicher",
       "published": "Sat, 19 Sep 2026 16:34:43 -0000",
       "published_display": "19.09.2026 · 16:34 Uhr"
-    },
-    {
-      "title": "Carsten Breuer: Deutscher General wird Vorsitzender des Nato-Militärausschusses",
-      "summary": "Carsten Breuer ist zum neuen Vorsitzenden des Militärausschusses der Nato gewählt worden. Der Generalinspekteur der Bundeswehr tritt das Amt im Juli 2027 an.",
-      "image": "https://img.zeit.de/politik/2026-09/nato-carsten-breuer-vorsitzender-militaerausschuss-foto/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/carsten-breuer-nato-militaerausschuss",
-      "published": "Sat, 19 Sep 2026 16:26:33 -0000",
-      "published_display": "19.09.2026 · 16:26 Uhr"
-    },
-    {
-      "title": "Brände: Bei Feuer auf Geflügelhof entsteht Millionenschaden",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/bei-feuer-auf-gefluegelhof-entsteht-millionenschaden-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/bei-feuer-auf-gefluegelhof-entsteht-millionenschaden",
-      "published": "Sat, 19 Sep 2026 16:26:32 -0000",
-      "published_display": "19.09.2026 · 16:26 Uhr"
-    },
-    {
-      "title": "Suchaktion: Taucher im Starnberger See vermisst",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/taucher-im-starnberger-see-vermisst-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/taucher-im-starnberger-see-vermisst",
-      "published": "Sat, 19 Sep 2026 16:16:12 -0000",
-      "published_display": "19.09.2026 · 16:16 Uhr"
     }
   ]
 }
