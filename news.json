@@ -1,7 +1,71 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-19T07:54:06.722306+00:00",
+  "updated": "2026-09-19T08:18:12.597732+00:00",
   "items": [
+    {
+      "title": "Wetter: Nach heiterem Start wird das Wochenende unbeständig",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/nach-heiterem-start-wird-das-wochenende-unbestaendig-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/nach-heiterem-start-wird-das-wochenende-unbestaendig",
+      "published": "Sat, 19 Sep 2026 08:15:04 -0000",
+      "published_display": "19.09.2026 · 08:15 Uhr"
+    },
+    {
+      "title": "Bösebrücke in Berlin: Tödlicher Unfall: Auto stürzt von Brücke auf S-Bahn-Gleise",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/toedlicher-unfall-auto-stuerzt-von-bruecke-auf-s-bahn-gleise-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/toedlicher-unfall-auto-stuerzt-von-bruecke-auf-s-bahn-gleise",
+      "published": "Sat, 19 Sep 2026 08:14:07 -0000",
+      "published_display": "19.09.2026 · 08:14 Uhr"
+    },
+    {
+      "title": "Fotografie: Bilder des Tages",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/bilder-des-tages-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/bilder-des-tages",
+      "published": "Sat, 19 Sep 2026 08:13:28 -0000",
+      "published_display": "19.09.2026 · 08:13 Uhr"
+    },
+    {
+      "title": "Mautprozess: Ex-Minister Scheuer wehrt sich gegen Lügenvorwurf bei Mautverträgen",
+      "summary": "Die gescheiterte Pkw-Maut hat für den ehemaligen Verkehrsminister ein juristisches Nachspiel. Er soll im Untersuchungsausschuss falsch ausgesagt haben.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/andreas-scheuer-csu-anklage-falschaussage-pkw-maut-gerhard-schulz-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/andreas-scheuer-csu-anklage-falschaussage-pkw-maut-gerhard-schulz-gxe",
+      "published": "Sat, 19 Sep 2026 08:10:18 -0000",
+      "published_display": "19.09.2026 · 08:10 Uhr"
+    },
+    {
+      "title": "Tankrabatt: Was bringen Tankrabatt und Preisdeckel?",
+      "summary": "Die Koalition hat sich auf Maßnahmen geeinigt, die die Spritpreise senken sollen. Ein Instrument ist bekannt, eines ist neu.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/spritpreise-bundesregierung-tankrabatt-preisdeckel-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/2026-09/spritpreise-bundesregierung-tankrabatt-preisdeckel",
+      "published": "Sat, 19 Sep 2026 08:08:55 -0000",
+      "published_display": "19.09.2026 · 08:08 Uhr"
+    },
+    {
+      "title": "Basketball-Bundesliga: Alba nach geglücktem Saisonstart: «Haben Weg gefunden»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/alba-nach-gegluecktem-saisonstart-haben-weg-gefunden-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/alba-nach-gegluecktem-saisonstart-haben-weg-gefunden",
+      "published": "Sat, 19 Sep 2026 08:04:19 -0000",
+      "published_display": "19.09.2026 · 08:04 Uhr"
+    },
+    {
+      "title": "Unfälle: Gaskocher-Unfall: Einjähriges Kind und Eltern verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/gaskocher-unfall-einjaehriges-kind-und-eltern-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/gaskocher-unfall-einjaehriges-kind-und-eltern-verletzt",
+      "published": "Sat, 19 Sep 2026 08:04:09 -0000",
+      "published_display": "19.09.2026 · 08:04 Uhr"
+    },
+    {
+      "title": "Wetter: Erst Sonne, dann Regen in Rheinland-Pfalz und Saarland",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/erst-sonne-dann-regen-in-rheinland-pfalz-und-saarland-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/erst-sonne-dann-regen-in-rheinland-pfalz-und-saarland",
+      "published": "Sat, 19 Sep 2026 07:54:44 -0000",
+      "published_display": "19.09.2026 · 07:54 Uhr"
+    },
     {
       "title": "Fußball-Bundesliga: Ballon d'or: Eberls Yamal-Spitze und Kanes ruhige Reaktion",
       "summary": "",
@@ -43,10 +107,10 @@
       "published_display": "19.09.2026 · 07:26 Uhr"
     },
     {
-      "title": "Inter Mailand: Italienische Fußball-Legende Sandro Mazzola gestorben",
-      "summary": "Der Fußballeuropameister von 1968, Sandro Mazzola ist tot. Die Club-Ikone von Inter Mailand verbrachte seine ganze Karriere beim Verein und gewann die höchsten Titel.",
+      "title": "Inter Mailand: Italienische Fußballlegende Sandro Mazzola gestorben",
+      "summary": "Der Fußballeuropameister von 1968, Sandro Mazzola, ist tot. Die Klubikone von Inter Mailand verbrachte seine ganze Karriere beim Verein und gewann die höchsten Titel.",
       "image": "https://img.zeit.de/sport/2026-09/sandro-mazzola-inter-mailand-tot-fussball-foto-1/original__640x360",
-      "link": "https://www.zeit.de/sport/2026-09/sandro-mazzola-inter-mailand-tot-fussball",
+      "link": "https://www.zeit.de/sport/2026-09/sandro-mazzola-inter-mailand-tot-fussball-gxe",
       "published": "Sat, 19 Sep 2026 07:25:26 -0000",
       "published_display": "19.09.2026 · 07:25 Uhr"
     },
@@ -57,70 +121,6 @@
       "link": "https://www.zeit.de/2026/40/heidelbeeren-superfood-antioxidantien-marketing-ernaehrung",
       "published": "Sat, 19 Sep 2026 07:24:24 -0000",
       "published_display": "19.09.2026 · 07:24 Uhr"
-    },
-    {
-      "title": "Wiesn-Auftakt: Erste Gäste stürmen Münchner Oktoberfest",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/in-muenchen-beginnt-das-oktoberfest-stadt-im-wiesn-fieber-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/in-muenchen-beginnt-das-oktoberfest-stadt-im-wiesn-fieber",
-      "published": "Sat, 19 Sep 2026 07:23:58 -0000",
-      "published_display": "19.09.2026 · 07:23 Uhr"
-    },
-    {
-      "title": "In Baumreihe gefahren: Jugendlicher stirbt bei Autounfall in Oberfranken",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/jugendlicher-stirbt-bei-autounfall-in-oberfranken-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/jugendlicher-stirbt-bei-autounfall-in-oberfranken",
-      "published": "Sat, 19 Sep 2026 07:17:00 -0000",
-      "published_display": "19.09.2026 · 07:17 Uhr"
-    },
-    {
-      "title": "Historische Wahlergebnisse Mecklenburg-Vorpommern: Warum die SPD in Mecklenburg-Vorpommern immer wieder gewinnt",
-      "summary": "Seit Jahrzehnten regieren die Sozialdemokraten in Schwerin. Wie haben sie es immer wieder geschafft, drohende Niederlagen abzuwenden? Ein Blick in die Wahlergebnisse",
-      "image": "https://img.zeit.de/politik/2026-09/historische-wahlergebnisse-mecklenburg-vorpommern-landtagswahl-daten-teaserbild/original__640x360",
-      "link": "https://www.zeit.de/politik/2026-09/historische-wahlergebnisse-mecklenburg-vorpommern-landtagswahl-daten",
-      "published": "Sat, 19 Sep 2026 07:16:59 -0000",
-      "published_display": "19.09.2026 · 07:16 Uhr"
-    },
-    {
-      "title": "Mautprozess: Ex-Minister Scheuer wehrt sich gegen Lügenvorwurf bei Mautverträgen",
-      "summary": "Die gescheiterte Pkw-Maut hat für den ehemaligen Verkehrsminister ein juristisches Nachspiel. Er soll im Untersuchungsausschuss falsch ausgesagt haben.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/andreas-scheuer-csu-anklage-falschaussage-pkw-maut-gerhard-schulz-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/andreas-scheuer-csu-anklage-falschaussage-pkw-maut-gerhard-schulz",
-      "published": "Sat, 19 Sep 2026 07:16:01 -0000",
-      "published_display": "19.09.2026 · 07:16 Uhr"
-    },
-    {
-      "title": "Unfälle: Radfahrerin bei Unfall lebensgefährlich verletzt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/radfahrerin-bei-unfall-lebensgefaehrlich-verletzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/radfahrerin-bei-unfall-lebensgefaehrlich-verletzt",
-      "published": "Sat, 19 Sep 2026 07:15:19 -0000",
-      "published_display": "19.09.2026 · 07:15 Uhr"
-    },
-    {
-      "title": "Angriff mit Schusswaffe: Tötungsdelikt in Dietzenbach - vierter Verdächtiger gefasst",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/toetungsdelikt-in-dietzenbach-vierter-verdaechtiger-gefasst-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/toetungsdelikt-in-dietzenbach-vierter-verdaechtiger-gefasst",
-      "published": "Sat, 19 Sep 2026 07:15:12 -0000",
-      "published_display": "19.09.2026 · 07:15 Uhr"
-    },
-    {
-      "title": "Stromausfall in Kuba: Neun Millionen Menschen in Kuba erneut ohne Strom",
-      "summary": "Seit Monaten gibt es in Kuba wegen einer maroden Infrastruktur und einer US‐Ölblockade nur stundenweise Strom. Nun ist das Stromnetz erneut komplett zusammengebrochen.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/stromausfall-kuba-blackout-stromnetz-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/stromausfall-kuba-blackout-stromnetz",
-      "published": "Sat, 19 Sep 2026 07:02:41 -0000",
-      "published_display": "19.09.2026 · 07:02 Uhr"
-    },
-    {
-      "title": "Unfälle: Auto landet in Gleisbett - Fahrer stirbt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/auto-landet-in-gleisbett-fahrer-stirbt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/auto-landet-in-gleisbett-fahrer-stirbt",
-      "published": "Sat, 19 Sep 2026 06:57:40 -0000",
-      "published_display": "19.09.2026 · 06:57 Uhr"
     }
   ]
 }
