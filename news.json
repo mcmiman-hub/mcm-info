@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-19T12:47:38.707175+00:00",
+  "updated": "2026-09-19T12:56:09.971062+00:00",
   "items": [
+    {
+      "title": "Unfälle: Mannheimer Biker stirbt nach Unfall im Odenwaldkreis",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/mannheimer-biker-stirbt-nach-unfall-im-odenwaldkreis-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/mannheimer-biker-stirbt-nach-unfall-im-odenwaldkreis",
+      "published": "Sat, 19 Sep 2026 12:50:43 -0000",
+      "published_display": "19.09.2026 · 12:50 Uhr"
+    },
+    {
+      "title": "Feuer: Rauchentwicklung durch brennenden Stall in Schwaben",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/rauchentwicklung-durch-brennenden-stall-in-schwaben-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/rauchentwicklung-durch-brennenden-stall-in-schwaben",
+      "published": "Sat, 19 Sep 2026 12:50:22 -0000",
+      "published_display": "19.09.2026 · 12:50 Uhr"
+    },
+    {
+      "title": "US-Kampfjet F-35: Geheime F-35-Technologie ist offenbar nach Hongkong gelangt",
+      "summary": "Eine Ladung mit F-35-Teilen soll nach Hongkong umgeleitet worden und seitdem verschwunden sein. Aus ihnen ließen sich Informationen zu Tarnkappentechnologie ableiten.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/f-35-cockpithaube-tarnkappentechnologie-china-lockheed-martin-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/f-35-cockpithaube-tarnkappentechnologie-china-lockheed-martin",
+      "published": "Sat, 19 Sep 2026 12:50:21 -0000",
+      "published_display": "19.09.2026 · 12:50 Uhr"
+    },
     {
       "title": "Bürgerschaftswahl: Bremer SPD zieht mit Bovenschulte in den Wahlkampf",
       "summary": "Die Bremer SPD setzt auf den erfahrenen Regierungschef als Spitzenkandidat. Mit leidenschaftlichem Wahlkampf wolle er seine dritte Amtszeit sichern, sagte Bovenschulte.",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/19/pulverfund-an-packstation-ruft-rettungskraefte-auf-den-plan",
       "published": "Sat, 19 Sep 2026 12:21:16 -0000",
       "published_display": "19.09.2026 · 12:21 Uhr"
-    },
-    {
-      "title": "Partei-Jugendorganisation: Jusos verlangen Abkehr vom Reformkurs der Bundesregierung",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/jusos-verlangen-abkehr-vom-reformkurs-der-bundesregierung-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/jusos-verlangen-abkehr-vom-reformkurs-der-bundesregierung",
-      "published": "Sat, 19 Sep 2026 12:21:10 -0000",
-      "published_display": "19.09.2026 · 12:21 Uhr"
-    },
-    {
-      "title": "Wiesn 2026: «Bilderbuchstart» und Söder-Lob: Krause eröffnet Oktoberfest",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/in-muenchen-beginnt-das-oktoberfest-stadt-im-wiesn-fieber-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/in-muenchen-beginnt-das-oktoberfest-stadt-im-wiesn-fieber",
-      "published": "Sat, 19 Sep 2026 12:19:22 -0000",
-      "published_display": "19.09.2026 · 12:19 Uhr"
-    },
-    {
-      "title": "Segelschulschiff der Marine: «Gorch Fock» nach 14.000 Seemeilen wieder in Kiel",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/gorch-fock-nach-14-000-seemeilen-wieder-in-kiel-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/gorch-fock-nach-14-000-seemeilen-wieder-in-kiel",
-      "published": "Sat, 19 Sep 2026 12:19:08 -0000",
-      "published_display": "19.09.2026 · 12:19 Uhr"
     }
   ]
 }
