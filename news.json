@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-19T21:27:34.806787+00:00",
+  "updated": "2026-09-19T21:40:58.438653+00:00",
   "items": [
+    {
+      "title": "Fußball-Bundesliga: Nach Tod von Hermann: Emotionaler Kovac sagt Interview ab",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/nach-tod-von-hermann-emotionaler-kovac-sagt-interview-ab-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/nach-tod-von-hermann-emotionaler-kovac-sagt-interview-ab",
+      "published": "Sat, 19 Sep 2026 21:31:14 -0000",
+      "published_display": "19.09.2026 · 21:31 Uhr"
+    },
     {
       "title": "Irankrieg: Huthi-Miliz bekennt sich zu Angriffen auf Riad",
       "summary": "Die mit dem Iran verbündeten Huthi-Rebellen haben Saudi-Arabiens Hauptstadt mit Raketen und Drohnen attackiert. Iran tötet einen angeblichen Spion Israels. Das Liveblog",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/19/volleyballer-stehen-nach-fuenf-satz-krimi-im-em-viertelfinale",
       "published": "Sat, 19 Sep 2026 18:46:26 -0000",
       "published_display": "19.09.2026 · 18:46 Uhr"
-    },
-    {
-      "title": "Bundesliga, 4. Spieltag – Samstag: BVB übernimmt in Stuttgart die Tabellenführung, HSV siegt gegen Köln",
-      "summary": "Borussia Dortmund siegt dank eines Tores von Maximilian Beier beim VfB Stuttgart, Mainz schießt in einem spektakulären Spiel Gladbach ans Tabellenende. Die Spielberichte",
-      "image": "https://img.zeit.de/sport/2026-09/vfb-stuttgart-borussia-dortmund-bundesliga-foto/original__640x360",
-      "link": "https://www.zeit.de/sport/2026-09/fussball-bundesliga-4-spieltag-2026-27-eintracht-frankfurt-vfb-stuttgart-borussia-dortmund",
-      "published": "Sat, 19 Sep 2026 18:41:49 -0000",
-      "published_display": "19.09.2026 · 18:41 Uhr"
     }
   ]
 }
