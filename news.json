@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-19T07:27:37.406659+00:00",
+  "updated": "2026-09-19T07:41:57.000573+00:00",
   "items": [
+    {
+      "title": "Unfall in Stuttgart: Feuerwehr schneidet Mensch aus Auto nach Frontalzusammenstoß",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/feuerwehr-schneidet-mensch-aus-auto-nach-frontalzusammenstoss-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/feuerwehr-schneidet-mensch-aus-auto-nach-frontalzusammenstoss",
+      "published": "Sat, 19 Sep 2026 07:35:28 -0000",
+      "published_display": "19.09.2026 · 07:35 Uhr"
+    },
+    {
+      "title": "Bildung: Unterricht nicht erteilt: 20.000 Schülern fehlt Fachnote",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/unterricht-nicht-erteilt-20-000-schuelern-fehlt-fachnote-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/unterricht-nicht-erteilt-20-000-schuelern-fehlt-fachnote",
+      "published": "Sat, 19 Sep 2026 07:30:05 -0000",
+      "published_display": "19.09.2026 · 07:30 Uhr"
+    },
+    {
+      "title": "Soziales: Frauenhäuser: Warten auf neue Schutzeinrichtungen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/frauenhaeuser-warten-auf-neue-schutzeinrichtungen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/frauenhaeuser-warten-auf-neue-schutzeinrichtungen",
+      "published": "Sat, 19 Sep 2026 07:30:04 -0000",
+      "published_display": "19.09.2026 · 07:30 Uhr"
+    },
     {
       "title": "ADHS: Kein Emoji? Jetzt macht er bestimmt Schluss!",
       "summary": "Manche Menschen mit ADHS reagieren extrem auf Zurückweisung. Im Netz gibt es dafür einen Namen: Rejection Sensitive Dysphoria. Was dahintersteckt.",
@@ -91,36 +115,12 @@
       "published_display": "19.09.2026 · 06:57 Uhr"
     },
     {
-      "title": "Unfall in Stuttgart: Feuerwehr schneidet Mensch aus Auto nach Frontalzusammenstoß",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/feuerwehr-schneidet-mensch-aus-auto-nach-frontalzusammenstoss-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/feuerwehr-schneidet-mensch-aus-auto-nach-frontalzusammenstoss",
-      "published": "Sat, 19 Sep 2026 06:38:55 -0000",
-      "published_display": "19.09.2026 · 06:38 Uhr"
-    },
-    {
       "title": "Wettervorhersage: Spätsommerliches Wetter zum Wiesn-Start erwartet",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-09/19/spaetsommerliches-wetter-zum-wiesn-start-erwartet-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-09/19/spaetsommerliches-wetter-zum-wiesn-start-erwartet",
       "published": "Sat, 19 Sep 2026 06:20:50 -0000",
       "published_display": "19.09.2026 · 06:20 Uhr"
-    },
-    {
-      "title": "Ungewöhnliche Aktion: Museen können sich bewerben: 1.500 Kunstwerke zu verschenken",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/museen-koennen-sich-bewerben-1-500-kunstwerke-zu-verschenken-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/museen-koennen-sich-bewerben-1-500-kunstwerke-zu-verschenken",
-      "published": "Sat, 19 Sep 2026 06:00:05 -0000",
-      "published_display": "19.09.2026 · 06:00 Uhr"
-    },
-    {
-      "title": "Justiz: Prozess nach Maut-Debakel: Ex-Minister weist Vorwurf zurück",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/prozess-nach-maut-debakel-ex-minister-weist-vorwurf-zurueck-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/prozess-nach-maut-debakel-ex-minister-weist-vorwurf-zurueck",
-      "published": "Sat, 19 Sep 2026 06:00:05 -0000",
-      "published_display": "19.09.2026 · 06:00 Uhr"
     }
   ]
 }
