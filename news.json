@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-19T20:28:30.609492+00:00",
+  "updated": "2026-09-19T20:41:36.887016+00:00",
   "items": [
+    {
+      "title": "Flohmärkte in Hamburg: »Ach komm, Mädel. Gib mir den Zehner«",
+      "summary": "Den Preis drücken? Gehört auf Flohmärkten dazu. Unserer Autorin fällt das schwer. Nun war sie mit einem Profi unterwegs – um endlich anständig Feilschen zu lernen.",
+      "image": "https://img.zeit.de/2026/37/ach-komm-maedel-gib-mir-den-zehner-bild-2/original__640x360",
+      "link": "https://www.zeit.de/2026/37/flohmaerkte-hamburg-feilschen-tipps-roland-resag-flohschanze",
+      "published": "Sat, 19 Sep 2026 20:39:52 -0000",
+      "published_display": "19.09.2026 · 20:39 Uhr"
+    },
+    {
+      "title": "Suchaktion: Taucher im Starnberger See vermisst",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/taucher-im-starnberger-see-vermisst-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/taucher-im-starnberger-see-vermisst",
+      "published": "Sat, 19 Sep 2026 20:39:16 -0000",
+      "published_display": "19.09.2026 · 20:39 Uhr"
+    },
+    {
+      "title": "Krieg in Nahost: Huthi-Miliz reklamiert Angriffe in Saudi-Arabien",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/huthi-miliz-reklamiert-angriffe-in-saudi-arabien-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/huthi-miliz-reklamiert-angriffe-in-saudi-arabien",
+      "published": "Sat, 19 Sep 2026 20:33:08 -0000",
+      "published_display": "19.09.2026 · 20:33 Uhr"
+    },
     {
       "title": "2. Fußball-Bundesliga: Giftig und hitzig nur auf dem Rasen: Hertha siegt in Dresden",
       "summary": "",
@@ -25,14 +49,6 @@
       "link": "https://www.zeit.de/news/2026-09/19/hamburg-kassiert-klare-auftaktniederlage",
       "published": "Sat, 19 Sep 2026 20:05:40 -0000",
       "published_display": "19.09.2026 · 20:05 Uhr"
-    },
-    {
-      "title": "Krieg in Nahost: Huthi-Miliz reklamiert Angriffe in Saudi-Arabien",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/huthi-miliz-reklamiert-angriffe-in-saudi-arabien-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/huthi-miliz-reklamiert-angriffe-in-saudi-arabien",
-      "published": "Sat, 19 Sep 2026 19:42:43 -0000",
-      "published_display": "19.09.2026 · 19:42 Uhr"
     },
     {
       "title": "Festtag: Literaturfestival Harbour Front startet mit USA-Fokus",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/19/rostock-feiert-auftakterfolg-gegen-aufsteiger-hagen",
       "published": "Sat, 19 Sep 2026 18:33:36 -0000",
       "published_display": "19.09.2026 · 18:33 Uhr"
-    },
-    {
-      "title": "Iran-Krieg: Signal aus Teheran: Iran will zurück zu Rahmenabkommen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/signal-aus-teheran-iran-will-zurueck-zu-rahmenabkommen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/signal-aus-teheran-iran-will-zurueck-zu-rahmenabkommen",
-      "published": "Sat, 19 Sep 2026 18:32:02 -0000",
-      "published_display": "19.09.2026 · 18:32 Uhr"
-    },
-    {
-      "title": "Künstliche Intelligenz: Trump setzt stärker auf KI trotz Warnungen vor Gefahren",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/trump-setzt-staerker-auf-ki-trotz-warnungen-vor-gefahren-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/trump-setzt-staerker-auf-ki-trotz-warnungen-vor-gefahren",
-      "published": "Sat, 19 Sep 2026 18:28:35 -0000",
-      "published_display": "19.09.2026 · 18:28 Uhr"
     }
   ]
 }
