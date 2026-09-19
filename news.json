@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-19T00:24:06.892034+00:00",
+  "updated": "2026-09-19T00:47:10.155634+00:00",
   "items": [
+    {
+      "title": "AfD Berlin: Polizei durchsucht Haus von Mitarbeiter der Berliner AfD-Kandidatin",
+      "summary": "Die Polizei hat Medienberichten zufolge Drogen und Nazi-Devotionalien bei einem Mitarbeiter von AfD-Spitzenkandidatin Brinker gefunden. Sie sagt, er sei nur »Sammler«.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/kundgebung-der-afd-vor-dem-roten-rathaus-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/afd-kristin-brinker-mitarbeiter-wohnung-durchsuchung",
+      "published": "Sat, 19 Sep 2026 00:42:36 -0000",
+      "published_display": "19.09.2026 · 00:42 Uhr"
+    },
+    {
+      "title": "Künstliche Intelligenz: UN-Generalsekretär fordert KI-Gespräch zwischen USA, China und EU",
+      "summary": "Die USA und die Sowjetunion begannen nach der Kubakrise einen Dialog zum Schutz vor Atomangriffen. Ähnliches müsse jetzt bei KI geschehen, fordert António Guterres.",
+      "image": "https://img.zeit.de/digital/internet/2026-09/ki-sicherheit-antonio-guterres-usa-china-europa-un-foto-1/original__640x360",
+      "link": "https://www.zeit.de/digital/internet/2026-09/ki-sicherheit-antonio-guterres-usa-china-europa-un",
+      "published": "Sat, 19 Sep 2026 00:30:14 -0000",
+      "published_display": "19.09.2026 · 00:30 Uhr"
+    },
+    {
+      "title": "Wohnungsmarkt: Jedes zweite WG-Zimmer in Berlin kostet mehr als 650 Euro",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/jedes-zweite-wg-zimmer-in-berlin-kostet-mehr-als-650-euro-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/jedes-zweite-wg-zimmer-in-berlin-kostet-mehr-als-650-euro",
+      "published": "Sat, 19 Sep 2026 00:30:05 -0000",
+      "published_display": "19.09.2026 · 00:30 Uhr"
+    },
     {
       "title": "Schwerer Unfall: Unfall in Wuppertal – eine Schwerverletzte",
       "summary": "",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/politik/ausland/2026-09/donald-trump-verbietet-cnn-politico-und-msnow-zugang-zum-weissen-haus",
       "published": "Fri, 18 Sep 2026 21:21:28 -0000",
       "published_display": "18.09.2026 · 21:21 Uhr"
-    },
-    {
-      "title": "Ermittlungen laufen: Streit in Flüchtlingsheim in Darmstadt endet tödlich",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/streit-in-fluechtlingsheim-in-darmstadt-endet-toedlich-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/streit-in-fluechtlingsheim-in-darmstadt-endet-toedlich",
-      "published": "Fri, 18 Sep 2026 21:08:36 -0000",
-      "published_display": "18.09.2026 · 21:08 Uhr"
-    },
-    {
-      "title": "Fußball-Bundesliga: Zum Wiesn-Beginn: FC Bayern schenkt Union kräftig ein",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/zum-wiesn-beginn-fc-bayern-schenkt-union-kraeftig-ein-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/zum-wiesn-beginn-fc-bayern-schenkt-union-kraeftig-ein",
-      "published": "Fri, 18 Sep 2026 21:00:06 -0000",
-      "published_display": "18.09.2026 · 21:00 Uhr"
-    },
-    {
-      "title": "Ermittlungen: Durchsuchung bei Mitarbeiter von AfD-Spitzenkandidatin",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/18/durchsuchung-bei-mitarbeiter-von-afd-spitzenkandidatin-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/18/durchsuchung-bei-mitarbeiter-von-afd-spitzenkandidatin",
-      "published": "Fri, 18 Sep 2026 20:58:35 -0000",
-      "published_display": "18.09.2026 · 20:58 Uhr"
     }
   ]
 }
