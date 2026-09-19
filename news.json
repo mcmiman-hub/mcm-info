@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-19T03:29:04.265238+00:00",
+  "updated": "2026-09-19T03:43:02.648437+00:00",
   "items": [
+    {
+      "title": "Wetterbericht: Sonniger Spätsommer – bis zu 28 Grad am Wochenende",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/sonniger-spaetsommer-bis-zu-28-grad-am-wochenende-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/sonniger-spaetsommer-bis-zu-28-grad-am-wochenende",
+      "published": "Sat, 19 Sep 2026 03:30:06 -0000",
+      "published_display": "19.09.2026 · 03:30 Uhr"
+    },
+    {
+      "title": "Wandern: Vandalismus wird zum Problem auf Thüringer Wanderwegen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/vandalismus-wird-zum-problem-auf-thueringer-wanderwegen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/vandalismus-wird-zum-problem-auf-thueringer-wanderwegen",
+      "published": "Sat, 19 Sep 2026 03:30:06 -0000",
+      "published_display": "19.09.2026 · 03:30 Uhr"
+    },
+    {
+      "title": "Tag der Minderheiten: Wie Minderheiten das deutsch-dänische Grenzland prägen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/wie-minderheiten-das-deutsch-daenische-grenzland-praegen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/wie-minderheiten-das-deutsch-daenische-grenzland-praegen",
+      "published": "Sat, 19 Sep 2026 03:30:04 -0000",
+      "published_display": "19.09.2026 · 03:30 Uhr"
+    },
     {
       "title": "Wahlen: Plakate beschädigt, Helfer attackiert – rund 500 Vorfälle",
       "summary": "",
@@ -96,30 +120,6 @@
       "image": "https://img.zeit.de/news/2026-09/19/kritik-an-spritpreis-entlastungspaket-von-bund-und-laendern-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-09/19/kritik-an-spritpreis-entlastungspaket-von-bund-und-laendern",
       "published": "Sat, 19 Sep 2026 02:00:49 -0000",
-      "published_display": "19.09.2026 · 02:00 Uhr"
-    },
-    {
-      "title": "Fraktionsklausur: CSU will mehr KI-Befugnisse für Verfassungsschutz",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/csu-will-mehr-ki-befugnisse-fuer-verfassungsschutz-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/csu-will-mehr-ki-befugnisse-fuer-verfassungsschutz",
-      "published": "Sat, 19 Sep 2026 02:00:47 -0000",
-      "published_display": "19.09.2026 · 02:00 Uhr"
-    },
-    {
-      "title": "Pflege: Studie: Pflegende Angehörige benötigen mehr psychische Hilfe",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/studie-pflegende-angehoerige-benoetigen-mehr-psychische-hilfe-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/studie-pflegende-angehoerige-benoetigen-mehr-psychische-hilfe",
-      "published": "Sat, 19 Sep 2026 02:00:46 -0000",
-      "published_display": "19.09.2026 · 02:00 Uhr"
-    },
-    {
-      "title": "Personalien: Hamburger SPD-Chefin lobt Scholz und kritisiert Merz",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/hamburger-spd-chefin-lobt-scholz-und-kritisiert-merz-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/hamburger-spd-chefin-lobt-scholz-und-kritisiert-merz",
-      "published": "Sat, 19 Sep 2026 02:00:44 -0000",
       "published_display": "19.09.2026 · 02:00 Uhr"
     }
   ]
