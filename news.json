@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-19T13:16:42.766267+00:00",
+  "updated": "2026-09-19T13:27:45.821173+00:00",
   "items": [
+    {
+      "title": "Europa: Wenn die Götter funken",
+      "summary": "Kanada will so nah an die EU heranrücken, wie es nur geht. Was den Reiz Europas für die Nordamerikaner ausmacht. Und welche Staaten noch dazukommen könnten.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/europa-kanada-kooperation-europaeische-union-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/europa-kanada-kooperation-europaeische-union",
+      "published": "Sat, 19 Sep 2026 13:23:47 -0000",
+      "published_display": "19.09.2026 · 13:23 Uhr"
+    },
+    {
+      "title": "US-Kampfjet F-35: Geheime F-35-Technologie ist offenbar nach Hongkong gelangt",
+      "summary": "Eine Ladung mit F-35-Teilen soll nach Hongkong umgeleitet worden und seitdem verschwunden sein. Aus ihnen ließen sich Informationen zu Tarnkappentechnologie ableiten.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/f-35-cockpithaube-tarnkappentechnologie-china-lockheed-martin-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/f-35-cockpithaube-tarnkappentechnologie-china-lockheed-martin",
+      "published": "Sat, 19 Sep 2026 13:23:24 -0000",
+      "published_display": "19.09.2026 · 13:23 Uhr"
+    },
+    {
+      "title": "Kriminalität: 38-Jähriger richtet Waffe auf Polizisten",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/38-jaehriger-richtet-waffe-auf-polizisten-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/38-jaehriger-richtet-waffe-auf-polizisten",
+      "published": "Sat, 19 Sep 2026 13:20:08 -0000",
+      "published_display": "19.09.2026 · 13:20 Uhr"
+    },
     {
       "title": "Fußball-Bundesliga: Sportchef Schröder: Gladbach hat klaren Trainerfavoriten",
       "summary": "",
@@ -92,35 +116,11 @@
     },
     {
       "title": "Donald Trump: Donald im Wunderland",
-      "summary": "Der US-Präsident verbietet mehreren Medien den Zugang zum Weißen Haus. An dem Vorgang wird deutlich, wie Donald Trumps obskure Parallelwelt langsam implodiert.",
+      "summary": "Der US-Präsident verbietet mehreren Medien den Zugang zum Weißen Haus. An dem Vorgang wird deutlich, wie Donald Trumps obskure Parallelwelt langsam zerfällt.",
       "image": "https://img.zeit.de/feuilleton/2026-09/donald-trump-vebot-cnn-weisses-haus-medien-autokratie-bild/original__640x360",
       "link": "https://www.zeit.de/feuilleton/2026-09/donald-trump-vebot-cnn-weisses-haus-medien-autokratie",
       "published": "Sat, 19 Sep 2026 12:56:34 -0000",
       "published_display": "19.09.2026 · 12:56 Uhr"
-    },
-    {
-      "title": "2. Fußball-Bundesliga: Zoma schießt Nürnberg in Karlsruhe zum verdienten Sieg",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/zoma-schiesst-nuernberg-in-karlsruhe-zum-verdienten-sieg-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/zoma-schiesst-nuernberg-in-karlsruhe-zum-verdienten-sieg",
-      "published": "Sat, 19 Sep 2026 12:56:32 -0000",
-      "published_display": "19.09.2026 · 12:56 Uhr"
-    },
-    {
-      "title": "2. Fußball-Bundesliga: Enttäuschung im Wildpark: KSC verliert auch gegen Nürnberg",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/enttaeuschung-im-wildpark-ksc-verliert-auch-gegen-nuernberg-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/enttaeuschung-im-wildpark-ksc-verliert-auch-gegen-nuernberg",
-      "published": "Sat, 19 Sep 2026 12:55:43 -0000",
-      "published_display": "19.09.2026 · 12:55 Uhr"
-    },
-    {
-      "title": "Unfälle: Mannheimer Biker stirbt nach Unfall im Odenwaldkreis",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/mannheimer-biker-stirbt-nach-unfall-im-odenwaldkreis-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/mannheimer-biker-stirbt-nach-unfall-im-odenwaldkreis",
-      "published": "Sat, 19 Sep 2026 12:50:43 -0000",
-      "published_display": "19.09.2026 · 12:50 Uhr"
     }
   ]
 }
