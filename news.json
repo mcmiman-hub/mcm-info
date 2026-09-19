@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-19T21:54:15.848439+00:00",
+  "updated": "2026-09-19T22:16:13.287560+00:00",
   "items": [
+    {
+      "title": "Kalenderblatt: Was geschah am 20. September?",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/was-geschah-am-20-september-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/was-geschah-am-20-september",
+      "published": "Sat, 19 Sep 2026 21:55:04 -0000",
+      "published_display": "19.09.2026 · 21:55 Uhr"
+    },
     {
       "title": "Fußball-Bundesliga: Nach Tod von Hermann: Emotionaler Kovac sagt Interview ab",
       "summary": "",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/19/dank-beier-bvb-siegt-beim-vfb-und-uebernimmt-tabellenfuehrung",
       "published": "Sat, 19 Sep 2026 18:56:21 -0000",
       "published_display": "19.09.2026 · 18:56 Uhr"
-    },
-    {
-      "title": "Gegen Vizeweltmeister: Volleyballer stehen nach Fünf-Satz-Krimi im EM-Viertelfinale",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/volleyballer-stehen-nach-fuenf-satz-krimi-im-em-viertelfinale-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/volleyballer-stehen-nach-fuenf-satz-krimi-im-em-viertelfinale",
-      "published": "Sat, 19 Sep 2026 18:46:26 -0000",
-      "published_display": "19.09.2026 · 18:46 Uhr"
     }
   ]
 }
