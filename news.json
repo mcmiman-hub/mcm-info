@@ -1,13 +1,37 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-19T11:27:24.725848+00:00",
+  "updated": "2026-09-19T11:41:31.997569+00:00",
   "items": [
     {
-      "title": "Wahlkampf in Berlin: Linken-Wahlkämpfer in Berlin angegriffen",
+      "title": "Wahlkampf in Berlin: Linkenwahlkämpfer in Berlin angegriffen",
       "summary": "Beim Haustürwahlkampf in Charlottenburg sind zwei Wahlkämpfer der Linkspartei angegriffen worden. Einem 36-Jährigen wurde mehrfach ins Gesicht geschlagen.",
       "image": "https://img.zeit.de/politik/deutschland/2026-09/wahlkampf-berlin-linke-angriff-bild/original__640x360",
       "link": "https://www.zeit.de/politik/2026-09/wahlkampf-berlin-linke-angriff",
-      "published": "Sat, 19 Sep 2026 11:26:52 -0000",
+      "published": "Sat, 19 Sep 2026 11:39:29 -0000",
+      "published_display": "19.09.2026 · 11:39 Uhr"
+    },
+    {
+      "title": "Nachbarschaftsstreit eskaliert: Drohung mit Brotmesser - Nachbarn greifen sich auf Party an",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/drohung-mit-brotmesser-nachbarn-greifen-sich-auf-party-an-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/drohung-mit-brotmesser-nachbarn-greifen-sich-auf-party-an",
+      "published": "Sat, 19 Sep 2026 11:36:22 -0000",
+      "published_display": "19.09.2026 · 11:36 Uhr"
+    },
+    {
+      "title": "Großaufgebot der Feuerwehr: Wohnhaus geht in Flammen auf - zwei Verletzte",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/wohnhaus-geht-in-flammen-auf-zwei-verletzte-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/wohnhaus-geht-in-flammen-auf-zwei-verletzte",
+      "published": "Sat, 19 Sep 2026 11:35:23 -0000",
+      "published_display": "19.09.2026 · 11:35 Uhr"
+    },
+    {
+      "title": "Bürgerschaftswahl: Bremer SPD zieht mit Bovenschulte in den Wahlkampf",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/bremer-spd-zieht-mit-bovenschulte-in-den-wahlkampf-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/bremer-spd-zieht-mit-bovenschulte-in-den-wahlkampf",
+      "published": "Sat, 19 Sep 2026 11:26:28 -0000",
       "published_display": "19.09.2026 · 11:26 Uhr"
     },
     {
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/19/autofahrer-verunglueckt-auf-flucht-vor-dem-zoll",
       "published": "Sat, 19 Sep 2026 10:54:36 -0000",
       "published_display": "19.09.2026 · 10:54 Uhr"
-    },
-    {
-      "title": "Kriminalität: 19-Jähriger bedroht mutmaßlichen Eierwerfer mit Waffe",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/19-jaehriger-bedroht-mutmasslichen-eierwerfer-mit-waffe-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/19-jaehriger-bedroht-mutmasslichen-eierwerfer-mit-waffe",
-      "published": "Sat, 19 Sep 2026 10:51:20 -0000",
-      "published_display": "19.09.2026 · 10:51 Uhr"
-    },
-    {
-      "title": "Konflikt um Grönland: Dänischer Außenminister hofft auf Stabilität durch Grönlanddeal",
-      "summary": "Dänemarks Außenminister geht davon aus, dass Unsicherheiten durch den Grönlanddeal mit den USA beendet werden. Sein grönländischer Amtskollege gibt sich erleichtert.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/abkommen-daenemark-groenland-usa-nordatlantik-donald-trump-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/abkommen-daenemark-groenland-usa-nordatlantik-donald-trump-gxe",
-      "published": "Sat, 19 Sep 2026 10:48:11 -0000",
-      "published_display": "19.09.2026 · 10:48 Uhr"
-    },
-    {
-      "title": "Volksfeste: 191. Münchner Oktoberfest ist eröffnet",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/in-muenchen-beginnt-das-oktoberfest-stadt-im-wiesn-fieber-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/in-muenchen-beginnt-das-oktoberfest-stadt-im-wiesn-fieber",
-      "published": "Sat, 19 Sep 2026 10:47:18 -0000",
-      "published_display": "19.09.2026 · 10:47 Uhr"
     }
   ]
 }
