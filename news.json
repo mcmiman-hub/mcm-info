@@ -1,7 +1,87 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-20T09:42:12.431221+00:00",
+  "updated": "2026-09-20T09:54:31.398533+00:00",
   "items": [
+    {
+      "title": "Brände: Carport und Fahrzeuge brennen aus – Polizei prüft Ursache",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/carport-und-fahrzeuge-brennen-aus-polizei-prueft-ursache-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/carport-und-fahrzeuge-brennen-aus-polizei-prueft-ursache",
+      "published": "Sun, 20 Sep 2026 09:51:17 -0000",
+      "published_display": "20.09.2026 · 09:51 Uhr"
+    },
+    {
+      "title": "Mannheim: Schreckschusswaffe und Drogen nach Autounfall sichergestellt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/schreckschusswaffe-und-drogen-nach-autounfall-sichergestellt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/schreckschusswaffe-und-drogen-nach-autounfall-sichergestellt",
+      "published": "Sun, 20 Sep 2026 09:50:42 -0000",
+      "published_display": "20.09.2026 · 09:50 Uhr"
+    },
+    {
+      "title": "Hunderte Fahrzeuge: Illegales Tuningtreffen - Vermummte greifen Polizisten an",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/illegales-tuningtreffen-vermummte-greifen-polizisten-an-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/illegales-tuningtreffen-vermummte-greifen-polizisten-an",
+      "published": "Sun, 20 Sep 2026 09:49:55 -0000",
+      "published_display": "20.09.2026 · 09:49 Uhr"
+    },
+    {
+      "title": "Kriminalität: Kinderbande überfällt Frauen an Bushaltestellen in Chemnitz",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/kinderbande-ueberfaellt-frauen-an-bushaltestellen-in-chemnitz-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/kinderbande-ueberfaellt-frauen-an-bushaltestellen-in-chemnitz",
+      "published": "Sun, 20 Sep 2026 09:47:28 -0000",
+      "published_display": "20.09.2026 · 09:47 Uhr"
+    },
+    {
+      "title": "Wasserball: Spandau 04 verpasst Hauptrunde der Champions League",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/spandau-04-verpasst-hauptrunde-der-champions-league-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/spandau-04-verpasst-hauptrunde-der-champions-league",
+      "published": "Sun, 20 Sep 2026 09:46:33 -0000",
+      "published_display": "20.09.2026 · 09:46 Uhr"
+    },
+    {
+      "title": "Bundesliga, 4. Spieltag – Samstag: BVB übernimmt in Stuttgart die Tabellenführung, HSV siegt gegen Köln",
+      "summary": "Borussia Dortmund siegt dank eines Tores von Maximilian Beier beim VfB Stuttgart, Mainz schießt in einem spektakulären Spiel Gladbach ans Tabellenende. Die Spielberichte",
+      "image": "https://img.zeit.de/sport/2026-09/vfb-stuttgart-borussia-dortmund-bundesliga-foto/original__640x360",
+      "link": "https://www.zeit.de/sport/2026-09/fussball-bundesliga-4-spieltag-2026-27-eintracht-frankfurt-vfb-stuttgart-borussia-dortmund",
+      "published": "Sun, 20 Sep 2026 09:45:44 -0000",
+      "published_display": "20.09.2026 · 09:45 Uhr"
+    },
+    {
+      "title": "Fußball-Bundesliga: Heftige Hütter-Kritik trübt Atubolus emotionales Wiedersehen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/heftige-huetter-kritik-truebt-atubolus-emotionales-wiedersehen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/heftige-huetter-kritik-truebt-atubolus-emotionales-wiedersehen",
+      "published": "Sun, 20 Sep 2026 09:44:47 -0000",
+      "published_display": "20.09.2026 · 09:44 Uhr"
+    },
+    {
+      "title": "Berlin-Wahl 2026: SPD-Spitzenkandidat Krach gibt Stimme ab",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/spd-spitzenkandidat-krach-gibt-stimme-ab-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/spd-spitzenkandidat-krach-gibt-stimme-ab",
+      "published": "Sun, 20 Sep 2026 09:44:18 -0000",
+      "published_display": "20.09.2026 · 09:44 Uhr"
+    },
+    {
+      "title": "2. Fußball-Bundesliga: 130 Kilometer gelaufen - aber keine Punkte: Dynamos Dilemma",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/130-kilometer-gelaufen-aber-keine-punkte-dynamos-dilemma-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/130-kilometer-gelaufen-aber-keine-punkte-dynamos-dilemma",
+      "published": "Sun, 20 Sep 2026 09:44:08 -0000",
+      "published_display": "20.09.2026 · 09:44 Uhr"
+    },
+    {
+      "title": "Landkreis Göttingen: Spezialkräfte umstellen Wohnhaus - Hubschrauber im Einsatz",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/spezialkraefte-umstellen-wohnhaus-hubschrauber-im-einsatz-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/spezialkraefte-umstellen-wohnhaus-hubschrauber-im-einsatz",
+      "published": "Sun, 20 Sep 2026 09:43:12 -0000",
+      "published_display": "20.09.2026 · 09:43 Uhr"
+    },
     {
       "title": "Matthias Jung: »Merz kündigt etwas an und weiß schon, dass er nicht liefern kann«",
       "summary": "Der Erfolg der AfD liege am Versagen der Mitte, sagt Meinungsforscher Matthias Jung. Welche Fehler er bei der Union sieht und ob ein Kanzlertausch die Lösung sein kann.",
@@ -41,86 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/20/keine-ausreden-nach-sieben-bayern-watschen-fuer-union-berlin",
       "published": "Sun, 20 Sep 2026 09:25:52 -0000",
       "published_display": "20.09.2026 · 09:25 Uhr"
-    },
-    {
-      "title": "Kriminalität: Polizei findet Schreckschusswaffe bei Einsatz in Rohrbach",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/polizei-findet-schreckschusswaffe-bei-einsatz-in-rohrbach-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/polizei-findet-schreckschusswaffe-bei-einsatz-in-rohrbach",
-      "published": "Sun, 20 Sep 2026 09:25:23 -0000",
-      "published_display": "20.09.2026 · 09:25 Uhr"
-    },
-    {
-      "title": "Vor sechs Jahren verschwunden: «Verbrechen wäre das Schlimmste»: Der Stand im Fall Scarlett",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/so-schaetzt-die-polizei-private-suchen-nach-scarlett-ein-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/so-schaetzt-die-polizei-private-suchen-nach-scarlett-ein",
-      "published": "Sun, 20 Sep 2026 09:23:08 -0000",
-      "published_display": "20.09.2026 · 09:23 Uhr"
-    },
-    {
-      "title": "Diebstahl: 17 Verkehrsschilder von Baustelle gestohlen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/17-verkehrsschilder-von-baustelle-gestohlen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/17-verkehrsschilder-von-baustelle-gestohlen",
-      "published": "Sun, 20 Sep 2026 09:20:36 -0000",
-      "published_display": "20.09.2026 · 09:20 Uhr"
-    },
-    {
-      "title": "Wiesn 2026: Zweiter Wiesntag startet bei Kaiserwetter - Trachtenumzug",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/zweiter-wiesntag-startet-bei-kaiserwetter-trachtenumzug-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/zweiter-wiesntag-startet-bei-kaiserwetter-trachtenumzug",
-      "published": "Sun, 20 Sep 2026 09:17:17 -0000",
-      "published_display": "20.09.2026 · 09:17 Uhr"
-    },
-    {
-      "title": "Berlin wählt: Wahlleiter: Wahlbetrieb gut angelaufen – unerlaubte Graffiti",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/wahlleiter-wahlbetrieb-gut-angelaufen-unerlaubte-graffiti-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/wahlleiter-wahlbetrieb-gut-angelaufen-unerlaubte-graffiti",
-      "published": "Sun, 20 Sep 2026 09:16:47 -0000",
-      "published_display": "20.09.2026 · 09:16 Uhr"
-    },
-    {
-      "title": "Predigt am Wahlsonntag: Landesbischöfin warnt vor Gewöhnen an «Normalität des Bösen»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/landesbischoefin-warnt-vor-gewoehnen-an-normalitaet-des-boesen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/landesbischoefin-warnt-vor-gewoehnen-an-normalitaet-des-boesen",
-      "published": "Sun, 20 Sep 2026 09:12:58 -0000",
-      "published_display": "20.09.2026 · 09:12 Uhr"
-    },
-    {
-      "title": "Ed Sheeran: Der unpolitische Popstar kommt an seine Grenzen",
-      "summary": "Wegen seiner Haltung zum Nahostkonflikt wurde Macklemore aus dem Vorprogramm von Ed Sheeran entfernt. Der Popstar will unpolitisch bleiben – und stößt damit an Grenzen.",
-      "image": "https://img.zeit.de/feuilleton/musik/2026-09/ed-sheeran-vorbands-macklemore-popmusik-politik-bild-1/original__640x360",
-      "link": "https://www.zeit.de/feuilleton/musik/2026-09/ed-sheeran-vorbands-macklemore-popmusik-politik",
-      "published": "Sun, 20 Sep 2026 09:11:34 -0000",
-      "published_display": "20.09.2026 · 09:11 Uhr"
-    },
-    {
-      "title": "Kriminalität: Kinderbande überfällt Frauen an Bushaltestellen in Chemnitz",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/kinderbande-ueberfaellt-frauen-an-bushaltestellen-in-chemnitz-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/kinderbande-ueberfaellt-frauen-an-bushaltestellen-in-chemnitz",
-      "published": "Sun, 20 Sep 2026 09:08:04 -0000",
-      "published_display": "20.09.2026 · 09:08 Uhr"
-    },
-    {
-      "title": "Fußball-Bundesliga: «Wie im Traum»: Martels Comeback lässt Mainz jubeln",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/wie-im-traum-martels-comeback-laesst-mainz-jubeln-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/wie-im-traum-martels-comeback-laesst-mainz-jubeln",
-      "published": "Sun, 20 Sep 2026 09:07:21 -0000",
-      "published_display": "20.09.2026 · 09:07 Uhr"
-    },
-    {
-      "title": "Erinnerungspolitik: Wer Geschichte sagt, will betrügen?",
-      "summary": "In politischen Debatten sollen Nazivergleiche wachrütteln. Tatsächlich helfen sie aber selten. In Ostdeutschland hat das auch mit einer historischen Besonderheit zu tun.",
-      "image": "https://img.zeit.de/feuilleton/2026-09/erinnerungspolitik-alternative-fuer-deutschland-geschichte-vergleich-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/erinnerungspolitik-alternative-fuer-deutschland-geschichte-vergleich",
-      "published": "Sun, 20 Sep 2026 09:02:10 -0000",
-      "published_display": "20.09.2026 · 09:02 Uhr"
     }
   ]
 }
