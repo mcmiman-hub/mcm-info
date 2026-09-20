@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-20T01:42:06.896623+00:00",
+  "updated": "2026-09-20T01:55:02.394737+00:00",
   "items": [
+    {
+      "title": "Karibik: US-Militär tötet erneut vier Menschen auf angeblichem Schmugglerboot",
+      "summary": "Die USA setzen Angriffe auf Schiffe entlang bekannter Drogenhandelsrouten in der Karibik fort. Das Militär meldet vier tote »Narkoterroristen«, ohne Beweise zu liefern.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/us-militaer-karibik-angriff-drogenhandel-donald-trump-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/us-militaer-karibik-angriff-boot-drogenhandel-donald-trump",
+      "published": "Sun, 20 Sep 2026 01:53:37 -0000",
+      "published_display": "20.09.2026 · 01:53 Uhr"
+    },
+    {
+      "title": "Minus bei Umsatz und Gewinn: Analyse: Ergebnisse der deutschen Autobauer unter Druck",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/analyse-ergebnisse-der-deutschen-autobauer-unter-druck-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/analyse-ergebnisse-der-deutschen-autobauer-unter-druck",
+      "published": "Sun, 20 Sep 2026 01:45:04 -0000",
+      "published_display": "20.09.2026 · 01:45 Uhr"
+    },
     {
       "title": "Krankheiten: Zehn Fälle von Hasenpest in Hessen bislang",
       "summary": "",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/sport/2026-09/peter-hermann-co-trainer-fussball-bayer-leverkusen-fc-bayern",
       "published": "Sat, 19 Sep 2026 22:35:39 -0000",
       "published_display": "19.09.2026 · 22:35 Uhr"
-    },
-    {
-      "title": "Frankreich: Zwei Deutsche im Louvre festgenommen",
-      "summary": "Im Pariser Louvre erlaubten sich zwei Männer einen Scherz und hängten eigene Bilder neben Da Vincis Mona Lisa auf. Die Deutschen wurden festgenommen und verhört.",
-      "image": "https://img.zeit.de/feuilleton/kunst/2026-09/mona-lisa-louvre-paris-bilder-aktion-zwei-deutsche-foto-1/original__640x360",
-      "link": "https://www.zeit.de/feuilleton/kunst/2026-09/mona-lisa-louvre-paris-bilder-aktion-zwei-deutsche",
-      "published": "Sat, 19 Sep 2026 22:28:47 -0000",
-      "published_display": "19.09.2026 · 22:28 Uhr"
-    },
-    {
-      "title": "Kalenderblatt: Was geschah am 20. September?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/was-geschah-am-20-september-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/was-geschah-am-20-september",
-      "published": "Sat, 19 Sep 2026 21:55:04 -0000",
-      "published_display": "19.09.2026 · 21:55 Uhr"
     }
   ]
 }
