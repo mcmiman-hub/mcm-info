@@ -1,7 +1,39 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-20T09:28:06.295415+00:00",
+  "updated": "2026-09-20T09:42:12.431221+00:00",
   "items": [
+    {
+      "title": "Matthias Jung: »Merz kündigt etwas an und weiß schon, dass er nicht liefern kann«",
+      "summary": "Der Erfolg der AfD liege am Versagen der Mitte, sagt Meinungsforscher Matthias Jung. Welche Fehler er bei der Union sieht und ob ein Kanzlertausch die Lösung sein kann.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/matthias-jung-friedrich-merz-strategie-fehler-meinungsforschung-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/matthias-jung-friedrich-merz-strategie-fehler-meinungsforschung",
+      "published": "Sun, 20 Sep 2026 09:35:53 -0000",
+      "published_display": "20.09.2026 · 09:35 Uhr"
+    },
+    {
+      "title": "Bauten am Weißen Haus: Arc de Trump",
+      "summary": "Ein neuer Ballsaal, ein Triumphbogen: Je unbeliebter der US-Präsident wird, desto hektischer versucht er, sich in Architektur zu verewigen. Auch aus praktischen Gründen.",
+      "image": "https://img.zeit.de/2026/40/arc-de-trump-bild-1/original__640x360",
+      "link": "https://www.zeit.de/2026/40/bauten-weisses-haus-donald-trump-ballsaal-triumphbogen-architektur",
+      "published": "Sun, 20 Sep 2026 09:30:41 -0000",
+      "published_display": "20.09.2026 · 09:30 Uhr"
+    },
+    {
+      "title": "Fußball-Nationalmannschaft: Pascal Groß beendet DFB-Karriere: Werde Daumen drücken",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/pascal-gross-beendet-dfb-karriere-werde-daumen-druecken-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/pascal-gross-beendet-dfb-karriere-werde-daumen-druecken",
+      "published": "Sun, 20 Sep 2026 09:28:19 -0000",
+      "published_display": "20.09.2026 · 09:28 Uhr"
+    },
+    {
+      "title": "Fotografie: Bilder des Tages",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/bilder-des-tages-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/bilder-des-tages",
+      "published": "Sun, 20 Sep 2026 09:26:47 -0000",
+      "published_display": "20.09.2026 · 09:26 Uhr"
+    },
     {
       "title": "Fußball-Bundesliga: Keine Ausreden nach sieben Bayern-Watschen für Union Berlin",
       "summary": "",
@@ -89,38 +121,6 @@
       "link": "https://www.zeit.de/politik/deutschland/2026-09/erinnerungspolitik-alternative-fuer-deutschland-geschichte-vergleich",
       "published": "Sun, 20 Sep 2026 09:02:10 -0000",
       "published_display": "20.09.2026 · 09:02 Uhr"
-    },
-    {
-      "title": "Junge Rechte: Attraktiv, fit, rechtsextrem",
-      "summary": "»Wir müssen gut aussehen«: Rechtsextreme setzen auf Attraktivität, gerade bei jungen Menschen. Sie kapern Marken, kopieren Styles und Codes und machen daraus Kampagnen.",
-      "image": "https://img.zeit.de/familie/2026-09/starke-muskeln-blonde-zoepfe-rechte-ideale-attraktiv-bild/original__640x360",
-      "link": "https://www.zeit.de/familie/2026-09/junge-rechte-aesthetik-rechtsextremismus-trends-schoenheitsideal",
-      "published": "Sun, 20 Sep 2026 09:02:02 -0000",
-      "published_display": "20.09.2026 · 09:02 Uhr"
-    },
-    {
-      "title": "Werder gewinnt 3:2 nach 0:2: Der Werder-Wahnsinn: Weiser trifft nach 14 Monaten Pause",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/der-werder-wahnsinn-weiser-trifft-nach-14-monaten-pause-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/der-werder-wahnsinn-weiser-trifft-nach-14-monaten-pause",
-      "published": "Sun, 20 Sep 2026 09:01:10 -0000",
-      "published_display": "20.09.2026 · 09:01 Uhr"
-    },
-    {
-      "title": "Vorhersage: Regen und Sonne im Wechsel – Wetter bleibt unbeständig",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/regen-und-sonne-im-wechsel-wetter-bleibt-unbestaendig-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/regen-und-sonne-im-wechsel-wetter-bleibt-unbestaendig",
-      "published": "Sun, 20 Sep 2026 08:57:51 -0000",
-      "published_display": "20.09.2026 · 08:57 Uhr"
-    },
-    {
-      "title": "Nordkorea: Nordkorea feuert erneut Rakete in Richtung Meer ab",
-      "summary": "Nach Angaben aus Südkorea und Japan hat Nordkorea erneut ein Geschoss von seiner Ostküste abgefeuert. Es soll sich dabei um eine mutmaßlich ballistische Rakete handeln.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/nordkorea-suedkorea-geschoss-meer-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/nordkorea-suedkorea-geschoss-meer",
-      "published": "Sun, 20 Sep 2026 08:57:32 -0000",
-      "published_display": "20.09.2026 · 08:57 Uhr"
     }
   ]
 }
