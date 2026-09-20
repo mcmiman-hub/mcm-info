@@ -1,7 +1,79 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-20T07:16:00.214822+00:00",
+  "updated": "2026-09-20T07:28:06.558275+00:00",
   "items": [
+    {
+      "title": "Kriminalpolizei ermittelt: War es Brandstiftung? Kellerbrand in Pirmasens",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/war-es-brandstiftung-kellerbrand-in-pirmasens-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/war-es-brandstiftung-kellerbrand-in-pirmasens",
+      "published": "Sun, 20 Sep 2026 07:25:23 -0000",
+      "published_display": "20.09.2026 · 07:25 Uhr"
+    },
+    {
+      "title": "Wanderin seit Jahren vermisst: So schätzt die Polizei private Suchen nach Scarlett ein",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/so-schaetzt-die-polizei-private-suchen-nach-scarlett-ein-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/so-schaetzt-die-polizei-private-suchen-nach-scarlett-ein",
+      "published": "Sun, 20 Sep 2026 07:25:04 -0000",
+      "published_display": "20.09.2026 · 07:25 Uhr"
+    },
+    {
+      "title": "Seltene Wurmart: Klimakrise bedroht Existenz von seltenem Riesenregenwurm",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/klimakrise-bedroht-existenz-von-seltenem-riesenregenwurm-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/klimakrise-bedroht-existenz-von-seltenem-riesenregenwurm",
+      "published": "Sun, 20 Sep 2026 07:24:55 -0000",
+      "published_display": "20.09.2026 · 07:24 Uhr"
+    },
+    {
+      "title": "Brände: Wohnungsbrand in Großenhain: 71-Jähriger tot geborgen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/wohnungsbrand-in-grossenhain-71-jaehriger-tot-geborgen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/wohnungsbrand-in-grossenhain-71-jaehriger-tot-geborgen",
+      "published": "Sun, 20 Sep 2026 07:23:44 -0000",
+      "published_display": "20.09.2026 · 07:23 Uhr"
+    },
+    {
+      "title": "Jemen: USA warnen vor Eskalation zwischen Huthis und Saudi-Arabien",
+      "summary": "Der Konflikt zwischen der Huthi-Miliz im Jemen und Saudi-Arabien hat sich weiter verschärft. Das US-Außenministerium warnte vor Reisen in die Region.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/jemen-saudi-arabien-huthi-rebellen-usa-reisewarnung-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/jemen-saudi-arabien-huthi-rebellen-usa-reisewarnung",
+      "published": "Sun, 20 Sep 2026 07:22:52 -0000",
+      "published_display": "20.09.2026 · 07:22 Uhr"
+    },
+    {
+      "title": "2. Fußball-Bundesliga: Holstein Kiel bleibt sieglos – Frust nach erneutem Remis",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/holstein-kiel-bleibt-sieglos-frust-nach-erneutem-remis-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/holstein-kiel-bleibt-sieglos-frust-nach-erneutem-remis",
+      "published": "Sun, 20 Sep 2026 07:20:23 -0000",
+      "published_display": "20.09.2026 · 07:20 Uhr"
+    },
+    {
+      "title": "Landwirtschaft in Thailand: Kein Reis an Kanal Nummer fünf",
+      "summary": "Die Straße von Hormus bleibt blockiert, Dünger wird unbezahlbar. Die thailändische Bäuerin Malai Rayakaew zieht deshalb ihre Konsequenzen.",
+      "image": "https://img.zeit.de/2026/40/kein-reis-an-kanal-nummer-fuenf-bild-5/original__640x360",
+      "link": "https://www.zeit.de/2026/40/landwirtschaft-thailand-reisanbau-strasse-von-hormus-duengemittel-preise",
+      "published": "Sun, 20 Sep 2026 07:17:03 -0000",
+      "published_display": "20.09.2026 · 07:17 Uhr"
+    },
+    {
+      "title": "2. Fußball-Bundesliga: Ein verdienter Auswärts-Döner: Hertha auf Rekordjagd",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/ein-verdienter-auswaerts-doener-hertha-auf-rekordjagd-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/ein-verdienter-auswaerts-doener-hertha-auf-rekordjagd",
+      "published": "Sun, 20 Sep 2026 07:15:11 -0000",
+      "published_display": "20.09.2026 · 07:15 Uhr"
+    },
+    {
+      "title": "Berlin wählt: Keine politischen Bekenntnisse im Wahllokal erlaubt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/keine-politischen-bekenntnisse-im-wahllokal-erlaubt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/keine-politischen-bekenntnisse-im-wahllokal-erlaubt",
+      "published": "Sun, 20 Sep 2026 07:15:04 -0000",
+      "published_display": "20.09.2026 · 07:15 Uhr"
+    },
     {
       "title": "Irankrieg: Iran übermittelt Bedingungen für ein Kriegsende an die USA",
       "summary": "Der Iran hat den USA seine Bedingungen für ein Ende des Krieges übermittelt. Grundlage seiner Forderungen ist das im Juni geschlossene Rahmenabkommen. Das Liveblog",
@@ -49,78 +121,6 @@
       "link": "https://www.zeit.de/zeit-magazin/gewichtsabnahme-maenner-fitness-kaloriendefizit-frauen",
       "published": "Sun, 20 Sep 2026 07:00:22 -0000",
       "published_display": "20.09.2026 · 07:00 Uhr"
-    },
-    {
-      "title": "Berlin-Wahl 2026: Berlin wählt neues Abgeordnetenhaus",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/berlin-waehlt-neues-abgeordnetenhaus-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/berlin-waehlt-neues-abgeordnetenhaus",
-      "published": "Sun, 20 Sep 2026 06:58:30 -0000",
-      "published_display": "20.09.2026 · 06:58 Uhr"
-    },
-    {
-      "title": "Schwerer Unfall: 15-Jähriger klettert auf Zug - lebensgefährlich verletzt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/15-jaehriger-klettert-auf-zug-lebensgefaehrlich-verletzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/15-jaehriger-klettert-auf-zug-lebensgefaehrlich-verletzt",
-      "published": "Sun, 20 Sep 2026 06:57:12 -0000",
-      "published_display": "20.09.2026 · 06:57 Uhr"
-    },
-    {
-      "title": "Landtagswahl: Richtungswahl: Gespannter Blick auf Mecklenburg-Vorpommern",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/richtungswahl-gespannter-blick-auf-mecklenburg-vorpommern-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/richtungswahl-gespannter-blick-auf-mecklenburg-vorpommern",
-      "published": "Sun, 20 Sep 2026 06:53:26 -0000",
-      "published_display": "20.09.2026 · 06:53 Uhr"
-    },
-    {
-      "title": "Fotografie: Bilder des Tages",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/bilder-des-tages-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/bilder-des-tages",
-      "published": "Sun, 20 Sep 2026 06:49:52 -0000",
-      "published_display": "20.09.2026 · 06:49 Uhr"
-    },
-    {
-      "title": "Fußball-Bundesliga: Javi Martínez kehrt in neuer Rolle zum FC Bayern zurück",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/javi-mart-nez-kehrt-in-neuer-rolle-zum-fc-bayern-zurueck-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/javi-mart-nez-kehrt-in-neuer-rolle-zum-fc-bayern-zurueck",
-      "published": "Sun, 20 Sep 2026 06:48:31 -0000",
-      "published_display": "20.09.2026 · 06:48 Uhr"
-    },
-    {
-      "title": "Tödlicher Verkehrsunfall: Wagen überschlägt sich bei Rohrberg – Autofahrer tot",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/wagen-ueberschlaegt-sich-bei-rohrberg-autofahrer-tot-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/wagen-ueberschlaegt-sich-bei-rohrberg-autofahrer-tot",
-      "published": "Sun, 20 Sep 2026 06:44:29 -0000",
-      "published_display": "20.09.2026 · 06:44 Uhr"
-    },
-    {
-      "title": "Landtagswahl in MV: Wahllokale im Nordosten geöffnet",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/wahllokale-im-nordosten-geoeffnet-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/wahllokale-im-nordosten-geoeffnet",
-      "published": "Sun, 20 Sep 2026 06:42:13 -0000",
-      "published_display": "20.09.2026 · 06:42 Uhr"
-    },
-    {
-      "title": "»Der Schimmelreiter« von Theodor Storm: Es hat nicht gedeicht",
-      "summary": "Klassiker der Weltliteratur, neu erzählt für (ewige) Kinder, diesmal: Theodor Storms Novelle »Der Schimmelreiter«",
-      "image": "https://img.zeit.de/2026/40/es-hat-nicht-gedeicht-bild-2/original__640x360",
-      "link": "https://www.zeit.de/2026/40/der-schimmelreiter-theodor-storm-novelle-nordfriesland-deichgraf",
-      "published": "Sun, 20 Sep 2026 06:39:33 -0000",
-      "published_display": "20.09.2026 · 06:39 Uhr"
-    },
-    {
-      "title": "Ein Jahr: Von Bauklötzchen-Logik und frühem Ruhm",
-      "summary": "In unserer Kolumne nehmen wir uns jede Woche ein Lebensjahr vor. In diesem teilten sich die Olsen-Zwillinge eine Rolle in einer Sitcom",
-      "image": "https://img.zeit.de/2026/40/mit-1-bild-2/original__640x360",
-      "link": "https://www.zeit.de/2026/40/ein-jahr-entwicklung-kleinkind-selbstwahrnehmung-flecktest",
-      "published": "Sun, 20 Sep 2026 06:38:46 -0000",
-      "published_display": "20.09.2026 · 06:38 Uhr"
     }
   ]
 }
