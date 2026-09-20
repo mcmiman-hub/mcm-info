@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-20T06:21:50.995108+00:00",
+  "updated": "2026-09-20T06:37:31.697483+00:00",
   "items": [
+    {
+      "title": "Historische Wahlergebnisse in Berlin: Die neue Teilung Berlins",
+      "summary": "Die Mauer verschwand, die politischen Grenzen blieben: Wie sich das Wahlverhalten in Berlin seit 1990 verändert hat – und welche Trennlinien heute zählen.",
+      "image": "https://img.zeit.de/politik/2026-09/historische-wahlergebnisse-berlin-abgeordnetenhaus-daten-teaserbild/original__640x360",
+      "link": "https://www.zeit.de/politik/2026-09/historische-wahlergebnisse-berlin-abgeordnetenhaus-daten",
+      "published": "Sun, 20 Sep 2026 06:36:56 -0000",
+      "published_display": "20.09.2026 · 06:36 Uhr"
+    },
+    {
+      "title": "Wahlen in Berlin und : Wahlen in Berlin und Mecklenburg-Vorpommern haben begonnen",
+      "summary": "In Berlin und Mecklenburg-Vorpommern wird gewählt. Enge Rennen, wacklige Mehrheiten und die Merz-Debatte machen beide Abstimmungen politisch brisant.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/berlin-mecklenburg-vorpommern-afd-wahlen-landtagswahlen-merz-bild-2/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/berlin-mecklenburg-vorpommern-afd-wahlen-landtagswahlen-merz",
+      "published": "Sun, 20 Sep 2026 06:36:03 -0000",
+      "published_display": "20.09.2026 · 06:36 Uhr"
+    },
+    {
+      "title": "Brände: Feuer nach mutmaßlicher Explosion – Mensch schwer verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/feuer-nach-mutmasslicher-explosion-mensch-schwer-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/feuer-nach-mutmasslicher-explosion-mensch-schwer-verletzt",
+      "published": "Sun, 20 Sep 2026 06:25:19 -0000",
+      "published_display": "20.09.2026 · 06:25 Uhr"
+    },
     {
       "title": "Landtagswahl: Richtungswahl: Gespannter Blick auf Mecklenburg-Vorpommern",
       "summary": "",
@@ -51,14 +75,6 @@
       "published_display": "20.09.2026 · 06:03 Uhr"
     },
     {
-      "title": "Wahlen in Berlin und : Wahlen in Berlin und Mecklenburg-Vorpommern haben begonnen",
-      "summary": "In Berlin und Mecklenburg-Vorpommern wird gewählt. Enge Rennen, wacklige Mehrheiten und die Merz-Debatte machen beide Abstimmungen politisch brisant.",
-      "image": "",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/berlin-mecklenburg-vorpommern-afd-wahlen-landtagswahlen-merz",
-      "published": "Sun, 20 Sep 2026 06:00:08 -0000",
-      "published_display": "20.09.2026 · 06:00 Uhr"
-    },
-    {
       "title": "Kontroverse um Sheeran-Tour: Erstes Konzert nach Macklemore-Aus: Sheeran äußert sich",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-09/20/erstes-konzert-nach-macklemore-aus-sheeran-aeussert-sich-image-group/original__640x360",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/feuilleton/musik/2026-09/ed-sheeran-macklemore-us-tour-philadelphia-propalaestinensisch-redefreiheit",
       "published": "Sun, 20 Sep 2026 04:35:20 -0000",
       "published_display": "20.09.2026 · 04:35 Uhr"
-    },
-    {
-      "title": "TV-Ikonen: Jean Pütz wird 90 - und hat da noch was vorbereitet",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/jean-puetz-wird-90-und-hat-da-noch-was-vorbereitet-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/jean-puetz-wird-90-und-hat-da-noch-was-vorbereitet",
-      "published": "Sun, 20 Sep 2026 04:30:04 -0000",
-      "published_display": "20.09.2026 · 04:30 Uhr"
-    },
-    {
-      "title": "Parlamentswahl in Kriegszeiten: Wahl in Russland endet - wie schneidet Putins Partei ab?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/wahl-in-russland-endet-wie-schneidet-putins-partei-ab-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/wahl-in-russland-endet-wie-schneidet-putins-partei-ab",
-      "published": "Sun, 20 Sep 2026 04:28:46 -0000",
-      "published_display": "20.09.2026 · 04:28 Uhr"
     }
   ]
 }
