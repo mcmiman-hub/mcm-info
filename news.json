@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-20T12:48:11.589199+00:00",
+  "updated": "2026-09-20T12:56:43.886050+00:00",
   "items": [
+    {
+      "title": "Cyberkriminalität: Hacker erbeutet Daten von Studierenden der Münchner LMU",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/hacker-erbeutet-daten-von-studierenden-der-muenchner-lmu-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/hacker-erbeutet-daten-von-studierenden-der-muenchner-lmu",
+      "published": "Sun, 20 Sep 2026 12:51:48 -0000",
+      "published_display": "20.09.2026 · 12:51 Uhr"
+    },
     {
       "title": "Berlin-Wahl 2026: CDU-Spitzenkandidat Evers «gelöst und entspannt» zur Wahl",
       "summary": "",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/20/kind-in-schacht-gerutscht-rettungsmassnahmen-laufen-an",
       "published": "Sun, 20 Sep 2026 12:11:50 -0000",
       "published_display": "20.09.2026 · 12:11 Uhr"
-    },
-    {
-      "title": "2. Fußball-Bundesliga: Trost von Klose: KSC rutscht in eine erste Krise",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/trost-von-klose-ksc-rutscht-in-eine-erste-krise-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/trost-von-klose-ksc-rutscht-in-eine-erste-krise",
-      "published": "Sun, 20 Sep 2026 11:59:51 -0000",
-      "published_display": "20.09.2026 · 11:59 Uhr"
     }
   ]
 }
