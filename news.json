@@ -1,7 +1,39 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-20T07:42:47.283119+00:00",
+  "updated": "2026-09-20T07:54:19.559304+00:00",
   "items": [
+    {
+      "title": "Iran-Krieg: Teheran fordert US-Konzessionen vor neuen Verhandlungen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/teheran-fordert-us-konzessionen-vor-neuen-verhandlungen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/teheran-fordert-us-konzessionen-vor-neuen-verhandlungen",
+      "published": "Sun, 20 Sep 2026 07:47:41 -0000",
+      "published_display": "20.09.2026 · 07:47 Uhr"
+    },
+    {
+      "title": "Landtagswahl in MV: Wahlkampfabschluss in MV - AfD hofft auf «blaue Wende»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/wahlkampfabschluss-in-mv-afd-hofft-auf-blaue-wende-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/wahlkampfabschluss-in-mv-afd-hofft-auf-blaue-wende",
+      "published": "Sun, 20 Sep 2026 07:43:48 -0000",
+      "published_display": "20.09.2026 · 07:43 Uhr"
+    },
+    {
+      "title": "Feuerwehreinsatz: Brand in Recyclinganlage in Cottbus",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/brand-in-recyclinganlage-in-cottbus-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/brand-in-recyclinganlage-in-cottbus",
+      "published": "Sun, 20 Sep 2026 07:42:27 -0000",
+      "published_display": "20.09.2026 · 07:42 Uhr"
+    },
+    {
+      "title": "Vermisstensuche: Vermisster Pilzsammler nach stundenlanger Suche gefunden",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/vermisster-pilzsammler-nach-stundenlanger-suche-gefunden-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/vermisster-pilzsammler-nach-stundenlanger-suche-gefunden",
+      "published": "Sun, 20 Sep 2026 07:42:00 -0000",
+      "published_display": "20.09.2026 · 07:42 Uhr"
+    },
     {
       "title": "24/7 geöffnet: Von Saatgut bis Beton: Was Automaten alles bieten",
       "summary": "",
@@ -89,38 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/20/holstein-kiel-bleibt-sieglos-frust-nach-erneutem-remis",
       "published": "Sun, 20 Sep 2026 07:20:23 -0000",
       "published_display": "20.09.2026 · 07:20 Uhr"
-    },
-    {
-      "title": "Landwirtschaft in Thailand: Kein Reis an Kanal Nummer fünf",
-      "summary": "Die Straße von Hormus bleibt blockiert, Dünger wird unbezahlbar. Die thailändische Bäuerin Malai Rayakaew zieht deshalb ihre Konsequenzen.",
-      "image": "https://img.zeit.de/2026/40/kein-reis-an-kanal-nummer-fuenf-bild-5/original__640x360",
-      "link": "https://www.zeit.de/2026/40/landwirtschaft-thailand-reisanbau-strasse-von-hormus-duengemittel-preise",
-      "published": "Sun, 20 Sep 2026 07:17:03 -0000",
-      "published_display": "20.09.2026 · 07:17 Uhr"
-    },
-    {
-      "title": "2. Fußball-Bundesliga: Ein verdienter Auswärts-Döner: Hertha auf Rekordjagd",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/ein-verdienter-auswaerts-doener-hertha-auf-rekordjagd-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/ein-verdienter-auswaerts-doener-hertha-auf-rekordjagd",
-      "published": "Sun, 20 Sep 2026 07:15:11 -0000",
-      "published_display": "20.09.2026 · 07:15 Uhr"
-    },
-    {
-      "title": "Berlin wählt: Keine politischen Bekenntnisse im Wahllokal erlaubt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/keine-politischen-bekenntnisse-im-wahllokal-erlaubt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/keine-politischen-bekenntnisse-im-wahllokal-erlaubt",
-      "published": "Sun, 20 Sep 2026 07:15:04 -0000",
-      "published_display": "20.09.2026 · 07:15 Uhr"
-    },
-    {
-      "title": "Irankrieg: Iran übermittelt Bedingungen für ein Kriegsende an die USA",
-      "summary": "Der Iran hat den USA seine Bedingungen für ein Ende des Krieges übermittelt. Grundlage seiner Forderungen ist das im Juni geschlossene Rahmenabkommen. Das Liveblog",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/iran-krieg-donald-trump-hormus-live-bild-4/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-05/iran-krieg-donald-trump-hormus-live",
-      "published": "Sun, 20 Sep 2026 07:13:36 -0000",
-      "published_display": "20.09.2026 · 07:13 Uhr"
     }
   ]
 }
