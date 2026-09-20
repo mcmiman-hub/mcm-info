@@ -1,7 +1,71 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-20T03:55:39.407833+00:00",
+  "updated": "2026-09-20T04:17:41.900268+00:00",
   "items": [
+    {
+      "title": "Gefahren durch KI: Die wollen gebremst werden? Wirklich?",
+      "summary": "Ausgerechnet die Chefs der großen KI-Unternehmen warnen vor ihrer Technik. Sie wünschen sich neue Gesetze – und könnten dadurch noch mächtiger werden.",
+      "image": "https://img.zeit.de/wirtschaft/2026-09/gefahren-ki-risiken-openai-anthropic-dario-amodei-sam-altman-bild-03/original__640x360",
+      "link": "https://www.zeit.de/2026/40/gefahren-ki-risiken-openai-anthropic-dario-amodei-sam-altman",
+      "published": "Sun, 20 Sep 2026 04:16:03 -0000",
+      "published_display": "20.09.2026 · 04:16 Uhr"
+    },
+    {
+      "title": "Richard Socher und Arthur Mensch: »Es gibt kein realistisches Szenario, wie KI die Menschheit auslöscht«",
+      "summary": "Die Chefs der großen KI-Konzerne warnen vor dem Weltuntergang. Aber längst nicht alle in der Szene glauben, dass wir verloren sind. Es gibt sogar gute Gründe dagegen.",
+      "image": "https://img.zeit.de/digital/2026-09/ki-menschheit-untergang/original__640x360",
+      "link": "https://www.zeit.de/digital/2026-09/richard-socher-arthur-mensch-mistral-ai-risiken-ki-unternehmer",
+      "published": "Sun, 20 Sep 2026 04:11:39 -0000",
+      "published_display": "20.09.2026 · 04:11 Uhr"
+    },
+    {
+      "title": "Landtagswahl in Mecklenburg-Vorpommern: Kann Manuela Schwesig die SPD an der Macht halten?",
+      "summary": "Bei der Wahl in Mecklenburg-Vorpommern liegen SPD und AfD fast gleichauf. Welche Folgen hat die Wahl für die Bundesregierung? Und: Was bringt der Tankrabatt?",
+      "image": "https://img.zeit.de/politik/2026-09/landtagswahl-mecklenburg-vorpommern-spd-nachrichtenpodcast-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/2026-09/landtagswahl-mecklenburg-vorpommern-spd-nachrichtenpodcast",
+      "published": "Sun, 20 Sep 2026 04:00:07 -0000",
+      "published_display": "20.09.2026 · 04:00 Uhr"
+    },
+    {
+      "title": "Berlin-Wahl: Die Spitzenkandidaten bei der Berliner Abgeordnetenhauswahl",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/die-spitzenkandidaten-bei-der-berliner-abgeordnetenhauswahl-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/die-spitzenkandidaten-bei-der-berliner-abgeordnetenhauswahl",
+      "published": "Sun, 20 Sep 2026 04:00:07 -0000",
+      "published_display": "20.09.2026 · 04:00 Uhr"
+    },
+    {
+      "title": "Landtagswahl: Das sind die Spitzenkandidatinnen und -kandidaten in MV",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/das-sind-die-spitzenkandidatinnen-und-kandidaten-in-mv-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/das-sind-die-spitzenkandidatinnen-und-kandidaten-in-mv",
+      "published": "Sun, 20 Sep 2026 04:00:07 -0000",
+      "published_display": "20.09.2026 · 04:00 Uhr"
+    },
+    {
+      "title": "Rock im Park und am Ring: Kosten, Chaos und die Zukunft der Zwillings-Rockfestivals",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/kosten-chaos-und-die-zukunft-der-zwillings-rockfestivals-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/kosten-chaos-und-die-zukunft-der-zwillings-rockfestivals",
+      "published": "Sun, 20 Sep 2026 04:00:06 -0000",
+      "published_display": "20.09.2026 · 04:00 Uhr"
+    },
+    {
+      "title": "Gesundheit: Wenn das Herz stillsteht: Mit bloßen Händen Leben retten",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/wenn-das-herz-stillsteht-mit-blossen-haenden-leben-retten-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/wenn-das-herz-stillsteht-mit-blossen-haenden-leben-retten",
+      "published": "Sun, 20 Sep 2026 04:00:05 -0000",
+      "published_display": "20.09.2026 · 04:00 Uhr"
+    },
+    {
+      "title": "Von Auto angefahren: Unfall in Hamburg: Fußgänger am Kopf verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/unfall-in-hamburg-fussgaenger-lebensgefaehrlich-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/unfall-in-hamburg-fussgaenger-lebensgefaehrlich-verletzt",
+      "published": "Sun, 20 Sep 2026 03:57:19 -0000",
+      "published_display": "20.09.2026 · 03:57 Uhr"
+    },
     {
       "title": "Foto-Safari-Tipps: Mehr als buntes Laub: Wo NRW im Herbst besonders fotogen ist",
       "summary": "",
@@ -57,70 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/20/wie-ein-traum-weisers-siegtor-nach-14-monaten-pause",
       "published": "Sun, 20 Sep 2026 03:21:04 -0000",
       "published_display": "20.09.2026 · 03:21 Uhr"
-    },
-    {
-      "title": "Fußball-Bundesliga: Undav im Kampf gegen Kritik: «Habe schon einen Krieg gehabt»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/undav-im-kampf-gegen-kritik-habe-schon-einen-krieg-gehabt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/undav-im-kampf-gegen-kritik-habe-schon-einen-krieg-gehabt",
-      "published": "Sun, 20 Sep 2026 03:15:04 -0000",
-      "published_display": "20.09.2026 · 03:15 Uhr"
-    },
-    {
-      "title": "Ebolaepidemie: Demokratische Republik Kongo startet Ebola-Impfprogramm",
-      "summary": "Die Vakzine Ervebo hatte frühere Ebolaepidemien erfolgreich eingedämmt. Nun testen Behörden, ob der Impfstoff auch gegen die neuartige Bundibugyo-Variante wirkt.",
-      "image": "https://img.zeit.de/gesundheit/2026-09/ebola-dr-kongo-ausbruch-impfung-ervebo-bundibugyo-foto-1/original__640x360",
-      "link": "https://www.zeit.de/gesundheit/2026-09/ebola-dr-kongo-ausbruch-impfung-ervebo-testprogramm",
-      "published": "Sun, 20 Sep 2026 03:08:21 -0000",
-      "published_display": "20.09.2026 · 03:08 Uhr"
-    },
-    {
-      "title": "Optimismus-Appell: Telekom-Chef: «Ich freue mich über jede Baustelle»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/telekom-chef-ich-freue-mich-ueber-jede-baustelle-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/telekom-chef-ich-freue-mich-ueber-jede-baustelle",
-      "published": "Sun, 20 Sep 2026 03:05:04 -0000",
-      "published_display": "20.09.2026 · 03:05 Uhr"
-    },
-    {
-      "title": "Freizeit: Pilzsaison startet: Was Sammler beachten müssen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/pilzsaison-startet-was-sammler-beachten-muessen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/pilzsaison-startet-was-sammler-beachten-muessen",
-      "published": "Sun, 20 Sep 2026 03:02:04 -0000",
-      "published_display": "20.09.2026 · 03:02 Uhr"
-    },
-    {
-      "title": "Wettervorhersage: Die Wiesn läuft – und so wird das Wetter",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/die-wiesn-laeuft-und-so-wird-das-wetter-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/die-wiesn-laeuft-und-so-wird-das-wetter",
-      "published": "Sun, 20 Sep 2026 03:00:38 -0000",
-      "published_display": "20.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Vogelzug: Viele Herausforderungen für Zugvögel",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/viele-herausforderungen-fuer-zugvoegel-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/viele-herausforderungen-fuer-zugvoegel",
-      "published": "Sun, 20 Sep 2026 03:00:37 -0000",
-      "published_display": "20.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Landgericht nennt Termine: Prozess um systematische Gewalt in Behindertenheim beginnt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/prozess-um-systematische-gewalt-in-behindertenheim-beginnt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/prozess-um-systematische-gewalt-in-behindertenheim-beginnt",
-      "published": "Sun, 20 Sep 2026 03:00:23 -0000",
-      "published_display": "20.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Fortschritt der Bauarbeiten: Fehmarnbeltquerung - Neuer Eröffnungszeitplan noch 2026",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/fehmarnbeltquerung-neuer-eroeffnungszeitplan-noch-2026-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/fehmarnbeltquerung-neuer-eroeffnungszeitplan-noch-2026",
-      "published": "Sun, 20 Sep 2026 03:00:23 -0000",
-      "published_display": "20.09.2026 · 03:00 Uhr"
     }
   ]
 }
