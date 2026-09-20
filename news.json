@@ -1,30 +1,38 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-20T22:54:14.738252+00:00",
+  "updated": "2026-09-20T23:15:53.723231+00:00",
   "items": [
+    {
+      "title": "Landtagswahl: Die «Frau gegen Blau» hofft auf Fortsetzung in Schwerin",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/die-frau-gegen-blau-hofft-auf-fortsetzung-in-schwerin-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/die-frau-gegen-blau-hofft-auf-fortsetzung-in-schwerin",
+      "published": "Sun, 20 Sep 2026 23:14:06 -0000",
+      "published_display": "20.09.2026 · 23:14 Uhr"
+    },
     {
       "title": "Wahlergebnisse in Berlin 2026: Alle Ergebnisse der Wahl zum Abgeordnetenhaus in Berlin",
       "summary": "Welche Koalitionen sind im Abgeordnetenhaus möglich? Welche Kandidaten und Parteien gewinnen welchen Wahlkreis? Alle Daten und Karten zur Abgeordnetenhauswahl in Berlin",
       "image": "https://img.zeit.de/politik/deutschland/2026-09/landtagswahl-berlin-ergebnisse-wahlkreise-2026-bild/original__640x360",
       "link": "https://www.zeit.de/politik/deutschland/2026-09/berlin-wahl-abgeordnetenhaus-2026-ergebnisse-live",
-      "published": "Sun, 20 Sep 2026 22:52:22 -0000",
-      "published_display": "20.09.2026 · 22:52 Uhr"
-    },
-    {
-      "title": "Wahl in Mecklenburg-Vorpommern: AfD gewinnt Wahl laut vorläufigem Ergebnis, CDU unter fünf Prozent",
-      "summary": "Die AfD kommt auf 38,2 Prozent der Stimmen, die SPD wird zweitstärkste Kraft. Ministerpräsidentin Schwesig kritisiert Bundeskanzler Merz. Das Liveblog zum Nachlesen",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/mecklenburg-vorpommern-landtagswahl-schwesig-4-liveblog/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/mecklenburg-vorpommern-landtagswahl-liveblog",
-      "published": "Sun, 20 Sep 2026 22:50:37 -0000",
-      "published_display": "20.09.2026 · 22:50 Uhr"
+      "published": "Sun, 20 Sep 2026 23:12:24 -0000",
+      "published_display": "20.09.2026 · 23:12 Uhr"
     },
     {
       "title": "Landtagswahl in MV: Vorläufiges Ergebnis: AfD siegt in MV - Debakel für die CDU",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-09/21/richtungswahl-gespannter-blick-auf-mecklenburg-vorpommern-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-09/20/richtungswahl-gespannter-blick-auf-mecklenburg-vorpommern",
-      "published": "Sun, 20 Sep 2026 22:33:37 -0000",
-      "published_display": "20.09.2026 · 22:33 Uhr"
+      "published": "Sun, 20 Sep 2026 23:02:56 -0000",
+      "published_display": "20.09.2026 · 23:02 Uhr"
+    },
+    {
+      "title": "Wahl in Mecklenburg-Vorpommern: AfD gewinnt Wahl laut vorläufigem Ergebnis, CDU unter fünf Prozent",
+      "summary": "Die AfD kommt auf 38,2 Prozent der Stimmen, die SPD wird zweitstärkste Kraft. Ministerpräsidentin Schwesig kritisiert Bundeskanzler Merz. Das Liveblog zum Nachlesen",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/mecklenburg-vorpommern-landtagswahl-schwesig-4-liveblog/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/mecklenburg-vorpommern-landtagswahl-liveblog",
+      "published": "Sun, 20 Sep 2026 22:56:10 -0000",
+      "published_display": "20.09.2026 · 22:56 Uhr"
     },
     {
       "title": "Wahlverhalten in Mecklenburg-Vorpommern: Darum verloren alle außer der AfD",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/politik/deutschland/2026-09/elif-eralp-linke-berlin-abgeordnetenhauswahl",
       "published": "Sun, 20 Sep 2026 21:59:17 -0000",
       "published_display": "20.09.2026 · 21:59 Uhr"
-    },
-    {
-      "title": "Kalenderblatt: Was geschah am 21. September?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/was-geschah-am-21-september-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/was-geschah-am-21-september",
-      "published": "Sun, 20 Sep 2026 21:55:04 -0000",
-      "published_display": "20.09.2026 · 21:55 Uhr"
     }
   ]
 }
