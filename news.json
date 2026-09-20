@@ -1,14 +1,54 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-20T21:16:14.961638+00:00",
+  "updated": "2026-09-20T21:27:51.675334+00:00",
   "items": [
+    {
+      "title": "Berlin-Wahl: Giffey nicht mehr im Berliner Abgeordnetenhaus",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/giffey-nicht-mehr-im-berliner-abgeordnetenhaus-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/giffey-nicht-mehr-im-berliner-abgeordnetenhaus",
+      "published": "Sun, 20 Sep 2026 21:24:25 -0000",
+      "published_display": "20.09.2026 · 21:24 Uhr"
+    },
     {
       "title": "Wahlergebnisse in Berlin 2026: Alle Ergebnisse der Wahl zum Abgeordnetenhaus in Berlin",
       "summary": "Welche Koalitionen sind im Abgeordnetenhaus möglich? Welche Kandidaten und Parteien gewinnen welchen Wahlkreis? Alle Daten und Karten zur Abgeordnetenhauswahl in Berlin",
       "image": "https://img.zeit.de/politik/deutschland/2026-09/landtagswahl-berlin-ergebnisse-wahlkreise-2026-bild/original__640x360",
       "link": "https://www.zeit.de/politik/deutschland/2026-09/berlin-wahl-abgeordnetenhaus-2026-ergebnisse-live",
-      "published": "Sun, 20 Sep 2026 21:14:26 -0000",
-      "published_display": "20.09.2026 · 21:14 Uhr"
+      "published": "Sun, 20 Sep 2026 21:24:22 -0000",
+      "published_display": "20.09.2026 · 21:24 Uhr"
+    },
+    {
+      "title": "Wahl in Berlin: Spitzenkandidaten von CDU und SPD verfehlen Direktmandate",
+      "summary": "Stefan Evers kommt in seinem Wahlkreis auf Platz zwei, Steffen Krach sogar nur auf den dritten Platz. Elif Eralp gewinnt ein Direktmandat in Kreuzberg. Das Liveblog",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/wahl-abgeordnetenhaus-berlin-2026-live-bild-16/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/wahl-abgeordnetenhaus-berlin-2026-live",
+      "published": "Sun, 20 Sep 2026 21:21:56 -0000",
+      "published_display": "20.09.2026 · 21:21 Uhr"
+    },
+    {
+      "title": "Wahlen: Innenminister Pegel gewinnt Wahlkreis",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/innenminister-pegel-gewinnt-wahlkreis-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/innenminister-pegel-gewinnt-wahlkreis",
+      "published": "Sun, 20 Sep 2026 21:20:48 -0000",
+      "published_display": "20.09.2026 · 21:20 Uhr"
+    },
+    {
+      "title": "Wahlergebnisse in Mecklenburg-Vorpommern 2026: Alle Ergebnisse der Landtagswahl in Mecklenburg-Vorpommern – live",
+      "summary": "Welche Koalitionen sind im Landtag möglich? Welche Kandidaten und Parteien gewinnen welchen Wahlkreis? Alle Daten und Karten zur Landtagswahl in Mecklenburg-Vorpommern",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/landtagswahl-mecklenburg-vorpommern-ergebnisse-wahlkreise-2026-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/landtagswahl-mecklenburg-vorpommern-ergebnisse-wahlkreise-2026",
+      "published": "Sun, 20 Sep 2026 21:19:02 -0000",
+      "published_display": "20.09.2026 · 21:19 Uhr"
+    },
+    {
+      "title": "Wahl zum Abgeordnetenhaus: Eralp gewinnt Direktmandat mit großem Vorsprung",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/eralp-gewinnt-direktmandat-mit-grossem-vorsprung-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/eralp-gewinnt-direktmandat-mit-grossem-vorsprung",
+      "published": "Sun, 20 Sep 2026 21:15:02 -0000",
+      "published_display": "20.09.2026 · 21:15 Uhr"
     },
     {
       "title": "Abgeordnetenhauswahl: AfD liegt in Marzahn-Hellersdorf deutlich vorn",
@@ -25,14 +65,6 @@
       "link": "https://www.zeit.de/news/2026-09/20/berliner-cdu-spitzenkandidat-evers-verliert-direktmandat",
       "published": "Sun, 20 Sep 2026 21:13:34 -0000",
       "published_display": "20.09.2026 · 21:13 Uhr"
-    },
-    {
-      "title": "Wahlergebnisse in Mecklenburg-Vorpommern 2026: Alle Ergebnisse der Landtagswahl in Mecklenburg-Vorpommern – live",
-      "summary": "Welche Koalitionen sind im Landtag möglich? Welche Kandidaten und Parteien gewinnen welchen Wahlkreis? Alle Daten und Karten zur Landtagswahl in Mecklenburg-Vorpommern",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/landtagswahl-mecklenburg-vorpommern-ergebnisse-wahlkreise-2026-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/landtagswahl-mecklenburg-vorpommern-ergebnisse-wahlkreise-2026",
-      "published": "Sun, 20 Sep 2026 21:10:02 -0000",
-      "published_display": "20.09.2026 · 21:10 Uhr"
     },
     {
       "title": "Berlin-Wahl: SPD-Spitzenkandidat Krach verfehlt Direktmandat",
@@ -89,38 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/20/kann-die-fuenf-prozent-huerde-merz-zu-fall-bringen",
       "published": "Sun, 20 Sep 2026 20:43:11 -0000",
       "published_display": "20.09.2026 · 20:43 Uhr"
-    },
-    {
-      "title": "Abgeordnetenhauswahl: BSW trotz offenen Ausgangs in Berlin: «Wir sind wieder da»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/bsw-trotz-offenen-ausgangs-in-berlin-wir-sind-wieder-da-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/bsw-trotz-offenen-ausgangs-in-berlin-wir-sind-wieder-da",
-      "published": "Sun, 20 Sep 2026 20:42:47 -0000",
-      "published_display": "20.09.2026 · 20:42 Uhr"
-    },
-    {
-      "title": "Landtagswahl MV: AfD-Mann Holm: «Kanzler wird das Jahresende nicht erreichen»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/afd-mann-holm-kanzler-wird-das-jahresende-nicht-erreichen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/afd-mann-holm-kanzler-wird-das-jahresende-nicht-erreichen",
-      "published": "Sun, 20 Sep 2026 20:42:42 -0000",
-      "published_display": "20.09.2026 · 20:42 Uhr"
-    },
-    {
-      "title": "Straßenrad-Weltmeisterschaften: Vierter WM-Titel: Evenepoel knackt Martin-Rekord",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/vierter-wm-titel-evenepoel-knackt-martin-rekord-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/vierter-wm-titel-evenepoel-knackt-martin-rekord",
-      "published": "Sun, 20 Sep 2026 20:41:20 -0000",
-      "published_display": "20.09.2026 · 20:41 Uhr"
-    },
-    {
-      "title": "Landtag: Die niedrigsten CDU-Wahlergebnisse bei Landtagswahlen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/die-niedrigsten-cdu-wahlergebnisse-bei-landtagswahlen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/die-niedrigsten-cdu-wahlergebnisse-bei-landtagswahlen",
-      "published": "Sun, 20 Sep 2026 20:37:15 -0000",
-      "published_display": "20.09.2026 · 20:37 Uhr"
     }
   ]
 }
