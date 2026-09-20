@@ -1,14 +1,86 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-20T21:54:01.178575+00:00",
+  "updated": "2026-09-20T22:15:58.471171+00:00",
   "items": [
+    {
+      "title": "Landtagswahl in MV: Vorläufiges Ergebnis: AfD siegt in MV - Debakel für die CDU",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/richtungswahl-gespannter-blick-auf-mecklenburg-vorpommern-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/richtungswahl-gespannter-blick-auf-mecklenburg-vorpommern",
+      "published": "Sun, 20 Sep 2026 22:13:31 -0000",
+      "published_display": "20.09.2026 · 22:13 Uhr"
+    },
     {
       "title": "Wahlergebnisse in Berlin 2026: Alle Ergebnisse der Wahl zum Abgeordnetenhaus in Berlin",
       "summary": "Welche Koalitionen sind im Abgeordnetenhaus möglich? Welche Kandidaten und Parteien gewinnen welchen Wahlkreis? Alle Daten und Karten zur Abgeordnetenhauswahl in Berlin",
       "image": "https://img.zeit.de/politik/deutschland/2026-09/landtagswahl-berlin-ergebnisse-wahlkreise-2026-bild/original__640x360",
       "link": "https://www.zeit.de/politik/deutschland/2026-09/berlin-wahl-abgeordnetenhaus-2026-ergebnisse-live",
-      "published": "Sun, 20 Sep 2026 21:51:24 -0000",
-      "published_display": "20.09.2026 · 21:51 Uhr"
+      "published": "Sun, 20 Sep 2026 22:13:22 -0000",
+      "published_display": "20.09.2026 · 22:13 Uhr"
+    },
+    {
+      "title": "Wahlergebnisse in Mecklenburg-Vorpommern 2026: Alle Ergebnisse der Landtagswahl in Mecklenburg-Vorpommern",
+      "summary": "Welche Koalitionen sind im Landtag möglich? Welche Kandidaten und Parteien gewinnen welchen Wahlkreis? Alle Daten und Karten zur Landtagswahl in Mecklenburg-Vorpommern",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/landtagswahl-mecklenburg-vorpommern-ergebnisse-wahlkreise-2026-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/landtagswahl-mecklenburg-vorpommern-ergebnisse-wahlkreise-2026",
+      "published": "Sun, 20 Sep 2026 22:13:02 -0000",
+      "published_display": "20.09.2026 · 22:13 Uhr"
+    },
+    {
+      "title": "Vorläufiges Endergebnis: AfD gewinnt Landtagswahl in Mecklenburg-Vorpommern",
+      "summary": "In Mecklenburg-Vorpommern holt die AfD mehr als 38 Prozent der Stimmen, die SPD 35,5 Prozent. Linke und Grüne schaffen es in den Landtag, CDU und BSW sind raus.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/afd-mecklenburg-vorpommern-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/afd-sieg-landtagswahl-mecklenburg-vorpommern",
+      "published": "Sun, 20 Sep 2026 22:10:58 -0000",
+      "published_display": "20.09.2026 · 22:10 Uhr"
+    },
+    {
+      "title": "Wahlen: Schwesig gewinnt Wahlkreis gegen AfD-Politiker Holm deutlich",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/schwesig-gewinnt-wahlkreis-gegen-afd-politiker-holm-deutlich-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/schwesig-gewinnt-wahlkreis-gegen-afd-politiker-holm-deutlich",
+      "published": "Sun, 20 Sep 2026 22:09:41 -0000",
+      "published_display": "20.09.2026 · 22:09 Uhr"
+    },
+    {
+      "title": "Wahlen: Vorläufiges Ergebnis: AfD siegt in MV - Debakel für die CDU",
+      "summary": "",
+      "image": "",
+      "link": "https://www.zeit.de/news/2026-09/21/vorlaeufiges-ergebnis-afd-siegt-in-mv-debakel-fuer-die-cdu",
+      "published": "Sun, 20 Sep 2026 22:08:46 -0000",
+      "published_display": "20.09.2026 · 22:08 Uhr"
+    },
+    {
+      "title": "Parlamentswahl in Russland: Regierungspartei steuert bei russischer Parlamentswahl auf Wahlsieg zu",
+      "summary": "Wie erwartet liegt die Partei von Wladimir Putin bei der Parlamentswahl klar vorn. Laut ersten Ergebnissen kommt sie auf mehr als 50 Prozent der Stimmen.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/parlamentswahl-russland-wladimir-putin-geeintes-russland-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/parlamentswahl-russland-wladimir-putin-geeintes-russland",
+      "published": "Sun, 20 Sep 2026 22:04:11 -0000",
+      "published_display": "20.09.2026 · 22:04 Uhr"
+    },
+    {
+      "title": "Vorfall in Mönchengladbach: Polizeiwagen stoßen mit Blaulicht auf Kreuzung zusammen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/polizeiwagen-stossen-mit-blaulicht-auf-kreuzung-zusammen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/polizeiwagen-stossen-mit-blaulicht-auf-kreuzung-zusammen",
+      "published": "Sun, 20 Sep 2026 21:59:26 -0000",
+      "published_display": "20.09.2026 · 21:59 Uhr"
+    },
+    {
+      "title": "Elif Eralp: Die Hoffnung der Linken",
+      "summary": "Kann Elif Eralp Bürgermeisterin aller Berliner werden? Das hängt davon ab, wie sie mit den Vorwürfen gegen ihre Partei umgeht.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/elif-eralp-linke-berlin-18/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/elif-eralp-linke-berlin-abgeordnetenhauswahl",
+      "published": "Sun, 20 Sep 2026 21:59:17 -0000",
+      "published_display": "20.09.2026 · 21:59 Uhr"
+    },
+    {
+      "title": "Kalenderblatt: Was geschah am 21. September?",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/was-geschah-am-21-september-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/was-geschah-am-21-september",
+      "published": "Sun, 20 Sep 2026 21:55:04 -0000",
+      "published_display": "20.09.2026 · 21:55 Uhr"
     },
     {
       "title": "Abgeordnetenhauswahl: AfD-Spitzenkandidatin Brinker holt kein Direktmandat",
@@ -24,14 +96,6 @@
       "image": "https://img.zeit.de/news/2026-09/20/mann-soll-kinder-und-anwohner-mit-machete-bedroht-haben-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-09/20/mann-soll-kinder-und-anwohner-mit-machete-bedroht-haben",
       "published": "Sun, 20 Sep 2026 21:45:29 -0000",
-      "published_display": "20.09.2026 · 21:45 Uhr"
-    },
-    {
-      "title": "Wahlergebnisse in Mecklenburg-Vorpommern 2026: Alle Ergebnisse der Landtagswahl in Mecklenburg-Vorpommern – live",
-      "summary": "Welche Koalitionen sind im Landtag möglich? Welche Kandidaten und Parteien gewinnen welchen Wahlkreis? Alle Daten und Karten zur Landtagswahl in Mecklenburg-Vorpommern",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/landtagswahl-mecklenburg-vorpommern-ergebnisse-wahlkreise-2026-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/landtagswahl-mecklenburg-vorpommern-ergebnisse-wahlkreise-2026",
-      "published": "Sun, 20 Sep 2026 21:45:02 -0000",
       "published_display": "20.09.2026 · 21:45 Uhr"
     },
     {
@@ -57,70 +121,6 @@
       "link": "https://www.zeit.de/politik/deutschland/2026-09/wahl-abgeordnetenhaus-berlin-2026-live",
       "published": "Sun, 20 Sep 2026 21:21:56 -0000",
       "published_display": "20.09.2026 · 21:21 Uhr"
-    },
-    {
-      "title": "Wahlen: Innenminister Pegel gewinnt Wahlkreis",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/innenminister-pegel-gewinnt-wahlkreis-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/innenminister-pegel-gewinnt-wahlkreis",
-      "published": "Sun, 20 Sep 2026 21:20:48 -0000",
-      "published_display": "20.09.2026 · 21:20 Uhr"
-    },
-    {
-      "title": "Wahl zum Abgeordnetenhaus: Eralp gewinnt Direktmandat mit großem Vorsprung",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/eralp-gewinnt-direktmandat-mit-grossem-vorsprung-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/eralp-gewinnt-direktmandat-mit-grossem-vorsprung",
-      "published": "Sun, 20 Sep 2026 21:15:02 -0000",
-      "published_display": "20.09.2026 · 21:15 Uhr"
-    },
-    {
-      "title": "Abgeordnetenhauswahl: AfD liegt in Marzahn-Hellersdorf deutlich vorn",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/afd-liegt-in-marzahn-hellersdorf-deutlich-vorn-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/afd-liegt-in-marzahn-hellersdorf-deutlich-vorn",
-      "published": "Sun, 20 Sep 2026 21:14:26 -0000",
-      "published_display": "20.09.2026 · 21:14 Uhr"
-    },
-    {
-      "title": "Wahl zum Abgeordnetenhaus: Berliner CDU-Spitzenkandidat Evers verliert Direktmandat",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/berliner-cdu-spitzenkandidat-evers-verliert-direktmandat-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/berliner-cdu-spitzenkandidat-evers-verliert-direktmandat",
-      "published": "Sun, 20 Sep 2026 21:13:34 -0000",
-      "published_display": "20.09.2026 · 21:13 Uhr"
-    },
-    {
-      "title": "Berlin-Wahl: SPD-Spitzenkandidat Krach verfehlt Direktmandat",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/spd-spitzenkandidat-krach-verfehlt-direktmandat-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/spd-spitzenkandidat-krach-verfehlt-direktmandat",
-      "published": "Sun, 20 Sep 2026 21:06:08 -0000",
-      "published_display": "20.09.2026 · 21:06 Uhr"
-    },
-    {
-      "title": "Berlin-Wahl: Regierungschef Wegner holt Direktmandat in Spandau",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/regierungschef-wegner-holt-direktmandat-in-spandau-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/regierungschef-wegner-holt-direktmandat-in-spandau",
-      "published": "Sun, 20 Sep 2026 21:01:33 -0000",
-      "published_display": "20.09.2026 · 21:01 Uhr"
-    },
-    {
-      "title": "Fotografie: Bilder des Tages",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/bilder-des-tages-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/bilder-des-tages",
-      "published": "Sun, 20 Sep 2026 20:58:49 -0000",
-      "published_display": "20.09.2026 · 20:58 Uhr"
-    },
-    {
-      "title": "Auftakt von drei Hallenshows: Erstes Konzert von Haftbefehl nach Auftrittspause",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/erstes-konzert-von-haftbefehl-nach-auftrittspause-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/erstes-konzert-von-haftbefehl-nach-auftrittspause",
-      "published": "Sun, 20 Sep 2026 20:57:52 -0000",
-      "published_display": "20.09.2026 · 20:57 Uhr"
     }
   ]
 }
