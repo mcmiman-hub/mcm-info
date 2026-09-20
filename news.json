@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-20T04:17:41.900268+00:00",
+  "updated": "2026-09-20T04:30:17.363124+00:00",
   "items": [
+    {
+      "title": "Photovoltaikpark: »Eigentlich bin ich nicht darauf angewiesen, in Zukunft zu arbeiten«",
+      "summary": "Frederik, 27, erhält als Trainee 6.250 Euro. Zusätzlich betreibt er seit einem Erbe einen Photovoltaikpark und verdient dadurch netto insgesamt 12.000 Euro im Monat.",
+      "image": "https://img.zeit.de/arbeit/2026-09/photovoltaikpark-netzbetreiber-erbe-vermoegen-kontoauszug-bild/original__640x360",
+      "link": "https://www.zeit.de/arbeit/2026-09/photovoltaikpark-netzbetreiber-erbe-vermoegen-kontoauszug",
+      "published": "Sun, 20 Sep 2026 04:25:46 -0000",
+      "published_display": "20.09.2026 · 04:25 Uhr"
+    },
     {
       "title": "Gefahren durch KI: Die wollen gebremst werden? Wirklich?",
       "summary": "Ausgerechnet die Chefs der großen KI-Unternehmen warnen vor ihrer Technik. Sie wünschen sich neue Gesetze – und könnten dadurch noch mächtiger werden.",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/20/wahl-in-russland-endet-wie-schneidet-putins-partei-ab",
       "published": "Sun, 20 Sep 2026 03:24:21 -0000",
       "published_display": "20.09.2026 · 03:24 Uhr"
-    },
-    {
-      "title": "Werder gewinnt 3:2 nach 0:2: «Wie ein Traum»: Weisers Siegtor nach 14 Monaten Pause",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/wie-ein-traum-weisers-siegtor-nach-14-monaten-pause-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/wie-ein-traum-weisers-siegtor-nach-14-monaten-pause",
-      "published": "Sun, 20 Sep 2026 03:21:04 -0000",
-      "published_display": "20.09.2026 · 03:21 Uhr"
     }
   ]
 }
