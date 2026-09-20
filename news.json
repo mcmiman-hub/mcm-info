@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-20T00:57:55.581453+00:00",
+  "updated": "2026-09-20T01:15:27.594712+00:00",
   "items": [
+    {
+      "title": "Mensch besser als KI: KI hat gravierende Schwächen beim Erkennen von Formen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/ki-hat-gravierende-schwaechen-beim-erkennen-von-formen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/ki-hat-gravierende-schwaechen-beim-erkennen-von-formen",
+      "published": "Sun, 20 Sep 2026 01:00:07 -0000",
+      "published_display": "20.09.2026 · 01:00 Uhr"
+    },
+    {
+      "title": "Fotografie: Bilder des Tages",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/bilder-des-tages-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/bilder-des-tages",
+      "published": "Sun, 20 Sep 2026 00:56:44 -0000",
+      "published_display": "20.09.2026 · 00:56 Uhr"
+    },
     {
       "title": "Frankreich: Staatsschulden in Frankreich nähern sich höchstem Stand seit 1978",
       "summary": "Die französische Regierung hat mehr Schulden als jedes andere Land in der Eurozone. Dieses Jahr könnte der Schuldenberg auf 120 Prozent der Wirtschaftsleistung wachsen.",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/19/taucher-im-starnberger-see-vermisst",
       "published": "Sat, 19 Sep 2026 20:39:16 -0000",
       "published_display": "19.09.2026 · 20:39 Uhr"
-    },
-    {
-      "title": "Krieg in Nahost: Huthi-Miliz reklamiert Angriffe in Saudi-Arabien",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/huthi-miliz-reklamiert-angriffe-in-saudi-arabien-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/huthi-miliz-reklamiert-angriffe-in-saudi-arabien",
-      "published": "Sat, 19 Sep 2026 20:33:08 -0000",
-      "published_display": "19.09.2026 · 20:33 Uhr"
-    },
-    {
-      "title": "2. Fußball-Bundesliga: Giftig und hitzig nur auf dem Rasen: Hertha siegt in Dresden",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/giftig-und-hitzig-nur-auf-dem-rasen-hertha-siegt-in-dresden-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/giftig-und-hitzig-nur-auf-dem-rasen-hertha-siegt-in-dresden",
-      "published": "Sat, 19 Sep 2026 20:25:14 -0000",
-      "published_display": "19.09.2026 · 20:25 Uhr"
     }
   ]
 }
