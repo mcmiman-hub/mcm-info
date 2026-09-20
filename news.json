@@ -1,7 +1,87 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-20T11:27:36.699067+00:00",
+  "updated": "2026-09-20T11:41:22.587147+00:00",
   "items": [
+    {
+      "title": "Wetter in NRW: Wolken und Regen, aber mild",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/wolken-und-regen-aber-mild-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/wolken-und-regen-aber-mild",
+      "published": "Sun, 20 Sep 2026 11:37:17 -0000",
+      "published_display": "20.09.2026 · 11:37 Uhr"
+    },
+    {
+      "title": "Kriminalität: Krypto-Betrug: 57-Jähriger verliert fünfstelligen Betrag",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/krypto-betrug-57-jaehriger-verliert-fuenfstelligen-betrag-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/krypto-betrug-57-jaehriger-verliert-fuenfstelligen-betrag",
+      "published": "Sun, 20 Sep 2026 11:36:04 -0000",
+      "published_display": "20.09.2026 · 11:36 Uhr"
+    },
+    {
+      "title": "Minus bei Umsatz und Gewinn: Analyse: Deutsche Autobauer verlieren weiter an Boden",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/analyse-deutsche-autobauer-verlieren-weiter-an-boden-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/analyse-deutsche-autobauer-verlieren-weiter-an-boden",
+      "published": "Sun, 20 Sep 2026 11:35:43 -0000",
+      "published_display": "20.09.2026 · 11:35 Uhr"
+    },
+    {
+      "title": "Verletzte bei Demo: Zwei verletzte Polizisten bei Versammlung in Connewitz",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/zwei-verletzte-polizisten-bei-versammlung-in-connewitz-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/zwei-verletzte-polizisten-bei-versammlung-in-connewitz",
+      "published": "Sun, 20 Sep 2026 11:34:46 -0000",
+      "published_display": "20.09.2026 · 11:34 Uhr"
+    },
+    {
+      "title": "Fotografie: Bilder des Tages",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/bilder-des-tages-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/bilder-des-tages",
+      "published": "Sun, 20 Sep 2026 11:33:05 -0000",
+      "published_display": "20.09.2026 · 11:33 Uhr"
+    },
+    {
+      "title": "Notbremsung: Zwei Verletzte bei Notbremsung einer Straßenbahn",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/zwei-verletzte-bei-notbremsung-einer-strassenbahn-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/zwei-verletzte-bei-notbremsung-einer-strassenbahn",
+      "published": "Sun, 20 Sep 2026 11:31:53 -0000",
+      "published_display": "20.09.2026 · 11:31 Uhr"
+    },
+    {
+      "title": "Fußball-Bundesliga: Ordentlich reicht Hoeneß nicht: VfB schwächelt, Undav motzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/ordentlich-reicht-hoeness-nicht-vfb-schwaechelt-undav-motzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/ordentlich-reicht-hoeness-nicht-vfb-schwaechelt-undav-motzt",
+      "published": "Sun, 20 Sep 2026 11:29:52 -0000",
+      "published_display": "20.09.2026 · 11:29 Uhr"
+    },
+    {
+      "title": "Berlin-Wahl 2026: Wegner: «angespannt aber zuversichtlich»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/wegner-angespannt-aber-zuversichtlich-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/wegner-angespannt-aber-zuversichtlich",
+      "published": "Sun, 20 Sep 2026 11:27:52 -0000",
+      "published_display": "20.09.2026 · 11:27 Uhr"
+    },
+    {
+      "title": "Feuerwehreinsatz Niederbayern: Halle mit gelagertem Stroh brennt - hoher Schaden",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/halle-mit-gelagertem-stroh-brennt-hoher-schaden-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/halle-mit-gelagertem-stroh-brennt-hoher-schaden",
+      "published": "Sun, 20 Sep 2026 11:27:17 -0000",
+      "published_display": "20.09.2026 · 11:27 Uhr"
+    },
+    {
+      "title": "Tennis: Krawietz/Pütz bringen deutsches Davis-Cup-Team in Führung",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/krawietz-puetz-bringen-deutsches-davis-cup-team-in-fuehrung-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/krawietz-puetz-bringen-deutsches-davis-cup-team-in-fuehrung",
+      "published": "Sun, 20 Sep 2026 11:27:04 -0000",
+      "published_display": "20.09.2026 · 11:27 Uhr"
+    },
     {
       "title": "Drohnenangriffe auf Russland: Mehr als 1.000 Drohnenangriffe während Parlamentswahl in Russland",
       "summary": "Die Ukraine hat Russland in den vergangenen Tagen mit mehr als 1.000 Drohnen attackiert. Russland wirft der Ukraine eine »Störung der Wahl« vor.",
@@ -41,86 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/20/2-3-nach-2-0-augsburger-frust-nach-dem-bremen-schock",
       "published": "Sun, 20 Sep 2026 11:16:24 -0000",
       "published_display": "20.09.2026 · 11:16 Uhr"
-    },
-    {
-      "title": "Kritik an Ed Sheeran: Kontroverse um Macklemore: Ed Sheeran spricht von Fehlern",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/kontroverse-um-macklemore-ed-sheeran-spricht-von-fehlern-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/kontroverse-um-macklemore-ed-sheeran-spricht-von-fehlern",
-      "published": "Sun, 20 Sep 2026 11:11:59 -0000",
-      "published_display": "20.09.2026 · 11:11 Uhr"
-    },
-    {
-      "title": "Landtagswahlen: Spitzenkandidaten in Berlin und Mecklenburg-Vorpommern haben gewählt",
-      "summary": "In Berlin und Mecklenburg-Vorpommern wird gewählt. Enge Rennen, wacklige Mehrheiten und die Merz-Debatte machen beide Abstimmungen politisch brisant.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/berlin-mecklenburg-vorpommern-afd-wahlen-landtagswahlen-merz-gxe-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/berlin-mecklenburg-vorpommern-afd-wahlen-landtagswahlen-merz-gxe",
-      "published": "Sun, 20 Sep 2026 11:10:42 -0000",
-      "published_display": "20.09.2026 · 11:10 Uhr"
-    },
-    {
-      "title": "Vorfall in Regionalexpress: 15-köpfige Gruppe randaliert in Regionalexpress",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/15-koepfige-gruppe-randaliert-in-regionalexpress-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/15-koepfige-gruppe-randaliert-in-regionalexpress",
-      "published": "Sun, 20 Sep 2026 11:10:38 -0000",
-      "published_display": "20.09.2026 · 11:10 Uhr"
-    },
-    {
-      "title": "Landtagswahl in MV: Ministerpräsidentenkandidat Leif-Erik Holm hat in MV gewählt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/ministerpraesidentenkandidat-leif-erik-holm-hat-in-mv-gewaehlt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/ministerpraesidentenkandidat-leif-erik-holm-hat-in-mv-gewaehlt",
-      "published": "Sun, 20 Sep 2026 11:08:21 -0000",
-      "published_display": "20.09.2026 · 11:08 Uhr"
-    },
-    {
-      "title": "Brände: Wohnhaus nach Küchenbrand unbewohnbar",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/wohnhaus-nach-kuechenbrand-unbewohnbar-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/wohnhaus-nach-kuechenbrand-unbewohnbar",
-      "published": "Sun, 20 Sep 2026 11:07:27 -0000",
-      "published_display": "20.09.2026 · 11:07 Uhr"
-    },
-    {
-      "title": "Frühherbst: Es bleibt warm: «Vom nasskalten Herbst weit entfernt»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/es-bleibt-warm-vom-nasskalten-herbst-weit-entfernt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/es-bleibt-warm-vom-nasskalten-herbst-weit-entfernt",
-      "published": "Sun, 20 Sep 2026 11:06:10 -0000",
-      "published_display": "20.09.2026 · 11:06 Uhr"
-    },
-    {
-      "title": "Lebensgefährliche Verletzungen: Postzustellerin schwer verletzt – flüchtiger Fahrer gefasst",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/postzustellerin-schwer-verletzt-fluechtiger-fahrer-gefasst-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/postzustellerin-schwer-verletzt-fluechtiger-fahrer-gefasst",
-      "published": "Sun, 20 Sep 2026 11:04:30 -0000",
-      "published_display": "20.09.2026 · 11:04 Uhr"
-    },
-    {
-      "title": "Jan Böhmermann: Das »Magazin Royale« war ein Vibe, den holt jetzt der Shift",
-      "summary": "Jan Böhmermann inszenierte journalistische Satire lange erfolgreich, handwerklich und humoristisch überlegen. Warum das »Magazin Royal« nun aus der Zeit gefallen scheint.",
-      "image": "https://img.zeit.de/feuilleton/film/2026-09/jan-boehmermann-zdf-magazin-royale-satire-fernsehshow-bild-3/original__640x360",
-      "link": "https://www.zeit.de/feuilleton/film/2026-09/jan-boehmermann-zdf-magazin-royale-satire-fernsehshow",
-      "published": "Sun, 20 Sep 2026 11:01:59 -0000",
-      "published_display": "20.09.2026 · 11:01 Uhr"
-    },
-    {
-      "title": "Ohnmacht: Was kann ich schon ändern?",
-      "summary": "Viele fühlen sich gerade von Krisen umzingelt. Sie empfinden Ohnmacht, das gefährlichste Gefühl unserer Zeit. Die Psychologie weiß, wie man es überwindet.",
-      "image": "https://img.zeit.de/2026/40/was-kann-ich-schon-aendern-bild-1/original__640x360",
-      "link": "https://www.zeit.de/2026/40/politische-ohnmacht-kollektive-selbstwirksamkeit-afd-matthias-quent",
-      "published": "Sun, 20 Sep 2026 11:01:21 -0000",
-      "published_display": "20.09.2026 · 11:01 Uhr"
-    },
-    {
-      "title": "Kinderrechte: Thüringen begeht Weltkindertag als Feiertag",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/thueringen-begeht-weltkindertag-als-feiertag-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/thueringen-begeht-weltkindertag-als-feiertag",
-      "published": "Sun, 20 Sep 2026 10:59:04 -0000",
-      "published_display": "20.09.2026 · 10:59 Uhr"
     }
   ]
 }
