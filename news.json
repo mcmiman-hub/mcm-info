@@ -1,7 +1,71 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-20T08:18:19.165662+00:00",
+  "updated": "2026-09-20T08:30:03.075300+00:00",
   "items": [
+    {
+      "title": "Jemen: USA warnen vor Eskalation zwischen Huthis und Saudi-Arabien",
+      "summary": "Der Konflikt zwischen der Huthi-Miliz im Jemen und Saudi-Arabien hat sich weiter verschärft. Das US-Außenministerium warnt vor Reisen in die Region.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/jemen-saudi-arabien-huthi-rebellen-usa-reisewarnung-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/jemen-saudi-arabien-huthi-rebellen-usa-reisewarnung",
+      "published": "Sun, 20 Sep 2026 08:28:04 -0000",
+      "published_display": "20.09.2026 · 08:28 Uhr"
+    },
+    {
+      "title": "Nahostkonflikt: Ed Sheeran verurteilt das Hamas-Massaker und Israels Vorgehen in Gaza",
+      "summary": "Der Musiker hat nach einer Kontroverse um propalästinensische Kommentare des Rappers Macklemore seine US-Tour allein fortgesetzt. Er wolle kein Aktivist sein, sagt er.",
+      "image": "https://img.zeit.de/feuilleton/musik/2026-09/ed-sheeran-macklemore-us-tour-redenfreiheit-nahostkonflikt-foto-1/original__640x360",
+      "link": "https://www.zeit.de/feuilleton/musik/2026-09/ed-sheeran-macklemore-us-tour-philadelphia-propalaestinensisch-redefreiheit-gxe",
+      "published": "Sun, 20 Sep 2026 08:27:30 -0000",
+      "published_display": "20.09.2026 · 08:27 Uhr"
+    },
+    {
+      "title": "Strafprozess gegen Andreas Scheuer: Jetzt steht er wieder im Rampenlicht",
+      "summary": "CSU-Mann Andreas Scheuer wollte eine »Ausländermaut« einführen. Jetzt steht der ehemalige Verkehrsminister deswegen vor Gericht. Er soll bei der Aufklärung gelogen haben.",
+      "image": "https://img.zeit.de/mobilitaet/2026-09/strafprozess-andreas-scheuer-cdu-ex-verkehrsminister-pkw-maut-bild-2/original__640x360",
+      "link": "https://www.zeit.de/mobilitaet/2026-09/strafprozess-andreas-scheuer-cdu-ex-verkehrsminister-pkw-maut",
+      "published": "Sun, 20 Sep 2026 08:26:26 -0000",
+      "published_display": "20.09.2026 · 08:26 Uhr"
+    },
+    {
+      "title": "Fußball-Bundesliga: «Ein Schock»: Fußball trauert um Co-Trainer-Ikone Hermann",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/ein-schock-fussball-trauert-um-co-trainer-ikone-hermann-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/ein-schock-fussball-trauert-um-co-trainer-ikone-hermann",
+      "published": "Sun, 20 Sep 2026 08:24:37 -0000",
+      "published_display": "20.09.2026 · 08:24 Uhr"
+    },
+    {
+      "title": "Berlin-Wahl 2026: Gutgelaunt zur Stimmabgabe: Grünen-Spitzenkandidat Graf",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/gutgelaunt-zur-stimmabgabe-gruenen-spitzenkandidat-graf-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/gutgelaunt-zur-stimmabgabe-gruenen-spitzenkandidat-graf",
+      "published": "Sun, 20 Sep 2026 08:24:17 -0000",
+      "published_display": "20.09.2026 · 08:24 Uhr"
+    },
+    {
+      "title": "Viertelfinale gegen Polen: Volleyballer bei EM mental stark: «Komplett angezündet»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/volleyballer-bei-em-mental-stark-komplett-angezuendet-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/volleyballer-bei-em-mental-stark-komplett-angezuendet",
+      "published": "Sun, 20 Sep 2026 08:22:10 -0000",
+      "published_display": "20.09.2026 · 08:22 Uhr"
+    },
+    {
+      "title": "Unfall mit Tier: Radfahrer weicht Feldhasen aus und verletzt sich schwer",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/radfahrer-weicht-feldhasen-aus-und-verletzt-sich-schwer-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/radfahrer-weicht-feldhasen-aus-und-verletzt-sich-schwer",
+      "published": "Sun, 20 Sep 2026 08:21:08 -0000",
+      "published_display": "20.09.2026 · 08:21 Uhr"
+    },
+    {
+      "title": "Schwerer Unfall: Auto überschlägt sich auf A1 – Fahrer schwer verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/auto-ueberschlaegt-sich-auf-a1-fahrer-schwer-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/auto-ueberschlaegt-sich-auf-a1-fahrer-schwer-verletzt",
+      "published": "Sun, 20 Sep 2026 08:19:44 -0000",
+      "published_display": "20.09.2026 · 08:19 Uhr"
+    },
     {
       "title": "Solingen: Schwelbrand in Wohnung - Mann gestorben",
       "summary": "",
@@ -57,70 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/20/hessen-will-referendariat-verkuerzen-gew-warnt-vor-folgen",
       "published": "Sun, 20 Sep 2026 08:00:18 -0000",
       "published_display": "20.09.2026 · 08:00 Uhr"
-    },
-    {
-      "title": "Fußball: «Ein paar freie Tage verdient»: Magdeburg vor Mammut-Pause",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/ein-paar-freie-tage-verdient-magdeburg-vor-mammut-pause-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/ein-paar-freie-tage-verdient-magdeburg-vor-mammut-pause",
-      "published": "Sun, 20 Sep 2026 08:00:06 -0000",
-      "published_display": "20.09.2026 · 08:00 Uhr"
-    },
-    {
-      "title": "Zug: Unfall bei Fahrt mit Museumsbahn - Mädchen und Frau verletzt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/unfall-bei-fahrt-mit-museumsbahn-maedchen-und-frau-verletzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/unfall-bei-fahrt-mit-museumsbahn-maedchen-und-frau-verletzt",
-      "published": "Sun, 20 Sep 2026 07:52:44 -0000",
-      "published_display": "20.09.2026 · 07:52 Uhr"
-    },
-    {
-      "title": "Iran-Krieg: Teheran fordert US-Konzessionen vor neuen Verhandlungen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/teheran-fordert-us-konzessionen-vor-neuen-verhandlungen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/teheran-fordert-us-konzessionen-vor-neuen-verhandlungen",
-      "published": "Sun, 20 Sep 2026 07:47:41 -0000",
-      "published_display": "20.09.2026 · 07:47 Uhr"
-    },
-    {
-      "title": "Landtagswahl in MV: Wahlkampfabschluss in MV - AfD hofft auf «blaue Wende»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/wahlkampfabschluss-in-mv-afd-hofft-auf-blaue-wende-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/wahlkampfabschluss-in-mv-afd-hofft-auf-blaue-wende",
-      "published": "Sun, 20 Sep 2026 07:43:48 -0000",
-      "published_display": "20.09.2026 · 07:43 Uhr"
-    },
-    {
-      "title": "Feuerwehreinsatz: Brand in Recyclinganlage in Cottbus",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/brand-in-recyclinganlage-in-cottbus-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/brand-in-recyclinganlage-in-cottbus",
-      "published": "Sun, 20 Sep 2026 07:42:27 -0000",
-      "published_display": "20.09.2026 · 07:42 Uhr"
-    },
-    {
-      "title": "Vermisstensuche: Vermisster Pilzsammler nach stundenlanger Suche gefunden",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/vermisster-pilzsammler-nach-stundenlanger-suche-gefunden-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/vermisster-pilzsammler-nach-stundenlanger-suche-gefunden",
-      "published": "Sun, 20 Sep 2026 07:42:00 -0000",
-      "published_display": "20.09.2026 · 07:42 Uhr"
-    },
-    {
-      "title": "24/7 geöffnet: Von Saatgut bis Beton: Was Automaten alles bieten",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/von-saatgut-bis-beton-was-automaten-alles-bieten-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/von-saatgut-bis-beton-was-automaten-alles-bieten",
-      "published": "Sun, 20 Sep 2026 07:34:36 -0000",
-      "published_display": "20.09.2026 · 07:34 Uhr"
-    },
-    {
-      "title": "Sicherheit: Rund 1.100 Polizisten in Berlin am Wahltag unterwegs",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/rund-1-100-polizisten-in-berlin-am-wahltag-unterwegs-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/rund-1-100-polizisten-in-berlin-am-wahltag-unterwegs",
-      "published": "Sun, 20 Sep 2026 07:32:26 -0000",
-      "published_display": "20.09.2026 · 07:32 Uhr"
     }
   ]
 }
