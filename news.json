@@ -1,7 +1,111 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-20T16:42:30.195627+00:00",
+  "updated": "2026-09-20T16:54:18.242019+00:00",
   "items": [
+    {
+      "title": "Fotografie: Bilder des Tages",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/bilder-des-tages-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/bilder-des-tages",
+      "published": "Sun, 20 Sep 2026 16:52:42 -0000",
+      "published_display": "20.09.2026 · 16:52 Uhr"
+    },
+    {
+      "title": "Erste Reaktion: AfD in Mecklenburg-Vorpommern knapp vor SPD",
+      "summary": "Laut ersten Prognosen liegt die AfD in Mecklenburg-Vorpommern knapp vor der SPD. Erste Reaktionen aus Schwerin im Video.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/mecklenburg-vorpommern-landtagswahl-schwesig-neu-liveblog/original__640x360",
+      "link": "https://www.zeit.de/video/2026-09/mecklenburg-vorpommern-wahlen-reaktionen-video",
+      "published": "Sun, 20 Sep 2026 16:52:39 -0000",
+      "published_display": "20.09.2026 · 16:52 Uhr"
+    },
+    {
+      "title": "Wahl in Mecklenburg-Vorpommern: AfD im Nordosten leicht vor SPD - CDU nur knapp im Landtag",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/richtungswahl-gespannter-blick-auf-mecklenburg-vorpommern-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/richtungswahl-gespannter-blick-auf-mecklenburg-vorpommern",
+      "published": "Sun, 20 Sep 2026 16:52:03 -0000",
+      "published_display": "20.09.2026 · 16:52 Uhr"
+    },
+    {
+      "title": "Wahlen: CDU-Pleite bei Wahl im Nordosten – Linke vorn in Berlin",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/wahlen-in-zwei-bundeslaendern-wegweiser-in-der-merz-krise-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/wahlen-in-zwei-bundeslaendern-wegweiser-in-der-merz-krise",
+      "published": "Sun, 20 Sep 2026 16:51:44 -0000",
+      "published_display": "20.09.2026 · 16:51 Uhr"
+    },
+    {
+      "title": "Abgeordnetenhauswahl: Giffey rechnet mit Koalition unter Führung der Linken",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/giffey-rechnet-mit-koalition-unter-fuehrung-der-linken-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/giffey-rechnet-mit-koalition-unter-fuehrung-der-linken",
+      "published": "Sun, 20 Sep 2026 16:50:27 -0000",
+      "published_display": "20.09.2026 · 16:50 Uhr"
+    },
+    {
+      "title": "Abgeordnetenhauswahl: Eralp: Ich will Berlins Regierende Bürgermeisterin werden",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/eralp-ich-will-berlins-regierende-buergermeisterin-werden-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/eralp-ich-will-berlins-regierende-buergermeisterin-werden",
+      "published": "Sun, 20 Sep 2026 16:48:26 -0000",
+      "published_display": "20.09.2026 · 16:48 Uhr"
+    },
+    {
+      "title": "Abgeordnetenhauswahl: Berliner Grüne streben Koalition mit Linken und SPD an",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/berlin-waehlt-neues-abgeordnetenhaus-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/berlin-waehlt-neues-abgeordnetenhaus",
+      "published": "Sun, 20 Sep 2026 16:47:28 -0000",
+      "published_display": "20.09.2026 · 16:47 Uhr"
+    },
+    {
+      "title": "Landtagswahl: Schwesig feiert »Aufholjagd« gegen AfD in Mecklenburg-Vorpommern",
+      "summary": "In Mecklenburg-Vorpommern liegt die SPD hinter der AfD. Ministerpräsidentin Manuela Schwesig zeigt sich trotzdem zufrieden. Die SPD habe der AfD etwas entgegengesetzt.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/manuela-schwesig-spd-mecklenburg-vorpommern-landtagswahl-afd-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/manuela-schwesig-spd-mecklenburg-vorpommern-landtagswahl-afd",
+      "published": "Sun, 20 Sep 2026 16:46:04 -0000",
+      "published_display": "20.09.2026 · 16:46 Uhr"
+    },
+    {
+      "title": "MV-Landtagswahl: Leif-Erik Holm - strahlender Wahlkämpfer, aber auch Kritik",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/das-sind-die-spitzenkandidatinnen-und-kandidaten-in-mv-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/das-sind-die-spitzenkandidatinnen-und-kandidaten-in-mv",
+      "published": "Sun, 20 Sep 2026 16:45:46 -0000",
+      "published_display": "20.09.2026 · 16:45 Uhr"
+    },
+    {
+      "title": "Wahl in Berlin: Linke in Berlin laut Hochrechnung deutlich vor CDU",
+      "summary": "Die Linke erreicht ihr bestes Ergebnis in Berlin. Elif Eralp spricht von einem Sieg der Liebe, der Zentralrat der Juden zeigt sich »zutiefst beunruhigt«. Das Liveblog",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/wahl-abgeordnetenhaus-berlin-2026-live-bild-8/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/wahl-abgeordnetenhaus-berlin-2026-live",
+      "published": "Sun, 20 Sep 2026 16:44:51 -0000",
+      "published_display": "20.09.2026 · 16:44 Uhr"
+    },
+    {
+      "title": "Huthi-Miliz im Jemen: Huthis wollen laut Medienbericht nicht gegen die USA kämpfen",
+      "summary": "Einem Bericht des Senders Fox News zufolge hat die Huthi-Miliz zugesichert, nicht gegen die USA kämpfen zu wollen. Jemenitische Truppen erobern derweil Gebiete zurück.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/huthi-miliz-jemen-usa-donald-trump-saudi-arabien-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/huthi-miliz-jemen-usa-donald-trump-saudi-arabien",
+      "published": "Sun, 20 Sep 2026 16:44:32 -0000",
+      "published_display": "20.09.2026 · 16:44 Uhr"
+    },
+    {
+      "title": "Wahl in Mecklenburg-Vorpommern: AfD liegt knapp vor SPD, CDU muss bangen",
+      "summary": "Laut erster Hochrechnung liegt die AfD mit 37,1 Prozent vor der SPD mit 35,6 Prozent. CDU und Grüne liegen um fünf Prozent und müssen zittern. Das Liveblog",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/mecklenburg-vorpommern-landtagswahl-liveblog-leif-erik-holm-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/mecklenburg-vorpommern-landtagswahl-liveblog",
+      "published": "Sun, 20 Sep 2026 16:44:22 -0000",
+      "published_display": "20.09.2026 · 16:44 Uhr"
+    },
+    {
+      "title": "CDU: Merz bleibt im Amt und wirbt für Reformkurs der Regierung",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/kann-die-fuenf-prozent-huerde-merz-zu-fall-bringen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/kann-die-fuenf-prozent-huerde-merz-zu-fall-bringen",
+      "published": "Sun, 20 Sep 2026 16:43:12 -0000",
+      "published_display": "20.09.2026 · 16:43 Uhr"
+    },
     {
       "title": "Berlin-Wahl 2026: CDU-Spitzenkandidat: «Für die Ausgangslage ganz ordentlich»",
       "summary": "",
@@ -11,116 +115,12 @@
       "published_display": "20.09.2026 · 16:40 Uhr"
     },
     {
-      "title": "Wahl in Mecklenburg-Vorpommern: AfD liegt knapp vor SPD, CDU muss bangen",
-      "summary": "Laut erster Hochrechnung liegt die AfD mit 37,1 Prozent vor der SPD mit 35,6 Prozent. CDU und Grüne liegen um fünf Prozent und müssen zittern. Das Liveblog",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/mecklenburg-vorpommern-landtagswahl-liveblog-leif-erik-holm-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/mecklenburg-vorpommern-landtagswahl-liveblog",
-      "published": "Sun, 20 Sep 2026 16:40:01 -0000",
-      "published_display": "20.09.2026 · 16:40 Uhr"
-    },
-    {
       "title": "Wahl in Berlin: Wahl-Prognosen: Linke greift in Berlin nach der Macht",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-09/20/wahl-prognosen-linke-greift-in-berlin-nach-der-macht-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-09/20/wahl-prognosen-linke-greift-in-berlin-nach-der-macht",
       "published": "Sun, 20 Sep 2026 16:39:14 -0000",
       "published_display": "20.09.2026 · 16:39 Uhr"
-    },
-    {
-      "title": "Berlin und Mecklenburg-Vorpommern: Kanzler Friedrich Merz spricht nach Landtagswahlen von »Desaster«",
-      "summary": "In Mecklenburg-Vorpommern bangt die CDU um den Einzug in den Landtag, in Berlin verliert sie gegen Die Linke. Merz hält an seinen Ämtern als Kanzler und CDU-Chef fest.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/bundeskanzler-friedrich-merz-wertet-landtagswahlen-als-desaster-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/bundeskanzler-friedrich-merz-wertet-landtagswahlen-als-desaster",
-      "published": "Sun, 20 Sep 2026 16:38:42 -0000",
-      "published_display": "20.09.2026 · 16:38 Uhr"
-    },
-    {
-      "title": "Abgeordnetenhauswahl: Berliner Grüne wollen Koalition mit Linken und SPD",
-      "summary": "",
-      "image": "",
-      "link": "https://www.zeit.de/news/2026-09/20/berliner-gruene-wollen-koalition-mit-linken-und-spd",
-      "published": "Sun, 20 Sep 2026 16:37:26 -0000",
-      "published_display": "20.09.2026 · 16:37 Uhr"
-    },
-    {
-      "title": "Abgeordnetenhauswahl: Berliner Grüne wollen Koalition mit Linken und SPD",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/berlin-waehlt-neues-abgeordnetenhaus-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/berlin-waehlt-neues-abgeordnetenhaus",
-      "published": "Sun, 20 Sep 2026 16:37:19 -0000",
-      "published_display": "20.09.2026 · 16:37 Uhr"
-    },
-    {
-      "title": "Wahl zum Abgeordnetenhaus: Linke in Berlin laut Hochrechnung klar vor der CDU",
-      "summary": "Die Linke gewinnt die Berliner Abgeordnetenhauswahl laut den ersten Hochrechnungen. Die CDU liegt deutlich dahinter, die SPD fällt auf ein historisches Tief.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/die-linke-wahl-berlin-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/linke-in-berlin-laut-prognose-vor-cdu",
-      "published": "Sun, 20 Sep 2026 16:36:08 -0000",
-      "published_display": "20.09.2026 · 16:36 Uhr"
-    },
-    {
-      "title": "Wahl in Berlin: Linke in Berlin laut Hochrechnung deutlich vor CDU",
-      "summary": "Die Linke erreicht ihr bestes Ergebnis in Berlin. Elif Eralp spricht von einem Sieg der Liebe, der Zentralrat der Juden zeigt sich »zutiefst beunruhigt«. Das Liveblog",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/wahl-abgeordnetenhaus-berlin-2026-live-bild-8/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/wahl-abgeordnetenhaus-berlin-2026-live",
-      "published": "Sun, 20 Sep 2026 16:34:59 -0000",
-      "published_display": "20.09.2026 · 16:34 Uhr"
-    },
-    {
-      "title": "Landtagswahl: Hochrechnungen: Linke bei Berlin-Wahl klar vor CDU",
-      "summary": "",
-      "image": "",
-      "link": "https://www.zeit.de/news/2026-09/20/hochrechnungen-linke-bei-berlin-wahl-klar-vor-cdu",
-      "published": "Sun, 20 Sep 2026 16:32:18 -0000",
-      "published_display": "20.09.2026 · 16:32 Uhr"
-    },
-    {
-      "title": "Wahlen: Hochrechnungen: AfD bei der Landtagswahl in MV knapp vor SPD",
-      "summary": "",
-      "image": "",
-      "link": "https://www.zeit.de/news/2026-09/20/hochrechnungen-afd-bei-der-landtagswahl-in-mv-knapp-vor-spd",
-      "published": "Sun, 20 Sep 2026 16:31:14 -0000",
-      "published_display": "20.09.2026 · 16:31 Uhr"
-    },
-    {
-      "title": "Wahlergebnisse in Berlin 2026: Alle Ergebnisse der Wahl zum Abgeordnetenhaus in Berlin",
-      "summary": "Welche Koalitionen sind im Abgeordnetenhaus möglich? Welche Kandidaten und Parteien gewinnen welchen Wahlkreis? Alle Daten und Karten zur Abgeordnetenhauswahl in Berlin",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/landtagswahl-berlin-ergebnisse-wahlkreise-2026-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/berlin-wahl-abgeordnetenhaus-2026-ergebnisse-live",
-      "published": "Sun, 20 Sep 2026 16:29:00 -0000",
-      "published_display": "20.09.2026 · 16:29 Uhr"
-    },
-    {
-      "title": "Landtagswahl: Die «Frau gegen Blau» hofft auf Fortsetzung in Schwerin",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/die-frau-gegen-blau-hofft-auf-fortsetzung-in-schwerin-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/die-frau-gegen-blau-hofft-auf-fortsetzung-in-schwerin",
-      "published": "Sun, 20 Sep 2026 16:28:29 -0000",
-      "published_display": "20.09.2026 · 16:28 Uhr"
-    },
-    {
-      "title": "Abgeordnetenhauswahl: Berlins BSW-Spitzenkandidat King zeigt sich zuversichtlich",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/berlins-bsw-spitzenkandidat-king-zeigt-sich-zuversichtlich-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/berlins-bsw-spitzenkandidat-king-zeigt-sich-zuversichtlich",
-      "published": "Sun, 20 Sep 2026 16:28:21 -0000",
-      "published_display": "20.09.2026 · 16:28 Uhr"
-    },
-    {
-      "title": "Wahlergebnisse in Mecklenburg-Vorpommern 2026: Alle Ergebnisse der Landtagswahl in Mecklenburg-Vorpommern – live",
-      "summary": "Welche Koalitionen sind im Landtag möglich? Welche Kandidaten und Parteien gewinnen welchen Wahlkreis? Alle Daten und Karten zur Landtagswahl in Mecklenburg-Vorpommern",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/landtagswahl-mecklenburg-vorpommern-ergebnisse-wahlkreise-2026-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/landtagswahl-mecklenburg-vorpommern-ergebnisse-wahlkreise-2026",
-      "published": "Sun, 20 Sep 2026 16:28:00 -0000",
-      "published_display": "20.09.2026 · 16:28 Uhr"
-    },
-    {
-      "title": "Mouhanad Khorchide: »Ich bekam bis zu fünfzig Morddrohungen am Tag«",
-      "summary": "Der Religionspädagoge Mouhanad Khorchide verteidigt den Islam gegen Islamisten und Islamfeinde. Er steht unter Polizeischutz, riskiert sein Leben. Warum?",
-      "image": "https://img.zeit.de/2026/40/ich-bekam-bis-zu-fuenfzig-morddrohungen-am-tag-bild-1/original__640x360",
-      "link": "https://www.zeit.de/2026/40/mouhanad-khorchide-islamische-theologie-uni-muenster",
-      "published": "Sun, 20 Sep 2026 16:27:27 -0000",
-      "published_display": "20.09.2026 · 16:27 Uhr"
     }
   ]
 }
