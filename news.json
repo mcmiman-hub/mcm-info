@@ -1,7 +1,71 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-20T06:57:54.073107+00:00",
+  "updated": "2026-09-20T07:16:00.214822+00:00",
   "items": [
+    {
+      "title": "Irankrieg: Iran übermittelt Bedingungen für ein Kriegsende an die USA",
+      "summary": "Der Iran hat den USA seine Bedingungen für ein Ende des Krieges übermittelt. Grundlage seiner Forderungen ist das im Juni geschlossene Rahmenabkommen. Das Liveblog",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/iran-krieg-donald-trump-hormus-live-bild-4/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-05/iran-krieg-donald-trump-hormus-live",
+      "published": "Sun, 20 Sep 2026 07:13:36 -0000",
+      "published_display": "20.09.2026 · 07:13 Uhr"
+    },
+    {
+      "title": "2. Fußball-Bundesliga: Tage der Glückseligkeit für Zoma und den «Club»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/tage-der-glueckseligkeit-fuer-zoma-und-den-club-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/tage-der-glueckseligkeit-fuer-zoma-und-den-club",
+      "published": "Sun, 20 Sep 2026 07:13:36 -0000",
+      "published_display": "20.09.2026 · 07:13 Uhr"
+    },
+    {
+      "title": "Demenz: Wird der Alzheimer-Früherkennungstest zur Routine?",
+      "summary": "Neue Bluttests versprechen eine Diagnose Jahre vor Ausbruch der Demenz. Wie funktionieren sie? Und: Ein Patient erzählt, wie ein solcher Test sein Leben verändert hat.",
+      "image": "https://img.zeit.de/wissenschaft/2026-09/demenz-diagnose-alzheimer-test-bild/original__640x360",
+      "link": "https://www.zeit.de/gesundheit/2026-09/demenz-diagnose-alzheimer-test",
+      "published": "Sun, 20 Sep 2026 07:07:15 -0000",
+      "published_display": "20.09.2026 · 07:07 Uhr"
+    },
+    {
+      "title": "Maria Magdalena: Hatte sie doch was mit Jesus?",
+      "summary": "Eine umfangreiche Ausstellung in Frankfurt räumt mit den Mythen um die große Unbekannte Maria Magdalena auf. Und zeigt sie als Männerfantasie und feministische Ikone.",
+      "image": "https://img.zeit.de/2026/40/hatte-sie-doch-was-mit-jesus-bild-1/original__640x360",
+      "link": "https://www.zeit.de/2026/40/maria-magdalena-ausstellung-staedel-frankfurt",
+      "published": "Sun, 20 Sep 2026 07:03:10 -0000",
+      "published_display": "20.09.2026 · 07:03 Uhr"
+    },
+    {
+      "title": "Unfall: Elfjähriger in Weimar von E-Scooter auf Gehweg verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/elfjaehriger-in-weimar-von-e-scooter-auf-gehweg-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/elfjaehriger-in-weimar-von-e-scooter-auf-gehweg-verletzt",
+      "published": "Sun, 20 Sep 2026 07:01:07 -0000",
+      "published_display": "20.09.2026 · 07:01 Uhr"
+    },
+    {
+      "title": "Gewichtsabnahme bei Männern: Vater, Anfang 40, hungrig",
+      "summary": "Immer mehr Väter haben hohe Fitnessziele, die nur durch ein Kaloriendefizit erreichbar sind. Wieso tun sie sich das an? Um Schlanksein geht es dabei noch am wenigsten.",
+      "image": "https://img.zeit.de/zeit-magazin/2026-09/familienvater-anfang-40-hungrig-bild/original__640x360",
+      "link": "https://www.zeit.de/zeit-magazin/gewichtsabnahme-maenner-fitness-kaloriendefizit-frauen",
+      "published": "Sun, 20 Sep 2026 07:00:22 -0000",
+      "published_display": "20.09.2026 · 07:00 Uhr"
+    },
+    {
+      "title": "Berlin-Wahl 2026: Berlin wählt neues Abgeordnetenhaus",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/berlin-waehlt-neues-abgeordnetenhaus-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/berlin-waehlt-neues-abgeordnetenhaus",
+      "published": "Sun, 20 Sep 2026 06:58:30 -0000",
+      "published_display": "20.09.2026 · 06:58 Uhr"
+    },
+    {
+      "title": "Schwerer Unfall: 15-Jähriger klettert auf Zug - lebensgefährlich verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/15-jaehriger-klettert-auf-zug-lebensgefaehrlich-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/15-jaehriger-klettert-auf-zug-lebensgefaehrlich-verletzt",
+      "published": "Sun, 20 Sep 2026 06:57:12 -0000",
+      "published_display": "20.09.2026 · 06:57 Uhr"
+    },
     {
       "title": "Landtagswahl: Richtungswahl: Gespannter Blick auf Mecklenburg-Vorpommern",
       "summary": "",
@@ -43,14 +107,6 @@
       "published_display": "20.09.2026 · 06:42 Uhr"
     },
     {
-      "title": "Berlin-Wahl 2026: Berlin wählt neues Abgeordnetenhaus",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/berlin-waehlt-neues-abgeordnetenhaus-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/berlin-waehlt-neues-abgeordnetenhaus",
-      "published": "Sun, 20 Sep 2026 06:39:36 -0000",
-      "published_display": "20.09.2026 · 06:39 Uhr"
-    },
-    {
       "title": "»Der Schimmelreiter« von Theodor Storm: Es hat nicht gedeicht",
       "summary": "Klassiker der Weltliteratur, neu erzählt für (ewige) Kinder, diesmal: Theodor Storms Novelle »Der Schimmelreiter«",
       "image": "https://img.zeit.de/2026/40/es-hat-nicht-gedeicht-bild-2/original__640x360",
@@ -65,62 +121,6 @@
       "link": "https://www.zeit.de/2026/40/ein-jahr-entwicklung-kleinkind-selbstwahrnehmung-flecktest",
       "published": "Sun, 20 Sep 2026 06:38:46 -0000",
       "published_display": "20.09.2026 · 06:38 Uhr"
-    },
-    {
-      "title": "Veganes Butter Chicken: Die Sahne macht mal Pause",
-      "summary": "Wer gesund altern will, sollte sich auch gesund ernähren. Zum Glück muss das nicht fad schmecken! Dieses vegane Butter Chicken ist der lebende Beweis.",
-      "image": "https://img.zeit.de/zeit-magazin/wochenmarkt/2026-09/veganes-butter-chicken-c-maria-grossmann-bild/original__640x360",
-      "link": "https://www.zeit.de/zeit-magazin/wochenmarkt/2026-09/veganes-butter-chicken-nobody-told-me-sonntagsessen",
-      "published": "Sun, 20 Sep 2026 06:38:24 -0000",
-      "published_display": "20.09.2026 · 06:38 Uhr"
-    },
-    {
-      "title": "Focaccia mit Mortadella: Mehr als eine gewöhnliche Stulle",
-      "summary": "Belegen Sie doch einfach mal ein Brot! Zum Beispiel dieses Focaccia mit Mortadella und Parmesancreme – denn es liefert maximalen Ertrag bei minimalem Aufwand.",
-      "image": "https://img.zeit.de/zeit-magazin/wochenmarkt/2026-09/foccacia-mortadella-rezept-wochenmarkt-bild/original__640x360",
-      "link": "https://www.zeit.de/zeit-magazin/wochenmarkt/2026-09/foccacia-mortadella-rezept-wochenmarkt",
-      "published": "Sun, 20 Sep 2026 06:38:00 -0000",
-      "published_display": "20.09.2026 · 06:38 Uhr"
-    },
-    {
-      "title": "Wahlrecht ab 16: »Ich will meine Stimme nicht verschwenden«",
-      "summary": "In Mecklenburg-Vorpommern dürfen erstmals 16- und 17-Jährige wählen. Drei von ihnen haben wir gefragt: Worauf freuen sie sich, was macht ihnen Sorgen?",
-      "image": "https://img.zeit.de/2026/40/ich-will-meine-stimme-nicht-verschwenden-bild-1/original__640x360",
-      "link": "https://www.zeit.de/2026/40/wahlrecht-ab-16-landtagswahl-mecklenburg-vorpommern-junge-waehler-afd",
-      "published": "Sun, 20 Sep 2026 06:37:47 -0000",
-      "published_display": "20.09.2026 · 06:37 Uhr"
-    },
-    {
-      "title": "2. Fußball-Bundesliga: Fürther hadern nach nächstem Dämpfer: «Tut schon weh»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/fuerther-hadern-nach-naechstem-daempfer-tut-schon-weh-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/fuerther-hadern-nach-naechstem-daempfer-tut-schon-weh",
-      "published": "Sun, 20 Sep 2026 06:37:04 -0000",
-      "published_display": "20.09.2026 · 06:37 Uhr"
-    },
-    {
-      "title": "Historische Wahlergebnisse in Berlin: Die neue Teilung Berlins",
-      "summary": "Die Mauer verschwand, die politischen Grenzen blieben: Wie sich das Wahlverhalten in Berlin seit 1990 verändert hat – und welche Trennlinien heute zählen.",
-      "image": "https://img.zeit.de/politik/2026-09/historische-wahlergebnisse-berlin-abgeordnetenhaus-daten-teaserbild/original__640x360",
-      "link": "https://www.zeit.de/politik/2026-09/historische-wahlergebnisse-berlin-abgeordnetenhaus-daten",
-      "published": "Sun, 20 Sep 2026 06:36:56 -0000",
-      "published_display": "20.09.2026 · 06:36 Uhr"
-    },
-    {
-      "title": "Wahlen in Berlin und : Wahlen in Berlin und Mecklenburg-Vorpommern haben begonnen",
-      "summary": "In Berlin und Mecklenburg-Vorpommern wird gewählt. Enge Rennen, wacklige Mehrheiten und die Merz-Debatte machen beide Abstimmungen politisch brisant.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/berlin-mecklenburg-vorpommern-afd-wahlen-landtagswahlen-merz-bild-2/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/berlin-mecklenburg-vorpommern-afd-wahlen-landtagswahlen-merz",
-      "published": "Sun, 20 Sep 2026 06:36:03 -0000",
-      "published_display": "20.09.2026 · 06:36 Uhr"
-    },
-    {
-      "title": "Brände: Feuer nach mutmaßlicher Explosion – Mensch schwer verletzt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/feuer-nach-mutmasslicher-explosion-mensch-schwer-verletzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/feuer-nach-mutmasslicher-explosion-mensch-schwer-verletzt",
-      "published": "Sun, 20 Sep 2026 06:25:19 -0000",
-      "published_display": "20.09.2026 · 06:25 Uhr"
     }
   ]
 }
