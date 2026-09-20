@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-20T06:49:27.110471+00:00",
+  "updated": "2026-09-20T06:57:54.073107+00:00",
   "items": [
+    {
+      "title": "Landtagswahl: Richtungswahl: Gespannter Blick auf Mecklenburg-Vorpommern",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/richtungswahl-gespannter-blick-auf-mecklenburg-vorpommern-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/richtungswahl-gespannter-blick-auf-mecklenburg-vorpommern",
+      "published": "Sun, 20 Sep 2026 06:53:26 -0000",
+      "published_display": "20.09.2026 · 06:53 Uhr"
+    },
+    {
+      "title": "Fotografie: Bilder des Tages",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/bilder-des-tages-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/bilder-des-tages",
+      "published": "Sun, 20 Sep 2026 06:49:52 -0000",
+      "published_display": "20.09.2026 · 06:49 Uhr"
+    },
+    {
+      "title": "Fußball-Bundesliga: Javi Martínez kehrt in neuer Rolle zum FC Bayern zurück",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/javi-mart-nez-kehrt-in-neuer-rolle-zum-fc-bayern-zurueck-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/javi-mart-nez-kehrt-in-neuer-rolle-zum-fc-bayern-zurueck",
+      "published": "Sun, 20 Sep 2026 06:48:31 -0000",
+      "published_display": "20.09.2026 · 06:48 Uhr"
+    },
     {
       "title": "Tödlicher Verkehrsunfall: Wagen überschlägt sich bei Rohrberg – Autofahrer tot",
       "summary": "",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/20/feuer-nach-mutmasslicher-explosion-mensch-schwer-verletzt",
       "published": "Sun, 20 Sep 2026 06:25:19 -0000",
       "published_display": "20.09.2026 · 06:25 Uhr"
-    },
-    {
-      "title": "Landtagswahl: Richtungswahl: Gespannter Blick auf Mecklenburg-Vorpommern",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/richtungswahl-gespannter-blick-auf-mecklenburg-vorpommern-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/richtungswahl-gespannter-blick-auf-mecklenburg-vorpommern",
-      "published": "Sun, 20 Sep 2026 06:16:15 -0000",
-      "published_display": "20.09.2026 · 06:16 Uhr"
-    },
-    {
-      "title": "Berlin-Wahl 2026: Wahl zum Berliner Abgeordnetenhaus hat begonnen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/wahl-zum-berliner-abgeordnetenhaus-hat-begonnen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/wahl-zum-berliner-abgeordnetenhaus-hat-begonnen",
-      "published": "Sun, 20 Sep 2026 06:14:14 -0000",
-      "published_display": "20.09.2026 · 06:14 Uhr"
-    },
-    {
-      "title": "Tödlicher Unfall: Radfahrerin stirbt bei Unfall in Mörsdorf",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/radfahrerin-stirbt-bei-unfall-in-moersdorf-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/radfahrerin-stirbt-bei-unfall-in-moersdorf",
-      "published": "Sun, 20 Sep 2026 06:12:35 -0000",
-      "published_display": "20.09.2026 · 06:12 Uhr"
     }
   ]
 }
