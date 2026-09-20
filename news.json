@@ -1,7 +1,119 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-20T13:27:49.149509+00:00",
+  "updated": "2026-09-20T13:41:40.083466+00:00",
   "items": [
+    {
+      "title": "Notfall: Fünfjähriger stürzt in schmalen Schacht",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/kind-in-schacht-gerutscht-rettungsmassnahmen-laufen-an-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/kind-in-schacht-gerutscht-rettungsmassnahmen-laufen-an",
+      "published": "Sun, 20 Sep 2026 13:38:59 -0000",
+      "published_display": "20.09.2026 · 13:38 Uhr"
+    },
+    {
+      "title": "Wiesn 2026: «Bilderbuchstart»: Sonne, Bier und Promis auf der Wiesn",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/kreislaufproblem-ob-krause-sagt-anzapfen-in-der-braeurosl-ab-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/kreislaufproblem-ob-krause-sagt-anzapfen-in-der-braeurosl-ab",
+      "published": "Sun, 20 Sep 2026 13:37:57 -0000",
+      "published_display": "20.09.2026 · 13:37 Uhr"
+    },
+    {
+      "title": "Wahl in Berlin: Wahlbeteiligung in Berlin am Mittag höher als 2023",
+      "summary": "In der Hauptstadt wird heute ein neues Abgeordnetenhaus gewählt. Bis 12 Uhr haben bereits rund 28 Prozent der Wahlberechtigten abgestimmt. Das Liveblog zur Berlinwahl",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/wahl-abgeordnetenhaus-berlin-2026-live-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/wahl-abgeordnetenhaus-berlin-2026-live",
+      "published": "Sun, 20 Sep 2026 13:36:08 -0000",
+      "published_display": "20.09.2026 · 13:36 Uhr"
+    },
+    {
+      "title": "Abgeordnetenhauswahl: Ruhiger Verlauf gemeldet: Beteiligung steigt bei Berlin-Wahl",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/berlin-waehlt-neues-abgeordnetenhaus-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/berlin-waehlt-neues-abgeordnetenhaus",
+      "published": "Sun, 20 Sep 2026 13:35:12 -0000",
+      "published_display": "20.09.2026 · 13:35 Uhr"
+    },
+    {
+      "title": "Landtagswahl: Wahl in MV: Höhere Wahlbeteiligung als 2021 zeichnet sich ab",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/wahl-in-mv-hoehere-wahlbeteiligung-als-2021-zeichnet-sich-ab-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/wahl-in-mv-hoehere-wahlbeteiligung-als-2021-zeichnet-sich-ab",
+      "published": "Sun, 20 Sep 2026 13:35:09 -0000",
+      "published_display": "20.09.2026 · 13:35 Uhr"
+    },
+    {
+      "title": "Fußball-Bundesliga: «Ein Schock»: Fußball trauert um Co-Trainer-Ikone Hermann",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/ein-schock-fussball-trauert-um-co-trainer-ikone-hermann-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/ein-schock-fussball-trauert-um-co-trainer-ikone-hermann",
+      "published": "Sun, 20 Sep 2026 13:34:07 -0000",
+      "published_display": "20.09.2026 · 13:34 Uhr"
+    },
+    {
+      "title": "2. Fußball-Bundesliga: Starke Moral: St. Pauli holt in Cottbus Remis in Unterzahl",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/starke-moral-st-pauli-holt-in-cottbus-remis-in-unterzahl-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/starke-moral-st-pauli-holt-in-cottbus-remis-in-unterzahl",
+      "published": "Sun, 20 Sep 2026 13:33:40 -0000",
+      "published_display": "20.09.2026 · 13:33 Uhr"
+    },
+    {
+      "title": "Tennis: Deutsches Davis-Cup-Team zieht mit Alexander Zverev in Finalrunde ein",
+      "summary": "Alexander Zverev hat auch sein zweites Einzelduell gegen Kroatien im Davis-Cup gewonnen. Das deutsche Team steht zum dritten Mal in Folge in der Runde der besten Acht.",
+      "image": "https://img.zeit.de/sport/2026-09/alexander-zverev-davis-cup-deutschland-kroatien-halle-foto-1/original__640x360",
+      "link": "https://www.zeit.de/sport/2026-09/alexander-zverev-davis-cup-deutschland-kroatien-halle",
+      "published": "Sun, 20 Sep 2026 13:32:57 -0000",
+      "published_display": "20.09.2026 · 13:32 Uhr"
+    },
+    {
+      "title": "Tennis: Dank Zverev: Davis-Cup-Team bei Endrunde dabei",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/krawietz-puetz-bringen-deutsches-davis-cup-team-in-fuehrung-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/krawietz-puetz-bringen-deutsches-davis-cup-team-in-fuehrung",
+      "published": "Sun, 20 Sep 2026 13:32:48 -0000",
+      "published_display": "20.09.2026 · 13:32 Uhr"
+    },
+    {
+      "title": "2. Bundesliga: 2:2 in Bielefeld: Heidenheim verpasst vierten Sieg in Serie",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/2-2-in-bielefeld-heidenheim-verpasst-vierten-sieg-in-serie-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/2-2-in-bielefeld-heidenheim-verpasst-vierten-sieg-in-serie",
+      "published": "Sun, 20 Sep 2026 13:32:07 -0000",
+      "published_display": "20.09.2026 · 13:32 Uhr"
+    },
+    {
+      "title": "Windenergie: Windrad-Gigant in der Lausitz - Wetter verzögert Weltrekord",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/windrad-gigant-in-der-lausitz-wetter-verzoegert-weltrekord-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/windrad-gigant-in-der-lausitz-wetter-verzoegert-weltrekord",
+      "published": "Sun, 20 Sep 2026 13:29:26 -0000",
+      "published_display": "20.09.2026 · 13:29 Uhr"
+    },
+    {
+      "title": "Sicherheit: Polizei: vereinzelt Sachbeschädigungen vor Wahlstart",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/polizei-vereinzelt-sachbeschaedigungen-vor-wahlstart-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/polizei-vereinzelt-sachbeschaedigungen-vor-wahlstart",
+      "published": "Sun, 20 Sep 2026 13:28:56 -0000",
+      "published_display": "20.09.2026 · 13:28 Uhr"
+    },
+    {
+      "title": "2. Fußball-Bundesliga: Kein Sieg für Cottbus gegen St. Pauli trotz langer Überzahl",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/kein-sieg-fuer-cottbus-gegen-st-pauli-trotz-langer-ueberzahl-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/kein-sieg-fuer-cottbus-gegen-st-pauli-trotz-langer-ueberzahl",
+      "published": "Sun, 20 Sep 2026 13:28:17 -0000",
+      "published_display": "20.09.2026 · 13:28 Uhr"
+    },
+    {
+      "title": "Düsseldorf: Reisebus stößt mit Straßenbahn zusammen - zwei Verletzte",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/reisebus-stoesst-mit-strassenbahn-zusammen-zwei-verletzte-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/reisebus-stoesst-mit-strassenbahn-zusammen-zwei-verletzte",
+      "published": "Sun, 20 Sep 2026 13:27:45 -0000",
+      "published_display": "20.09.2026 · 13:27 Uhr"
+    },
     {
       "title": "2. Fußball-Bundesliga: Noch ohne Sandro Wagner: Hannover 96 schlägt Bochum",
       "summary": "",
@@ -9,118 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/20/noch-ohne-sandro-wagner-hannover-96-schlaegt-bochum",
       "published": "Sun, 20 Sep 2026 13:24:25 -0000",
       "published_display": "20.09.2026 · 13:24 Uhr"
-    },
-    {
-      "title": "2. Fußball-Bundesliga: Die neue Aufstiegshoffnung: Hannover holt Sandro Wagner",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/die-neue-aufstiegshoffnung-hannover-holt-sandro-wagner-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/die-neue-aufstiegshoffnung-hannover-holt-sandro-wagner",
-      "published": "Sun, 20 Sep 2026 13:23:09 -0000",
-      "published_display": "20.09.2026 · 13:23 Uhr"
-    },
-    {
-      "title": "Einsatz des SEK: Unmut über Kinder - Mann schießt mit Schreckschusswaffe",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/unmut-ueber-kinder-mann-schiesst-mit-schreckschusswaffe-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/unmut-ueber-kinder-mann-schiesst-mit-schreckschusswaffe",
-      "published": "Sun, 20 Sep 2026 13:18:58 -0000",
-      "published_display": "20.09.2026 · 13:18 Uhr"
-    },
-    {
-      "title": "Landtagswahlen: Spitzenkandidaten in Berlin und Mecklenburg-Vorpommern haben gewählt",
-      "summary": "In Berlin und Mecklenburg-Vorpommern wird gewählt. Unsichere Mehrheiten und die Debatte um den Bundeskanzler machen beide Abstimmungen politisch brisant.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/berlin-mecklenburg-vorpommern-afd-wahlen-landtagswahlen-merz-gxe-bild-2/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/berlin-mecklenburg-vorpommern-afd-wahlen-landtagswahlen-merz-gxe",
-      "published": "Sun, 20 Sep 2026 13:17:46 -0000",
-      "published_display": "20.09.2026 · 13:17 Uhr"
-    },
-    {
-      "title": "Tierquälerei: Katze gerät in verbotenes Tellereisen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/katze-geraet-in-verbotenes-tellereisen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/katze-geraet-in-verbotenes-tellereisen",
-      "published": "Sun, 20 Sep 2026 13:16:20 -0000",
-      "published_display": "20.09.2026 · 13:16 Uhr"
-    },
-    {
-      "title": "Spezialkräfte im Einsatz: Waffenfund in Keller in Rathenow - Anwohner evakuiert",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/waffenfund-in-keller-in-rathenow-anwohner-evakuiert-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/waffenfund-in-keller-in-rathenow-anwohner-evakuiert",
-      "published": "Sun, 20 Sep 2026 13:14:36 -0000",
-      "published_display": "20.09.2026 · 13:14 Uhr"
-    },
-    {
-      "title": "Tennis: Zweiter Sieg für Zverev: Davis-Cup-Team weiter",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/krawietz-puetz-bringen-deutsches-davis-cup-team-in-fuehrung-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/krawietz-puetz-bringen-deutsches-davis-cup-team-in-fuehrung",
-      "published": "Sun, 20 Sep 2026 13:14:05 -0000",
-      "published_display": "20.09.2026 · 13:14 Uhr"
-    },
-    {
-      "title": "Old-Firm-Derby in Schottland: Naderis großer Tag: Ex-Rostocker entscheidet Glasgow-Derby",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/naderis-grosser-tag-ex-rostocker-entscheidet-glasgow-derby-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/naderis-grosser-tag-ex-rostocker-entscheidet-glasgow-derby",
-      "published": "Sun, 20 Sep 2026 13:12:26 -0000",
-      "published_display": "20.09.2026 · 13:12 Uhr"
-    },
-    {
-      "title": "Festival in Magdeburg: Rekord - Internationales Chorfest zählt knapp 5.300 Besucher",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/rekord-internationales-chorfest-zaehlt-knapp-5-300-besucher-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/rekord-internationales-chorfest-zaehlt-knapp-5-300-besucher",
-      "published": "Sun, 20 Sep 2026 13:08:15 -0000",
-      "published_display": "20.09.2026 · 13:08 Uhr"
-    },
-    {
-      "title": "Russlands Parlamentswahl: Schwerste Drohnenschläge überschatten Russlands Duma-Wahl",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/schwerste-drohnenschlaege-ueberschatten-russlands-duma-wahl-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/schwerste-drohnenschlaege-ueberschatten-russlands-duma-wahl",
-      "published": "Sun, 20 Sep 2026 13:04:22 -0000",
-      "published_display": "20.09.2026 · 13:04 Uhr"
-    },
-    {
-      "title": "Flüchtlingsbehörde in Berlin: Schmutzige Wäsche",
-      "summary": "Bilal Ersoy reinigte säckeweise für eine Berliner Flüchtlingsunterkunft. 88.000 Euro schulde der Senat ihm dafür noch, sagt er – und hofft jetzt auch auf die AfD.",
-      "image": "https://img.zeit.de/2026/40/berlins-schmutzige-waesche-bild-2/original__640x360",
-      "link": "https://www.zeit.de/2026/40/fluechtlingsbehoerde-berlin-waescherei-schulden-afd-bilal-ersoy",
-      "published": "Sun, 20 Sep 2026 13:03:27 -0000",
-      "published_display": "20.09.2026 · 13:03 Uhr"
-    },
-    {
-      "title": "Vergiftet?: Zehn Löwen in Safari-Gebiet in Tansania getötet",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/zehn-loewen-in-safari-gebiet-in-tansania-getoetet-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/zehn-loewen-in-safari-gebiet-in-tansania-getoetet",
-      "published": "Sun, 20 Sep 2026 12:58:42 -0000",
-      "published_display": "20.09.2026 · 12:58 Uhr"
-    },
-    {
-      "title": "Cyberkriminalität: Hacker erbeutet Daten von Studierenden der Münchner LMU",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/hacker-erbeutet-daten-von-studierenden-der-muenchner-lmu-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/hacker-erbeutet-daten-von-studierenden-der-muenchner-lmu",
-      "published": "Sun, 20 Sep 2026 12:51:48 -0000",
-      "published_display": "20.09.2026 · 12:51 Uhr"
-    },
-    {
-      "title": "Berlin-Wahl 2026: CDU-Spitzenkandidat Evers «gelöst und entspannt» zur Wahl",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/cdu-spitzenkandidat-evers-geloest-und-entspannt-zur-wahl-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/cdu-spitzenkandidat-evers-geloest-und-entspannt-zur-wahl",
-      "published": "Sun, 20 Sep 2026 12:45:43 -0000",
-      "published_display": "20.09.2026 · 12:45 Uhr"
-    },
-    {
-      "title": "Bauarbeiten: Sperrung auf A1 in Hamburg sorgt für Staus in Richtung Süden",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/sperrung-auf-a1-in-hamburg-sorgt-fuer-staus-in-richtung-sueden-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/sperrung-auf-a1-in-hamburg-sorgt-fuer-staus-in-richtung-sueden",
-      "published": "Sun, 20 Sep 2026 12:39:21 -0000",
-      "published_display": "20.09.2026 · 12:39 Uhr"
     }
   ]
 }
