@@ -1,29 +1,69 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-20T22:15:58.471171+00:00",
+  "updated": "2026-09-20T22:27:46.362663+00:00",
   "items": [
     {
-      "title": "Landtagswahl in MV: Vorläufiges Ergebnis: AfD siegt in MV - Debakel für die CDU",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/richtungswahl-gespannter-blick-auf-mecklenburg-vorpommern-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/richtungswahl-gespannter-blick-auf-mecklenburg-vorpommern",
-      "published": "Sun, 20 Sep 2026 22:13:31 -0000",
-      "published_display": "20.09.2026 · 22:13 Uhr"
+      "title": "Wahl in Mecklenburg-Vorpommern: AfD gewinnt Wahl laut vorläufigem Ergebnis, CDU unter fünf Prozent",
+      "summary": "Die AfD kommt auf 38,2 Prozent der Stimmen. Die SPD wird zweitstärkste Kraft. Ministerpräsidentin Manuela Schwesig kritisiert Bundeskanzler Friedrich Merz. Das Liveblog",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/mecklenburg-vorpommern-landtagswahl-schwesig-4-liveblog/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/mecklenburg-vorpommern-landtagswahl-liveblog",
+      "published": "Sun, 20 Sep 2026 22:24:58 -0000",
+      "published_display": "20.09.2026 · 22:24 Uhr"
     },
     {
       "title": "Wahlergebnisse in Berlin 2026: Alle Ergebnisse der Wahl zum Abgeordnetenhaus in Berlin",
       "summary": "Welche Koalitionen sind im Abgeordnetenhaus möglich? Welche Kandidaten und Parteien gewinnen welchen Wahlkreis? Alle Daten und Karten zur Abgeordnetenhauswahl in Berlin",
       "image": "https://img.zeit.de/politik/deutschland/2026-09/landtagswahl-berlin-ergebnisse-wahlkreise-2026-bild/original__640x360",
       "link": "https://www.zeit.de/politik/deutschland/2026-09/berlin-wahl-abgeordnetenhaus-2026-ergebnisse-live",
-      "published": "Sun, 20 Sep 2026 22:13:22 -0000",
-      "published_display": "20.09.2026 · 22:13 Uhr"
+      "published": "Sun, 20 Sep 2026 22:23:22 -0000",
+      "published_display": "20.09.2026 · 22:23 Uhr"
+    },
+    {
+      "title": "Wahlverhalten in Mecklenburg-Vorpommern: Darum verloren alle außer der AfD",
+      "summary": "Die AfD ist stärkste Kraft, regieren wird sie wohl trotzdem nicht. Unsere Datenanalyse zeigt, wer bei wem gepunktet und warum die CDU so schlecht abgeschnitten hat.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/wahlverhalten-mecklenburg-vorpommern-waehlerwanderung-parteien-alter-teaserbild/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/wahlverhalten-mecklenburg-vorpommern-waehlerwanderung-parteien-alter",
+      "published": "Sun, 20 Sep 2026 22:22:51 -0000",
+      "published_display": "20.09.2026 · 22:22 Uhr"
+    },
+    {
+      "title": "Landtag: Die niedrigsten CDU-Wahlergebnisse bei Landtagswahlen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/die-niedrigsten-cdu-wahlergebnisse-bei-landtagswahlen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/die-niedrigsten-cdu-wahlergebnisse-bei-landtagswahlen",
+      "published": "Sun, 20 Sep 2026 22:19:02 -0000",
+      "published_display": "20.09.2026 · 22:19 Uhr"
+    },
+    {
+      "title": "Wahl in Berlin: Spitzenkandidaten von CDU und SPD verfehlen Direktmandate",
+      "summary": "Stefan Evers kommt in seinem Wahlkreis auf Platz zwei, Steffen Krach sogar nur auf den dritten Platz. Elif Eralp gewinnt ein Direktmandat in Kreuzberg. Das Liveblog",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/wahl-abgeordnetenhaus-berlin-2026-live-bild-16/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/wahl-abgeordnetenhaus-berlin-2026-live",
+      "published": "Sun, 20 Sep 2026 22:17:58 -0000",
+      "published_display": "20.09.2026 · 22:17 Uhr"
+    },
+    {
+      "title": "CDU in Mecklenburg-Vorpommern: So schlecht wie nie",
+      "summary": "Die CDU in Mecklenburg-Vorpommern unter fünf Prozent – ein Debakel. Bei der Wahlparty in Schwerin ruft ihr Spitzenkandidat schon den Überlebenskampf aus.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/cdu-mecklenburg-vorpommern-landtagswahl-ergebnisse-daniel-peters-bild-05/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/cdu-mecklenburg-vorpommern-landtagswahl-ergebnisse-daniel-peters",
+      "published": "Sun, 20 Sep 2026 22:16:29 -0000",
+      "published_display": "20.09.2026 · 22:16 Uhr"
     },
     {
       "title": "Wahlergebnisse in Mecklenburg-Vorpommern 2026: Alle Ergebnisse der Landtagswahl in Mecklenburg-Vorpommern",
       "summary": "Welche Koalitionen sind im Landtag möglich? Welche Kandidaten und Parteien gewinnen welchen Wahlkreis? Alle Daten und Karten zur Landtagswahl in Mecklenburg-Vorpommern",
       "image": "https://img.zeit.de/politik/deutschland/2026-09/landtagswahl-mecklenburg-vorpommern-ergebnisse-wahlkreise-2026-bild/original__640x360",
       "link": "https://www.zeit.de/politik/deutschland/2026-09/landtagswahl-mecklenburg-vorpommern-ergebnisse-wahlkreise-2026",
-      "published": "Sun, 20 Sep 2026 22:13:02 -0000",
+      "published": "Sun, 20 Sep 2026 22:16:00 -0000",
+      "published_display": "20.09.2026 · 22:16 Uhr"
+    },
+    {
+      "title": "Landtagswahl in MV: Vorläufiges Ergebnis: AfD siegt in MV - Debakel für die CDU",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/richtungswahl-gespannter-blick-auf-mecklenburg-vorpommern-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/richtungswahl-gespannter-blick-auf-mecklenburg-vorpommern",
+      "published": "Sun, 20 Sep 2026 22:13:31 -0000",
       "published_display": "20.09.2026 · 22:13 Uhr"
     },
     {
@@ -81,46 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/20/was-geschah-am-21-september",
       "published": "Sun, 20 Sep 2026 21:55:04 -0000",
       "published_display": "20.09.2026 · 21:55 Uhr"
-    },
-    {
-      "title": "Abgeordnetenhauswahl: AfD-Spitzenkandidatin Brinker holt kein Direktmandat",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/afd-spitzenkandidatin-brinker-holt-kein-direktmandat-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/afd-spitzenkandidatin-brinker-holt-kein-direktmandat",
-      "published": "Sun, 20 Sep 2026 21:46:56 -0000",
-      "published_display": "20.09.2026 · 21:46 Uhr"
-    },
-    {
-      "title": "Festnahme: Mann soll Kinder und Anwohner mit Machete bedroht haben",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/mann-soll-kinder-und-anwohner-mit-machete-bedroht-haben-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/mann-soll-kinder-und-anwohner-mit-machete-bedroht-haben",
-      "published": "Sun, 20 Sep 2026 21:45:29 -0000",
-      "published_display": "20.09.2026 · 21:45 Uhr"
-    },
-    {
-      "title": "Wahlen: Sozialministerin Drese gewinnt Wahlkreis und Direktmandat",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/sozialministerin-drese-gewinnt-wahlkreis-und-direktmandat-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/sozialministerin-drese-gewinnt-wahlkreis-und-direktmandat",
-      "published": "Sun, 20 Sep 2026 21:39:09 -0000",
-      "published_display": "20.09.2026 · 21:39 Uhr"
-    },
-    {
-      "title": "Berlin-Wahl: Giffey nicht mehr im Berliner Abgeordnetenhaus",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/giffey-nicht-mehr-im-berliner-abgeordnetenhaus-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/giffey-nicht-mehr-im-berliner-abgeordnetenhaus",
-      "published": "Sun, 20 Sep 2026 21:24:25 -0000",
-      "published_display": "20.09.2026 · 21:24 Uhr"
-    },
-    {
-      "title": "Wahl in Berlin: Spitzenkandidaten von CDU und SPD verfehlen Direktmandate",
-      "summary": "Stefan Evers kommt in seinem Wahlkreis auf Platz zwei, Steffen Krach sogar nur auf den dritten Platz. Elif Eralp gewinnt ein Direktmandat in Kreuzberg. Das Liveblog",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/wahl-abgeordnetenhaus-berlin-2026-live-bild-16/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/wahl-abgeordnetenhaus-berlin-2026-live",
-      "published": "Sun, 20 Sep 2026 21:21:56 -0000",
-      "published_display": "20.09.2026 · 21:21 Uhr"
     }
   ]
 }
