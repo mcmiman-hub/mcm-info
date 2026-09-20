@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-19T23:53:57.169255+00:00",
+  "updated": "2026-09-20T00:25:28.324859+00:00",
   "items": [
+    {
+      "title": "Unfall im Landkreis Günzburg: Motorradfahrer von Traktor lebensgefährlich verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/motorradfahrer-von-traktor-lebensgefaehrlich-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/motorradfahrer-von-traktor-lebensgefaehrlich-verletzt",
+      "published": "Sun, 20 Sep 2026 00:12:08 -0000",
+      "published_display": "20.09.2026 · 00:12 Uhr"
+    },
+    {
+      "title": "Von Auto angefahren: Unfall in Hamburg: Fußgänger lebensgefährlich verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/unfall-in-hamburg-fussgaenger-lebensgefaehrlich-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/unfall-in-hamburg-fussgaenger-lebensgefaehrlich-verletzt",
+      "published": "Sat, 19 Sep 2026 23:59:27 -0000",
+      "published_display": "19.09.2026 · 23:59 Uhr"
+    },
     {
       "title": "Kellerbrand: Ein Schwerverletzter bei Brand in Wohnhaus",
       "summary": "",
@@ -12,7 +28,7 @@
     },
     {
       "title": "Niederlande: Rechtsextreme Proteste in Den Haag schlagen in Gewalt um",
-      "summary": "In Den Haag ist ein Protest Hunderter Rechtsextremer gegen Einwanderungspolitik eskaliert. Demonstranten warfen Feuerwerkskörper. Die Polizei nahm 24 Menschen fest.",
+      "summary": "In den Niederlanden ist ein Protest von Rechtsextremen gegen die Einwanderungspolitik eskaliert. Demonstranten warfen Feuerwerkskörper. Die Polizei nahm 24 Menschen fest.",
       "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-09/rechtsextreme-demo-den-haag-niederlande-antisemitismus-polizei-rob-jetten-foto-1/original__640x360",
       "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-09/rechtsextreme-demo-den-haag-niederlande-antisemitismus-polizei-rob-jetten",
       "published": "Sat, 19 Sep 2026 23:41:41 -0000",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/19/trauer-um-den-co-trainer-deutschlands-peter-hermann-ist-tot",
       "published": "Sat, 19 Sep 2026 20:19:12 -0000",
       "published_display": "19.09.2026 · 20:19 Uhr"
-    },
-    {
-      "title": "Basketball: Hamburg kassiert klare Auftaktniederlage",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/hamburg-kassiert-klare-auftaktniederlage-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/hamburg-kassiert-klare-auftaktniederlage",
-      "published": "Sat, 19 Sep 2026 20:05:40 -0000",
-      "published_display": "19.09.2026 · 20:05 Uhr"
-    },
-    {
-      "title": "Festtag: Literaturfestival Harbour Front startet mit USA-Fokus",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/literaturfestival-harbour-front-startet-mit-usa-fokus-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/literaturfestival-harbour-front-startet-mit-usa-fokus",
-      "published": "Sat, 19 Sep 2026 19:41:18 -0000",
-      "published_display": "19.09.2026 · 19:41 Uhr"
     }
   ]
 }
