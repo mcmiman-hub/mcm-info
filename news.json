@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-20T15:16:30.762802+00:00",
+  "updated": "2026-09-20T15:28:11.241706+00:00",
   "items": [
+    {
+      "title": "Fußball-Bundesliga: Torjäger Schick führt Leverkusen zu nächstem Heimsieg",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/torjaeger-schick-fuehrt-leverkusen-zu-naechstem-heimsieg-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/torjaeger-schick-fuehrt-leverkusen-zu-naechstem-heimsieg",
+      "published": "Sun, 20 Sep 2026 15:23:49 -0000",
+      "published_display": "20.09.2026 · 15:23 Uhr"
+    },
+    {
+      "title": "Wahl in Mecklenburg-Vorpommern: 40,7 Prozent der Wahlberechtigten haben bereits abgestimmt",
+      "summary": "In Mecklenburg-Vorpommern liegen SPD und AfD nah beieinander. Bislang haben deutlich mehr Menschen ihre Stimme abgegeben als 2021. Das Liveblog",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/mecklenburg-vorpommern-landtagswahl-liveblog-bild-01/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/mecklenburg-vorpommern-landtagswahl-liveblog",
+      "published": "Sun, 20 Sep 2026 15:18:25 -0000",
+      "published_display": "20.09.2026 · 15:18 Uhr"
+    },
     {
       "title": "Landkreis Uelzen: Pferde laufen auf Gleise - Bahnverkehr bei Lüneburg gesperrt",
       "summary": "",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/20/eisbaeren-berlin-verlieren-mit-3-4-in-mannheim",
       "published": "Sun, 20 Sep 2026 14:38:30 -0000",
       "published_display": "20.09.2026 · 14:38 Uhr"
-    },
-    {
-      "title": "Wolfsburg: Kita stürzt ein - lauter Knall und viele Trümmer",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/lauter-knall-in-wolfsburg-kita-stuerzt-teilweise-ein-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/lauter-knall-in-wolfsburg-kita-stuerzt-teilweise-ein",
-      "published": "Sun, 20 Sep 2026 14:35:42 -0000",
-      "published_display": "20.09.2026 · 14:35 Uhr"
-    },
-    {
-      "title": "Washington, D. C. : Donald Trump will geplanten Triumphbogen zum Militärkomplex machen",
-      "summary": "Der von Trump in Auftrag gegebene Triumphbogen in Washington, D. C. soll Drohnen und Munition beherbergen. Das ordnete der US-Präsident wegen Sicherheitserwägungen an.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/triumphbogen-arlington-donald-trump-militaer-komplex-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/triumphbogen-arlington-donald-trump-militaer-komplex-gxe",
-      "published": "Sun, 20 Sep 2026 14:34:52 -0000",
-      "published_display": "20.09.2026 · 14:34 Uhr"
     }
   ]
 }
