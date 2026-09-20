@@ -1,7 +1,79 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-20T15:28:11.241706+00:00",
+  "updated": "2026-09-20T15:42:10.765799+00:00",
   "items": [
+    {
+      "title": "Wahlergebnisse in Berlin 2026: Alle Ergebnisse der Wahl zum Abgeordnetenhaus in Berlin",
+      "summary": "Welche Koalitionen sind im Abgeordnetenhaus möglich? Welche Kandidaten und Parteien gewinnen welchen Wahlkreis? Alle Daten und Karten zur Abgeordnetenhauswahl in Berlin",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/landtagswahl-berlin-ergebnisse-wahlkreise-2026-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/berlin-wahl-abgeordnetenhaus-2026-ergebnisse-live",
+      "published": "Sun, 20 Sep 2026 15:41:12 -0000",
+      "published_display": "20.09.2026 · 15:41 Uhr"
+    },
+    {
+      "title": "Wahlergebnisse in Mecklenburg-Vorpommern 2026: Alle Ergebnisse der Landtagswahl in Mecklenburg-Vorpommern – live",
+      "summary": "Welche Koalitionen sind im Landtag möglich? Welche Kandidaten und Parteien gewinnen welchen Wahlkreis? Alle Daten und Karten zur Landtagswahl in Mecklenburg-Vorpommern",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/landtagswahl-mecklenburg-vorpommern-ergebnisse-wahlkreise-2026-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/landtagswahl-mecklenburg-vorpommern-ergebnisse-wahlkreise-2026",
+      "published": "Sun, 20 Sep 2026 15:40:59 -0000",
+      "published_display": "20.09.2026 · 15:40 Uhr"
+    },
+    {
+      "title": "Wahl in Berlin: Wahlbeteiligung in Berlin bis 16 Uhr bei 58 Prozent",
+      "summary": "In der Hauptstadt wird heute ein neues Abgeordnetenhaus gewählt. Bis 16 Uhr haben mehr Menschen abgestimmt als bei der vorherigen Wahl. Das Liveblog zur Berlin-Wahl",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/wahl-abgeordnetenhaus-berlin-2026-live-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/wahl-abgeordnetenhaus-berlin-2026-live",
+      "published": "Sun, 20 Sep 2026 15:39:38 -0000",
+      "published_display": "20.09.2026 · 15:39 Uhr"
+    },
+    {
+      "title": "Unfall auf Autobahn: Auto überschlägt sich achtmal - Insassen nur leicht verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/auto-ueberschlaegt-sich-achtmal-insassen-nur-leicht-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/auto-ueberschlaegt-sich-achtmal-insassen-nur-leicht-verletzt",
+      "published": "Sun, 20 Sep 2026 15:39:01 -0000",
+      "published_display": "20.09.2026 · 15:39 Uhr"
+    },
+    {
+      "title": "Wiesn 2026: «Bilderbuchstart»: Sonne, Bier und Promis auf der Wiesn",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/kreislaufproblem-ob-krause-sagt-anzapfen-in-der-braeurosl-ab-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/kreislaufproblem-ob-krause-sagt-anzapfen-in-der-braeurosl-ab",
+      "published": "Sun, 20 Sep 2026 15:38:43 -0000",
+      "published_display": "20.09.2026 · 15:38 Uhr"
+    },
+    {
+      "title": "CDU: Merz will sich um kurz nach 18.00 Uhr zum Wahlausgang äußern",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/kann-die-fuenf-prozent-huerde-merz-zu-fall-bringen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/kann-die-fuenf-prozent-huerde-merz-zu-fall-bringen",
+      "published": "Sun, 20 Sep 2026 15:36:24 -0000",
+      "published_display": "20.09.2026 · 15:36 Uhr"
+    },
+    {
+      "title": "Basketball: MBC startet mit Niederlage in neue Saison",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/mbc-startet-mit-niederlage-in-neue-saison-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/mbc-startet-mit-niederlage-in-neue-saison",
+      "published": "Sun, 20 Sep 2026 15:33:24 -0000",
+      "published_display": "20.09.2026 · 15:33 Uhr"
+    },
+    {
+      "title": "Tarifverhandlungen: Warnstreik trifft erneut Nahverkehr in vier Städten",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/warnstreik-trifft-erneut-nahverkehr-in-vier-staedten-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/warnstreik-trifft-erneut-nahverkehr-in-vier-staedten",
+      "published": "Sun, 20 Sep 2026 15:30:07 -0000",
+      "published_display": "20.09.2026 · 15:30 Uhr"
+    },
+    {
+      "title": "Radsport-Weltmeisterschaft: Zeitfahren: Koch gewinnt überraschend Bronze",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/zeitfahren-koch-gewinnt-ueberraschend-bronze-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/zeitfahren-koch-gewinnt-ueberraschend-bronze",
+      "published": "Sun, 20 Sep 2026 15:26:37 -0000",
+      "published_display": "20.09.2026 · 15:26 Uhr"
+    },
     {
       "title": "Fußball-Bundesliga: Torjäger Schick führt Leverkusen zu nächstem Heimsieg",
       "summary": "",
@@ -49,78 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/20/fuechse-berlin-feiern-souveraenen-heimsieg",
       "published": "Sun, 20 Sep 2026 15:03:55 -0000",
       "published_display": "20.09.2026 · 15:03 Uhr"
-    },
-    {
-      "title": "Agrarwirtschaft: Tiere und Technik bei den Grünen Tagen Thüringen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/tiere-und-technik-bei-den-gruenen-tagen-thueringen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/tiere-und-technik-bei-den-gruenen-tagen-thueringen",
-      "published": "Sun, 20 Sep 2026 14:59:06 -0000",
-      "published_display": "20.09.2026 · 14:59 Uhr"
-    },
-    {
-      "title": "Umfrage in Berlin: Wie Berliner wählen",
-      "summary": "Berliner wählen zum 20. Mal ein neues Abgeordnetenhaus. Wie ist die Stimmung an der Urne? Wir fragen nach.",
-      "image": "https://img.zeit.de/video/2026-09/berlin-wahl-2026-umfrage-hochkant/original__640x360",
-      "link": "https://www.zeit.de/video/2026-09/umfrage-berlin-wahl-stimmungsbild-wahllokale",
-      "published": "Sun, 20 Sep 2026 14:55:34 -0000",
-      "published_display": "20.09.2026 · 14:55 Uhr"
-    },
-    {
-      "title": "DDoS-Attacken in Russland: Russland meldet Cyberangriffe auf elektronische Wahlinfrastruktur",
-      "summary": "Russlands Leiterin der Wahlkommission berichtet von mehr als 1.000 Cyberangriffen. Wähler berichten, ihnen sei trotz Störung kein Papierstimmzettel überreicht worden.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/ddos-attacken-russland-parlamentswahl-cyberangriff-ella-pamfilowa-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/ddos-attacken-russland-parlamentswahl-cyberangriff-ella-pamfilowa",
-      "published": "Sun, 20 Sep 2026 14:53:34 -0000",
-      "published_display": "20.09.2026 · 14:53 Uhr"
-    },
-    {
-      "title": "Dramatische Bilder: Kita stürzt ein - lauter Knall und viele Trümmer",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/kita-stuerzt-ein-lauter-knall-und-viele-truemmer-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/kita-stuerzt-ein-lauter-knall-und-viele-truemmer",
-      "published": "Sun, 20 Sep 2026 14:52:13 -0000",
-      "published_display": "20.09.2026 · 14:52 Uhr"
-    },
-    {
-      "title": "Unfälle: Schwerer Unfall bei Oberursel – Zwei Fahrer im Krankenhaus",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/schwerer-unfall-bei-oberursel-zwei-fahrer-im-krankenhaus-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/schwerer-unfall-bei-oberursel-zwei-fahrer-im-krankenhaus",
-      "published": "Sun, 20 Sep 2026 14:48:36 -0000",
-      "published_display": "20.09.2026 · 14:48 Uhr"
-    },
-    {
-      "title": "Kriminalität: Flaschenwurf auf Polizeiwagen in Pankow - Riss Frontscheibe",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/flaschenwurf-auf-polizeiwagen-in-pankow-riss-frontscheibe-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/flaschenwurf-auf-polizeiwagen-in-pankow-riss-frontscheibe",
-      "published": "Sun, 20 Sep 2026 14:47:27 -0000",
-      "published_display": "20.09.2026 · 14:47 Uhr"
-    },
-    {
-      "title": "Attestpflicht: Wie die Arbeitsministerin die Krankschreibung ab Tag eins bremst",
-      "summary": "Wer nur einen Tag fehlt, braucht ein Attest: Das forderte die Regierung im Sommer. Umgesetzt hat sie das Vorhaben bislang nicht – weil im Hintergrund ein Machtkampf tobt.",
-      "image": "https://img.zeit.de/wirtschaft/2026-09/attestpflicht-tag-1-koalitionsausschuss/original__640x360",
-      "link": "https://www.zeit.de/wirtschaft/2026-09/attestpflicht-tag-1-koalitionsausschuss-bundesregierung-reformpolitik",
-      "published": "Sun, 20 Sep 2026 14:47:22 -0000",
-      "published_display": "20.09.2026 · 14:47 Uhr"
-    },
-    {
-      "title": "Leichenfund: Leiche in brennendem Fahrzeug entdeckt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/leiche-in-brennendem-fahrzeug-entdeckt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/leiche-in-brennendem-fahrzeug-entdeckt",
-      "published": "Sun, 20 Sep 2026 14:39:06 -0000",
-      "published_display": "20.09.2026 · 14:39 Uhr"
-    },
-    {
-      "title": "Deutsche Eishockey Liga: Eisbären Berlin verlieren mit 3:4 in Mannheim",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/eisbaeren-berlin-verlieren-mit-3-4-in-mannheim-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/eisbaeren-berlin-verlieren-mit-3-4-in-mannheim",
-      "published": "Sun, 20 Sep 2026 14:38:30 -0000",
-      "published_display": "20.09.2026 · 14:38 Uhr"
     }
   ]
 }
