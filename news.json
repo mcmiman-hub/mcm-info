@@ -1,7 +1,79 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-20T09:54:31.398533+00:00",
+  "updated": "2026-09-20T10:16:46.343007+00:00",
   "items": [
+    {
+      "title": "Singapur : Her mit der Kohle",
+      "summary": "Singapur will seine Bürgerinnen und Bürger künftig dafür bezahlen, täglich 15 Minuten lang zu lesen. Buch gegen Cash? Klingt gut. Ein Lob der Bestechlichkeit.",
+      "image": "https://img.zeit.de/feuilleton/2026-09/wochenende-pflichtverteidigung-bestechlichkeit-bild/original__640x360",
+      "link": "https://www.zeit.de/feuilleton/2026-09/singapur-bezahlung-lesen-buerger-digitale-ablenkung",
+      "published": "Sun, 20 Sep 2026 10:14:00 -0000",
+      "published_display": "20.09.2026 · 10:14 Uhr"
+    },
+    {
+      "title": "Rare Books Berlin: Forschen. Finden. Festhalten",
+      "summary": "Bei der Rare-Books-Messe in Berlin kommen Antiquare und Sammler aus aller Welt zusammen. Warum sind seltene Bücher so faszinierend? Ein Ortsbesuch.",
+      "image": "https://img.zeit.de/feuilleton/2026-09/rare-books-berlin-buch-messe-antiquare-bild-2/original__640x360",
+      "link": "https://www.zeit.de/feuilleton/2026-09/rare-books-berlin-buch-messe-antiquare",
+      "published": "Sun, 20 Sep 2026 10:13:39 -0000",
+      "published_display": "20.09.2026 · 10:13 Uhr"
+    },
+    {
+      "title": "Unfälle: 77-Jähriger bei Frontalcrash lebensgefährlich verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/77-jaehriger-bei-frontalcrash-lebensgefaehrlich-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/77-jaehriger-bei-frontalcrash-lebensgefaehrlich-verletzt",
+      "published": "Sun, 20 Sep 2026 10:13:38 -0000",
+      "published_display": "20.09.2026 · 10:13 Uhr"
+    },
+    {
+      "title": "Feuer: Flammen in Kohlebunker in Hamburger Kraftwerk besiegt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/flammen-in-kohlebunker-in-hamburger-kraftwerk-besiegt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/flammen-in-kohlebunker-in-hamburger-kraftwerk-besiegt",
+      "published": "Sun, 20 Sep 2026 10:00:35 -0000",
+      "published_display": "20.09.2026 · 10:00 Uhr"
+    },
+    {
+      "title": "Bildung: Wie «wisch, wisch, klick» den Schulen schadet",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/wie-wisch-wisch-klick-den-schulen-schadet-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/wie-wisch-wisch-klick-den-schulen-schadet",
+      "published": "Sun, 20 Sep 2026 10:00:06 -0000",
+      "published_display": "20.09.2026 · 10:00 Uhr"
+    },
+    {
+      "title": "2. Fußball-Bundesliga: Die neue Aufstiegshoffnung: Hannover holt Sandro Wagner",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/die-neue-aufstiegshoffnung-hannover-holt-sandro-wagner-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/die-neue-aufstiegshoffnung-hannover-holt-sandro-wagner",
+      "published": "Sun, 20 Sep 2026 09:57:24 -0000",
+      "published_display": "20.09.2026 · 09:57 Uhr"
+    },
+    {
+      "title": "Schifffahrt: Wind und Strömung legen Fährverkehr auf Rügen lahm",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/wind-und-stroemung-legen-faehrverkehr-auf-ruegen-lahm-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/wind-und-stroemung-legen-faehrverkehr-auf-ruegen-lahm",
+      "published": "Sun, 20 Sep 2026 09:56:08 -0000",
+      "published_display": "20.09.2026 · 09:56 Uhr"
+    },
+    {
+      "title": "Unfälle: Lauter Knall in Wolfsburg – Kita stürzt teilweise ein",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/lauter-knall-in-wolfsburg-kita-stuerzt-teilweise-ein-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/lauter-knall-in-wolfsburg-kita-stuerzt-teilweise-ein",
+      "published": "Sun, 20 Sep 2026 09:54:19 -0000",
+      "published_display": "20.09.2026 · 09:54 Uhr"
+    },
+    {
+      "title": "Einsatz am Starnberger See: Suche nach Taucher im Starnberger See bislang erfolglos",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/suche-nach-taucher-im-starnberger-see-bislang-erfolglos-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/suche-nach-taucher-im-starnberger-see-bislang-erfolglos",
+      "published": "Sun, 20 Sep 2026 09:54:10 -0000",
+      "published_display": "20.09.2026 · 09:54 Uhr"
+    },
     {
       "title": "Brände: Carport und Fahrzeuge brennen aus – Polizei prüft Ursache",
       "summary": "",
@@ -49,78 +121,6 @@
       "link": "https://www.zeit.de/sport/2026-09/fussball-bundesliga-4-spieltag-2026-27-eintracht-frankfurt-vfb-stuttgart-borussia-dortmund",
       "published": "Sun, 20 Sep 2026 09:45:44 -0000",
       "published_display": "20.09.2026 · 09:45 Uhr"
-    },
-    {
-      "title": "Fußball-Bundesliga: Heftige Hütter-Kritik trübt Atubolus emotionales Wiedersehen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/heftige-huetter-kritik-truebt-atubolus-emotionales-wiedersehen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/heftige-huetter-kritik-truebt-atubolus-emotionales-wiedersehen",
-      "published": "Sun, 20 Sep 2026 09:44:47 -0000",
-      "published_display": "20.09.2026 · 09:44 Uhr"
-    },
-    {
-      "title": "Berlin-Wahl 2026: SPD-Spitzenkandidat Krach gibt Stimme ab",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/spd-spitzenkandidat-krach-gibt-stimme-ab-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/spd-spitzenkandidat-krach-gibt-stimme-ab",
-      "published": "Sun, 20 Sep 2026 09:44:18 -0000",
-      "published_display": "20.09.2026 · 09:44 Uhr"
-    },
-    {
-      "title": "2. Fußball-Bundesliga: 130 Kilometer gelaufen - aber keine Punkte: Dynamos Dilemma",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/130-kilometer-gelaufen-aber-keine-punkte-dynamos-dilemma-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/130-kilometer-gelaufen-aber-keine-punkte-dynamos-dilemma",
-      "published": "Sun, 20 Sep 2026 09:44:08 -0000",
-      "published_display": "20.09.2026 · 09:44 Uhr"
-    },
-    {
-      "title": "Landkreis Göttingen: Spezialkräfte umstellen Wohnhaus - Hubschrauber im Einsatz",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/spezialkraefte-umstellen-wohnhaus-hubschrauber-im-einsatz-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/spezialkraefte-umstellen-wohnhaus-hubschrauber-im-einsatz",
-      "published": "Sun, 20 Sep 2026 09:43:12 -0000",
-      "published_display": "20.09.2026 · 09:43 Uhr"
-    },
-    {
-      "title": "Matthias Jung: »Merz kündigt etwas an und weiß schon, dass er nicht liefern kann«",
-      "summary": "Der Erfolg der AfD liege am Versagen der Mitte, sagt Meinungsforscher Matthias Jung. Welche Fehler er bei der Union sieht und ob ein Kanzlertausch die Lösung sein kann.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/matthias-jung-friedrich-merz-strategie-fehler-meinungsforschung-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/matthias-jung-friedrich-merz-strategie-fehler-meinungsforschung",
-      "published": "Sun, 20 Sep 2026 09:35:53 -0000",
-      "published_display": "20.09.2026 · 09:35 Uhr"
-    },
-    {
-      "title": "Bauten am Weißen Haus: Arc de Trump",
-      "summary": "Ein neuer Ballsaal, ein Triumphbogen: Je unbeliebter der US-Präsident wird, desto hektischer versucht er, sich in Architektur zu verewigen. Auch aus praktischen Gründen.",
-      "image": "https://img.zeit.de/2026/40/arc-de-trump-bild-1/original__640x360",
-      "link": "https://www.zeit.de/2026/40/bauten-weisses-haus-donald-trump-ballsaal-triumphbogen-architektur",
-      "published": "Sun, 20 Sep 2026 09:30:41 -0000",
-      "published_display": "20.09.2026 · 09:30 Uhr"
-    },
-    {
-      "title": "Fußball-Nationalmannschaft: Pascal Groß beendet DFB-Karriere: Werde Daumen drücken",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/pascal-gross-beendet-dfb-karriere-werde-daumen-druecken-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/pascal-gross-beendet-dfb-karriere-werde-daumen-druecken",
-      "published": "Sun, 20 Sep 2026 09:28:19 -0000",
-      "published_display": "20.09.2026 · 09:28 Uhr"
-    },
-    {
-      "title": "Fotografie: Bilder des Tages",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/bilder-des-tages-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/bilder-des-tages",
-      "published": "Sun, 20 Sep 2026 09:26:47 -0000",
-      "published_display": "20.09.2026 · 09:26 Uhr"
-    },
-    {
-      "title": "Fußball-Bundesliga: Keine Ausreden nach sieben Bayern-Watschen für Union Berlin",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/keine-ausreden-nach-sieben-bayern-watschen-fuer-union-berlin-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/keine-ausreden-nach-sieben-bayern-watschen-fuer-union-berlin",
-      "published": "Sun, 20 Sep 2026 09:25:52 -0000",
-      "published_display": "20.09.2026 · 09:25 Uhr"
     }
   ]
 }
