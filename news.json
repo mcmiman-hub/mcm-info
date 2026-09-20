@@ -1,14 +1,62 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-20T20:28:03.798846+00:00",
+  "updated": "2026-09-20T20:41:49.703375+00:00",
   "items": [
     {
       "title": "Wahlergebnisse in Berlin 2026: Alle Ergebnisse der Wahl zum Abgeordnetenhaus in Berlin",
       "summary": "Welche Koalitionen sind im Abgeordnetenhaus möglich? Welche Kandidaten und Parteien gewinnen welchen Wahlkreis? Alle Daten und Karten zur Abgeordnetenhauswahl in Berlin",
       "image": "https://img.zeit.de/politik/deutschland/2026-09/landtagswahl-berlin-ergebnisse-wahlkreise-2026-bild/original__640x360",
       "link": "https://www.zeit.de/politik/deutschland/2026-09/berlin-wahl-abgeordnetenhaus-2026-ergebnisse-live",
-      "published": "Sun, 20 Sep 2026 20:27:24 -0000",
-      "published_display": "20.09.2026 · 20:27 Uhr"
+      "published": "Sun, 20 Sep 2026 20:40:24 -0000",
+      "published_display": "20.09.2026 · 20:40 Uhr"
+    },
+    {
+      "title": "Wahlergebnisse in Mecklenburg-Vorpommern 2026: Alle Ergebnisse der Landtagswahl in Mecklenburg-Vorpommern – live",
+      "summary": "Welche Koalitionen sind im Landtag möglich? Welche Kandidaten und Parteien gewinnen welchen Wahlkreis? Alle Daten und Karten zur Landtagswahl in Mecklenburg-Vorpommern",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/landtagswahl-mecklenburg-vorpommern-ergebnisse-wahlkreise-2026-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/landtagswahl-mecklenburg-vorpommern-ergebnisse-wahlkreise-2026",
+      "published": "Sun, 20 Sep 2026 20:39:01 -0000",
+      "published_display": "20.09.2026 · 20:39 Uhr"
+    },
+    {
+      "title": "Landtag: Die niedrigsten CDU-Wahlergebnisse bei Landtagswahlen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/die-niedrigsten-cdu-wahlergebnisse-bei-landtagswahlen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/die-niedrigsten-cdu-wahlergebnisse-bei-landtagswahlen",
+      "published": "Sun, 20 Sep 2026 20:37:15 -0000",
+      "published_display": "20.09.2026 · 20:37 Uhr"
+    },
+    {
+      "title": "Jovenel Moïse: Haiti liefert Verdächtige im Mordfall von Präsident Moïse an USA aus",
+      "summary": "US-Behörden zeigen sich entschlossen, den Mordfall des haitianischen Präsidenten Jovenel Moïse aufzuklären. 18 Verdächtige aus Haiti müssen sich in Florida verantworten.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/krise-in-haiti-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/jovenel-moise-mord-haiti-auslieferung-usa-prozess",
+      "published": "Sun, 20 Sep 2026 20:35:55 -0000",
+      "published_display": "20.09.2026 · 20:35 Uhr"
+    },
+    {
+      "title": "Wahl in Berlin: «Stadt verändern»: Linke greift in Berlin nach der Macht",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/wahl-prognosen-linke-greift-in-berlin-nach-der-macht-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/wahl-prognosen-linke-greift-in-berlin-nach-der-macht",
+      "published": "Sun, 20 Sep 2026 20:34:37 -0000",
+      "published_display": "20.09.2026 · 20:34 Uhr"
+    },
+    {
+      "title": "Wahl in Mecklenburg-Vorpommern: Manuela Schwesig zeigt sich »irritiert« über Friedrich Merz",
+      "summary": "Ministerpräsidentin Manuela Schwesig äußert deutliche Kritik an Bundeskanzler Friedrich Merz. Inzwischen sind fast alle Wahlbezirke ausgezählt. Das Liveblog",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/mecklenburg-vorpommern-landtagswahl-schwesig-4-liveblog/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/mecklenburg-vorpommern-landtagswahl-liveblog",
+      "published": "Sun, 20 Sep 2026 20:32:23 -0000",
+      "published_display": "20.09.2026 · 20:32 Uhr"
+    },
+    {
+      "title": "Landtagswahl: CDU in Mecklenburg-Vorpommern laut Hochrechnung unter fünf Prozent",
+      "summary": "In Mecklenburg-Vorpommern muss die CDU um den Einzug in den Landtag bangen. In einer Hochrechnung erreicht sie nur noch 4,9 Prozent – ein historisch schlechtes Ergebnis.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/landtagswahl-mv-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/cdu-faellt-in-mecklenburg-vorpommern-laut-hochrechnung-unter-5-prozent",
+      "published": "Sun, 20 Sep 2026 20:29:08 -0000",
+      "published_display": "20.09.2026 · 20:29 Uhr"
     },
     {
       "title": "Berliner Abgeordnetenhaus: BSW verfehlt in Berlin laut Hochrechnungen Fünf-Prozent-Hürde",
@@ -27,28 +75,12 @@
       "published_display": "20.09.2026 · 20:26 Uhr"
     },
     {
-      "title": "Wahlergebnisse in Mecklenburg-Vorpommern 2026: Alle Ergebnisse der Landtagswahl in Mecklenburg-Vorpommern – live",
-      "summary": "Welche Koalitionen sind im Landtag möglich? Welche Kandidaten und Parteien gewinnen welchen Wahlkreis? Alle Daten und Karten zur Landtagswahl in Mecklenburg-Vorpommern",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/landtagswahl-mecklenburg-vorpommern-ergebnisse-wahlkreise-2026-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/landtagswahl-mecklenburg-vorpommern-ergebnisse-wahlkreise-2026",
-      "published": "Sun, 20 Sep 2026 20:24:00 -0000",
-      "published_display": "20.09.2026 · 20:24 Uhr"
-    },
-    {
       "title": "Landtagswahlen: CDU im Nordosten unter fünf Prozent – Linke siegt in Berlin",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-09/20/wahlen-in-zwei-bundeslaendern-wegweiser-in-der-merz-krise-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-09/20/wahlen-in-zwei-bundeslaendern-wegweiser-in-der-merz-krise",
       "published": "Sun, 20 Sep 2026 20:22:25 -0000",
       "published_display": "20.09.2026 · 20:22 Uhr"
-    },
-    {
-      "title": "Landtagswahl: CDU in Mecklenburg-Vorpommern laut Hochrechnung unter fünf Prozent",
-      "summary": "In Mecklenburg-Vorpommern muss die CDU um den Einzug in den Landtag bangen. In einer Hochrechnung erreicht sie nur noch 4,9 Prozent – ein historisch schlechtes Ergebnis.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/landtagswahl-mv-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/cdu-faellt-in-mecklenburg-vorpommern-laut-hochrechnung-unter-5-prozent",
-      "published": "Sun, 20 Sep 2026 20:21:15 -0000",
-      "published_display": "20.09.2026 · 20:21 Uhr"
     },
     {
       "title": "Wahl in Mecklenburg-Vorpommern: Nordost-AfD vor SPD - CDU wohl erstmals raus aus Landtag",
@@ -89,38 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/20/gruene-verlieren-berliner-hochburg-friedrichshain-kreuzberg",
       "published": "Sun, 20 Sep 2026 20:14:41 -0000",
       "published_display": "20.09.2026 · 20:14 Uhr"
-    },
-    {
-      "title": "Nationalmannschaft: «Tür nicht zugemacht»: Baumann über Gespräch mit Klopp",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/tuer-nicht-zugemacht-baumann-ueber-gespraech-mit-klopp-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/tuer-nicht-zugemacht-baumann-ueber-gespraech-mit-klopp",
-      "published": "Sun, 20 Sep 2026 20:12:41 -0000",
-      "published_display": "20.09.2026 · 20:12 Uhr"
-    },
-    {
-      "title": "Wahl zum Abgeordnetenhaus: Linke in Berlin liegt deutlich vor der CDU",
-      "summary": "Die Linke gewinnt die Berliner Abgeordnetenhauswahl, Hochrechnungen sehen einen deutlichen Abstand zur CDU. Die SPD fällt auf ein historisches Tief.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/die-linke-wahl-berlin-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/linke-in-berlin-laut-prognose-vor-cdu",
-      "published": "Sun, 20 Sep 2026 20:12:18 -0000",
-      "published_display": "20.09.2026 · 20:12 Uhr"
-    },
-    {
-      "title": "Wahl in Mecklenburg-Vorpommern: Manuela Schwesig zeigt sich »irritiert« über Friedrich Merz",
-      "summary": "Ministerpräsidentin Manuela Schwesig äußert deutliche Kritik an Bundeskanzler Friedrich Merz. Die CDU scheitert laut Hochrechnung an Fünf-Prozent-Hürde. Das Liveblog",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/mecklenburg-vorpommern-landtagswahl-schwesig-4-liveblog/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/mecklenburg-vorpommern-landtagswahl-liveblog",
-      "published": "Sun, 20 Sep 2026 20:12:15 -0000",
-      "published_display": "20.09.2026 · 20:12 Uhr"
-    },
-    {
-      "title": "Abgeordnetenhauswahl: Linke will Berlin regieren – Streit um Enteignungen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/berlin-waehlt-neues-abgeordnetenhaus-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/berlin-waehlt-neues-abgeordnetenhaus",
-      "published": "Sun, 20 Sep 2026 20:11:59 -0000",
-      "published_display": "20.09.2026 · 20:11 Uhr"
     }
   ]
 }
