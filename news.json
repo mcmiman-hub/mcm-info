@@ -1,10 +1,98 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-20T01:55:02.394737+00:00",
+  "updated": "2026-09-20T02:17:13.117656+00:00",
   "items": [
     {
+      "title": "Gedenktag: Rhein: «Erinnerung an Flucht und Vertreibung wachhalten»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/rhein-erinnerung-an-flucht-und-vertreibung-wachhalten-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/rhein-erinnerung-an-flucht-und-vertreibung-wachhalten",
+      "published": "Sun, 20 Sep 2026 02:15:04 -0000",
+      "published_display": "20.09.2026 · 02:15 Uhr"
+    },
+    {
+      "title": "Kontroverse um Sheeran-Tour: Erstes Konzert nach Macklemore-Aus: Sheeran äußert sich",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/erstes-konzert-nach-macklemore-aus-sheeran-aeussert-sich-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/erstes-konzert-nach-macklemore-aus-sheeran-aeussert-sich",
+      "published": "Sun, 20 Sep 2026 02:11:46 -0000",
+      "published_display": "20.09.2026 · 02:11 Uhr"
+    },
+    {
+      "title": "2:3 nach 2:0 in Bremen: Augsburger Ärger: «Fühlt sich echt beschissen an»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/augsburger-aerger-fuehlt-sich-echt-beschissen-an-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/augsburger-aerger-fuehlt-sich-echt-beschissen-an",
+      "published": "Sun, 20 Sep 2026 02:05:04 -0000",
+      "published_display": "20.09.2026 · 02:05 Uhr"
+    },
+    {
+      "title": "Bar-Therapie: Autorin Stefanie Stahl: «Nichts geht über echte Nähe»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/autorin-stefanie-stahl-nichts-geht-ueber-echte-naehe-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/autorin-stefanie-stahl-nichts-geht-ueber-echte-naehe",
+      "published": "Sun, 20 Sep 2026 02:00:29 -0000",
+      "published_display": "20.09.2026 · 02:00 Uhr"
+    },
+    {
+      "title": "Online-Plattform: Krankheiten vorbeugen - Präventionsangebote leichter finden",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/krankheiten-vorbeugen-praeventionsangebote-leichter-finden-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/krankheiten-vorbeugen-praeventionsangebote-leichter-finden",
+      "published": "Sun, 20 Sep 2026 02:00:27 -0000",
+      "published_display": "20.09.2026 · 02:00 Uhr"
+    },
+    {
+      "title": "Runder Geburtstag: Innenminister Herrmann denkt auch mit 70 nicht ans Aufhören",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/innenminister-herrmann-denkt-auch-mit-70-nicht-ans-aufhoeren-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/innenminister-herrmann-denkt-auch-mit-70-nicht-ans-aufhoeren",
+      "published": "Sun, 20 Sep 2026 02:00:22 -0000",
+      "published_display": "20.09.2026 · 02:00 Uhr"
+    },
+    {
+      "title": "Seltene Wurmart: Klimakrise bedroht Existenz von seltenem Riesenregenwurm",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/klimakrise-bedroht-existenz-von-seltenem-riesenregenwurm-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/klimakrise-bedroht-existenz-von-seltenem-riesenregenwurm",
+      "published": "Sun, 20 Sep 2026 02:00:21 -0000",
+      "published_display": "20.09.2026 · 02:00 Uhr"
+    },
+    {
+      "title": "Kampf um den Meistertitel: Wer räumt am besten? Schneepflugmeisterschaft in Eschwege",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/wer-raeumt-am-besten-schneepflugmeisterschaft-in-eschwege-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/wer-raeumt-am-besten-schneepflugmeisterschaft-in-eschwege",
+      "published": "Sun, 20 Sep 2026 02:00:20 -0000",
+      "published_display": "20.09.2026 · 02:00 Uhr"
+    },
+    {
+      "title": "24/7 geöffnet: Von Saatgut bis Beton: Was Automaten alles bieten",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/von-saatgut-bis-beton-was-automaten-alles-bieten-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/von-saatgut-bis-beton-was-automaten-alles-bieten",
+      "published": "Sun, 20 Sep 2026 02:00:08 -0000",
+      "published_display": "20.09.2026 · 02:00 Uhr"
+    },
+    {
+      "title": "Europa versus China: Mahle-Chef zum Wettbewerb bei Lkw: «Kampf der Giganten»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/mahle-chef-zum-wettbewerb-bei-lkw-kampf-der-giganten-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/mahle-chef-zum-wettbewerb-bei-lkw-kampf-der-giganten",
+      "published": "Sun, 20 Sep 2026 02:00:05 -0000",
+      "published_display": "20.09.2026 · 02:00 Uhr"
+    },
+    {
+      "title": "Berlin-Wahl 2026: Berlin wählt neues Abgeordnetenhaus",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/berlin-waehlt-neues-abgeordnetenhaus-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/berlin-waehlt-neues-abgeordnetenhaus",
+      "published": "Sun, 20 Sep 2026 02:00:04 -0000",
+      "published_display": "20.09.2026 · 02:00 Uhr"
+    },
+    {
       "title": "Karibik: US-Militär tötet erneut vier Menschen auf angeblichem Schmugglerboot",
-      "summary": "Die USA setzen Angriffe auf Schiffe entlang bekannter Drogenhandelsrouten in der Karibik fort. Das Militär meldet vier tote »Narkoterroristen«, ohne Beweise zu liefern.",
+      "summary": "Die USA setzen Angriffe auf Schiffe entlang bekannter Drogenhandelsrouten in der Karibik fort. Das Militär meldet vier tote »Narco-Terroristen«, ohne Beweise zu liefern.",
       "image": "https://img.zeit.de/politik/ausland/2026-09/us-militaer-karibik-angriff-drogenhandel-donald-trump-foto-1/original__640x360",
       "link": "https://www.zeit.de/politik/ausland/2026-09/us-militaer-karibik-angriff-boot-drogenhandel-donald-trump",
       "published": "Sun, 20 Sep 2026 01:53:37 -0000",
@@ -33,94 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/20/sorge-um-pfaelzer-storch-rocky",
       "published": "Sun, 20 Sep 2026 01:30:06 -0000",
       "published_display": "20.09.2026 · 01:30 Uhr"
-    },
-    {
-      "title": "Wiesn 2026: Zweiter Wiesntag nach «Bilderbuchstart»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/zweiter-wiesntag-nach-bilderbuchstart-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/zweiter-wiesntag-nach-bilderbuchstart",
-      "published": "Sun, 20 Sep 2026 01:30:05 -0000",
-      "published_display": "20.09.2026 · 01:30 Uhr"
-    },
-    {
-      "title": "Neue Bürgermeisterwahl: Vier Bewerber bei Wiederholungswahl in Strausberg",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/vier-bewerber-bei-wiederholungswahl-in-strausberg-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/vier-bewerber-bei-wiederholungswahl-in-strausberg",
-      "published": "Sun, 20 Sep 2026 01:30:04 -0000",
-      "published_display": "20.09.2026 · 01:30 Uhr"
-    },
-    {
-      "title": "Frankreich: Staatsschulden in Frankreich nähern sich höchstem Stand seit 1978",
-      "summary": "Die französische Regierung hat mehr Schulden als fast jedes andere Land der Eurozone. Dieses Jahr könnte der Schuldenberg auf 120 Prozent der Wirtschaftsleistung wachsen.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/frankreich-staatsverschuldung-schuldenquote-defizit-eurozone-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/frankreich-staatsverschuldung-schuldenquote-defizit-eurozone",
-      "published": "Sun, 20 Sep 2026 01:15:53 -0000",
-      "published_display": "20.09.2026 · 01:15 Uhr"
-    },
-    {
-      "title": "Mensch besser als KI: KI hat gravierende Schwächen beim Erkennen von Formen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/ki-hat-gravierende-schwaechen-beim-erkennen-von-formen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/ki-hat-gravierende-schwaechen-beim-erkennen-von-formen",
-      "published": "Sun, 20 Sep 2026 01:00:07 -0000",
-      "published_display": "20.09.2026 · 01:00 Uhr"
-    },
-    {
-      "title": "Fotografie: Bilder des Tages",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/bilder-des-tages-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/bilder-des-tages",
-      "published": "Sun, 20 Sep 2026 00:56:44 -0000",
-      "published_display": "20.09.2026 · 00:56 Uhr"
-    },
-    {
-      "title": "Unfall im Landkreis Günzburg: Motorradfahrer von Traktor lebensgefährlich verletzt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/motorradfahrer-von-traktor-lebensgefaehrlich-verletzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/motorradfahrer-von-traktor-lebensgefaehrlich-verletzt",
-      "published": "Sun, 20 Sep 2026 00:12:08 -0000",
-      "published_display": "20.09.2026 · 00:12 Uhr"
-    },
-    {
-      "title": "Von Auto angefahren: Unfall in Hamburg: Fußgänger lebensgefährlich verletzt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/unfall-in-hamburg-fussgaenger-lebensgefaehrlich-verletzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/unfall-in-hamburg-fussgaenger-lebensgefaehrlich-verletzt",
-      "published": "Sat, 19 Sep 2026 23:59:27 -0000",
-      "published_display": "19.09.2026 · 23:59 Uhr"
-    },
-    {
-      "title": "Kellerbrand: Ein Schwerverletzter bei Brand in Wohnhaus",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/ein-schwerverletzter-bei-brand-in-wohnhaus-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/ein-schwerverletzter-bei-brand-in-wohnhaus",
-      "published": "Sat, 19 Sep 2026 23:51:40 -0000",
-      "published_display": "19.09.2026 · 23:51 Uhr"
-    },
-    {
-      "title": "Niederlande: Rechtsextreme Proteste in Den Haag schlagen in Gewalt um",
-      "summary": "In den Niederlanden ist ein Protest von Rechtsextremen gegen die Einwanderungspolitik eskaliert. Demonstranten warfen Feuerwerkskörper. Die Polizei nahm 24 Menschen fest.",
-      "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-09/rechtsextreme-demo-den-haag-niederlande-antisemitismus-polizei-rob-jetten-foto-1/original__640x360",
-      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-09/rechtsextreme-demo-den-haag-niederlande-antisemitismus-polizei-rob-jetten",
-      "published": "Sat, 19 Sep 2026 23:41:41 -0000",
-      "published_display": "19.09.2026 · 23:41 Uhr"
-    },
-    {
-      "title": "Irankrieg: Huthi-Miliz bekennt sich zu Angriffen auf Riad",
-      "summary": "Die mit dem Iran verbündeten Huthi-Rebellen haben Saudi-Arabiens Hauptstadt mit Raketen und Drohnen attackiert. Iran tötet einen angeblichen Spion Israels. Das Liveblog",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/iran-saudi-arabien-riad-huthi-miliz-angriff-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-05/iran-krieg-donald-trump-hormus-live",
-      "published": "Sat, 19 Sep 2026 23:15:46 -0000",
-      "published_display": "19.09.2026 · 23:15 Uhr"
-    },
-    {
-      "title": "Peter Hermann: Fußball-Co-Trainer Peter Hermann ist tot",
-      "summary": "Als Co-Trainer begleitete er verschiedene Vereine und prägte über Jahrzehnte hinweg den deutschen Fußball. Nun ist Peter Hermann im Alter von 74 Jahren gestorben.",
-      "image": "https://img.zeit.de/sport/2026-09/peter-hermann-co-trainer-fussball-bayer-leverkusen-fc-bayern-foto-1/original__640x360",
-      "link": "https://www.zeit.de/sport/2026-09/peter-hermann-co-trainer-fussball-bayer-leverkusen-fc-bayern",
-      "published": "Sat, 19 Sep 2026 22:35:39 -0000",
-      "published_display": "19.09.2026 · 22:35 Uhr"
     }
   ]
 }
