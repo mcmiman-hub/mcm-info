@@ -1,14 +1,22 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-20T22:42:03.510754+00:00",
+  "updated": "2026-09-20T22:54:14.738252+00:00",
   "items": [
     {
       "title": "Wahlergebnisse in Berlin 2026: Alle Ergebnisse der Wahl zum Abgeordnetenhaus in Berlin",
       "summary": "Welche Koalitionen sind im Abgeordnetenhaus möglich? Welche Kandidaten und Parteien gewinnen welchen Wahlkreis? Alle Daten und Karten zur Abgeordnetenhauswahl in Berlin",
       "image": "https://img.zeit.de/politik/deutschland/2026-09/landtagswahl-berlin-ergebnisse-wahlkreise-2026-bild/original__640x360",
       "link": "https://www.zeit.de/politik/deutschland/2026-09/berlin-wahl-abgeordnetenhaus-2026-ergebnisse-live",
-      "published": "Sun, 20 Sep 2026 22:38:22 -0000",
-      "published_display": "20.09.2026 · 22:38 Uhr"
+      "published": "Sun, 20 Sep 2026 22:52:22 -0000",
+      "published_display": "20.09.2026 · 22:52 Uhr"
+    },
+    {
+      "title": "Wahl in Mecklenburg-Vorpommern: AfD gewinnt Wahl laut vorläufigem Ergebnis, CDU unter fünf Prozent",
+      "summary": "Die AfD kommt auf 38,2 Prozent der Stimmen, die SPD wird zweitstärkste Kraft. Ministerpräsidentin Schwesig kritisiert Bundeskanzler Merz. Das Liveblog zum Nachlesen",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/mecklenburg-vorpommern-landtagswahl-schwesig-4-liveblog/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/mecklenburg-vorpommern-landtagswahl-liveblog",
+      "published": "Sun, 20 Sep 2026 22:50:37 -0000",
+      "published_display": "20.09.2026 · 22:50 Uhr"
     },
     {
       "title": "Landtagswahl in MV: Vorläufiges Ergebnis: AfD siegt in MV - Debakel für die CDU",
@@ -17,14 +25,6 @@
       "link": "https://www.zeit.de/news/2026-09/20/richtungswahl-gespannter-blick-auf-mecklenburg-vorpommern",
       "published": "Sun, 20 Sep 2026 22:33:37 -0000",
       "published_display": "20.09.2026 · 22:33 Uhr"
-    },
-    {
-      "title": "Wahl in Mecklenburg-Vorpommern: AfD gewinnt Wahl laut vorläufigem Ergebnis, CDU unter fünf Prozent",
-      "summary": "Die AfD kommt auf 38,2 Prozent der Stimmen. Die SPD wird zweitstärkste Kraft. Ministerpräsidentin Manuela Schwesig kritisiert Bundeskanzler Friedrich Merz. Das Liveblog",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/mecklenburg-vorpommern-landtagswahl-schwesig-4-liveblog/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/mecklenburg-vorpommern-landtagswahl-liveblog",
-      "published": "Sun, 20 Sep 2026 22:31:47 -0000",
-      "published_display": "20.09.2026 · 22:31 Uhr"
     },
     {
       "title": "Wahlverhalten in Mecklenburg-Vorpommern: Darum verloren alle außer der AfD",
