@@ -1,7 +1,63 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-20T08:30:03.075300+00:00",
+  "updated": "2026-09-20T08:43:12.509694+00:00",
   "items": [
+    {
+      "title": "Wetter: Regen und Wolken bestimmen das Wetter in Hessen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/regen-und-wolken-bestimmen-das-wetter-in-hessen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/regen-und-wolken-bestimmen-das-wetter-in-hessen",
+      "published": "Sun, 20 Sep 2026 08:39:21 -0000",
+      "published_display": "20.09.2026 · 08:39 Uhr"
+    },
+    {
+      "title": "Beim Abschleppen: Mitarbeiter von Abschleppdienst im Einsatz beschossen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/mitarbeiter-von-abschleppdienst-im-einsatz-beschossen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/mitarbeiter-von-abschleppdienst-im-einsatz-beschossen",
+      "published": "Sun, 20 Sep 2026 08:38:39 -0000",
+      "published_display": "20.09.2026 · 08:38 Uhr"
+    },
+    {
+      "title": "Fotografie: Bilder des Tages",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/19/bilder-des-tages-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/19/bilder-des-tages",
+      "published": "Sun, 20 Sep 2026 08:38:15 -0000",
+      "published_display": "20.09.2026 · 08:38 Uhr"
+    },
+    {
+      "title": "Nümbrecht: Frau überrascht Einbrecherin - beide bei Rangelei verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/frau-ueberrascht-einbrecherin-beide-bei-rangelei-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/frau-ueberrascht-einbrecherin-beide-bei-rangelei-verletzt",
+      "published": "Sun, 20 Sep 2026 08:33:12 -0000",
+      "published_display": "20.09.2026 · 08:33 Uhr"
+    },
+    {
+      "title": "Streit beim Überholen: Motorradfahrer tritt gegen Auto und verliert Gleichgewicht",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/motorradfahrer-tritt-gegen-auto-und-verliert-gleichgewicht-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/motorradfahrer-tritt-gegen-auto-und-verliert-gleichgewicht",
+      "published": "Sun, 20 Sep 2026 08:33:09 -0000",
+      "published_display": "20.09.2026 · 08:33 Uhr"
+    },
+    {
+      "title": "Abgeordnetenhauswahl: Insgesamt drei Kreuze - worüber Berlin abstimmt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/insgesamt-drei-kreuze-worueber-berlin-abstimmt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/insgesamt-drei-kreuze-worueber-berlin-abstimmt",
+      "published": "Sun, 20 Sep 2026 08:30:06 -0000",
+      "published_display": "20.09.2026 · 08:30 Uhr"
+    },
+    {
+      "title": "Wetter: Sturmböen und Gewitter - wo es besonders ungemütlich wird",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/sturmboeen-und-gewitter-wo-es-besonders-ungemuetlich-wird-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/sturmboeen-und-gewitter-wo-es-besonders-ungemuetlich-wird",
+      "published": "Sun, 20 Sep 2026 08:28:48 -0000",
+      "published_display": "20.09.2026 · 08:28 Uhr"
+    },
     {
       "title": "Jemen: USA warnen vor Eskalation zwischen Huthis und Saudi-Arabien",
       "summary": "Der Konflikt zwischen der Huthi-Miliz im Jemen und Saudi-Arabien hat sich weiter verschärft. Das US-Außenministerium warnt vor Reisen in die Region.",
@@ -43,6 +99,14 @@
       "published_display": "20.09.2026 · 08:24 Uhr"
     },
     {
+      "title": "Ungewöhnlicher Einbruch: Keine Augen für die Kasse: Einbrecher stiehlt Torte aus Café",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/keine-augen-fuer-die-kasse-einbrecher-stiehlt-torte-aus-caf-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/keine-augen-fuer-die-kasse-einbrecher-stiehlt-torte-aus-caf",
+      "published": "Sun, 20 Sep 2026 08:23:39 -0000",
+      "published_display": "20.09.2026 · 08:23 Uhr"
+    },
+    {
       "title": "Viertelfinale gegen Polen: Volleyballer bei EM mental stark: «Komplett angezündet»",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-09/20/volleyballer-bei-em-mental-stark-komplett-angezuendet-image-group/original__640x360",
@@ -57,70 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/20/radfahrer-weicht-feldhasen-aus-und-verletzt-sich-schwer",
       "published": "Sun, 20 Sep 2026 08:21:08 -0000",
       "published_display": "20.09.2026 · 08:21 Uhr"
-    },
-    {
-      "title": "Schwerer Unfall: Auto überschlägt sich auf A1 – Fahrer schwer verletzt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/auto-ueberschlaegt-sich-auf-a1-fahrer-schwer-verletzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/auto-ueberschlaegt-sich-auf-a1-fahrer-schwer-verletzt",
-      "published": "Sun, 20 Sep 2026 08:19:44 -0000",
-      "published_display": "20.09.2026 · 08:19 Uhr"
-    },
-    {
-      "title": "Solingen: Schwelbrand in Wohnung - Mann gestorben",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/schwelbrand-in-wohnung-mann-gestorben-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/schwelbrand-in-wohnung-mann-gestorben",
-      "published": "Sun, 20 Sep 2026 08:16:13 -0000",
-      "published_display": "20.09.2026 · 08:16 Uhr"
-    },
-    {
-      "title": "Nordkorea: Nordkorea feuert erneut Rakete in Richtung Meer ab",
-      "summary": "Nach Angaben aus Südkorea und Japan hat Nordkorea erneut ein Geschoss von seiner Ostküste abgefeuert. Es soll sich dabei um eine mutmaßlich ballistische Rakete handeln.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/nordkorea-suedkorea-geschoss-meer-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/nordkorea-suedkorea-geschoss-meer",
-      "published": "Sun, 20 Sep 2026 08:12:51 -0000",
-      "published_display": "20.09.2026 · 08:12 Uhr"
-    },
-    {
-      "title": "Vergesellschaftung großer Wohnungskonzerne: Warum Neubau allein nicht reicht",
-      "summary": "Die Berliner Linke will Wohnungskonzerne vergesellschaften. Es wäre ein drastischer und riskanter Eingriff. Doch selbst manche Ökonomen sehen Vorteile.",
-      "image": "https://img.zeit.de/wirtschaft/2026-09/vergesellschaftung-wohnungskonzerne-berlin-die-linke-deutsche-wohnen-vonovia-bild-2/original__640x360",
-      "link": "https://www.zeit.de/wirtschaft/2026-09/vergesellschaftung-wohnungskonzerne-berlin-die-linke-deutsche-wohnen-vonovia",
-      "published": "Sun, 20 Sep 2026 08:04:00 -0000",
-      "published_display": "20.09.2026 · 08:04 Uhr"
-    },
-    {
-      "title": "Unfallursache weiter unklar: Tödlicher Unfall - Mann schwebt weiter in Lebensgefahr",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/toedlicher-unfall-mann-schwebt-weiter-in-lebensgefahr-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/toedlicher-unfall-mann-schwebt-weiter-in-lebensgefahr",
-      "published": "Sun, 20 Sep 2026 08:01:39 -0000",
-      "published_display": "20.09.2026 · 08:01 Uhr"
-    },
-    {
-      "title": "Oktoberfest-Einsatz: Menschen hängen kopfüber in Wiesn-Drehkarussell fest",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/menschen-haengen-kopfueber-in-wiesn-fahrgeschaeft-fest-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/menschen-haengen-kopfueber-in-wiesn-fahrgeschaeft-fest",
-      "published": "Sun, 20 Sep 2026 08:01:01 -0000",
-      "published_display": "20.09.2026 · 08:01 Uhr"
-    },
-    {
-      "title": "Brände: Nächtlicher Garagenbrand sorgt für etwa 200.000 Euro Schaden",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/naechtlicher-garagenbrand-sorgt-fuer-etwa-200-000-euro-schaden-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/naechtlicher-garagenbrand-sorgt-fuer-etwa-200-000-euro-schaden",
-      "published": "Sun, 20 Sep 2026 08:00:19 -0000",
-      "published_display": "20.09.2026 · 08:00 Uhr"
-    },
-    {
-      "title": "Bildung: Hessen will Referendariat verkürzen – GEW warnt vor Folgen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/hessen-will-referendariat-verkuerzen-gew-warnt-vor-folgen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/hessen-will-referendariat-verkuerzen-gew-warnt-vor-folgen",
-      "published": "Sun, 20 Sep 2026 08:00:18 -0000",
-      "published_display": "20.09.2026 · 08:00 Uhr"
     }
   ]
 }
