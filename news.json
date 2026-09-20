@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-20T04:54:48.863161+00:00",
+  "updated": "2026-09-20T05:16:32.439555+00:00",
   "items": [
+    {
+      "title": "Sondervermögen: Kommunen verlangen deutlich mehr Geld für Infrastruktur",
+      "summary": "Städte und Gemeinden halten die bisherigen Mittel aus dem Sondervermögen für unzureichend. Sie fordern zusätzliche Milliarden für Schulen, Straßen und Schutz vor Krisen.",
+      "image": "",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/sondervermoegen-finanzen-kommunen-infrastruktur-bundesregierung-klimawandel",
+      "published": "Sun, 20 Sep 2026 05:14:15 -0000",
+      "published_display": "20.09.2026 · 05:14 Uhr"
+    },
+    {
+      "title": "Fernsehen: Richterin Barbara Salesch: Unfall vor TV-Dreh",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/richterin-barbara-salesch-unfall-vor-tv-dreh-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/richterin-barbara-salesch-unfall-vor-tv-dreh",
+      "published": "Sun, 20 Sep 2026 05:00:05 -0000",
+      "published_display": "20.09.2026 · 05:00 Uhr"
+    },
+    {
+      "title": "Sachsen-Anhalt: Doppelt so viele Ordnungsrufe - AfD führt die Liste an",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/doppelt-so-viele-ordnungsrufe-afd-fuehrt-die-liste-an-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/doppelt-so-viele-ordnungsrufe-afd-fuehrt-die-liste-an",
+      "published": "Sun, 20 Sep 2026 05:00:04 -0000",
+      "published_display": "20.09.2026 · 05:00 Uhr"
+    },
     {
       "title": "Unser Personal Trainer: Das Stretching am Zaun",
       "summary": "Der Zaun bei Ihnen ums Eck kann Ihr Trainingspartner werden. Mit dieser Übung hilft er Ihnen beim effektiven Dehnen.",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/20/wenn-das-herz-stillsteht-mit-blossen-haenden-leben-retten",
       "published": "Sun, 20 Sep 2026 04:00:05 -0000",
       "published_display": "20.09.2026 · 04:00 Uhr"
-    },
-    {
-      "title": "Von Auto angefahren: Unfall in Hamburg: Fußgänger am Kopf verletzt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/unfall-in-hamburg-fussgaenger-lebensgefaehrlich-verletzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/unfall-in-hamburg-fussgaenger-lebensgefaehrlich-verletzt",
-      "published": "Sun, 20 Sep 2026 03:57:19 -0000",
-      "published_display": "20.09.2026 · 03:57 Uhr"
-    },
-    {
-      "title": "Foto-Safari-Tipps: Mehr als buntes Laub: Wo NRW im Herbst besonders fotogen ist",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/mehr-als-buntes-laub-wo-nrw-im-herbst-besonders-fotogen-ist-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/mehr-als-buntes-laub-wo-nrw-im-herbst-besonders-fotogen-ist",
-      "published": "Sun, 20 Sep 2026 03:45:05 -0000",
-      "published_display": "20.09.2026 · 03:45 Uhr"
-    },
-    {
-      "title": "Energiewende: 18.000 Batteriespeicher in Hamburg - Kein Vorteil fürs Netz",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/18-000-batteriespeicher-in-hamburg-kein-vorteil-fuers-netz-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/18-000-batteriespeicher-in-hamburg-kein-vorteil-fuers-netz",
-      "published": "Sun, 20 Sep 2026 03:30:08 -0000",
-      "published_display": "20.09.2026 · 03:30 Uhr"
     }
   ]
 }
