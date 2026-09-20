@@ -1,7 +1,79 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-20T07:54:19.559304+00:00",
+  "updated": "2026-09-20T08:18:19.165662+00:00",
   "items": [
+    {
+      "title": "Solingen: Schwelbrand in Wohnung - Mann gestorben",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/schwelbrand-in-wohnung-mann-gestorben-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/schwelbrand-in-wohnung-mann-gestorben",
+      "published": "Sun, 20 Sep 2026 08:16:13 -0000",
+      "published_display": "20.09.2026 · 08:16 Uhr"
+    },
+    {
+      "title": "Nordkorea: Nordkorea feuert erneut Rakete in Richtung Meer ab",
+      "summary": "Nach Angaben aus Südkorea und Japan hat Nordkorea erneut ein Geschoss von seiner Ostküste abgefeuert. Es soll sich dabei um eine mutmaßlich ballistische Rakete handeln.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/nordkorea-suedkorea-geschoss-meer-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/nordkorea-suedkorea-geschoss-meer",
+      "published": "Sun, 20 Sep 2026 08:12:51 -0000",
+      "published_display": "20.09.2026 · 08:12 Uhr"
+    },
+    {
+      "title": "Vergesellschaftung großer Wohnungskonzerne: Warum Neubau allein nicht reicht",
+      "summary": "Die Berliner Linke will Wohnungskonzerne vergesellschaften. Es wäre ein drastischer und riskanter Eingriff. Doch selbst manche Ökonomen sehen Vorteile.",
+      "image": "https://img.zeit.de/wirtschaft/2026-09/vergesellschaftung-wohnungskonzerne-berlin-die-linke-deutsche-wohnen-vonovia-bild-2/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/2026-09/vergesellschaftung-wohnungskonzerne-berlin-die-linke-deutsche-wohnen-vonovia",
+      "published": "Sun, 20 Sep 2026 08:04:00 -0000",
+      "published_display": "20.09.2026 · 08:04 Uhr"
+    },
+    {
+      "title": "Unfallursache weiter unklar: Tödlicher Unfall - Mann schwebt weiter in Lebensgefahr",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/toedlicher-unfall-mann-schwebt-weiter-in-lebensgefahr-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/toedlicher-unfall-mann-schwebt-weiter-in-lebensgefahr",
+      "published": "Sun, 20 Sep 2026 08:01:39 -0000",
+      "published_display": "20.09.2026 · 08:01 Uhr"
+    },
+    {
+      "title": "Oktoberfest-Einsatz: Menschen hängen kopfüber in Wiesn-Drehkarussell fest",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/menschen-haengen-kopfueber-in-wiesn-fahrgeschaeft-fest-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/menschen-haengen-kopfueber-in-wiesn-fahrgeschaeft-fest",
+      "published": "Sun, 20 Sep 2026 08:01:01 -0000",
+      "published_display": "20.09.2026 · 08:01 Uhr"
+    },
+    {
+      "title": "Brände: Nächtlicher Garagenbrand sorgt für etwa 200.000 Euro Schaden",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/naechtlicher-garagenbrand-sorgt-fuer-etwa-200-000-euro-schaden-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/naechtlicher-garagenbrand-sorgt-fuer-etwa-200-000-euro-schaden",
+      "published": "Sun, 20 Sep 2026 08:00:19 -0000",
+      "published_display": "20.09.2026 · 08:00 Uhr"
+    },
+    {
+      "title": "Bildung: Hessen will Referendariat verkürzen – GEW warnt vor Folgen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/hessen-will-referendariat-verkuerzen-gew-warnt-vor-folgen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/hessen-will-referendariat-verkuerzen-gew-warnt-vor-folgen",
+      "published": "Sun, 20 Sep 2026 08:00:18 -0000",
+      "published_display": "20.09.2026 · 08:00 Uhr"
+    },
+    {
+      "title": "Fußball: «Ein paar freie Tage verdient»: Magdeburg vor Mammut-Pause",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/ein-paar-freie-tage-verdient-magdeburg-vor-mammut-pause-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/ein-paar-freie-tage-verdient-magdeburg-vor-mammut-pause",
+      "published": "Sun, 20 Sep 2026 08:00:06 -0000",
+      "published_display": "20.09.2026 · 08:00 Uhr"
+    },
+    {
+      "title": "Zug: Unfall bei Fahrt mit Museumsbahn - Mädchen und Frau verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/unfall-bei-fahrt-mit-museumsbahn-maedchen-und-frau-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/unfall-bei-fahrt-mit-museumsbahn-maedchen-und-frau-verletzt",
+      "published": "Sun, 20 Sep 2026 07:52:44 -0000",
+      "published_display": "20.09.2026 · 07:52 Uhr"
+    },
     {
       "title": "Iran-Krieg: Teheran fordert US-Konzessionen vor neuen Verhandlungen",
       "summary": "",
@@ -49,78 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/20/rund-1-100-polizisten-in-berlin-am-wahltag-unterwegs",
       "published": "Sun, 20 Sep 2026 07:32:26 -0000",
       "published_display": "20.09.2026 · 07:32 Uhr"
-    },
-    {
-      "title": "Bildung: Soziale Herkunft prägt Bildungsweg bis zur Hochschule",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/soziale-herkunft-praegt-bildungsweg-bis-zur-hochschule-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/soziale-herkunft-praegt-bildungsweg-bis-zur-hochschule",
-      "published": "Sun, 20 Sep 2026 07:30:05 -0000",
-      "published_display": "20.09.2026 · 07:30 Uhr"
-    },
-    {
-      "title": "Teurer Sprit: Ökonomin Grimm hält Tankrabatt für schweren Fehler",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/oekonomin-grimm-haelt-tankrabatt-fuer-schweren-fehler-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/oekonomin-grimm-haelt-tankrabatt-fuer-schweren-fehler",
-      "published": "Sun, 20 Sep 2026 07:29:21 -0000",
-      "published_display": "20.09.2026 · 07:29 Uhr"
-    },
-    {
-      "title": "Fußball-Bundesliga: Harter Job für neuen Coach: Gladbach taumelt durch die Liga",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/harter-job-fuer-neuen-coach-gladbach-taumelt-durch-die-liga-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/harter-job-fuer-neuen-coach-gladbach-taumelt-durch-die-liga",
-      "published": "Sun, 20 Sep 2026 07:28:54 -0000",
-      "published_display": "20.09.2026 · 07:28 Uhr"
-    },
-    {
-      "title": "Kriminalpolizei ermittelt: War es Brandstiftung? Kellerbrand in Pirmasens",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/war-es-brandstiftung-kellerbrand-in-pirmasens-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/war-es-brandstiftung-kellerbrand-in-pirmasens",
-      "published": "Sun, 20 Sep 2026 07:25:23 -0000",
-      "published_display": "20.09.2026 · 07:25 Uhr"
-    },
-    {
-      "title": "Wanderin seit Jahren vermisst: So schätzt die Polizei private Suchen nach Scarlett ein",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/so-schaetzt-die-polizei-private-suchen-nach-scarlett-ein-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/so-schaetzt-die-polizei-private-suchen-nach-scarlett-ein",
-      "published": "Sun, 20 Sep 2026 07:25:04 -0000",
-      "published_display": "20.09.2026 · 07:25 Uhr"
-    },
-    {
-      "title": "Seltene Wurmart: Klimakrise bedroht Existenz von seltenem Riesenregenwurm",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/klimakrise-bedroht-existenz-von-seltenem-riesenregenwurm-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/klimakrise-bedroht-existenz-von-seltenem-riesenregenwurm",
-      "published": "Sun, 20 Sep 2026 07:24:55 -0000",
-      "published_display": "20.09.2026 · 07:24 Uhr"
-    },
-    {
-      "title": "Brände: Wohnungsbrand in Großenhain: 71-Jähriger tot geborgen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/wohnungsbrand-in-grossenhain-71-jaehriger-tot-geborgen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/wohnungsbrand-in-grossenhain-71-jaehriger-tot-geborgen",
-      "published": "Sun, 20 Sep 2026 07:23:44 -0000",
-      "published_display": "20.09.2026 · 07:23 Uhr"
-    },
-    {
-      "title": "Jemen: USA warnen vor Eskalation zwischen Huthis und Saudi-Arabien",
-      "summary": "Der Konflikt zwischen der Huthi-Miliz im Jemen und Saudi-Arabien hat sich weiter verschärft. Das US-Außenministerium warnte vor Reisen in die Region.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/jemen-saudi-arabien-huthi-rebellen-usa-reisewarnung-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/jemen-saudi-arabien-huthi-rebellen-usa-reisewarnung",
-      "published": "Sun, 20 Sep 2026 07:22:52 -0000",
-      "published_display": "20.09.2026 · 07:22 Uhr"
-    },
-    {
-      "title": "2. Fußball-Bundesliga: Holstein Kiel bleibt sieglos – Frust nach erneutem Remis",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/holstein-kiel-bleibt-sieglos-frust-nach-erneutem-remis-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/holstein-kiel-bleibt-sieglos-frust-nach-erneutem-remis",
-      "published": "Sun, 20 Sep 2026 07:20:23 -0000",
-      "published_display": "20.09.2026 · 07:20 Uhr"
     }
   ]
 }
