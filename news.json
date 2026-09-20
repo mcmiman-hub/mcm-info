@@ -1,7 +1,39 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-20T02:29:23.564311+00:00",
+  "updated": "2026-09-20T02:43:15.925185+00:00",
   "items": [
+    {
+      "title": "Landtagswahlen: Kann die Fünf-Prozent-Hürde Merz zu Fall bringen?",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/kann-die-fuenf-prozent-huerde-merz-zu-fall-bringen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/kann-die-fuenf-prozent-huerde-merz-zu-fall-bringen",
+      "published": "Sun, 20 Sep 2026 02:30:15 -0000",
+      "published_display": "20.09.2026 · 02:30 Uhr"
+    },
+    {
+      "title": "Wiesn-Gesundheit: Erstmals Grippe- und Corona-Impfung direkt auf der Wiesn",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/erstmals-grippe-und-corona-impfung-direkt-auf-der-wiesn-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/erstmals-grippe-und-corona-impfung-direkt-auf-der-wiesn",
+      "published": "Sun, 20 Sep 2026 02:30:13 -0000",
+      "published_display": "20.09.2026 · 02:30 Uhr"
+    },
+    {
+      "title": "Parlamentswahl in Kriegszeiten: Wahl in Russland endet - wie schneidet Putins Partei ab?",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/wahl-in-russland-endet-wie-schneidet-putins-partei-ab-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/wahl-in-russland-endet-wie-schneidet-putins-partei-ab",
+      "published": "Sun, 20 Sep 2026 02:30:04 -0000",
+      "published_display": "20.09.2026 · 02:30 Uhr"
+    },
+    {
+      "title": "Hohe Spritpreise: Wirtschaftsweise Grimm nennt Tankrabatt »zynisch«",
+      "summary": "Die Regierung führt erneut einen Tankrabatt ein. Die Ökonomin Veronika Grimmm kritisiert die Maßnahme als kurzsichtig. Sie gehe auf Kosten der jungen Generation.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/tankrabatt-bundesregierung-energiesteuer-sprit-benzin-veronika-grimm-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/tankrabatt-bundesregierung-energiesteuer-sprit-benzin-veronika-grimm",
+      "published": "Sun, 20 Sep 2026 02:29:19 -0000",
+      "published_display": "20.09.2026 · 02:29 Uhr"
+    },
     {
       "title": "Unfall im Vogtlandkreis: Teenagerin angefahren und gegen geparktes Auto geschleudert",
       "summary": "",
@@ -89,38 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/20/mahle-chef-zum-wettbewerb-bei-lkw-kampf-der-giganten",
       "published": "Sun, 20 Sep 2026 02:00:05 -0000",
       "published_display": "20.09.2026 · 02:00 Uhr"
-    },
-    {
-      "title": "Berlin-Wahl 2026: Berlin wählt neues Abgeordnetenhaus",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/berlin-waehlt-neues-abgeordnetenhaus-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/berlin-waehlt-neues-abgeordnetenhaus",
-      "published": "Sun, 20 Sep 2026 02:00:04 -0000",
-      "published_display": "20.09.2026 · 02:00 Uhr"
-    },
-    {
-      "title": "Karibik: US-Militär tötet erneut vier Menschen auf angeblichem Schmugglerboot",
-      "summary": "Die USA setzen Angriffe auf Schiffe entlang bekannter Drogenhandelsrouten in der Karibik fort. Das Militär meldet vier tote »Narco-Terroristen«, ohne Beweise zu liefern.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/us-militaer-karibik-angriff-drogenhandel-donald-trump-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/us-militaer-karibik-angriff-boot-drogenhandel-donald-trump",
-      "published": "Sun, 20 Sep 2026 01:53:37 -0000",
-      "published_display": "20.09.2026 · 01:53 Uhr"
-    },
-    {
-      "title": "Minus bei Umsatz und Gewinn: Analyse: Ergebnisse der deutschen Autobauer unter Druck",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/analyse-ergebnisse-der-deutschen-autobauer-unter-druck-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/analyse-ergebnisse-der-deutschen-autobauer-unter-druck",
-      "published": "Sun, 20 Sep 2026 01:45:04 -0000",
-      "published_display": "20.09.2026 · 01:45 Uhr"
-    },
-    {
-      "title": "Krankheiten: Zehn Fälle von Hasenpest in Hessen bislang",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/zehn-faelle-von-hasenpest-in-hessen-bislang-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/zehn-faelle-von-hasenpest-in-hessen-bislang",
-      "published": "Sun, 20 Sep 2026 01:30:12 -0000",
-      "published_display": "20.09.2026 · 01:30 Uhr"
     }
   ]
 }
