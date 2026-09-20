@@ -1,22 +1,86 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-20T19:26:09.812012+00:00",
+  "updated": "2026-09-20T19:40:10.475972+00:00",
   "items": [
     {
-      "title": "Wahl des Abgeordnetenhauses: Linke und Grüne wollen Wohnungen vergesellschaften, SPD weiter dagegen",
-      "summary": "Die von der Linken angekündigte Vergesellschaftung von Wohnungen dürfte in Berlin eine Regierungsbildung erschweren. Die Grünen unterstützen den Schritt, die SPD nicht.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/berlin-vor-wahl-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/berlin-abgeordnetenhaus-wahl-linke-gruene-spd-wohnungen-vergesellschaftung-enteignung",
-      "published": "Sun, 20 Sep 2026 19:25:09 -0000",
-      "published_display": "20.09.2026 · 19:25 Uhr"
+      "title": "Wahl zum Abgeordnetenhaus: Linke in Berlin liegt deutlich vor der CDU",
+      "summary": "Die Linke gewinnt die Berliner Abgeordnetenhauswahl, Hochrechnungen sehen einen deutlichen Abstand zur CDU. Die SPD fällt auf ein historisches Tief.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/die-linke-wahl-berlin-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/linke-in-berlin-laut-prognose-vor-cdu",
+      "published": "Sun, 20 Sep 2026 19:38:58 -0000",
+      "published_display": "20.09.2026 · 19:38 Uhr"
+    },
+    {
+      "title": "Wahlverhalten in Berlin: Wer die Linke zur Nummer eins in Berlin machte",
+      "summary": "Früher galt sie als Arbeiterpartei, heute wählen sie vor allem junge und gut gebildete Menschen. Nachwahlbefragungen zeigen, wie die Linke in neue Milieus vordringt.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/wahlverhalten-berlin-waehlerwanderung-parteien-alter-geschlecht-teaserbild/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/wahlverhalten-berlin-waehlerwanderung-parteien-alter-geschlecht",
+      "published": "Sun, 20 Sep 2026 19:38:31 -0000",
+      "published_display": "20.09.2026 · 19:38 Uhr"
     },
     {
       "title": "Wahlergebnisse in Berlin 2026: Alle Ergebnisse der Wahl zum Abgeordnetenhaus in Berlin",
       "summary": "Welche Koalitionen sind im Abgeordnetenhaus möglich? Welche Kandidaten und Parteien gewinnen welchen Wahlkreis? Alle Daten und Karten zur Abgeordnetenhauswahl in Berlin",
       "image": "https://img.zeit.de/politik/deutschland/2026-09/landtagswahl-berlin-ergebnisse-wahlkreise-2026-bild/original__640x360",
       "link": "https://www.zeit.de/politik/deutschland/2026-09/berlin-wahl-abgeordnetenhaus-2026-ergebnisse-live",
-      "published": "Sun, 20 Sep 2026 19:24:22 -0000",
-      "published_display": "20.09.2026 · 19:24 Uhr"
+      "published": "Sun, 20 Sep 2026 19:37:22 -0000",
+      "published_display": "20.09.2026 · 19:37 Uhr"
+    },
+    {
+      "title": "Wahl des Abgeordnetenhauses: Linke und Grüne wollen Wohnungen vergesellschaften, SPD weiter dagegen",
+      "summary": "Die von der Linken angekündigte Vergesellschaftung von Wohnungen dürfte in Berlin eine Regierungsbildung erschweren. Die Grünen unterstützen den Schritt, die SPD nicht.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/berlin-vor-wahl-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/berlin-abgeordnetenhaus-wahl-linke-gruene-spd-wohnungen-vergesellschaftung-enteignung",
+      "published": "Sun, 20 Sep 2026 19:36:48 -0000",
+      "published_display": "20.09.2026 · 19:36 Uhr"
+    },
+    {
+      "title": "Landtagswahl MV: Auschwitz Komitee: AfD-Erfolg gefährdet Deutschlands Ansehen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/auschwitz-komitee-afd-erfolg-gefaehrdet-deutschlands-ansehen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/auschwitz-komitee-afd-erfolg-gefaehrdet-deutschlands-ansehen",
+      "published": "Sun, 20 Sep 2026 19:36:36 -0000",
+      "published_display": "20.09.2026 · 19:36 Uhr"
+    },
+    {
+      "title": "Wahlergebnisse in Mecklenburg-Vorpommern 2026: Alle Ergebnisse der Landtagswahl in Mecklenburg-Vorpommern – live",
+      "summary": "Welche Koalitionen sind im Landtag möglich? Welche Kandidaten und Parteien gewinnen welchen Wahlkreis? Alle Daten und Karten zur Landtagswahl in Mecklenburg-Vorpommern",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/landtagswahl-mecklenburg-vorpommern-ergebnisse-wahlkreise-2026-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/landtagswahl-mecklenburg-vorpommern-ergebnisse-wahlkreise-2026",
+      "published": "Sun, 20 Sep 2026 19:35:00 -0000",
+      "published_display": "20.09.2026 · 19:35 Uhr"
+    },
+    {
+      "title": "Wahl in Mecklenburg-Vorpommern: Niedersachsens Parteichef Lies: SPD ist stabiler Partner",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/niedersachsens-parteichef-lies-spd-ist-stabiler-partner-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/niedersachsens-parteichef-lies-spd-ist-stabiler-partner",
+      "published": "Sun, 20 Sep 2026 19:33:18 -0000",
+      "published_display": "20.09.2026 · 19:33 Uhr"
+    },
+    {
+      "title": "Wiederholungswahl: Bürgermeisterwahl in Strausberg: Entscheidung in Stichwahl",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/buergermeisterwahl-in-strausberg-entscheidung-in-stichwahl-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/buergermeisterwahl-in-strausberg-entscheidung-in-stichwahl",
+      "published": "Sun, 20 Sep 2026 19:32:17 -0000",
+      "published_display": "20.09.2026 · 19:32 Uhr"
+    },
+    {
+      "title": "Basketball-Europapokal: Vechtas Basketballer qualifizieren sich für Champions League",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/vechtas-basketballer-qualifizieren-sich-fuer-champions-league-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/vechtas-basketballer-qualifizieren-sich-fuer-champions-league",
+      "published": "Sun, 20 Sep 2026 19:29:33 -0000",
+      "published_display": "20.09.2026 · 19:29 Uhr"
+    },
+    {
+      "title": "Personalisierung in der Politik: Sie gewinnen mit Mitteln, die Merz nicht hat",
+      "summary": "Die Landtagswahlen zeigen: Gegen die AfD besteht man nur noch mit starken politischen Erzählungen und noch stärkeren Personen. Keine gute Nachricht für Friedrich Merz.",
+      "image": "https://img.zeit.de/feuilleton/2026-09/personalisierung-parteien-schwesig-eralp-merz-bild-2/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/personalisierung-politik-manuela-schwesig-spd-elif-eralp-die-linke",
+      "published": "Sun, 20 Sep 2026 19:29:20 -0000",
+      "published_display": "20.09.2026 · 19:29 Uhr"
     },
     {
       "title": "Tierretter: Harmlose heimische Schlange löst Feuerwehreinsatz aus",
@@ -51,76 +115,12 @@
       "published_display": "20.09.2026 · 19:21 Uhr"
     },
     {
-      "title": "Wahlergebnisse in Mecklenburg-Vorpommern 2026: Alle Ergebnisse der Landtagswahl in Mecklenburg-Vorpommern – live",
-      "summary": "Welche Koalitionen sind im Landtag möglich? Welche Kandidaten und Parteien gewinnen welchen Wahlkreis? Alle Daten und Karten zur Landtagswahl in Mecklenburg-Vorpommern",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/landtagswahl-mecklenburg-vorpommern-ergebnisse-wahlkreise-2026-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/landtagswahl-mecklenburg-vorpommern-ergebnisse-wahlkreise-2026",
-      "published": "Sun, 20 Sep 2026 19:19:00 -0000",
-      "published_display": "20.09.2026 · 19:19 Uhr"
-    },
-    {
       "title": "Landtagswahl in Mecklenburg-Vorpommern: AfD liegt laut Hochrechnung in Mecklenburg-Vorpommern vor SPD",
       "summary": "In Mecklenburg-Vorpommern liegt die AfD in Hochrechnungen knapp vor der SPD. Linke, Grüne und CDU kämen demnach in den Landtag, das BSW wäre raus.",
       "image": "https://img.zeit.de/politik/deutschland/2026-09/wahlkampf-in-mecklenburg-vorpommern-afd-bild/original__640x360",
       "link": "https://www.zeit.de/politik/deutschland/2026-09/afd-liegt-laut-prognose-in-mecklenburg-vorpommern-vor-spd",
       "published": "Sun, 20 Sep 2026 19:16:22 -0000",
       "published_display": "20.09.2026 · 19:16 Uhr"
-    },
-    {
-      "title": "Landtagswahlen: Neues Debakel für die CDU - aber der Kanzler will kämpfen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/kann-die-fuenf-prozent-huerde-merz-zu-fall-bringen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/kann-die-fuenf-prozent-huerde-merz-zu-fall-bringen",
-      "published": "Sun, 20 Sep 2026 19:14:41 -0000",
-      "published_display": "20.09.2026 · 19:14 Uhr"
-    },
-    {
-      "title": "Landtagswahlen: AfD vorne und Linken-Triumph: Der Wahlabend abseits der CDU",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/afd-vorne-und-linken-triumph-der-wahlabend-abseits-der-cdu-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/afd-vorne-und-linken-triumph-der-wahlabend-abseits-der-cdu",
-      "published": "Sun, 20 Sep 2026 19:14:14 -0000",
-      "published_display": "20.09.2026 · 19:14 Uhr"
-    },
-    {
-      "title": "Wahl in Mecklenburg-Vorpommern: CDU liegt nur noch bei fünf Prozent",
-      "summary": "Die AfD festigt ihren Vorsprung auf die SPD. Für die CDU geht es abwärts: Laut aktueller Hochrechnung kommt sie nur noch auf 5,0 Prozent und muss bangen. Das Liveblog",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/mecklenburg-vorpommern-landtagswahl-cdu-peters-liveblog-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/mecklenburg-vorpommern-landtagswahl-liveblog",
-      "published": "Sun, 20 Sep 2026 19:13:46 -0000",
-      "published_display": "20.09.2026 · 19:13 Uhr"
-    },
-    {
-      "title": "Wahl in Berlin: Neue Hochrechnungen sehen nur ein mögliches Bündnis in Berlin",
-      "summary": "Nach der Wahl zum Berliner Abgeordnetenhaus ist rechnerisch derzeit nur eine Koalition möglich. SPD und Grüne stellen Bedingungen an die Linke. Das Liveblog",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/wahl-abgeordnetenhaus-berlin-2026-live-bild-15/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/wahl-abgeordnetenhaus-berlin-2026-live",
-      "published": "Sun, 20 Sep 2026 19:04:56 -0000",
-      "published_display": "20.09.2026 · 19:04 Uhr"
-    },
-    {
-      "title": "Diplomatie: Selenskyj kündigt Treffen mit Trump für kommende Woche an",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/selenskyj-kuendigt-treffen-mit-trump-fuer-kommende-woche-an-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/selenskyj-kuendigt-treffen-mit-trump-fuer-kommende-woche-an",
-      "published": "Sun, 20 Sep 2026 19:03:36 -0000",
-      "published_display": "20.09.2026 · 19:03 Uhr"
-    },
-    {
-      "title": "SPD bei den Landtagswahlen: Der einzige Ausweg: Noch härter gegen Merz",
-      "summary": "Nach diesem Wahlabend ist Manuela Schwesig die Nummer eins in der SPD. Lars Klingbeil und Bärbel Bas lassen bereits erkennen, wie sie sich als Parteichefs halten wollen.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/spd-landtagswahlen-berlin-mecklenburg-vorpommern-lars-klingbeil-baerbel-bas-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/spd-landtagswahlen-berlin-mecklenburg-vorpommern-lars-klingbeil-baerbel-bas",
-      "published": "Sun, 20 Sep 2026 19:03:28 -0000",
-      "published_display": "20.09.2026 · 19:03 Uhr"
-    },
-    {
-      "title": "Landtagswahlen: Analyse: Schwesig war Erfolgsfaktor für SPD im Nordosten",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/analyse-schwesig-war-erfolgsfaktor-fuer-spd-im-nordosten-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/analyse-schwesig-war-erfolgsfaktor-fuer-spd-im-nordosten",
-      "published": "Sun, 20 Sep 2026 19:01:31 -0000",
-      "published_display": "20.09.2026 · 19:01 Uhr"
     }
   ]
 }
