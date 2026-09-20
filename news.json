@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-20T00:47:59.254137+00:00",
+  "updated": "2026-09-20T00:57:55.581453+00:00",
   "items": [
+    {
+      "title": "Frankreich: Staatsschulden in Frankreich nähern sich höchstem Stand seit 1978",
+      "summary": "Die französische Regierung hat mehr Schulden als jedes andere Land in der Eurozone. Dieses Jahr könnte der Schuldenberg auf 120 Prozent der Wirtschaftsleistung wachsen.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/frankreich-staatsverschuldung-schuldenquote-defizit-eurozone-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/frankreich-staatsverschuldung-schuldenquote-defizit-eurozone",
+      "published": "Sun, 20 Sep 2026 00:48:25 -0000",
+      "published_display": "20.09.2026 · 00:48 Uhr"
+    },
     {
       "title": "Unfall im Landkreis Günzburg: Motorradfahrer von Traktor lebensgefährlich verletzt",
       "summary": "",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/19/giftig-und-hitzig-nur-auf-dem-rasen-hertha-siegt-in-dresden",
       "published": "Sat, 19 Sep 2026 20:25:14 -0000",
       "published_display": "19.09.2026 · 20:25 Uhr"
-    },
-    {
-      "title": "Fußball: Trauer um den Co-Trainer Deutschlands: Peter Hermann ist tot",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/19/trauer-um-den-co-trainer-deutschlands-peter-hermann-ist-tot-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/19/trauer-um-den-co-trainer-deutschlands-peter-hermann-ist-tot",
-      "published": "Sat, 19 Sep 2026 20:19:12 -0000",
-      "published_display": "19.09.2026 · 20:19 Uhr"
     }
   ]
 }
