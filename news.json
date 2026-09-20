@@ -1,29 +1,93 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-20T20:16:23.799403+00:00",
+  "updated": "2026-09-20T20:28:03.798846+00:00",
   "items": [
     {
-      "title": "Landtagswahl: CDU fällt in Mecklenburg-Vorpommern laut Hochrechnung unter 5 Prozent",
-      "summary": "In Mecklenburg-Vorpommern muss die CDU um den Einzug in den Landtag bangen. In einer Hochrechnung erreicht sie nur noch 4,9 Prozent – ein historisch schlechtes Ergebnis.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/landtagswahl-mv-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/cdu-faellt-in-mecklenburg-vorpommern-laut-hochrechnung-unter-5-prozent",
-      "published": "Sun, 20 Sep 2026 20:14:46 -0000",
-      "published_display": "20.09.2026 · 20:14 Uhr"
+      "title": "Wahlergebnisse in Berlin 2026: Alle Ergebnisse der Wahl zum Abgeordnetenhaus in Berlin",
+      "summary": "Welche Koalitionen sind im Abgeordnetenhaus möglich? Welche Kandidaten und Parteien gewinnen welchen Wahlkreis? Alle Daten und Karten zur Abgeordnetenhauswahl in Berlin",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/landtagswahl-berlin-ergebnisse-wahlkreise-2026-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/berlin-wahl-abgeordnetenhaus-2026-ergebnisse-live",
+      "published": "Sun, 20 Sep 2026 20:27:24 -0000",
+      "published_display": "20.09.2026 · 20:27 Uhr"
     },
     {
       "title": "Berliner Abgeordnetenhaus: BSW verfehlt in Berlin laut Hochrechnungen Fünf-Prozent-Hürde",
       "summary": "Das Bündnis Sahra Wagenknecht könnte bei der Berliner Abgeordnetenhauswahl an der Fünf-Prozent-Hürde scheitern. Das hätte erheblichen Einfluss auf die Regierungsbildung.",
       "image": "https://img.zeit.de/politik/deutschland/2026-09/abgeordnetenhaus-wahl-berlin-wahlparty-bsw-bild/original__640x360",
       "link": "https://www.zeit.de/politik/deutschland/2026-09/berlin-abgeordnetenhaus-wahl-bsw",
-      "published": "Sun, 20 Sep 2026 20:14:42 -0000",
-      "published_display": "20.09.2026 · 20:14 Uhr"
+      "published": "Sun, 20 Sep 2026 20:26:48 -0000",
+      "published_display": "20.09.2026 · 20:26 Uhr"
     },
     {
-      "title": "Wahlergebnisse in Berlin 2026: Alle Ergebnisse der Wahl zum Abgeordnetenhaus in Berlin",
-      "summary": "Welche Koalitionen sind im Abgeordnetenhaus möglich? Welche Kandidaten und Parteien gewinnen welchen Wahlkreis? Alle Daten und Karten zur Abgeordnetenhauswahl in Berlin",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/landtagswahl-berlin-ergebnisse-wahlkreise-2026-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/berlin-wahl-abgeordnetenhaus-2026-ergebnisse-live",
-      "published": "Sun, 20 Sep 2026 20:14:22 -0000",
+      "title": "MV-Landtagswahl: Leif-Erik Holm - Wahlsieger, aber kein Siegmund",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/das-sind-die-spitzenkandidatinnen-und-kandidaten-in-mv-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/das-sind-die-spitzenkandidatinnen-und-kandidaten-in-mv",
+      "published": "Sun, 20 Sep 2026 20:26:06 -0000",
+      "published_display": "20.09.2026 · 20:26 Uhr"
+    },
+    {
+      "title": "Wahlergebnisse in Mecklenburg-Vorpommern 2026: Alle Ergebnisse der Landtagswahl in Mecklenburg-Vorpommern – live",
+      "summary": "Welche Koalitionen sind im Landtag möglich? Welche Kandidaten und Parteien gewinnen welchen Wahlkreis? Alle Daten und Karten zur Landtagswahl in Mecklenburg-Vorpommern",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/landtagswahl-mecklenburg-vorpommern-ergebnisse-wahlkreise-2026-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/landtagswahl-mecklenburg-vorpommern-ergebnisse-wahlkreise-2026",
+      "published": "Sun, 20 Sep 2026 20:24:00 -0000",
+      "published_display": "20.09.2026 · 20:24 Uhr"
+    },
+    {
+      "title": "Landtagswahlen: CDU im Nordosten unter fünf Prozent – Linke siegt in Berlin",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/wahlen-in-zwei-bundeslaendern-wegweiser-in-der-merz-krise-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/wahlen-in-zwei-bundeslaendern-wegweiser-in-der-merz-krise",
+      "published": "Sun, 20 Sep 2026 20:22:25 -0000",
+      "published_display": "20.09.2026 · 20:22 Uhr"
+    },
+    {
+      "title": "Landtagswahl: CDU in Mecklenburg-Vorpommern laut Hochrechnung unter fünf Prozent",
+      "summary": "In Mecklenburg-Vorpommern muss die CDU um den Einzug in den Landtag bangen. In einer Hochrechnung erreicht sie nur noch 4,9 Prozent – ein historisch schlechtes Ergebnis.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/landtagswahl-mv-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/cdu-faellt-in-mecklenburg-vorpommern-laut-hochrechnung-unter-5-prozent",
+      "published": "Sun, 20 Sep 2026 20:21:15 -0000",
+      "published_display": "20.09.2026 · 20:21 Uhr"
+    },
+    {
+      "title": "Wahl in Mecklenburg-Vorpommern: Nordost-AfD vor SPD - CDU wohl erstmals raus aus Landtag",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/richtungswahl-gespannter-blick-auf-mecklenburg-vorpommern-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/richtungswahl-gespannter-blick-auf-mecklenburg-vorpommern",
+      "published": "Sun, 20 Sep 2026 20:19:41 -0000",
+      "published_display": "20.09.2026 · 20:19 Uhr"
+    },
+    {
+      "title": "Wahl in Berlin: BSW scheitert laut neuen Hochrechnungen an Fünf-Prozent-Hürde",
+      "summary": "Das BSW schafft den Einzug in das Berliner Abgeordnetenhaus wohl nicht. Damit kommen rechnerisch wieder zwei Regierungsbündnisse infrage. Das Liveblog",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/wahl-abgeordnetenhaus-berlin-2026-live-bild-16/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/wahl-abgeordnetenhaus-berlin-2026-live",
+      "published": "Sun, 20 Sep 2026 20:18:29 -0000",
+      "published_display": "20.09.2026 · 20:18 Uhr"
+    },
+    {
+      "title": "Landtagswahl: Die «Frau gegen Blau» hofft auf Fortsetzung in Schwerin",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/die-frau-gegen-blau-hofft-auf-fortsetzung-in-schwerin-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/die-frau-gegen-blau-hofft-auf-fortsetzung-in-schwerin",
+      "published": "Sun, 20 Sep 2026 20:17:59 -0000",
+      "published_display": "20.09.2026 · 20:17 Uhr"
+    },
+    {
+      "title": "SPD-Niederlage in Berlin: Ex-Regierungschef Müller geht auf Distanz zu Fraktionsspitze",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/ex-regierungschef-mueller-geht-auf-distanz-zu-fraktionsspitze-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/ex-regierungschef-mueller-geht-auf-distanz-zu-fraktionsspitze",
+      "published": "Sun, 20 Sep 2026 20:15:11 -0000",
+      "published_display": "20.09.2026 · 20:15 Uhr"
+    },
+    {
+      "title": "Abgeordnetenhauswahl: Grüne verlieren Berliner Hochburg Friedrichshain-Kreuzberg",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/20/gruene-verlieren-berliner-hochburg-friedrichshain-kreuzberg-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/gruene-verlieren-berliner-hochburg-friedrichshain-kreuzberg",
+      "published": "Sun, 20 Sep 2026 20:14:41 -0000",
       "published_display": "20.09.2026 · 20:14 Uhr"
     },
     {
@@ -57,70 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/20/berlin-waehlt-neues-abgeordnetenhaus",
       "published": "Sun, 20 Sep 2026 20:11:59 -0000",
       "published_display": "20.09.2026 · 20:11 Uhr"
-    },
-    {
-      "title": "Abgeordnetenhauswahl: Hochrechnungen sehen BSW nicht im Abgeordnetenhaus",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/hochrechnungen-sehen-bsw-nicht-im-abgeordnetenhaus-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/hochrechnungen-sehen-bsw-nicht-im-abgeordnetenhaus",
-      "published": "Sun, 20 Sep 2026 20:10:04 -0000",
-      "published_display": "20.09.2026 · 20:10 Uhr"
-    },
-    {
-      "title": "Emmanuel Macron und Mark Carney: Frankreich und Kanada bauen Zusammenarbeit aus",
-      "summary": "Frankreich und Kanada wollen bei Energie, Sicherheit und Fischerei enger zusammenarbeiten. Das gaben Macron und Carney bei einer Pressekonferenz bekannt.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/emmanuel-macron-justin-trudeau-saint-pierre-et-miquelon-kanada-energie-fischerei-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/emmanuel-macron-justin-trudeau-saint-pierre-et-miquelon-kanada-energie-fischerei",
-      "published": "Sun, 20 Sep 2026 20:09:32 -0000",
-      "published_display": "20.09.2026 · 20:09 Uhr"
-    },
-    {
-      "title": "Wahlergebnisse in Mecklenburg-Vorpommern 2026: Alle Ergebnisse der Landtagswahl in Mecklenburg-Vorpommern – live",
-      "summary": "Welche Koalitionen sind im Landtag möglich? Welche Kandidaten und Parteien gewinnen welchen Wahlkreis? Alle Daten und Karten zur Landtagswahl in Mecklenburg-Vorpommern",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/landtagswahl-mecklenburg-vorpommern-ergebnisse-wahlkreise-2026-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/landtagswahl-mecklenburg-vorpommern-ergebnisse-wahlkreise-2026",
-      "published": "Sun, 20 Sep 2026 20:09:02 -0000",
-      "published_display": "20.09.2026 · 20:09 Uhr"
-    },
-    {
-      "title": "Wahl des Abgeordnetenhauses: Linke und Grüne wollen Wohnungen vergesellschaften, SPD weiter dagegen",
-      "summary": "Die von der Linken angekündigte Vergesellschaftung von Wohnungen dürfte in Berlin die Regierungsbildung erschweren. Die Grünen unterstützen den Schritt, die SPD nicht.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/berlin-vor-wahl-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/berlin-abgeordnetenhaus-wahl-linke-gruene-spd-wohnungen-vergesellschaftung-enteignung",
-      "published": "Sun, 20 Sep 2026 20:08:37 -0000",
-      "published_display": "20.09.2026 · 20:08 Uhr"
-    },
-    {
-      "title": "Wahlen: Staatskanzlei-Chef Dahlemann verliert Wahlkreis",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/staatskanzlei-chef-dahlemann-verliert-wahlkreis-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/staatskanzlei-chef-dahlemann-verliert-wahlkreis",
-      "published": "Sun, 20 Sep 2026 20:03:54 -0000",
-      "published_display": "20.09.2026 · 20:03 Uhr"
-    },
-    {
-      "title": "Große Aufmerksamkeit: Türkische Medien über Wahl: Eralp «sprengt die Urnen»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/tuerkische-medien-ueber-wahl-eralp-sprengt-die-urnen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/tuerkische-medien-ueber-wahl-eralp-sprengt-die-urnen",
-      "published": "Sun, 20 Sep 2026 20:01:50 -0000",
-      "published_display": "20.09.2026 · 20:01 Uhr"
-    },
-    {
-      "title": "Landtagswahlen: CDU stürzt im Nordosten ab – Linke in Berlin stärkste Kraft",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/wahlen-in-zwei-bundeslaendern-wegweiser-in-der-merz-krise-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/wahlen-in-zwei-bundeslaendern-wegweiser-in-der-merz-krise",
-      "published": "Sun, 20 Sep 2026 20:00:43 -0000",
-      "published_display": "20.09.2026 · 20:00 Uhr"
-    },
-    {
-      "title": "Wahl in Mecklenburg-Vorpommern: Nordost-AfD vor SPD - ARD: CDU fliegt erstmals aus Landtag",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/richtungswahl-gespannter-blick-auf-mecklenburg-vorpommern-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/richtungswahl-gespannter-blick-auf-mecklenburg-vorpommern",
-      "published": "Sun, 20 Sep 2026 20:00:17 -0000",
-      "published_display": "20.09.2026 · 20:00 Uhr"
     }
   ]
 }
