@@ -1,10 +1,26 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-21T00:24:48.214179+00:00",
+  "updated": "2026-09-21T00:48:32.961160+00:00",
   "items": [
     {
-      "title": "US-Einwanderungspolizei: ICE-Beamter schießt Mann in Texas nieder",
-      "summary": "Ein Beamter der US-Einwanderungspolizei ICE hat in der Stadt Austin einen Mann angeschossen und schwer verletzt. Die Demokraten fordern eine Untersuchung des Vorfalls.",
+      "title": "Wahl in Berlin: Linke siegt in Berlin klar vor der CSU, BSW nicht im Abgeordnetenhaus",
+      "summary": "Die Linke landet mit 25,7 Prozent der Stimmen klar vor CDU und AfD. Spitzenkandidatin Erlap will die Regierung anführen. Giffey verliert Sitz. Das Liveblog zum Nachlesen",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/wahl-abgeordnetenhaus-berlin-2026-live-bild-16/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/wahl-abgeordnetenhaus-berlin-2026-live",
+      "published": "Mon, 21 Sep 2026 00:37:21 -0000",
+      "published_display": "21.09.2026 · 00:37 Uhr"
+    },
+    {
+      "title": "Landtagswahlen: CDU im Nordosten raus aus Landtag – Linke gewinnt in Berlin",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/cdu-im-nordosten-raus-aus-landtag-linke-gewinnt-in-berlin-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/cdu-im-nordosten-raus-aus-landtag-linke-gewinnt-in-berlin",
+      "published": "Mon, 21 Sep 2026 00:32:27 -0000",
+      "published_display": "21.09.2026 · 00:32 Uhr"
+    },
+    {
+      "title": "US-Einwanderungsbehörde: ICE-Beamter schießt Mann in Texas nieder",
+      "summary": "Ein Beamter der US-Einwanderungsbehörde ICE hat in der Stadt Austin einen Mann angeschossen und schwer verletzt. Die Demokraten fordern eine Untersuchung des Vorfalls.",
       "image": "https://img.zeit.de/politik/ausland/2026-09/austin-texas-ice-polizei-schuesse-unabhaengige-ermittlung-foto-1/original__640x360",
       "link": "https://www.zeit.de/politik/ausland/2026-09/austin-texas-ice-polizei-schuesse-unabhaengige-ermittlung",
       "published": "Mon, 21 Sep 2026 00:19:50 -0000",
@@ -19,14 +35,6 @@
       "published_display": "21.09.2026 · 00:17 Uhr"
     },
     {
-      "title": "Wahl in Berlin: Linke siegt in Berlin klar vor der CSU, BSW nicht im Abgeordnetenhaus",
-      "summary": "Die Linke landet mit 25,7 Prozent der Stimmen klar vor CDU und AfD. Spitzenkandidatin Erlap will die Regierung anführen. Franziska Giffey verliert Sitz. Das Liveblog",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/wahl-abgeordnetenhaus-berlin-2026-live-bild-16/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/wahl-abgeordnetenhaus-berlin-2026-live",
-      "published": "Mon, 21 Sep 2026 00:09:31 -0000",
-      "published_display": "21.09.2026 · 00:09 Uhr"
-    },
-    {
       "title": "Venezolanische Opposition: Nobelpreisträgerin Machado will bald nach Venezuela zurück",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-09/21/nobelpreistraegerin-machado-will-bald-nach-venezuela-zurueck-image-group/original__640x360",
@@ -36,7 +44,7 @@
     },
     {
       "title": "Wahl in Berlin: Linke gewinnt laut vorläufigem Endergebnis Berlin-Wahl vor der CDU",
-      "summary": "Die Linke hat bei der Wahl zum Berliner Abgeordnetenhaus ihr historisch bestes Ergebnis erzielt. Dahinter folgt die CDU. Das BSW scheitert an der Fünfprozenthürde.",
+      "summary": "Die Linke hat bei der Wahl zum Berliner Abgeordnetenhaus ihr historisch bestes Ergebnis erzielt. Dahinter folgt die CDU. Das BSW scheitert an der Fünf-Prozent-Hürde.",
       "image": "https://img.zeit.de/politik/deutschland/2026-09/wahl-abgeordnetenhaus-berlin-2026-live-bild-17/original__640x360",
       "link": "https://www.zeit.de/politik/deutschland/2026-09/linke-sieg-vorlaeufiges-endergebnis-berlin-wahl-cdu",
       "published": "Sun, 20 Sep 2026 23:58:07 -0000",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/politik/deutschland/2026-09/wahlverhalten-mecklenburg-vorpommern-waehlerwanderung-parteien-alter",
       "published": "Sun, 20 Sep 2026 22:22:51 -0000",
       "published_display": "20.09.2026 · 22:22 Uhr"
-    },
-    {
-      "title": "Landtag: Die niedrigsten CDU-Wahlergebnisse bei Landtagswahlen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/20/die-niedrigsten-cdu-wahlergebnisse-bei-landtagswahlen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/die-niedrigsten-cdu-wahlergebnisse-bei-landtagswahlen",
-      "published": "Sun, 20 Sep 2026 22:19:02 -0000",
-      "published_display": "20.09.2026 · 22:19 Uhr"
     }
   ]
 }
