@@ -1,7 +1,39 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-21T03:18:16.746237+00:00",
+  "updated": "2026-09-21T03:32:37.327249+00:00",
   "items": [
+    {
+      "title": "Sonntagkrimi-Dreharbeiten: «Tatort» mit Möhring dreht sich um Mord an der Nordsee",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/tatort-mit-moehring-dreht-sich-um-mord-an-der-nordsee-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/tatort-mit-moehring-dreht-sich-um-mord-an-der-nordsee",
+      "published": "Mon, 21 Sep 2026 03:30:05 -0000",
+      "published_display": "21.09.2026 · 03:30 Uhr"
+    },
+    {
+      "title": "Pilzsammler: «Die Wälder sind voll» - Gute Chancen für Pilzsammler",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/die-waelder-sind-voll-gute-chancen-fuer-pilzsammler-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/die-waelder-sind-voll-gute-chancen-fuer-pilzsammler",
+      "published": "Mon, 21 Sep 2026 03:30:05 -0000",
+      "published_display": "21.09.2026 · 03:30 Uhr"
+    },
+    {
+      "title": "Wetterbericht: Wo man mit Bodenfrost und Nebel rechnen muss",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/wo-man-mit-bodenfrost-und-nebel-rechnen-muss-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/wo-man-mit-bodenfrost-und-nebel-rechnen-muss",
+      "published": "Mon, 21 Sep 2026 03:30:04 -0000",
+      "published_display": "21.09.2026 · 03:30 Uhr"
+    },
+    {
+      "title": "Fotografie: Bilder des Tages",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/bilder-des-tages-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/bilder-des-tages",
+      "published": "Mon, 21 Sep 2026 03:22:59 -0000",
+      "published_display": "21.09.2026 · 03:22 Uhr"
+    },
     {
       "title": "Sicherheitsrisiken im Fokus: Vor Trump-Xi-Gipfel: China und USA sprechen über KI",
       "summary": "",
@@ -89,38 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/21/wein-wald-und-wanderlust-tipps-fuer-touren-im-herbst",
       "published": "Mon, 21 Sep 2026 03:00:09 -0000",
       "published_display": "21.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Wirtschaftskriminalität: Landeskriminalamt: Mehr Finanzbetrug in WhatsApp-Gruppen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/landeskriminalamt-mehr-finanzbetrug-in-whatsapp-gruppen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/landeskriminalamt-mehr-finanzbetrug-in-whatsapp-gruppen",
-      "published": "Mon, 21 Sep 2026 03:00:08 -0000",
-      "published_display": "21.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Nach der MV-Landtagswahl: So geht es nach der Landtagswahl in MV weiter",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/so-geht-es-nach-der-landtagswahl-in-mv-weiter-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/so-geht-es-nach-der-landtagswahl-in-mv-weiter",
-      "published": "Mon, 21 Sep 2026 03:00:07 -0000",
-      "published_display": "21.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Milliardengeschäft: Wanderweg als Wirtschaftsmotor: Wie Gäste umworben werden",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/wanderweg-als-wirtschaftsmotor-wie-gaeste-umworben-werden-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/wanderweg-als-wirtschaftsmotor-wie-gaeste-umworben-werden",
-      "published": "Mon, 21 Sep 2026 03:00:07 -0000",
-      "published_display": "21.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Landtagswahlen: CDU fliegt im Nordosten aus Landtag – Linke siegt in Berlin",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/cdu-im-nordosten-raus-aus-landtag-linke-gewinnt-in-berlin-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/cdu-im-nordosten-raus-aus-landtag-linke-gewinnt-in-berlin",
-      "published": "Mon, 21 Sep 2026 02:44:04 -0000",
-      "published_display": "21.09.2026 · 02:44 Uhr"
     }
   ]
 }
