@@ -1,7 +1,111 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-21T06:25:10.306472+00:00",
+  "updated": "2026-09-21T06:50:27.925706+00:00",
   "items": [
+    {
+      "title": "Berlin-Wahl: Igor Levit kritisiert Merz: Weiter-so in hübscher Verpackung",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/igor-levit-kritisiert-merz-weiter-so-in-huebscher-verpackung-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/igor-levit-kritisiert-merz-weiter-so-in-huebscher-verpackung",
+      "published": "Mon, 21 Sep 2026 06:48:25 -0000",
+      "published_display": "21.09.2026 · 06:48 Uhr"
+    },
+    {
+      "title": "Obsternte: Eine der besten Kirschernten seit Jahren",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/eine-der-besten-kirschernten-seit-jahren-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/eine-der-besten-kirschernten-seit-jahren",
+      "published": "Mon, 21 Sep 2026 06:44:01 -0000",
+      "published_display": "21.09.2026 · 06:44 Uhr"
+    },
+    {
+      "title": "Anschlag in Kohat: Pakistan fliegt erneut Luftangriffe in Afghanistan",
+      "summary": "Nach einem schweren Sprengstoffanschlag in Pakistan greift das Militär erneut Ziele im Nachbarland Afghanistan an. Dabei soll es zahlreiche Tote gegeben haben.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/pakistan-afghanistan-anschlag-kohat-ittehad-ul-mujahideen-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/pakistan-afghanistan-anschlag-kohat-ittehad-ul-mujahideen",
+      "published": "Mon, 21 Sep 2026 06:42:33 -0000",
+      "published_display": "21.09.2026 · 06:42 Uhr"
+    },
+    {
+      "title": "Wahlergebnisse in Mecklenburg-Vorpommern: Wie die CDU in Mecklenburg-Vorpommern zerstört wurde",
+      "summary": "Die CDU ist an der Fünf-Prozent-Hürde gescheitert, zum ersten Mal in ihrer Geschichte. Unsere Datenauswertung zeigt, wo und bei wem sie verloren hat.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/wahlergebnisse-mecklenburg-vorpommern-landtagswahl-karte-gemeinden-teaserbild/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/wahlergebnisse-mecklenburg-vorpommern-landtagswahl-karte-gemeinden",
+      "published": "Mon, 21 Sep 2026 06:40:54 -0000",
+      "published_display": "21.09.2026 · 06:40 Uhr"
+    },
+    {
+      "title": "Spirituosen-Markt: Berentzen unterzeichnet Übernahmevereinbarung mit US-Konzern",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/berentzen-unterzeichnet-uebernahmevereinbarung-mit-us-konzern-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/berentzen-unterzeichnet-uebernahmevereinbarung-mit-us-konzern",
+      "published": "Mon, 21 Sep 2026 06:37:58 -0000",
+      "published_display": "21.09.2026 · 06:37 Uhr"
+    },
+    {
+      "title": "Landtagswahlen: Historische Demütigung für die CDU - Kann Merz sich halten?",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/kann-die-fuenf-prozent-huerde-merz-zu-fall-bringen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/kann-die-fuenf-prozent-huerde-merz-zu-fall-bringen",
+      "published": "Mon, 21 Sep 2026 06:36:48 -0000",
+      "published_display": "21.09.2026 · 06:36 Uhr"
+    },
+    {
+      "title": "Ermittlungen: Leiche aus brennendem Fahrzeug wird obduziert",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/leiche-aus-brennendem-fahrzeug-wird-obduziert-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/leiche-aus-brennendem-fahrzeug-wird-obduziert",
+      "published": "Mon, 21 Sep 2026 06:36:43 -0000",
+      "published_display": "21.09.2026 · 06:36 Uhr"
+    },
+    {
+      "title": "Remmo-Clan: Linke distanziert sich von Clanchef-Besuch auf Wahlparty",
+      "summary": "Mit organisierter Kriminalität habe die Berliner Linkspartei nichts zu tun, sagt deren Spitzenkandidatin. Der Chef des Remmo-Clans hatte zuvor eine Wahlparty besucht.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/remmo-clan-issa-remmo-berlin-die-linke-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/remmo-clan-issa-remmo-berlin-die-linke",
+      "published": "Mon, 21 Sep 2026 06:35:47 -0000",
+      "published_display": "21.09.2026 · 06:35 Uhr"
+    },
+    {
+      "title": "Elbvertiefung: Der tägliche Newsletter aus Hamburg: Durch Schlammbecken und Seifenblasenberge",
+      "summary": "Die Elbvertiefung am Montag – Mit einer neuen Folge unserer Serie »Zu Besuch«, den Tagebüchern des Schriftstellers Samuel Beckett und vielen Batterien",
+      "image": "https://img.zeit.de/hamburg/2026-09/zusammenhalt/original__640x360",
+      "link": "https://www.zeit.de/hamburg/2026-09/elbvertiefung-21-09-2026",
+      "published": "Mon, 21 Sep 2026 06:35:11 -0000",
+      "published_display": "21.09.2026 · 06:35 Uhr"
+    },
+    {
+      "title": "Notfall: Wiesn: Breznverkäufer erleidet Herzinfarkt - gerettet",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/wiesn-breznverkaeufer-erleidet-herzinfarkt-gerettet-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/wiesn-breznverkaeufer-erleidet-herzinfarkt-gerettet",
+      "published": "Mon, 21 Sep 2026 06:32:40 -0000",
+      "published_display": "21.09.2026 · 06:32 Uhr"
+    },
+    {
+      "title": "SPD in Berlin: Franziska Giffey verpasst Einzug ins Abgeordnetenhaus",
+      "summary": "Rund 300 Stimmen fehlten der früheren Regierenden Bürgermeisterin Franziska Giffey für ein Mandat in ihrem Wahlkreis. Ihre politische Zukunft ist damit völlig offen.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/franziska-giffey-spd-berlin-wahl-rudow-abgeordnetenhaus-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/franziska-giffey-spd-berlin-wahl-rudow-abgeordnetenhaus",
+      "published": "Mon, 21 Sep 2026 06:31:21 -0000",
+      "published_display": "21.09.2026 · 06:31 Uhr"
+    },
+    {
+      "title": "Nach MV-Wahl: Chrupalla: Sind gesprächsbereit - geht nicht nur um Regieren",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/chrupalla-sind-gespraechsbereit-geht-nicht-nur-um-regieren-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/chrupalla-sind-gespraechsbereit-geht-nicht-nur-um-regieren",
+      "published": "Mon, 21 Sep 2026 06:30:43 -0000",
+      "published_display": "21.09.2026 · 06:30 Uhr"
+    },
+    {
+      "title": "Suchmaßmaßnahmen: Nach Kita-Einsturz: keine Opfer unter den Trümmern",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/nach-kita-einsturz-keine-opfer-unter-den-truemmern-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/nach-kita-einsturz-keine-opfer-unter-den-truemmern",
+      "published": "Mon, 21 Sep 2026 06:30:08 -0000",
+      "published_display": "21.09.2026 · 06:30 Uhr"
+    },
     {
       "title": "Automobil-Aktionstag: IG Metall ruft zu Protesten am bundesweiten Aktionstag auf",
       "summary": "Die IG Metall hat bundesweit zu Protesten bei Herstellern und Zulieferern der Autoindustrie aufgerufen. Es sind Aktionen in über 100 IG-Metall-Geschäftsstellen geplant.",
@@ -17,110 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/21/putins-kriegsparlament-kremlpartei-zur-wahlsiegerin-erklaert",
       "published": "Mon, 21 Sep 2026 06:20:54 -0000",
       "published_display": "21.09.2026 · 06:20 Uhr"
-    },
-    {
-      "title": "Leute: Ist Millie Bobby Brown erneut Mutter geworden?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/ist-millie-bobby-brown-erneut-mutter-geworden-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/ist-millie-bobby-brown-erneut-mutter-geworden",
-      "published": "Mon, 21 Sep 2026 06:19:37 -0000",
-      "published_display": "21.09.2026 · 06:19 Uhr"
-    },
-    {
-      "title": "Landtagswahl in MV: Nach MV-Wahl: Landkreise fordern Umsetzung von Reformen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/nach-mv-wahl-landkreise-fordern-umsetzung-von-reformen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/nach-mv-wahl-landkreise-fordern-umsetzung-von-reformen",
-      "published": "Mon, 21 Sep 2026 06:16:55 -0000",
-      "published_display": "21.09.2026 · 06:16 Uhr"
-    },
-    {
-      "title": "Verteidigung: Angst vor Moskau - Nato testet Drohnen-Netzwerk in Wiesbaden",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/angst-vor-moskau-nato-testet-drohnen-netzwerk-in-wiesbaden-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/angst-vor-moskau-nato-testet-drohnen-netzwerk-in-wiesbaden",
-      "published": "Mon, 21 Sep 2026 06:16:01 -0000",
-      "published_display": "21.09.2026 · 06:16 Uhr"
-    },
-    {
-      "title": "Brände: Frau nach Küchenbrand in Niederwiesa im Krankenhaus",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/frau-nach-kuechenbrand-in-niederwiesa-im-krankenhaus-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/frau-nach-kuechenbrand-in-niederwiesa-im-krankenhaus",
-      "published": "Mon, 21 Sep 2026 06:14:36 -0000",
-      "published_display": "21.09.2026 · 06:14 Uhr"
-    },
-    {
-      "title": "Berlin-Wahl: Evers hält Reformen für notwendig – Koalition offen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/evers-haelt-reformen-fuer-notwendig-koalition-offen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/evers-haelt-reformen-fuer-notwendig-koalition-offen",
-      "published": "Mon, 21 Sep 2026 06:10:44 -0000",
-      "published_display": "21.09.2026 · 06:10 Uhr"
-    },
-    {
-      "title": "Wetter: Wetter mild und meist trocken – kaum Schauer in der Region",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/wetter-mild-und-meist-trocken-kaum-schauer-in-der-region-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/wetter-mild-und-meist-trocken-kaum-schauer-in-der-region",
-      "published": "Mon, 21 Sep 2026 06:09:42 -0000",
-      "published_display": "21.09.2026 · 06:09 Uhr"
-    },
-    {
-      "title": "Haushalt: Steuerzahler-Präsident: Land schlittert in «Schuldenfalle»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/steuerzahler-praesident-land-schlittert-in-schuldenfalle-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/steuerzahler-praesident-land-schlittert-in-schuldenfalle",
-      "published": "Mon, 21 Sep 2026 06:08:18 -0000",
-      "published_display": "21.09.2026 · 06:08 Uhr"
-    },
-    {
-      "title": "Wahlen in Berlin und Mecklenburg-Vorpommern: Holm sieht keine Chance auf AfD-Regierungsbeteiligung",
-      "summary": "In Mecklenburg-Vorpommern wird laut Wahlsieger Leif Erik Holm die AfD wohl nicht an der Regierung beteiligt. Die Debatte um Kanzler und Koalition dauert an. Das Liveblog",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/mecklenburg-vorpommern-berlin-landtagswahl-live-erik-holm-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/mecklenburg-vorpommern-berlin-landtagswahl-live",
-      "published": "Mon, 21 Sep 2026 06:06:48 -0000",
-      "published_display": "21.09.2026 · 06:06 Uhr"
-    },
-    {
-      "title": "Nach Wahlsieg: Eralp: Mit organisierter Kriminalität nichts zu tun haben",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/eralp-mit-organisierter-kriminalitaet-nichts-zu-tun-haben-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/eralp-mit-organisierter-kriminalitaet-nichts-zu-tun-haben",
-      "published": "Mon, 21 Sep 2026 06:06:47 -0000",
-      "published_display": "21.09.2026 · 06:06 Uhr"
-    },
-    {
-      "title": "Wetter: Starke Böen und Bewölkung – so startet die Wetterwoche",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/starke-boeen-und-bewoelkung-so-startet-die-wetterwoche-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/starke-boeen-und-bewoelkung-so-startet-die-wetterwoche",
-      "published": "Mon, 21 Sep 2026 06:05:40 -0000",
-      "published_display": "21.09.2026 · 06:05 Uhr"
-    },
-    {
-      "title": "Wahl in Mecklenburg-Vorpommern: AfD gewinnt Wahl laut vorläufigem Ergebnis, CDU unter fünf Prozent",
-      "summary": "Die AfD kommt auf 38,2 Prozent der Stimmen, die SPD wird zweitstärkste Kraft. Ministerpräsidentin Schwesig kritisiert Bundeskanzler Merz. Das Liveblog zum Nachlesen",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/mecklenburg-vorpommern-landtagswahl-schwesig-4-liveblog/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/mecklenburg-vorpommern-landtagswahl-liveblog",
-      "published": "Mon, 21 Sep 2026 06:05:00 -0000",
-      "published_display": "21.09.2026 · 06:05 Uhr"
-    },
-    {
-      "title": "Fußball-Bundesliga: Zufrieden in die Pause: Schalke in der Liga angekommen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/zufrieden-in-die-pause-schalke-in-der-liga-angekommen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/zufrieden-in-die-pause-schalke-in-der-liga-angekommen",
-      "published": "Mon, 21 Sep 2026 06:02:05 -0000",
-      "published_display": "21.09.2026 · 06:02 Uhr"
-    },
-    {
-      "title": "Auf ZDFinfo und im Stream: «Jetzt kippt es gerade» - Doku beleuchtet «Feindbild Queer»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/jetzt-kippt-es-gerade-doku-beleuchtet-feindbild-queer-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/jetzt-kippt-es-gerade-doku-beleuchtet-feindbild-queer",
-      "published": "Mon, 21 Sep 2026 06:00:05 -0000",
-      "published_display": "21.09.2026 · 06:00 Uhr"
     }
   ]
 }
