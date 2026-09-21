@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-21T22:17:05.788843+00:00",
+  "updated": "2026-09-21T22:29:05.118703+00:00",
   "items": [
+    {
+      "title": "Waldbrände: Löschhubschrauber stürzt im Yosemite Park ab - zwei Tote",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/22/loeschhubschrauber-stuerzt-im-yosemite-park-ab-zwei-tote-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/22/loeschhubschrauber-stuerzt-im-yosemite-park-ab-zwei-tote",
+      "published": "Mon, 21 Sep 2026 22:23:52 -0000",
+      "published_display": "21.09.2026 · 22:23 Uhr"
+    },
+    {
+      "title": "Donald Trump: Zustimmung für Donald Trump sinkt auch unter Republikanern",
+      "summary": "Nur noch knapp ein Drittel der US-Bürger sind mit der Arbeit ihres Präsidenten zufrieden. Unter Trumps Parteigenossen fielen die Werte binnen einer Woche um neun Prozent.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/donald-trump-zustimmungswerte-umfrage-reuters-ipsos-republikaner-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/donald-trump-zustimmungswerte-umfrage-reuters-ipsos-republikaner",
+      "published": "Mon, 21 Sep 2026 22:20:08 -0000",
+      "published_display": "21.09.2026 · 22:20 Uhr"
+    },
     {
       "title": "Energiekosten: Prognose: Heizkosten steigen 2026 an",
       "summary": "",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/21/papa-wuest-ist-wachs-in-den-haenden-seiner-tochter",
       "published": "Mon, 21 Sep 2026 20:42:06 -0000",
       "published_display": "21.09.2026 · 20:42 Uhr"
-    },
-    {
-      "title": "Russische Milliardäre: Zoff um Oligarchen: Vorerst kein Deal zu Russland-Sanktionen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/eu-will-sanktionen-gegen-russische-milliardaere-aufheben-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/eu-will-sanktionen-gegen-russische-milliardaere-aufheben",
-      "published": "Mon, 21 Sep 2026 20:23:16 -0000",
-      "published_display": "21.09.2026 · 20:23 Uhr"
-    },
-    {
-      "title": "Zusammenstoß: Motorradfahrer stirbt nach schwerem Unfall auf K4",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/motorradfahrer-stirbt-nach-schwerem-unfall-auf-k4-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/motorradfahrer-stirbt-nach-schwerem-unfall-auf-k4",
-      "published": "Mon, 21 Sep 2026 20:21:39 -0000",
-      "published_display": "21.09.2026 · 20:21 Uhr"
     }
   ]
 }
