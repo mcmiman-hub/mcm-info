@@ -1,14 +1,102 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-21T08:55:57.622273+00:00",
+  "updated": "2026-09-21T09:18:56.489048+00:00",
   "items": [
+    {
+      "title": "Vorwurf stundenlanger Gewalt: Bekannte sollen 19-Jährigen geschlagen und gedemütigt haben",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/bekannte-sollen-19-jaehrigen-geschlagen-und-gedemuetigt-haben-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/bekannte-sollen-19-jaehrigen-geschlagen-und-gedemuetigt-haben",
+      "published": "Mon, 21 Sep 2026 09:15:27 -0000",
+      "published_display": "21.09.2026 · 09:15 Uhr"
+    },
+    {
+      "title": "Russland: Putins Partei Geeintes Russland gewinnt Parlamentswahl",
+      "summary": "Die Kremlpartei Geeintes Russland von Präsident Wladimir Putin hat wie zu erwarten die Parlamentswahlen gewonnen. Die Wahl in Russland gilt als unfrei und undemokratisch.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/parlamentswahl-russland-geeintes-russland-jabloko-ella-pamfilowa-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/parlamentswahl-russland-geeintes-russland-jabloko-ella-pamfilowa",
+      "published": "Mon, 21 Sep 2026 09:14:45 -0000",
+      "published_display": "21.09.2026 · 09:14 Uhr"
+    },
+    {
+      "title": "Luxusgüter: Klotzen statt kleckern",
+      "summary": "Wofür die Reichen und Superreichen ihr Geld ausgeben. Eine Übersicht in Grafiken",
+      "image": "https://img.zeit.de/2026/40/grafik-teaser/original__640x360",
+      "link": "https://www.zeit.de/2026/40/luxusgueter-reichtum-dollar-millionaere-usa-schweiz",
+      "published": "Mon, 21 Sep 2026 09:10:52 -0000",
+      "published_display": "21.09.2026 · 09:10 Uhr"
+    },
+    {
+      "title": "Landtagswahl in MV: Holm: AfD will in MV Landtagspräsident und Corona-Ausschuss",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/holm-afd-will-in-mv-landtagspraesident-und-corona-ausschuss-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/holm-afd-will-in-mv-landtagspraesident-und-corona-ausschuss",
+      "published": "Mon, 21 Sep 2026 09:09:53 -0000",
+      "published_display": "21.09.2026 · 09:09 Uhr"
+    },
+    {
+      "title": "Aktionstag in der Autobranche: IG Metall fordert Kehrtwende für Zukunft der Auto-Industrie",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/ig-metall-fordert-kehrtwende-fuer-zukunft-der-auto-industrie-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/ig-metall-fordert-kehrtwende-fuer-zukunft-der-auto-industrie",
+      "published": "Mon, 21 Sep 2026 09:08:13 -0000",
+      "published_display": "21.09.2026 · 09:08 Uhr"
+    },
+    {
+      "title": "Fotografie: Bilder des Tages",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/bilder-des-tages-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/bilder-des-tages",
+      "published": "Mon, 21 Sep 2026 09:07:03 -0000",
+      "published_display": "21.09.2026 · 09:07 Uhr"
+    },
+    {
+      "title": "Wahlparty in Berlin-Neukölln: Anti-Israel-Aktivist soll auf Wahlparty der Linken gefeiert haben",
+      "summary": "Der PFLP-Anhänger Ibrahim Ibrahim soll auf einer Wahlparty der Linken in Neukölln mitgefeiert haben. Fotos zeigen ihn auch mit dem Clanchef Issa Remmo.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/linke-neukoelln-ibrahim-ibrahim-pflp-issa-remmo-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/linke-neukoelln-ibrahim-ibrahim-pflp-issa-remmo",
+      "published": "Mon, 21 Sep 2026 09:06:08 -0000",
+      "published_display": "21.09.2026 · 09:06 Uhr"
+    },
+    {
+      "title": "Kampfmittelfund: Panzergranate gefunden - Sprengung steht bevor",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/panzergranate-gefunden-sprengung-steht-bevor-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/panzergranate-gefunden-sprengung-steht-bevor",
+      "published": "Mon, 21 Sep 2026 09:01:36 -0000",
+      "published_display": "21.09.2026 · 09:01 Uhr"
+    },
+    {
+      "title": "Wahldebakel für CDU: SPD-Landeschef Bartol: «Wir haben eine stabile Regierung»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/spd-landeschef-bartol-wir-haben-eine-stabile-regierung-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/spd-landeschef-bartol-wir-haben-eine-stabile-regierung",
+      "published": "Mon, 21 Sep 2026 08:59:28 -0000",
+      "published_display": "21.09.2026 · 08:59 Uhr"
+    },
     {
       "title": "Kiel statt Rostock: Vor Olympia-Entscheid: München wählt Kiel als Segelstandort",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-09/21/vor-olympia-entscheid-muenchen-waehlt-kiel-als-segelstandort-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-09/21/vor-olympia-entscheid-muenchen-waehlt-kiel-als-segelstandort",
-      "published": "Mon, 21 Sep 2026 08:52:40 -0000",
-      "published_display": "21.09.2026 · 08:52 Uhr"
+      "published": "Mon, 21 Sep 2026 08:57:09 -0000",
+      "published_display": "21.09.2026 · 08:57 Uhr"
+    },
+    {
+      "title": "Bildungspolitik: Forderungskatalog für bessere Schulen in Schleswig-Holstein",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/forderungskatalog-fuer-bessere-schulen-in-schleswig-holstein-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/forderungskatalog-fuer-bessere-schulen-in-schleswig-holstein",
+      "published": "Mon, 21 Sep 2026 08:56:52 -0000",
+      "published_display": "21.09.2026 · 08:56 Uhr"
+    },
+    {
+      "title": "Tourismus: Mehr Gäste und Übernachtungen in Sachsen-Anhalt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/mehr-gaeste-und-uebernachtungen-in-sachsen-anhalt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/mehr-gaeste-und-uebernachtungen-in-sachsen-anhalt",
+      "published": "Mon, 21 Sep 2026 08:54:26 -0000",
+      "published_display": "21.09.2026 · 08:54 Uhr"
     },
     {
       "title": "Rüstungsindustrie: Rüstungsbranche kann Jobverluste laut Studie nicht ausgleichen",
@@ -33,94 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/21/schweineanhaenger-stuerzt-um-feuerwehr-faengt-tiere-ein",
       "published": "Mon, 21 Sep 2026 08:50:15 -0000",
       "published_display": "21.09.2026 · 08:50 Uhr"
-    },
-    {
-      "title": "«Plattform Privatheit»: Forscher: Datenschutz bremst Innovation nicht aus",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/studie-datenschutz-macht-europa-wettbewerbsfaehiger-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/17/studie-datenschutz-macht-europa-wettbewerbsfaehiger",
-      "published": "Mon, 21 Sep 2026 08:49:29 -0000",
-      "published_display": "21.09.2026 · 08:49 Uhr"
-    },
-    {
-      "title": "Berlin-Wahl: Giffey spricht von «desaströsem Gesamtergebnis» für SPD",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/giffey-spricht-von-desastroesem-gesamtergebnis-fuer-spd-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/giffey-spricht-von-desastroesem-gesamtergebnis-fuer-spd",
-      "published": "Mon, 21 Sep 2026 08:49:11 -0000",
-      "published_display": "21.09.2026 · 08:49 Uhr"
-    },
-    {
-      "title": "100.000 Euro Schaden: Wagen rutscht nach Auffahrunfall von Autotransporter",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/wagen-rutscht-nach-auffahrunfall-von-autotransporter-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/wagen-rutscht-nach-auffahrunfall-von-autotransporter",
-      "published": "Mon, 21 Sep 2026 08:45:24 -0000",
-      "published_display": "21.09.2026 · 08:45 Uhr"
-    },
-    {
-      "title": "Champions League: Franziska Kett: Vom Haarzupfer zu Bayerns Hoffnung auf links",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/franziska-kett-vom-haarzupfer-zu-bayerns-hoffnung-auf-links-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/franziska-kett-vom-haarzupfer-zu-bayerns-hoffnung-auf-links",
-      "published": "Mon, 21 Sep 2026 08:45:10 -0000",
-      "published_display": "21.09.2026 · 08:45 Uhr"
-    },
-    {
-      "title": "Umfrage für Deutsche Bank: «Das Kapital steht vor der Tür»: Europa muss handeln",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/das-kapital-steht-vor-der-tuer-europa-muss-handeln-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/das-kapital-steht-vor-der-tuer-europa-muss-handeln",
-      "published": "Mon, 21 Sep 2026 08:44:47 -0000",
-      "published_display": "21.09.2026 · 08:44 Uhr"
-    },
-    {
-      "title": "Russland: Putins Partei Geeintes Russland gewinnt Parlamentswahl",
-      "summary": "Die Kremlpartei Geeintes Russland von Präsident Wladimir Putin hat wie zu erwarten die Parlamentswahlen gewonnen. Die Wahl in Russland gilt als unfrei und undemokratisch.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/parlamentswahl-russland-geeintes-russland-jabloko-ella-pamfilowa-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/parlamentswahl-russland-geeintes-russland-jabloko-ella-pamfilowa",
-      "published": "Mon, 21 Sep 2026 08:43:39 -0000",
-      "published_display": "21.09.2026 · 08:43 Uhr"
-    },
-    {
-      "title": "Model-Familie: Cindy Crawfords Sohn Presley Gerber mit 27 Jahren gestorben",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/cindy-crawfords-sohn-presley-gerber-mit-27-jahren-gestorben-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/cindy-crawfords-sohn-presley-gerber-mit-27-jahren-gestorben",
-      "published": "Mon, 21 Sep 2026 08:41:56 -0000",
-      "published_display": "21.09.2026 · 08:41 Uhr"
-    },
-    {
-      "title": "Falschaussage zur Maut: Prozess gegen Andreas Scheuer wegen Falschaussage hat begonnen",
-      "summary": "Der frühere Verkehrsminister Scheuer soll vor dem Maut-Untersuchungsausschuss gelogen haben. Rund sieben Jahre nach dem Scheitern der Maut hat der Prozess begonnen.",
-      "image": "https://img.zeit.de/mobilitaet/2026-09/andreas-scheuer-csu-prozess-falschaussage-pkw-maut-gerhard-schulz-foto-1/original__640x360",
-      "link": "https://www.zeit.de/mobilitaet/2026-09/andreas-scheuer-csu-prozess-falschaussage-pkw-maut-gerhard-schulz",
-      "published": "Mon, 21 Sep 2026 08:41:26 -0000",
-      "published_display": "21.09.2026 · 08:41 Uhr"
-    },
-    {
-      "title": "Wahl in Russland: Kremlpartei führt Putins Kriegs-Duma mit Zweidrittelmehrheit",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/kremlpartei-fuehrt-putins-kriegs-duma-mit-zweidrittelmehrheit-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/kremlpartei-fuehrt-putins-kriegs-duma-mit-zweidrittelmehrheit",
-      "published": "Mon, 21 Sep 2026 08:39:53 -0000",
-      "published_display": "21.09.2026 · 08:39 Uhr"
-    },
-    {
-      "title": "Arbeitsschutz: 32 schwere Arbeitsunfälle auf Baustellen - Arbeitsschutztag",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/32-schwere-arbeitsunfaelle-auf-baustellen-arbeitsschutztag-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/32-schwere-arbeitsunfaelle-auf-baustellen-arbeitsschutztag",
-      "published": "Mon, 21 Sep 2026 08:27:51 -0000",
-      "published_display": "21.09.2026 · 08:27 Uhr"
-    },
-    {
-      "title": "Industrie-Arbeitsmarkt: IAB-Studie: Rüstung kann Jobverluste nicht ausgleichen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/iab-studie-ruestung-kann-jobverluste-nicht-ausgleichen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/iab-studie-ruestung-kann-jobverluste-nicht-ausgleichen",
-      "published": "Mon, 21 Sep 2026 08:26:21 -0000",
-      "published_display": "21.09.2026 · 08:26 Uhr"
     }
   ]
 }
