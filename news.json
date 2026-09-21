@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-21T23:28:30.914006+00:00",
+  "updated": "2026-09-21T23:42:22.165622+00:00",
   "items": [
+    {
+      "title": "Technische Störung: Störung an mehreren US-Flughäfen wieder behoben",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/flugstopp-an-airports-der-us-ostkueste-angeordnet-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/flugstopp-an-airports-der-us-ostkueste-angeordnet",
+      "published": "Mon, 21 Sep 2026 23:38:51 -0000",
+      "published_display": "21.09.2026 · 23:38 Uhr"
+    },
+    {
+      "title": "Antje Kunstmann: Verlegerin Antje Kunstmann mit 77 Jahren gestorben",
+      "summary": "Mit Büchern wie »Der NSU-Prozess. Das Protokoll« hat der Verlag Antje Kunstmann Debatten angestoßen. Nun ist seine Gründerin und Programmchefin gestorben.",
+      "image": "https://img.zeit.de/feuilleton/literatur/2026-09/verlegerin-antje-kunstmann-bild/original__640x360",
+      "link": "https://www.zeit.de/feuilleton/2026-09/antje-kunstmann-verlegerin-tod",
+      "published": "Mon, 21 Sep 2026 23:30:49 -0000",
+      "published_display": "21.09.2026 · 23:30 Uhr"
+    },
     {
       "title": "Ukrainekrieg: EU erzielt vorerst keine Einigung zu Sanktionen gegen Russland",
       "summary": "Die EU steht unter Zeitdruck, ihre in der Nacht zu Mittwoch auslaufenden Sanktionen gegen Russland zu verlängern. Streitpunkt ist eine Aufhebung für zwei Oligarchen.",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/sport/2026-09/gianni-infantino-fifa-reformen-krise-brief",
       "published": "Mon, 21 Sep 2026 21:55:03 -0000",
       "published_display": "21.09.2026 · 21:55 Uhr"
-    },
-    {
-      "title": "KI-Sicherheit: Merz und 17 Staatschefs unterzeichnen Aufruf für KI-Sicherheitsregeln",
-      "summary": "KI müsse »unter menschlicher Leitung, Aufsicht und Kontrolle« bleiben, fordern Staats- und Regierungschefs. Sie wollen unabhängige Prüfungen für Unternehmen einführen.",
-      "image": "https://img.zeit.de/politik/2026-09/ifa-berlin-2026-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/2026-09/un-kuenstliche-intelligenz-sicherheit-friedrich-merz-alexander-stubb-jonas-gaahr-store",
-      "published": "Mon, 21 Sep 2026 21:52:33 -0000",
-      "published_display": "21.09.2026 · 21:52 Uhr"
-    },
-    {
-      "title": "Pressefreiheit in den USA: Rauswurf aus Weißem Haus: Trumps Streit mit Medien eskaliert",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/drei-us-medien-planen-klage-gegen-ausschluss-aus-weissem-haus-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/drei-us-medien-planen-klage-gegen-ausschluss-aus-weissem-haus",
-      "published": "Mon, 21 Sep 2026 21:46:48 -0000",
-      "published_display": "21.09.2026 · 21:46 Uhr"
     }
   ]
 }
