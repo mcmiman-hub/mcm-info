@@ -1,9 +1,41 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-21T03:45:59.035735+00:00",
+  "updated": "2026-09-21T03:56:57.447319+00:00",
   "items": [
     {
-      "title": "Künstliche Intelligenz: USA schlägt China Dialogforum für KI-Vorfälle vor",
+      "title": "Wahlthemen: Einmal verloren, einmal rausgeflogen – was folgt für Merz?",
+      "summary": "Die CDU schafft es nicht in den Landtag in Mecklenburg-Vorpommern: Was bedeutet das für den Kanzler? Und: Warum Elif Eralp und Manuela Schwesig punkten konnten.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/wahlthemen-berlin-mecklenburg-vorpommern-spd-cdu-nachrichtenpodcast-bild-2/original__640x360",
+      "link": "https://www.zeit.de/politik/2026-09/wahlthemen-berlin-mecklenburg-vorpommern-spd-cdu-nachrichtenpodcast",
+      "published": "Mon, 21 Sep 2026 03:56:08 -0000",
+      "published_display": "21.09.2026 · 03:56 Uhr"
+    },
+    {
+      "title": "Wetter: Wind und Regen in Berlin und Brandenburg",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/wind-und-regen-in-berlin-und-brandenburg-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/wind-und-regen-in-berlin-und-brandenburg",
+      "published": "Mon, 21 Sep 2026 03:52:08 -0000",
+      "published_display": "21.09.2026 · 03:52 Uhr"
+    },
+    {
+      "title": "«KölnRheinRuhr»: Reichen Rekorde? NRW und der Olympia-Anlauf mit Fragezeichen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/reichen-rekorde-nrw-und-der-olympia-anlauf-mit-fragezeichen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/reichen-rekorde-nrw-und-der-olympia-anlauf-mit-fragezeichen",
+      "published": "Mon, 21 Sep 2026 03:45:05 -0000",
+      "published_display": "21.09.2026 · 03:45 Uhr"
+    },
+    {
+      "title": "Drohnen und Scharfschützen: Trumps neuer Triumphbogen soll als Militärstützpunkt dienen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/trumps-neuer-triumphbogen-soll-als-militaerstuetzpunkt-dienen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/trumps-neuer-triumphbogen-soll-als-militaerstuetzpunkt-dienen",
+      "published": "Mon, 21 Sep 2026 03:43:58 -0000",
+      "published_display": "21.09.2026 · 03:43 Uhr"
+    },
+    {
+      "title": "Künstliche Intelligenz: USA schlagen China Dialogforum für KI-Vorfälle vor",
       "summary": "Der US-Finanzminister schlägt eine engere Zusammenarbeit mit China bei Vorfällen rund um künstliche Intelligenz vor. Geplant seien gegenseitige Benachrichtigungen.",
       "image": "https://img.zeit.de/politik/ausland/2026-09/us-treasury-s-bessent-and-china-s-vice-premier-he-to-launch-talks-on-ai-trade-and-critical-minerals-bild/original__640x360",
       "link": "https://www.zeit.de/politik/ausland/2026-09/scott-bessent-he-lifeng-usa-china-ki-dialog-trump-xi-gipfel",
@@ -88,38 +120,6 @@
       "image": "https://img.zeit.de/news/2026-09/21/motorrad-bei-unfall-entzweigerissen-fahrer-schwer-verletzt-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-09/21/motorrad-bei-unfall-entzweigerissen-fahrer-schwer-verletzt",
       "published": "Mon, 21 Sep 2026 03:00:42 -0000",
-      "published_display": "21.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Sorge um die Finanzstabilität: Die Staatsverschuldung steigt rund um den Globus",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/die-staatsverschuldung-steigt-rund-um-den-globus-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/die-staatsverschuldung-steigt-rund-um-den-globus",
-      "published": "Mon, 21 Sep 2026 03:00:34 -0000",
-      "published_display": "21.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Unfälle: Tödlich verunglückt: 23-Jähriger prallt mit Auto gegen Baum",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/toedlich-verunglueckt-23-jaehriger-prallt-mit-auto-gegen-baum-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/toedlich-verunglueckt-23-jaehriger-prallt-mit-auto-gegen-baum",
-      "published": "Mon, 21 Sep 2026 03:00:34 -0000",
-      "published_display": "21.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Fest in Bremen: Kraftakt für Tag der Deutschen Einheit - was aufgebaut wird",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/kraftakt-fuer-tag-der-deutschen-einheit-was-aufgebaut-wird-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/kraftakt-fuer-tag-der-deutschen-einheit-was-aufgebaut-wird",
-      "published": "Mon, 21 Sep 2026 03:00:20 -0000",
-      "published_display": "21.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Wein: Letzte Züge der Riesling-Ernte in Rheinland-Pfalz",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/letzte-zuege-der-riesling-ernte-in-rheinland-pfalz-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/letzte-zuege-der-riesling-ernte-in-rheinland-pfalz",
-      "published": "Mon, 21 Sep 2026 03:00:19 -0000",
       "published_display": "21.09.2026 · 03:00 Uhr"
     }
   ]
