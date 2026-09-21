@@ -1,7 +1,111 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-21T13:30:00.926683+00:00",
+  "updated": "2026-09-21T13:44:26.235046+00:00",
   "items": [
+    {
+      "title": "Gewerkschaft: IG Metall fordert EU-Subventionen für Autoindustrie",
+      "summary": "Die Politik tut nach Ansicht der IG Metall zu wenig für die Autoindustrie. Bei ihrem Aktionstag kritisiert die Gewerkschaft etwa fehlende EU-Zölle auf chinesische Autos.",
+      "image": "https://img.zeit.de/wirtschaft/2026-09/ig-metall-aktionstag-autoindustrie-china-konkurrenz-vw-foto-1/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/2026-09/ig-metall-aktionstag-autoindustrie-china-konkurrenz-vw",
+      "published": "Mon, 21 Sep 2026 13:42:11 -0000",
+      "published_display": "21.09.2026 · 13:42 Uhr"
+    },
+    {
+      "title": "75. Verhandlungstag: Ex-Verteidiger als Zeuge: Christina Block ist nicht schuldig",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/block-prozess-ex-anwalt-von-christina-block-soll-aussagen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/block-prozess-ex-anwalt-von-christina-block-soll-aussagen",
+      "published": "Mon, 21 Sep 2026 13:40:06 -0000",
+      "published_display": "21.09.2026 · 13:40 Uhr"
+    },
+    {
+      "title": "Landgericht Verden: Fatale Fehler einer Hebamme - Prozess um Tod eines Babys",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/tod-eines-ungeborenen-babys-hebamme-erneut-vor-gericht-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/tod-eines-ungeborenen-babys-hebamme-erneut-vor-gericht",
+      "published": "Mon, 21 Sep 2026 13:39:54 -0000",
+      "published_display": "21.09.2026 · 13:39 Uhr"
+    },
+    {
+      "title": "Autoland bald abgebrannt?: IG Metall mobilisiert rund 175.000 Auto-Beschäftigte",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/ig-metall-ruft-automobil-beschaeftigte-bundesweit-zum-protest-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/ig-metall-ruft-automobil-beschaeftigte-bundesweit-zum-protest",
+      "published": "Mon, 21 Sep 2026 13:39:42 -0000",
+      "published_display": "21.09.2026 · 13:39 Uhr"
+    },
+    {
+      "title": "CDU-Wahldebakel in MV: CDU-MV nach Wahldesaster auf Tauchstation",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/cdu-mv-nach-wahldesaster-auf-tauchstation-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/cdu-mv-nach-wahldesaster-auf-tauchstation",
+      "published": "Mon, 21 Sep 2026 13:37:55 -0000",
+      "published_display": "21.09.2026 · 13:37 Uhr"
+    },
+    {
+      "title": "Vier Verletzte im Wagen: Motorradfahrer stirbt bei Frontalzusammenstoß mit Auto",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/motorradfahrer-stirbt-bei-frontalzusammenstoss-mit-auto-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/motorradfahrer-stirbt-bei-frontalzusammenstoss-mit-auto",
+      "published": "Mon, 21 Sep 2026 13:36:04 -0000",
+      "published_display": "21.09.2026 · 13:36 Uhr"
+    },
+    {
+      "title": "Nach den Landtagswahlen: Viele Argumente gegen ein «Weiter so»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/gruenen-spitze-afd-ergebnis-darf-nicht-gleichgueltig-lassen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/gruenen-spitze-afd-ergebnis-darf-nicht-gleichgueltig-lassen",
+      "published": "Mon, 21 Sep 2026 13:35:32 -0000",
+      "published_display": "21.09.2026 · 13:35 Uhr"
+    },
+    {
+      "title": "Landtagswahl MV: Linke-Landeschef über SPD: «Die sind auf uns angewiesen»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/linke-landeschef-ueber-spd-die-sind-auf-uns-angewiesen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/linke-landeschef-ueber-spd-die-sind-auf-uns-angewiesen",
+      "published": "Mon, 21 Sep 2026 13:34:00 -0000",
+      "published_display": "21.09.2026 · 13:34 Uhr"
+    },
+    {
+      "title": "Rechtsextreme Referendarin: OVG: Kein Vorbereitungsdienst für rechtsextreme Referendarin",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/ovg-kein-vorbereitungsdienst-fuer-rechtsextreme-referendarin-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/ovg-kein-vorbereitungsdienst-fuer-rechtsextreme-referendarin",
+      "published": "Mon, 21 Sep 2026 13:32:50 -0000",
+      "published_display": "21.09.2026 · 13:32 Uhr"
+    },
+    {
+      "title": "Vor DOSB-Entscheidung: Wahlsiegerin Eralp glaubt nicht an Berlins Olympia-Chancen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/wahlsiegerin-eralp-glaubt-nicht-an-berlins-olympia-chancen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/wahlsiegerin-eralp-glaubt-nicht-an-berlins-olympia-chancen",
+      "published": "Mon, 21 Sep 2026 13:32:25 -0000",
+      "published_display": "21.09.2026 · 13:32 Uhr"
+    },
+    {
+      "title": "Arbeitsunfall: Zwei Mitarbeiter nach Verpuffung bei BASF verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/zwei-mitarbeiter-nach-verpuffung-bei-basf-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/zwei-mitarbeiter-nach-verpuffung-bei-basf-verletzt",
+      "published": "Mon, 21 Sep 2026 13:31:11 -0000",
+      "published_display": "21.09.2026 · 13:31 Uhr"
+    },
+    {
+      "title": "Abgeordnetenhauswahl: Wahl: Weiter Ost-West-Unterschiede - ebenso Außen und Innen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/wahl-weiter-ost-west-unterschiede-ebenso-aussen-und-innen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/wahl-weiter-ost-west-unterschiede-ebenso-aussen-und-innen",
+      "published": "Mon, 21 Sep 2026 13:29:51 -0000",
+      "published_display": "21.09.2026 · 13:29 Uhr"
+    },
+    {
+      "title": "Vor DOSB-Entscheidung: Berlins Olympia-Chance schwindet: «Sehe keinen Vorteil»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/das-bedeutet-das-wahlergebnis-fuer-berlins-olympia-bewerbung-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/das-bedeutet-das-wahlergebnis-fuer-berlins-olympia-bewerbung",
+      "published": "Mon, 21 Sep 2026 13:28:22 -0000",
+      "published_display": "21.09.2026 · 13:28 Uhr"
+    },
     {
       "title": "Gewalttat im November 2024: Doppelmord in Schackendorf - Urteil rechtskräftig",
       "summary": "",
@@ -17,110 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/21/gruene-linke-muss-problematischem-teil-grenzen-setzen",
       "published": "Mon, 21 Sep 2026 13:27:13 -0000",
       "published_display": "21.09.2026 · 13:27 Uhr"
-    },
-    {
-      "title": "Überfall: Räuber brechen in Wohnung ein und fesseln Bewohner",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/raeuber-brechen-in-wohnung-ein-und-fesseln-bewohner-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/raeuber-brechen-in-wohnung-ein-und-fesseln-bewohner",
-      "published": "Mon, 21 Sep 2026 13:25:53 -0000",
-      "published_display": "21.09.2026 · 13:25 Uhr"
-    },
-    {
-      "title": "Parteien: Scharrenbach: «Entscheidungen korrigieren»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/scharrenbach-entscheidungen-korrigieren-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/scharrenbach-entscheidungen-korrigieren",
-      "published": "Mon, 21 Sep 2026 13:25:14 -0000",
-      "published_display": "21.09.2026 · 13:25 Uhr"
-    },
-    {
-      "title": "Nach den Landtagswahlen: Grüne blicken mit Ärger und Sorge auf Merz und die CDU",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/gruene-blicken-mit-aerger-und-sorge-auf-merz-und-die-cdu-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/gruene-blicken-mit-aerger-und-sorge-auf-merz-und-die-cdu",
-      "published": "Mon, 21 Sep 2026 13:25:07 -0000",
-      "published_display": "21.09.2026 · 13:25 Uhr"
-    },
-    {
-      "title": "Pressefreiheit in den USA: Rauswurf aus Weißem Haus: CNN, «Politico» und MS NOW klagen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/drei-us-medien-planen-klage-gegen-ausschluss-aus-weissem-haus-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/drei-us-medien-planen-klage-gegen-ausschluss-aus-weissem-haus",
-      "published": "Mon, 21 Sep 2026 13:24:47 -0000",
-      "published_display": "21.09.2026 · 13:24 Uhr"
-    },
-    {
-      "title": "Schulunterricht: Reform der Lehrerausbildung - Realitätscheck und Praxisjahr",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/bayern-reformiert-lehrerausbildung-mehr-praxis-an-schulen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/bayern-reformiert-lehrerausbildung-mehr-praxis-an-schulen",
-      "published": "Mon, 21 Sep 2026 13:24:17 -0000",
-      "published_display": "21.09.2026 · 13:24 Uhr"
-    },
-    {
-      "title": "Einsatz gestört: Betrunkener filmt und beleidigt Retter – Polizei greift ein",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/betrunkener-filmt-und-beleidigt-retter-polizei-greift-ein-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/betrunkener-filmt-und-beleidigt-retter-polizei-greift-ein",
-      "published": "Mon, 21 Sep 2026 13:24:06 -0000",
-      "published_display": "21.09.2026 · 13:24 Uhr"
-    },
-    {
-      "title": "Ursache noch unklar: Einsturz von Wolfsburger Kita – «Gott sei Dank» am Sonntag",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/einsturz-von-wolfsburger-kita-gott-sei-dank-am-sonntag-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/einsturz-von-wolfsburger-kita-gott-sei-dank-am-sonntag",
-      "published": "Mon, 21 Sep 2026 13:22:55 -0000",
-      "published_display": "21.09.2026 · 13:22 Uhr"
-    },
-    {
-      "title": "Drogenschmuggel: 2,1 Tonnen Kokain auf Jacht sichergestellt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/2-1-tonnen-kokain-auf-jacht-sichergestellt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/2-1-tonnen-kokain-auf-jacht-sichergestellt",
-      "published": "Mon, 21 Sep 2026 13:22:43 -0000",
-      "published_display": "21.09.2026 · 13:22 Uhr"
-    },
-    {
-      "title": "Leute: Claudia Effenberg an schwerer Lungenentzündung erkrankt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/claudia-effenberg-an-schwerer-lungenentzuendung-erkrankt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/claudia-effenberg-an-schwerer-lungenentzuendung-erkrankt",
-      "published": "Mon, 21 Sep 2026 13:21:04 -0000",
-      "published_display": "21.09.2026 · 13:21 Uhr"
-    },
-    {
-      "title": "Antisemitismus in Berlin: Merz nennt Antisemitismus in Berlin einen Schandfleck",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/merz-nennt-antisemitismus-in-berlin-einen-schandfleck-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/merz-nennt-antisemitismus-in-berlin-einen-schandfleck",
-      "published": "Mon, 21 Sep 2026 13:19:13 -0000",
-      "published_display": "21.09.2026 · 13:19 Uhr"
-    },
-    {
-      "title": "Landtagswahl MV: Schult beansprucht erneut Fraktionsvorsitz im Landtag",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/schult-beansprucht-erneut-fraktionsvorsitz-im-landtag-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/schult-beansprucht-erneut-fraktionsvorsitz-im-landtag",
-      "published": "Mon, 21 Sep 2026 13:18:43 -0000",
-      "published_display": "21.09.2026 · 13:18 Uhr"
-    },
-    {
-      "title": "Die Linke in Berlin: Auch Linken-Wähler wollen verstanden werden",
-      "summary": "Viele kritisieren die Wahl der Linken in Berlin als antikapitalistischen und antisemitischen Betriebsunfall. Doch man sollte ihre Wähler so ernst nehmen wie die der AfD.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/elif-eralp-linke-berlin-22/original__640x360",
-      "link": "https://www.zeit.de/feuilleton/2026-09/linke-berlin-abgeordnetenhauswahl-afd-antisemitismus",
-      "published": "Mon, 21 Sep 2026 13:16:09 -0000",
-      "published_display": "21.09.2026 · 13:16 Uhr"
-    },
-    {
-      "title": "Abgeordnetenhauswahl: Das bedeutet die Berlin-Wahl für Brandenburg",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/das-bedeutet-die-berlin-wahl-fuer-brandenburg-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/das-bedeutet-die-berlin-wahl-fuer-brandenburg",
-      "published": "Mon, 21 Sep 2026 13:15:48 -0000",
-      "published_display": "21.09.2026 · 13:15 Uhr"
     }
   ]
 }
