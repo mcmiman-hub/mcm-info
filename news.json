@@ -1,7 +1,39 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-21T16:44:26.794049+00:00",
+  "updated": "2026-09-21T16:56:08.726130+00:00",
   "items": [
+    {
+      "title": "Krieg gegen die Ukraine: EU-Länder streichen zwei russische Oligarchen von Sanktionsliste",
+      "summary": "Die EU verlängert ihre Russland-Sanktionen um drei Jahre – zwei Oligarchen werden von der Liste gestrichen. Am Dienstag trifft sich Selenskyj mit Trump. Das Liveblog",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/ukraine-krieg-news-liveblog-bild-7/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "published": "Mon, 21 Sep 2026 16:54:55 -0000",
+      "published_display": "21.09.2026 · 16:54 Uhr"
+    },
+    {
+      "title": "Pressefreiheit in den USA: Rauswurf aus Weißem Haus: Trumps Streit mit Medien eskaliert",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/drei-us-medien-planen-klage-gegen-ausschluss-aus-weissem-haus-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/drei-us-medien-planen-klage-gegen-ausschluss-aus-weissem-haus",
+      "published": "Mon, 21 Sep 2026 16:51:04 -0000",
+      "published_display": "21.09.2026 · 16:51 Uhr"
+    },
+    {
+      "title": "Nach der Wahl in Berlin: Sondierungen in Berlin könnten nächste Woche beginnen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/sondierungen-in-berlin-koennten-naechste-woche-beginnen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/sondierungen-in-berlin-koennten-naechste-woche-beginnen",
+      "published": "Mon, 21 Sep 2026 16:49:32 -0000",
+      "published_display": "21.09.2026 · 16:49 Uhr"
+    },
+    {
+      "title": "Nach den Landtagswahlen: Umfrage: Nur ein Drittel sieht CDU noch als Volkspartei",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/umfrage-nur-ein-drittel-sieht-cdu-noch-als-volkspartei-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/umfrage-nur-ein-drittel-sieht-cdu-noch-als-volkspartei",
+      "published": "Mon, 21 Sep 2026 16:46:25 -0000",
+      "published_display": "21.09.2026 · 16:46 Uhr"
+    },
     {
       "title": "Tödlicher Unfall: 40-jähriger Motorradfahrer stirbt bei Frontalcrash",
       "summary": "",
@@ -89,38 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/21/fanta-vier-eroeffnet-in-wolfsburg-roland-kaiser-kommt-auch",
       "published": "Mon, 21 Sep 2026 15:47:12 -0000",
       "published_display": "21.09.2026 · 15:47 Uhr"
-    },
-    {
-      "title": "Landtagswahlen: Jetzt bloß nicht zurück zur Tagesordnung",
-      "summary": "Nach den Landtagswahlen droht die Öffentlichkeit in ihre gewohnte Debatten-Routine zurückzufallen. Dabei ist gerade nichts mehr normal.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/landtagswahlen-mecklenburg-vorpommern-berlin/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/landtagswahlen-mecklenburg-vorpommern-berlin-ergebnisse-regierung",
-      "published": "Mon, 21 Sep 2026 15:44:22 -0000",
-      "published_display": "21.09.2026 · 15:44 Uhr"
-    },
-    {
-      "title": "Polizisten angegriffen: Illegales Tuning-Treffen: Polizei gründet Ermittlungsgruppe",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/illegales-tuning-treffen-polizei-gruendet-ermittlungsgruppe-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/illegales-tuning-treffen-polizei-gruendet-ermittlungsgruppe",
-      "published": "Mon, 21 Sep 2026 15:43:27 -0000",
-      "published_display": "21.09.2026 · 15:43 Uhr"
-    },
-    {
-      "title": "Mögliche Koalition: Rehlinger öffnet Tür zur Linken – unter einer Bedingung",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/rehlinger-oeffnet-tuer-zur-linken-unter-einer-bedingung-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/rehlinger-oeffnet-tuer-zur-linken-unter-einer-bedingung",
-      "published": "Mon, 21 Sep 2026 15:42:54 -0000",
-      "published_display": "21.09.2026 · 15:42 Uhr"
-    },
-    {
-      "title": "Berliner SPD: Krach: Irritiert über Besuch von Clan-Oberhaupt bei Linken",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/krach-irritiert-ueber-besuch-von-clan-oberhaupt-bei-linken-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/krach-irritiert-ueber-besuch-von-clan-oberhaupt-bei-linken",
-      "published": "Mon, 21 Sep 2026 15:41:20 -0000",
-      "published_display": "21.09.2026 · 15:41 Uhr"
     }
   ]
 }
