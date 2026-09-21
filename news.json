@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-21T02:44:35.885435+00:00",
+  "updated": "2026-09-21T02:56:11.022253+00:00",
   "items": [
+    {
+      "title": "Landtagswahlen: CDU fliegt im Nordosten aus Landtag – Linke siegt in Berlin",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/cdu-im-nordosten-raus-aus-landtag-linke-gewinnt-in-berlin-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/cdu-im-nordosten-raus-aus-landtag-linke-gewinnt-in-berlin",
+      "published": "Mon, 21 Sep 2026 02:44:04 -0000",
+      "published_display": "21.09.2026 · 02:44 Uhr"
+    },
     {
       "title": "Abgeordnetenhauswahl: Regierungswechsel in Berlin – Linke siegt klar vor der CDU",
       "summary": "",
@@ -27,7 +35,7 @@
       "published_display": "21.09.2026 · 02:30 Uhr"
     },
     {
-      "title": "Pressespiegel: »Versagen« von Merz – Schwesig als »Stütze« gegen Rechts",
+      "title": "Pressespiegel: »Versagen« von Merz – Schwesig als »Stütze« gegen rechts",
       "summary": "Die Wahlen in Berlin und Mecklenburg-Vorpommern werden auch im Ausland aufmerksam verfolgt. Europas Presse lobt Schwesig – mit Merz geht sie dagegen hart ins Gericht.",
       "image": "https://img.zeit.de/politik/deutschland/2026-09/wahlen-aus-bundessicht-cdu-bild-2/original__640x360",
       "link": "https://www.zeit.de/politik/deutschland/2026-09/cdu-niederlagen-friedrich-merz-berlin-mecklenburg-vorpommern-manuela-schwesig",
@@ -111,14 +119,6 @@
       "summary": "",
       "image": "https://img.zeit.de/news/2026-09/21/beschaeftigte-der-autoindustrie-im-suedwesten-protestieren-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-09/21/beschaeftigte-der-autoindustrie-im-suedwesten-protestieren",
-      "published": "Mon, 21 Sep 2026 02:00:10 -0000",
-      "published_display": "21.09.2026 · 02:00 Uhr"
-    },
-    {
-      "title": "Verteidigung: Angst vor Moskau - Nato testet Drohnen-Netzwerk in Wiesbaden",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/angst-vor-moskau-nato-testet-drohnen-netzwerk-in-wiesbaden-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/angst-vor-moskau-nato-testet-drohnen-netzwerk-in-wiesbaden",
       "published": "Mon, 21 Sep 2026 02:00:10 -0000",
       "published_display": "21.09.2026 · 02:00 Uhr"
     }
