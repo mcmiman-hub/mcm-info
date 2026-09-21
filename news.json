@@ -1,7 +1,55 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-21T05:29:56.502892+00:00",
+  "updated": "2026-09-21T05:44:04.337856+00:00",
   "items": [
+    {
+      "title": "Berlin-Wahl: Krach: Ermittlungen waren sicher «kein Vorteil»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/krach-ermittlungen-waren-sicher-kein-vorteil-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/krach-ermittlungen-waren-sicher-kein-vorteil",
+      "published": "Mon, 21 Sep 2026 05:39:11 -0000",
+      "published_display": "21.09.2026 · 05:39 Uhr"
+    },
+    {
+      "title": "Wahlen: SPD: Ostdeutsche Perspektiven in Reformdebatte einbeziehen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/spd-ostdeutsche-perspektiven-in-reformdebatte-einbeziehen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/spd-ostdeutsche-perspektiven-in-reformdebatte-einbeziehen",
+      "published": "Mon, 21 Sep 2026 05:35:51 -0000",
+      "published_display": "21.09.2026 · 05:35 Uhr"
+    },
+    {
+      "title": "Landtagswahl in MV: CDU-Politiker Rehberg: «Ursache ist die Berliner Politik»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/cdu-politiker-rehberg-ursache-ist-die-berliner-politik-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/cdu-politiker-rehberg-ursache-ist-die-berliner-politik",
+      "published": "Mon, 21 Sep 2026 05:33:38 -0000",
+      "published_display": "21.09.2026 · 05:33 Uhr"
+    },
+    {
+      "title": "Claudia Roth: »Plötzlich hatte ich keine Eltern mehr«",
+      "summary": "Für Claudia Roth war ihre Mutter ihre Heimat. Seit sie gestorben ist, trägt die Grünen-Politikerin deren Ring. Er helfe ihr gerade jetzt, wenn sie nicht mehr weiterwisse.",
+      "image": "https://img.zeit.de/2026/40/claudia-roth-ueber-den-ring-ihrer-mutter-bild-2/original__640x360",
+      "link": "https://www.zeit.de/2026/40/claudia-roth-goldener-ring-mutter-erinnerung",
+      "published": "Mon, 21 Sep 2026 05:30:37 -0000",
+      "published_display": "21.09.2026 · 05:30 Uhr"
+    },
+    {
+      "title": "Galette mit Zwetschgen und Feigen: Je schiefer, desto schöner",
+      "summary": "Wer beim Backen die Präzision fürchtet, wird diese Galette lieben: Einfach einen Teig mit Obst nach Belieben beladen, umklappen, fertig. So geht perfekt unperfekt.",
+      "image": "https://img.zeit.de/zeit-magazin/wochenmarkt/2026-09/galette-mit-zwetschgen-und-feigen-bild/original__640x360",
+      "link": "https://www.zeit.de/zeit-magazin/wochenmarkt/2026-09/galette-zwetschgen-feigen-rezept-wochenmarkt",
+      "published": "Mon, 21 Sep 2026 05:30:11 -0000",
+      "published_display": "21.09.2026 · 05:30 Uhr"
+    },
+    {
+      "title": "Oliver Masucci: »Es ist sehr wichtig, gut aussehend ins Grab zu steigen«",
+      "summary": "Der Schauspieler Oliver Masucci verrät, was er gern früher im Leben gewusst hätte. Zum Beispiel, was ihm der Regisseur Oskar Roehler über das Verliebtsein erzählt hat.",
+      "image": "https://img.zeit.de/zeit-magazin/2026/40/es-ist-sehr-wichtig-gut-aussehend-ins-grab-zu-steigen-bild-1/original__640x360",
+      "link": "https://www.zeit.de/zeit-magazin/2026/40/oliver-masucci-ratschlaege-leben",
+      "published": "Mon, 21 Sep 2026 05:29:32 -0000",
+      "published_display": "21.09.2026 · 05:29 Uhr"
+    },
     {
       "title": "Vorfall in Austin: Beamte der US-Einwanderungsbehörde ICE schießen Mann an",
       "summary": "",
@@ -73,54 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/21/holetschek-fordert-tempo-bei-reformen-nach-cdu-wahldebakel",
       "published": "Mon, 21 Sep 2026 05:03:53 -0000",
       "published_display": "21.09.2026 · 05:03 Uhr"
-    },
-    {
-      "title": "»The Deportation Project«: Ein System, um sie alle zu finden",
-      "summary": "Das US-Heimatschutzministerium nutzt ein riesiges Überwachungssystem, um Migranten festzunehmen. Darüber möchte die Behörde die Öffentlichkeit im Dunkeln zu lassen.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/the-deportation-project-ice-ueberwachungssystem-migration-usa-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/the-deportation-project-ice-ueberwachungssystem-migration-usa",
-      "published": "Mon, 21 Sep 2026 05:03:19 -0000",
-      "published_display": "21.09.2026 · 05:03 Uhr"
-    },
-    {
-      "title": "The Deportation Project: Die USA als Vorbild für Europa?",
-      "summary": "Rückkehrverordnung, digitale Instrumente, Abschiebelager in Drittstaaten – die Migrationspläne der EU wirken, als habe man sich die US-Behörde ICE zum Vorbild genommen.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/deportation-project-ice-abschiebung-frontex-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/deportation-project-ice-abschiebung-frontex",
-      "published": "Mon, 21 Sep 2026 05:03:04 -0000",
-      "published_display": "21.09.2026 · 05:03 Uhr"
-    },
-    {
-      "title": "»The Deportation Project«: »Mom, wo bist du?« – »Sie sagen: in Ghana.«",
-      "summary": "US-Präsident Trump hat die Einwanderungsbehörde ICE zu einer Deportationsmaschine umgebaut. Abgeschobene landen an trostlosen Orten in Ländern, die sie nicht mal kennen.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/the-deportation-project-ice-einwanderungsbehoerde-abschiebung-donald-trump-bild-7/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/the-deportation-project-ice-einwanderungsbehoerde-abschiebung-donald-trump",
-      "published": "Mon, 21 Sep 2026 05:02:50 -0000",
-      "published_display": "21.09.2026 · 05:02 Uhr"
-    },
-    {
-      "title": "UN-Generaldebatte: Wadephul fordert mehr Anstrengungen zur Beendigung von Kriegen",
-      "summary": "Der Außenminister verlangt vor der UN-Generaldebatte mehr Engagement bei der Lösung von Konflikten. Russland solle zu ernsthaften Verhandlungen gebracht werden.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/un-generaldebatte-johann-wadephul-kriege-ukraine-nahost-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/un-generaldebatte-johann-wadephul-kriege-ukraine-nahost",
-      "published": "Mon, 21 Sep 2026 04:59:18 -0000",
-      "published_display": "21.09.2026 · 04:59 Uhr"
-    },
-    {
-      "title": "Wahlen: Linke setzt auf Berlin-Erfolg: Hoffnung für Leipzig 2027",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/linke-setzt-auf-berlin-erfolg-hoffnung-fuer-leipzig-2027-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/linke-setzt-auf-berlin-erfolg-hoffnung-fuer-leipzig-2027",
-      "published": "Mon, 21 Sep 2026 04:55:31 -0000",
-      "published_display": "21.09.2026 · 04:55 Uhr"
-    },
-    {
-      "title": "Landtagswahl in MV: Holm: Sieht nicht nach Regierungsbeteiligung für AfD aus",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/holm-sieht-nicht-nach-regierungsbeteiligung-fuer-afd-aus-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/holm-sieht-nicht-nach-regierungsbeteiligung-fuer-afd-aus",
-      "published": "Mon, 21 Sep 2026 04:51:48 -0000",
-      "published_display": "21.09.2026 · 04:51 Uhr"
     }
   ]
 }
