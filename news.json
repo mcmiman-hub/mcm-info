@@ -1,12 +1,28 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-21T16:31:37.335574+00:00",
+  "updated": "2026-09-21T16:44:26.794049+00:00",
   "items": [
+    {
+      "title": "Tödlicher Unfall: 40-jähriger Motorradfahrer stirbt bei Frontalcrash",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/40-jaehriger-motorradfahrer-stirbt-bei-frontalcrash-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/40-jaehriger-motorradfahrer-stirbt-bei-frontalcrash",
+      "published": "Mon, 21 Sep 2026 16:37:23 -0000",
+      "published_display": "21.09.2026 · 16:37 Uhr"
+    },
+    {
+      "title": "Nach der Wahl in Berlin: Linke will Berlin regieren und pocht auf Vergesellschaftung",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/linke-will-berlin-regieren-und-pocht-auf-vergesellschaftung-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/linke-will-berlin-regieren-und-pocht-auf-vergesellschaftung",
+      "published": "Mon, 21 Sep 2026 16:36:51 -0000",
+      "published_display": "21.09.2026 · 16:36 Uhr"
+    },
     {
       "title": "Mercedes-Benz: Mercedes kündigt mögliche Schließung von zwei Werken in Deutschland an",
       "summary": "Laut Produktionsvorstand von Mercedes müssen zwei Werke in Deutschland geschlossen werden, wenn die Kosten nicht sinken. Das Ziel sei jedoch, alle Werke zu erhalten.",
       "image": "https://img.zeit.de/wirtschaft/unternehmen/2026-09/mercedes-werksschliessung-michael-schiebe-kostensenkung-foto-1/original__640x360",
-      "link": "https://www.zeit.de/wirtschaft/unternehmen/2026-09/mercedes-werksschliessung-michael-schiebe-kostensenkung",
+      "link": "https://www.zeit.de/wirtschaft/unternehmen/2026-09/mercedes-werksschliessung-michael-schiebe-kostensenkung-gxe",
       "published": "Mon, 21 Sep 2026 16:27:55 -0000",
       "published_display": "21.09.2026 · 16:27 Uhr"
     },
@@ -14,7 +30,7 @@
       "title": "Pressefreiheit in den USA: Große US-Sender schränken Berichterstattung über Donald Trump ein",
       "summary": "Das Weiße Haus hat unliebsame Korrespondenten mit Hausverboten belegt. Die größten Sender des Landes zeigen sich solidarisch – darunter auch das Trump-nahe Fox News.",
       "image": "https://img.zeit.de/politik/ausland/2026-09/donald-trump-cnn-hausverbot-medien-weisses-haus-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/donald-trump-cnn-hausverbot-medien-weisses-haus",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/donald-trump-cnn-hausverbot-medien-weisses-haus-gxe",
       "published": "Mon, 21 Sep 2026 16:26:17 -0000",
       "published_display": "21.09.2026 · 16:26 Uhr"
     },
@@ -30,7 +46,7 @@
       "title": "Wahl in Berlin: Grüne fordern klare Distanzierung der Linken von Wahlparty-Gästen",
       "summary": "Felix Banaszak kritisiert den Besuch eines Clanchefs und eines Anti-Israel-Aktivisten bei den Linken. Eine Koalition mit seiner Partei gebe es nicht als »Blankoscheck«.",
       "image": "https://img.zeit.de/politik/deutschland/2026-09/berliner-gruenen-rot-gruen-rot-clan-linke-berlin-felix-banaszak-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/berliner-gruenen-rot-gruen-rot-clan-linke-berlin-felix-banaszak",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/berliner-gruenen-rot-gruen-rot-clan-linke-berlin-felix-banaszak-gxe",
       "published": "Mon, 21 Sep 2026 16:15:37 -0000",
       "published_display": "21.09.2026 · 16:15 Uhr"
     },
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/21/krach-irritiert-ueber-besuch-von-clan-oberhaupt-bei-linken",
       "published": "Mon, 21 Sep 2026 15:41:20 -0000",
       "published_display": "21.09.2026 · 15:41 Uhr"
-    },
-    {
-      "title": "Krankenversicherung: Holetschek an Kanzler: Über Vorschläge immer gut nachdenken!",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/holetschek-an-kanzler-ueber-vorschlaege-immer-gut-nachdenken-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/holetschek-an-kanzler-ueber-vorschlaege-immer-gut-nachdenken",
-      "published": "Mon, 21 Sep 2026 15:40:30 -0000",
-      "published_display": "21.09.2026 · 15:40 Uhr"
-    },
-    {
-      "title": "Besuch in Hilfseinrichtungen: Streeck sucht bundesweite Lösungen im Kampf gegen Drogen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/streeck-sucht-bundesweite-loesungen-im-kampf-gegen-drogen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/streeck-sucht-bundesweite-loesungen-im-kampf-gegen-drogen",
-      "published": "Mon, 21 Sep 2026 15:38:00 -0000",
-      "published_display": "21.09.2026 · 15:38 Uhr"
     }
   ]
 }
