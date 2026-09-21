@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-21T19:29:14.572779+00:00",
+  "updated": "2026-09-21T19:42:29.716155+00:00",
   "items": [
+    {
+      "title": "Handelsstreit: USA wollen Kalisalz aus Belarus kaufen",
+      "summary": "Die USA importieren Kali, einen wichtigen Bestandteil von Düngemittel, primär aus Kanada. Laut Donald Trump arbeitet seine Regierung an einem Handelsabkommen mit Belarus.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/kali-belarus-usa-kanada-handelsstreit-donald-trump-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/kali-belarus-usa-kanada-handelsstreit-donald-trump",
+      "published": "Mon, 21 Sep 2026 19:38:38 -0000",
+      "published_display": "21.09.2026 · 19:38 Uhr"
+    },
     {
       "title": "AfD in Mecklenburg-Vorpommern: Das sind die neuen AfD-Abgeordneten im Schweriner Landtag",
       "summary": "Völkische Nationalisten und ein ehemaliger Polizist, der Richter als »Marionetten« bezeichnet: Das sind die 32 AfD-Politiker, die in den Landtag gewählt wurden.",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/politik/deutschland/2026-09/remmo-clan-issa-remmo-firas-remmo-ferat-kocak-linke-instagram",
       "published": "Mon, 21 Sep 2026 18:08:09 -0000",
       "published_display": "21.09.2026 · 18:08 Uhr"
-    },
-    {
-      "title": "Tennis: Zverev-Bruder lässt sich Grand-Slam-Siege nicht «kleinreden»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/zverev-bruder-laesst-sich-grand-slam-siege-nicht-kleinreden-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/zverev-bruder-laesst-sich-grand-slam-siege-nicht-kleinreden",
-      "published": "Mon, 21 Sep 2026 18:04:37 -0000",
-      "published_display": "21.09.2026 · 18:04 Uhr"
     }
   ]
 }
