@@ -1,7 +1,95 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-21T08:19:46.289833+00:00",
+  "updated": "2026-09-21T08:33:30.589275+00:00",
   "items": [
+    {
+      "title": "Arbeitsschutz: 32 schwere Arbeitsunfälle auf Baustellen - Arbeitsschutztag",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/32-schwere-arbeitsunfaelle-auf-baustellen-arbeitsschutztag-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/32-schwere-arbeitsunfaelle-auf-baustellen-arbeitsschutztag",
+      "published": "Mon, 21 Sep 2026 08:27:51 -0000",
+      "published_display": "21.09.2026 · 08:27 Uhr"
+    },
+    {
+      "title": "Industrie-Arbeitsmarkt: IAB-Studie: Rüstung kann Jobverluste nicht ausgleichen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/iab-studie-ruestung-kann-jobverluste-nicht-ausgleichen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/iab-studie-ruestung-kann-jobverluste-nicht-ausgleichen",
+      "published": "Mon, 21 Sep 2026 08:26:21 -0000",
+      "published_display": "21.09.2026 · 08:26 Uhr"
+    },
+    {
+      "title": "Wahlen: Wahlleitung: Kremlpartei Geeintes Russland gewinnt Duma-Wahl",
+      "summary": "",
+      "image": "",
+      "link": "https://www.zeit.de/news/2026-09/21/wahlleitung-kremlpartei-geeintes-russland-gewinnt-duma-wahl",
+      "published": "Mon, 21 Sep 2026 08:24:07 -0000",
+      "published_display": "21.09.2026 · 08:24 Uhr"
+    },
+    {
+      "title": "Trampen: »Als wir uns näherkamen, war ich unsicher und sehnsüchtig zugleich.«",
+      "summary": "Sie trampten durch halb Europa, verloren sich fast aus den Augen – und fanden doch zueinander. Jetzt stellt Emil ihr die Frage aller Fragen.",
+      "image": "https://img.zeit.de/zeit-magazin/2026/38/beim-trampen-tauchten-wir-in-die-geschichten-anderer-menschen-ein-bild-1/original__640x360",
+      "link": "https://www.zeit.de/zeit-magazin/2026/38/trampen-reisen-urlaub-baltikum-fernbeziehung",
+      "published": "Mon, 21 Sep 2026 08:23:58 -0000",
+      "published_display": "21.09.2026 · 08:23 Uhr"
+    },
+    {
+      "title": "Landtagswahl in MV: Polizei: Wahltag in MV nahezu störungsfrei abgelaufen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/polizei-wahltag-in-mv-nahezu-stoerungsfrei-abgelaufen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/polizei-wahltag-in-mv-nahezu-stoerungsfrei-abgelaufen",
+      "published": "Mon, 21 Sep 2026 08:22:50 -0000",
+      "published_display": "21.09.2026 · 08:22 Uhr"
+    },
+    {
+      "title": "Falschaussage zur Maut: Prozess gegen Andreas Scheuer wegen Falschaussage hat begonnen",
+      "summary": "Der frühere Verkehrsminister Scheuer soll vor dem Maut-Untersuchungsausschuss gelogen haben. Rund sieben Jahre nach dem Scheitern der Maut hat der Prozess begonnen.",
+      "image": "https://img.zeit.de/mobilitaet/2026-09/andreas-scheuer-csu-prozess-falschaussage-pkw-maut-gerhard-schulz-foto-1/original__640x360",
+      "link": "https://www.zeit.de/mobilitaet/2026-09/andreas-scheuer-csu-prozess-falschaussage-pkw-maut-gerhard-schulz",
+      "published": "Mon, 21 Sep 2026 08:22:00 -0000",
+      "published_display": "21.09.2026 · 08:22 Uhr"
+    },
+    {
+      "title": "Tarifverhandlungen: Warnstreik legt Stadtbusse in Schleswig-Holstein lahm",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/warnstreik-in-vier-staedten-angelaufen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/warnstreik-in-vier-staedten-angelaufen",
+      "published": "Mon, 21 Sep 2026 08:21:24 -0000",
+      "published_display": "21.09.2026 · 08:21 Uhr"
+    },
+    {
+      "title": "125 Stunden singen: Über 200 Chöre starten Weltrekordversuch in Berlin",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/ueber-200-choere-starten-weltrekordversuch-in-berlin-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/ueber-200-choere-starten-weltrekordversuch-in-berlin",
+      "published": "Mon, 21 Sep 2026 08:21:18 -0000",
+      "published_display": "21.09.2026 · 08:21 Uhr"
+    },
+    {
+      "title": "Wahlsieg der Linken in Berlin: Mehrheit in Berlin gegen Enteignung von Immobilienfirmen",
+      "summary": "In Berlin gibt es noch immer zu wenig bezahlbaren Wohnraum. Die Linke will große Wohnungsgesellschaften enteignen. Eine Umfrage zeigt aber: Die Mehrheit ist dagegen.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/enteignung-wohnungsgesellschaften-berlin-umfrage-infratest-dimap-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/enteignung-wohnungsgesellschaften-berlin-umfrage-infratest-dimap-gxe",
+      "published": "Mon, 21 Sep 2026 08:20:20 -0000",
+      "published_display": "21.09.2026 · 08:20 Uhr"
+    },
+    {
+      "title": "Tauchunfall: Polizei sucht Vermissten im Starnberger See mit Tauchroboter",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/polizei-sucht-vermissten-im-starnberger-see-mit-tauchroboter-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/polizei-sucht-vermissten-im-starnberger-see-mit-tauchroboter",
+      "published": "Mon, 21 Sep 2026 08:18:24 -0000",
+      "published_display": "21.09.2026 · 08:18 Uhr"
+    },
+    {
+      "title": "Fußball-Bundesliga: Drei für Klopp und sieben Punkte: Elversberg oben angekommen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/drei-fuer-klopp-und-sieben-punkte-elversberg-oben-angekommen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/drei-fuer-klopp-und-sieben-punkte-elversberg-oben-angekommen",
+      "published": "Mon, 21 Sep 2026 08:18:16 -0000",
+      "published_display": "21.09.2026 · 08:18 Uhr"
+    },
     {
       "title": "Folgen der Landtagswahlen: Reichinnek weist Antisemitismus-Vorwürfe zurück",
       "summary": "",
@@ -33,94 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/21/brinker-wir-sind-eine-sehr-sehr-starke-opposition",
       "published": "Mon, 21 Sep 2026 08:08:24 -0000",
       "published_display": "21.09.2026 · 08:08 Uhr"
-    },
-    {
-      "title": "Wahlergebnisse in Berlin: Nicht nur Berlins Zentrum ist links",
-      "summary": "Die Linke ist die Siegerin der Wahl zum Abgeordnetenhaus, SPD und CDU fallen stark ab. Unsere interaktive Karte zeigt die Ergebnisse der einzelnen Wahllokale Berlins.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/wahlergebnisse-berlin-abgeordnetenhaus-karte-wahllokale-teaserbild/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/wahlergebnisse-berlin-abgeordnetenhaus-karte-wahllokale",
-      "published": "Mon, 21 Sep 2026 08:07:56 -0000",
-      "published_display": "21.09.2026 · 08:07 Uhr"
-    },
-    {
-      "title": "Berlin-Wahl: Grüne: Linke muss problematischem Teil Grenzen setzen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/gruene-linke-muss-problematischem-teil-grenzen-setzen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/gruene-linke-muss-problematischem-teil-grenzen-setzen",
-      "published": "Mon, 21 Sep 2026 08:05:58 -0000",
-      "published_display": "21.09.2026 · 08:05 Uhr"
-    },
-    {
-      "title": "Justiz: Prozess gegen Ex-Minister Scheuer nach Maut-Debakel begonnen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/ex-minister-scheuer-nach-maut-debakel-vor-gericht-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/ex-minister-scheuer-nach-maut-debakel-vor-gericht",
-      "published": "Mon, 21 Sep 2026 08:01:08 -0000",
-      "published_display": "21.09.2026 · 08:01 Uhr"
-    },
-    {
-      "title": "Tarifverhandlungen: Warnstreik in vier Städten angelaufen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/warnstreik-in-vier-staedten-angelaufen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/warnstreik-in-vier-staedten-angelaufen",
-      "published": "Mon, 21 Sep 2026 07:57:56 -0000",
-      "published_display": "21.09.2026 · 07:57 Uhr"
-    },
-    {
-      "title": "Mobilitätskosten: Spritpreis übers Wochenende gesunken",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/spritpreis-uebers-wochenende-gesunken-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/spritpreis-uebers-wochenende-gesunken",
-      "published": "Mon, 21 Sep 2026 07:57:10 -0000",
-      "published_display": "21.09.2026 · 07:57 Uhr"
-    },
-    {
-      "title": "Urwald in Rumänien: Urwaldtourismus in Europa – der Umwelt zuliebe",
-      "summary": "In Rumänien liegt einer der letzten Urwälder Europas. Um ihn zu schützen, sollen Urlauber dort wandern. Haben wir probiert.",
-      "image": "https://img.zeit.de/2026/40/guck-dir-die-details-an-bild-1/original__640x360",
-      "link": "https://www.zeit.de/2026/40/urwaelder-rumaenien-abholzung-holzmafia-matthias-schickhofer",
-      "published": "Mon, 21 Sep 2026 07:55:14 -0000",
-      "published_display": "21.09.2026 · 07:55 Uhr"
-    },
-    {
-      "title": "Tatverdächtige fliehen: 15-Jähriger erstochen - Weiterer Teenager schwer verletzt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/15-jaehriger-erstochen-weiterer-teenager-schwer-verletzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/15-jaehriger-erstochen-weiterer-teenager-schwer-verletzt",
-      "published": "Mon, 21 Sep 2026 07:55:10 -0000",
-      "published_display": "21.09.2026 · 07:55 Uhr"
-    },
-    {
-      "title": "Lucas Museum of Narrative Art: Möge die Kunst mit ihm sein",
-      "summary": "»Star Wars«-­Erfinder George Lucas ist Sammler. Nun gönnt er sich in Los Angeles sein eigenes Museum. Ein Besuch vorab – samt eines Auftritts des Meisters",
-      "image": "https://img.zeit.de/2026/39/moege-die-kunst-mit-ihm-sein-bild-1/original__640x360",
-      "link": "https://www.zeit.de/2026/39/lucas-museum-of-narrative-art-george-lucas-kunst",
-      "published": "Mon, 21 Sep 2026 07:55:04 -0000",
-      "published_display": "21.09.2026 · 07:55 Uhr"
-    },
-    {
-      "title": "»Vaterland«: Treffen sich Thomas Mann, Goethe und die AfD ...",
-      "summary": "In »Vaterland« mit Sandra Hüller kehrt Thomas Mann aus dem amerikanischen Exil ins Nachkriegsdeutschland zurück. Warum passt der Historienfilm so gut in unsere Gegenwart?",
-      "image": "https://img.zeit.de/familie/2026-09/vaterland-kinofilm-thomas-mann-nachkriegsdeutschland-feuilleton-podcast-bild/original__640x360",
-      "link": "https://www.zeit.de/feuilleton/2026-09/vaterland-kinofilm-thomas-mann-nachkriegsdeutschland-feuilleton-podcast",
-      "published": "Mon, 21 Sep 2026 07:54:47 -0000",
-      "published_display": "21.09.2026 · 07:54 Uhr"
-    },
-    {
-      "title": "Wahlsieg der Linken in Berlin: Mehrheit in Berlin gegen Enteignung von Immobilienfirmen",
-      "summary": "In Berlin gibt es noch immer zu wenig bezahlbaren Wohnraum. Die Linke will große Wohnungsgesellschaften enteignen. Eine Umfrage zeigt aber: Die Mehrheit ist dagegen.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/enteignung-wohnungsgesellschaften-berlin-umfrage-infratest-dimap-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/enteignung-wohnungsgesellschaften-berlin-umfrage-infratest-dimap",
-      "published": "Mon, 21 Sep 2026 07:54:37 -0000",
-      "published_display": "21.09.2026 · 07:54 Uhr"
-    },
-    {
-      "title": "Landtagswahl in MV: Linken-Spitzenkandidatin bedauert CDU-Rauswurf aus Landtag",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/linken-spitzenkandidatin-bedauert-cdu-rauswurf-aus-landtag-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/linken-spitzenkandidatin-bedauert-cdu-rauswurf-aus-landtag",
-      "published": "Mon, 21 Sep 2026 07:49:13 -0000",
-      "published_display": "21.09.2026 · 07:49 Uhr"
     }
   ]
 }
