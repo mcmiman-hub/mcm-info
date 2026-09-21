@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-21T21:29:00.612285+00:00",
+  "updated": "2026-09-21T21:41:50.159244+00:00",
   "items": [
+    {
+      "title": "Krieg gegen die Ukraine: EU erzielt keine Einigung bei Sanktionen gegen Russland",
+      "summary": "Zwei russische Oligarchen wurden entgegnet er Pläne vorerst doch nicht von der EU-Sanktionsliste gestrichen. Die Ukraine meldet zwei Tote. Das Liveblog",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/ukraine-krieg-news-liveblog-bild-7/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "published": "Mon, 21 Sep 2026 21:30:33 -0000",
+      "published_display": "21.09.2026 · 21:30 Uhr"
+    },
     {
       "title": "«KölnRheinRuhr»: Wüst fühlt Olympia-Euphorie «bis unter die Badekappe»",
       "summary": "",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/21/gefaehrlicher-hurrikan-polo-im-pazifik-vor-mexiko",
       "published": "Mon, 21 Sep 2026 20:07:45 -0000",
       "published_display": "21.09.2026 · 20:07 Uhr"
-    },
-    {
-      "title": "Technische Störung: Flugstopp an Airports der US-Ostküste angeordnet",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/flugstopp-an-airports-der-us-ostkueste-angeordnet-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/flugstopp-an-airports-der-us-ostkueste-angeordnet",
-      "published": "Mon, 21 Sep 2026 20:02:27 -0000",
-      "published_display": "21.09.2026 · 20:02 Uhr"
     }
   ]
 }
