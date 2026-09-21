@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-21T02:30:50.734604+00:00",
+  "updated": "2026-09-21T02:44:35.885435+00:00",
   "items": [
+    {
+      "title": "Abgeordnetenhauswahl: Regierungswechsel in Berlin – Linke siegt klar vor der CDU",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/berlin-waehlt-neues-abgeordnetenhaus-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/berlin-waehlt-neues-abgeordnetenhaus",
+      "published": "Mon, 21 Sep 2026 02:32:00 -0000",
+      "published_display": "21.09.2026 · 02:32 Uhr"
+    },
+    {
+      "title": "Wettervorhersage: Wolken zum Wochenstart – danach wieder mehr Sonne",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/wolken-zum-wochenstart-danach-wieder-mehr-sonne-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/wolken-zum-wochenstart-danach-wieder-mehr-sonne",
+      "published": "Mon, 21 Sep 2026 02:30:06 -0000",
+      "published_display": "21.09.2026 · 02:30 Uhr"
+    },
+    {
+      "title": "Wahl in Mecklenburg-Vorpommern: AfD vorn, SPD gerupft, CDU raus: Wie geht es weiter in MV?",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/afd-vorn-spd-gerupft-cdu-raus-wie-geht-es-weiter-in-mv-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/afd-vorn-spd-gerupft-cdu-raus-wie-geht-es-weiter-in-mv",
+      "published": "Mon, 21 Sep 2026 02:30:04 -0000",
+      "published_display": "21.09.2026 · 02:30 Uhr"
+    },
     {
       "title": "Pressespiegel: »Versagen« von Merz – Schwesig als »Stütze« gegen Rechts",
       "summary": "Die Wahlen in Berlin und Mecklenburg-Vorpommern werden auch im Ausland aufmerksam verfolgt. Europas Presse lobt Schwesig – mit Merz geht sie dagegen hart ins Gericht.",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/21/angst-vor-moskau-nato-testet-drohnen-netzwerk-in-wiesbaden",
       "published": "Mon, 21 Sep 2026 02:00:10 -0000",
       "published_display": "21.09.2026 · 02:00 Uhr"
-    },
-    {
-      "title": "Kongress in Frankfurt: Longevity-Trend: Kann man Altern aufhalten?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/longevity-trend-kann-man-altern-aufhalten-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/longevity-trend-kann-man-altern-aufhalten",
-      "published": "Mon, 21 Sep 2026 02:00:06 -0000",
-      "published_display": "21.09.2026 · 02:00 Uhr"
-    },
-    {
-      "title": "Landtagswahl MV: Von «Wal zu Wahl»: Tierschutzpartei vor FDP in MV",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/von-wal-zu-wahl-tierschutzpartei-vor-fdp-in-mv-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/von-wal-zu-wahl-tierschutzpartei-vor-fdp-in-mv",
-      "published": "Mon, 21 Sep 2026 02:00:04 -0000",
-      "published_display": "21.09.2026 · 02:00 Uhr"
-    },
-    {
-      "title": "Wahlergebnisse in Berlin 2026: Alle Ergebnisse der Wahl zum Abgeordnetenhaus in Berlin",
-      "summary": "Welche Koalitionen sind im Abgeordnetenhaus möglich? Welche Kandidaten und Parteien gewinnen welchen Wahlkreis? Alle Daten und Karten zur Abgeordnetenhauswahl in Berlin",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/landtagswahl-berlin-ergebnisse-wahlkreise-2026-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/berlin-wahl-abgeordnetenhaus-2026-ergebnisse-live",
-      "published": "Mon, 21 Sep 2026 01:40:00 -0000",
-      "published_display": "21.09.2026 · 01:40 Uhr"
     }
   ]
 }
