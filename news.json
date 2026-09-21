@@ -1,7 +1,71 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-20T23:54:30.671574+00:00",
+  "updated": "2026-09-21T00:24:48.214179+00:00",
   "items": [
+    {
+      "title": "US-Einwanderungspolizei: ICE-Beamter schießt Mann in Texas nieder",
+      "summary": "Ein Beamter der US-Einwanderungspolizei ICE hat in der Stadt Austin einen Mann angeschossen und schwer verletzt. Die Demokraten fordern eine Untersuchung des Vorfalls.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/austin-texas-ice-polizei-schuesse-unabhaengige-ermittlung-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/austin-texas-ice-polizei-schuesse-unabhaengige-ermittlung",
+      "published": "Mon, 21 Sep 2026 00:19:50 -0000",
+      "published_display": "21.09.2026 · 00:19 Uhr"
+    },
+    {
+      "title": "Abgeordnetenhauswahl: Regierungswechsel in Berlin – Linke siegt klar vor der CDU",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/berlin-waehlt-neues-abgeordnetenhaus-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/20/berlin-waehlt-neues-abgeordnetenhaus",
+      "published": "Mon, 21 Sep 2026 00:17:26 -0000",
+      "published_display": "21.09.2026 · 00:17 Uhr"
+    },
+    {
+      "title": "Wahl in Berlin: Linke siegt in Berlin klar vor der CSU, BSW nicht im Abgeordnetenhaus",
+      "summary": "Die Linke landet mit 25,7 Prozent der Stimmen klar vor CDU und AfD. Spitzenkandidatin Erlap will die Regierung anführen. Franziska Giffey verliert Sitz. Das Liveblog",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/wahl-abgeordnetenhaus-berlin-2026-live-bild-16/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/wahl-abgeordnetenhaus-berlin-2026-live",
+      "published": "Mon, 21 Sep 2026 00:09:31 -0000",
+      "published_display": "21.09.2026 · 00:09 Uhr"
+    },
+    {
+      "title": "Venezolanische Opposition: Nobelpreisträgerin Machado will bald nach Venezuela zurück",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/nobelpreistraegerin-machado-will-bald-nach-venezuela-zurueck-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/nobelpreistraegerin-machado-will-bald-nach-venezuela-zurueck",
+      "published": "Mon, 21 Sep 2026 00:00:04 -0000",
+      "published_display": "21.09.2026 · 00:00 Uhr"
+    },
+    {
+      "title": "Wahl in Berlin: Linke gewinnt laut vorläufigem Endergebnis Berlin-Wahl vor der CDU",
+      "summary": "Die Linke hat bei der Wahl zum Berliner Abgeordnetenhaus ihr historisch bestes Ergebnis erzielt. Dahinter folgt die CDU. Das BSW scheitert an der Fünfprozenthürde.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/wahl-abgeordnetenhaus-berlin-2026-live-bild-17/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/linke-sieg-vorlaeufiges-endergebnis-berlin-wahl-cdu",
+      "published": "Sun, 20 Sep 2026 23:58:07 -0000",
+      "published_display": "20.09.2026 · 23:58 Uhr"
+    },
+    {
+      "title": "Wahlen: Linke gewinnt Berliner Wahl mit großem Vorsprung",
+      "summary": "",
+      "image": "",
+      "link": "https://www.zeit.de/news/2026-09/21/linke-gewinnt-berliner-wahl-mit-grossem-vorsprung",
+      "published": "Sun, 20 Sep 2026 23:57:50 -0000",
+      "published_display": "20.09.2026 · 23:57 Uhr"
+    },
+    {
+      "title": "Wahlergebnisse in Berlin 2026: Alle Ergebnisse der Wahl zum Abgeordnetenhaus in Berlin",
+      "summary": "Welche Koalitionen sind im Abgeordnetenhaus möglich? Welche Kandidaten und Parteien gewinnen welchen Wahlkreis? Alle Daten und Karten zur Abgeordnetenhauswahl in Berlin",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/landtagswahl-berlin-ergebnisse-wahlkreise-2026-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/berlin-wahl-abgeordnetenhaus-2026-ergebnisse-live",
+      "published": "Sun, 20 Sep 2026 23:57:28 -0000",
+      "published_display": "20.09.2026 · 23:57 Uhr"
+    },
+    {
+      "title": "Wahl in Russland: Putins Kriegsparlament: Kremlpartei zur Wahlsiegerin erklärt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/putins-kriegsparlament-kremlpartei-zur-wahlsiegerin-erklaert-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/putins-kriegsparlament-kremlpartei-zur-wahlsiegerin-erklaert",
+      "published": "Sun, 20 Sep 2026 23:56:40 -0000",
+      "published_display": "20.09.2026 · 23:56 Uhr"
+    },
     {
       "title": "Wahl in Berlin: SPD-Lichtblick in Treptow-Köpenick",
       "summary": "",
@@ -9,14 +73,6 @@
       "link": "https://www.zeit.de/news/2026-09/21/spd-lichtblick-in-treptow-koepenick",
       "published": "Sun, 20 Sep 2026 23:49:48 -0000",
       "published_display": "20.09.2026 · 23:49 Uhr"
-    },
-    {
-      "title": "Wahlergebnisse in Berlin 2026: Alle Ergebnisse der Wahl zum Abgeordnetenhaus in Berlin",
-      "summary": "Welche Koalitionen sind im Abgeordnetenhaus möglich? Welche Kandidaten und Parteien gewinnen welchen Wahlkreis? Alle Daten und Karten zur Abgeordnetenhauswahl in Berlin",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/landtagswahl-berlin-ergebnisse-wahlkreise-2026-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/berlin-wahl-abgeordnetenhaus-2026-ergebnisse-live",
-      "published": "Sun, 20 Sep 2026 23:48:28 -0000",
-      "published_display": "20.09.2026 · 23:48 Uhr"
     },
     {
       "title": "Landtagswahlen: Historische Demütigung für die CDU - Kann Merz sich halten?",
@@ -65,62 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/20/die-niedrigsten-cdu-wahlergebnisse-bei-landtagswahlen",
       "published": "Sun, 20 Sep 2026 22:19:02 -0000",
       "published_display": "20.09.2026 · 22:19 Uhr"
-    },
-    {
-      "title": "Wahl in Berlin: Spitzenkandidaten von CDU und SPD verfehlen Direktmandate",
-      "summary": "Stefan Evers kommt in seinem Wahlkreis auf Platz zwei, Steffen Krach sogar nur auf den dritten Platz. Elif Eralp gewinnt ein Direktmandat in Kreuzberg. Das Liveblog",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/wahl-abgeordnetenhaus-berlin-2026-live-bild-16/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/wahl-abgeordnetenhaus-berlin-2026-live",
-      "published": "Sun, 20 Sep 2026 22:17:58 -0000",
-      "published_display": "20.09.2026 · 22:17 Uhr"
-    },
-    {
-      "title": "CDU in Mecklenburg-Vorpommern: So schlecht wie nie",
-      "summary": "Die CDU in Mecklenburg-Vorpommern unter fünf Prozent – ein Debakel. Bei der Wahlparty in Schwerin ruft ihr Spitzenkandidat schon den Überlebenskampf aus.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/cdu-mecklenburg-vorpommern-landtagswahl-ergebnisse-daniel-peters-bild-05/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/cdu-mecklenburg-vorpommern-landtagswahl-ergebnisse-daniel-peters",
-      "published": "Sun, 20 Sep 2026 22:16:29 -0000",
-      "published_display": "20.09.2026 · 22:16 Uhr"
-    },
-    {
-      "title": "Wahlergebnisse in Mecklenburg-Vorpommern 2026: Alle Ergebnisse der Landtagswahl in Mecklenburg-Vorpommern",
-      "summary": "Welche Koalitionen sind im Landtag möglich? Welche Kandidaten und Parteien gewinnen welchen Wahlkreis? Alle Daten und Karten zur Landtagswahl in Mecklenburg-Vorpommern",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/landtagswahl-mecklenburg-vorpommern-ergebnisse-wahlkreise-2026-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/landtagswahl-mecklenburg-vorpommern-ergebnisse-wahlkreise-2026",
-      "published": "Sun, 20 Sep 2026 22:16:00 -0000",
-      "published_display": "20.09.2026 · 22:16 Uhr"
-    },
-    {
-      "title": "Vorläufiges Endergebnis: AfD gewinnt Landtagswahl in Mecklenburg-Vorpommern",
-      "summary": "In Mecklenburg-Vorpommern holt die AfD mehr als 38 Prozent der Stimmen, die SPD 35,5 Prozent. Linke und Grüne schaffen es in den Landtag, CDU und BSW sind raus.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/afd-mecklenburg-vorpommern-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/afd-sieg-landtagswahl-mecklenburg-vorpommern",
-      "published": "Sun, 20 Sep 2026 22:10:58 -0000",
-      "published_display": "20.09.2026 · 22:10 Uhr"
-    },
-    {
-      "title": "Wahlen: Schwesig gewinnt Wahlkreis gegen AfD-Politiker Holm deutlich",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/schwesig-gewinnt-wahlkreis-gegen-afd-politiker-holm-deutlich-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/schwesig-gewinnt-wahlkreis-gegen-afd-politiker-holm-deutlich",
-      "published": "Sun, 20 Sep 2026 22:09:41 -0000",
-      "published_display": "20.09.2026 · 22:09 Uhr"
-    },
-    {
-      "title": "Wahlen: Vorläufiges Ergebnis: AfD siegt in MV - Debakel für die CDU",
-      "summary": "",
-      "image": "",
-      "link": "https://www.zeit.de/news/2026-09/21/vorlaeufiges-ergebnis-afd-siegt-in-mv-debakel-fuer-die-cdu",
-      "published": "Sun, 20 Sep 2026 22:08:46 -0000",
-      "published_display": "20.09.2026 · 22:08 Uhr"
-    },
-    {
-      "title": "Parlamentswahl in Russland: Regierungspartei steuert bei russischer Parlamentswahl auf Wahlsieg zu",
-      "summary": "Wie erwartet liegt die Partei von Wladimir Putin bei der Parlamentswahl klar vorn. Laut ersten Ergebnissen kommt sie auf mehr als 50 Prozent der Stimmen.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/parlamentswahl-russland-wladimir-putin-geeintes-russland-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/parlamentswahl-russland-wladimir-putin-geeintes-russland",
-      "published": "Sun, 20 Sep 2026 22:04:11 -0000",
-      "published_display": "20.09.2026 · 22:04 Uhr"
     }
   ]
 }
