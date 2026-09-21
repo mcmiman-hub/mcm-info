@@ -1,14 +1,30 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-21T20:42:20.817098+00:00",
+  "updated": "2026-09-21T20:54:16.560489+00:00",
   "items": [
     {
       "title": "Paramount und Warner: Paramount einigt sich mit US-Bundesstaaten über Warner-Kauf",
       "summary": "Der Rechtsstreit zur Übernahme von Warner durch Paramount wurde beigelegt. CNN soll vor Einflussnahme durch die Nähe der Eigentümer zur Trump-Regierung geschützt werden.",
-      "image": "",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/paramount-warner-lawsuit-california-us/original__640x360",
       "link": "https://www.zeit.de/politik/ausland/2026-09/paramount-warner-bros-discovery-uebernahme-cnn-cbs-news",
-      "published": "Mon, 21 Sep 2026 20:41:24 -0000",
-      "published_display": "21.09.2026 · 20:41 Uhr"
+      "published": "Mon, 21 Sep 2026 20:50:19 -0000",
+      "published_display": "21.09.2026 · 20:50 Uhr"
+    },
+    {
+      "title": "Fußball: Infantino bereit für Reformen - Aber kein Rückzug",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/infantino-bereit-fuer-reformen-aber-kein-rueckzug-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/infantino-bereit-fuer-reformen-aber-kein-rueckzug",
+      "published": "Mon, 21 Sep 2026 20:46:52 -0000",
+      "published_display": "21.09.2026 · 20:46 Uhr"
+    },
+    {
+      "title": "NRW-Regierungschef und Vater: Papa Wüst ist Wachs in den Händen seiner Tochter",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/papa-wuest-ist-wachs-in-den-haenden-seiner-tochter-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/papa-wuest-ist-wachs-in-den-haenden-seiner-tochter",
+      "published": "Mon, 21 Sep 2026 20:42:06 -0000",
+      "published_display": "21.09.2026 · 20:42 Uhr"
     },
     {
       "title": "Notfälle: Rettungseinsatz an Oktoberfest-Fahrgeschäft",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/21/wuest-wir-brauchen-eine-stabile-bundesregierung",
       "published": "Mon, 21 Sep 2026 19:50:57 -0000",
       "published_display": "21.09.2026 · 19:50 Uhr"
-    },
-    {
-      "title": "AfD in Mecklenburg-Vorpommern: Das sind die neuen AfD-Abgeordneten im Schweriner Landtag",
-      "summary": "Völkische Nationalisten und ein ehemaliger Polizist, der Richter als »Marionetten« bezeichnet: Das sind die 32 AfD-Politiker, die in den Landtag gewählt wurden.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/afd-mecklenburg-vorpommern-landtagswahl-abgeordnete-recherche-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/afd-mecklenburg-vorpommern-landtagswahl-abgeordnete-recherche",
-      "published": "Mon, 21 Sep 2026 19:24:40 -0000",
-      "published_display": "21.09.2026 · 19:24 Uhr"
-    },
-    {
-      "title": "Nach der Landtagswahl in MV: MV mit Kurs auf Rot-Rot-Grün - CDU-Landesführung wirft hin",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/cdu-mv-chef-peters-tritt-ab-amthor-soll-vorerst-uebernehmen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/cdu-mv-chef-peters-tritt-ab-amthor-soll-vorerst-uebernehmen",
-      "published": "Mon, 21 Sep 2026 19:19:05 -0000",
-      "published_display": "21.09.2026 · 19:19 Uhr"
     }
   ]
 }
