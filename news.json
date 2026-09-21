@@ -1,7 +1,55 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-21T19:54:18.988549+00:00",
+  "updated": "2026-09-21T20:17:20.415964+00:00",
   "items": [
+    {
+      "title": "Auktion in Paris: Fast eine Million Euro für Bardots Erinnerungsstücke",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/fast-eine-million-euro-fuer-bardots-erinnerungsstuecke-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/fast-eine-million-euro-fuer-bardots-erinnerungsstuecke",
+      "published": "Mon, 21 Sep 2026 20:14:41 -0000",
+      "published_display": "21.09.2026 · 20:14 Uhr"
+    },
+    {
+      "title": "Gesundheitsreform: Wie Merz mal eben die private Krankenversicherung infrage stellte",
+      "summary": "Der Kanzler sinniert öffentlich über einen Systemwechsel in der Gesundheitsversorgung – und löst versehentlich die falsche Debatte aus. Was steckt dahinter?",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/private-krankenversicherung-friedrich-merz-cdu-spd-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/private-krankenversicherung-friedrich-merz-cdu-spd",
+      "published": "Mon, 21 Sep 2026 20:10:49 -0000",
+      "published_display": "21.09.2026 · 20:10 Uhr"
+    },
+    {
+      "title": "Unwetter: Gefährlicher Hurrikan «Polo» im Pazifik vor Mexiko",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/gefaehrlicher-hurrikan-polo-im-pazifik-vor-mexiko-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/gefaehrlicher-hurrikan-polo-im-pazifik-vor-mexiko",
+      "published": "Mon, 21 Sep 2026 20:07:45 -0000",
+      "published_display": "21.09.2026 · 20:07 Uhr"
+    },
+    {
+      "title": "Technische Störung: Flugstopp an Airports der US-Ostküste angeordnet",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/flugstopp-an-airports-der-us-ostkueste-angeordnet-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/flugstopp-an-airports-der-us-ostkueste-angeordnet",
+      "published": "Mon, 21 Sep 2026 20:02:27 -0000",
+      "published_display": "21.09.2026 · 20:02 Uhr"
+    },
+    {
+      "title": "Notfälle: Lkw stürzt Böschung hinab - Fahrer stirbt, A45 gesperrt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/lkw-stuerzt-boeschung-hinab-fahrer-stirbt-a45-gesperrt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/lkw-stuerzt-boeschung-hinab-fahrer-stirbt-a45-gesperrt",
+      "published": "Mon, 21 Sep 2026 20:01:07 -0000",
+      "published_display": "21.09.2026 · 20:01 Uhr"
+    },
+    {
+      "title": "Handelsstreit: USA wollen Kalisalz aus Belarus kaufen",
+      "summary": "Die USA importieren Kali, einen wichtigen Bestandteil von Düngemittel, primär aus Kanada. Laut Donald Trump arbeitet seine Regierung an einem Handelsabkommen mit Belarus.",
+      "image": "https://img.zeit.de/politik/2026-09/kanada-usa-kalisalz-belarus/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/kali-belarus-usa-kanada-handelsstreit-donald-trump",
+      "published": "Mon, 21 Sep 2026 20:00:07 -0000",
+      "published_display": "21.09.2026 · 20:00 Uhr"
+    },
     {
       "title": "Nach Wahlen: Wüst: «Wir brauchen eine stabile Bundesregierung»",
       "summary": "",
@@ -9,14 +57,6 @@
       "link": "https://www.zeit.de/news/2026-09/21/wuest-wir-brauchen-eine-stabile-bundesregierung",
       "published": "Mon, 21 Sep 2026 19:50:57 -0000",
       "published_display": "21.09.2026 · 19:50 Uhr"
-    },
-    {
-      "title": "Handelsstreit: USA wollen Kalisalz aus Belarus kaufen",
-      "summary": "Die USA importieren Kali, einen wichtigen Bestandteil von Düngemittel, primär aus Kanada. Laut Donald Trump arbeitet seine Regierung an einem Handelsabkommen mit Belarus.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/kali-belarus-usa-kanada-handelsstreit-donald-trump-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/kali-belarus-usa-kanada-handelsstreit-donald-trump",
-      "published": "Mon, 21 Sep 2026 19:38:38 -0000",
-      "published_display": "21.09.2026 · 19:38 Uhr"
     },
     {
       "title": "AfD in Mecklenburg-Vorpommern: Das sind die neuen AfD-Abgeordneten im Schweriner Landtag",
@@ -81,46 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/21/andr-breitenreiter-wird-neuer-trainer-bei-hansa-rostock",
       "published": "Mon, 21 Sep 2026 18:55:20 -0000",
       "published_display": "21.09.2026 · 18:55 Uhr"
-    },
-    {
-      "title": "Hollywood-Megadeal: Paramount auf Weg zu Warner-Kauf nach Deal mit Bundesstaaten",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/paramount-einig-mit-klagenden-bundesstaaten-zu-warner-kauf-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/paramount-einig-mit-klagenden-bundesstaaten-zu-warner-kauf",
-      "published": "Mon, 21 Sep 2026 18:41:57 -0000",
-      "published_display": "21.09.2026 · 18:41 Uhr"
-    },
-    {
-      "title": "Andreas Scheuer: »Ich habe nicht die Unwahrheit gesagt«",
-      "summary": "In Berlin hat der Prozess gegen den früheren Verkehrsminister Andreas Scheuer begonnen. Der bestreitet emotional, über das Maut-Debakel im Bundestag gelogen zu haben.",
-      "image": "https://img.zeit.de/wirtschaft/2026-09/ex-bundesverkehrsminister-scheuer-vor-gericht-bild/original__640x360",
-      "link": "https://www.zeit.de/mobilitaet/2026-09/prozess-andreas-scheuer-gericht-berlin-auslaender-maut",
-      "published": "Mon, 21 Sep 2026 18:29:08 -0000",
-      "published_display": "21.09.2026 · 18:29 Uhr"
-    },
-    {
-      "title": "Pressefreiheit in den USA: Rauswurf aus Weißem Haus: Trumps Streit mit Medien eskaliert",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/drei-us-medien-planen-klage-gegen-ausschluss-aus-weissem-haus-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/drei-us-medien-planen-klage-gegen-ausschluss-aus-weissem-haus",
-      "published": "Mon, 21 Sep 2026 18:24:16 -0000",
-      "published_display": "21.09.2026 · 18:24 Uhr"
-    },
-    {
-      "title": "Landtagswahl in MV: Holm sieht AfD in MV in der Opposition",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/holm-sieht-afd-in-mv-in-der-opposition-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/holm-sieht-afd-in-mv-in-der-opposition",
-      "published": "Mon, 21 Sep 2026 18:15:26 -0000",
-      "published_display": "21.09.2026 · 18:15 Uhr"
-    },
-    {
-      "title": "Konflikt um Arktisinsel: US-Beamter: Unterzeichnung von Grönland-Abkommen am Dienstag",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/us-beamter-unterzeichnung-von-groenland-abkommen-am-dienstag-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/us-beamter-unterzeichnung-von-groenland-abkommen-am-dienstag",
-      "published": "Mon, 21 Sep 2026 18:14:14 -0000",
-      "published_display": "21.09.2026 · 18:14 Uhr"
     }
   ]
 }
