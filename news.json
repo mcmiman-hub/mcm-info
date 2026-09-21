@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-21T01:16:43.360028+00:00",
+  "updated": "2026-09-21T01:29:44.825154+00:00",
   "items": [
+    {
+      "title": "Vorfall in Austin: Beamte der US-Einwanderungsbehörde ICE schießen Mann an",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/beamte-der-us-einwanderungsbehoerde-ice-schiessen-mann-an-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/beamte-der-us-einwanderungsbehoerde-ice-schiessen-mann-an",
+      "published": "Mon, 21 Sep 2026 01:27:32 -0000",
+      "published_display": "21.09.2026 · 01:27 Uhr"
+    },
     {
       "title": "Wahl in Berlin: Linke siegt in Berlin klar vor der CDU, BSW nicht im Abgeordnetenhaus",
       "summary": "Die Linke landet mit 25,7 Prozent der Stimmen klar vor CDU und AfD. Spitzenkandidatin Erlap will die Regierung anführen. Giffey verliert Sitz. Das Liveblog zum Nachlesen",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/politik/deutschland/2026-09/mecklenburg-vorpommern-landtagswahl-liveblog",
       "published": "Sun, 20 Sep 2026 22:56:10 -0000",
       "published_display": "20.09.2026 · 22:56 Uhr"
-    },
-    {
-      "title": "Wahlverhalten in Mecklenburg-Vorpommern: Darum verloren alle außer der AfD",
-      "summary": "Die AfD ist stärkste Kraft, regieren wird sie wohl trotzdem nicht. Unsere Datenanalyse zeigt, wer bei wem gepunktet und warum die CDU so schlecht abgeschnitten hat.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/wahlverhalten-mecklenburg-vorpommern-waehlerwanderung-parteien-alter-teaserbild/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/wahlverhalten-mecklenburg-vorpommern-waehlerwanderung-parteien-alter",
-      "published": "Sun, 20 Sep 2026 22:22:51 -0000",
-      "published_display": "20.09.2026 · 22:22 Uhr"
     }
   ]
 }
