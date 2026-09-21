@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-21T23:16:19.987601+00:00",
+  "updated": "2026-09-21T23:28:30.914006+00:00",
   "items": [
+    {
+      "title": "Ukrainekrieg: EU erzielt vorerst keine Einigung zu Sanktionen gegen Russland",
+      "summary": "Die EU steht unter Zeitdruck, ihre in der Nacht zu Mittwoch auslaufenden Sanktionen gegen Russland zu verlängern. Streitpunkt ist eine Aufhebung für zwei Oligarchen.",
+      "image": "https://img.zeit.de/politik/2026-09/kaja-kallas-eu-russland-sanktionen/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/eu-sanktionen-alischer-usmanow-michail-fridman-oligarchen",
+      "published": "Mon, 21 Sep 2026 23:16:25 -0000",
+      "published_display": "21.09.2026 · 23:16 Uhr"
+    },
     {
       "title": "Ferat Koçak: Linken-Abgeordneter Koçak entschuldigt sich für Chat mit Remmo-Sohn",
       "summary": "Ferat Koçak hat sich für seinen Kontakt mit Firas Remmo entschuldigt. Er habe erst nicht gewusst, dass es sich um den Sohn des Berliner Clan-Chefs Issa Remmo handelte.",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/21/drei-us-medien-planen-klage-gegen-ausschluss-aus-weissem-haus",
       "published": "Mon, 21 Sep 2026 21:46:48 -0000",
       "published_display": "21.09.2026 · 21:46 Uhr"
-    },
-    {
-      "title": "Berlin-Friedrichshain: Zwei Senioren tot in Wohnung - Mordkommission ermittelt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/zwei-senioren-tot-in-wohnung-mordkommission-ermittelt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/zwei-senioren-tot-in-wohnung-mordkommission-ermittelt",
-      "published": "Mon, 21 Sep 2026 21:43:00 -0000",
-      "published_display": "21.09.2026 · 21:43 Uhr"
     }
   ]
 }
