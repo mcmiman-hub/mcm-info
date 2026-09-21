@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-21T21:41:50.159244+00:00",
+  "updated": "2026-09-21T21:55:22.880128+00:00",
   "items": [
+    {
+      "title": "KI-Sicherheit: Merz und 17 Staatschefs unterzeichnen Aufruf für KI-Sicherheitsregeln",
+      "summary": "KI müsse »unter menschlicher Leitung, Aufsicht und Kontrolle« bleiben, fordern Staats- und Regierungschefs. Sie wollen unabhängige Prüfungen für Unternehmen einführen.",
+      "image": "https://img.zeit.de/politik/2026-09/ifa-berlin-2026-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/2026-09/un-kuenstliche-intelligenz-sicherheit-friedrich-merz-alexander-stubb-jonas-gaahr-store",
+      "published": "Mon, 21 Sep 2026 21:52:33 -0000",
+      "published_display": "21.09.2026 · 21:52 Uhr"
+    },
+    {
+      "title": "Pressefreiheit in den USA: Rauswurf aus Weißem Haus: Trumps Streit mit Medien eskaliert",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/drei-us-medien-planen-klage-gegen-ausschluss-aus-weissem-haus-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/drei-us-medien-planen-klage-gegen-ausschluss-aus-weissem-haus",
+      "published": "Mon, 21 Sep 2026 21:46:48 -0000",
+      "published_display": "21.09.2026 · 21:46 Uhr"
+    },
+    {
+      "title": "Berlin-Friedrichshain: Zwei Senioren tot in Wohnung - Mordkommission ermittelt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/zwei-senioren-tot-in-wohnung-mordkommission-ermittelt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/zwei-senioren-tot-in-wohnung-mordkommission-ermittelt",
+      "published": "Mon, 21 Sep 2026 21:43:00 -0000",
+      "published_display": "21.09.2026 · 21:43 Uhr"
+    },
     {
       "title": "Krieg gegen die Ukraine: EU erzielt keine Einigung bei Sanktionen gegen Russland",
       "summary": "Zwei russische Oligarchen wurden entgegnet er Pläne vorerst doch nicht von der EU-Sanktionsliste gestrichen. Die Ukraine meldet zwei Tote. Das Liveblog",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/21/wuest-ich-moechte-ministerpraesident-bleiben",
       "published": "Mon, 21 Sep 2026 20:20:28 -0000",
       "published_display": "21.09.2026 · 20:20 Uhr"
-    },
-    {
-      "title": "Auktion in Paris: Fast eine Million Euro für Bardots Erinnerungsstücke",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/fast-eine-million-euro-fuer-bardots-erinnerungsstuecke-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/fast-eine-million-euro-fuer-bardots-erinnerungsstuecke",
-      "published": "Mon, 21 Sep 2026 20:14:41 -0000",
-      "published_display": "21.09.2026 · 20:14 Uhr"
-    },
-    {
-      "title": "Gesundheitsreform: Wie Merz mal eben die private Krankenversicherung infrage stellte",
-      "summary": "Der Kanzler sinniert öffentlich über einen Systemwechsel in der Gesundheitsversorgung – und löst versehentlich die falsche Debatte aus. Was steckt dahinter?",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/private-krankenversicherung-friedrich-merz-cdu-spd-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/private-krankenversicherung-friedrich-merz-cdu-spd",
-      "published": "Mon, 21 Sep 2026 20:10:49 -0000",
-      "published_display": "21.09.2026 · 20:10 Uhr"
-    },
-    {
-      "title": "Unwetter: Gefährlicher Hurrikan «Polo» im Pazifik vor Mexiko",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/gefaehrlicher-hurrikan-polo-im-pazifik-vor-mexiko-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/gefaehrlicher-hurrikan-polo-im-pazifik-vor-mexiko",
-      "published": "Mon, 21 Sep 2026 20:07:45 -0000",
-      "published_display": "21.09.2026 · 20:07 Uhr"
     }
   ]
 }
