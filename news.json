@@ -1,7 +1,71 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-21T12:47:46.531354+00:00",
+  "updated": "2026-09-21T12:56:54.926438+00:00",
   "items": [
+    {
+      "title": "Mobilitätskosten: Spritpreis stagniert nach Rückgang übers Wochenende",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/spritpreis-uebers-wochenende-gesunken-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/spritpreis-uebers-wochenende-gesunken",
+      "published": "Mon, 21 Sep 2026 12:54:46 -0000",
+      "published_display": "21.09.2026 · 12:54 Uhr"
+    },
+    {
+      "title": "Bergunfall: 22-Jähriger stürzt in Allgäuer Bergen ab und stirbt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/22-jaehriger-stuerzt-in-allgaeuer-bergen-ab-und-stirbt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/22-jaehriger-stuerzt-in-allgaeuer-bergen-ab-und-stirbt",
+      "published": "Mon, 21 Sep 2026 12:53:01 -0000",
+      "published_display": "21.09.2026 · 12:53 Uhr"
+    },
+    {
+      "title": "Aufruf der IG Metall: Protest in Autobranche - So lief der Aktionstag im Südwesten",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/beschaeftigte-der-autoindustrie-im-suedwesten-protestieren-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/beschaeftigte-der-autoindustrie-im-suedwesten-protestieren",
+      "published": "Mon, 21 Sep 2026 12:52:37 -0000",
+      "published_display": "21.09.2026 · 12:52 Uhr"
+    },
+    {
+      "title": "Prozesse: «Nimmt mich mit»: Scheuer nach Mautdebakel vor Gericht",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/ex-minister-scheuer-nach-maut-debakel-vor-gericht-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/ex-minister-scheuer-nach-maut-debakel-vor-gericht",
+      "published": "Mon, 21 Sep 2026 12:52:06 -0000",
+      "published_display": "21.09.2026 · 12:52 Uhr"
+    },
+    {
+      "title": "Nach der Landtagswahl in MV: MV mit Kurs auf Rot-Rot-Grün - «Tiefe Zäsur» für die CDU",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/afd-vorn-spd-gerupft-cdu-raus-wie-geht-es-weiter-in-mv-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/afd-vorn-spd-gerupft-cdu-raus-wie-geht-es-weiter-in-mv",
+      "published": "Mon, 21 Sep 2026 12:51:48 -0000",
+      "published_display": "21.09.2026 · 12:51 Uhr"
+    },
+    {
+      "title": "Bahnverkehr: Geduldsprobe zwischen Hannover und Hamburg - kein Entscheid",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/geduldsprobe-zwischen-hannover-und-hamburg-kein-entscheid-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/geduldsprobe-zwischen-hannover-und-hamburg-kein-entscheid",
+      "published": "Mon, 21 Sep 2026 12:51:36 -0000",
+      "published_display": "21.09.2026 · 12:51 Uhr"
+    },
+    {
+      "title": "Regierungskrise: Friedrich Merz kündigt »sehr große Kraftanstrengung« an",
+      "summary": "Nach dem Wahldebakel der CDU in Mecklenburg-Vorpommern ist Merz vor die Presse getreten. CDU und SPD wollen an der Koalition festhalten und die Wahlen aufarbeiten.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/friedrich-merz-cdu-sachsen-anhalt-wahlergebnisse-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/friedrich-merz-cdu-sachsen-anhalt-wahlergebnisse",
+      "published": "Mon, 21 Sep 2026 12:48:01 -0000",
+      "published_display": "21.09.2026 · 12:48 Uhr"
+    },
+    {
+      "title": "Wasserschutzpolizei ermittelt: Schiff prallt gegen Schleuse - Millionenschaden",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/schiff-prallt-gegen-schleuse-millionenschaden-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/schiff-prallt-gegen-schleuse-millionenschaden",
+      "published": "Mon, 21 Sep 2026 12:47:21 -0000",
+      "published_display": "21.09.2026 · 12:47 Uhr"
+    },
     {
       "title": "Verstoß gegen Datenschutz: Ärger um Standortdaten: Google muss 400 Millionen zahlen",
       "summary": "",
@@ -25,14 +89,6 @@
       "link": "https://www.zeit.de/zeit-magazin/wochenmarkt/2026-09/meze-trio-hummus-atom-muecver-rezept-wochenmarkt",
       "published": "Mon, 21 Sep 2026 12:41:32 -0000",
       "published_display": "21.09.2026 · 12:41 Uhr"
-    },
-    {
-      "title": "Regierungskrise: Friedrich Merz kündigt »sehr große Kraftanstrengung« an",
-      "summary": "Nach dem Wahldebakel der CDU in Mecklenburg-Vorpommern ist Merz vor die Presse getreten. CDU und SPD wollen an der Koalition festhalten und die Wahlen aufarbeiten.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/friedrich-merz-cdu-sachsen-anhalt-wahlergebnisse-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/friedrich-merz-cdu-sachsen-anhalt-wahlergebnisse",
-      "published": "Mon, 21 Sep 2026 12:40:55 -0000",
-      "published_display": "21.09.2026 · 12:40 Uhr"
     },
     {
       "title": "Kabinettsumbau: Kreise: Söder holt zwei neue Minister in sein Kabinett",
@@ -65,62 +121,6 @@
       "link": "https://www.zeit.de/politik/ausland/2026-09/cnn-ms-now-politico-klage-donald-trump-weissem-haus-journalisten",
       "published": "Mon, 21 Sep 2026 12:35:11 -0000",
       "published_display": "21.09.2026 · 12:35 Uhr"
-    },
-    {
-      "title": "Freizeit: Wein, Wald und Wanderlust – Tipps für Touren im Herbst",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/wein-wald-und-wanderlust-tipps-fuer-touren-im-herbst-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/wein-wald-und-wanderlust-tipps-fuer-touren-im-herbst",
-      "published": "Mon, 21 Sep 2026 12:34:29 -0000",
-      "published_display": "21.09.2026 · 12:34 Uhr"
-    },
-    {
-      "title": "Aprikosensalat mit Ricotta Salata: In den Salat kommt heute Salata",
-      "summary": "Zeit, ein letztes Mal den Früchten des Spätsommers zu huldigen. In diesem Salat balanciert würziger Ricotta Salata die Süße der Aprikosen elegant aus.",
-      "image": "https://img.zeit.de/zeit-magazin/wochenmarkt/2026-09/aprikosen-salat-ricotta-salata-rezept-wochenmarkt-bild/original__640x360",
-      "link": "https://www.zeit.de/zeit-magazin/wochenmarkt/2026-09/aprikosen-salat-ricotta-salata-rezept-wochenmarkt",
-      "published": "Mon, 21 Sep 2026 12:34:21 -0000",
-      "published_display": "21.09.2026 · 12:34 Uhr"
-    },
-    {
-      "title": "Spanien: Neuer Vertrag für de la Fuente: «Das Beste kommt erst noch»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/titel-trainer-verlaengert-neuer-vertrag-fuer-de-la-fuente-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/titel-trainer-verlaengert-neuer-vertrag-fuer-de-la-fuente",
-      "published": "Mon, 21 Sep 2026 12:34:14 -0000",
-      "published_display": "21.09.2026 · 12:34 Uhr"
-    },
-    {
-      "title": "Gewerkschaften: Tausende aus Autoindustrie demonstrieren in Bayern",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/tausende-aus-autoindustrie-demonstrieren-in-bayern-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/tausende-aus-autoindustrie-demonstrieren-in-bayern",
-      "published": "Mon, 21 Sep 2026 12:34:10 -0000",
-      "published_display": "21.09.2026 · 12:34 Uhr"
-    },
-    {
-      "title": "Zugunfall: Nach tödlichem Zugunfall in Geseke Ermittlungen eingestellt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/nach-toedlichem-zugunfall-in-geseke-ermittlungen-eingestellt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/nach-toedlichem-zugunfall-in-geseke-ermittlungen-eingestellt",
-      "published": "Mon, 21 Sep 2026 12:33:22 -0000",
-      "published_display": "21.09.2026 · 12:33 Uhr"
-    },
-    {
-      "title": "Wahlen: Fehler vor Stichwahl in Achim: Unterlagen doppelt verschickt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/fehler-vor-stichwahl-in-achim-unterlagen-doppelt-verschickt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/fehler-vor-stichwahl-in-achim-unterlagen-doppelt-verschickt",
-      "published": "Mon, 21 Sep 2026 12:32:46 -0000",
-      "published_display": "21.09.2026 · 12:32 Uhr"
-    },
-    {
-      "title": "Wahlen in Berlin und Mecklenburg-Vorpommern: Merz bekennt sich zur Koalition und kündigt Gespräche mit der SPD an",
-      "summary": "Der Kanzler steht zur Koalition. Dennoch regt der Hamburger CDU-Chef Dennis Thering an, dass Friedrich Merz im Bundestag die Vertrauensfrage stellt. Das Liveblog",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/mecklenburg-vorpommern-berlin-landtagswahl-live-friedrich-merz-bild-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/mecklenburg-vorpommern-berlin-landtagswahl-live",
-      "published": "Mon, 21 Sep 2026 12:31:52 -0000",
-      "published_display": "21.09.2026 · 12:31 Uhr"
     }
   ]
 }
