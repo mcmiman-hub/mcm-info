@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-21T17:42:44.528631+00:00",
+  "updated": "2026-09-21T17:54:12.683129+00:00",
   "items": [
+    {
+      "title": "Notfälle: Polizei ermittelt zu Amok-Fehlalarm an Schule",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/polizei-ermittelt-zu-amok-fehlalarm-an-schule-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/polizei-ermittelt-zu-amok-fehlalarm-an-schule",
+      "published": "Mon, 21 Sep 2026 17:48:18 -0000",
+      "published_display": "21.09.2026 · 17:48 Uhr"
+    },
+    {
+      "title": "Russische Milliardäre: EU will Sanktionen gegen russische Milliardäre aufheben",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/eu-will-sanktionen-gegen-russische-milliardaere-aufheben-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/eu-will-sanktionen-gegen-russische-milliardaere-aufheben",
+      "published": "Mon, 21 Sep 2026 17:48:11 -0000",
+      "published_display": "21.09.2026 · 17:48 Uhr"
+    },
+    {
+      "title": "Landtagswahl MV: SPD in MV für Gespräche mit Linken und Grünen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/spd-in-mv-fuer-gespraeche-mit-linken-und-gruenen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/spd-in-mv-fuer-gespraeche-mit-linken-und-gruenen",
+      "published": "Mon, 21 Sep 2026 17:41:26 -0000",
+      "published_display": "21.09.2026 · 17:41 Uhr"
+    },
     {
       "title": "Hollywood-Megadeal: Paramount auf Weg zu Warner-Kauf nach Deal mit Bundesstaaten",
       "summary": "",
@@ -62,7 +86,7 @@
       "title": "Personaldebatte: Politiker von SPD und CDU sprechen sich für Ämtertrennung aus",
       "summary": "Nach den Landtagswahlen stehen die Parteichefs von CDU und SPD intern unter Druck. Erste Vertreter fordern eine Trennung von Partei- und Regierungsämtern.",
       "image": "https://img.zeit.de/politik/deutschland/2026-09/spd-doppelspitze-baerbel-bas-lars-klingbeil-kritik-nrw-ruhrgebiet-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/spd-doppelspitze-baerbel-bas-lars-klingbeil-kritik-nrw-ruhrgebiet",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/cdu-spd-trennung-aemter-regierung-partei",
       "published": "Mon, 21 Sep 2026 17:26:36 -0000",
       "published_display": "21.09.2026 · 17:26 Uhr"
     },
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/21/berliner-cdu-schlaegt-stefan-evers-fuer-fraktionsvorsitz-vor",
       "published": "Mon, 21 Sep 2026 17:19:01 -0000",
       "published_display": "21.09.2026 · 17:19 Uhr"
-    },
-    {
-      "title": "Zusammenhang zwischen Taten?: Brandstifter zünden nachts mehrere Autos an",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/brandstifter-zuenden-nachts-mehrere-autos-an-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/brandstifter-zuenden-nachts-mehrere-autos-an",
-      "published": "Mon, 21 Sep 2026 17:08:56 -0000",
-      "published_display": "21.09.2026 · 17:08 Uhr"
-    },
-    {
-      "title": "AfD-Wahlsiege: »Jetzt bloß nicht zurück zur Tagesordnung«",
-      "summary": "Was hilft im Umgang mit den AfD-Wahlerfolgen? Fatalismus und Selbstberuhigung jedenfalls nicht, kommentiert Robert Pausch, politischer Korrespondent der ZEIT.",
-      "image": "https://img.zeit.de/video/2026-09/pausch-kommentar-afd/original__640x360",
-      "link": "https://www.zeit.de/video/2026-09/afd-wahlsieg-mecklenburg-vorpommern-spd-cdu-debatte",
-      "published": "Mon, 21 Sep 2026 17:08:22 -0000",
-      "published_display": "21.09.2026 · 17:08 Uhr"
-    },
-    {
-      "title": "CDU nach den Landtagswahlen: Es geht nicht mit Merz, es geht nicht ohne Merz",
-      "summary": "Am Tag nach dem schlimmsten Absturz der CDU fällt der Aufstand gegen den Kanzler aus. Stattdessen bricht Streit los über einen neuen Kurs von Partei und Regierung.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/cdu-landtagswahlen-berlin-mecklenburg-vorpommern-ergebnisse-friedrich-merz-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/cdu-landtagswahlen-berlin-mecklenburg-vorpommern-ergebnisse-friedrich-merz",
-      "published": "Mon, 21 Sep 2026 17:04:10 -0000",
-      "published_display": "21.09.2026 · 17:04 Uhr"
     }
   ]
 }
