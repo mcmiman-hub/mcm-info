@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-21T21:55:22.880128+00:00",
+  "updated": "2026-09-21T22:17:05.788843+00:00",
   "items": [
+    {
+      "title": "Energiekosten: Prognose: Heizkosten steigen 2026 an",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/22/prognose-heizkosten-steigen-2026-an-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/22/prognose-heizkosten-steigen-2026-an",
+      "published": "Mon, 21 Sep 2026 22:02:04 -0000",
+      "published_display": "21.09.2026 · 22:02 Uhr"
+    },
+    {
+      "title": "Kalenderblatt: Was geschah am 22. September?",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/was-geschah-am-22-september-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/was-geschah-am-22-september",
+      "published": "Mon, 21 Sep 2026 21:55:04 -0000",
+      "published_display": "21.09.2026 · 21:55 Uhr"
+    },
+    {
+      "title": "Gianni Infantino: Fifa-Chef Infantino zeigt sich offen für Gespräche über Reformen",
+      "summary": "Der Chef des Weltfußballverbands hat sich in einem Schreiben an Funktionäre offen für Reformen gezeigt. Trotz Rücktrittsforderungen will er die Fifa weiter führen.",
+      "image": "https://img.zeit.de/sport/2026-09/gianni-infantino-fifa-reformen-krise-brief-foto-1/original__640x360",
+      "link": "https://www.zeit.de/sport/2026-09/gianni-infantino-fifa-reformen-krise-brief",
+      "published": "Mon, 21 Sep 2026 21:55:03 -0000",
+      "published_display": "21.09.2026 · 21:55 Uhr"
+    },
     {
       "title": "KI-Sicherheit: Merz und 17 Staatschefs unterzeichnen Aufruf für KI-Sicherheitsregeln",
       "summary": "KI müsse »unter menschlicher Leitung, Aufsicht und Kontrolle« bleiben, fordern Staats- und Regierungschefs. Sie wollen unabhängige Prüfungen für Unternehmen einführen.",
@@ -51,14 +75,6 @@
       "published_display": "21.09.2026 · 21:03 Uhr"
     },
     {
-      "title": "Gianni Infantino: Fifa-Chef Infantino zeigt sich offen für Gespräche über Reformen",
-      "summary": "Der Chef des Weltfußballverbands hat sich in einem Schreiben an Funktionäre offen für Reformen gezeigt. Trotz Rücktrittsforderungen will er die Fifa weiter führen.",
-      "image": "https://img.zeit.de/sport/2026-09/gianni-infantino-fifa-reformen-krise-brief-foto-1/original__640x360",
-      "link": "https://www.zeit.de/sport/2026-09/gianni-infantino-fifa-reformen-krise-brief",
-      "published": "Mon, 21 Sep 2026 20:58:33 -0000",
-      "published_display": "21.09.2026 · 20:58 Uhr"
-    },
-    {
       "title": "Spritpreise: Regierung hat Tankrabatt auf den Weg gebracht",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-09/21/regierung-drueckt-beim-tankrabatt-aufs-tempo-image-group/original__640x360",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/21/motorradfahrer-stirbt-nach-schwerem-unfall-auf-k4",
       "published": "Mon, 21 Sep 2026 20:21:39 -0000",
       "published_display": "21.09.2026 · 20:21 Uhr"
-    },
-    {
-      "title": "Fußball: FIFA-Präsident Infantino bereit für Reformen",
-      "summary": "",
-      "image": "",
-      "link": "https://www.zeit.de/news/2026-09/21/fifa-praesident-infantino-bereit-fuer-reformen",
-      "published": "Mon, 21 Sep 2026 20:21:12 -0000",
-      "published_display": "21.09.2026 · 20:21 Uhr"
-    },
-    {
-      "title": "Kanzler-Spekulationen: Wüst: «Ich möchte Ministerpräsident bleiben»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/wuest-ich-moechte-ministerpraesident-bleiben-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/wuest-ich-moechte-ministerpraesident-bleiben",
-      "published": "Mon, 21 Sep 2026 20:20:28 -0000",
-      "published_display": "21.09.2026 · 20:20 Uhr"
     }
   ]
 }
