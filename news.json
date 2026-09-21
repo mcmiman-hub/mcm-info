@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-21T22:42:53.439740+00:00",
+  "updated": "2026-09-21T22:54:17.080880+00:00",
   "items": [
+    {
+      "title": "Notfälle: Oktoberfest: Mitarbeiter nach Fahrgeschäft-Unfall gestorben",
+      "summary": "",
+      "image": "",
+      "link": "https://www.zeit.de/news/2026-09/22/oktoberfest-mitarbeiter-nach-fahrgeschaeft-unfall-gestorben",
+      "published": "Mon, 21 Sep 2026 22:50:19 -0000",
+      "published_display": "21.09.2026 · 22:50 Uhr"
+    },
     {
       "title": "Kabinettsumbau: Freie-Wähler-Nachwuchs: Söder hat Angst vor unserem Erfolg",
       "summary": "",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/politik/ausland/2026-09/paramount-warner-bros-discovery-uebernahme-cnn-cbs-news",
       "published": "Mon, 21 Sep 2026 20:50:19 -0000",
       "published_display": "21.09.2026 · 20:50 Uhr"
-    },
-    {
-      "title": "Fußball: Infantino bereit für Reformen - Aber kein Rückzug",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/infantino-bereit-fuer-reformen-aber-kein-rueckzug-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/infantino-bereit-fuer-reformen-aber-kein-rueckzug",
-      "published": "Mon, 21 Sep 2026 20:46:52 -0000",
-      "published_display": "21.09.2026 · 20:46 Uhr"
     }
   ]
 }
