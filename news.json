@@ -1,7 +1,39 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-21T17:16:52.669292+00:00",
+  "updated": "2026-09-21T17:27:15.841233+00:00",
   "items": [
+    {
+      "title": "Pressefreiheit in den USA: Rauswurf aus Weißem Haus: Trumps Streit mit Medien eskaliert",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/drei-us-medien-planen-klage-gegen-ausschluss-aus-weissem-haus-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/drei-us-medien-planen-klage-gegen-ausschluss-aus-weissem-haus",
+      "published": "Mon, 21 Sep 2026 17:23:46 -0000",
+      "published_display": "21.09.2026 · 17:23 Uhr"
+    },
+    {
+      "title": "»Sounds of Loss«: In Manhattan ist der Tod jetzt unüberhörbar",
+      "summary": "Es ist UN-Weltfriedenstag, doch vielerorts herrscht Krieg. Der deutsche Künstler Philip Gröning erinnert daran in einer spektakulär subtilen Klanginstallation.",
+      "image": "https://img.zeit.de/feuilleton/kunst/2026-09/sounds-of-loss-philip-groening-st-john-the-divine-new-york-city-bilder/usa-new-york-city-manhattan-st-john-the-divine-bild/original__640x360",
+      "link": "https://www.zeit.de/feuilleton/2026-09/sounds-of-loss-philip-groening-kathedrale-st-johns-manhattan-klanginstallation",
+      "published": "Mon, 21 Sep 2026 17:22:39 -0000",
+      "published_display": "21.09.2026 · 17:22 Uhr"
+    },
+    {
+      "title": "Abgeordnetenhauswahl in Berlin: Mehrere Jugendliche in Berlin zunächst vom Wählen abgehalten",
+      "summary": "In Berlin sind Jugendliche aus den Wahllokalen geschickt worden. Einzlenen Wahlhelfern sei offenbar nicht klar gewesen, dass in diesem Jahr ab 16 gewählt werden durfte.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/abgeordnetenhauswahl-berlin-wahlrecht-16-jaehrige-wahlhelfer-stephan-broechler-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/abgeordnetenhauswahl-berlin-wahlrecht-16-jaehrige-wahlhelfer-stephan-broechler",
+      "published": "Mon, 21 Sep 2026 17:20:20 -0000",
+      "published_display": "21.09.2026 · 17:20 Uhr"
+    },
+    {
+      "title": "Nach der Wahl: Berliner CDU schlägt Stefan Evers für Fraktionsvorsitz vor",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/berliner-cdu-schlaegt-stefan-evers-fuer-fraktionsvorsitz-vor-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/berliner-cdu-schlaegt-stefan-evers-fuer-fraktionsvorsitz-vor",
+      "published": "Mon, 21 Sep 2026 17:19:01 -0000",
+      "published_display": "21.09.2026 · 17:19 Uhr"
+    },
     {
       "title": "Zusammenhang zwischen Taten?: Brandstifter zünden nachts mehrere Autos an",
       "summary": "",
@@ -27,14 +59,6 @@
       "published_display": "21.09.2026 · 17:04 Uhr"
     },
     {
-      "title": "Abgeordnetenhauswahl in Berlin: Mehrere Jugendliche in Berlin zunächst vom Wählen abgehalten",
-      "summary": "In Berlin sind Jugendliche aus den Wahllokalen geschickt worden. Einzlenen Wahlhelfern sei offenbar nicht klar gewesen, dass in diesem Jahr ab 16 gewählt werden durfte.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/abgeordnetenhauswahl-berlin-wahlrecht-16-jaehrige-wahlhelfer-stephan-broechler-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/abgeordnetenhauswahl-berlin-wahlrecht-16-jaehrige-wahlhelfer-stephan-broechler",
-      "published": "Mon, 21 Sep 2026 16:59:20 -0000",
-      "published_display": "21.09.2026 · 16:59 Uhr"
-    },
-    {
       "title": "Kriselnder Autobauer: VW-Markenchef kündigt Tempo bei laufendem Sparprogramm an",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-09/21/vw-markenchef-kuendigt-tempo-bei-laufendem-sparprogramm-an-image-group/original__640x360",
@@ -49,14 +73,6 @@
       "link": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
       "published": "Mon, 21 Sep 2026 16:54:55 -0000",
       "published_display": "21.09.2026 · 16:54 Uhr"
-    },
-    {
-      "title": "Pressefreiheit in den USA: Rauswurf aus Weißem Haus: Trumps Streit mit Medien eskaliert",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/drei-us-medien-planen-klage-gegen-ausschluss-aus-weissem-haus-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/drei-us-medien-planen-klage-gegen-ausschluss-aus-weissem-haus",
-      "published": "Mon, 21 Sep 2026 16:51:04 -0000",
-      "published_display": "21.09.2026 · 16:51 Uhr"
     },
     {
       "title": "Nach der Wahl in Berlin: Sondierungen in Berlin könnten nächste Woche beginnen",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/politik/ausland/2026-09/donald-trump-cnn-hausverbot-medien-weisses-haus-gxe",
       "published": "Mon, 21 Sep 2026 16:26:17 -0000",
       "published_display": "21.09.2026 · 16:26 Uhr"
-    },
-    {
-      "title": "Wahlen: Union und SPD wollen weiter regieren und sehen Handlungsbedarf",
-      "summary": "Bundeskanzler Merz sieht Bundesregierung und CDU vor einer »großen Kraftanstrengung«. Die SPD-Spitze fordert Nachbesserungen bei den Reformen. Das Liveblog zum Nachlesen.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/mecklenburg-vorpommern-berlin-landtagswahl-live-bild-3/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/mecklenburg-vorpommern-berlin-landtagswahl-live",
-      "published": "Mon, 21 Sep 2026 16:26:10 -0000",
-      "published_display": "21.09.2026 · 16:26 Uhr"
-    },
-    {
-      "title": "Wahl in Berlin: Grüne fordern klare Distanzierung der Linken von Wahlparty-Gästen",
-      "summary": "Felix Banaszak kritisiert den Besuch eines Clanchefs und eines Anti-Israel-Aktivisten bei den Linken. Eine Koalition mit seiner Partei gebe es nicht als »Blankoscheck«.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/berliner-gruenen-rot-gruen-rot-clan-linke-berlin-felix-banaszak-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/berliner-gruenen-rot-gruen-rot-clan-linke-berlin-felix-banaszak-gxe",
-      "published": "Mon, 21 Sep 2026 16:15:37 -0000",
-      "published_display": "21.09.2026 · 16:15 Uhr"
     }
   ]
 }
