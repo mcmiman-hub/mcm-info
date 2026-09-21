@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-21T04:32:32.411720+00:00",
+  "updated": "2026-09-21T04:45:59.289207+00:00",
   "items": [
+    {
+      "title": "Wetter: Ungemütlicher Start in die Woche",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/ungemuetlicher-start-in-die-woche-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/ungemuetlicher-start-in-die-woche",
+      "published": "Mon, 21 Sep 2026 04:38:04 -0000",
+      "published_display": "21.09.2026 · 04:38 Uhr"
+    },
+    {
+      "title": "Bundesligarückschau: Der doppelte Klopp-Effekt",
+      "summary": "Jürgens Auserwählte treffen im Minutentakt. Aber auch die, die er nicht nominiert hat. Der 4. Bundesligaspieltag stand unter enormem Einfluss des neuen Bundestrainers.",
+      "image": "https://img.zeit.de/sport/2026-09/juergen-klopp-dfb/original__640x360",
+      "link": "https://www.zeit.de/sport/2026-09/juergen-klopp-nominierung-44-nationalspieler",
+      "published": "Mon, 21 Sep 2026 04:35:10 -0000",
+      "published_display": "21.09.2026 · 04:35 Uhr"
+    },
     {
       "title": "Manuela Schwesig: »Tut weh, wenn man diesen krassen blauen Balken sieht«",
       "summary": "Manuela Schwesig hat eine fulminante Aufholjagd hingelegt, am Wahlabend kommt fast Feierstimmung auf. Doch es bleibt auch die Gewissheit: Die AfD ist nicht zu schlagen.",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/21/trumps-neuer-triumphbogen-soll-als-militaerstuetzpunkt-dienen",
       "published": "Mon, 21 Sep 2026 03:43:58 -0000",
       "published_display": "21.09.2026 · 03:43 Uhr"
-    },
-    {
-      "title": "Künstliche Intelligenz: USA schlagen China Dialogforum für KI-Vorfälle vor",
-      "summary": "Der US-Finanzminister schlägt eine engere Zusammenarbeit mit China bei Vorfällen rund um künstliche Intelligenz vor. Geplant seien gegenseitige Benachrichtigungen.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/us-treasury-s-bessent-and-china-s-vice-premier-he-to-launch-talks-on-ai-trade-and-critical-minerals-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/scott-bessent-he-lifeng-usa-china-ki-dialog-trump-xi-gipfel",
-      "published": "Mon, 21 Sep 2026 03:41:53 -0000",
-      "published_display": "21.09.2026 · 03:41 Uhr"
-    },
-    {
-      "title": "Brände: Brand auf Schulgelände in Steglitz",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/brand-auf-schulgelaende-in-steglitz-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/brand-auf-schulgelaende-in-steglitz",
-      "published": "Mon, 21 Sep 2026 03:39:48 -0000",
-      "published_display": "21.09.2026 · 03:39 Uhr"
     }
   ]
 }
