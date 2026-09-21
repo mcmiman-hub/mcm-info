@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-21T03:32:37.327249+00:00",
+  "updated": "2026-09-21T03:45:59.035735+00:00",
   "items": [
+    {
+      "title": "Künstliche Intelligenz: USA schlägt China Dialogforum für KI-Vorfälle vor",
+      "summary": "Der US-Finanzminister schlägt eine engere Zusammenarbeit mit China bei Vorfällen rund um künstliche Intelligenz vor. Geplant seien gegenseitige Benachrichtigungen.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/us-treasury-s-bessent-and-china-s-vice-premier-he-to-launch-talks-on-ai-trade-and-critical-minerals-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/scott-bessent-he-lifeng-usa-china-ki-dialog-trump-xi-gipfel",
+      "published": "Mon, 21 Sep 2026 03:41:53 -0000",
+      "published_display": "21.09.2026 · 03:41 Uhr"
+    },
+    {
+      "title": "Brände: Brand auf Schulgelände in Steglitz",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/brand-auf-schulgelaende-in-steglitz-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/brand-auf-schulgelaende-in-steglitz",
+      "published": "Mon, 21 Sep 2026 03:39:48 -0000",
+      "published_display": "21.09.2026 · 03:39 Uhr"
+    },
+    {
+      "title": "Reaktionen auf Wahlergebnisse: CSU fordert mehr Tempo bei Reformen, SPD warnt vor Überforderung",
+      "summary": "Das Zeitfenster für Reformen werde immer kleiner, warnt die CSU. Ein früherer CDU-Chef in Mecklenburg-Vorpommern wirft Kanzler Friedrich Merz mangelnde Empathie vor.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/klaus-holetschek-csu-friedrich-merz-reformen-cdu-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/klaus-holetschek-csu-friedrich-merz-reformen-cdu",
+      "published": "Mon, 21 Sep 2026 03:33:58 -0000",
+      "published_display": "21.09.2026 · 03:33 Uhr"
+    },
     {
       "title": "Sonntagkrimi-Dreharbeiten: «Tatort» mit Möhring dreht sich um Mord an der Nordsee",
       "summary": "",
@@ -96,30 +120,6 @@
       "image": "https://img.zeit.de/news/2026-09/21/letzte-zuege-der-riesling-ernte-in-rheinland-pfalz-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-09/21/letzte-zuege-der-riesling-ernte-in-rheinland-pfalz",
       "published": "Mon, 21 Sep 2026 03:00:19 -0000",
-      "published_display": "21.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Überblick: Sport am Wochenende: Bayern feiern in Tracht, Zverev jubelt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/sport-am-wochenende-bayern-feiern-in-tracht-zverev-jubelt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/sport-am-wochenende-bayern-feiern-in-tracht-zverev-jubelt",
-      "published": "Mon, 21 Sep 2026 03:00:18 -0000",
-      "published_display": "21.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Gesundheit: AOK: Herzschwäche trifft sozial Benachteiligte besonders",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/aok-herzschwaeche-trifft-sozial-benachteiligte-besonders-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/aok-herzschwaeche-trifft-sozial-benachteiligte-besonders",
-      "published": "Mon, 21 Sep 2026 03:00:17 -0000",
-      "published_display": "21.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Freizeit: Wein, Wald und Wanderlust – Tipps für Touren im Herbst",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/wein-wald-und-wanderlust-tipps-fuer-touren-im-herbst-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/wein-wald-und-wanderlust-tipps-fuer-touren-im-herbst",
-      "published": "Mon, 21 Sep 2026 03:00:09 -0000",
       "published_display": "21.09.2026 · 03:00 Uhr"
     }
   ]
