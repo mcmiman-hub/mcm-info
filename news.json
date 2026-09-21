@@ -1,10 +1,34 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-21T16:18:13.013900+00:00",
+  "updated": "2026-09-21T16:31:37.335574+00:00",
   "items": [
     {
+      "title": "Mercedes-Benz: Mercedes kündigt mögliche Schließung von zwei Werken in Deutschland an",
+      "summary": "Laut Produktionsvorstand von Mercedes müssen zwei Werke in Deutschland geschlossen werden, wenn die Kosten nicht sinken. Das Ziel sei jedoch, alle Werke zu erhalten.",
+      "image": "https://img.zeit.de/wirtschaft/unternehmen/2026-09/mercedes-werksschliessung-michael-schiebe-kostensenkung-foto-1/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/unternehmen/2026-09/mercedes-werksschliessung-michael-schiebe-kostensenkung",
+      "published": "Mon, 21 Sep 2026 16:27:55 -0000",
+      "published_display": "21.09.2026 · 16:27 Uhr"
+    },
+    {
+      "title": "Pressefreiheit in den USA: Große US-Sender schränken Berichterstattung über Donald Trump ein",
+      "summary": "Das Weiße Haus hat unliebsame Korrespondenten mit Hausverboten belegt. Die größten Sender des Landes zeigen sich solidarisch – darunter auch das Trump-nahe Fox News.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/donald-trump-cnn-hausverbot-medien-weisses-haus-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/donald-trump-cnn-hausverbot-medien-weisses-haus",
+      "published": "Mon, 21 Sep 2026 16:26:17 -0000",
+      "published_display": "21.09.2026 · 16:26 Uhr"
+    },
+    {
+      "title": "Wahlen: Union und SPD wollen weiter regieren und sehen Handlungsbedarf",
+      "summary": "Bundeskanzler Merz sieht Bundesregierung und CDU vor einer »großen Kraftanstrengung«. Die SPD-Spitze fordert Nachbesserungen bei den Reformen. Das Liveblog zum Nachlesen.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/mecklenburg-vorpommern-berlin-landtagswahl-live-bild-3/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/mecklenburg-vorpommern-berlin-landtagswahl-live",
+      "published": "Mon, 21 Sep 2026 16:26:10 -0000",
+      "published_display": "21.09.2026 · 16:26 Uhr"
+    },
+    {
       "title": "Wahl in Berlin: Grüne fordern klare Distanzierung der Linken von Wahlparty-Gästen",
-      "summary": "Felix Banaszak kritisiert den Besuch eines Clan-Chefs und eines Anti-Israel-Aktivisten bei den Linken. Eine Koalition mit seiner Partei gebe es nicht als »Blankoscheck«.",
+      "summary": "Felix Banaszak kritisiert den Besuch eines Clanchefs und eines Anti-Israel-Aktivisten bei den Linken. Eine Koalition mit seiner Partei gebe es nicht als »Blankoscheck«.",
       "image": "https://img.zeit.de/politik/deutschland/2026-09/berliner-gruenen-rot-gruen-rot-clan-linke-berlin-felix-banaszak-foto-1/original__640x360",
       "link": "https://www.zeit.de/politik/deutschland/2026-09/berliner-gruenen-rot-gruen-rot-clan-linke-berlin-felix-banaszak",
       "published": "Mon, 21 Sep 2026 16:15:37 -0000",
@@ -41,14 +65,6 @@
       "link": "https://www.zeit.de/news/2026-09/21/warum-rot-gruen-rot-in-berlin-kein-selbstlaeufer-wird",
       "published": "Mon, 21 Sep 2026 15:56:39 -0000",
       "published_display": "21.09.2026 · 15:56 Uhr"
-    },
-    {
-      "title": "Wahlen: SPD-Gesundheitspolitiker begrüßt Merz-Aussagen zu Krankenversicherung",
-      "summary": "Der Kanzler sieht ein Gerechtigkeitsproblem im Krankenkassensystem. Christos Pantazis begrüßt das, eine Regierungssprecherin relativiert die Merz-Aussage. Das Liveblog",
-      "image": "https://img.zeit.de/politik/2026-09/christos-pantazis-bundestag-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/mecklenburg-vorpommern-berlin-landtagswahl-live",
-      "published": "Mon, 21 Sep 2026 15:53:07 -0000",
-      "published_display": "21.09.2026 · 15:53 Uhr"
     },
     {
       "title": "Musik-Festival: Fanta Vier eröffnet in Wolfsburg - Roland Kaiser kommt auch",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/21/streeck-sucht-bundesweite-loesungen-im-kampf-gegen-drogen",
       "published": "Mon, 21 Sep 2026 15:38:00 -0000",
       "published_display": "21.09.2026 · 15:38 Uhr"
-    },
-    {
-      "title": "Berufstätige Eltern: »Ich habe meine Eltern nur überlastet erlebt«",
-      "summary": "Sie mussten früh selbstständig werden und waren oft einsam: Hier erzählen sieben Menschen, wie belastend es war, dass ihre Eltern beide in Vollzeit gearbeitet haben.",
-      "image": "https://img.zeit.de/arbeit/2026-09/berufstaetig-eltern-vollzeit-kinder-erziehung-entwicklung-bild/original__640x360",
-      "link": "https://www.zeit.de/arbeit/2026-09/berufstaetig-eltern-vollzeit-kinder-erziehung-entwicklung",
-      "published": "Mon, 21 Sep 2026 15:36:37 -0000",
-      "published_display": "21.09.2026 · 15:36 Uhr"
-    },
-    {
-      "title": "Brände: Anwesen im Vogelsbergkreis steht in Flammen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/anwesen-im-vogelsbergkreis-steht-in-flammen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/anwesen-im-vogelsbergkreis-steht-in-flammen",
-      "published": "Mon, 21 Sep 2026 15:32:53 -0000",
-      "published_display": "21.09.2026 · 15:32 Uhr"
     }
   ]
 }
