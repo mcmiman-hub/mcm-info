@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-21T05:44:04.337856+00:00",
+  "updated": "2026-09-21T05:55:30.460067+00:00",
   "items": [
+    {
+      "title": "Wahlen in Berlin und Mecklenburg-Vorpommern: Holm sieht keine Chance auf AfD-Regierungsbeteiligung",
+      "summary": "In Mecklenburg-Vorpommern wird laut Wahlsieger Leif Erik Holm die AfD wohl nicht an der Regierung beteiligt. Die Debatte um Kanzler und Koalition dauert an. Das Liveblog",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/mecklenburg-vorpommern-berlin-landtagswahl-live-erik-holm-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/mecklenburg-vorpommern-berlin-landtagswahl-live",
+      "published": "Mon, 21 Sep 2026 05:49:42 -0000",
+      "published_display": "21.09.2026 · 05:49 Uhr"
+    },
+    {
+      "title": "Model-Familie: Cindy Crawfords Sohn Presley Gerber mit 27 Jahren gestorben",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/cindy-crawfords-sohn-presley-gerber-mit-27-jahren-gestorben-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/cindy-crawfords-sohn-presley-gerber-mit-27-jahren-gestorben",
+      "published": "Mon, 21 Sep 2026 05:43:12 -0000",
+      "published_display": "21.09.2026 · 05:43 Uhr"
+    },
     {
       "title": "Berlin-Wahl: Krach: Ermittlungen waren sicher «kein Vorteil»",
       "summary": "",
@@ -91,14 +107,6 @@
       "published_display": "21.09.2026 · 05:20 Uhr"
     },
     {
-      "title": "Wahlen in Berlin und Mecklenburg-Vorpommern: Kanzler und CDU suchen nach historischem Debakel Ausweg aus der Krise",
-      "summary": "Hat das CDU-Debakel Folgen für Kanzler und Koalition? Wer regiert die Hauptstadt, wer in Mecklenburg-Vorpommern? Alle Entwicklungen am Tag nach den Wahlen im Liveblog",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/mecklenburg-vorpommern-berlin-landtagswahl-live-bild-2/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/mecklenburg-vorpommern-berlin-landtagswahl-live",
-      "published": "Mon, 21 Sep 2026 05:16:41 -0000",
-      "published_display": "21.09.2026 · 05:16 Uhr"
-    },
-    {
       "title": "US-Einwanderungsbehörde: ICE-Beamter schießt Mann in Texas nieder",
       "summary": "Ein Beamter der US-Einwanderungsbehörde ICE hat in der Stadt Austin einen Mann angeschossen und schwer verletzt. Die Demokraten fordern eine Untersuchung des Vorfalls.",
       "image": "https://img.zeit.de/politik/ausland/2026-09/austin-texas-ice-polizei-schuesse-unabhaengige-ermittlung-bild/original__640x360",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/21/motorradfahrer-kommt-von-strasse-ab-schwer-verletzt",
       "published": "Mon, 21 Sep 2026 05:04:09 -0000",
       "published_display": "21.09.2026 · 05:04 Uhr"
-    },
-    {
-      "title": "Wahlen: Holetschek fordert Tempo bei Reformen nach CDU-Wahldebakel",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/holetschek-fordert-tempo-bei-reformen-nach-cdu-wahldebakel-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/holetschek-fordert-tempo-bei-reformen-nach-cdu-wahldebakel",
-      "published": "Mon, 21 Sep 2026 05:03:53 -0000",
-      "published_display": "21.09.2026 · 05:03 Uhr"
     }
   ]
 }
