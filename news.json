@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-21T20:28:48.737831+00:00",
+  "updated": "2026-09-21T20:42:20.817098+00:00",
   "items": [
+    {
+      "title": "Paramount und Warner: Paramount einigt sich mit US-Bundesstaaten über Warner-Kauf",
+      "summary": "Der Rechtsstreit zur Übernahme von Warner durch Paramount wurde beigelegt. CNN soll vor Einflussnahme durch die Nähe der Eigentümer zur Trump-Regierung geschützt werden.",
+      "image": "",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/paramount-warner-bros-discovery-uebernahme-cnn-cbs-news",
+      "published": "Mon, 21 Sep 2026 20:41:24 -0000",
+      "published_display": "21.09.2026 · 20:41 Uhr"
+    },
+    {
+      "title": "Notfälle: Rettungseinsatz an Oktoberfest-Fahrgeschäft",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/rettungseinsatz-an-oktoberfest-fahrgeschaeft-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/rettungseinsatz-an-oktoberfest-fahrgeschaeft",
+      "published": "Mon, 21 Sep 2026 20:40:35 -0000",
+      "published_display": "21.09.2026 · 20:40 Uhr"
+    },
     {
       "title": "Russische Milliardäre: Zoff um Oligarchen: Vorerst kein Deal zu Russland-Sanktionen",
       "summary": "",
@@ -33,14 +49,6 @@
       "link": "https://www.zeit.de/news/2026-09/21/wuest-ich-moechte-ministerpraesident-bleiben",
       "published": "Mon, 21 Sep 2026 20:20:28 -0000",
       "published_display": "21.09.2026 · 20:20 Uhr"
-    },
-    {
-      "title": "Paramount und Warner: Paramount einigt sich mit US-Bundesstaaten über Warner-Kauf",
-      "summary": "Der Rechtsstreit zur Übernahme von Warner durch Paramount wurde beigelegt. CNN soll vor Einflussnahme durch die Nähe der Eigentümer zur Trump-Regierung geschützt werden.",
-      "image": "",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/paramount-warner-bros-discovery-uebernahme-cnn-cbs-news",
-      "published": "Mon, 21 Sep 2026 20:18:04 -0000",
-      "published_display": "21.09.2026 · 20:18 Uhr"
     },
     {
       "title": "Auktion in Paris: Fast eine Million Euro für Bardots Erinnerungsstücke",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/21/cdu-mv-chef-peters-tritt-ab-amthor-soll-vorerst-uebernehmen",
       "published": "Mon, 21 Sep 2026 19:19:05 -0000",
       "published_display": "21.09.2026 · 19:19 Uhr"
-    },
-    {
-      "title": "Landtagswahl Mecklenburg-Vorpommern: Mecklenburg-Vorpommerns CDU-Chef Daniel Peters tritt zurück",
-      "summary": "Nach dem Ausscheiden der CDU aus Mecklenburg-Vorpommerns Landtag tritt Daniel Peters zurück. Philipp Amthor soll die kommissarische Leitung der Landes-CDU übernehmen.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/mecklenburg-vorpommerns-cdu-chef-daniel-peters-tritt-zurueck-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/mecklenburg-vorpommerns-cdu-chef-daniel-peters-tritt-zurueck",
-      "published": "Mon, 21 Sep 2026 19:17:00 -0000",
-      "published_display": "21.09.2026 · 19:17 Uhr"
     }
   ]
 }
