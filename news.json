@@ -1,7 +1,39 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-21T18:20:01.310218+00:00",
+  "updated": "2026-09-21T18:35:42.989268+00:00",
   "items": [
+    {
+      "title": "Andreas Scheuer: »Ich habe nicht die Unwahrheit gesagt«",
+      "summary": "In Berlin hat der Prozess gegen den früheren Verkehrsminister Andreas Scheuer begonnen. Der bestreitet emotional, über das Maut-Debakel im Bundestag gelogen zu haben.",
+      "image": "https://img.zeit.de/wirtschaft/2026-09/ex-bundesverkehrsminister-scheuer-vor-gericht-bild/original__640x360",
+      "link": "https://www.zeit.de/mobilitaet/2026-09/prozess-andreas-scheuer-gericht-berlin-auslaender-maut",
+      "published": "Mon, 21 Sep 2026 18:29:08 -0000",
+      "published_display": "21.09.2026 · 18:29 Uhr"
+    },
+    {
+      "title": "Mecklenburg-Vorpommerns CDU-Chef Daniel Peters tritt zurück",
+      "summary": "",
+      "image": "https://img.zeit.de/administratives/eilmeldung/fallback-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/mecklenburg-vorpommerns-cdu-chef-daniel-peters-tritt-zurueck",
+      "published": "Mon, 21 Sep 2026 18:24:56 -0000",
+      "published_display": "21.09.2026 · 18:24 Uhr"
+    },
+    {
+      "title": "Pressefreiheit in den USA: Rauswurf aus Weißem Haus: Trumps Streit mit Medien eskaliert",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/drei-us-medien-planen-klage-gegen-ausschluss-aus-weissem-haus-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/drei-us-medien-planen-klage-gegen-ausschluss-aus-weissem-haus",
+      "published": "Mon, 21 Sep 2026 18:24:16 -0000",
+      "published_display": "21.09.2026 · 18:24 Uhr"
+    },
+    {
+      "title": "Wahlen: CDU-MV-Chef Peters tritt ab - Amthor soll vorerst übernehmen",
+      "summary": "",
+      "image": "",
+      "link": "https://www.zeit.de/news/2026-09/21/cdu-mv-chef-peters-tritt-ab-amthor-soll-vorerst-uebernehmen",
+      "published": "Mon, 21 Sep 2026 18:20:53 -0000",
+      "published_display": "21.09.2026 · 18:20 Uhr"
+    },
     {
       "title": "Landtagswahl in MV: Holm sieht AfD in MV in der Opposition",
       "summary": "",
@@ -89,38 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/21/paramount-einig-mit-klagenden-bundesstaaten-zu-warner-kauf",
       "published": "Mon, 21 Sep 2026 17:40:09 -0000",
       "published_display": "21.09.2026 · 17:40 Uhr"
-    },
-    {
-      "title": "Nach der Wahl in Berlin: Linke will Berlin regieren und pocht auf Vergesellschaftung",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/linke-will-berlin-regieren-und-pocht-auf-vergesellschaftung-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/linke-will-berlin-regieren-und-pocht-auf-vergesellschaftung",
-      "published": "Mon, 21 Sep 2026 17:36:31 -0000",
-      "published_display": "21.09.2026 · 17:36 Uhr"
-    },
-    {
-      "title": "Brände: Kolumbien: Waldbrand bei Touristenort bedroht Naturreservat",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/kolumbien-waldbrand-bei-touristenort-bedroht-naturreservat-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/kolumbien-waldbrand-bei-touristenort-bedroht-naturreservat",
-      "published": "Mon, 21 Sep 2026 17:35:33 -0000",
-      "published_display": "21.09.2026 · 17:35 Uhr"
-    },
-    {
-      "title": "Aktionstag in der Autobranche: IG Metall: «Wir geben keinen Standort auf»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/ig-metall-fordert-kehrtwende-fuer-zukunft-der-auto-industrie-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/ig-metall-fordert-kehrtwende-fuer-zukunft-der-auto-industrie",
-      "published": "Mon, 21 Sep 2026 17:34:05 -0000",
-      "published_display": "21.09.2026 · 17:34 Uhr"
-    },
-    {
-      "title": "Notfälle: 21-jährige Vermisste aus Wittenberg in der Schweiz gestorben",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/21-jaehrige-vermisste-aus-wittenberg-in-der-schweiz-gestorben-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/21-jaehrige-vermisste-aus-wittenberg-in-der-schweiz-gestorben",
-      "published": "Mon, 21 Sep 2026 17:33:46 -0000",
-      "published_display": "21.09.2026 · 17:33 Uhr"
     }
   ]
 }
