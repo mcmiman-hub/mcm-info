@@ -1,7 +1,71 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-21T07:19:25.083754+00:00",
+  "updated": "2026-09-21T07:33:41.731672+00:00",
   "items": [
+    {
+      "title": "Anschlag in Kohat: Pakistan fliegt erneut Luftangriffe in Afghanistan",
+      "summary": "Nach einem schweren Sprengstoffanschlag in Pakistan greift das Militär erneut Ziele im Nachbarland Afghanistan an. Es soll zahlreiche Tote geben.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/pakistan-afghanistan-anschlag-kohat-ittehad-ul-mujahideen-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/pakistan-afghanistan-anschlag-kohat-ittehad-ul-mujahideen",
+      "published": "Mon, 21 Sep 2026 07:31:51 -0000",
+      "published_display": "21.09.2026 · 07:31 Uhr"
+    },
+    {
+      "title": "Friedrich Merz: Weiterso ist abgewählt",
+      "summary": "Und zack, fliegt die CDU aus dem Landtag. Aber Friedrich Merz will trotz Niederlagen einfach weitermachen. Das ist angenehm frech. Aber fünf Gründe sprechen dagegen.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/friedrich-merz-wahlergebnisse-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/friedrich-merz-wahlergebnisse-cdu-schwarz-rote-koalition",
+      "published": "Mon, 21 Sep 2026 07:31:08 -0000",
+      "published_display": "21.09.2026 · 07:31 Uhr"
+    },
+    {
+      "title": "ÖPNV: Deutschlandticket sorgt für mehr Fahrgäste im Nahverkehr",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/deutschlandticket-sorgt-fuer-mehr-fahrgaeste-im-nahverkehr-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/deutschlandticket-sorgt-fuer-mehr-fahrgaeste-im-nahverkehr",
+      "published": "Mon, 21 Sep 2026 07:27:11 -0000",
+      "published_display": "21.09.2026 · 07:27 Uhr"
+    },
+    {
+      "title": "Tatverdächtige fliehen: 15-Jähriger stirbt an Stichverletzungen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/15-jaehriger-stirbt-an-stichverletzungen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/15-jaehriger-stirbt-an-stichverletzungen",
+      "published": "Mon, 21 Sep 2026 07:26:59 -0000",
+      "published_display": "21.09.2026 · 07:26 Uhr"
+    },
+    {
+      "title": "Landtagswahl in MV: Handwerk fordert nach MV-Wahl rasche Regierungsbildung",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/handwerk-fordert-nach-mv-wahl-rasche-regierungsbildung-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/handwerk-fordert-nach-mv-wahl-rasche-regierungsbildung",
+      "published": "Mon, 21 Sep 2026 07:24:43 -0000",
+      "published_display": "21.09.2026 · 07:24 Uhr"
+    },
+    {
+      "title": "Deutsche Eishockey Liga: Eisbären: Niederlage in Mannheim offenbart Steigerungsbedarf",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/eisbaeren-niederlage-in-mannheim-offenbart-steigerungsbedarf-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/eisbaeren-niederlage-in-mannheim-offenbart-steigerungsbedarf",
+      "published": "Mon, 21 Sep 2026 07:22:46 -0000",
+      "published_display": "21.09.2026 · 07:22 Uhr"
+    },
+    {
+      "title": "Verkehr: Rügenbrücke bis Donnerstag täglich bis 15.00 Uhr gesperrt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/ruegenbruecke-bis-donnerstag-taeglich-bis-15-00-uhr-gesperrt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/ruegenbruecke-bis-donnerstag-taeglich-bis-15-00-uhr-gesperrt",
+      "published": "Mon, 21 Sep 2026 07:20:06 -0000",
+      "published_display": "21.09.2026 · 07:20 Uhr"
+    },
+    {
+      "title": "Verkehrsunfall: Lastwagen mit Bauschutt kippt um – A3 stundenlang gesperrt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/lastwagen-mit-bauschutt-kippt-um-a3-stundenlang-gesperrt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/lastwagen-mit-bauschutt-kippt-um-a3-stundenlang-gesperrt",
+      "published": "Mon, 21 Sep 2026 07:18:56 -0000",
+      "published_display": "21.09.2026 · 07:18 Uhr"
+    },
     {
       "title": "Wahlsieg der Linken in Berlin: Mehrheit in Berlin gegen Enteignung von Immobilienfirmen",
       "summary": "In Berlin gibt es noch immer zu wenig bezahlbaren Wohnraum. Die Linke will große Wohnungsgesellschaften enteignen. Eine Umfrage zeigt aber: Die Mehrheit ist dagegen.",
@@ -35,14 +99,6 @@
       "published_display": "21.09.2026 · 07:09 Uhr"
     },
     {
-      "title": "Anschlag in Kohat: Pakistan fliegt erneut Luftangriffe in Afghanistan",
-      "summary": "Nach einem schweren Sprengstoffanschlag in Pakistan greift das Militär erneut Ziele im Nachbarland Afghanistan an. Es soll zahlreiche Tote geben.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/pakistan-afghanistan-anschlag-kohat-ittehad-ul-mujahideen-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/pakistan-afghanistan-anschlag-kohat-ittehad-ul-mujahideen",
-      "published": "Mon, 21 Sep 2026 07:07:54 -0000",
-      "published_display": "21.09.2026 · 07:07 Uhr"
-    },
-    {
       "title": "SPD in Berlin: Franziska Giffey verpasst Einzug ins Abgeordnetenhaus",
       "summary": "Rund 300 Stimmen fehlten der früheren Regierenden Bürgermeisterin Franziska Giffey für ein Mandat in ihrem Wahlkreis. Ihre politische Zukunft ist damit völlig offen.",
       "image": "https://img.zeit.de/politik/deutschland/2026-09/franziska-giffey-spd-berlin-wahl-rudow-abgeordnetenhaus-foto-1/original__640x360",
@@ -65,62 +121,6 @@
       "link": "https://www.zeit.de/politik/deutschland/2026-09/mecklenburg-vorpommern-berlin-landtagswahl-live",
       "published": "Mon, 21 Sep 2026 07:00:30 -0000",
       "published_display": "21.09.2026 · 07:00 Uhr"
-    },
-    {
-      "title": "Polizei: Vier offene Haftbefehle - Polizei nimmt Mann fest",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/vier-offene-haftbefehle-polizei-nimmt-mann-fest-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/vier-offene-haftbefehle-polizei-nimmt-mann-fest",
-      "published": "Mon, 21 Sep 2026 06:58:32 -0000",
-      "published_display": "21.09.2026 · 06:58 Uhr"
-    },
-    {
-      "title": "Nach MV-Wahl: Chrupalla: Sind gesprächsbereit - geht nicht nur um Regieren",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/chrupalla-sind-gespraechsbereit-geht-nicht-nur-um-regieren-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/chrupalla-sind-gespraechsbereit-geht-nicht-nur-um-regieren",
-      "published": "Mon, 21 Sep 2026 06:50:29 -0000",
-      "published_display": "21.09.2026 · 06:50 Uhr"
-    },
-    {
-      "title": "Berlin-Wahl: Igor Levit kritisiert Merz: Weiter-so in hübscher Verpackung",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/igor-levit-kritisiert-merz-weiter-so-in-huebscher-verpackung-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/igor-levit-kritisiert-merz-weiter-so-in-huebscher-verpackung",
-      "published": "Mon, 21 Sep 2026 06:48:25 -0000",
-      "published_display": "21.09.2026 · 06:48 Uhr"
-    },
-    {
-      "title": "Obsternte: Eine der besten Kirschernten seit Jahren",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/eine-der-besten-kirschernten-seit-jahren-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/eine-der-besten-kirschernten-seit-jahren",
-      "published": "Mon, 21 Sep 2026 06:44:01 -0000",
-      "published_display": "21.09.2026 · 06:44 Uhr"
-    },
-    {
-      "title": "Wahlergebnisse in Mecklenburg-Vorpommern: Wie die CDU in Mecklenburg-Vorpommern untergegangen ist",
-      "summary": "Die CDU ist an der Fünf-Prozent-Hürde gescheitert, zum ersten Mal in ihrer Geschichte. Unsere Datenauswertung zeigt, wo und bei wem sie verloren hat.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/wahlergebnisse-mecklenburg-vorpommern-landtagswahl-karte-gemeinden-teaserbild/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/wahlergebnisse-mecklenburg-vorpommern-landtagswahl-karte-gemeinden",
-      "published": "Mon, 21 Sep 2026 06:40:54 -0000",
-      "published_display": "21.09.2026 · 06:40 Uhr"
-    },
-    {
-      "title": "Spirituosen-Markt: Berentzen unterzeichnet Übernahmevereinbarung mit US-Konzern",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/berentzen-unterzeichnet-uebernahmevereinbarung-mit-us-konzern-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/berentzen-unterzeichnet-uebernahmevereinbarung-mit-us-konzern",
-      "published": "Mon, 21 Sep 2026 06:37:58 -0000",
-      "published_display": "21.09.2026 · 06:37 Uhr"
-    },
-    {
-      "title": "Landtagswahlen: Historische Demütigung für die CDU - Kann Merz sich halten?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/kann-die-fuenf-prozent-huerde-merz-zu-fall-bringen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/20/kann-die-fuenf-prozent-huerde-merz-zu-fall-bringen",
-      "published": "Mon, 21 Sep 2026 06:36:48 -0000",
-      "published_display": "21.09.2026 · 06:36 Uhr"
     }
   ]
 }
