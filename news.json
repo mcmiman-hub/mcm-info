@@ -1,7 +1,39 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-21T10:43:28.235376+00:00",
+  "updated": "2026-09-21T10:55:03.073239+00:00",
   "items": [
+    {
+      "title": "Alkohol am Steuer?: Frau fährt gegen Hauswand und überschlägt sich mit Auto",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/frau-faehrt-gegen-hauswand-und-ueberschlaegt-sich-mit-auto-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/frau-faehrt-gegen-hauswand-und-ueberschlaegt-sich-mit-auto",
+      "published": "Mon, 21 Sep 2026 10:51:06 -0000",
+      "published_display": "21.09.2026 · 10:51 Uhr"
+    },
+    {
+      "title": "Falschaussage zur Maut: Andreas Scheuer weist Vorwürfe im Prozess wegen Falschaussage zurück",
+      "summary": "Der frühere CSU-Verkehrsminister soll vor dem Maut-Untersuchungsausschuss des Bundestags gelogen haben. Andres Scheuer stritt beim Prozessauftakt die Vorwürfe ab.",
+      "image": "https://img.zeit.de/mobilitaet/2026-09/andreas-scheuer-csu-prozess-falschaussage-pkw-maut-gerhard-schulz-foto-1/original__640x360",
+      "link": "https://www.zeit.de/mobilitaet/2026-09/andreas-scheuer-csu-prozess-falschaussage-pkw-maut-gerhard-schulz-gxe",
+      "published": "Mon, 21 Sep 2026 10:50:27 -0000",
+      "published_display": "21.09.2026 · 10:50 Uhr"
+    },
+    {
+      "title": "Anschlag an Ansbacher Schule: Rückflug für Amokläufer – Freistaat bleibt auf Kosten sitzen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/rueckflug-fuer-amoklaeufer-freistaat-bleibt-auf-kosten-sitzen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/rueckflug-fuer-amoklaeufer-freistaat-bleibt-auf-kosten-sitzen",
+      "published": "Mon, 21 Sep 2026 10:47:19 -0000",
+      "published_display": "21.09.2026 · 10:47 Uhr"
+    },
+    {
+      "title": "Verbandstagung: Wirtschaft warnt vor Eingriffen in den Wohnungsmarkt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/wirtschaft-warnt-vor-eingriffen-in-den-wohnungsmarkt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/wirtschaft-warnt-vor-eingriffen-in-den-wohnungsmarkt",
+      "published": "Mon, 21 Sep 2026 10:46:35 -0000",
+      "published_display": "21.09.2026 · 10:46 Uhr"
+    },
     {
       "title": "Abwurf der Blätter: Nach Dürre-Sommer werden Schäden im Wald sichtbar",
       "summary": "",
@@ -89,38 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/21/ex-minister-scheuer-nach-maut-debakel-vor-gericht",
       "published": "Mon, 21 Sep 2026 10:31:33 -0000",
       "published_display": "21.09.2026 · 10:31 Uhr"
-    },
-    {
-      "title": "Nach Wahl: Krach: Es geht jetzt um «Wiederaufbau der Berliner SPD»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/krach-es-geht-jetzt-um-wiederaufbau-der-berliner-spd-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/krach-es-geht-jetzt-um-wiederaufbau-der-berliner-spd",
-      "published": "Mon, 21 Sep 2026 10:31:13 -0000",
-      "published_display": "21.09.2026 · 10:31 Uhr"
-    },
-    {
-      "title": "Verkehr: S-Bahn Berlin: Auslastungsanzeige nun an mehr Bahnhöfen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/s-bahn-berlin-auslastungsanzeige-nun-an-mehr-bahnhoefen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/s-bahn-berlin-auslastungsanzeige-nun-an-mehr-bahnhoefen",
-      "published": "Mon, 21 Sep 2026 10:30:48 -0000",
-      "published_display": "21.09.2026 · 10:30 Uhr"
-    },
-    {
-      "title": "Statistisches Landesamt: So entwickeln sich die Zahlen von Kindern in Kitas im Land",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/so-entwickeln-sich-die-zahlen-von-kindern-in-kitas-im-land-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/so-entwickeln-sich-die-zahlen-von-kindern-in-kitas-im-land",
-      "published": "Mon, 21 Sep 2026 10:30:45 -0000",
-      "published_display": "21.09.2026 · 10:30 Uhr"
-    },
-    {
-      "title": "Bahnverkehr: Entscheidung zu Neubaustrecke Hannover-Hamburg verschoben",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/entscheidung-zu-neubaustrecke-hannover-hamburg-verschoben-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/entscheidung-zu-neubaustrecke-hannover-hamburg-verschoben",
-      "published": "Mon, 21 Sep 2026 10:29:20 -0000",
-      "published_display": "21.09.2026 · 10:29 Uhr"
     }
   ]
 }
