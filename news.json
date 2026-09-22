@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-22T04:30:32.561628+00:00",
+  "updated": "2026-09-22T04:43:50.417041+00:00",
   "items": [
+    {
+      "title": "Nordwestmecklenburg: Motorradfahrer stirbt bei Verkehrsunfall",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/22/motorradfahrer-stirbt-bei-verkehrsunfall-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/22/motorradfahrer-stirbt-bei-verkehrsunfall",
+      "published": "Tue, 22 Sep 2026 04:36:16 -0000",
+      "published_display": "22.09.2026 · 04:36 Uhr"
+    },
+    {
+      "title": "Wetter: Erst trüb, dann sonnig",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/22/erst-trueb-dann-sonnig-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/22/erst-trueb-dann-sonnig",
+      "published": "Tue, 22 Sep 2026 04:31:45 -0000",
+      "published_display": "22.09.2026 · 04:31 Uhr"
+    },
     {
       "title": "Gemälde: Warum Merkels Porträt für die Kanzlergalerie nicht rot ist",
       "summary": "",
@@ -44,7 +60,7 @@
     },
     {
       "title": "Freihandelsabkommen: Von der Leyen kündigt Handelsabkommen mit den Philippinen an",
-      "summary": "Die Präsidentin der EU-Kommission hat sich mit dem philippinischen Präsidenten auf einen Handels-Deal geeinigt. Er soll in wenigen Monaten fertig ausgearbeitet sein.",
+      "summary": "Die Präsidentin der EU-Kommission hat sich mit dem philippinischen Präsidenten auf einen Handelsdeal geeinigt. Er soll in wenigen Monaten fertig ausgearbeitet sein.",
       "image": "https://img.zeit.de/politik/ausland/2026-09/eu-philippinen-freihandelsabkommen-ursula-von-der-leyen-ferdinand-marcos-foto-1/original__640x360",
       "link": "https://www.zeit.de/politik/ausland/2026-09/eu-philippinen-freihandelsabkommen-ursula-von-der-leyen-ferdinand-marcos",
       "published": "Tue, 22 Sep 2026 04:03:59 -0000",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/politik/ausland/2026-09/un-vollversammlung-donald-trump-weltordnung",
       "published": "Tue, 22 Sep 2026 03:34:33 -0000",
       "published_display": "22.09.2026 · 03:34 Uhr"
-    },
-    {
-      "title": "Fußball-Nationalmannschaft: Nachhilfe für Klopp: Nations League als Reiz und Fallschirm",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/22/nachhilfe-fuer-klopp-nations-league-als-reiz-und-fallschirm-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/22/nachhilfe-fuer-klopp-nations-league-als-reiz-und-fallschirm",
-      "published": "Tue, 22 Sep 2026 03:34:04 -0000",
-      "published_display": "22.09.2026 · 03:34 Uhr"
-    },
-    {
-      "title": "Wetter: Wechsel von Sonne und Wolken in Berlin und Brandenburg",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/22/wechsel-von-sonne-und-wolken-in-berlin-und-brandenburg-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/22/wechsel-von-sonne-und-wolken-in-berlin-und-brandenburg",
-      "published": "Tue, 22 Sep 2026 03:33:14 -0000",
-      "published_display": "22.09.2026 · 03:33 Uhr"
     }
   ]
 }
