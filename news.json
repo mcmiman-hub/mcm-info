@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-22T22:28:18.425451+00:00",
+  "updated": "2026-09-22T22:42:47.056692+00:00",
   "items": [
+    {
+      "title": "Unfälle: Auto prallt auf A1 ungebremst auf Laster - Fahrer stirbt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/23/auto-prallt-auf-a1-ungebremst-auf-laster-fahrer-stirbt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/23/auto-prallt-auf-a1-ungebremst-auf-laster-fahrer-stirbt",
+      "published": "Tue, 22 Sep 2026 22:38:17 -0000",
+      "published_display": "22.09.2026 · 22:38 Uhr"
+    },
     {
       "title": "Sturm der höchsten Stärke 5: Hurrikan «Polo» - Häfen und Schulen in Mexiko geschlossen",
       "summary": "",
@@ -112,14 +120,6 @@
       "image": "https://img.zeit.de/news/2026-09/22/handball-krimi-im-pokal-melsungen-siegt-gegen-loewen-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-09/22/handball-krimi-im-pokal-melsungen-siegt-gegen-loewen",
       "published": "Tue, 22 Sep 2026 19:05:28 -0000",
-      "published_display": "22.09.2026 · 19:05 Uhr"
-    },
-    {
-      "title": "Ukraine-Krieg: EU hebt Sanktionen gegen russische Milliardäre auf",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/22/eu-hebt-sanktionen-gegen-russische-milliardaere-auf-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/22/eu-hebt-sanktionen-gegen-russische-milliardaere-auf",
-      "published": "Tue, 22 Sep 2026 19:05:20 -0000",
       "published_display": "22.09.2026 · 19:05 Uhr"
     }
   ]
