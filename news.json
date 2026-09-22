@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-22T20:43:52.482861+00:00",
+  "updated": "2026-09-22T20:55:12.223594+00:00",
   "items": [
+    {
+      "title": "Krieg gegen die Ukraine: Selenskyj und Trump diskutieren Stopp von Angriffen auf Energieanlagen",
+      "summary": "Am Rande der UN-Vollversammlung haben Selenskyj und Trump über Wege zu einem Kriegsende gesprochen. Auch ein mögliches Treffen mit Putin war ein Thema. Das Liveblog",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/ukraine-liveblog-un-trump-selenskyj-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "published": "Tue, 22 Sep 2026 20:51:03 -0000",
+      "published_display": "22.09.2026 · 20:51 Uhr"
+    },
     {
       "title": "Diplomatie: Trump: Vertreter der USA und des Irans haben sich getroffen",
       "summary": "",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/22/spd-weist-afd-forderung-nach-praesidentenamt-zurueck",
       "published": "Tue, 22 Sep 2026 18:51:40 -0000",
       "published_display": "22.09.2026 · 18:51 Uhr"
-    },
-    {
-      "title": "Champions League: Nach kuriosem Pyro-Gegentor: Bayern-Frauen verpassen Sieg",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/22/nach-kuriosem-pyro-gegentor-bayern-frauen-verpassen-sieg-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/22/nach-kuriosem-pyro-gegentor-bayern-frauen-verpassen-sieg",
-      "published": "Tue, 22 Sep 2026 18:49:04 -0000",
-      "published_display": "22.09.2026 · 18:49 Uhr"
     }
   ]
 }
