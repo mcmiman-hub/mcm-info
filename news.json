@@ -1,7 +1,55 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-22T17:16:17.948662+00:00",
+  "updated": "2026-09-22T17:28:28.449334+00:00",
   "items": [
+    {
+      "title": "Nach Streit mit Trump: Grönland-Abkommen: Was springt für Trump raus?",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/22/groenland-abkommen-was-springt-fuer-trump-raus-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/22/groenland-abkommen-was-springt-fuer-trump-raus",
+      "published": "Tue, 22 Sep 2026 17:21:59 -0000",
+      "published_display": "22.09.2026 · 17:21 Uhr"
+    },
+    {
+      "title": "CDU-Krise: Frei sichert Merz Rückhalt der Unionsfraktion zu",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/22/generalinventur-und-neustart-cdu-sucht-kurs-nach-wahlfiasko-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/22/generalinventur-und-neustart-cdu-sucht-kurs-nach-wahlfiasko",
+      "published": "Tue, 22 Sep 2026 17:21:10 -0000",
+      "published_display": "22.09.2026 · 17:21 Uhr"
+    },
+    {
+      "title": "Aufarbeitung des Holocaust: NS-Raubkunst: Freistaat übergibt Gemälde an Erben in den USA",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/22/ns-raubkunst-freistaat-uebergibt-gemaelde-an-erben-in-den-usa-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/22/ns-raubkunst-freistaat-uebergibt-gemaelde-an-erben-in-den-usa",
+      "published": "Tue, 22 Sep 2026 17:19:49 -0000",
+      "published_display": "22.09.2026 · 17:19 Uhr"
+    },
+    {
+      "title": "Landtagswahlen: Friedrich Merz übernimmt Mitverantwortung für Wahlniederlagen",
+      "summary": "Vor der Unionsfraktion nennt der Bundeskanzler die Ergebnisse der CDU bei den Landtagswahlen »desaströs«. An den Reformen will er wie mit der SPD vereinbart festhalten.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/friedrich-merz-cdu-reformkurs-rentenreform-bundestagswahl-bild-2/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/friedrich-merz-cdu-reformkurs-rentenreform-bundestagswahl",
+      "published": "Tue, 22 Sep 2026 17:17:45 -0000",
+      "published_display": "22.09.2026 · 17:17 Uhr"
+    },
+    {
+      "title": "Partei: Grünen wählen Fraktionsvorstand im Oktober",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/22/gruenen-waehlen-fraktionsvorstand-im-oktober-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/22/gruenen-waehlen-fraktionsvorstand-im-oktober",
+      "published": "Tue, 22 Sep 2026 17:17:31 -0000",
+      "published_display": "22.09.2026 · 17:17 Uhr"
+    },
+    {
+      "title": "Tod auf See: Mord an Bord",
+      "summary": "Zwei Freunde segeln durchs Kattegat. Dann geht einer über Bord. Es gibt Zeugen und Videoaufnahmen: War es ein Unfall oder ein Mord?",
+      "image": "https://img.zeit.de/gesellschaft/2026-09/tod-see-segelboot-kattegat-unfall-mord-verbrechen-podcast-bild/original__640x360",
+      "link": "https://www.zeit.de/gesellschaft/2026-09/tod-see-segelboot-kattegat-unfall-mord-verbrechen-podcast",
+      "published": "Tue, 22 Sep 2026 17:16:38 -0000",
+      "published_display": "22.09.2026 · 17:16 Uhr"
+    },
     {
       "title": "EU-Russland-Sanktionen: EU hebt Sanktionen gegen zwei russische Milliardäre auf",
       "summary": "Die EU verlängert ihre Russlandsanktionen erstmals um drei Jahre. Die Geschäftsleute Alischer Usmanow und Michail Fridman werden jedoch nicht länger sanktioniert.",
@@ -51,14 +99,6 @@
       "published_display": "22.09.2026 · 17:02 Uhr"
     },
     {
-      "title": "Landtagswahlen: Friedrich Merz übernimmt Mitverantwortung für Wahlniederlagen",
-      "summary": "Vor der Unionsfraktion nennt der Bundeskanzler die Ergebnisse der CDU bei den Landtagswahlen »desaströs«. An den Reformen will er wie mit der SPD vereinbart festhalten.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/friedrich-merz-cdu-reformkurs-rentenreform-bundestagswahl-bild-2/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/friedrich-merz-cdu-reformkurs-rentenreform-bundestagswahl",
-      "published": "Tue, 22 Sep 2026 16:58:54 -0000",
-      "published_display": "22.09.2026 · 16:58 Uhr"
-    },
-    {
       "title": "Nach Abgeordnetenhauswahl: Brinker bleibt Berlins AfD-Fraktionsvorsitzende",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-09/22/brinker-bleibt-berlins-afd-fraktionsvorsitzende-image-group/original__640x360",
@@ -81,46 +121,6 @@
       "link": "https://www.zeit.de/politik/ausland/2026-09/recep-tayyip-erdogan-un-rede-reform-sicherheitsrat-palaestinensischer-staat",
       "published": "Tue, 22 Sep 2026 16:46:39 -0000",
       "published_display": "22.09.2026 · 16:46 Uhr"
-    },
-    {
-      "title": "Verkehr: Tödlicher Unfall auf A1 – Fahrtrichtung Hamburg gesperrt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/22/toedlicher-unfall-auf-a1-fahrtrichtung-hamburg-gesperrt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/22/toedlicher-unfall-auf-a1-fahrtrichtung-hamburg-gesperrt",
-      "published": "Tue, 22 Sep 2026 16:44:40 -0000",
-      "published_display": "22.09.2026 · 16:44 Uhr"
-    },
-    {
-      "title": "AfD: Staatsanwaltschaft will gegen AfD-Abgeordneten Bausemer ermitteln",
-      "summary": "Der AfD-Politiker Arno Bausemer soll einen Jugendlichen mit einem Schlagwerkzeug angegriffen haben. Die Staatsanwaltschaft will seine Immunität aufheben lassen.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-08/arno-bausemer-afd-europaabgeordneter-koerperverletzung-immunitaet-stendal-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-08/arno-bausemer-afd-europaabgeordneter-koerperverletzung-immunitaet-stendal",
-      "published": "Tue, 22 Sep 2026 16:43:22 -0000",
-      "published_display": "22.09.2026 · 16:43 Uhr"
-    },
-    {
-      "title": "Ukraine-Krieg: EU hebt Sanktionen gegen russische Milliardäre auf",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/22/eu-hebt-sanktionen-gegen-russische-milliardaere-auf-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/22/eu-hebt-sanktionen-gegen-russische-milliardaere-auf",
-      "published": "Tue, 22 Sep 2026 16:41:22 -0000",
-      "published_display": "22.09.2026 · 16:41 Uhr"
-    },
-    {
-      "title": "Warnemünde statt Kiel: Vor Olympia-Entscheid: NRW setzt beim Segeln auf Warnemünde",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/22/vor-olympia-entscheid-nrw-setzt-beim-segeln-auf-warnemuende-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/22/vor-olympia-entscheid-nrw-setzt-beim-segeln-auf-warnemuende",
-      "published": "Tue, 22 Sep 2026 16:40:54 -0000",
-      "published_display": "22.09.2026 · 16:40 Uhr"
-    },
-    {
-      "title": "Dolomiten: Deutscher Urlauber stürzt in Südtirol zu Tode",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/22/deutscher-urlauber-stuerzt-in-suedtirol-zu-tode-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/22/deutscher-urlauber-stuerzt-in-suedtirol-zu-tode",
-      "published": "Tue, 22 Sep 2026 16:33:57 -0000",
-      "published_display": "22.09.2026 · 16:33 Uhr"
     }
   ]
 }
