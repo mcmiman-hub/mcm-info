@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-22T22:54:05.231098+00:00",
+  "updated": "2026-09-22T23:15:55.215094+00:00",
   "items": [
+    {
+      "title": "Regierungsbildung: Sachsen-Anhalts BSW-Landeschef: AfD weiß nicht, was sie will",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/23/sachsen-anhalts-bsw-landeschef-afd-weiss-nicht-was-sie-will-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/23/sachsen-anhalts-bsw-landeschef-afd-weiss-nicht-was-sie-will",
+      "published": "Tue, 22 Sep 2026 23:00:04 -0000",
+      "published_display": "22.09.2026 · 23:00 Uhr"
+    },
     {
       "title": "Regierungsbildung in Berlin: SPD-Bundesspitze fordert von Linke klare Abkehr von Antisemitismus",
       "summary": "Nach Vorwürfen gegen die Berliner Linke geht die Bundes-SPD auf Distanz. In Gesellschaft und Politik gebe es keinen Platz für Antisemitismus und Kriminalität.",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/22/verdacht-auf-giftiges-quecksilber-dhl-zentrum-evakuiert",
       "published": "Tue, 22 Sep 2026 19:40:51 -0000",
       "published_display": "22.09.2026 · 19:40 Uhr"
-    },
-    {
-      "title": "Musik: Taylor Swift kündigt neue Single an - schon für diese Woche",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/22/taylor-swift-kuendigt-neue-single-an-schon-fuer-diese-woche-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/22/taylor-swift-kuendigt-neue-single-an-schon-fuer-diese-woche",
-      "published": "Tue, 22 Sep 2026 19:25:59 -0000",
-      "published_display": "22.09.2026 · 19:25 Uhr"
     }
   ]
 }
