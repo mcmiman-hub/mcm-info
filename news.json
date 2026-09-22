@@ -1,10 +1,42 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-22T08:32:30.889274+00:00",
+  "updated": "2026-09-22T08:45:13.397736+00:00",
   "items": [
     {
-      "title": "Krankenversicherungs-System: Karl Lauterbach lobt Merz für Vorstoß zu dualem Krankenkassensystem",
-      "summary": "Für seine Äußerungen zur Krankenversicherung erhält Friedrich Merz Zuspruch aus der SPD. Ein früherer Gesundheitsminister attestiert ihm »einen Moment der Einsicht.«",
+      "title": "Iran: Iran beschlagnahmt Vermögen von Hunderten Regierungsgegnern",
+      "summary": "Die iranische Justiz geht gegen angebliche »Staatsfeinde« vor. Der Zugriff auf mehr als 2.000 Konten wurde gesperrt.",
+      "image": "",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/iran-vermoegen-beschlagnahmungen-regierungsgegner-medien",
+      "published": "Tue, 22 Sep 2026 08:42:10 -0000",
+      "published_display": "22.09.2026 · 08:42 Uhr"
+    },
+    {
+      "title": "Kriminalität: Mann mit Messer und Stange attackiert",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/22/versuchtes-toetungsdelikt-in-hamm-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/22/versuchtes-toetungsdelikt-in-hamm",
+      "published": "Tue, 22 Sep 2026 08:40:52 -0000",
+      "published_display": "22.09.2026 · 08:40 Uhr"
+    },
+    {
+      "title": "Brand: Futterstreuwagen brennt – Hunderttausende Euro Schaden",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/22/futterstreuwagen-brennt-hunderttausende-euro-schaden-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/22/futterstreuwagen-brennt-hunderttausende-euro-schaden",
+      "published": "Tue, 22 Sep 2026 08:32:28 -0000",
+      "published_display": "22.09.2026 · 08:32 Uhr"
+    },
+    {
+      "title": "Fahrgeschäft-Mitarbeiter tot: Tödlicher Wiesn-Unfall - Kann Freefall-Tower wieder öffnen?",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/22/toedlicher-unfall-an-fahrgeschaeft-auf-oktoberfest-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/22/toedlicher-unfall-an-fahrgeschaeft-auf-oktoberfest",
+      "published": "Tue, 22 Sep 2026 08:31:17 -0000",
+      "published_display": "22.09.2026 · 08:31 Uhr"
+    },
+    {
+      "title": "Krankenversicherungssystem: Karl Lauterbach lobt Merz für Vorstoß zu dualem Krankenkassensystem",
+      "summary": "Für seine Äußerungen zur Krankenversicherung erhält Friedrich Merz Zuspruch aus der SPD. Ein früherer Gesundheitsminister attestiert ihm »einen Moment der Einsicht«.",
       "image": "https://img.zeit.de/politik/deutschland/2026-09/krankenversicherung-buergerversicherung-friedrich-merz-karl-lauterbach-foto-1/original__640x360",
       "link": "https://www.zeit.de/politik/deutschland/2026-09/krankenversicherung-buergerversicherung-friedrich-merz-karl-lauterbach",
       "published": "Tue, 22 Sep 2026 08:31:15 -0000",
@@ -30,7 +62,7 @@
       "title": "Elektromobilität: Neuzulassungen für E-Autos in der EU erreichen Höchstwert",
       "summary": "Ein Sechstel aller 2025 zugelassenen Pkw in der EU ist elektrisch: mehr als je zuvor. Die Zahl ist in den vergangenen zehn Jahren stark gestiegen.",
       "image": "https://img.zeit.de/mobilitaet/2026-09/elektroautos-eu-neuzulassungen-anteil-rekord-foto-1/original__640x360",
-      "link": "https://www.zeit.de/mobilitaet/2026-09/elektroautos-eu-neuzulassungen-anteil-rekord",
+      "link": "https://www.zeit.de/mobilitaet/2026-09/elektroautos-eu-neuzulassungen-anteil-rekord-gxe",
       "published": "Tue, 22 Sep 2026 08:25:54 -0000",
       "published_display": "22.09.2026 · 08:25 Uhr"
     },
@@ -46,7 +78,7 @@
       "title": "Tankrabatt: SPD-Fraktionsvize Zorn verteidigt Tankrabatt und Spritpreisdeckel",
       "summary": "Der jüngste Tankrabatt sei größtenteils an Verbraucher weitergegeben worden, sagt SPD-Politiker Zorn. Der Spritpreisdeckel werde trotz Kritik von Katherina Reiche kommen.",
       "image": "https://img.zeit.de/wirtschaft/2026-09/tankrabatt-spd-armand-zorn-spritpreisdeckel-katherina-reiche-foto-1/original__640x360",
-      "link": "https://www.zeit.de/wirtschaft/2026-09/tankrabatt-spd-armand-zorn-spritpreisdeckel-katherina-reiche",
+      "link": "https://www.zeit.de/wirtschaft/2026-09/tankrabatt-spd-armand-zorn-spritpreisdeckel-katherina-reiche-gxe",
       "published": "Tue, 22 Sep 2026 08:24:15 -0000",
       "published_display": "22.09.2026 · 08:24 Uhr"
     },
@@ -89,38 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/22/schwiegervater-getoetet-angeklagter-weist-vorwuerfe-von-sich",
       "published": "Tue, 22 Sep 2026 08:02:59 -0000",
       "published_display": "22.09.2026 · 08:02 Uhr"
-    },
-    {
-      "title": "Gesamthaushalt: Öffentlicher Gesamthaushalt Deutschlands steigt um knapp sechs Prozent",
-      "summary": "Das Finanzvermögen von Bund, Ländern, Gemeinden und Sozialversicherung ist 2025 angewachsen. Inklusive aller Extrahaushalte beträgt es 1.199,1 Milliarden Euro.",
-      "image": "https://img.zeit.de/wirtschaft/2026-09/finanzvermoegen-oeffentlicher-gesamthaushalt-deutschland-bund-laender-gemeinden-statistisches-bundesamt-foto-1/original__640x360",
-      "link": "https://www.zeit.de/wirtschaft/2026-09/finanzvermoegen-oeffentlicher-gesamthaushalt-deutschland-bund-laender-gemeinden-statistisches-bundesamt-gxe",
-      "published": "Tue, 22 Sep 2026 08:00:24 -0000",
-      "published_display": "22.09.2026 · 08:00 Uhr"
-    },
-    {
-      "title": "Schweizer Großbank: Studie: Wo die Gefahr für Immobilienblasen am größten ist",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/22/studie-wo-die-gefahr-fuer-immobilienblasen-am-groessten-ist-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/22/studie-wo-die-gefahr-fuer-immobilienblasen-am-groessten-ist",
-      "published": "Tue, 22 Sep 2026 08:00:07 -0000",
-      "published_display": "22.09.2026 · 08:00 Uhr"
-    },
-    {
-      "title": "Auszeichnung: Shida Bazyar erhält Wilhelm Raabe-Literaturpreis",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/22/shida-bazyar-erhaelt-wilhelm-raabe-literaturpreis-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/22/shida-bazyar-erhaelt-wilhelm-raabe-literaturpreis",
-      "published": "Tue, 22 Sep 2026 07:59:55 -0000",
-      "published_display": "22.09.2026 · 07:59 Uhr"
-    },
-    {
-      "title": "Abgeordnetenhauswahl: Das bedeutet die Berlin-Wahl für Brandenburg",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/das-bedeutet-die-berlin-wahl-fuer-brandenburg-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/das-bedeutet-die-berlin-wahl-fuer-brandenburg",
-      "published": "Tue, 22 Sep 2026 07:58:29 -0000",
-      "published_display": "22.09.2026 · 07:58 Uhr"
     }
   ]
 }
