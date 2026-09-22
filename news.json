@@ -1,7 +1,79 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-22T13:32:27.839204+00:00",
+  "updated": "2026-09-22T13:45:42.264825+00:00",
   "items": [
+    {
+      "title": "Kriminalität: Einbruch bei Friseur – Beschädigte Wand führt zu Sparkasse",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/22/einbruch-bei-friseur-beschaedigte-wand-fuehrt-zu-sparkasse-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/22/einbruch-bei-friseur-beschaedigte-wand-fuehrt-zu-sparkasse",
+      "published": "Tue, 22 Sep 2026 13:43:23 -0000",
+      "published_display": "22.09.2026 · 13:43 Uhr"
+    },
+    {
+      "title": "Auf dem Weg zur U21-EM: Welche Nation? Tresoldi berichtet von «Kloppo»-Gespräch",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/22/welche-nation-tresoldi-berichtet-von-kloppo-gespraech-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/22/welche-nation-tresoldi-berichtet-von-kloppo-gespraech",
+      "published": "Tue, 22 Sep 2026 13:42:14 -0000",
+      "published_display": "22.09.2026 · 13:42 Uhr"
+    },
+    {
+      "title": "Energiekosten: Prognose: Heizkosten steigen 2026 an",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/22/prognose-heizkosten-steigen-2026-an-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/22/prognose-heizkosten-steigen-2026-an",
+      "published": "Tue, 22 Sep 2026 13:42:10 -0000",
+      "published_display": "22.09.2026 · 13:42 Uhr"
+    },
+    {
+      "title": "Tarifverhandlungen: Vorerst keine neuen Warnstreiks bei Stadtbussen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/22/vorerst-keine-neuen-warnstreiks-bei-stadtbussen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/22/vorerst-keine-neuen-warnstreiks-bei-stadtbussen",
+      "published": "Tue, 22 Sep 2026 13:41:02 -0000",
+      "published_display": "22.09.2026 · 13:41 Uhr"
+    },
+    {
+      "title": "Auf Schwarzmarkt verkauft: 21 Festnahmen bei Aktion gegen illegale Zigarettenfabrik",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/22/21-festnahmen-bei-aktion-gegen-illegale-zigarettenfabrik-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/22/21-festnahmen-bei-aktion-gegen-illegale-zigarettenfabrik",
+      "published": "Tue, 22 Sep 2026 13:40:38 -0000",
+      "published_display": "22.09.2026 · 13:40 Uhr"
+    },
+    {
+      "title": "CDU-Krise: Frei: «Der Bundeskanzler hat unsere Unterstützung»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/22/generalinventur-und-neustart-cdu-sucht-kurs-nach-wahlfiasko-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/22/generalinventur-und-neustart-cdu-sucht-kurs-nach-wahlfiasko",
+      "published": "Tue, 22 Sep 2026 13:38:41 -0000",
+      "published_display": "22.09.2026 · 13:38 Uhr"
+    },
+    {
+      "title": "Justiz: Austausch in Spanien soll Gewaltschutz besser machen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/22/austausch-in-spanien-soll-gewaltschutz-besser-machen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/22/austausch-in-spanien-soll-gewaltschutz-besser-machen",
+      "published": "Tue, 22 Sep 2026 13:37:21 -0000",
+      "published_display": "22.09.2026 · 13:37 Uhr"
+    },
+    {
+      "title": "Tod auf See: Mord an Bord",
+      "summary": "Zwei Freunde segeln durchs Kattegat. Dann geht einer über Bord. Es gibt Zeugen und Videoaufnahmen: War es ein Unfall oder ein Mord?",
+      "image": "https://img.zeit.de/gesellschaft/2026-09/tod-see-segelboot-kattegat-unfall-mord-verbrechen-podcast-bild/original__640x360",
+      "link": "https://www.zeit.de/gesellschaft/2026-09/tod-see-segelboot-kattegat-unfall-mord-verbrechen-podcast",
+      "published": "Tue, 22 Sep 2026 13:35:07 -0000",
+      "published_display": "22.09.2026 · 13:35 Uhr"
+    },
+    {
+      "title": "Nach der Landtagswahl: Schweriner Linksfraktion wählt Herbst zum Vorsitzenden",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/22/schweriner-linksfraktion-waehlt-herbst-zum-vorsitzenden-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/22/schweriner-linksfraktion-waehlt-herbst-zum-vorsitzenden",
+      "published": "Tue, 22 Sep 2026 13:33:57 -0000",
+      "published_display": "22.09.2026 · 13:33 Uhr"
+    },
     {
       "title": "Stadtfeste: Höhlerfest mit Riesen-Festumzug und Drohnen-Show",
       "summary": "",
@@ -49,78 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/22/bilder-des-tages",
       "published": "Tue, 22 Sep 2026 13:24:17 -0000",
       "published_display": "22.09.2026 · 13:24 Uhr"
-    },
-    {
-      "title": "Strafprozess: Apotheker wegen illegaler Medikamentenverkäufe vor Gericht",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/22/apotheker-wegen-illegaler-medikamentenverkaeufe-vor-gericht-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/22/apotheker-wegen-illegaler-medikamentenverkaeufe-vor-gericht",
-      "published": "Tue, 22 Sep 2026 13:23:45 -0000",
-      "published_display": "22.09.2026 · 13:23 Uhr"
-    },
-    {
-      "title": "Nach Wahldebakel: Berlins SPD-Fraktionschef tritt nicht wieder an",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/22/berlins-spd-fraktionschef-tritt-nicht-wieder-an-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/22/berlins-spd-fraktionschef-tritt-nicht-wieder-an",
-      "published": "Tue, 22 Sep 2026 13:23:40 -0000",
-      "published_display": "22.09.2026 · 13:23 Uhr"
-    },
-    {
-      "title": "Digitale Verwaltung: Verwaltung: Länder setzen auf Open Source und KI-Labor",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/22/verwaltung-laender-setzen-auf-open-source-und-ki-labor-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/22/verwaltung-laender-setzen-auf-open-source-und-ki-labor",
-      "published": "Tue, 22 Sep 2026 13:20:39 -0000",
-      "published_display": "22.09.2026 · 13:20 Uhr"
-    },
-    {
-      "title": "Neuer Landtag MV: Ralf Mucha ist Alterspräsident des Landtags MV",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/22/ralf-mucha-ist-alterspraesident-des-landtags-mv-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/22/ralf-mucha-ist-alterspraesident-des-landtags-mv",
-      "published": "Tue, 22 Sep 2026 13:20:23 -0000",
-      "published_display": "22.09.2026 · 13:20 Uhr"
-    },
-    {
-      "title": "Spurlos verschwunden: Rätsel um Scarlett - und andere Vermisste im Südwesten",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/22/scarlett-und-weitere-bekannte-vermisstenfaelle-im-suedwesten-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/22/scarlett-und-weitere-bekannte-vermisstenfaelle-im-suedwesten",
-      "published": "Tue, 22 Sep 2026 13:19:01 -0000",
-      "published_display": "22.09.2026 · 13:19 Uhr"
-    },
-    {
-      "title": "Oktoberfest mit Ehefrau: Gottschalk auf der Wiesn: «Mir geht es jeden Tag besser»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/22/gottschalk-auf-der-wiesn-mir-geht-es-jeden-tag-besser-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/22/gottschalk-auf-der-wiesn-mir-geht-es-jeden-tag-besser",
-      "published": "Tue, 22 Sep 2026 13:15:39 -0000",
-      "published_display": "22.09.2026 · 13:15 Uhr"
-    },
-    {
-      "title": "Rüstung: Wichtig für Funksystem – Zentrum kümmert sich um Radpanzer",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/22/wichtig-fuer-funksystem-zentrum-kuemmert-sich-um-radpanzer-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/22/wichtig-fuer-funksystem-zentrum-kuemmert-sich-um-radpanzer",
-      "published": "Tue, 22 Sep 2026 13:15:01 -0000",
-      "published_display": "22.09.2026 · 13:15 Uhr"
-    },
-    {
-      "title": "Bezahlbare Wohnungen in Berlin: Kann der Bund Vergesellschaftungen wirksam verbieten?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/22/linke-bund-kommt-mit-verbot-von-enteignung-nicht-durch-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/22/linke-bund-kommt-mit-verbot-von-enteignung-nicht-durch",
-      "published": "Tue, 22 Sep 2026 13:14:48 -0000",
-      "published_display": "22.09.2026 · 13:14 Uhr"
-    },
-    {
-      "title": "Wahlen: Berlins SPD-Fraktionschef will nicht wieder kandidieren",
-      "summary": "",
-      "image": "",
-      "link": "https://www.zeit.de/news/2026-09/22/berlins-spd-fraktionschef-will-nicht-wieder-kandidieren",
-      "published": "Tue, 22 Sep 2026 13:10:13 -0000",
-      "published_display": "22.09.2026 · 13:10 Uhr"
     }
   ]
 }
