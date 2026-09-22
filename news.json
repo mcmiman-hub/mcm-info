@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-22T19:42:49.013638+00:00",
+  "updated": "2026-09-22T19:54:48.471296+00:00",
   "items": [
+    {
+      "title": "Unfall: Flixbus prallt auf A2 gegen Lkw - zwei Verletzte",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/22/flixbus-prallt-auf-a2-gegen-lkw-zwei-verletzte-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/22/flixbus-prallt-auf-a2-gegen-lkw-zwei-verletzte",
+      "published": "Tue, 22 Sep 2026 19:49:19 -0000",
+      "published_display": "22.09.2026 · 19:49 Uhr"
+    },
+    {
+      "title": "UN-Vollversammlung: Die Welt ist gut, solange es seine Welt ist",
+      "summary": "Donald Trump spricht fast freundlich vor den UN. Und droht dann, den Iran zu »vernichten«. Die Welt soll sich seinem Willen beugen, doch Trumps Stärke wirkt schwach.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/un-vollversammlung-donald-trump-iran-usa-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/un-vollversammlung-donald-trump-iran-usa",
+      "published": "Tue, 22 Sep 2026 19:43:37 -0000",
+      "published_display": "22.09.2026 · 19:43 Uhr"
+    },
     {
       "title": "Einsatz: Verdacht auf giftiges Quecksilber - DHL-Zentrum evakuiert",
       "summary": "",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/politik/ausland/2026-05/iran-krieg-donald-trump-hormus-live",
       "published": "Tue, 22 Sep 2026 18:30:31 -0000",
       "published_display": "22.09.2026 · 18:30 Uhr"
-    },
-    {
-      "title": "Koalition: Kanzleramtschefin ruft Koalition zu Tempo bei Reformen auf",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/22/kanzleramtschefin-ruft-koalition-zu-tempo-bei-reformen-auf-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/22/kanzleramtschefin-ruft-koalition-zu-tempo-bei-reformen-auf",
-      "published": "Tue, 22 Sep 2026 18:29:48 -0000",
-      "published_display": "22.09.2026 · 18:29 Uhr"
-    },
-    {
-      "title": "Kommunale Finanzen: Landkreise fordern Staatsreform «Agenda 2035»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/22/landkreise-fordern-staatsreform-agenda-2035-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/22/landkreise-fordern-staatsreform-agenda-2035",
-      "published": "Tue, 22 Sep 2026 18:26:02 -0000",
-      "published_display": "22.09.2026 · 18:26 Uhr"
     }
   ]
 }
