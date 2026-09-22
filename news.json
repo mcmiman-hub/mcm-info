@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-22T02:17:20.461841+00:00",
+  "updated": "2026-09-22T02:29:56.066057+00:00",
   "items": [
+    {
+      "title": "Pressefreiheit in den USA: Rauswurf aus Weißem Haus: Trumps Streit mit Medien eskaliert",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/21/drei-us-medien-planen-klage-gegen-ausschluss-aus-weissem-haus-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/drei-us-medien-planen-klage-gegen-ausschluss-aus-weissem-haus",
+      "published": "Tue, 22 Sep 2026 02:21:53 -0000",
+      "published_display": "22.09.2026 · 02:21 Uhr"
+    },
     {
       "title": "Linke-Wahlsieg: Israels Botschafter: Jüdisches Leben in Berlin in Gefahr",
       "summary": "",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/22/toedlicher-unfall-an-fahrgeschaeft-auf-oktoberfest",
       "published": "Tue, 22 Sep 2026 01:47:03 -0000",
       "published_display": "22.09.2026 · 01:47 Uhr"
-    },
-    {
-      "title": "Schatzfund: Römischer Münzschatz entdeckt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/22/roemischer-muenzschatz-entdeckt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/22/roemischer-muenzschatz-entdeckt",
-      "published": "Tue, 22 Sep 2026 01:30:12 -0000",
-      "published_display": "22.09.2026 · 01:30 Uhr"
     }
   ]
 }
