@@ -1,7 +1,87 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-22T11:29:03.529975+00:00",
+  "updated": "2026-09-22T11:44:16.342943+00:00",
   "items": [
+    {
+      "title": "Vergesellschaftung: Immobilienwerte an der Börse nach Linkenwahlsieg unter Druck",
+      "summary": "Nach der Berlinwahl sind Immobilienwerte an der Börse gesunken. Die Vonovia-Aktie war mit 17,06 Euro zwischenzeitlich auf dem niedrigsten Niveau seit Sommer 2023.",
+      "image": "https://img.zeit.de/wirtschaft/2026-09/vonovia-aktie-boerse-immobilien-berlin-linke-vergesellschaftung-foto-1/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/2026-09/vonovia-aktie-boerse-immobilien-berlin-linke-vergesellschaftung",
+      "published": "Tue, 22 Sep 2026 11:42:23 -0000",
+      "published_display": "22.09.2026 · 11:42 Uhr"
+    },
+    {
+      "title": "Angriff am Bahnhof: Schwarzfahrer schlägt Lokführer ins Gesicht",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/22/schwarzfahrer-schlaegt-lokfuehrer-ins-gesicht-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/22/schwarzfahrer-schlaegt-lokfuehrer-ins-gesicht",
+      "published": "Tue, 22 Sep 2026 11:41:49 -0000",
+      "published_display": "22.09.2026 · 11:41 Uhr"
+    },
+    {
+      "title": "Versuchtes Tötungsdelikt: 79-Jähriger in Saarbrücken angegriffen und schwer verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/22/79-jaehriger-in-saarbruecken-angegriffen-und-schwer-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/22/79-jaehriger-in-saarbruecken-angegriffen-und-schwer-verletzt",
+      "published": "Tue, 22 Sep 2026 11:40:55 -0000",
+      "published_display": "22.09.2026 · 11:40 Uhr"
+    },
+    {
+      "title": "Gazastreifen: Israel droht im Fall neuer Entführungen mit Räumung Gazas",
+      "summary": "Sollte die Hamas erneut Israelis entführen, werde Gaza-Stadt komplett geräumt, droht Israels Verteidigungsminister. Israel befürchtet offenbar derartige Entführungspläne.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/israel-katz-gaza-evakuierung-hamas-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/israel-katz-gaza-evakuierung-hamas",
+      "published": "Tue, 22 Sep 2026 11:39:49 -0000",
+      "published_display": "22.09.2026 · 11:39 Uhr"
+    },
+    {
+      "title": "Tradition im Herbst: Evangelische Kirchengemeinden feiern Erntedank",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/22/evangelische-kirchengemeinden-feiern-erntedank-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/22/evangelische-kirchengemeinden-feiern-erntedank",
+      "published": "Tue, 22 Sep 2026 11:39:46 -0000",
+      "published_display": "22.09.2026 · 11:39 Uhr"
+    },
+    {
+      "title": "Verschuldung in Niedersachsen: Diese 11 von mehr als 400 Kommunen sind schuldenfrei",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/22/diese-11-von-mehr-als-400-kommunen-sind-schuldenfrei-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/22/diese-11-von-mehr-als-400-kommunen-sind-schuldenfrei",
+      "published": "Tue, 22 Sep 2026 11:38:05 -0000",
+      "published_display": "22.09.2026 · 11:38 Uhr"
+    },
+    {
+      "title": "Bezahlbare Wohnungen in Berlin: Kann der Bund Vergesellschaftungen wirksam verbieten?",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/22/linke-bund-kommt-mit-verbot-von-enteignung-nicht-durch-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/22/linke-bund-kommt-mit-verbot-von-enteignung-nicht-durch",
+      "published": "Tue, 22 Sep 2026 11:36:56 -0000",
+      "published_display": "22.09.2026 · 11:36 Uhr"
+    },
+    {
+      "title": "Tennis: Davis-Cup-Team im Viertelfinale gegen Großbritannien",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/22/davis-cup-team-im-viertelfinale-gegen-grossbritannien-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/22/davis-cup-team-im-viertelfinale-gegen-grossbritannien",
+      "published": "Tue, 22 Sep 2026 11:36:04 -0000",
+      "published_display": "22.09.2026 · 11:36 Uhr"
+    },
+    {
+      "title": "Nach der Wahl in Berlin: Nach Wahldebakel: Diskussion um Konsequenzen in der SPD",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/22/nach-wahldebakel-diskussion-um-konsequenzen-in-der-spd-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/22/nach-wahldebakel-diskussion-um-konsequenzen-in-der-spd",
+      "published": "Tue, 22 Sep 2026 11:28:57 -0000",
+      "published_display": "22.09.2026 · 11:28 Uhr"
+    },
+    {
+      "title": "Am 30. September: Kriegsmunition wird gesprengt – Berlin und Potsdam betroffen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/22/kriegsmunition-wird-gesprengt-berlin-und-potsdam-betroffen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/22/kriegsmunition-wird-gesprengt-berlin-und-potsdam-betroffen",
+      "published": "Tue, 22 Sep 2026 11:28:19 -0000",
+      "published_display": "22.09.2026 · 11:28 Uhr"
+    },
     {
       "title": "Handel: EU und Philippinen einigen sich auf Freihandelsabkommen",
       "summary": "",
@@ -41,86 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/22/toedlicher-unfall-an-fahrgeschaeft-auf-oktoberfest",
       "published": "Tue, 22 Sep 2026 11:22:31 -0000",
       "published_display": "22.09.2026 · 11:22 Uhr"
-    },
-    {
-      "title": "Berliner Linke: Linke weist Antisemitismusvorwürfe von Israels Botschafter zurück",
-      "summary": "Die Berliner Linke bekenne sich zum Existenzrecht Israels, sagt Parteichefin Kerstin Wolter. Es sei die israelische Regierungspolitik, die man kritisiere.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/antisemitismus-vorwurf-ron-prosor-linke-berlin-kerstin-wolter-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/antisemitismus-vorwurf-ron-prosor-linke-berlin-kerstin-wolter",
-      "published": "Tue, 22 Sep 2026 11:20:57 -0000",
-      "published_display": "22.09.2026 · 11:20 Uhr"
-    },
-    {
-      "title": "Neue Trauerkultur: In Frankfurt steht Hessens erste Begräbniskirche",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/22/in-frankfurt-steht-hessens-erste-begraebniskirche-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/22/in-frankfurt-steht-hessens-erste-begraebniskirche",
-      "published": "Tue, 22 Sep 2026 11:20:14 -0000",
-      "published_display": "22.09.2026 · 11:20 Uhr"
-    },
-    {
-      "title": "Nach der Landtagswahl: CDU stellt sich nach Wahldebakel im Dezember neu auf",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/22/cdu-stellt-sich-nach-wahldebakel-im-dezember-neu-auf-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/22/cdu-stellt-sich-nach-wahldebakel-im-dezember-neu-auf",
-      "published": "Tue, 22 Sep 2026 11:19:50 -0000",
-      "published_display": "22.09.2026 · 11:19 Uhr"
-    },
-    {
-      "title": "Reform: Thüringer zahlen weniger Grundsteuer für Einfamilienhäuser",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/22/thueringer-zahlen-weniger-grundsteuer-fuer-einfamilienhaeuser-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/22/thueringer-zahlen-weniger-grundsteuer-fuer-einfamilienhaeuser",
-      "published": "Tue, 22 Sep 2026 11:18:58 -0000",
-      "published_display": "22.09.2026 · 11:18 Uhr"
-    },
-    {
-      "title": "Mann erschossen: Nach Leichenfund in Auto: Anklage wegen Mordes erhoben",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/22/nach-leichenfund-in-auto-anklage-wegen-mordes-erhoben-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/22/nach-leichenfund-in-auto-anklage-wegen-mordes-erhoben",
-      "published": "Tue, 22 Sep 2026 11:18:38 -0000",
-      "published_display": "22.09.2026 · 11:18 Uhr"
-    },
-    {
-      "title": "Fußball-Nationalmannschaft: Logische Lösung: Treu würde für Klopp «durchs Feuer gehen»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/22/logische-loesung-treu-wuerde-fuer-klopp-durchs-feuer-gehen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/22/logische-loesung-treu-wuerde-fuer-klopp-durchs-feuer-gehen",
-      "published": "Tue, 22 Sep 2026 11:18:09 -0000",
-      "published_display": "22.09.2026 · 11:18 Uhr"
-    },
-    {
-      "title": "Linke in der Kritik: Linke: Kontakt von Abgeordnetem zu Remmo schadet der Partei",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/22/linke-kontakt-von-abgeordnetem-zu-remmo-schadet-der-partei-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/22/linke-kontakt-von-abgeordnetem-zu-remmo-schadet-der-partei",
-      "published": "Tue, 22 Sep 2026 11:17:42 -0000",
-      "published_display": "22.09.2026 · 11:17 Uhr"
-    },
-    {
-      "title": "Ausstellungen: Gemälde von Bernhard Heisig kehrt nach Dresden zurück",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/22/gemaelde-von-bernhard-heisig-kehrt-nach-dresden-zurueck-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/22/gemaelde-von-bernhard-heisig-kehrt-nach-dresden-zurueck",
-      "published": "Tue, 22 Sep 2026 11:17:34 -0000",
-      "published_display": "22.09.2026 · 11:17 Uhr"
-    },
-    {
-      "title": "In der Abwärtsspirale: Kommunale Finanznot: Worauf Bürger sich einstellen müssen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/22/groesstes-kommunales-haushaltsdefizit-der-nachkriegszeit-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/22/groesstes-kommunales-haushaltsdefizit-der-nachkriegszeit",
-      "published": "Tue, 22 Sep 2026 11:13:18 -0000",
-      "published_display": "22.09.2026 · 11:13 Uhr"
-    },
-    {
-      "title": "Gazastreifen: Israel droht im Fall neuer Entführungen mit Räumung Gazas",
-      "summary": "Sollte die Hamas erneut Israelis entführen, werde Gaza-Stadt komplett geräumt, droht Israels Verteidigungsminister. Israel befürchtet offenbar derartige Entführungspläne.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/israel-katz-gaza-evakuierung-hamas-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/israel-katz-gaza-evakuierung-hamas",
-      "published": "Tue, 22 Sep 2026 11:10:49 -0000",
-      "published_display": "22.09.2026 · 11:10 Uhr"
     }
   ]
 }
