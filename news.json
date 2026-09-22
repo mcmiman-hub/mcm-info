@@ -1,7 +1,55 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-22T15:54:54.281279+00:00",
+  "updated": "2026-09-22T16:18:34.703160+00:00",
   "items": [
+    {
+      "title": "Franziska Giffey: Es war einmal eine besondere Politikerin",
+      "summary": "Die frühere Regierende hat den Einzug ins Berliner Abgeordnetenhaus verpasst. Das Ende einer Karriere, die früher einmal Hoffnung auf eine versöhnlichere Politik weckte.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/franziska-giffey-spd-berlin-buergermeisterin-bild-2/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/franziska-giffey-spd-berlin-buergermeisterin",
+      "published": "Tue, 22 Sep 2026 16:13:25 -0000",
+      "published_display": "22.09.2026 · 16:13 Uhr"
+    },
+    {
+      "title": "Kein technischer Defekt: Wiesn-Fahrgeschäft nach tödlichem Unfall wieder in Betrieb",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/22/wiesn-fahrgeschaeft-nach-toedlichem-unfall-wieder-in-betrieb-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/22/wiesn-fahrgeschaeft-nach-toedlichem-unfall-wieder-in-betrieb",
+      "published": "Tue, 22 Sep 2026 16:10:20 -0000",
+      "published_display": "22.09.2026 · 16:10 Uhr"
+    },
+    {
+      "title": "UN-Generaldebatte: Trump verteidigt Iran-Krieg und droht Teheran mit «Hölle»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/22/iran-krieg-und-groenland-abkommen-trumps-agenda-in-new-york-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/22/iran-krieg-und-groenland-abkommen-trumps-agenda-in-new-york",
+      "published": "Tue, 22 Sep 2026 16:02:58 -0000",
+      "published_display": "22.09.2026 · 16:02 Uhr"
+    },
+    {
+      "title": "Nach der MV-Landtagswahl: Grüne Claudia Müller gibt Bundestagsmandat im November auf",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/22/gruene-claudia-mueller-gibt-bundestagsmandat-im-november-auf-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/22/gruene-claudia-mueller-gibt-bundestagsmandat-im-november-auf",
+      "published": "Tue, 22 Sep 2026 16:01:35 -0000",
+      "published_display": "22.09.2026 · 16:01 Uhr"
+    },
+    {
+      "title": "Drei Kandidaten, ein Sieger: Olympia-Showdown: Wer macht das Rennen in Deutschland?",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/22/olympia-showdown-wer-macht-das-rennen-in-deutschland-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/22/olympia-showdown-wer-macht-das-rennen-in-deutschland",
+      "published": "Tue, 22 Sep 2026 16:00:07 -0000",
+      "published_display": "22.09.2026 · 16:00 Uhr"
+    },
+    {
+      "title": "Sicherheit Grönlands: Grönland, Dänemark und USA unterzeichnen Sicherheitsabkommen",
+      "summary": "In New York ist das Sicherheitsabkommen für Grönland unterzeichnet worden. Damit legt US-Präsident Donald Trump einen Streit bei, den er selbst ausgelöst hat.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/donald-trump-unterzeichnet-abkommen-mit-daenemark-und-groenland-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/donald-trump-unterzeichnet-abkommen-mit-daenemark-und-groenland",
+      "published": "Tue, 22 Sep 2026 15:55:49 -0000",
+      "published_display": "22.09.2026 · 15:55 Uhr"
+    },
     {
       "title": "Kurz vor der Entscheidung: Olympia-Votum: DOSB-Prüfer sehen München knapp vorn",
       "summary": "",
@@ -25,14 +73,6 @@
       "link": "https://www.zeit.de/news/2026-09/22/trump-will-begriff-ki-mit-superintelligenz-ersetzen",
       "published": "Tue, 22 Sep 2026 15:49:24 -0000",
       "published_display": "22.09.2026 · 15:49 Uhr"
-    },
-    {
-      "title": "Donald Trump unterzeichnet Abkommen mit Dänemark und Grönland",
-      "summary": "",
-      "image": "https://img.zeit.de/administratives/eilmeldung/fallback-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/donald-trump-unterzeichnet-abkommen-mit-daenemark-und-groenland",
-      "published": "Tue, 22 Sep 2026 15:45:58 -0000",
-      "published_display": "22.09.2026 · 15:45 Uhr"
     },
     {
       "title": "Deutsche Filmbranche: Uuund: Cut!",
@@ -81,46 +121,6 @@
       "link": "https://www.zeit.de/2026/40/reise-wien-prag-neusiedlersee-eisenstadt-erinnerung",
       "published": "Tue, 22 Sep 2026 15:41:15 -0000",
       "published_display": "22.09.2026 · 15:41 Uhr"
-    },
-    {
-      "title": "Leichenfund: Polizei nimmt nach Leichenfund in Nersingen 36-Jährigen fest",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/22/polizei-nimmt-nach-leichenfund-in-nersingen-36-jaehrigen-fest-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/22/polizei-nimmt-nach-leichenfund-in-nersingen-36-jaehrigen-fest",
-      "published": "Tue, 22 Sep 2026 15:39:57 -0000",
-      "published_display": "22.09.2026 · 15:39 Uhr"
-    },
-    {
-      "title": "Friedrich Merz: Die soziale Wende des Friedrich Merz?",
-      "summary": "Nach den Wahlniederlagen äußert sich Friedrich Merz plötzlich zum Thema Gerechtigkeit – steckt dahinter ein Kurswechsel? Und: Die EU streitet über Russland-Sanktionen.",
-      "image": "https://img.zeit.de/politik/2026-09/friedrich-merz-union-fraktionssitzung-krankenversicherung-nachrichtenpodcast-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/2026-09/friedrich-merz-union-fraktionssitzung-krankenversicherung-nachrichtenpodcast",
-      "published": "Tue, 22 Sep 2026 15:37:15 -0000",
-      "published_display": "22.09.2026 · 15:37 Uhr"
-    },
-    {
-      "title": "Umsetzung der Asylreform Geas: »Halten Sie sich ab 04:30 bis 07:30 Uhr zur Abholung bereit«",
-      "summary": "Eine junge Somalierin flieht vor Zwangsheirat nach Deutschland, wo sie Familie hat. Dann soll sie nach Italien abgeschoben werden – und löst einen politischen Streit aus.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/abschiebung-italien-asylreform-dublin-abkommen-somalia-bild-02/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/abschiebung-italien-asylreform-dublin-abkommen-somalia-gxe",
-      "published": "Tue, 22 Sep 2026 15:36:54 -0000",
-      "published_display": "22.09.2026 · 15:36 Uhr"
-    },
-    {
-      "title": "The Deportation Project: Die USA als Vorbild für Europa?",
-      "summary": "Rückkehrverordnung, digitale Instrumente, Abschiebelager in Drittstaaten – die Migrationspläne der EU wirken, als habe man sich die US-Behörde ICE zum Vorbild genommen.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/deportation-project-ice-abschiebung-frontex-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/deportation-project-ice-abschiebung-frontex",
-      "published": "Tue, 22 Sep 2026 15:36:43 -0000",
-      "published_display": "22.09.2026 · 15:36 Uhr"
-    },
-    {
-      "title": "AfD und Minderheitsregierung: Erst stützen, dann stürzen",
-      "summary": "Die AfD bringt sich als Unterstützerin einer möglichen Unions-Minderheitsregierung ins Spiel. In einem internen Papier werden mehrere Szenarien durchgespielt.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/sebastian-muenzenmaier-friedrich-merz-afd-union-minderheitsregierung-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/sebastian-muenzenmaier-friedrich-merz-afd-union-minderheitsregierung",
-      "published": "Tue, 22 Sep 2026 15:35:50 -0000",
-      "published_display": "22.09.2026 · 15:35 Uhr"
     }
   ]
 }
