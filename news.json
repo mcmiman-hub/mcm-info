@@ -1,7 +1,111 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-22T11:17:04.395757+00:00",
+  "updated": "2026-09-22T11:29:03.529975+00:00",
   "items": [
+    {
+      "title": "Handel: EU und Philippinen einigen sich auf Freihandelsabkommen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/22/eu-und-philippinen-einigen-sich-auf-freihandelsabkommen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/22/eu-und-philippinen-einigen-sich-auf-freihandelsabkommen",
+      "published": "Tue, 22 Sep 2026 11:25:20 -0000",
+      "published_display": "22.09.2026 · 11:25 Uhr"
+    },
+    {
+      "title": "CSU-Fraktionsklausur: Söder: Bayern im Pisa-Schock",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/22/soeder-bayern-im-pisa-schock-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/22/soeder-bayern-im-pisa-schock",
+      "published": "Tue, 22 Sep 2026 11:23:02 -0000",
+      "published_display": "22.09.2026 · 11:23 Uhr"
+    },
+    {
+      "title": "Thomas Bareiß: Unfall und Ermittlungen - CDU-Politiker wieder im Bundestag",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/22/unfall-und-ermittlungen-cdu-politiker-wieder-im-bundestag-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/22/unfall-und-ermittlungen-cdu-politiker-wieder-im-bundestag",
+      "published": "Tue, 22 Sep 2026 11:22:53 -0000",
+      "published_display": "22.09.2026 · 11:22 Uhr"
+    },
+    {
+      "title": "Kriminalität: Geldtransporter überfallen: Wo sind erbeutete Geldkassetten?",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/22/geldtransporter-ueberfallen-wo-sind-erbeutete-geldkassetten-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/22/geldtransporter-ueberfallen-wo-sind-erbeutete-geldkassetten",
+      "published": "Tue, 22 Sep 2026 11:22:35 -0000",
+      "published_display": "22.09.2026 · 11:22 Uhr"
+    },
+    {
+      "title": "Oktoberfest: Todesfall auf der Wiesn - Wie konnte das passieren?",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/22/toedlicher-unfall-an-fahrgeschaeft-auf-oktoberfest-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/22/toedlicher-unfall-an-fahrgeschaeft-auf-oktoberfest",
+      "published": "Tue, 22 Sep 2026 11:22:31 -0000",
+      "published_display": "22.09.2026 · 11:22 Uhr"
+    },
+    {
+      "title": "Berliner Linke: Linke weist Antisemitismusvorwürfe von Israels Botschafter zurück",
+      "summary": "Die Berliner Linke bekenne sich zum Existenzrecht Israels, sagt Parteichefin Kerstin Wolter. Es sei die israelische Regierungspolitik, die man kritisiere.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/antisemitismus-vorwurf-ron-prosor-linke-berlin-kerstin-wolter-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/antisemitismus-vorwurf-ron-prosor-linke-berlin-kerstin-wolter",
+      "published": "Tue, 22 Sep 2026 11:20:57 -0000",
+      "published_display": "22.09.2026 · 11:20 Uhr"
+    },
+    {
+      "title": "Neue Trauerkultur: In Frankfurt steht Hessens erste Begräbniskirche",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/22/in-frankfurt-steht-hessens-erste-begraebniskirche-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/22/in-frankfurt-steht-hessens-erste-begraebniskirche",
+      "published": "Tue, 22 Sep 2026 11:20:14 -0000",
+      "published_display": "22.09.2026 · 11:20 Uhr"
+    },
+    {
+      "title": "Nach der Landtagswahl: CDU stellt sich nach Wahldebakel im Dezember neu auf",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/22/cdu-stellt-sich-nach-wahldebakel-im-dezember-neu-auf-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/22/cdu-stellt-sich-nach-wahldebakel-im-dezember-neu-auf",
+      "published": "Tue, 22 Sep 2026 11:19:50 -0000",
+      "published_display": "22.09.2026 · 11:19 Uhr"
+    },
+    {
+      "title": "Reform: Thüringer zahlen weniger Grundsteuer für Einfamilienhäuser",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/22/thueringer-zahlen-weniger-grundsteuer-fuer-einfamilienhaeuser-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/22/thueringer-zahlen-weniger-grundsteuer-fuer-einfamilienhaeuser",
+      "published": "Tue, 22 Sep 2026 11:18:58 -0000",
+      "published_display": "22.09.2026 · 11:18 Uhr"
+    },
+    {
+      "title": "Mann erschossen: Nach Leichenfund in Auto: Anklage wegen Mordes erhoben",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/22/nach-leichenfund-in-auto-anklage-wegen-mordes-erhoben-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/22/nach-leichenfund-in-auto-anklage-wegen-mordes-erhoben",
+      "published": "Tue, 22 Sep 2026 11:18:38 -0000",
+      "published_display": "22.09.2026 · 11:18 Uhr"
+    },
+    {
+      "title": "Fußball-Nationalmannschaft: Logische Lösung: Treu würde für Klopp «durchs Feuer gehen»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/22/logische-loesung-treu-wuerde-fuer-klopp-durchs-feuer-gehen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/22/logische-loesung-treu-wuerde-fuer-klopp-durchs-feuer-gehen",
+      "published": "Tue, 22 Sep 2026 11:18:09 -0000",
+      "published_display": "22.09.2026 · 11:18 Uhr"
+    },
+    {
+      "title": "Linke in der Kritik: Linke: Kontakt von Abgeordnetem zu Remmo schadet der Partei",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/22/linke-kontakt-von-abgeordnetem-zu-remmo-schadet-der-partei-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/22/linke-kontakt-von-abgeordnetem-zu-remmo-schadet-der-partei",
+      "published": "Tue, 22 Sep 2026 11:17:42 -0000",
+      "published_display": "22.09.2026 · 11:17 Uhr"
+    },
+    {
+      "title": "Ausstellungen: Gemälde von Bernhard Heisig kehrt nach Dresden zurück",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/22/gemaelde-von-bernhard-heisig-kehrt-nach-dresden-zurueck-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/22/gemaelde-von-bernhard-heisig-kehrt-nach-dresden-zurueck",
+      "published": "Tue, 22 Sep 2026 11:17:34 -0000",
+      "published_display": "22.09.2026 · 11:17 Uhr"
+    },
     {
       "title": "In der Abwärtsspirale: Kommunale Finanznot: Worauf Bürger sich einstellen müssen",
       "summary": "",
@@ -17,110 +121,6 @@
       "link": "https://www.zeit.de/politik/ausland/2026-09/israel-katz-gaza-evakuierung-hamas",
       "published": "Tue, 22 Sep 2026 11:10:49 -0000",
       "published_display": "22.09.2026 · 11:10 Uhr"
-    },
-    {
-      "title": "Branchenmesse Innotrans: EU-Kommissar: Europas Zugsystem braucht einheitliche Tickets",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/22/eu-kommissar-europas-zugsystem-braucht-einheitliche-tickets-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/22/eu-kommissar-europas-zugsystem-braucht-einheitliche-tickets",
-      "published": "Tue, 22 Sep 2026 11:10:33 -0000",
-      "published_display": "22.09.2026 · 11:10 Uhr"
-    },
-    {
-      "title": "Berliner Linke: Linke weist Antisemitismusvorwürfe von Israels Botschafter zurück",
-      "summary": "Die Berliner Linke bekenne sich zum Existenzrecht Israels, sagt Parteichefin Kerstin Wolter. Es sei die israelische Regierungspolitik, die man kritisiere.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/antisemitismus-vorwurf-ron-prosor-linke-berlin-kerstin-wolter-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/antisemitismus-vorwurf-ron-prosor-linke-berlin-kerstin-wolter",
-      "published": "Tue, 22 Sep 2026 11:06:22 -0000",
-      "published_display": "22.09.2026 · 11:06 Uhr"
-    },
-    {
-      "title": "Öl-Alarm: Rhein-Herne-Kanal wegen Öl-Verunreinigung gesperrt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/22/rhein-herne-kanal-wegen-oel-verunreinigung-gesperrt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/22/rhein-herne-kanal-wegen-oel-verunreinigung-gesperrt",
-      "published": "Tue, 22 Sep 2026 11:05:22 -0000",
-      "published_display": "22.09.2026 · 11:05 Uhr"
-    },
-    {
-      "title": "Begriffe erklärt: Enteignung oder Vergesellschaftung: Was ist der Unterschied?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/22/enteignung-oder-vergesellschaftung-was-ist-der-unterschied-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/22/enteignung-oder-vergesellschaftung-was-ist-der-unterschied",
-      "published": "Tue, 22 Sep 2026 11:04:40 -0000",
-      "published_display": "22.09.2026 · 11:04 Uhr"
-    },
-    {
-      "title": "Nach der Landtagswahl in MV: SPD weist AfD-Forderung nach Präsidentenamt zurück",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/22/spd-weist-afd-forderung-nach-praesidentenamt-zurueck-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/22/spd-weist-afd-forderung-nach-praesidentenamt-zurueck",
-      "published": "Tue, 22 Sep 2026 11:04:17 -0000",
-      "published_display": "22.09.2026 · 11:04 Uhr"
-    },
-    {
-      "title": "Attacke im Nahverkehr: Junger Mann geht mit Pfefferspray auf Busfahrer los",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/22/junger-mann-geht-mit-pfefferspray-auf-busfahrer-los-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/22/junger-mann-geht-mit-pfefferspray-auf-busfahrer-los",
-      "published": "Tue, 22 Sep 2026 11:03:51 -0000",
-      "published_display": "22.09.2026 · 11:03 Uhr"
-    },
-    {
-      "title": "CDU-Krise: Fraktionsmanagerin: «Volle Rückendeckung» für den Kanzler",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/22/generalinventur-und-neustart-cdu-sucht-kurs-nach-wahlfiasko-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/22/generalinventur-und-neustart-cdu-sucht-kurs-nach-wahlfiasko",
-      "published": "Tue, 22 Sep 2026 11:03:33 -0000",
-      "published_display": "22.09.2026 · 11:03 Uhr"
-    },
-    {
-      "title": "Flucht vor Polizei: Einbrecher rammt zwei Streifenwagen - Polizist verletzt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/22/einbrecher-rammt-zwei-streifenwagen-polizist-verletzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/22/einbrecher-rammt-zwei-streifenwagen-polizist-verletzt",
-      "published": "Tue, 22 Sep 2026 11:01:36 -0000",
-      "published_display": "22.09.2026 · 11:01 Uhr"
-    },
-    {
-      "title": "Natur: 940 Tonnen Kalk aus der Luft: Hilfe gegen saure Waldböden",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/22/940-tonnen-kalk-aus-der-luft-hilfe-gegen-saure-waldboeden-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/22/940-tonnen-kalk-aus-der-luft-hilfe-gegen-saure-waldboeden",
-      "published": "Tue, 22 Sep 2026 11:00:27 -0000",
-      "published_display": "22.09.2026 · 11:00 Uhr"
-    },
-    {
-      "title": "Hattingen wird Amtssitz: Bundespräsident beginnt dreitägigen Besuch im Ruhrgebiet",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/22/bundespraesident-beginnt-dreitaegigen-besuch-im-ruhrgebiet-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/22/bundespraesident-beginnt-dreitaegigen-besuch-im-ruhrgebiet",
-      "published": "Tue, 22 Sep 2026 11:00:23 -0000",
-      "published_display": "22.09.2026 · 11:00 Uhr"
-    },
-    {
-      "title": "Künstliche Intelligenz: Staatschefs fordern strenge Kontrolle hochentwickelter KI",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/22/staatschefs-fordern-strenge-kontrolle-hochentwickelter-ki-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/22/staatschefs-fordern-strenge-kontrolle-hochentwickelter-ki",
-      "published": "Tue, 22 Sep 2026 11:00:03 -0000",
-      "published_display": "22.09.2026 · 11:00 Uhr"
-    },
-    {
-      "title": "Herbst: Worauf freuen Sie sich gerade?",
-      "summary": "Ob Theater, Musik, Bücher oder Kino: Kulturell gibt es im Herbst viel Neues zu erleben. Hier erzählen sieben Prominente von ihren Vorhaben.",
-      "image": "https://img.zeit.de/feuilleton/2026-09/herbst-kultur-monika-gruetters-mithu-sanyal-christian-thielemann-bjarne-maedel-bild1/original__640x360",
-      "link": "https://www.zeit.de/2026/39/herbst-kultur-monika-gruetters-mithu-sanyal-christian-thielemann-bjarne-maedel",
-      "published": "Tue, 22 Sep 2026 10:59:21 -0000",
-      "published_display": "22.09.2026 · 10:59 Uhr"
-    },
-    {
-      "title": "Nach Wahl in Berlin: Özdemir: Linke muss Antisemiten notfalls rauswerfen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/22/oezdemir-linke-muss-antisemiten-notfalls-rauswerfen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/22/oezdemir-linke-muss-antisemiten-notfalls-rauswerfen",
-      "published": "Tue, 22 Sep 2026 10:58:26 -0000",
-      "published_display": "22.09.2026 · 10:58 Uhr"
     }
   ]
 }
