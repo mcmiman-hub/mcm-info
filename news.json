@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-22T05:16:57.208792+00:00",
+  "updated": "2026-09-22T05:29:18.159895+00:00",
   "items": [
+    {
+      "title": "Unfälle: Unfall auf der Hoheluftchaussee: Fußgänger schwer verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/22/unfall-auf-der-hoheluftchaussee-fussgaenger-schwer-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/22/unfall-auf-der-hoheluftchaussee-fussgaenger-schwer-verletzt",
+      "published": "Tue, 22 Sep 2026 05:25:58 -0000",
+      "published_display": "22.09.2026 · 05:25 Uhr"
+    },
+    {
+      "title": "Joschka Fischer: Joschka Fischer, was trauen Sie Deutschland noch zu? Und der Welt?",
+      "summary": "Deutschlands wichtigster Deuter der Weltpolitik ist zurück im Podcast. Nach den Wahlen spricht er über die AfD, Antisemitismus und die neuen Machtblöcke der Welt.",
+      "image": "https://img.zeit.de/politik/2026-09/joschka-fischer-interviewpodcast-alles-gesagt-aufmacher/original__640x360",
+      "link": "https://www.zeit.de/politik/2026-09/joschka-fischer-interviewpodcast-alles-gesagt",
+      "published": "Tue, 22 Sep 2026 05:18:54 -0000",
+      "published_display": "22.09.2026 · 05:18 Uhr"
+    },
+    {
+      "title": "Wetter im Norden: Ruhiger Herbsttag – ab Mittwoch wird es wieder ungemütlicher",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/22/ruhiger-herbsttag-ab-mittwoch-wird-es-wieder-ungemuetlicher-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/22/ruhiger-herbsttag-ab-mittwoch-wird-es-wieder-ungemuetlicher",
+      "published": "Tue, 22 Sep 2026 05:17:44 -0000",
+      "published_display": "22.09.2026 · 05:17 Uhr"
+    },
     {
       "title": "Brandursache unklar: Feuer im Dachstuhl - Mehrfamilienhaus vermutlich unbewohnbar",
       "summary": "",
@@ -13,7 +37,7 @@
     {
       "title": "Ukrainekrieg: EU erzielt vorerst keine Einigung zu Sanktionen gegen Russland",
       "summary": "Die EU steht unter Zeitdruck, ihre in der Nacht zu Mittwoch auslaufenden Sanktionen gegen Russland zu verlängern. Streitpunkt ist eine Aufhebung für zwei Oligarchen.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/eu-sanktionen-alischer-usmanow-michail-fridman-oligarchen-bild/original__640x360",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/eu-sanktionen-alischer-usmanow-michail-fridman-oligarchen-bild-2/original__640x360",
       "link": "https://www.zeit.de/politik/ausland/2026-09/eu-sanktionen-alischer-usmanow-michail-fridman-oligarchen",
       "published": "Tue, 22 Sep 2026 05:04:10 -0000",
       "published_display": "22.09.2026 · 05:04 Uhr"
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/22/planet-labs-startet-bald-satellitenproduktion-in-berlin",
       "published": "Tue, 22 Sep 2026 04:20:54 -0000",
       "published_display": "22.09.2026 · 04:20 Uhr"
-    },
-    {
-      "title": "Wohnungsmarkt in Berlin: Wohnungskonzerne enteignen: Ist der Plan der Linken realistisch?",
-      "summary": "Die Linke in Berlin will große Wohnungskonzerne vergesellschaften. Kann das tatsächlich funktionieren? Und: Wadephul vertritt Deutschland bei der UN-Generalversammlung.",
-      "image": "https://img.zeit.de/politik/2026-09/wohnungsmarkt-berlin-die-linke-vergesellschaftung-wohnungskonzerne-nachrichtenpodcast-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/2026-09/wohnungsmarkt-berlin-die-linke-vergesellschaftung-wohnungskonzerne-nachrichtenpodcast",
-      "published": "Tue, 22 Sep 2026 04:20:26 -0000",
-      "published_display": "22.09.2026 · 04:20 Uhr"
-    },
-    {
-      "title": "FIFA-Krise: Schachzug oder Einsicht: Was bedeutet Infantinos Vorstoß?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/22/schachzug-oder-einsicht-was-bedeutet-infantinos-vorstoss-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/22/schachzug-oder-einsicht-was-bedeutet-infantinos-vorstoss",
-      "published": "Tue, 22 Sep 2026 04:15:04 -0000",
-      "published_display": "22.09.2026 · 04:15 Uhr"
-    },
-    {
-      "title": "Freihandelsabkommen: Von der Leyen kündigt Handelsabkommen mit den Philippinen an",
-      "summary": "Die Präsidentin der EU-Kommission hat sich mit dem philippinischen Präsidenten auf einen Handelsdeal geeinigt. Er soll in wenigen Monaten fertig ausgearbeitet sein.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/eu-philippinen-freihandelsabkommen-ursula-von-der-leyen-ferdinand-marcos-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/eu-philippinen-freihandelsabkommen-ursula-von-der-leyen-ferdinand-marcos",
-      "published": "Tue, 22 Sep 2026 04:03:59 -0000",
-      "published_display": "22.09.2026 · 04:03 Uhr"
     }
   ]
 }
