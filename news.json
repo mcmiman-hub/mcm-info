@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-22T23:15:55.215094+00:00",
+  "updated": "2026-09-22T23:27:16.447258+00:00",
   "items": [
+    {
+      "title": "Ukrainekrieg: Selenskyj spricht mit Donald Trump über Deeskalation mit Russland",
+      "summary": "Die Präsidenten der Ukraine und der USA haben am Rande der UN-Debatte über Russlands Angriffskrieg gesprochen. Es ging auch um einen Stopp von Attacken auf Raffinerien.",
+      "image": "",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/wolodymyr-selenskyj-donald-trump-waffenruhe-energieanlagen-ukraine",
+      "published": "Tue, 22 Sep 2026 23:16:55 -0000",
+      "published_display": "22.09.2026 · 23:16 Uhr"
+    },
     {
       "title": "Regierungsbildung: Sachsen-Anhalts BSW-Landeschef: AfD weiß nicht, was sie will",
       "summary": "",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/politik/ausland/2026-09/un-vollversammlung-donald-trump-iran-usa",
       "published": "Tue, 22 Sep 2026 19:43:37 -0000",
       "published_display": "22.09.2026 · 19:43 Uhr"
-    },
-    {
-      "title": "Einsatz: Verdacht auf giftiges Quecksilber - DHL-Zentrum evakuiert",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/22/verdacht-auf-giftiges-quecksilber-dhl-zentrum-evakuiert-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/22/verdacht-auf-giftiges-quecksilber-dhl-zentrum-evakuiert",
-      "published": "Tue, 22 Sep 2026 19:40:51 -0000",
-      "published_display": "22.09.2026 · 19:40 Uhr"
     }
   ]
 }
