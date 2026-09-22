@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-22T01:15:33.709912+00:00",
+  "updated": "2026-09-22T01:28:40.453786+00:00",
   "items": [
+    {
+      "title": "Regierungsbildung in Berlin: Grüne Jugend spricht sich für Bündnis mit Linkspartei aus",
+      "summary": "Der Grüne Jugend rät ihrer Partei davon ab, nach dem Wahlsieg der Linken eine Koalition mit der CDU einzugehen. Sigmar Gabriel warnt die SPD derweil vor der Linken.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/gruene-jugend-koalition-berlin-luis-bobga-cdu-abgeordnetenhauswahl-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/gruene-jugend-koalition-berlin-luis-bobga-cdu-abgeordnetenhauswahl",
+      "published": "Tue, 22 Sep 2026 01:22:51 -0000",
+      "published_display": "22.09.2026 · 01:22 Uhr"
+    },
     {
       "title": "Evakuierung: Haus von Familie wegen Rissen evakuiert – Abriss nebenan",
       "summary": "",
@@ -75,8 +83,8 @@
       "published_display": "21.09.2026 · 23:16 Uhr"
     },
     {
-      "title": "Ferat Koçak: Linken-Abgeordneter Koçak entschuldigt sich für Chat mit Remmo-Sohn",
-      "summary": "Ferat Koçak hat sich für seinen Kontakt mit Firas Remmo entschuldigt. Er habe erst nicht gewusst, dass es sich um den Sohn des Berliner Clan-Chefs Issa Remmo handelte.",
+      "title": "Ferat Koçak: Linkenabgeordneter Koçak entschuldigt sich für Chat mit Remmo-Sohn",
+      "summary": "Ferat Koçak hat sich für seinen Kontakt mit Firas Remmo entschuldigt. Er habe erst nicht gewusst, dass es sich um den Sohn des Berliner Clanchefs Issa Remmo handelte.",
       "image": "https://img.zeit.de/politik/2026-09/bundestag-bild/original__640x360",
       "link": "https://www.zeit.de/politik/deutschland/2026-09/ferat-kocak-firas-remmo-chat-issa-remmo-die-linke-neukoelln",
       "published": "Mon, 21 Sep 2026 23:11:01 -0000",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/22/ostfrankreich-will-verstaerkt-deutsche-investoren-werben",
       "published": "Mon, 21 Sep 2026 23:00:04 -0000",
       "published_display": "21.09.2026 · 23:00 Uhr"
-    },
-    {
-      "title": "Notfälle: Oktoberfest: Mitarbeiter nach Fahrgeschäft-Unfall gestorben",
-      "summary": "",
-      "image": "",
-      "link": "https://www.zeit.de/news/2026-09/22/oktoberfest-mitarbeiter-nach-fahrgeschaeft-unfall-gestorben",
-      "published": "Mon, 21 Sep 2026 22:50:19 -0000",
-      "published_display": "21.09.2026 · 22:50 Uhr"
     }
   ]
 }
