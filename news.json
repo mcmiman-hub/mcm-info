@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-22T00:24:01.213753+00:00",
+  "updated": "2026-09-22T00:48:20.336212+00:00",
   "items": [
+    {
+      "title": "Münchner Oktoberfest: Mitarbeiter stirbt nach Unfall an Fahrgeschäft auf Oktoberfest",
+      "summary": "Ein 52 Jahre alter Mann ist bei einem Unfall auf dem Oktoberfest an einem Free-Fall-Tower tödlich verletzt worden. Besucher seien nicht in Gefahr gewesen.",
+      "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-09/muenchner-oktoberfest-unfall-betriebsunfall-fahrgeschaeft-polizei-foto-1/original__640x360",
+      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-09/muenchner-oktoberfest-unfall-betriebsunfall-fahrgeschaeft-polizei",
+      "published": "Tue, 22 Sep 2026 00:38:43 -0000",
+      "published_display": "22.09.2026 · 00:38 Uhr"
+    },
+    {
+      "title": "Handelsbeziehungen: EU-Handelskammer sieht Umdenken im Handel mit China erreicht",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/22/eu-handelskammer-sieht-umdenken-im-handel-mit-china-erreicht-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/22/eu-handelskammer-sieht-umdenken-im-handel-mit-china-erreicht",
+      "published": "Tue, 22 Sep 2026 00:30:04 -0000",
+      "published_display": "22.09.2026 · 00:30 Uhr"
+    },
     {
       "title": "Gianni Infantino: Fifa-Chef Infantino zeigt sich offen für Gespräche über Reformen",
       "summary": "Der Chef des Weltfußballverbands hat sich in einem Schreiben an Funktionäre offen für Reformen gezeigt. Trotz Rücktrittsforderungen will er die Fifa weiter führen.",
@@ -12,7 +28,7 @@
     },
     {
       "title": "Handelsstreit: USA wollen Kalisalz aus Belarus kaufen",
-      "summary": "Die USA importieren Kali, einen wichtigen Bestandteil von Düngemittel, primär aus Kanada. Laut Donald Trump arbeitet seine Regierung an einem Handelsabkommen mit Belarus.",
+      "summary": "Die USA importieren Kali, ein wichtiger Bestandteil von Düngemitteln, primär aus Kanada. Laut Donald Trump arbeitet seine Regierung an einem Handelsabkommen mit Belarus.",
       "image": "https://img.zeit.de/politik/2026-09/kanada-usa-kalisalz-belarus/original__640x360",
       "link": "https://www.zeit.de/politik/ausland/2026-09/kali-belarus-usa-kanada-handelsstreit-donald-trump",
       "published": "Tue, 22 Sep 2026 00:06:48 -0000",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/22/loeschhubschrauber-stuerzt-im-yosemite-park-ab-zwei-tote",
       "published": "Mon, 21 Sep 2026 22:23:52 -0000",
       "published_display": "21.09.2026 · 22:23 Uhr"
-    },
-    {
-      "title": "Donald Trump: Zustimmung für Donald Trump sinkt auch unter Republikanern",
-      "summary": "Nur noch knapp ein Drittel der US-Bürger sind mit der Arbeit ihres Präsidenten zufrieden. Unter Trumps Parteigenossen fielen die Werte binnen einer Woche um neun Prozent.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/donald-trump-zustimmungswerte-umfrage-reuters-ipsos-republikaner-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/donald-trump-zustimmungswerte-umfrage-reuters-ipsos-republikaner",
-      "published": "Mon, 21 Sep 2026 22:20:08 -0000",
-      "published_display": "21.09.2026 · 22:20 Uhr"
-    },
-    {
-      "title": "Energiekosten: Prognose: Heizkosten steigen 2026 an",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/22/prognose-heizkosten-steigen-2026-an-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/22/prognose-heizkosten-steigen-2026-an",
-      "published": "Mon, 21 Sep 2026 22:02:04 -0000",
-      "published_display": "21.09.2026 · 22:02 Uhr"
     }
   ]
 }
