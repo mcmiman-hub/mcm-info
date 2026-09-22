@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-22T01:42:33.258666+00:00",
+  "updated": "2026-09-22T01:54:15.000857+00:00",
   "items": [
+    {
+      "title": "Notfälle: Tödlicher Unfall an Fahrgeschäft auf dem Oktoberfest",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/22/toedlicher-unfall-an-fahrgeschaeft-auf-oktoberfest-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/22/toedlicher-unfall-an-fahrgeschaeft-auf-oktoberfest",
+      "published": "Tue, 22 Sep 2026 01:47:03 -0000",
+      "published_display": "22.09.2026 · 01:47 Uhr"
+    },
     {
       "title": "Schatzfund: Römischer Münzschatz entdeckt",
       "summary": "",
@@ -60,7 +68,7 @@
     },
     {
       "title": "Regierungsbildung in Berlin: Grüne Jugend spricht sich für Bündnis mit Linkspartei aus",
-      "summary": "Der Grüne Jugend rät ihrer Partei davon ab, nach dem Wahlsieg der Linken eine Koalition mit der CDU einzugehen. Sigmar Gabriel warnt die SPD derweil vor der Linken.",
+      "summary": "Die Grüne Jugend rät ihrer Partei davon ab, nach dem Wahlsieg der Linken eine Koalition mit der CDU einzugehen. Sigmar Gabriel warnt die SPD derweil vor der Linken.",
       "image": "https://img.zeit.de/politik/deutschland/2026-09/gruene-jugend-koalition-berlin-luis-bobga-cdu-abgeordnetenhauswahl-foto-1/original__640x360",
       "link": "https://www.zeit.de/politik/deutschland/2026-09/gruene-jugend-koalition-berlin-luis-bobga-cdu-abgeordnetenhauswahl",
       "published": "Tue, 22 Sep 2026 01:22:51 -0000",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/politik/ausland/2026-09/kali-belarus-usa-kanada-handelsstreit-donald-trump",
       "published": "Tue, 22 Sep 2026 00:06:48 -0000",
       "published_display": "22.09.2026 · 00:06 Uhr"
-    },
-    {
-      "title": "Technische Störung: Störung an mehreren US-Flughäfen wieder behoben",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/21/flugstopp-an-airports-der-us-ostkueste-angeordnet-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/21/flugstopp-an-airports-der-us-ostkueste-angeordnet",
-      "published": "Mon, 21 Sep 2026 23:38:51 -0000",
-      "published_display": "21.09.2026 · 23:38 Uhr"
     }
   ]
 }
