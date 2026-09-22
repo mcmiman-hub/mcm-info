@@ -1,7 +1,79 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-22T09:43:45.656548+00:00",
+  "updated": "2026-09-22T09:55:15.335738+00:00",
   "items": [
+    {
+      "title": "KI-Ausgaben in Deutschland: Deutscher KI-Markt wächst 2026 um fast die Hälfte",
+      "summary": "Deutsche Unternehmen investieren 2026 deutlich mehr in künstliche Intelligenz als im Vorjahr. Angetrieben wird das Wachstum von generativer KI wie ChatGPT und Claude.",
+      "image": "",
+      "link": "https://www.zeit.de/digital/2026-09/ki-ausgaben-deutschland-marktvolumen-generative-ki-bitkom",
+      "published": "Tue, 22 Sep 2026 09:52:18 -0000",
+      "published_display": "22.09.2026 · 09:52 Uhr"
+    },
+    {
+      "title": "Immobilien: Vonovia-Aktie unter Druck",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/22/vonovia-aktie-unter-druck-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/22/vonovia-aktie-unter-druck",
+      "published": "Tue, 22 Sep 2026 09:52:04 -0000",
+      "published_display": "22.09.2026 · 09:52 Uhr"
+    },
+    {
+      "title": "Nach der Landtagswahl: Endgültiges Wahlergebnis der Landtagswahl steht fest",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/22/endgueltiges-wahlergebnis-der-landtagswahl-steht-fest-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/22/endgueltiges-wahlergebnis-der-landtagswahl-steht-fest",
+      "published": "Tue, 22 Sep 2026 09:51:25 -0000",
+      "published_display": "22.09.2026 · 09:51 Uhr"
+    },
+    {
+      "title": "Großbritannien und Saudi-Arabien: Britische Luftwaffe unterstützt saudisches Militär gegen Huthi",
+      "summary": "Im Kampf gegen die Huthi erhält Saudi-Arabien Unterstützung von Großbritannien. Die britische Luftwaffe soll saudische Flugzeuge bei »defensiven« Einsätzen betanken.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/grossbritannien-saudi-arabien-huthi-angriffe-jemen-luftbetankung-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/grossbritannien-saudi-arabien-huthi-angriffe-jemen-luftbetankung",
+      "published": "Tue, 22 Sep 2026 09:50:18 -0000",
+      "published_display": "22.09.2026 · 09:50 Uhr"
+    },
+    {
+      "title": "Oktoberfest: Tödlicher Wiesn-Unfall - Wie konnte das passieren?",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/22/toedlicher-unfall-an-fahrgeschaeft-auf-oktoberfest-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/22/toedlicher-unfall-an-fahrgeschaeft-auf-oktoberfest",
+      "published": "Tue, 22 Sep 2026 09:48:42 -0000",
+      "published_display": "22.09.2026 · 09:48 Uhr"
+    },
+    {
+      "title": "Kind in Klinik: Vierjähriger in Reinickendorf von Auto angefahren",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/22/vierjaehriger-in-reinickendorf-von-auto-angefahren-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/22/vierjaehriger-in-reinickendorf-von-auto-angefahren",
+      "published": "Tue, 22 Sep 2026 09:48:08 -0000",
+      "published_display": "22.09.2026 · 09:48 Uhr"
+    },
+    {
+      "title": "Amt für Statistik: Zahl der Hochzeiten auf historisch niedrigem Stand",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/22/zahl-der-hochzeiten-auf-historisch-niedrigem-stand-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/22/zahl-der-hochzeiten-auf-historisch-niedrigem-stand",
+      "published": "Tue, 22 Sep 2026 09:47:10 -0000",
+      "published_display": "22.09.2026 · 09:47 Uhr"
+    },
+    {
+      "title": "Demenz: Fast 1,8 Millionen Menschen in Deutschland leben mit Demenz",
+      "summary": "Durch die Überalterung und ohne wirksame Therapien steigt die Zahl der Demenzkranken in Deutschland. Dennoch sehen die Experten eine positive Entwicklung.",
+      "image": "",
+      "link": "https://www.zeit.de/gesundheit/2026-09/demenz-deutschland-zahl-betroffene-alzheimer-gesellschaft",
+      "published": "Tue, 22 Sep 2026 09:44:04 -0000",
+      "published_display": "22.09.2026 · 09:44 Uhr"
+    },
+    {
+      "title": "Nach der Wahl in Berlin: Berliner Linke lädt Grüne und SPD zu «Vorgesprächen» ein",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/22/israels-botschafter-juedisches-leben-in-berlin-in-gefahr-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/22/israels-botschafter-juedisches-leben-in-berlin-in-gefahr",
+      "published": "Tue, 22 Sep 2026 09:42:24 -0000",
+      "published_display": "22.09.2026 · 09:42 Uhr"
+    },
     {
       "title": "Iran-Krieg: Iran stellt neuen diplomatischen Anlauf in Aussicht",
       "summary": "",
@@ -49,78 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/22/brandenburgs-gruenen-landeschefin-meyer-kuendigt-rueckzug-an",
       "published": "Tue, 22 Sep 2026 09:32:36 -0000",
       "published_display": "22.09.2026 · 09:32 Uhr"
-    },
-    {
-      "title": "Fotografie: Bilder des Tages",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/22/bilder-des-tages-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/22/bilder-des-tages",
-      "published": "Tue, 22 Sep 2026 09:31:49 -0000",
-      "published_display": "22.09.2026 · 09:31 Uhr"
-    },
-    {
-      "title": "Unfall auf der Flucht: Nachbar reagiert schnell – mutmaßlicher Betrüger gefasst",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/22/nachbar-reagiert-schnell-mutmasslicher-betrueger-gefasst-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/22/nachbar-reagiert-schnell-mutmasslicher-betrueger-gefasst",
-      "published": "Tue, 22 Sep 2026 09:30:55 -0000",
-      "published_display": "22.09.2026 · 09:30 Uhr"
-    },
-    {
-      "title": "Tierschutz: Abschussgenehmigung für Wolf gestoppt – Gericht prüft weiter",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/22/abschussgenehmigung-fuer-wolf-gestoppt-gericht-prueft-weiter-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/22/abschussgenehmigung-fuer-wolf-gestoppt-gericht-prueft-weiter",
-      "published": "Tue, 22 Sep 2026 09:30:06 -0000",
-      "published_display": "22.09.2026 · 09:30 Uhr"
-    },
-    {
-      "title": "Stadionallianzen: Hessens Polizei fordert weniger Einsatzzeiten beim Fußball",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/22/hessens-polizei-fordert-weniger-einsatzzeiten-beim-fussball-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/22/hessens-polizei-fordert-weniger-einsatzzeiten-beim-fussball",
-      "published": "Tue, 22 Sep 2026 09:29:45 -0000",
-      "published_display": "22.09.2026 · 09:29 Uhr"
-    },
-    {
-      "title": "Jubiläum: 40 Jahre Kohltage - Dithmarschen feiert sein Nationalgemüse",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/22/40-jahre-kohltage-dithmarschen-feiert-sein-nationalgemuese-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/22/40-jahre-kohltage-dithmarschen-feiert-sein-nationalgemuese",
-      "published": "Tue, 22 Sep 2026 09:27:39 -0000",
-      "published_display": "22.09.2026 · 09:27 Uhr"
-    },
-    {
-      "title": "Unfälle: Jugendlicher bei Unfall in Lübeck schwer verletzt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/22/jugendlicher-bei-unfall-in-luebeck-schwer-verletzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/22/jugendlicher-bei-unfall-in-luebeck-schwer-verletzt",
-      "published": "Tue, 22 Sep 2026 09:25:46 -0000",
-      "published_display": "22.09.2026 · 09:25 Uhr"
-    },
-    {
-      "title": "Wohnen: Taskforce prüft fast 1.500 mögliche Mietwucher-Fälle",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/22/taskforce-prueft-fast-1-500-moegliche-mietwucher-faelle-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/22/taskforce-prueft-fast-1-500-moegliche-mietwucher-faelle",
-      "published": "Tue, 22 Sep 2026 09:24:57 -0000",
-      "published_display": "22.09.2026 · 09:24 Uhr"
-    },
-    {
-      "title": "Mitarbeiter überrascht: «Erhebliche Mängel»: Frankfurter Hotel schließt kurzfristig",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/22/erhebliche-maengel-frankfurter-hotel-schliesst-kurzfristig-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/22/erhebliche-maengel-frankfurter-hotel-schliesst-kurzfristig",
-      "published": "Tue, 22 Sep 2026 09:23:51 -0000",
-      "published_display": "22.09.2026 · 09:23 Uhr"
-    },
-    {
-      "title": "Sportangebot an der Schule: Was der neue Bewegungscheck für Grundschüler bringen soll",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/22/was-der-neue-bewegungscheck-fuer-grundschueler-bringen-soll-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/22/was-der-neue-bewegungscheck-fuer-grundschueler-bringen-soll",
-      "published": "Tue, 22 Sep 2026 09:22:54 -0000",
-      "published_display": "22.09.2026 · 09:22 Uhr"
     }
   ]
 }
