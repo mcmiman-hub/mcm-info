@@ -1,11 +1,19 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-22T23:27:16.447258+00:00",
+  "updated": "2026-09-22T23:41:17.559196+00:00",
   "items": [
+    {
+      "title": "Energie: USA prüfen wegen hoher Spritpreise Exportstopp für Diesel",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/23/usa-pruefen-wegen-hoher-spritpreise-exportstopp-fuer-diesel-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/23/usa-pruefen-wegen-hoher-spritpreise-exportstopp-fuer-diesel",
+      "published": "Tue, 22 Sep 2026 23:29:47 -0000",
+      "published_display": "22.09.2026 · 23:29 Uhr"
+    },
     {
       "title": "Ukrainekrieg: Selenskyj spricht mit Donald Trump über Deeskalation mit Russland",
       "summary": "Die Präsidenten der Ukraine und der USA haben am Rande der UN-Debatte über Russlands Angriffskrieg gesprochen. Es ging auch um einen Stopp von Attacken auf Raffinerien.",
-      "image": "",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/un-generalversammlung-bild/original__640x360",
       "link": "https://www.zeit.de/politik/ausland/2026-09/wolodymyr-selenskyj-donald-trump-waffenruhe-energieanlagen-ukraine",
       "published": "Tue, 22 Sep 2026 23:16:55 -0000",
       "published_display": "22.09.2026 · 23:16 Uhr"
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/22/flixbus-prallt-auf-a2-gegen-lkw-zwei-verletzte",
       "published": "Tue, 22 Sep 2026 19:49:19 -0000",
       "published_display": "22.09.2026 · 19:49 Uhr"
-    },
-    {
-      "title": "UN-Vollversammlung: Die Welt ist gut, solange es seine Welt ist",
-      "summary": "Donald Trump spricht fast freundlich vor den UN. Und droht dann, den Iran zu »vernichten«. Die Welt soll sich seinem Willen beugen, doch Trumps Stärke wirkt schwach.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/un-vollversammlung-donald-trump-iran-usa-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/un-vollversammlung-donald-trump-iran-usa",
-      "published": "Tue, 22 Sep 2026 19:43:37 -0000",
-      "published_display": "22.09.2026 · 19:43 Uhr"
     }
   ]
 }
