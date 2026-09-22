@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-22T00:48:20.336212+00:00",
+  "updated": "2026-09-22T00:57:34.601727+00:00",
   "items": [
+    {
+      "title": "Vergesellschaftung von Wohnungen: CSU will Immobilien-Enteignungen schnell verbieten",
+      "summary": "Die Linke in Berlin will einen Volksentscheid umsetzen und große Wohnungskonzerne enteignen. Die CSU spricht von einem »sozialistischen Himmelfahrtskommando«.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/vergesellschaftung-wohnungen-berlin-verbot-csu-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/vergesellschaftung-wohnungen-berlin-verbot-csu",
+      "published": "Tue, 22 Sep 2026 00:55:37 -0000",
+      "published_display": "22.09.2026 · 00:55 Uhr"
+    },
     {
       "title": "Münchner Oktoberfest: Mitarbeiter stirbt nach Unfall an Fahrgeschäft auf Oktoberfest",
       "summary": "Ein 52 Jahre alter Mann ist bei einem Unfall auf dem Oktoberfest an einem Free-Fall-Tower tödlich verletzt worden. Besucher seien nicht in Gefahr gewesen.",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/22/freie-waehler-nachwuchs-soeder-hat-angst-vor-unserem-erfolg",
       "published": "Mon, 21 Sep 2026 22:31:04 -0000",
       "published_display": "21.09.2026 · 22:31 Uhr"
-    },
-    {
-      "title": "Waldbrände: Löschhubschrauber stürzt im Yosemite Park ab - zwei Tote",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/22/loeschhubschrauber-stuerzt-im-yosemite-park-ab-zwei-tote-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/22/loeschhubschrauber-stuerzt-im-yosemite-park-ab-zwei-tote",
-      "published": "Mon, 21 Sep 2026 22:23:52 -0000",
-      "published_display": "21.09.2026 · 22:23 Uhr"
     }
   ]
 }
