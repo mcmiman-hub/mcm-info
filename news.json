@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-22T18:36:18.756742+00:00",
+  "updated": "2026-09-22T18:48:26.802412+00:00",
   "items": [
+    {
+      "title": "Olympia-Bewerbung: Kritik an Eralps Olympia-Nein: Pläne «vom Tisch gewischt»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/22/olympia-nein-berlin-befuerworter-appellieren-an-wahlsiegerin-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/22/olympia-nein-berlin-befuerworter-appellieren-an-wahlsiegerin",
+      "published": "Tue, 22 Sep 2026 18:40:58 -0000",
+      "published_display": "22.09.2026 · 18:40 Uhr"
+    },
     {
       "title": "Irankrieg: Donald Trump bestätigt Treffen von US-Delegation mit Vertretern Irans",
       "summary": "Vertreter der USA und des Irans haben sich laut dem US-Präsidenten in New York getroffen. Trump sprach auch von einem möglichen Abkommen nach den Midterms. Das Liveblog",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/22/iran-krieg-und-groenland-abkommen-trumps-agenda-in-new-york",
       "published": "Tue, 22 Sep 2026 18:02:44 -0000",
       "published_display": "22.09.2026 · 18:02 Uhr"
-    },
-    {
-      "title": "AfD in Berlin: Das sind die AfD-Abgeordneten im Berliner Abgeordnetenhaus",
-      "summary": "Sie wollen »Transgenderismus ausrotten«, fordern »Remigration«, einige sympathisieren mit den Völkischen der Partei: Ein Blick auf die 29 Abgeordneten der AfD in Berlin.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/teaser-afdler-be-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/afd-berlin-abgeordnetenhauswahl-abgeordnete-recherche",
-      "published": "Tue, 22 Sep 2026 18:01:23 -0000",
-      "published_display": "22.09.2026 · 18:01 Uhr"
     }
   ]
 }
