@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-22T04:43:50.417041+00:00",
+  "updated": "2026-09-22T04:55:12.985067+00:00",
   "items": [
+    {
+      "title": "Brände: Feuer zerstört Haus bei Bad Blankenburg – keine Verletzten",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/22/feuer-zerstoert-haus-bei-bad-blankenburg-keine-verletzten-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/22/feuer-zerstoert-haus-bei-bad-blankenburg-keine-verletzten",
+      "published": "Tue, 22 Sep 2026 04:50:15 -0000",
+      "published_display": "22.09.2026 · 04:50 Uhr"
+    },
+    {
+      "title": "Polizei: Versuchtes Tötungsdelikt in Hamm",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/22/versuchtes-toetungsdelikt-in-hamm-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/22/versuchtes-toetungsdelikt-in-hamm",
+      "published": "Tue, 22 Sep 2026 04:46:21 -0000",
+      "published_display": "22.09.2026 · 04:46 Uhr"
+    },
     {
       "title": "Nordwestmecklenburg: Motorradfahrer stirbt bei Verkehrsunfall",
       "summary": "",
@@ -61,7 +77,7 @@
     {
       "title": "Freihandelsabkommen: Von der Leyen kündigt Handelsabkommen mit den Philippinen an",
       "summary": "Die Präsidentin der EU-Kommission hat sich mit dem philippinischen Präsidenten auf einen Handelsdeal geeinigt. Er soll in wenigen Monaten fertig ausgearbeitet sein.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/eu-philippinen-freihandelsabkommen-ursula-von-der-leyen-ferdinand-marcos-foto-1/original__640x360",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/eu-philippinen-freihandelsabkommen-ursula-von-der-leyen-ferdinand-marcos-bild/original__640x360",
       "link": "https://www.zeit.de/politik/ausland/2026-09/eu-philippinen-freihandelsabkommen-ursula-von-der-leyen-ferdinand-marcos",
       "published": "Tue, 22 Sep 2026 04:03:59 -0000",
       "published_display": "22.09.2026 · 04:03 Uhr"
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/22/fat-bear-wettbewerb-in-alaska-chunk-wieder-im-rennen",
       "published": "Tue, 22 Sep 2026 03:44:11 -0000",
       "published_display": "22.09.2026 · 03:44 Uhr"
-    },
-    {
-      "title": "Wetterbericht: Mehr Sonne als Wolken und trocken – So wird heute das Wetter",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/22/mehr-sonne-als-wolken-und-trocken-so-wird-heute-das-wetter-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/22/mehr-sonne-als-wolken-und-trocken-so-wird-heute-das-wetter",
-      "published": "Tue, 22 Sep 2026 03:40:24 -0000",
-      "published_display": "22.09.2026 · 03:40 Uhr"
-    },
-    {
-      "title": "UN-Vollversammlung: Im Kampf um die eigene Daseinsberechtigung",
-      "summary": "Die Vereinten Nationen kommen zum wichtigsten Treffen des Jahres zusammen, auch ein neuer Generalsekretär wird gesucht. Funktioniert die Institution in dieser Zeit noch?",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/united-nations-prepares-for-world-leaders-to-convene-for-81st-united-nations-general-assembly-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/un-vollversammlung-donald-trump-weltordnung",
-      "published": "Tue, 22 Sep 2026 03:34:33 -0000",
-      "published_display": "22.09.2026 · 03:34 Uhr"
     }
   ]
 }
