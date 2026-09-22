@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-22T19:54:48.471296+00:00",
+  "updated": "2026-09-22T20:16:44.571922+00:00",
   "items": [
+    {
+      "title": "Notfälle: Zwei Weltkriegsbomben in Wiesbaden gesprengt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/22/zwei-weltkriegsbomben-in-wiesbaden-entdeckt-evakuierung-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/22/zwei-weltkriegsbomben-in-wiesbaden-entdeckt-evakuierung",
+      "published": "Tue, 22 Sep 2026 20:07:07 -0000",
+      "published_display": "22.09.2026 · 20:07 Uhr"
+    },
+    {
+      "title": "Regierungsbildung in Berlin: SPD-Spitze an Linke: Antisemitismus nicht mit uns",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/22/spd-spitze-an-linke-antisemitismus-nicht-mit-uns-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/22/spd-spitze-an-linke-antisemitismus-nicht-mit-uns",
+      "published": "Tue, 22 Sep 2026 19:55:05 -0000",
+      "published_display": "22.09.2026 · 19:55 Uhr"
+    },
     {
       "title": "Unfall: Flixbus prallt auf A2 gegen Lkw - zwei Verletzte",
       "summary": "",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/22/nach-kuriosem-pyro-gegentor-bayern-frauen-verpassen-sieg",
       "published": "Tue, 22 Sep 2026 18:49:04 -0000",
       "published_display": "22.09.2026 · 18:49 Uhr"
-    },
-    {
-      "title": "Olympia-Bewerbung: Kritik an Eralps Olympia-Nein: Pläne «vom Tisch gewischt»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/22/olympia-nein-berlin-befuerworter-appellieren-an-wahlsiegerin-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/22/olympia-nein-berlin-befuerworter-appellieren-an-wahlsiegerin",
-      "published": "Tue, 22 Sep 2026 18:40:58 -0000",
-      "published_display": "22.09.2026 · 18:40 Uhr"
-    },
-    {
-      "title": "Irankrieg: Donald Trump bestätigt Treffen von US-Delegation mit Vertretern Irans",
-      "summary": "Vertreter der USA und des Irans haben sich laut dem US-Präsidenten in New York getroffen. Trump sprach auch von einem möglichen Abkommen nach den Midterms. Das Liveblog",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/iran-krieg-donald-trump-hormus-live-bild-5/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-05/iran-krieg-donald-trump-hormus-live",
-      "published": "Tue, 22 Sep 2026 18:30:31 -0000",
-      "published_display": "22.09.2026 · 18:30 Uhr"
     }
   ]
 }
