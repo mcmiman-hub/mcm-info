@@ -1,9 +1,73 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-22T03:30:52.574369+00:00",
+  "updated": "2026-09-22T03:44:30.828364+00:00",
   "items": [
     {
-      "title": "Der US-Überblick am Morgen: Weißes Haus stellt Trump TV vor, USA planen Abkommen mit Belarus",
+      "title": "Wetterbericht: Mehr Sonne als Wolken und trocken – So wird heute das Wetter",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/22/mehr-sonne-als-wolken-und-trocken-so-wird-heute-das-wetter-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/22/mehr-sonne-als-wolken-und-trocken-so-wird-heute-das-wetter",
+      "published": "Tue, 22 Sep 2026 03:40:24 -0000",
+      "published_display": "22.09.2026 · 03:40 Uhr"
+    },
+    {
+      "title": "UN-Vollversammlung: Im Kampf um die eigene Daseinsberechtigung",
+      "summary": "Die Vereinten Nationen kommen zum wichtigsten Treffen des Jahres zusammen, auch ein neuer Generalsekretär wird gesucht. Funktioniert die Institution in dieser Zeit noch?",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/un-vollversammlung-donald-trump-weltordnung-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/un-vollversammlung-donald-trump-weltordnung",
+      "published": "Tue, 22 Sep 2026 03:34:33 -0000",
+      "published_display": "22.09.2026 · 03:34 Uhr"
+    },
+    {
+      "title": "Fußball-Nationalmannschaft: Nachhilfe für Klopp: Nations League als Reiz und Fallschirm",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/22/nachhilfe-fuer-klopp-nations-league-als-reiz-und-fallschirm-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/22/nachhilfe-fuer-klopp-nations-league-als-reiz-und-fallschirm",
+      "published": "Tue, 22 Sep 2026 03:34:04 -0000",
+      "published_display": "22.09.2026 · 03:34 Uhr"
+    },
+    {
+      "title": "Wetter: Wechsel von Sonne und Wolken in Berlin und Brandenburg",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/22/wechsel-von-sonne-und-wolken-in-berlin-und-brandenburg-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/22/wechsel-von-sonne-und-wolken-in-berlin-und-brandenburg",
+      "published": "Tue, 22 Sep 2026 03:33:14 -0000",
+      "published_display": "22.09.2026 · 03:33 Uhr"
+    },
+    {
+      "title": "Pressefreiheit in den USA: Rauswurf aus Weißem Haus: Trumps Streit mit Medien eskaliert",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/22/drei-us-medien-planen-klage-gegen-ausschluss-aus-weissem-haus-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/21/drei-us-medien-planen-klage-gegen-ausschluss-aus-weissem-haus",
+      "published": "Tue, 22 Sep 2026 03:30:56 -0000",
+      "published_display": "22.09.2026 · 03:30 Uhr"
+    },
+    {
+      "title": "«Red Storm Charlie»: Konflikt-Szenario in Hamburg – Bundeswehr übt den Ernstfall",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/22/konflikt-szenario-in-hamburg-bundeswehr-uebt-den-ernstfall-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/22/konflikt-szenario-in-hamburg-bundeswehr-uebt-den-ernstfall",
+      "published": "Tue, 22 Sep 2026 03:30:06 -0000",
+      "published_display": "22.09.2026 · 03:30 Uhr"
+    },
+    {
+      "title": "Umstrittenes Gesetz: Straßenhunde in Türkei eingesammelt - Tierschützer alarmiert",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/22/strassenhunde-in-tuerkei-eingesammelt-tierschuetzer-alarmiert-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/22/strassenhunde-in-tuerkei-eingesammelt-tierschuetzer-alarmiert",
+      "published": "Tue, 22 Sep 2026 03:30:05 -0000",
+      "published_display": "22.09.2026 · 03:30 Uhr"
+    },
+    {
+      "title": "Kanzlerkrise: Brandenburger CDU-Hochburg: Merz hat «nicht überzeugt»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/22/brandenburger-cdu-hochburg-merz-hat-nicht-ueberzeugt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/22/brandenburger-cdu-hochburg-merz-hat-nicht-ueberzeugt",
+      "published": "Tue, 22 Sep 2026 03:30:04 -0000",
+      "published_display": "22.09.2026 · 03:30 Uhr"
+    },
+    {
+      "title": "Der US-Überblick am Morgen: US-Regierung stellt Trump TV vor, USA planen Abkommen mit Belarus",
       "summary": "Nach dem Ausschluss von Mediensendern sendet die US-Regierung auf einem eigenen Kanal. Statt von Kanada wollen die USA Kalisalz künftig von Belarus kaufen. Die Nacht",
       "image": "https://img.zeit.de/politik/ausland/2026-09/2026-09-21t134542z-2075846092-mt1zuma000k1jojx-rtrmadp-3-zuma-bild/original__640x360",
       "link": "https://www.zeit.de/politik/ausland/2026-09/usa-ueberblick-trump-tv-abkommen-belarus",
@@ -57,70 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/22/mojib-latif-wer-ist-schleswig-holsteins-neuer-ehrenbuerger",
       "published": "Tue, 22 Sep 2026 03:00:12 -0000",
       "published_display": "22.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Stundenplan wird zum Politikum: «Irgendwas stimmt da nicht»: Ex-Abiturient verklagt das Land",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/22/irgendwas-stimmt-da-nicht-ex-abiturient-verklagt-das-land-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/22/irgendwas-stimmt-da-nicht-ex-abiturient-verklagt-das-land",
-      "published": "Tue, 22 Sep 2026 03:00:09 -0000",
-      "published_display": "22.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Naturschutz: Warum ein Berliner Polizist Kraniche beobachtet",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/22/warum-ein-berliner-polizist-kraniche-beobachtet-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/22/warum-ein-berliner-polizist-kraniche-beobachtet",
-      "published": "Tue, 22 Sep 2026 03:00:08 -0000",
-      "published_display": "22.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Impfquoten: Nur 10 Prozent der Kinder mit Risiken gegen Grippe geimpft",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/22/nur-10-prozent-der-kinder-mit-risiken-gegen-grippe-geimpft-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/22/nur-10-prozent-der-kinder-mit-risiken-gegen-grippe-geimpft",
-      "published": "Tue, 22 Sep 2026 03:00:04 -0000",
-      "published_display": "22.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "CDU-Krise: Generalinventur und Neustart? CDU sucht Kurs nach Wahlfiasko",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/22/generalinventur-und-neustart-cdu-sucht-kurs-nach-wahlfiasko-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/22/generalinventur-und-neustart-cdu-sucht-kurs-nach-wahlfiasko",
-      "published": "Tue, 22 Sep 2026 02:45:04 -0000",
-      "published_display": "22.09.2026 · 02:45 Uhr"
-    },
-    {
-      "title": "Hendrik Wüst: Hendrik Wüst weist Personaldebatte in der CDU erneut zurück",
-      "summary": "Auch nach den Wahlniederlagen hält Hendrik Wüst an Friedrich Merz fest. Auf die Frage, ob er den Kanzler zum Wahlkampf nach NRW holen wird, gab sich Wüst bedeckt.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/hendrik-wuest-cdu-personaldebatte-wahlniederlagen-bundesregierung-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/hendrik-wuest-cdu-personaldebatte-wahlniederlagen-bundesregierung",
-      "published": "Tue, 22 Sep 2026 02:36:51 -0000",
-      "published_display": "22.09.2026 · 02:36 Uhr"
-    },
-    {
-      "title": "Nach Fund in Schwaben: Geldwäsche-Prozess um versteckte Million in Auto",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/22/geldwaesche-prozess-um-versteckte-million-in-auto-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/22/geldwaesche-prozess-um-versteckte-million-in-auto",
-      "published": "Tue, 22 Sep 2026 02:30:06 -0000",
-      "published_display": "22.09.2026 · 02:30 Uhr"
-    },
-    {
-      "title": "Wahlen: Neue Landtagsfraktionen kommen erstmals zusammen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/22/neue-landtagsfraktionen-kommen-erstmals-zusammen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/22/neue-landtagsfraktionen-kommen-erstmals-zusammen",
-      "published": "Tue, 22 Sep 2026 02:30:05 -0000",
-      "published_display": "22.09.2026 · 02:30 Uhr"
-    },
-    {
-      "title": "Unfallrisiken: Mehr Unfälle bei Weg zu Schule und Arbeit",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/22/mehr-unfaelle-bei-weg-zu-schule-und-arbeit-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/22/mehr-unfaelle-bei-weg-zu-schule-und-arbeit",
-      "published": "Tue, 22 Sep 2026 02:30:04 -0000",
-      "published_display": "22.09.2026 · 02:30 Uhr"
     }
   ]
 }
