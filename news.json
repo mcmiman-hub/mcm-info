@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-22T00:57:34.601727+00:00",
+  "updated": "2026-09-22T01:15:33.709912+00:00",
   "items": [
+    {
+      "title": "Evakuierung: Haus von Familie wegen Rissen evakuiert – Abriss nebenan",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/22/haus-von-familie-wegen-rissen-evakuiert-abriss-nebenan-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/22/haus-von-familie-wegen-rissen-evakuiert-abriss-nebenan",
+      "published": "Tue, 22 Sep 2026 01:01:05 -0000",
+      "published_display": "22.09.2026 · 01:01 Uhr"
+    },
     {
       "title": "Vergesellschaftung von Wohnungen: CSU will Immobilien-Enteignungen schnell verbieten",
       "summary": "Die Linke in Berlin will einen Volksentscheid umsetzen und große Wohnungskonzerne enteignen. Die CSU spricht von einem »sozialistischen Himmelfahrtskommando«.",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/22/oktoberfest-mitarbeiter-nach-fahrgeschaeft-unfall-gestorben",
       "published": "Mon, 21 Sep 2026 22:50:19 -0000",
       "published_display": "21.09.2026 · 22:50 Uhr"
-    },
-    {
-      "title": "Kabinettsumbau: Freie-Wähler-Nachwuchs: Söder hat Angst vor unserem Erfolg",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/22/freie-waehler-nachwuchs-soeder-hat-angst-vor-unserem-erfolg-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/22/freie-waehler-nachwuchs-soeder-hat-angst-vor-unserem-erfolg",
-      "published": "Mon, 21 Sep 2026 22:31:04 -0000",
-      "published_display": "21.09.2026 · 22:31 Uhr"
     }
   ]
 }
