@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-23T21:54:19.531952+00:00",
+  "updated": "2026-09-23T22:17:28.722035+00:00",
   "items": [
+    {
+      "title": "Energiepolitik: Italien verabschiedet Gesetz für Rückkehr zur Atomkraft",
+      "summary": "Knapp 4o Jahre nach dem Ausstieg ebnet der italienische Senat die Rückkehr zur Atomenergie. Der Bau neuer Reaktoren liegt allerdings noch in weiter Ferne.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/atomkraft-italien-gesetz-giorgia-meloni-energiemix-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/atomkraft-italien-gesetz-giorgia-meloni-energiemix",
+      "published": "Wed, 23 Sep 2026 22:10:56 -0000",
+      "published_display": "23.09.2026 · 22:10 Uhr"
+    },
+    {
+      "title": "Parlamentswahl in Israel: Israels Wahlkommission will arabische Parteien ausschließen",
+      "summary": "Vor der Parlamentswahl versucht die Wahlkommission in Israel, Parteien der arabischen Minderheit auszuschließen. Das Oberste Gericht kassierte solche Versuche bisher.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/unionsfraktionschef-spahn-reist-nach-israel-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/israel-wahl-ausschluss-arabische-parteien-raum-vereinte-liste",
+      "published": "Wed, 23 Sep 2026 22:06:21 -0000",
+      "published_display": "23.09.2026 · 22:06 Uhr"
+    },
+    {
+      "title": "Kalenderblatt: Was geschah am 24. September?",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/23/was-geschah-am-24-september-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/23/was-geschah-am-24-september",
+      "published": "Wed, 23 Sep 2026 21:55:04 -0000",
+      "published_display": "23.09.2026 · 21:55 Uhr"
+    },
     {
       "title": "Fußball-Nationalmannschaft: Klopps Adrenalin-Kick gegen Oranje: Kein Titelversprechen",
       "summary": "",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/23/motorradfahrer-stirbt-nach-frontalzusammenstoss",
       "published": "Wed, 23 Sep 2026 20:14:44 -0000",
       "published_display": "23.09.2026 · 20:14 Uhr"
-    },
-    {
-      "title": "Unfall: Zwei Schwerstverletzte nach Crash an Kreuzung",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/23/zwei-schwerstverletzte-nach-crash-an-kreuzung-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/23/zwei-schwerstverletzte-nach-crash-an-kreuzung",
-      "published": "Wed, 23 Sep 2026 20:13:21 -0000",
-      "published_display": "23.09.2026 · 20:13 Uhr"
-    },
-    {
-      "title": "Treibstoffpreise: Österreich will Spritpreis um 12 Cent senken",
-      "summary": "In Österreich sollen Autofahrer durch eine neue Spritpreisbremse erneut entlastet werden. Damit will die Regierung die Bevölkerung wieder »zukunftsfroh« stimmen.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/spritpreise-oesterreich-mineraloelsteuer-marge-inflation-christian-stocker-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/spritpreise-oesterreich-mineraloelsteuer-marge-inflation-christian-stocker",
-      "published": "Wed, 23 Sep 2026 19:53:41 -0000",
-      "published_display": "23.09.2026 · 19:53 Uhr"
-    },
-    {
-      "title": "Handball DHB-Pokal: Frühes Aus für schwachen ThSV Eisenach",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/23/fruehes-aus-fuer-schwachen-thsv-eisenach-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/23/fruehes-aus-fuer-schwachen-thsv-eisenach",
-      "published": "Wed, 23 Sep 2026 19:30:14 -0000",
-      "published_display": "23.09.2026 · 19:30 Uhr"
     }
   ]
 }
