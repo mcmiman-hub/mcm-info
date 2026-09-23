@@ -1,7 +1,87 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-23T11:30:08.254988+00:00",
+  "updated": "2026-09-23T11:44:11.568014+00:00",
   "items": [
+    {
+      "title": "Ausstellung: Fast 500.000 Besucher - Gasometer verlängert «Mythos Wald»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/23/fast-500-000-besucher-gasometer-verlaengert-mythos-wald-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/23/fast-500-000-besucher-gasometer-verlaengert-mythos-wald",
+      "published": "Wed, 23 Sep 2026 11:42:27 -0000",
+      "published_display": "23.09.2026 · 11:42 Uhr"
+    },
+    {
+      "title": "Nach Wahldebakel: Berliner SPD-Fraktion wählt nächste Woche neuen Vorstand",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/23/berliner-spd-fraktion-waehlt-naechste-woche-neuen-vorstand-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/23/berliner-spd-fraktion-waehlt-naechste-woche-neuen-vorstand",
+      "published": "Wed, 23 Sep 2026 11:39:44 -0000",
+      "published_display": "23.09.2026 · 11:39 Uhr"
+    },
+    {
+      "title": "Weniger illegale Migration: Weniger unerlaubte Einreisen an polnischer Grenze",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/23/weniger-unerlaubte-einreisen-an-polnischer-grenze-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/23/weniger-unerlaubte-einreisen-an-polnischer-grenze",
+      "published": "Wed, 23 Sep 2026 11:39:25 -0000",
+      "published_display": "23.09.2026 · 11:39 Uhr"
+    },
+    {
+      "title": "«Ist nicht das Bill-Fest»: Darum war Bill Kaulitz nicht beim «HeidiFest» dabei",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/23/darum-war-bill-kaulitz-nicht-beim-heidifest-dabei-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/23/darum-war-bill-kaulitz-nicht-beim-heidifest-dabei",
+      "published": "Wed, 23 Sep 2026 11:39:12 -0000",
+      "published_display": "23.09.2026 · 11:39 Uhr"
+    },
+    {
+      "title": "Neu im Kino: Neue Emil-Verfilmung: Clevere Kinder jagen Dieb durch Berlin",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/23/neue-emil-verfilmung-clevere-kinder-jagen-dieb-durch-berlin-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/23/neue-emil-verfilmung-clevere-kinder-jagen-dieb-durch-berlin",
+      "published": "Wed, 23 Sep 2026 11:36:20 -0000",
+      "published_display": "23.09.2026 · 11:36 Uhr"
+    },
+    {
+      "title": "Wurstburger mit Apfel-Fenchel-Slaw: Hier geht's um die Wurst",
+      "summary": "Bratwurst im Brötchen? Kennt man. Aber mit knackigem Apfel-Fenchel-Slaw? Probieren Sie’s aus – schmeckt besser als auf jedem Schützenfest!",
+      "image": "https://img.zeit.de/zeit-magazin/wochenmarkt/2025-03/wurstburger-apfel-senf-salat-rezept-wochenmarkt-bild/original__640x360",
+      "link": "https://www.zeit.de/zeit-magazin/wochenmarkt/2025-03/wurstburger-apfel-senf-salat-rezept-wochenmarkt",
+      "published": "Wed, 23 Sep 2026 11:35:30 -0000",
+      "published_display": "23.09.2026 · 11:35 Uhr"
+    },
+    {
+      "title": "Forschungszentrum Cispa: Prüfer: IT-Zentrum hat Daten nicht ausreichend geschützt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/23/pruefer-it-zentrum-hat-daten-nicht-ausreichend-geschuetzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/23/pruefer-it-zentrum-hat-daten-nicht-ausreichend-geschuetzt",
+      "published": "Wed, 23 Sep 2026 11:34:33 -0000",
+      "published_display": "23.09.2026 · 11:34 Uhr"
+    },
+    {
+      "title": "Fotografie: Bilder des Tages",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/23/bilder-des-tages-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/23/bilder-des-tages",
+      "published": "Wed, 23 Sep 2026 11:34:16 -0000",
+      "published_display": "23.09.2026 · 11:34 Uhr"
+    },
+    {
+      "title": "Spritpreise: Kritik an Spritpreisregel – Bleibt die 12-Uhr-Grenze?",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/23/adac-fordert-abschaffung-der-12-uhr-regel-an-tankstellen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/23/adac-fordert-abschaffung-der-12-uhr-regel-an-tankstellen",
+      "published": "Wed, 23 Sep 2026 11:31:56 -0000",
+      "published_display": "23.09.2026 · 11:31 Uhr"
+    },
+    {
+      "title": "Kassenbon: Digitaler Kassenbon soll von 2028 an Papierbeleg beim Einkauf ersetzen",
+      "summary": "Papierbelege werden von 2028 an grundsätzlich durch digitale Belege ersetzt. Finanzminister Lars Klingbeil will damit Bürokratie für Verbraucher und Unternehmen abbauen.",
+      "image": "https://img.zeit.de/wirtschaft/2026-09/digitaler-kassenbon-papier-bon-pflicht-bundesfinanzministerium-lars-klingbeil-foto-1/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/2026-09/digitaler-kassenbon-papier-bon-pflicht-bundesfinanzministerium-lars-klingbeil",
+      "published": "Wed, 23 Sep 2026 11:30:01 -0000",
+      "published_display": "23.09.2026 · 11:30 Uhr"
+    },
     {
       "title": "Fernverkehr in Deutschland: Flixtrain: Stundentakt zwischen Berlin und Hamburg ab 2027",
       "summary": "",
@@ -41,86 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/23/lausitz-setzt-zeichen-fuer-das-einstein-teleskop",
       "published": "Wed, 23 Sep 2026 11:20:37 -0000",
       "published_display": "23.09.2026 · 11:20 Uhr"
-    },
-    {
-      "title": "Spangdahlem: So untersucht die US-Air Force ihre Unfälle",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/23/so-untersucht-die-us-air-force-ihre-unfaelle-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/23/so-untersucht-die-us-air-force-ihre-unfaelle",
-      "published": "Wed, 23 Sep 2026 11:20:35 -0000",
-      "published_display": "23.09.2026 · 11:20 Uhr"
-    },
-    {
-      "title": "Ostdeutsches Energieforum: Von Bulgarien lernen? Forum nimmt Stromspeicher in den Blick",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/23/von-bulgarien-lernen-forum-nimmt-stromspeicher-in-den-blick-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/23/von-bulgarien-lernen-forum-nimmt-stromspeicher-in-den-blick",
-      "published": "Wed, 23 Sep 2026 11:16:58 -0000",
-      "published_display": "23.09.2026 · 11:16 Uhr"
-    },
-    {
-      "title": "Prozesse: Ex-VfBler Hildebrand sorgt sich um Freund nach Iran-Urteil",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/23/ex-vfbler-hildebrand-sorgt-sich-um-freund-nach-iran-urteil-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/23/ex-vfbler-hildebrand-sorgt-sich-um-freund-nach-iran-urteil",
-      "published": "Wed, 23 Sep 2026 11:16:09 -0000",
-      "published_display": "23.09.2026 · 11:16 Uhr"
-    },
-    {
-      "title": "Nach der Wahl in Berlin: CDU-Innenexperte nennt Berliner Linke «Sicherheitsrisiko»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/23/cdu-innenexperte-nennt-berliner-linke-sicherheitsrisiko-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/23/cdu-innenexperte-nennt-berliner-linke-sicherheitsrisiko",
-      "published": "Wed, 23 Sep 2026 11:15:44 -0000",
-      "published_display": "23.09.2026 · 11:15 Uhr"
-    },
-    {
-      "title": "Feuerwehr-Einsatz: Sägewerk in Weißwasser in Vollbrand",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/23/saegewerk-in-weisswasser-in-vollbrand-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/23/saegewerk-in-weisswasser-in-vollbrand",
-      "published": "Wed, 23 Sep 2026 11:14:29 -0000",
-      "published_display": "23.09.2026 · 11:14 Uhr"
-    },
-    {
-      "title": "Rezeptfreie Medikamente: Rechtsstreit um Online-Apotheke von dm - Fakten zum Mitreden",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/23/rechtsstreit-um-online-apotheke-von-dm-fakten-zum-mitreden-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/23/rechtsstreit-um-online-apotheke-von-dm-fakten-zum-mitreden",
-      "published": "Wed, 23 Sep 2026 11:14:26 -0000",
-      "published_display": "23.09.2026 · 11:14 Uhr"
-    },
-    {
-      "title": "Technologiekonzern: Bosch steigert Umsatz leicht - Kerngeschäft drückt Ergebnis",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/23/bosch-waechst-leicht-kerngeschaeft-belastet-ergebnis-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/23/bosch-waechst-leicht-kerngeschaeft-belastet-ergebnis",
-      "published": "Wed, 23 Sep 2026 11:05:51 -0000",
-      "published_display": "23.09.2026 · 11:05 Uhr"
-    },
-    {
-      "title": "Klimawandel: Stein und Staub: Großer Felssturz an der Zugspitze",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/23/grosser-felssturz-an-der-zugspitze-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/23/grosser-felssturz-an-der-zugspitze",
-      "published": "Wed, 23 Sep 2026 11:05:22 -0000",
-      "published_display": "23.09.2026 · 11:05 Uhr"
-    },
-    {
-      "title": "Betrug am Telefon: Betrüger erbeuten Schmuck im Wert von mehreren 10.000 Euro",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/23/betrueger-erbeuten-schmuck-im-wert-von-mehreren-10-000-euro-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/23/betrueger-erbeuten-schmuck-im-wert-von-mehreren-10-000-euro",
-      "published": "Wed, 23 Sep 2026 11:05:16 -0000",
-      "published_display": "23.09.2026 · 11:05 Uhr"
-    },
-    {
-      "title": "Christian Sewing: Wie trifft man radikale Entscheidungen, Christian Sewing?",
-      "summary": "Er kam als Lehrling und führt heute die Deutsche Bank. Im Gespräch mit Rainer Esser erzählt der CEO von einsamen Momenten an der Spitze und dem Abstand zur eigenen Rolle.",
-      "image": "https://img.zeit.de/wirtschaft/2026-09/christian-sewing-deutsche-bank-ceo-verantwortung-aufmacher/original__640x360",
-      "link": "https://www.zeit.de/wirtschaft/2026-09/christian-sewing-deutsche-bank-ceo-verantwortung",
-      "published": "Wed, 23 Sep 2026 11:03:01 -0000",
-      "published_display": "23.09.2026 · 11:03 Uhr"
     }
   ]
 }
