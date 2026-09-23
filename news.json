@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-23T21:17:19.538307+00:00",
+  "updated": "2026-09-23T21:29:04.718010+00:00",
   "items": [
+    {
+      "title": "Pressefreiheit: Medien und Verbände stellen sich an Seite von CNN und Co",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/23/medien-und-verbaende-stellen-sich-an-seite-von-cnn-und-co-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/23/medien-und-verbaende-stellen-sich-an-seite-von-cnn-und-co",
+      "published": "Wed, 23 Sep 2026 21:25:01 -0000",
+      "published_display": "23.09.2026 · 21:25 Uhr"
+    },
+    {
+      "title": "Streamingdienst: Erfolgs-Podcast «Gemischtes Hack» feiert Milliarden-Marke",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/23/erfolgs-podcast-gemischtes-hack-feiert-milliarden-marke-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/23/erfolgs-podcast-gemischtes-hack-feiert-milliarden-marke",
+      "published": "Wed, 23 Sep 2026 21:19:12 -0000",
+      "published_display": "23.09.2026 · 21:19 Uhr"
+    },
     {
       "title": "Waldbrände: Rekordhitze und El Niño verschärfen Feuerkrise in Manaus",
       "summary": "",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/23/ueberholmanoever-geht-schief-lebensgefaehrlich-verletzter",
       "published": "Wed, 23 Sep 2026 18:55:24 -0000",
       "published_display": "23.09.2026 · 18:55 Uhr"
-    },
-    {
-      "title": "Europa Cup der Frauen: Europa-Cup-Quali fast sicher: Wolfsburg schlägt Graz klar",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/23/europa-cup-quali-fast-sicher-wolfsburg-schlaegt-graz-klar-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/23/europa-cup-quali-fast-sicher-wolfsburg-schlaegt-graz-klar",
-      "published": "Wed, 23 Sep 2026 18:52:54 -0000",
-      "published_display": "23.09.2026 · 18:52 Uhr"
-    },
-    {
-      "title": "Krieg gegen die Ukraine: Wolodymyr Selenskyj bezeichnet russische Kriegführung als »Wahnsinn«",
-      "summary": "Der ukrainische Präsident hebt in der UN-Generaldebatte Russlands Verluste hervor. Der Krieg werde nur weitergeführt, weil Wladimir Putin das wolle.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/wolodymyr-selenskyj-un-generaldebatte-russland-krieg-wladimir-putin-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/wolodymyr-selenskyj-un-generaldebatte-russland-krieg-wladimir-putin",
-      "published": "Wed, 23 Sep 2026 18:52:52 -0000",
-      "published_display": "23.09.2026 · 18:52 Uhr"
     }
   ]
 }
