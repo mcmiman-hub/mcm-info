@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-23T05:43:50.030123+00:00",
+  "updated": "2026-09-23T05:55:08.564641+00:00",
   "items": [
+    {
+      "title": "Krisenvorsorge: Warum Günther jetzt ein Kurbelradio hat",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/23/warum-guenther-jetzt-ein-kurbelradio-hat-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/23/warum-guenther-jetzt-ein-kurbelradio-hat",
+      "published": "Wed, 23 Sep 2026 05:47:56 -0000",
+      "published_display": "23.09.2026 · 05:47 Uhr"
+    },
+    {
+      "title": "Warmes Wochenende: September-Sonne: Temperaturkurve zeigt deutlich nach oben",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/23/september-sonne-temperaturkurve-zeigt-deutlich-nach-oben-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/23/september-sonne-temperaturkurve-zeigt-deutlich-nach-oben",
+      "published": "Wed, 23 Sep 2026 05:43:18 -0000",
+      "published_display": "23.09.2026 · 05:43 Uhr"
+    },
     {
       "title": "Spritpreise in den USA: USA prüfen wegen hoher Spritpreise Exportstopp für Diesel",
       "summary": "Mitten im Wahlkampf steigen die Spritpreise in den USA stark. Die US-Regierung denkt nun über eine Ausfuhrsperre für Diesel nach – mit möglichen Folgen auch für Europa.",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/23/herbstwetter-im-anmarsch-so-entwickelt-sich-die-woche",
       "published": "Wed, 23 Sep 2026 04:54:55 -0000",
       "published_display": "23.09.2026 · 04:54 Uhr"
-    },
-    {
-      "title": "Wettervorhersage: Nach Nebel kommt Sonne - Bis zu 23 Grad",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/23/nach-nebel-kommt-sonne-bis-zu-23-grad-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/23/nach-nebel-kommt-sonne-bis-zu-23-grad",
-      "published": "Wed, 23 Sep 2026 04:48:03 -0000",
-      "published_display": "23.09.2026 · 04:48 Uhr"
-    },
-    {
-      "title": "Neuer Landtag: BSW sieht die AfD in Sachsen-Anhalt noch unentschlossen",
-      "summary": "In Sachsen-Anhalt haben AfD und BSW begonnen, eine Zusammenarbeit auszuloten. Der BSW-Landeschef John Lucas Dittrich sagt, die Partei wisse selbst nicht, was sie wolle.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/bsw-afd-sachsen-anhalt-minderheitsregierung-zusammenarbeit-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/bsw-afd-sachsen-anhalt-minderheitsregierung-zusammenarbeit",
-      "published": "Wed, 23 Sep 2026 04:44:14 -0000",
-      "published_display": "23.09.2026 · 04:44 Uhr"
     }
   ]
 }
