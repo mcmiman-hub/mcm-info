@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-23T03:31:16.927499+00:00",
+  "updated": "2026-09-23T03:44:29.686532+00:00",
   "items": [
+    {
+      "title": "Sturm der höchsten Stärke 5: Hurrikan «Polo» rückt an: Mexiko schließt Häfen und Schulen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/23/hurrikan-polo-haefen-und-schulen-in-mexiko-geschlossen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/23/hurrikan-polo-haefen-und-schulen-in-mexiko-geschlossen",
+      "published": "Wed, 23 Sep 2026 03:33:08 -0000",
+      "published_display": "23.09.2026 · 03:33 Uhr"
+    },
+    {
+      "title": "Wetter: Hier braucht es weiter Sonnenbrille und T-Shirt im Südwesten",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/23/hier-braucht-es-weiter-sonnenbrille-und-t-shirt-im-suedwesten-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/23/hier-braucht-es-weiter-sonnenbrille-und-t-shirt-im-suedwesten",
+      "published": "Wed, 23 Sep 2026 03:30:04 -0000",
+      "published_display": "23.09.2026 · 03:30 Uhr"
+    },
     {
       "title": "Unfälle: Auto prallt auf A1 ungebremst auf Laster - Fahrer stirbt",
       "summary": "",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/23/kamikaze-drohnen-fuer-bundeswehr-lieferung-soll-bald-starten",
       "published": "Wed, 23 Sep 2026 03:00:06 -0000",
       "published_display": "23.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Auszeichnung: Peter Thiel: Umstrittener Unternehmer bekommt Springer-Award",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/23/peter-thiel-umstrittener-unternehmer-bekommt-springer-award-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/23/peter-thiel-umstrittener-unternehmer-bekommt-springer-award",
-      "published": "Wed, 23 Sep 2026 03:00:05 -0000",
-      "published_display": "23.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Zur Saisoneröffnung: Berliner Regisseurin feiert Premiere an New Yorker Met",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/23/berliner-regisseurin-feiert-premiere-an-new-yorker-met-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/23/berliner-regisseurin-feiert-premiere-an-new-yorker-met",
-      "published": "Wed, 23 Sep 2026 02:59:26 -0000",
-      "published_display": "23.09.2026 · 02:59 Uhr"
     }
   ]
 }
