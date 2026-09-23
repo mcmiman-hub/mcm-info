@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-23T01:42:35.311937+00:00",
+  "updated": "2026-09-23T01:54:22.573659+00:00",
   "items": [
+    {
+      "title": "Spritpreise: ADAC fordert Abschaffung der 12-Uhr-Regel an Tankstellen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/23/adac-fordert-abschaffung-der-12-uhr-regel-an-tankstellen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/23/adac-fordert-abschaffung-der-12-uhr-regel-an-tankstellen",
+      "published": "Wed, 23 Sep 2026 01:41:04 -0000",
+      "published_display": "23.09.2026 · 01:41 Uhr"
+    },
     {
       "title": "Naher Osten: Geflüchtete können laut UN nicht dauerhaft in den Libanon zurückkehren",
       "summary": "Nach Kämpfen zwischen Israel und der Hisbollah bleibt die Lage im Libanon instabil. Das UN-Flüchtlingshilfswerk spricht von täglichen Verstößen gegen die Waffenruhe.",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/politik/deutschland/2026-09/koalition-berlin-spd-linke-antisemitismus-vorwuerfe-juden",
       "published": "Tue, 22 Sep 2026 22:45:02 -0000",
       "published_display": "22.09.2026 · 22:45 Uhr"
-    },
-    {
-      "title": "Sturm der höchsten Stärke 5: Hurrikan «Polo» - Häfen und Schulen in Mexiko geschlossen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/23/hurrikan-polo-haefen-und-schulen-in-mexiko-geschlossen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/23/hurrikan-polo-haefen-und-schulen-in-mexiko-geschlossen",
-      "published": "Tue, 22 Sep 2026 22:10:04 -0000",
-      "published_display": "22.09.2026 · 22:10 Uhr"
     }
   ]
 }
