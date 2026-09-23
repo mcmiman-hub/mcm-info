@@ -1,7 +1,87 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-23T16:55:46.296087+00:00",
+  "updated": "2026-09-23T17:17:33.156036+00:00",
   "items": [
+    {
+      "title": "Bundeswehr-Übung in Hamburg: Stell dir vor, es ist Krieg",
+      "summary": "Mitten in Hamburg simuliert die Bundeswehr in diesen Tagen die Lage nach einem russischen Angriff. So befremdlich es wirken mag: Es ist nötig und hilfreich.",
+      "image": "https://img.zeit.de/zeit-magazin/2026/41/bundeswehr-uebung-hamburg-red-storm-charlie-nato-russland-bild/original__640x360",
+      "link": "https://www.zeit.de/2026/41/bundeswehr-uebung-hamburg-red-storm-charlie-nato-russland",
+      "published": "Wed, 23 Sep 2026 17:11:31 -0000",
+      "published_display": "23.09.2026 · 17:11 Uhr"
+    },
+    {
+      "title": "Hendrik Holt: Geflohener Windkraftbetrüger Hendrik Holt in Dubai gefasst",
+      "summary": "Der geflohene Windkraftbetrüger Hendrik Holt ist in Dubai festgenommen worden. Holt war von einem genehmigten Ausgang nicht in die Justizvollzugsanstalt zurückgekehrt.",
+      "image": "https://img.zeit.de/gesellschaft/2026-09/hendrik-holt-dubai-windkraft-betrug-festnahme-foto-1/original__640x360",
+      "link": "https://www.zeit.de/gesellschaft/2026-09/hendrik-holt-dubai-windkraft-betrug-festnahme",
+      "published": "Wed, 23 Sep 2026 17:10:35 -0000",
+      "published_display": "23.09.2026 · 17:10 Uhr"
+    },
+    {
+      "title": "Angela Merkel: Im Bann des Unausgesprochenen",
+      "summary": "Angela Merkel eröffnet eine Kunstausstellung. Zur Tagespolitik sagt sie nichts – und wird doch von allen verstanden.",
+      "image": "https://img.zeit.de/feuilleton/2026-09/angela-merkel-ausstellung-bundestag-oskar-kokoschka-andy-warhol-bild/original__640x360",
+      "link": "https://www.zeit.de/2026/41/angela-merkel-ausstellung-bundestag-oskar-kokoschka-andy-warhol",
+      "published": "Wed, 23 Sep 2026 17:10:19 -0000",
+      "published_display": "23.09.2026 · 17:10 Uhr"
+    },
+    {
+      "title": "Staatsanwaltschaft Hamburg: »Wenn Bürger das mitbekommen, sagen sie: ›Wollt ihr uns veralbern?‹«",
+      "summary": "17.000 Briefe der Staatsanwaltschaft Hamburg wurden zwei Monate lang nicht verschickt. Hier erklärt ein Staatsanwalt, wie es dazu kam – und welche Probleme es noch gibt.",
+      "image": "https://img.zeit.de/hamburg/2026-09/staatsanwaltschaft-hamburg-ueberlastung-justiz-briefe-probleme-bild-1/original__640x360",
+      "link": "https://www.zeit.de/hamburg/2026-09/staatsanwaltschaft-hamburg-ueberlastung-justiz-briefe-probleme",
+      "published": "Wed, 23 Sep 2026 17:07:25 -0000",
+      "published_display": "23.09.2026 · 17:07 Uhr"
+    },
+    {
+      "title": "Sachbuch-Bestenliste: Die Sachbuch-Bestenliste für Oktober 2026",
+      "summary": "Was haben Fitnesswahn und Faschismus miteinander zu tun? Wie könnte ein moderner Konservatismus aussehen? Antworten geben die besten Sachbücher des Monats.",
+      "image": "https://img.zeit.de/2026/41/sachbuch-bestenliste-literatur-empfehlung-julia-ebner-robert-habeck-bild/original__640x360",
+      "link": "https://www.zeit.de/2026/41/sachbuch-bestenliste-literatur-empfehlung-julia-ebner-robert-habeck",
+      "published": "Wed, 23 Sep 2026 17:06:33 -0000",
+      "published_display": "23.09.2026 · 17:06 Uhr"
+    },
+    {
+      "title": "Kaiserberg: A40 zehn Tage gesperrt – Pendler müssen Umwege einplanen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/23/a40-zehn-tage-gesperrt-pendler-muessen-umwege-einplanen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/23/a40-zehn-tage-gesperrt-pendler-muessen-umwege-einplanen",
+      "published": "Wed, 23 Sep 2026 17:04:51 -0000",
+      "published_display": "23.09.2026 · 17:04 Uhr"
+    },
+    {
+      "title": "G20-Gipfel in Miami: Marco Rubio hofft auf Putins Teilnahme beim G20-Gipfel in Miami",
+      "summary": "Im Dezember will Donald Trump den nächsten G20-Gipfel in seinem Golfklub in Florida abhalten. Unter den Gästen könnte auch Wladimir Putin sein – darauf hofft Marco Rubio.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/g20-gipfel-miami-usa-wladimir-putin-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/g20-gipfel-miami-usa-wladimir-putin",
+      "published": "Wed, 23 Sep 2026 17:01:35 -0000",
+      "published_display": "23.09.2026 · 17:01 Uhr"
+    },
+    {
+      "title": "Wahl in Berlin: Alles kein Zufall",
+      "summary": "Noch vor zwei Jahren war die Partei klinisch tot, nun könnte die Linke bald Berlin regieren. Gelungen ist das mit einem Ansatz, der auch Parallelen zur AfD aufweist.",
+      "image": "https://img.zeit.de/2026/41/alles-kein-zufall-bild-1/original__640x360",
+      "link": "https://www.zeit.de/2026/41/wahl-berlin-die-linke-elif-eralp-buergermeisterin",
+      "published": "Wed, 23 Sep 2026 17:01:35 -0000",
+      "published_display": "23.09.2026 · 17:01 Uhr"
+    },
+    {
+      "title": "Unwetter: Hurrikan «Polo» rückt an: Mexiko schließt Häfen und Schulen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/23/hurrikan-polo-haefen-und-schulen-in-mexiko-geschlossen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/23/hurrikan-polo-haefen-und-schulen-in-mexiko-geschlossen",
+      "published": "Wed, 23 Sep 2026 16:59:02 -0000",
+      "published_display": "23.09.2026 · 16:59 Uhr"
+    },
+    {
+      "title": "Russischer Angriffskrieg: Rubio: Mögliche Ausweitung des Ukraine-Kriegs sorgt USA",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/23/rubio-moegliche-ausweitung-des-ukraine-kriegs-sorgt-usa-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/23/rubio-moegliche-ausweitung-des-ukraine-kriegs-sorgt-usa",
+      "published": "Wed, 23 Sep 2026 16:54:01 -0000",
+      "published_display": "23.09.2026 · 16:54 Uhr"
+    },
     {
       "title": "Förderung vom Bund: Sächsische Schwimmbäder bekommen mehr als 8 Millionen Euro",
       "summary": "",
@@ -35,92 +115,12 @@
       "published_display": "23.09.2026 · 16:46 Uhr"
     },
     {
-      "title": "Hendrik Holt: Geflohener Windkraftbetrüger Hendrik Holt in Dubai gefasst",
-      "summary": "Der geflohene Windkraftbetrüger Hendrik Holt ist in Dubai festgenommen worden. Holt war von einem genehmigten Ausgang nicht in die Justizvollzugsanstalt zurückgekehrt.",
-      "image": "https://img.zeit.de/gesellschaft/2026-09/hendrik-holt-dubai-windkraft-betrug-festnahme-foto-1/original__640x360",
-      "link": "https://www.zeit.de/gesellschaft/2026-09/hendrik-holt-dubai-windkraft-betrug-festnahme",
-      "published": "Wed, 23 Sep 2026 16:41:26 -0000",
-      "published_display": "23.09.2026 · 16:41 Uhr"
-    },
-    {
       "title": "Prozesse: Stuttgarter im Iran verurteilt - Özdemir fordert Freilassung",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-09/23/ex-vfbler-hildebrand-sorgt-sich-um-freund-nach-iran-urteil-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-09/23/ex-vfbler-hildebrand-sorgt-sich-um-freund-nach-iran-urteil",
       "published": "Wed, 23 Sep 2026 16:37:12 -0000",
       "published_display": "23.09.2026 · 16:37 Uhr"
-    },
-    {
-      "title": "Kommunikation in der Familie: Was müssen Sie sich von Ihren Eltern anhören?",
-      "summary": "Manche Eltern kommentieren Kleidung und Arbeit ihrer Kinder bis weit ins Erwachsenenalter. Erzählen Sie uns, wie das bei Ihnen ist – und wie Sie damit umgehen.",
-      "image": "https://img.zeit.de/familie/2026-09/uebergriffige-eltern-erwachsene-kinder/original__640x360",
-      "link": "https://www.zeit.de/familie/2026-09/uebergriffige-eltern-erwachsene-kinder-aufruf",
-      "published": "Wed, 23 Sep 2026 16:35:39 -0000",
-      "published_display": "23.09.2026 · 16:35 Uhr"
-    },
-    {
-      "title": "US-Sexualstraftäter: Harvey Weinstein in New York zu 15 Jahren Haft verurteilt",
-      "summary": "Der ehemalige US-Produzent Weinstein verbüßt eine lange Haftstrafe wegen Sexualverbrechen. Das Strafmaß in einem separaten Fall verdoppelt nahezu seine Haftzeit.",
-      "image": "https://img.zeit.de/gesellschaft/2026-09/harvey-weinstein-in-new-york-zu-15-jahren-haft-verurteilt-bild/original__640x360",
-      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-09/harvey-weinstein-in-new-york-zu-15-jahren-haft-verurteilt",
-      "published": "Wed, 23 Sep 2026 16:35:24 -0000",
-      "published_display": "23.09.2026 · 16:35 Uhr"
-    },
-    {
-      "title": "Drohung auf Internetplattform: Polizeieinsatz an Saar-Uni wegen Bedrohungslage",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/23/polizeieinsatz-an-saar-uni-wegen-bedrohungslage-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/23/polizeieinsatz-an-saar-uni-wegen-bedrohungslage",
-      "published": "Wed, 23 Sep 2026 16:32:06 -0000",
-      "published_display": "23.09.2026 · 16:32 Uhr"
-    },
-    {
-      "title": "Europäischer Haftbefehl: Geflohener Windkraftbetrüger Hendrik Holt in Dubai gefasst",
-      "summary": "",
-      "image": "https://img.zeit.de/administratives/sharing/fallback-image-die-zeit/wide__1300x731",
-      "link": "https://www.zeit.de/news/2026-09/23/geflohener-windkraftbetrueger-hendrik-holt-in-dubai-gefasst",
-      "published": "Wed, 23 Sep 2026 16:27:36 -0000",
-      "published_display": "23.09.2026 · 16:27 Uhr"
-    },
-    {
-      "title": "Entschärfung geplant: Weltkriegsbombe in Braunsbedra - Entschärfung am Donnerstag",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/23/weltkriegsbombe-in-braunsbedra-entschaerfung-am-donnerstag-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/23/weltkriegsbombe-in-braunsbedra-entschaerfung-am-donnerstag",
-      "published": "Wed, 23 Sep 2026 16:27:03 -0000",
-      "published_display": "23.09.2026 · 16:27 Uhr"
-    },
-    {
-      "title": "Sachsen-Anhalt: Regierung ohne AfD? SPD will Optionen in Magdeburg ausloten",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/23/spd-laedt-vier-parteien-zu-gespraechen-in-sachsen-anhalt-ein-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/23/spd-laedt-vier-parteien-zu-gespraechen-in-sachsen-anhalt-ein",
-      "published": "Wed, 23 Sep 2026 16:20:03 -0000",
-      "published_display": "23.09.2026 · 16:20 Uhr"
-    },
-    {
-      "title": "Aktuelle Stunde: Gysi warnt vor Instrumentalisierung von Antisemitismus",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/23/gysi-warnt-vor-instrumentalisierung-von-antisemitismus-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/23/gysi-warnt-vor-instrumentalisierung-von-antisemitismus",
-      "published": "Wed, 23 Sep 2026 16:18:25 -0000",
-      "published_display": "23.09.2026 · 16:18 Uhr"
-    },
-    {
-      "title": "Diplomatie: Iran wehrt sich vor UN gegen Trump-Drohungen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/23/sie-reden-wieder-usa-und-iran-verhandeln-bei-un-in-new-york-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/23/sie-reden-wieder-usa-und-iran-verhandeln-bei-un-in-new-york",
-      "published": "Wed, 23 Sep 2026 16:12:23 -0000",
-      "published_display": "23.09.2026 · 16:12 Uhr"
-    },
-    {
-      "title": "Dolomiten: Deutscher Urlauber stirbt bei Sturz in Südtirol",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/23/deutscher-urlauber-stirbt-bei-sturz-in-suedtirol-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/23/deutscher-urlauber-stirbt-bei-sturz-in-suedtirol",
-      "published": "Wed, 23 Sep 2026 16:11:18 -0000",
-      "published_display": "23.09.2026 · 16:11 Uhr"
     }
   ]
 }
