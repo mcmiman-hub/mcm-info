@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-23T21:29:04.718010+00:00",
+  "updated": "2026-09-23T21:42:54.938110+00:00",
   "items": [
+    {
+      "title": "KI-Risiken: Leiter von KI-Unternehmen warnen UN-Sicherheitsrat vor Gefahren von KI",
+      "summary": "Erstmals warnen die Chefs der führenden KI‑Konzerne vor den Risiken ihres Produkts vor dem UN‑Sicherheitsrat. Laut Anthropic-Chef gefährdet KI die gesamte Menschheit.",
+      "image": "https://img.zeit.de/digital/2026-09/kuenstliche-intelligenz-risiken-sam-altman-openai-un-sicherheitsrat-foto-1/original__640x360",
+      "link": "https://www.zeit.de/digital/2026-09/kuenstliche-intelligenz-risiken-sam-altman-openai-un-sicherheitsrat",
+      "published": "Wed, 23 Sep 2026 21:41:03 -0000",
+      "published_display": "23.09.2026 · 21:41 Uhr"
+    },
+    {
+      "title": "Fernsehen: «The Masked Singer»: Stefan Mross und Prince Damien enthüllt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/23/the-masked-singer-stefan-mross-und-prince-damien-enthuellt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/23/the-masked-singer-stefan-mross-und-prince-damien-enthuellt",
+      "published": "Wed, 23 Sep 2026 21:29:40 -0000",
+      "published_display": "23.09.2026 · 21:29 Uhr"
+    },
     {
       "title": "Pressefreiheit: Medien und Verbände stellen sich an Seite von CNN und Co",
       "summary": "",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/sport/2026-09/dfb-trikot-adidas-ausruester-schwarz-juergen-klopp",
       "published": "Wed, 23 Sep 2026 19:01:44 -0000",
       "published_display": "23.09.2026 · 19:01 Uhr"
-    },
-    {
-      "title": "Berlin-Wahl und ihre Folgen: Reiche: Linke-Regierung in Berlin gefährlich für Standort",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/23/reiche-linke-regierung-in-berlin-gefaehrlich-fuer-standort-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/23/reiche-linke-regierung-in-berlin-gefaehrlich-fuer-standort",
-      "published": "Wed, 23 Sep 2026 19:00:31 -0000",
-      "published_display": "23.09.2026 · 19:00 Uhr"
-    },
-    {
-      "title": "Unfall: Überholmanöver geht schief - lebensgefährlich Verletzter",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/23/ueberholmanoever-geht-schief-lebensgefaehrlich-verletzter-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/23/ueberholmanoever-geht-schief-lebensgefaehrlich-verletzter",
-      "published": "Wed, 23 Sep 2026 18:55:24 -0000",
-      "published_display": "23.09.2026 · 18:55 Uhr"
     }
   ]
 }
