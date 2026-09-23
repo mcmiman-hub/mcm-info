@@ -1,7 +1,71 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-23T14:32:48.612228+00:00",
+  "updated": "2026-09-23T14:46:17.858434+00:00",
   "items": [
+    {
+      "title": "Deutscher Städtetag: Städtetag fordert 30 Milliarden Euro Soforthilfe für Kommunen",
+      "summary": "Der Deutsche Städtetag rechnet mit einem 30 Milliarden Defizit für Kommunen in diesem Jahr. Der Verband fordert eine Soforthilfe. In Kommunen werde Politik sichtbar.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/deutscher-staedtetag-kommunale-finanzierung-bund-laender-kommunen-defizit-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/deutscher-staedtetag-kommunale-finanzierung-bund-laender-kommunen-defizit",
+      "published": "Wed, 23 Sep 2026 14:44:40 -0000",
+      "published_display": "23.09.2026 · 14:44 Uhr"
+    },
+    {
+      "title": "Retrospektive in Düsseldorf: Provokateur und Kunst-Botschafter: Große Immendorff-Schau",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/23/provokateur-und-kunst-botschafter-grosse-immendorff-schau-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/23/provokateur-und-kunst-botschafter-grosse-immendorff-schau",
+      "published": "Wed, 23 Sep 2026 14:41:45 -0000",
+      "published_display": "23.09.2026 · 14:41 Uhr"
+    },
+    {
+      "title": "Gewalt im Wohngebiet: Nachbarschaftsstreit eskaliert - Mann schwer verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/23/nachbarschaftsstreit-eskaliert-mann-schwer-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/23/nachbarschaftsstreit-eskaliert-mann-schwer-verletzt",
+      "published": "Wed, 23 Sep 2026 14:41:10 -0000",
+      "published_display": "23.09.2026 · 14:41 Uhr"
+    },
+    {
+      "title": "Sinkende Nachfrage nach Bier: Warsteiner streicht etwa jede sechste Stelle",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/23/warsteiner-streicht-etwa-jede-sechste-stelle-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/23/warsteiner-streicht-etwa-jede-sechste-stelle",
+      "published": "Wed, 23 Sep 2026 14:41:00 -0000",
+      "published_display": "23.09.2026 · 14:41 Uhr"
+    },
+    {
+      "title": "Sorge um Zukunftszusagen: Kreise: VW und Arbeitnehmer treffen sich am 30. September",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/23/kreise-vw-und-arbeitnehmer-treffen-sich-am-30-september-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/23/kreise-vw-und-arbeitnehmer-treffen-sich-am-30-september",
+      "published": "Wed, 23 Sep 2026 14:40:09 -0000",
+      "published_display": "23.09.2026 · 14:40 Uhr"
+    },
+    {
+      "title": "Prozess beim Arbeitsgericht: Urteil: VW muss gekündigtem Manager rund 200.000 Euro zahlen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/23/urteil-vw-muss-gekuendigtem-manager-rund-200-000-euro-zahlen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/23/urteil-vw-muss-gekuendigtem-manager-rund-200-000-euro-zahlen",
+      "published": "Wed, 23 Sep 2026 14:39:28 -0000",
+      "published_display": "23.09.2026 · 14:39 Uhr"
+    },
+    {
+      "title": "Drohender Hunger: Bericht sieht Risiko einer Hungersnot in Teilen Somalias",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/23/bericht-sieht-risiko-einer-hungersnot-in-teilen-somalias-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/23/bericht-sieht-risiko-einer-hungersnot-in-teilen-somalias",
+      "published": "Wed, 23 Sep 2026 14:37:52 -0000",
+      "published_display": "23.09.2026 · 14:37 Uhr"
+    },
+    {
+      "title": "Auf der Flucht: 14-Jähriger fährt Polizist mit frisiertem E-Scooter um",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/23/14-jaehriger-faehrt-polizist-mit-frisiertem-e-scooter-um-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/23/14-jaehriger-faehrt-polizist-mit-frisiertem-e-scooter-um",
+      "published": "Wed, 23 Sep 2026 14:32:51 -0000",
+      "published_display": "23.09.2026 · 14:32 Uhr"
+    },
     {
       "title": "Nach Votum der Kommission: Ohne Berlin: Wo Olympia-Favorit München Schwächen hat",
       "summary": "",
@@ -57,70 +121,6 @@
       "link": "https://www.zeit.de/sport/2026-09/olympia-bewerbung-berlin-rueckzug-dosb-kaweh-niroomand-kai-wegner",
       "published": "Wed, 23 Sep 2026 14:20:54 -0000",
       "published_display": "23.09.2026 · 14:20 Uhr"
-    },
-    {
-      "title": "Sinkende Nachfrage nach Bier: Warsteiner streicht etwa jede sechste Stelle",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/23/warsteiner-streicht-etwa-jede-sechste-stelle-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/23/warsteiner-streicht-etwa-jede-sechste-stelle",
-      "published": "Wed, 23 Sep 2026 14:20:51 -0000",
-      "published_display": "23.09.2026 · 14:20 Uhr"
-    },
-    {
-      "title": "Nachwuchs im Aquarium: Hai-Paar in Karlsruhe bekommt Vierlinge",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/23/hai-paar-in-karlsruhe-bekommt-vierlinge-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/23/hai-paar-in-karlsruhe-bekommt-vierlinge",
-      "published": "Wed, 23 Sep 2026 14:19:24 -0000",
-      "published_display": "23.09.2026 · 14:19 Uhr"
-    },
-    {
-      "title": "TAFF-Roadmap: Bundesregierung legt Fahrplan zum Ausstieg aus fossilen Energien fest",
-      "summary": "Wie Deutschland bis 2045 klimaneutral werden soll, dafür gibt es jetzt einen Plan: TAFF-Roadmap heißt er – und beinhaltet bekannte Maßnahmen. Der WWF ist nicht überzeugt.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/taff-roadmap-ausstieg-fossile-energien-bundesregierung-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/taff-roadmap-ausstieg-fossile-energien-bundesregierung-gxe",
-      "published": "Wed, 23 Sep 2026 14:16:04 -0000",
-      "published_display": "23.09.2026 · 14:16 Uhr"
-    },
-    {
-      "title": "Urteil in München: Sieben Jahre Haft für notorischen Holocaust-Leugner",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/23/sieben-jahre-haft-fuer-notorischen-holocaust-leugner-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/23/sieben-jahre-haft-fuer-notorischen-holocaust-leugner",
-      "published": "Wed, 23 Sep 2026 14:13:58 -0000",
-      "published_display": "23.09.2026 · 14:13 Uhr"
-    },
-    {
-      "title": "Äthiopien: Rebellen nehmen Flughafen in äthiopischer Region Tigray ein",
-      "summary": "Nach monatelangen Spannungen eskaliert die Lage in der nordäthiopischen Region Tigray. Bewaffnete Kämpfer schlossen ein Bündnis und eroberten den Regionalflughafen.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/tigray-konflikt-tplf-mekelle-aethiopien-abiy-ahmed-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/tigray-konflikt-tplf-mekelle-aethiopien-abiy-ahmed",
-      "published": "Wed, 23 Sep 2026 14:13:39 -0000",
-      "published_display": "23.09.2026 · 14:13 Uhr"
-    },
-    {
-      "title": "Norwegens Königshaus: Schwester von König Harald: Prinzessin Astrid beigesetzt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/23/schwester-von-koenig-harald-prinzessin-astrid-beigesetzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/23/schwester-von-koenig-harald-prinzessin-astrid-beigesetzt",
-      "published": "Wed, 23 Sep 2026 14:13:25 -0000",
-      "published_display": "23.09.2026 · 14:13 Uhr"
-    },
-    {
-      "title": "Fußball-Bundesliga: «Der Trainer brennt»: Blessin legt in Gladbach los",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/23/gladbach-coach-blessin-hofft-auf-derby-als-initialzuendung-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/23/gladbach-coach-blessin-hofft-auf-derby-als-initialzuendung",
-      "published": "Wed, 23 Sep 2026 14:12:48 -0000",
-      "published_display": "23.09.2026 · 14:12 Uhr"
-    },
-    {
-      "title": "Songcontest: Niederlande machen doch wieder mit beim ESC",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/23/niederlande-machen-doch-wieder-mit-beim-esc-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/23/niederlande-machen-doch-wieder-mit-beim-esc",
-      "published": "Wed, 23 Sep 2026 14:12:22 -0000",
-      "published_display": "23.09.2026 · 14:12 Uhr"
     }
   ]
 }
