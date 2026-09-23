@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-23T03:44:29.686532+00:00",
+  "updated": "2026-09-23T03:55:55.555676+00:00",
   "items": [
+    {
+      "title": "Flugsicherheit: Eurowings-Flieger muss wegen Kabinenrauch in Düsseldorf zwischenlanden",
+      "summary": "Die Maschine mit 144 Passagieren war auf dem Weg ins italienische Brindisi. Kurz nach dem Start aber entwickelte sich Rauch – der Pilot kehrte um. Die Untersuchung läuft.",
+      "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-09/eurowings-flug-duesseldorf-brindisi-rauch-umkehr-landung-foto-1/original__640x360",
+      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-09/eurowings-flug-duesseldorf-brindisi-rauch-umkehr-landung",
+      "published": "Wed, 23 Sep 2026 03:53:53 -0000",
+      "published_display": "23.09.2026 · 03:53 Uhr"
+    },
+    {
+      "title": "Bus und Bahn: Ohne Tarif-Wirrwarr: Eezy-Tarif im ÖPNV auch für Jugendliche",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/23/ohne-tarif-wirrwarr-eezy-tarif-im-oepnv-auch-fuer-jugendliche-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/23/ohne-tarif-wirrwarr-eezy-tarif-im-oepnv-auch-fuer-jugendliche",
+      "published": "Wed, 23 Sep 2026 03:45:05 -0000",
+      "published_display": "23.09.2026 · 03:45 Uhr"
+    },
     {
       "title": "Sturm der höchsten Stärke 5: Hurrikan «Polo» rückt an: Mexiko schließt Häfen und Schulen",
       "summary": "",
@@ -104,22 +120,6 @@
       "image": "https://img.zeit.de/news/2026-09/23/rechtsstreit-um-online-apotheke-von-dm-fakten-zum-mitreden-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-09/23/rechtsstreit-um-online-apotheke-von-dm-fakten-zum-mitreden",
       "published": "Wed, 23 Sep 2026 03:00:10 -0000",
-      "published_display": "23.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Synode in Travemünde: Nordkirche entscheidet über ihre neue Führungsstruktur",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/23/nordkirche-entscheidet-ueber-ihre-neue-fuehrungsstruktur-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/23/nordkirche-entscheidet-ueber-ihre-neue-fuehrungsstruktur",
-      "published": "Wed, 23 Sep 2026 03:00:07 -0000",
-      "published_display": "23.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Rüstungsfirma Stark Defence: Kamikaze-Drohnen für Bundeswehr: Lieferung soll bald starten",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/23/kamikaze-drohnen-fuer-bundeswehr-lieferung-soll-bald-starten-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/23/kamikaze-drohnen-fuer-bundeswehr-lieferung-soll-bald-starten",
-      "published": "Wed, 23 Sep 2026 03:00:06 -0000",
       "published_display": "23.09.2026 · 03:00 Uhr"
     }
   ]
