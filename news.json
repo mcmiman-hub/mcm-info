@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-23T22:42:38.829738+00:00",
+  "updated": "2026-09-23T22:54:05.433169+00:00",
   "items": [
+    {
+      "title": "USA und China: Donald Trump empfängt Xi Jinping zu Staatsbesuch",
+      "summary": "Der US-Präsident hat den chinesischen Staatschef auf dem Rollfeld eines Militärstützpunkts empfangen. Es ist der erste Besuch von Xi in den USA seit über einem Jahrzehnt.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/xi-jinping-washington-dc-staatsbesuch-donald-trump-china-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/xi-jinping-washington-dc-staatsbesuch-donald-trump-china",
+      "published": "Wed, 23 Sep 2026 22:47:45 -0000",
+      "published_display": "23.09.2026 · 22:47 Uhr"
+    },
     {
       "title": "Vereinte Nationen: Wadephul wirft Moskau gefährliche Eskalation in Europa vor",
       "summary": "",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/23/rekordhitze-und-el-ni-o-verschaerfen-feuerkrise-in-manaus",
       "published": "Wed, 23 Sep 2026 21:05:12 -0000",
       "published_display": "23.09.2026 · 21:05 Uhr"
-    },
-    {
-      "title": "Krieg gegen die Ukraine: Russlands Außenminister Lawrow lehnt Feuerpause in der Ukraine ab",
-      "summary": "Russland hat Forderungen, seine Angriffe auf die Ukraine zu pausieren, zurückgewiesen. Wladimir Putin zeigt sich offen für Teilnahme am G20-Gipfel in Miami. Das Liveblog",
-      "image": "https://img.zeit.de/politik/2026-09/sergej-lawrow-russland-ukraine-krieg/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "published": "Wed, 23 Sep 2026 20:55:13 -0000",
-      "published_display": "23.09.2026 · 20:55 Uhr"
     }
   ]
 }
