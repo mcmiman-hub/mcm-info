@@ -1,7 +1,71 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-23T08:45:27.367058+00:00",
+  "updated": "2026-09-23T08:56:28.844894+00:00",
   "items": [
+    {
+      "title": "Warnemünde statt Kiel: Faktor Ost? Wie Köln-Rhein-Ruhr den Segel-Standort wählte",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/23/faktor-ost-wie-koeln-rhein-ruhr-den-segel-standort-waehlte-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/23/faktor-ost-wie-koeln-rhein-ruhr-den-segel-standort-waehlte",
+      "published": "Wed, 23 Sep 2026 08:53:07 -0000",
+      "published_display": "23.09.2026 · 08:53 Uhr"
+    },
+    {
+      "title": "Personalie: Thüringens SPD-Chef Maier tritt nicht mehr an",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/23/thueringens-spd-chef-maier-tritt-nicht-mehr-an-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/23/thueringens-spd-chef-maier-tritt-nicht-mehr-an",
+      "published": "Wed, 23 Sep 2026 08:50:30 -0000",
+      "published_display": "23.09.2026 · 08:50 Uhr"
+    },
+    {
+      "title": "John Coltrane: Eine Kraft des Guten",
+      "summary": "Vor 100 Jahren wurde John Coltrane geboren – Saxofonist, Mystiker, Neuerer des Jazz. Was suchte er in seiner Grenzen überschreitenden Musik?",
+      "image": "https://img.zeit.de/2026/40/eine-kraft-des-guten-bild-2/original__640x360",
+      "link": "https://www.zeit.de/2026/40/john-coltrane-jazz-saxofon-frank-kofsky-malcolm-x",
+      "published": "Wed, 23 Sep 2026 08:49:53 -0000",
+      "published_display": "23.09.2026 · 08:49 Uhr"
+    },
+    {
+      "title": "Australische Rockikone: Rose-Tattoo-Frontmann Angry Anderson mit 79 Jahren gestorben",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/23/rose-tattoo-frontmann-angry-anderson-mit-79-jahren-gestorben-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/23/rose-tattoo-frontmann-angry-anderson-mit-79-jahren-gestorben",
+      "published": "Wed, 23 Sep 2026 08:49:37 -0000",
+      "published_display": "23.09.2026 · 08:49 Uhr"
+    },
+    {
+      "title": "Tödlicher Unfall: Motorradfahrer stirbt nach Zusammenstoß mit Taxi in Nürnberg",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/23/motorradfahrer-stirbt-nach-zusammenstoss-mit-taxi-in-nuernberg-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/23/motorradfahrer-stirbt-nach-zusammenstoss-mit-taxi-in-nuernberg",
+      "published": "Wed, 23 Sep 2026 08:49:28 -0000",
+      "published_display": "23.09.2026 · 08:49 Uhr"
+    },
+    {
+      "title": "Vergesellschaftung von Wohnungsunternehmen: Kommt jetzt wirklich die Enteignung in Berlin?",
+      "summary": "Die Linke in der Hauptstadt will nach ihrem Wahlsieg Hunderttausende Wohnungen vergesellschaften. Ein Plan, auf den viele Mieter hoffen – und den die Wirtschaft fürchtet.",
+      "image": "https://img.zeit.de/2026/41/berlin-nervoes-bild-1/original__640x360",
+      "link": "https://www.zeit.de/2026/41/vergesellschaftung-wohnungsunternehmen-berlin-mieten-vonovia",
+      "published": "Wed, 23 Sep 2026 08:49:15 -0000",
+      "published_display": "23.09.2026 · 08:49 Uhr"
+    },
+    {
+      "title": "Ausschluss von CNN: Weißes Haus wirft ausgesperrten Sendern Gefährdung der Sicherheit vor",
+      "summary": "Nach dem Rauswurf von CNN und anderer Sender aus dem Weißen Haus eskaliert der Streit. Die Regierung wirft den Medien vor, vertrauliches Material veröffentlicht zu haben.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/cnn-ausschluss-weisses-haus-medien-zugang-klage-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/cnn-ausschluss-weisses-haus-medien-zugang-klage",
+      "published": "Wed, 23 Sep 2026 08:46:49 -0000",
+      "published_display": "23.09.2026 · 08:46 Uhr"
+    },
+    {
+      "title": "Bundestag: Grünen-Innenpolitikerin fordert Koçak zu Mandatsverzicht auf",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/23/gruenen-innenpolitikerin-fordert-ko-ak-zu-mandatsverzicht-auf-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/23/gruenen-innenpolitikerin-fordert-ko-ak-zu-mandatsverzicht-auf",
+      "published": "Wed, 23 Sep 2026 08:43:19 -0000",
+      "published_display": "23.09.2026 · 08:43 Uhr"
+    },
     {
       "title": "Tauchunfall: Tagelange Suche am Starnberger See – Taucher tot geborgen",
       "summary": "",
@@ -14,7 +78,7 @@
       "title": "Razzia in Berlin: Berliner Polizei geht gegen illegalen Schusswaffenhandel vor",
       "summary": "In ganz Berlin hat die Polizei Razzien im Umfeld der Organisierten Kriminalität durchgeführt. Zwei scharfe Schusswaffen wurden sichergestellt. Es gab mehrere Festnahmen.",
       "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-09/razzia-berlin-illegaler-waffenhandel-schusswaffen-organisierte-kriminalitaet-polizei-foto-1/original__640x360",
-      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-09/razzia-berlin-illegaler-waffenhandel-schusswaffen-organisierte-kriminalitaet-polizei",
+      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-09/razzia-berlin-illegaler-waffenhandel-schusswaffen-organisierte-kriminalitaet-polizei-gxe",
       "published": "Wed, 23 Sep 2026 08:39:22 -0000",
       "published_display": "23.09.2026 · 08:39 Uhr"
     },
@@ -57,70 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/23/senior-stoesst-mit-auto-gegen-stadtbahn",
       "published": "Wed, 23 Sep 2026 08:31:47 -0000",
       "published_display": "23.09.2026 · 08:31 Uhr"
-    },
-    {
-      "title": "Sexualverbrechen: Strafmaß im Weinstein-Verfahren in New York erwartet",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/23/strafmass-im-weinstein-verfahren-in-new-york-erwartet-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/23/strafmass-im-weinstein-verfahren-in-new-york-erwartet",
-      "published": "Wed, 23 Sep 2026 08:30:18 -0000",
-      "published_display": "23.09.2026 · 08:30 Uhr"
-    },
-    {
-      "title": "Technologiekonzern: Bosch wächst leicht - Kerngeschäft belastet Ergebnis",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/23/bosch-waechst-leicht-kerngeschaeft-belastet-ergebnis-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/23/bosch-waechst-leicht-kerngeschaeft-belastet-ergebnis",
-      "published": "Wed, 23 Sep 2026 08:30:07 -0000",
-      "published_display": "23.09.2026 · 08:30 Uhr"
-    },
-    {
-      "title": "Küstenschutz: Eiderdamm Nord verstärkt – Sicherheit für 5.000 Hektar Küste",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/23/eiderdamm-nord-verstaerkt-sicherheit-fuer-5-000-hektar-kueste-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/23/eiderdamm-nord-verstaerkt-sicherheit-fuer-5-000-hektar-kueste",
-      "published": "Wed, 23 Sep 2026 08:30:06 -0000",
-      "published_display": "23.09.2026 · 08:30 Uhr"
-    },
-    {
-      "title": "Fußball-Bundesliga: Gut ist nicht immer gut genug: Bredlow droht wieder die Bank",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/23/gut-ist-nicht-immer-gut-genug-bredlow-droht-wieder-die-bank-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/23/gut-ist-nicht-immer-gut-genug-bredlow-droht-wieder-die-bank",
-      "published": "Wed, 23 Sep 2026 08:29:46 -0000",
-      "published_display": "23.09.2026 · 08:29 Uhr"
-    },
-    {
-      "title": "Personalien: Thüringens SPD-Chef Maier will nicht mehr antreten",
-      "summary": "",
-      "image": "",
-      "link": "https://www.zeit.de/news/2026-09/23/thueringens-spd-chef-maier-will-nicht-mehr-antreten",
-      "published": "Wed, 23 Sep 2026 08:22:40 -0000",
-      "published_display": "23.09.2026 · 08:22 Uhr"
-    },
-    {
-      "title": "Sondereinheit: Razzien wegen Waffen: Polizei durchkämmt Berliner Wohnungen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/23/razzien-gegen-schusswaffengewalt-in-berlin-festnahmen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/23/razzien-gegen-schusswaffengewalt-in-berlin-festnahmen",
-      "published": "Wed, 23 Sep 2026 08:20:21 -0000",
-      "published_display": "23.09.2026 · 08:20 Uhr"
-    },
-    {
-      "title": "Weltweites Interesse: So riesig war das Interesse an den Landtags-Wahlergebnissen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/23/so-riesig-war-das-interesse-an-den-landtags-wahlergebnissen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/23/so-riesig-war-das-interesse-an-den-landtags-wahlergebnissen",
-      "published": "Wed, 23 Sep 2026 08:13:56 -0000",
-      "published_display": "23.09.2026 · 08:13 Uhr"
-    },
-    {
-      "title": "Geheimes Waffenarsenal: Haft für zwei Angeklagte im Remscheider Waffenlager-Prozess",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/23/haft-fuer-zwei-angeklagte-im-remscheider-waffenlager-prozess-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/23/haft-fuer-zwei-angeklagte-im-remscheider-waffenlager-prozess",
-      "published": "Wed, 23 Sep 2026 08:05:47 -0000",
-      "published_display": "23.09.2026 · 08:05 Uhr"
     }
   ]
 }
