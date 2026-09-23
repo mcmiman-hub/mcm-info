@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-23T17:42:49.967822+00:00",
+  "updated": "2026-09-23T17:54:13.315056+00:00",
   "items": [
+    {
+      "title": "Fußball-Nationalmannschaft: Klopps Adrenalin-Kick gegen Oranje: Kein Titelversprechen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/23/spontaner-klopp-spricht-ueber-euphorie-xavi-und-musiala-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/23/spontaner-klopp-spricht-ueber-euphorie-xavi-und-musiala",
+      "published": "Wed, 23 Sep 2026 17:48:08 -0000",
+      "published_display": "23.09.2026 · 17:48 Uhr"
+    },
+    {
+      "title": "Wissenschaft: Erdbeben bei Massing: Magnitude 2,6 kaum spürbar",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/23/erdbeben-bei-massing-magnitude-2-6-kaum-spuerbar-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/23/erdbeben-bei-massing-magnitude-2-6-kaum-spuerbar",
+      "published": "Wed, 23 Sep 2026 17:46:16 -0000",
+      "published_display": "23.09.2026 · 17:46 Uhr"
+    },
+    {
+      "title": "Midterms: USA lassen erstmals keine OSZE-Beobachter bei Kongresswahlen zu",
+      "summary": "Die Organisation für Sicherheit und Zusammenarbeit in Europa darf die Zwischenwahlen in den USA nicht beobachten. Kritik daran kommt auch aus Deutschland.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/osze-wahlbeobachtung-usa-kongresswahlen-einladung-odihr-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/osze-wahlbeobachtung-usa-kongresswahlen-einladung-odihr",
+      "published": "Wed, 23 Sep 2026 17:42:31 -0000",
+      "published_display": "23.09.2026 · 17:42 Uhr"
+    },
     {
       "title": "MeToo-Debatte: Medien: 15 Jahre Haft für Ex-Hollywood-Mogul Weinstein",
       "summary": "",
@@ -17,14 +41,6 @@
       "link": "https://www.zeit.de/gesellschaft/2026-09/hendrik-holt-dubai-windkraft-betrug-festnahme",
       "published": "Wed, 23 Sep 2026 17:23:20 -0000",
       "published_display": "23.09.2026 · 17:23 Uhr"
-    },
-    {
-      "title": "Midterms: USA lassen erstmals keine OSZE-Beobachter bei Kongresswahlen zu",
-      "summary": "Die Organisation für Sicherheit und Zusammenarbeit in Europa darf die Zwischenwahlen in den USA nicht beobachten. Kritik daran kommt auch aus Deutschland.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/osze-wahlbeobachtung-usa-kongresswahlen-einladung-odihr-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/osze-wahlbeobachtung-usa-kongresswahlen-einladung-odihr",
-      "published": "Wed, 23 Sep 2026 17:21:54 -0000",
-      "published_display": "23.09.2026 · 17:21 Uhr"
     },
     {
       "title": "Spangdahlem: Pilot nach F-16-Absturz wieder aus Krankenhaus entlassen",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/23/rubio-moegliche-ausweitung-des-ukraine-kriegs-sorgt-usa",
       "published": "Wed, 23 Sep 2026 16:54:01 -0000",
       "published_display": "23.09.2026 · 16:54 Uhr"
-    },
-    {
-      "title": "Förderung vom Bund: Sächsische Schwimmbäder bekommen mehr als 8 Millionen Euro",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/23/baeder-in-dresden-und-gohrisch-bekommen-3-5-millionen-euro-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/23/baeder-in-dresden-und-gohrisch-bekommen-3-5-millionen-euro",
-      "published": "Wed, 23 Sep 2026 16:52:16 -0000",
-      "published_display": "23.09.2026 · 16:52 Uhr"
-    },
-    {
-      "title": "Verdächtiger Gegenstand: Polizei findet Feuerwerkskörper in Nähe von Strommast",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/23/polizei-findet-feuerwerkskoerper-in-naehe-von-strommast-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/23/polizei-findet-feuerwerkskoerper-in-naehe-von-strommast",
-      "published": "Wed, 23 Sep 2026 16:52:08 -0000",
-      "published_display": "23.09.2026 · 16:52 Uhr"
     }
   ]
 }
