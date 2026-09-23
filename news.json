@@ -1,7 +1,39 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-23T04:56:07.928731+00:00",
+  "updated": "2026-09-23T05:16:28.160738+00:00",
   "items": [
+    {
+      "title": "Wettervorhersage: Nebel, Sonne und Wolken in Nordrhein-Westfalen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/23/nebel-sonne-und-wolken-in-nordrhein-westfalen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/23/nebel-sonne-und-wolken-in-nordrhein-westfalen",
+      "published": "Wed, 23 Sep 2026 05:09:17 -0000",
+      "published_display": "23.09.2026 · 05:09 Uhr"
+    },
+    {
+      "title": "S-Bahn: Störung auf der Ringbahn – Ausfälle und Verspätungen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/23/stoerung-auf-der-ringbahn-ausfaelle-und-verspaetungen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/23/stoerung-auf-der-ringbahn-ausfaelle-und-verspaetungen",
+      "published": "Wed, 23 Sep 2026 05:03:28 -0000",
+      "published_display": "23.09.2026 · 05:03 Uhr"
+    },
+    {
+      "title": "Spritpreise: ADAC fordert Abschaffung der sogenannten 12-Uhr-Regel an Tankstellen",
+      "summary": "Tankstellen dürfen in Deutschland nur einmal am Tag die Preise für Benzin und Diesel erhöhen – um 12 Uhr. Der ADAC kritisiert, wer später tanke, habe das Nachsehen.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/12-uhr-regel-tankstellen-adac-spritpreise-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/12-uhr-regel-tankstellen-adac-spritpreise",
+      "published": "Wed, 23 Sep 2026 05:02:23 -0000",
+      "published_display": "23.09.2026 · 05:02 Uhr"
+    },
+    {
+      "title": "Wetter: Herbstwetter im Anmarsch - So entwickelt sich die Woche",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/23/herbstwetter-im-anmarsch-so-entwickelt-sich-die-woche-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/23/herbstwetter-im-anmarsch-so-entwickelt-sich-die-woche",
+      "published": "Wed, 23 Sep 2026 04:54:55 -0000",
+      "published_display": "23.09.2026 · 04:54 Uhr"
+    },
     {
       "title": "Spritpreise in den USA: USA prüfen wegen hoher Spritpreise Exportstopp für Diesel",
       "summary": "Mitten im Wahlkampf steigen die Spritpreise in den USA stark. Die US-Regierung denkt nun über eine Ausfuhrsperre für Diesel nach – mit möglichen Folgen auch für Europa.",
@@ -20,7 +52,7 @@
     },
     {
       "title": "Neuer Landtag: BSW sieht die AfD in Sachsen-Anhalt noch unentschlossen",
-      "summary": "In Sachsen-Anhalt haben AfD und BSW begonnen, eine Zusammenarbeit auszuloten. Der BSW-Landeschef John Lucas Dittrich sagt, die Partei wisse selbst nicht, was sie will.",
+      "summary": "In Sachsen-Anhalt haben AfD und BSW begonnen, eine Zusammenarbeit auszuloten. Der BSW-Landeschef John Lucas Dittrich sagt, die Partei wisse selbst nicht, was sie wolle.",
       "image": "https://img.zeit.de/politik/deutschland/2026-09/bsw-afd-sachsen-anhalt-minderheitsregierung-zusammenarbeit-foto-1/original__640x360",
       "link": "https://www.zeit.de/politik/deutschland/2026-09/bsw-afd-sachsen-anhalt-minderheitsregierung-zusammenarbeit",
       "published": "Wed, 23 Sep 2026 04:44:14 -0000",
@@ -88,38 +120,6 @@
       "image": "https://img.zeit.de/news/2026-09/23/zwei-toedliche-badeunfaelle-im-saarland-seit-jahresbeginn-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-09/23/zwei-toedliche-badeunfaelle-im-saarland-seit-jahresbeginn",
       "published": "Wed, 23 Sep 2026 04:01:10 -0000",
-      "published_display": "23.09.2026 · 04:01 Uhr"
-    },
-    {
-      "title": "Bilanz der DLRG: 14 Badetote in Rheinland-Pfalz - Zahl leicht gestiegen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/23/14-badetote-in-rheinland-pfalz-zahl-leicht-gestiegen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/23/14-badetote-in-rheinland-pfalz-zahl-leicht-gestiegen",
-      "published": "Wed, 23 Sep 2026 04:01:09 -0000",
-      "published_display": "23.09.2026 · 04:01 Uhr"
-    },
-    {
-      "title": "Badesaison: Weniger Tote in Brandenburgs Gewässern",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/23/weniger-tote-in-brandenburgs-gewaessern-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/23/weniger-tote-in-brandenburgs-gewaessern",
-      "published": "Wed, 23 Sep 2026 04:01:08 -0000",
-      "published_display": "23.09.2026 · 04:01 Uhr"
-    },
-    {
-      "title": "Bilanz der DLRG: 18 Badetote in Hessen - Zahl sinkt leicht",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/23/18-badetote-in-hessen-zahl-sinkt-leicht-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/23/18-badetote-in-hessen-zahl-sinkt-leicht",
-      "published": "Wed, 23 Sep 2026 04:01:08 -0000",
-      "published_display": "23.09.2026 · 04:01 Uhr"
-    },
-    {
-      "title": "Sommerbilanz: 22 Badetote in Mecklenburg-Vorpommern – Zahl sinkt leicht",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/23/22-badetote-in-mecklenburg-vorpommern-zahl-sinkt-leicht-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/23/22-badetote-in-mecklenburg-vorpommern-zahl-sinkt-leicht",
-      "published": "Wed, 23 Sep 2026 04:01:07 -0000",
       "published_display": "23.09.2026 · 04:01 Uhr"
     }
   ]
