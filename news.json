@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-23T19:55:10.059442+00:00",
+  "updated": "2026-09-23T20:18:44.533844+00:00",
   "items": [
+    {
+      "title": "Landkreis Traunstein: Motorradfahrer stirbt nach Frontalzusammenstoß",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/23/motorradfahrer-stirbt-nach-frontalzusammenstoss-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/23/motorradfahrer-stirbt-nach-frontalzusammenstoss",
+      "published": "Wed, 23 Sep 2026 20:14:44 -0000",
+      "published_display": "23.09.2026 · 20:14 Uhr"
+    },
+    {
+      "title": "Unfall: Zwei Schwerstverletzte nach Crash an Kreuzung",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/23/zwei-schwerstverletzte-nach-crash-an-kreuzung-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/23/zwei-schwerstverletzte-nach-crash-an-kreuzung",
+      "published": "Wed, 23 Sep 2026 20:13:21 -0000",
+      "published_display": "23.09.2026 · 20:13 Uhr"
+    },
     {
       "title": "Treibstoffpreise: Österreich will Spritpreis um 12 Cent senken",
       "summary": "In Österreich sollen Autofahrer durch eine neue Spritpreisbremse erneut entlastet werden. Damit will die Regierung die Bevölkerung wieder »zukunftsfroh« stimmen.",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/23/noz-mh-n-will-zeitungsgruppe-ostfriesland-uebernehmen",
       "published": "Wed, 23 Sep 2026 18:38:18 -0000",
       "published_display": "23.09.2026 · 18:38 Uhr"
-    },
-    {
-      "title": "UN-Generaldebatte: Iranischer Präsident nennt sein Land »Opfer des Terrorismus«",
-      "summary": "Irans Staatschef Massud Peseschkian hat vor den UN auf die Kritik von Donald Trump reagiert. Iraner seien keine Terroristen, sondern Opfer des Terrorismus.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/un-generaldebatte-massud-peseschkian-iran-donald-trump-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/un-generaldebatte-massud-peseschkian-iran-donald-trump",
-      "published": "Wed, 23 Sep 2026 18:35:18 -0000",
-      "published_display": "23.09.2026 · 18:35 Uhr"
-    },
-    {
-      "title": "DHB-Pokal: Rekordsieger Kiel erreicht ohne Probleme das Achtelfinale",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/23/rekordsieger-kiel-erreicht-ohne-probleme-das-achtelfinale-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/23/rekordsieger-kiel-erreicht-ohne-probleme-das-achtelfinale",
-      "published": "Wed, 23 Sep 2026 18:30:17 -0000",
-      "published_display": "23.09.2026 · 18:30 Uhr"
     }
   ]
 }
