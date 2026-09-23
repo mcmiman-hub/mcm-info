@@ -1,10 +1,26 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-23T21:42:54.938110+00:00",
+  "updated": "2026-09-23T21:54:19.531952+00:00",
   "items": [
     {
-      "title": "KI-Risiken: Leiter von KI-Unternehmen warnen UN-Sicherheitsrat vor Gefahren von KI",
-      "summary": "Erstmals warnen die Chefs der führenden KI‑Konzerne vor den Risiken ihres Produkts vor dem UN‑Sicherheitsrat. Laut Anthropic-Chef gefährdet KI die gesamte Menschheit.",
+      "title": "Fußball-Nationalmannschaft: Klopps Adrenalin-Kick gegen Oranje: Kein Titelversprechen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/23/spontaner-klopp-spricht-ueber-euphorie-xavi-und-musiala-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/23/spontaner-klopp-spricht-ueber-euphorie-xavi-und-musiala",
+      "published": "Wed, 23 Sep 2026 21:50:13 -0000",
+      "published_display": "23.09.2026 · 21:50 Uhr"
+    },
+    {
+      "title": "Landtag: Mohamed Ali: Kein Deal mit AfD für Landtagspräsidium",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/23/mohamed-ali-kein-deal-mit-afd-fuer-landtagspraesidium-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/23/mohamed-ali-kein-deal-mit-afd-fuer-landtagspraesidium",
+      "published": "Wed, 23 Sep 2026 21:46:27 -0000",
+      "published_display": "23.09.2026 · 21:46 Uhr"
+    },
+    {
+      "title": "Künstliche Intelligenz: Unternehmenschefs warnen UN-Sicherheitsrat vor Gefahren durch KI",
+      "summary": "Chefs führender KI‑Konzerne haben den UN‑Sicherheitsrat vor den Risiken ihres Produkts gewarnt. Laut Anthropic-Chef gefährdet die Technologie die Menschheit.",
       "image": "https://img.zeit.de/digital/2026-09/kuenstliche-intelligenz-risiken-sam-altman-openai-un-sicherheitsrat-foto-1/original__640x360",
       "link": "https://www.zeit.de/digital/2026-09/kuenstliche-intelligenz-risiken-sam-altman-openai-un-sicherheitsrat",
       "published": "Wed, 23 Sep 2026 21:41:03 -0000",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/23/fruehes-aus-fuer-schwachen-thsv-eisenach",
       "published": "Wed, 23 Sep 2026 19:30:14 -0000",
       "published_display": "23.09.2026 · 19:30 Uhr"
-    },
-    {
-      "title": "Gegen Einwegmüll: Verpackungssteuer trotz Ärger in Potsdam ab Oktober fällig",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/23/aerger-um-verpackungssteuer-kommt-die-abgabe-zum-oktober-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/23/aerger-um-verpackungssteuer-kommt-die-abgabe-zum-oktober",
-      "published": "Wed, 23 Sep 2026 19:27:55 -0000",
-      "published_display": "23.09.2026 · 19:27 Uhr"
-    },
-    {
-      "title": "DFB-Trikot von Adidas: Nationalelf trägt bei Klopp-Debüt letztes Adidas-Trikot",
-      "summary": "Gegen die Niederlande wird die Nationalelf noch einmal ein Trikot von Adidas tragen. Es ist das letzte des Ausrüsters, ab 2027 wird das Team von Nike ausgestattet.",
-      "image": "https://img.zeit.de/sport/2026-09/dfb-trikot-adidas-ausruester-schwarz-juergen-klopp-foto-1/original__640x360",
-      "link": "https://www.zeit.de/sport/2026-09/dfb-trikot-adidas-ausruester-schwarz-juergen-klopp",
-      "published": "Wed, 23 Sep 2026 19:01:44 -0000",
-      "published_display": "23.09.2026 · 19:01 Uhr"
     }
   ]
 }
