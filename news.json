@@ -1,7 +1,87 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-23T09:30:49.190630+00:00",
+  "updated": "2026-09-23T09:45:13.686596+00:00",
   "items": [
+    {
+      "title": "Schiffsverkehr: Erneut Schiffsunfall an einer Schleuse",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/23/erneut-schiffsunfall-an-einer-schleuse-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/23/erneut-schiffsunfall-an-einer-schleuse",
+      "published": "Wed, 23 Sep 2026 09:43:13 -0000",
+      "published_display": "23.09.2026 · 09:43 Uhr"
+    },
+    {
+      "title": "Statistik: Säuglingssterblichkeit in Hessen weiter auf niedrigem Niveau",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/23/saeuglingssterblichkeit-in-hessen-weiter-auf-niedrigem-niveau-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/23/saeuglingssterblichkeit-in-hessen-weiter-auf-niedrigem-niveau",
+      "published": "Wed, 23 Sep 2026 09:42:11 -0000",
+      "published_display": "23.09.2026 · 09:42 Uhr"
+    },
+    {
+      "title": "Sozialleistungsmissbrauch: Kabinett beschließt Aktionsplan gegen Sozialbetrug und Ausbeutung",
+      "summary": "Die Bundesregierung will »Schlupflöcher im Sozialstaat« schließen. Wer mit Haftbefehl gesucht werde, dürfe keine Sozialleistungen beziehen, sagt Innenminister Dobrindt.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/sozialleistungsmissbrauch-ausbeutung-migranten-schrottimmobilien-bundesregierung-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/sozialleistungsmissbrauch-ausbeutung-migranten-schrottimmobilien-bundesregierung",
+      "published": "Wed, 23 Sep 2026 09:41:48 -0000",
+      "published_display": "23.09.2026 · 09:41 Uhr"
+    },
+    {
+      "title": "Nach Mordurteil: Letzte Instanz: Heilbronner Raser wird ausgewiesen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/23/letzte-instanz-heilbronner-raser-wird-ausgewiesen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/23/letzte-instanz-heilbronner-raser-wird-ausgewiesen",
+      "published": "Wed, 23 Sep 2026 09:40:57 -0000",
+      "published_display": "23.09.2026 · 09:40 Uhr"
+    },
+    {
+      "title": "Champions League: Rückschlag im Rauch: Bayern-Frauen verspielen 2:0-Vorsprung",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/23/rueckschlag-im-rauch-bayern-frauen-verspielen-2-0-vorsprung-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/23/rueckschlag-im-rauch-bayern-frauen-verspielen-2-0-vorsprung",
+      "published": "Wed, 23 Sep 2026 09:39:22 -0000",
+      "published_display": "23.09.2026 · 09:39 Uhr"
+    },
+    {
+      "title": "Mobilitätskosten: Spritpreise geben nach",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/23/spritpreise-geben-nach-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/23/spritpreise-geben-nach",
+      "published": "Wed, 23 Sep 2026 09:37:24 -0000",
+      "published_display": "23.09.2026 · 09:37 Uhr"
+    },
+    {
+      "title": "Tourismus: Felssturz an der Zugspitze beeinträchtigt Ausflüge nicht",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/23/felssturz-an-der-zugspitze-beeintraechtigt-ausfluege-nicht-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/23/felssturz-an-der-zugspitze-beeintraechtigt-ausfluege-nicht",
+      "published": "Wed, 23 Sep 2026 09:34:43 -0000",
+      "published_display": "23.09.2026 · 09:34 Uhr"
+    },
+    {
+      "title": "KfW-Studie: Mittelstand zögert bei ausländischen Fachkräften",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/23/mittelstand-zoegert-bei-auslaendischen-fachkraeften-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/23/mittelstand-zoegert-bei-auslaendischen-fachkraeften",
+      "published": "Wed, 23 Sep 2026 09:32:33 -0000",
+      "published_display": "23.09.2026 · 09:32 Uhr"
+    },
+    {
+      "title": "Gebäude evakuiert: Quecksilberverdacht: Substanz wird untersucht",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/23/quecksilberverdacht-substanz-wird-untersucht-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/23/quecksilberverdacht-substanz-wird-untersucht",
+      "published": "Wed, 23 Sep 2026 09:31:55 -0000",
+      "published_display": "23.09.2026 · 09:31 Uhr"
+    },
+    {
+      "title": "Kuchen: »Es ist ein feministischer Akt, Kuchen richtig zu genießen«",
+      "summary": "Jessica Reed hat den süßesten Job der Welt: Kuchenhistorikerin. Doch Teig ist politisch. Warum sie das Backen nicht Tradwifes und Influencerinnen überlassen will.",
+      "image": "https://img.zeit.de/campus/2026/04/kuchen-ist-der-ultimative-ausdruck-von-liebe-bild-1/original__640x360",
+      "link": "https://www.zeit.de/campus/2026/04/kuchen-historie-jessica-reed-backen-gesellschaft",
+      "published": "Wed, 23 Sep 2026 09:31:35 -0000",
+      "published_display": "23.09.2026 · 09:31 Uhr"
+    },
     {
       "title": "Stadtzentren in Deutschland: Innenstädte gewinnen erstmals seit der Pandemie an Attraktivität",
       "summary": "Nachdem sich die Stadtzentren über Jahre geleert haben, deutet sich nun eine Trendwende an. Dies legt die Innenstadt-Studie 2026 des deutschen Einzelhandels nahe.",
@@ -41,86 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/23/k-o-tropfen-mit-hoeheren-strafen-moegliche-taeter-abschrecken",
       "published": "Wed, 23 Sep 2026 09:21:14 -0000",
       "published_display": "23.09.2026 · 09:21 Uhr"
-    },
-    {
-      "title": "OECD-Prognose: OECD hebt Konjunkturprognose für deutsche Wirtschaft leicht",
-      "summary": "Die deutsche Wirtschaft könnte sich laut OECD besser entwickeln als zuletzt geschätzt. Diese Prognose unterliege allerdings einer hohen Unsicherheit.",
-      "image": "https://img.zeit.de/wirtschaft/2026-09/oecd-prognose-wirtschaftswachstum-deutschland-europa-nahostkonflikt-foto-1/original__640x360",
-      "link": "https://www.zeit.de/wirtschaft/2026-09/oecd-prognose-wirtschaftswachstum-deutschland-europa-iran",
-      "published": "Wed, 23 Sep 2026 09:19:52 -0000",
-      "published_display": "23.09.2026 · 09:19 Uhr"
-    },
-    {
-      "title": "Gebäude evakuiert: Quecksilberverdacht: Substanz wird untersucht",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/23/quecksilberverdacht-substanz-wird-untersucht-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/23/quecksilberverdacht-substanz-wird-untersucht",
-      "published": "Wed, 23 Sep 2026 09:15:41 -0000",
-      "published_display": "23.09.2026 · 09:15 Uhr"
-    },
-    {
-      "title": "244 Tiere: Mutmaßliche Viehdiebe in Polen und Brandenburg gestellt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/23/ueber-200-rinder-polizei-nimmt-mutmassliche-viehdiebe-fest-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/23/ueber-200-rinder-polizei-nimmt-mutmassliche-viehdiebe-fest",
-      "published": "Wed, 23 Sep 2026 09:14:57 -0000",
-      "published_display": "23.09.2026 · 09:14 Uhr"
-    },
-    {
-      "title": "Sonntagsfrage: Forsa: CDU verliert Wähler in NRW - AfD und Linke legen zu",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/23/forsa-cdu-verliert-waehler-in-nrw-afd-und-linke-legen-zu-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/23/forsa-cdu-verliert-waehler-in-nrw-afd-und-linke-legen-zu",
-      "published": "Wed, 23 Sep 2026 09:12:28 -0000",
-      "published_display": "23.09.2026 · 09:12 Uhr"
-    },
-    {
-      "title": "Lottogewinner: «Zuerst das Leben sanieren»: Pfälzer gewinnt 1,4 Millionen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/23/zuerst-das-leben-sanieren-pfaelzer-gewinnt-1-4-millionen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/23/zuerst-das-leben-sanieren-pfaelzer-gewinnt-1-4-millionen",
-      "published": "Wed, 23 Sep 2026 09:11:50 -0000",
-      "published_display": "23.09.2026 · 09:11 Uhr"
-    },
-    {
-      "title": "Handball-Super Globe: Füchse Berlin beim Super Globe: «Sind nur Außenseiter»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/23/fuechse-berlin-beim-super-globe-sind-nur-aussenseiter-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/23/fuechse-berlin-beim-super-globe-sind-nur-aussenseiter",
-      "published": "Wed, 23 Sep 2026 09:08:25 -0000",
-      "published_display": "23.09.2026 · 09:08 Uhr"
-    },
-    {
-      "title": "Tatort Bremen: Mit Schwamm und Nägeln – Diebe stehlen Frau Geld aus Auto",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/23/mit-schwamm-und-naegeln-diebe-stehlen-frau-geld-aus-auto-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/23/mit-schwamm-und-naegeln-diebe-stehlen-frau-geld-aus-auto",
-      "published": "Wed, 23 Sep 2026 09:06:29 -0000",
-      "published_display": "23.09.2026 · 09:06 Uhr"
-    },
-    {
-      "title": "Angriff in Franken: Polizei fahndet nach Messerattacke nach Mann aus Wendlingen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/23/polizei-fahndet-nach-messerattacke-nach-mann-aus-wendlingen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/23/polizei-fahndet-nach-messerattacke-nach-mann-aus-wendlingen",
-      "published": "Wed, 23 Sep 2026 09:02:55 -0000",
-      "published_display": "23.09.2026 · 09:02 Uhr"
-    },
-    {
-      "title": "Nach Abgeordnetenhauswahl: Grüne fordern Urabstimmung über Senatsmitglieder",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/23/gruene-fordern-urabstimmung-ueber-senatsmitglieder-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/23/gruene-fordern-urabstimmung-ueber-senatsmitglieder",
-      "published": "Wed, 23 Sep 2026 09:01:19 -0000",
-      "published_display": "23.09.2026 · 09:01 Uhr"
-    },
-    {
-      "title": "3,7 Millionen Beschäftigte: Metall-Tarifrunde: IG Metall fordert fünf Prozent mehr Geld",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/23/metall-tarifrunde-ig-metall-fordert-fuenf-prozent-mehr-geld-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/23/metall-tarifrunde-ig-metall-fordert-fuenf-prozent-mehr-geld",
-      "published": "Wed, 23 Sep 2026 09:00:52 -0000",
-      "published_display": "23.09.2026 · 09:00 Uhr"
     }
   ]
 }
