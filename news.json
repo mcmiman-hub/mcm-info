@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-23T23:14:11.614303+00:00",
+  "updated": "2026-09-23T23:26:01.557907+00:00",
   "items": [
+    {
+      "title": "Außenhandel: US-Regierung: Zusatzzölle gegen China erneut aufgeschoben",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/us-regierung-zusatzzoelle-gegen-china-erneut-aufgeschoben-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/us-regierung-zusatzzoelle-gegen-china-erneut-aufgeschoben",
+      "published": "Wed, 23 Sep 2026 23:24:05 -0000",
+      "published_display": "23.09.2026 · 23:24 Uhr"
+    },
+    {
+      "title": "Amira Mohamed Ali: BSW-Vorsitzende dementiert Abmachung mit AfD über Landtagspräsidium",
+      "summary": "Das BSW will laut Mohamed Ali keinen Landtagsvizepräsidenten in Sachsen-Anhalt aufstellen. Einen AfD-Landtagspräsidenten würde die Partei wohl trotzdem unterstützen.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/landtagswahl-mecklenburg-vorpommern-wahlparty-bsw-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/amira-mohamed-ali-bsw-afd-sachsen-anhalt-landtag",
+      "published": "Wed, 23 Sep 2026 23:19:50 -0000",
+      "published_display": "23.09.2026 · 23:19 Uhr"
+    },
     {
       "title": "Krieg gegen die Ukraine: Russlands Außenminister Lawrow lehnt Feuerpause in der Ukraine ab",
       "summary": "Russland hat Forderungen, seine Angriffe auf die Ukraine zu pausieren, zurückgewiesen. Wladimir Putin zeigt sich offen für Teilnahme am G20-Gipfel in Miami. Das Liveblog",
@@ -60,7 +76,7 @@
     },
     {
       "title": "Energiepolitik: Italien verabschiedet Gesetz für Rückkehr zur Atomkraft",
-      "summary": "Knapp 4o Jahre nach dem Ausstieg ebnet der italienische Senat die Rückkehr zur Atomenergie. Der Bau neuer Reaktoren liegt allerdings noch in weiter Ferne.",
+      "summary": "Knapp 40 Jahre nach dem Ausstieg ebnet der italienische Senat die Rückkehr zur Atomenergie. Der Bau neuer Reaktoren liegt allerdings noch in weiter Ferne.",
       "image": "https://img.zeit.de/politik/ausland/2026-09/atomkraft-italien-gesetz-giorgia-meloni-energiemix-foto-1/original__640x360",
       "link": "https://www.zeit.de/politik/ausland/2026-09/atomkraft-italien-gesetz-giorgia-meloni-energiemix",
       "published": "Wed, 23 Sep 2026 22:10:56 -0000",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/digital/2026-09/kuenstliche-intelligenz-risiken-sam-altman-openai-un-sicherheitsrat",
       "published": "Wed, 23 Sep 2026 21:41:03 -0000",
       "published_display": "23.09.2026 · 21:41 Uhr"
-    },
-    {
-      "title": "Fernsehen: «The Masked Singer»: Stefan Mross und Prince Damien enthüllt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/23/the-masked-singer-stefan-mross-und-prince-damien-enthuellt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/23/the-masked-singer-stefan-mross-und-prince-damien-enthuellt",
-      "published": "Wed, 23 Sep 2026 21:29:40 -0000",
-      "published_display": "23.09.2026 · 21:29 Uhr"
-    },
-    {
-      "title": "Pressefreiheit: Medien und Verbände stellen sich an Seite von CNN und Co",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/23/medien-und-verbaende-stellen-sich-an-seite-von-cnn-und-co-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/23/medien-und-verbaende-stellen-sich-an-seite-von-cnn-und-co",
-      "published": "Wed, 23 Sep 2026 21:25:01 -0000",
-      "published_display": "23.09.2026 · 21:25 Uhr"
     }
   ]
 }
