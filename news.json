@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-23T18:48:04.260538+00:00",
+  "updated": "2026-09-23T18:57:03.247422+00:00",
   "items": [
+    {
+      "title": "Europa Cup der Frauen: Europa-Cup-Quali fast sicher: Wolfsburg schlägt Graz klar",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/23/europa-cup-quali-fast-sicher-wolfsburg-schlaegt-graz-klar-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/23/europa-cup-quali-fast-sicher-wolfsburg-schlaegt-graz-klar",
+      "published": "Wed, 23 Sep 2026 18:52:54 -0000",
+      "published_display": "23.09.2026 · 18:52 Uhr"
+    },
+    {
+      "title": "Krieg gegen die Ukraine: Wolodymyr Selenskyj bezeichnet russische Kriegführung als »Wahnsinn«",
+      "summary": "Der ukrainische Präsident hebt in der UN-Generaldebatte Russlands Verluste hervor. Der Krieg werde nur weitergeführt, weil Wladimir Putin das wolle.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/wolodymyr-selenskyj-un-generaldebatte-russland-krieg-wladimir-putin-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/wolodymyr-selenskyj-un-generaldebatte-russland-krieg-wladimir-putin",
+      "published": "Wed, 23 Sep 2026 18:52:52 -0000",
+      "published_display": "23.09.2026 · 18:52 Uhr"
+    },
+    {
+      "title": "Er ergaunerte Millionen: Filmreifer Krimi - Windkraftbetrüger Holt in Dubai gefasst",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/23/aus-haft-geflohen-windkraftbetrueger-holt-in-dubai-gefasst-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/23/aus-haft-geflohen-windkraftbetrueger-holt-in-dubai-gefasst",
+      "published": "Wed, 23 Sep 2026 18:52:41 -0000",
+      "published_display": "23.09.2026 · 18:52 Uhr"
+    },
     {
       "title": "DFB-Trikot von Adidas: Nationalelf trägt bei Klopp-Debüt letztes Adidas-Trikot",
       "summary": "Gegen die Niederlande wird die Nationalelf noch einmal ein Trikot von Adidas tragen. Es ist das letzte des Ausrüsters, ab 2027 wird das Team von Nike ausgestattet.",
@@ -25,14 +49,6 @@
       "link": "https://www.zeit.de/news/2026-09/23/brueckenschaden-teilstueck-der-a643-bei-wiesbaden-gesperrt",
       "published": "Wed, 23 Sep 2026 18:41:43 -0000",
       "published_display": "23.09.2026 · 18:41 Uhr"
-    },
-    {
-      "title": "Krieg gegen die Ukraine: Wolodymyr Selenskyj bezeichnet russische Kriegführung als »Wahnsinn«",
-      "summary": "Der ukrainische Präsident hebt in der UN-Generaldebatte Russlands Verluste hervor. Der Krieg werde nur weitergeführt, weil Wladimir Putin das wolle.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/wolodymyr-selenskyj-un-generaldebatte-russland-krieg-wladimir-putin-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/wolodymyr-selenskyj-un-generaldebatte-russland-krieg-wladimir-putin",
-      "published": "Wed, 23 Sep 2026 18:39:27 -0000",
-      "published_display": "23.09.2026 · 18:39 Uhr"
     },
     {
       "title": "Medien: NOZ/mh:n will Zeitungsgruppe Ostfriesland übernehmen",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/digital/games/2026-09/fire-eblem-fortunes-weave-nintendo-switch-videospiel",
       "published": "Wed, 23 Sep 2026 18:13:16 -0000",
       "published_display": "23.09.2026 · 18:13 Uhr"
-    },
-    {
-      "title": "Forschungssicherheit: Der Spion in meinem Labor",
-      "summary": "Chinesische Studenten sollen im Staatsauftrag deutsche Unis bespitzeln und Professoren in die Volksrepublik locken. Das Ziel: militärisch nutzbare Forschungsergebnisse",
-      "image": "https://img.zeit.de/2026/40/der-spion-in-meinem-labor-bild-2/original__640x360",
-      "link": "https://www.zeit.de/2026/40/forschungssicherheit-spionage-china-geheimdienst-hochschulen-muenchen",
-      "published": "Wed, 23 Sep 2026 18:12:10 -0000",
-      "published_display": "23.09.2026 · 18:12 Uhr"
-    },
-    {
-      "title": "»The Deportation Project«: Ein System, um sie alle zu finden",
-      "summary": "Das US-Heimatschutzministerium nutzt ein riesiges Überwachungssystem, um Migranten festzunehmen. Darüber möchte die Behörde die Öffentlichkeit im Dunkeln lassen.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/the-deportation-project-ice-ueberwachungssystem-migration-usa-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/the-deportation-project-ice-ueberwachungssystem-migration-usa",
-      "published": "Wed, 23 Sep 2026 18:10:33 -0000",
-      "published_display": "23.09.2026 · 18:10 Uhr"
     }
   ]
 }
