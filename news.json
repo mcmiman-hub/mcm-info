@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-23T22:54:05.433169+00:00",
+  "updated": "2026-09-23T23:14:11.614303+00:00",
   "items": [
+    {
+      "title": "Krieg gegen die Ukraine: Russlands Außenminister Lawrow lehnt Feuerpause in der Ukraine ab",
+      "summary": "Russland hat Forderungen, seine Angriffe auf die Ukraine zu pausieren, zurückgewiesen. Wladimir Putin zeigt sich offen für Teilnahme am G20-Gipfel in Miami. Das Liveblog",
+      "image": "https://img.zeit.de/politik/2026-09/sergej-lawrow-russland-ukraine-krieg/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "published": "Wed, 23 Sep 2026 23:01:55 -0000",
+      "published_display": "23.09.2026 · 23:01 Uhr"
+    },
+    {
+      "title": "Krasnojarsk: Tödliche Bärenangriffe in Russland - Ermittler schreiten ein",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/toedliche-baerenangriffe-in-russland-ermittler-schreiten-ein-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/toedliche-baerenangriffe-in-russland-ermittler-schreiten-ein",
+      "published": "Wed, 23 Sep 2026 23:00:04 -0000",
+      "published_display": "23.09.2026 · 23:00 Uhr"
+    },
     {
       "title": "USA und China: Donald Trump empfängt Xi Jinping zu Staatsbesuch",
       "summary": "Der US-Präsident hat den chinesischen Staatschef auf dem Rollfeld eines Militärstützpunkts empfangen. Es ist der erste Besuch von Xi in den USA seit über einem Jahrzehnt.",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/23/medien-und-verbaende-stellen-sich-an-seite-von-cnn-und-co",
       "published": "Wed, 23 Sep 2026 21:25:01 -0000",
       "published_display": "23.09.2026 · 21:25 Uhr"
-    },
-    {
-      "title": "Streamingdienst: Erfolgs-Podcast «Gemischtes Hack» feiert Milliarden-Marke",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/23/erfolgs-podcast-gemischtes-hack-feiert-milliarden-marke-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/23/erfolgs-podcast-gemischtes-hack-feiert-milliarden-marke",
-      "published": "Wed, 23 Sep 2026 21:19:12 -0000",
-      "published_display": "23.09.2026 · 21:19 Uhr"
-    },
-    {
-      "title": "Waldbrände: Rekordhitze und El Niño verschärfen Feuerkrise in Manaus",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/23/rekordhitze-und-el-ni-o-verschaerfen-feuerkrise-in-manaus-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/23/rekordhitze-und-el-ni-o-verschaerfen-feuerkrise-in-manaus",
-      "published": "Wed, 23 Sep 2026 21:05:12 -0000",
-      "published_display": "23.09.2026 · 21:05 Uhr"
     }
   ]
 }
