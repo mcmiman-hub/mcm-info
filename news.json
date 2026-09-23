@@ -1,7 +1,39 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-23T03:17:55.934139+00:00",
+  "updated": "2026-09-23T03:31:16.927499+00:00",
   "items": [
+    {
+      "title": "Unfälle: Auto prallt auf A1 ungebremst auf Laster - Fahrer stirbt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/23/auto-prallt-auf-a1-ungebremst-auf-laster-fahrer-stirbt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/23/auto-prallt-auf-a1-ungebremst-auf-laster-fahrer-stirbt",
+      "published": "Wed, 23 Sep 2026 03:28:42 -0000",
+      "published_display": "23.09.2026 · 03:28 Uhr"
+    },
+    {
+      "title": "Brände: Zwölf Verletzte bei Brand in Mehrfamilienhaus",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/23/zwoelf-verletzte-bei-brand-in-mehrfamilienhaus-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/23/zwoelf-verletzte-bei-brand-in-mehrfamilienhaus",
+      "published": "Wed, 23 Sep 2026 03:27:23 -0000",
+      "published_display": "23.09.2026 · 03:27 Uhr"
+    },
+    {
+      "title": "Schutz der Meere: Deutschland tritt UN-Hochseeabkommen offiziell bei",
+      "summary": "Jenseits nationaler Grenzen sollen Meere besser geschützt werden. Deutschland hat ein entsprechendes Abkommen nun ratifiziert. Greenpeace nennt den Schritt »überfällig«.",
+      "image": "https://img.zeit.de/wissenschaft/umwelt/2026-09/un-hochseeschutzabkommen-bbnj-ratifikation-deutschland-carsten-schneider-foto-1/original__640x360",
+      "link": "https://www.zeit.de/wissenschaft/umwelt/2026-09/un-hochseeschutzabkommen-bbnj-ratifikation-deutschland-carsten-schneider",
+      "published": "Wed, 23 Sep 2026 03:25:01 -0000",
+      "published_display": "23.09.2026 · 03:25 Uhr"
+    },
+    {
+      "title": "Fotografie: Bilder des Tages",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/23/bilder-des-tages-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/23/bilder-des-tages",
+      "published": "Wed, 23 Sep 2026 03:23:17 -0000",
+      "published_display": "23.09.2026 · 03:23 Uhr"
+    },
     {
       "title": "Bilanz: Gut eine Million Blitze gezählt - mehr als 2025",
       "summary": "",
@@ -89,38 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/23/berliner-regisseurin-feiert-premiere-an-new-yorker-met",
       "published": "Wed, 23 Sep 2026 02:59:26 -0000",
       "published_display": "23.09.2026 · 02:59 Uhr"
-    },
-    {
-      "title": "Gaza: Israel reagiert entrüstet auf Emmanuel Macrons Vorwurf der Gewalt",
-      "summary": "Frankreichs Präsident hat Israels Verstöße im Westjordanland kritisiert. Der britische Premier Burnham fordert erneut einen Staat Palästina neben Israel. Das Liveblog",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/israel-westjordanland-palaestinenser-emmanuel-macron-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2025-10/krieg-gaza-israel-hamas-liveblog",
-      "published": "Wed, 23 Sep 2026 02:34:59 -0000",
-      "published_display": "23.09.2026 · 02:34 Uhr"
-    },
-    {
-      "title": "Diplomatie: Sie reden wieder: USA und Iran verhandeln bei UN in New York",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/23/sie-reden-wieder-usa-und-iran-verhandeln-bei-un-in-new-york-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/23/sie-reden-wieder-usa-und-iran-verhandeln-bei-un-in-new-york",
-      "published": "Wed, 23 Sep 2026 02:30:09 -0000",
-      "published_display": "23.09.2026 · 02:30 Uhr"
-    },
-    {
-      "title": "Verbraucher: Trotz Bargeldliebe: Deutschland holt beim Digitalzahlen auf",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/23/trotz-bargeldliebe-deutschland-holt-beim-digitalzahlen-auf-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/23/trotz-bargeldliebe-deutschland-holt-beim-digitalzahlen-auf",
-      "published": "Wed, 23 Sep 2026 02:30:08 -0000",
-      "published_display": "23.09.2026 · 02:30 Uhr"
-    },
-    {
-      "title": "Gipfel in Washington: Großer Empfang, lange Konfliktliste: Xi besucht Trump",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/23/grosser-empfang-lange-konfliktliste-xi-besucht-trump-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/23/grosser-empfang-lange-konfliktliste-xi-besucht-trump",
-      "published": "Wed, 23 Sep 2026 02:30:07 -0000",
-      "published_display": "23.09.2026 · 02:30 Uhr"
     }
   ]
 }
