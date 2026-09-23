@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-23T17:17:33.156036+00:00",
+  "updated": "2026-09-23T17:29:32.789768+00:00",
   "items": [
+    {
+      "title": "Hendrik Holt: Geflohener Windkraftbetrüger Hendrik Holt in Dubai gefasst",
+      "summary": "Der geflohene Windkraftbetrüger Hendrik Holt ist in Dubai festgenommen worden. Holt war von einem genehmigten Ausgang nicht in die Justizvollzugsanstalt zurückgekehrt.",
+      "image": "https://img.zeit.de/gesellschaft/2026-09/hendrik-holt-dubai-windkraft-betrug-festnahme-foto-1/original__640x360",
+      "link": "https://www.zeit.de/gesellschaft/2026-09/hendrik-holt-dubai-windkraft-betrug-festnahme",
+      "published": "Wed, 23 Sep 2026 17:23:20 -0000",
+      "published_display": "23.09.2026 · 17:23 Uhr"
+    },
+    {
+      "title": "Midterms: USA lassen erstmals keine OSZE-Beobachter bei Kongresswahlen zu",
+      "summary": "Die Organisation für Sicherheit und Zusammenarbeit in Europa darf die Zwischenwahlen in den USA nicht beobachten. Kritik daran kommt auch aus Deutschland.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/osze-wahlbeobachtung-usa-kongresswahlen-einladung-odihr-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/osze-wahlbeobachtung-usa-kongresswahlen-einladung-odihr",
+      "published": "Wed, 23 Sep 2026 17:21:54 -0000",
+      "published_display": "23.09.2026 · 17:21 Uhr"
+    },
+    {
+      "title": "Spangdahlem: Pilot nach F-16-Absturz wieder aus Krankenhaus entlassen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/23/ermittlungen-zu-absturz-von-kampfjet-auf-us-airbase-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/23/ermittlungen-zu-absturz-von-kampfjet-auf-us-airbase",
+      "published": "Wed, 23 Sep 2026 17:16:05 -0000",
+      "published_display": "23.09.2026 · 17:16 Uhr"
+    },
     {
       "title": "Bundeswehr-Übung in Hamburg: Stell dir vor, es ist Krieg",
       "summary": "Mitten in Hamburg simuliert die Bundeswehr in diesen Tagen die Lage nach einem russischen Angriff. So befremdlich es wirken mag: Es ist nötig und hilfreich.",
@@ -9,14 +33,6 @@
       "link": "https://www.zeit.de/2026/41/bundeswehr-uebung-hamburg-red-storm-charlie-nato-russland",
       "published": "Wed, 23 Sep 2026 17:11:31 -0000",
       "published_display": "23.09.2026 · 17:11 Uhr"
-    },
-    {
-      "title": "Hendrik Holt: Geflohener Windkraftbetrüger Hendrik Holt in Dubai gefasst",
-      "summary": "Der geflohene Windkraftbetrüger Hendrik Holt ist in Dubai festgenommen worden. Holt war von einem genehmigten Ausgang nicht in die Justizvollzugsanstalt zurückgekehrt.",
-      "image": "https://img.zeit.de/gesellschaft/2026-09/hendrik-holt-dubai-windkraft-betrug-festnahme-foto-1/original__640x360",
-      "link": "https://www.zeit.de/gesellschaft/2026-09/hendrik-holt-dubai-windkraft-betrug-festnahme",
-      "published": "Wed, 23 Sep 2026 17:10:35 -0000",
-      "published_display": "23.09.2026 · 17:10 Uhr"
     },
     {
       "title": "Angela Merkel: Im Bann des Unausgesprochenen",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/23/papst-bekommt-christstollen-aus-dem-erzgebirge",
       "published": "Wed, 23 Sep 2026 16:46:58 -0000",
       "published_display": "23.09.2026 · 16:46 Uhr"
-    },
-    {
-      "title": "Europäischer Haftbefehl: Aus Haft geflohen - Windkraftbetrüger Holt in Dubai gefasst",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/23/aus-haft-geflohen-windkraftbetrueger-holt-in-dubai-gefasst-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/23/aus-haft-geflohen-windkraftbetrueger-holt-in-dubai-gefasst",
-      "published": "Wed, 23 Sep 2026 16:46:35 -0000",
-      "published_display": "23.09.2026 · 16:46 Uhr"
-    },
-    {
-      "title": "Prozesse: Stuttgarter im Iran verurteilt - Özdemir fordert Freilassung",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/23/ex-vfbler-hildebrand-sorgt-sich-um-freund-nach-iran-urteil-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/23/ex-vfbler-hildebrand-sorgt-sich-um-freund-nach-iran-urteil",
-      "published": "Wed, 23 Sep 2026 16:37:12 -0000",
-      "published_display": "23.09.2026 · 16:37 Uhr"
     }
   ]
 }
