@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-23T22:17:28.722035+00:00",
+  "updated": "2026-09-23T22:28:31.245750+00:00",
   "items": [
+    {
+      "title": "Rückendeckung für den Kanzler: Weber: CSU steht «sonnenklar» hinter Merz",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/weber-csu-steht-sonnenklar-hinter-merz-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/weber-csu-steht-sonnenklar-hinter-merz",
+      "published": "Wed, 23 Sep 2026 22:25:12 -0000",
+      "published_display": "23.09.2026 · 22:25 Uhr"
+    },
+    {
+      "title": "G20-Gipfel in Miami: Marco Rubio hofft auf Putins Teilnahme beim G20-Gipfel in Miami",
+      "summary": "Im Dezember will Donald Trump den nächsten G20-Gipfel in seinem Golfklub in Florida abhalten. Unter den Gästen könnte auch Wladimir Putin sein – darauf hofft Marco Rubio.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/g20-gipfel-miami-usa-wladimir-putin-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/g20-gipfel-miami-usa-wladimir-putin",
+      "published": "Wed, 23 Sep 2026 22:20:33 -0000",
+      "published_display": "23.09.2026 · 22:20 Uhr"
+    },
+    {
+      "title": "Staatsbesuch: Chinas Präsident Xi zu Staatsbesuch in den USA angekommen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/chinas-praesident-xi-zu-staatsbesuch-in-den-usa-angekommen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/chinas-praesident-xi-zu-staatsbesuch-in-den-usa-angekommen",
+      "published": "Wed, 23 Sep 2026 22:17:31 -0000",
+      "published_display": "23.09.2026 · 22:17 Uhr"
+    },
     {
       "title": "Energiepolitik: Italien verabschiedet Gesetz für Rückkehr zur Atomkraft",
       "summary": "Knapp 4o Jahre nach dem Ausstieg ebnet der italienische Senat die Rückkehr zur Atomenergie. Der Bau neuer Reaktoren liegt allerdings noch in weiter Ferne.",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/mobilitaet/2026-09/drohne-flughafen-berlin-brandenburg-ber-flugbetrieb-bundespolizei",
       "published": "Wed, 23 Sep 2026 20:53:17 -0000",
       "published_display": "23.09.2026 · 20:53 Uhr"
-    },
-    {
-      "title": "Flughafen BER: Drohnen-Alarm am BER - Flugbetrieb kurzzeitig eingestellt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/23/drohnensichtung-am-ber-flugbetrieb-kurzzeitig-eingestellt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/23/drohnensichtung-am-ber-flugbetrieb-kurzzeitig-eingestellt",
-      "published": "Wed, 23 Sep 2026 20:29:13 -0000",
-      "published_display": "23.09.2026 · 20:29 Uhr"
-    },
-    {
-      "title": "Fußball: Kanes Vision nach FC Bayern: Doppel-Karriere in MLS und NFL?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/23/kanes-vision-nach-fc-bayern-doppel-karriere-in-mls-und-nfl-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/23/kanes-vision-nach-fc-bayern-doppel-karriere-in-mls-und-nfl",
-      "published": "Wed, 23 Sep 2026 20:28:18 -0000",
-      "published_display": "23.09.2026 · 20:28 Uhr"
-    },
-    {
-      "title": "Landkreis Traunstein: Motorradfahrer stirbt nach Frontalzusammenstoß",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/23/motorradfahrer-stirbt-nach-frontalzusammenstoss-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/23/motorradfahrer-stirbt-nach-frontalzusammenstoss",
-      "published": "Wed, 23 Sep 2026 20:14:44 -0000",
-      "published_display": "23.09.2026 · 20:14 Uhr"
     }
   ]
 }
