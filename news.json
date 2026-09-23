@@ -1,7 +1,39 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-23T16:46:08.166528+00:00",
+  "updated": "2026-09-23T16:55:46.296087+00:00",
   "items": [
+    {
+      "title": "Förderung vom Bund: Sächsische Schwimmbäder bekommen mehr als 8 Millionen Euro",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/23/baeder-in-dresden-und-gohrisch-bekommen-3-5-millionen-euro-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/23/baeder-in-dresden-und-gohrisch-bekommen-3-5-millionen-euro",
+      "published": "Wed, 23 Sep 2026 16:52:16 -0000",
+      "published_display": "23.09.2026 · 16:52 Uhr"
+    },
+    {
+      "title": "Verdächtiger Gegenstand: Polizei findet Feuerwerkskörper in Nähe von Strommast",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/23/polizei-findet-feuerwerkskoerper-in-naehe-von-strommast-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/23/polizei-findet-feuerwerkskoerper-in-naehe-von-strommast",
+      "published": "Wed, 23 Sep 2026 16:52:08 -0000",
+      "published_display": "23.09.2026 · 16:52 Uhr"
+    },
+    {
+      "title": "Vatikan: Papst bekommt Christstollen aus dem Erzgebirge",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/23/papst-bekommt-christstollen-aus-dem-erzgebirge-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/23/papst-bekommt-christstollen-aus-dem-erzgebirge",
+      "published": "Wed, 23 Sep 2026 16:46:58 -0000",
+      "published_display": "23.09.2026 · 16:46 Uhr"
+    },
+    {
+      "title": "Europäischer Haftbefehl: Aus Haft geflohen - Windkraftbetrüger Holt in Dubai gefasst",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/23/aus-haft-geflohen-windkraftbetrueger-holt-in-dubai-gefasst-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/23/aus-haft-geflohen-windkraftbetrueger-holt-in-dubai-gefasst",
+      "published": "Wed, 23 Sep 2026 16:46:35 -0000",
+      "published_display": "23.09.2026 · 16:46 Uhr"
+    },
     {
       "title": "Hendrik Holt: Geflohener Windkraftbetrüger Hendrik Holt in Dubai gefasst",
       "summary": "Der geflohene Windkraftbetrüger Hendrik Holt ist in Dubai festgenommen worden. Holt war von einem genehmigten Ausgang nicht in die Justizvollzugsanstalt zurückgekehrt.",
@@ -89,38 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/23/deutscher-urlauber-stirbt-bei-sturz-in-suedtirol",
       "published": "Wed, 23 Sep 2026 16:11:18 -0000",
       "published_display": "23.09.2026 · 16:11 Uhr"
-    },
-    {
-      "title": "UN-Generaldebatte: Iranischer Präsident nennt sein Land »Opfer des Terrorismus«",
-      "summary": "Irans Staatschef Massud Peseschkian hat vor den UN auf die Kritik von Donald Trump reagiert. Iraner seien keine Terroristen, sondern Opfer des Terrorismus.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/un-generaldebatte-massud-peseschkian-iran-donald-trump-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/un-generaldebatte-massud-peseschkian-iran-donald-trump",
-      "published": "Wed, 23 Sep 2026 16:08:44 -0000",
-      "published_display": "23.09.2026 · 16:08 Uhr"
-    },
-    {
-      "title": "Zoll: Große Cannabisplantage entdeckt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/23/grosse-cannabisplantage-entdeckt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/23/grosse-cannabisplantage-entdeckt",
-      "published": "Wed, 23 Sep 2026 16:06:38 -0000",
-      "published_display": "23.09.2026 · 16:06 Uhr"
-    },
-    {
-      "title": "Sachsen-Anhalt nach der Wahl: Machtpoker in Magdeburg – BSW als Zünglein an der Waage",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/23/machtpoker-in-magdeburg-bsw-als-zuenglein-an-der-waage-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/23/machtpoker-in-magdeburg-bsw-als-zuenglein-an-der-waage",
-      "published": "Wed, 23 Sep 2026 16:06:34 -0000",
-      "published_display": "23.09.2026 · 16:06 Uhr"
-    },
-    {
-      "title": "Kinderkrankentage: Carsten Linnemann gegen erneute Verlängerung bei Kinderkrankentagen",
-      "summary": "Gesundheitsminister Carsten Linnemann will die Kinderkrankentage reduzieren. Eltern sollen dann nur zehn Arbeitstage freibekommen, um ihr krankes Kind zu betreuen.",
-      "image": "https://img.zeit.de/gesellschaft/2026-09/kinderkrankentage-carsten-linnemann-cdu-krankengeld-foto-1/original__640x360",
-      "link": "https://www.zeit.de/gesellschaft/2026-09/kinderkrankentage-carsten-linnemann-cdu-krankengeld",
-      "published": "Wed, 23 Sep 2026 16:04:49 -0000",
-      "published_display": "23.09.2026 · 16:04 Uhr"
     }
   ]
 }
