@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-24T00:24:09.021280+00:00",
+  "updated": "2026-09-24T00:48:47.348282+00:00",
   "items": [
+    {
+      "title": "Facebook-Konzern: Meta bringt KI-Brille mit Display auch nach Deutschland",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/meta-bringt-ki-brille-mit-display-auch-nach-deutschland-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/meta-bringt-ki-brille-mit-display-auch-nach-deutschland",
+      "published": "Thu, 24 Sep 2026 00:35:17 -0000",
+      "published_display": "24.09.2026 · 00:35 Uhr"
+    },
     {
       "title": "Krieg gegen die Ukraine: Russland beschießt Kiew mit ballistischen Raketen",
       "summary": "",
@@ -51,7 +59,7 @@
       "published_display": "23.09.2026 · 23:51 Uhr"
     },
     {
-      "title": "Ukrainekrieg : Wadephul wirft Russland »hybride Angriffe« auf Europa vor",
+      "title": "Ukrainekrieg: Wadephul wirft Russland »hybride Angriffe« auf Europa vor",
       "summary": "Außenminister Johann Wadephul beschuldigt Russland zunehmender Aggression gegen die Verbündeten der Ukraine. Dabei bezog er sich auch auf den Drohnenvorfall in Leipzig.",
       "image": "https://img.zeit.de/politik/ausland/2026-09/johann-wadephul-aussenminister-russland-hybride-angriffe-europa-foto-1/original__640x360",
       "link": "https://www.zeit.de/politik/ausland/2026-09/johann-wadephul-aussenminister-russland-hybride-angriffe-europa",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/politik/ausland/2026-09/atomkraft-italien-gesetz-giorgia-meloni-energiemix",
       "published": "Wed, 23 Sep 2026 22:10:56 -0000",
       "published_display": "23.09.2026 · 22:10 Uhr"
-    },
-    {
-      "title": "Parlamentswahl in Israel: Israels Wahlkommission will arabische Parteien ausschließen",
-      "summary": "Vor der Parlamentswahl versucht die Wahlkommission in Israel, Parteien der arabischen Minderheit auszuschließen. Das oberste Gericht kassierte solche Versuche bisher.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/unionsfraktionschef-spahn-reist-nach-israel-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/israel-wahl-ausschluss-arabische-parteien-raum-vereinte-liste",
-      "published": "Wed, 23 Sep 2026 22:06:21 -0000",
-      "published_display": "23.09.2026 · 22:06 Uhr"
     }
   ]
 }
