@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-24T14:47:43.645031+00:00",
+  "updated": "2026-09-24T14:58:38.893107+00:00",
   "items": [
+    {
+      "title": "Olympia-Bewerbung: Wüst stichelt: «Klares Zeichen für vereinigtes Deutschland»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/wuest-stichelt-klares-zeichen-fuer-vereinigtes-deutschland-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/wuest-stichelt-klares-zeichen-fuer-vereinigtes-deutschland",
+      "published": "Thu, 24 Sep 2026 14:49:24 -0000",
+      "published_display": "24.09.2026 · 14:49 Uhr"
+    },
     {
       "title": "Sozialreformen: Mehr Sozialstaat führt nicht zu weniger AfD",
       "summary": "Nach den AfD-Wahlerfolgen fordert die SPD einen »deutschen New Deal« statt Sozialabbau. Doch mit dieser Rhetorik riskiert sie, ihre eigene Reformarbeit abzuwerten.",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/24/koelner-buehnen-sprechen-bei-problemen-von-kinderkrankheiten",
       "published": "Thu, 24 Sep 2026 14:21:08 -0000",
       "published_display": "24.09.2026 · 14:21 Uhr"
-    },
-    {
-      "title": "Drogenprozess: 57 Kilogramm Kokain gebunkert - sechseinhalb Jahre Haft",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/57-kilogramm-kokain-gebunkert-sechseinhalb-jahre-haft-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/57-kilogramm-kokain-gebunkert-sechseinhalb-jahre-haft",
-      "published": "Thu, 24 Sep 2026 14:20:52 -0000",
-      "published_display": "24.09.2026 · 14:20 Uhr"
     }
   ]
 }
