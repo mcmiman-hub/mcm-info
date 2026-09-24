@@ -1,7 +1,63 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-24T07:18:43.479585+00:00",
+  "updated": "2026-09-24T07:32:02.454976+00:00",
   "items": [
+    {
+      "title": "Jürgen Klopp: Die Fußballreise des Jürgen Klopp",
+      "summary": "In Mainz und Dortmund war Jürgen Klopp der Vollgastrainer, in England lernte er, sein Spiel weiterzuentwickeln und zu verfeinern. Was hat er nun mit der DFB-Elf vor?",
+      "image": "https://img.zeit.de/sport/2026-09/juergen-klopp-dfb-spielstil/original__640x360",
+      "link": "https://www.zeit.de/sport/2026-09/juergen-klopp-bundestrainer-deutsche-nationalmannschaft-fc-liverpool",
+      "published": "Thu, 24 Sep 2026 07:31:38 -0000",
+      "published_display": "24.09.2026 · 07:31 Uhr"
+    },
+    {
+      "title": "Kriminalität: Polizeieinsatz in Heidenheim - Hintergründe unklar",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/polizeieinsatz-in-heidenheim-hintergruende-unklar-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/polizeieinsatz-in-heidenheim-hintergruende-unklar",
+      "published": "Thu, 24 Sep 2026 07:28:41 -0000",
+      "published_display": "24.09.2026 · 07:28 Uhr"
+    },
+    {
+      "title": "KI und Ukraine-Krieg: OpenAI nimmt Ukraine in KI-Cyberabwehr-Programm auf",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/openai-nimmt-ukraine-in-ki-cyberabwehr-programm-auf-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/openai-nimmt-ukraine-in-ki-cyberabwehr-programm-auf",
+      "published": "Thu, 24 Sep 2026 07:27:58 -0000",
+      "published_display": "24.09.2026 · 07:27 Uhr"
+    },
+    {
+      "title": "Vor Sondierung in MV: Linke benennen Verhandlungsteam",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/linke-benennen-verhandlungsteam-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/linke-benennen-verhandlungsteam",
+      "published": "Thu, 24 Sep 2026 07:27:37 -0000",
+      "published_display": "24.09.2026 · 07:27 Uhr"
+    },
+    {
+      "title": "Entbindungen: Anteil der Kaiserschnitt-Geburten auf neuem Höchststand",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/anteil-der-kaiserschnitt-geburten-auf-neuem-hoechststand-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/anteil-der-kaiserschnitt-geburten-auf-neuem-hoechststand",
+      "published": "Thu, 24 Sep 2026 07:25:09 -0000",
+      "published_display": "24.09.2026 · 07:25 Uhr"
+    },
+    {
+      "title": "Nach der Berlin-Wahl: Antisemitismusbeauftragter: Linke-Spitze sieht Problem nicht",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/antisemitismusbeauftragter-linke-spitze-sieht-problem-nicht-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/antisemitismusbeauftragter-linke-spitze-sieht-problem-nicht",
+      "published": "Thu, 24 Sep 2026 07:24:25 -0000",
+      "published_display": "24.09.2026 · 07:24 Uhr"
+    },
+    {
+      "title": "2. Fußball-Bundesliga: KSC-Boss Eggimann nach Sieglos-Serie: «Drehen nicht durch»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/ksc-boss-eggimann-nach-sieglos-serie-drehen-nicht-durch-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/ksc-boss-eggimann-nach-sieglos-serie-drehen-nicht-durch",
+      "published": "Thu, 24 Sep 2026 07:22:50 -0000",
+      "published_display": "24.09.2026 · 07:22 Uhr"
+    },
     {
       "title": "Ukrainekrieg: Ukraine meldet zwei Tote durch russische Angriffe auf Kyjiw",
       "summary": "Russland hat Kyjiw erneut mit ballistischen Raketen angegriffen. Auch Häuser und eine Entbindungsklinik wurden getroffen. Mindestens zwei Menschen wurden getötet.",
@@ -43,14 +99,6 @@
       "published_display": "24.09.2026 · 07:08 Uhr"
     },
     {
-      "title": "Kriminalität: Polizeieinsatz in Heidenheim - Hintergründe unklar",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/polizeieinsatz-in-heidenheim-hintergruende-unklar-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/polizeieinsatz-in-heidenheim-hintergruende-unklar",
-      "published": "Thu, 24 Sep 2026 07:07:17 -0000",
-      "published_display": "24.09.2026 · 07:07 Uhr"
-    },
-    {
       "title": "Wurstburger mit Apfel-Fenchel-Slaw: Hier geht's um die Wurst",
       "summary": "Bratwurst im Brötchen? Kennt man. Aber mit knackigem Apfel-Fenchel-Slaw? Probieren Sie’s aus – schmeckt besser als auf jedem Schützenfest!",
       "image": "https://img.zeit.de/zeit-magazin/wochenmarkt/2025-03/wurstburger-apfel-senf-salat-rezept-wochenmarkt-bild/original__640x360",
@@ -73,54 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/24/energie-der-zukunft-wie-forscher-windanlagen-testen",
       "published": "Thu, 24 Sep 2026 07:00:08 -0000",
       "published_display": "24.09.2026 · 07:00 Uhr"
-    },
-    {
-      "title": "Nordrhein-Westfalen: Kritik an EEG-Entwurf für Bezeichnung von Borken als »Küstengebiet«",
-      "summary": "Obwohl Borken mehr als 150 Kilometer von der Nordsee entfernt liegt, wird es in der geplanten EEG-Reform als »Küstengebiet« bezeichnet. Die Irritation ist groß.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/kreis-borken-eeg-kuestenregion-windkraft-foerderung-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/kreis-borken-eeg-kuestenregion-windkraft-foerderung",
-      "published": "Thu, 24 Sep 2026 06:59:58 -0000",
-      "published_display": "24.09.2026 · 06:59 Uhr"
-    },
-    {
-      "title": "Hybridauto : Das Schlechteste aus zwei Welten",
-      "summary": "Doppelter Antrieb, doppelter Ärger: Plug-in-Hybride werden als cleverer Kompromiss beworben, doch sie sind überkonstruiert. Und haben hohe Sprit- und Reparaturkosten.",
-      "image": "https://img.zeit.de/mobilitaet/2026-09/hybridantrieb-automobilindustrie/original__640x360",
-      "link": "https://www.zeit.de/mobilitaet/2026-09/hybridautos-verbrenner-verkehr-auto-technologie",
-      "published": "Thu, 24 Sep 2026 06:58:07 -0000",
-      "published_display": "24.09.2026 · 06:58 Uhr"
-    },
-    {
-      "title": "Vor Sondierung in MV: Oldenburg verzichtet auf weiteres Ministeramt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/oldenburg-verzichtet-auf-weiteres-ministeramt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/oldenburg-verzichtet-auf-weiteres-ministeramt",
-      "published": "Thu, 24 Sep 2026 06:56:24 -0000",
-      "published_display": "24.09.2026 · 06:56 Uhr"
-    },
-    {
-      "title": "Kurioser Gesetzespassus: Bund macht Borken in NRW zu «Küstenregion» – Land reagiert",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/bund-macht-borken-in-nrw-zu-kuestenregion-land-veraergert-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/bund-macht-borken-in-nrw-zu-kuestenregion-land-veraergert",
-      "published": "Thu, 24 Sep 2026 06:53:00 -0000",
-      "published_display": "24.09.2026 · 06:53 Uhr"
-    },
-    {
-      "title": "Gefundener Feuerwerkskörper: Kugelbombe entdeckt: Leitungen nahe Fundort führten Strom",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/kugelbombe-entdeckt-leitungen-nahe-fundort-fuehrten-strom-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/kugelbombe-entdeckt-leitungen-nahe-fundort-fuehrten-strom",
-      "published": "Thu, 24 Sep 2026 06:46:05 -0000",
-      "published_display": "24.09.2026 · 06:46 Uhr"
-    },
-    {
-      "title": "Emotionale Abschiedsworte: Ex-Nationalspieler beendet Karriere: «Ein wenig traurig»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/ex-nationalspieler-beendet-karriere-ein-wenig-traurig-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/ex-nationalspieler-beendet-karriere-ein-wenig-traurig",
-      "published": "Thu, 24 Sep 2026 06:41:28 -0000",
-      "published_display": "24.09.2026 · 06:41 Uhr"
     }
   ]
 }
