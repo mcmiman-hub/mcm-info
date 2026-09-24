@@ -1,7 +1,39 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-24T05:16:43.276408+00:00",
+  "updated": "2026-09-24T05:29:22.331359+00:00",
   "items": [
+    {
+      "title": "Unfall: Eichel überfahren und gestürzt - Radfahrerin schwer verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/eichel-ueberfahren-und-gestuerzt-radfahrerin-schwer-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/eichel-ueberfahren-und-gestuerzt-radfahrerin-schwer-verletzt",
+      "published": "Thu, 24 Sep 2026 05:23:13 -0000",
+      "published_display": "24.09.2026 · 05:23 Uhr"
+    },
+    {
+      "title": "Wetteraussichten: Auf Wolken folgen sonnige Herbsttage",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/auf-wolken-folgen-sonnige-herbsttage-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/auf-wolken-folgen-sonnige-herbsttage",
+      "published": "Thu, 24 Sep 2026 05:21:53 -0000",
+      "published_display": "24.09.2026 · 05:21 Uhr"
+    },
+    {
+      "title": "Notfälle: Frau bei Verpuffung verletzt - größerer Polizeieinsatz",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/frau-bei-verpuffung-verletzt-groesserer-polizeieinsatz-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/frau-bei-verpuffung-verletzt-groesserer-polizeieinsatz",
+      "published": "Thu, 24 Sep 2026 05:16:48 -0000",
+      "published_display": "24.09.2026 · 05:16 Uhr"
+    },
+    {
+      "title": "Radsport-WM: Nicht nur mitschwimmen: Lipowitz und der Risiko-Plan",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/nicht-nur-mitschwimmen-lipowitz-und-der-risiko-plan-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/nicht-nur-mitschwimmen-lipowitz-und-der-risiko-plan",
+      "published": "Thu, 24 Sep 2026 05:16:05 -0000",
+      "published_display": "24.09.2026 · 05:16 Uhr"
+    },
     {
       "title": "Wetter: Wind und Wolken prägen das Wetter in Mecklenburg-Vorpommern",
       "summary": "",
@@ -89,38 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/24/blauer-panther-wer-wird-beste-schauspielerin",
       "published": "Thu, 24 Sep 2026 04:23:08 -0000",
       "published_display": "24.09.2026 · 04:23 Uhr"
-    },
-    {
-      "title": "Notfall: 23 Verletzte nach Chemikalienvorfall bei Wohnmobilhersteller",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/23-verletzte-nach-chemikalienvorfall-bei-wohnmobilhersteller-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/23-verletzte-nach-chemikalienvorfall-bei-wohnmobilhersteller",
-      "published": "Thu, 24 Sep 2026 04:14:50 -0000",
-      "published_display": "24.09.2026 · 04:14 Uhr"
-    },
-    {
-      "title": "UN-Vollversammlung: Donald Trumps Weltsicht, die CNN nicht mehr senden soll",
-      "summary": "Der US-Präsident will vor den Vereinten Nationen Macht demonstrieren, doch es klappt nicht ganz. Das Thema im US-Podcast. Und: Donald Trumps Kampf gegen kritische Medien.",
-      "image": "https://img.zeit.de/politik/2026-09/un-vollversammlung-donald-trump-ok-america-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/2026-09/un-vollversammlung-donald-trump-ok-america",
-      "published": "Thu, 24 Sep 2026 04:05:08 -0000",
-      "published_display": "24.09.2026 · 04:05 Uhr"
-    },
-    {
-      "title": "Soziales: Gewerkschaft ruft zu Protest gegen Sozialabbau auf",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/gewerkschaft-ruft-zu-protest-gegen-sozialabbau-auf-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/gewerkschaft-ruft-zu-protest-gegen-sozialabbau-auf",
-      "published": "Thu, 24 Sep 2026 04:00:24 -0000",
-      "published_display": "24.09.2026 · 04:00 Uhr"
-    },
-    {
-      "title": "Technik und Datenschutz: Heimliches Filmen: Braucht es ein Verbot von Smart Glasses?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/heimliches-filmen-braucht-es-ein-verbot-von-smart-glasses-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/heimliches-filmen-braucht-es-ein-verbot-von-smart-glasses",
-      "published": "Thu, 24 Sep 2026 04:00:14 -0000",
-      "published_display": "24.09.2026 · 04:00 Uhr"
     }
   ]
 }
