@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-24T17:29:02.065872+00:00",
+  "updated": "2026-09-24T17:43:10.108855+00:00",
   "items": [
+    {
+      "title": "Gipfeltreffen in den USA: Xi Jinping und Donald Trump beschwören Freundschaft und Zusammenarbeit",
+      "summary": "Der chinesische Staatschef hat den Willen Chinas betont, trotz Rivalität mit den USA zusammenzuarbeiten. Donald Trump kündigte Gespräche über Sicherheit und KI an.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/donald-trump-xi-jinping-usa-china-treffen-kooperation-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/donald-trump-xi-jinping-usa-china-treffen-kooperation",
+      "published": "Thu, 24 Sep 2026 17:37:18 -0000",
+      "published_display": "24.09.2026 · 17:37 Uhr"
+    },
+    {
+      "title": "80 Meter in die Tiefe: Absturz in Tirol - Vermisste aus Thüringen tot aufgefunden",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/absturz-in-tirol-vermisste-aus-thueringen-tot-aufgefunden-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/absturz-in-tirol-vermisste-aus-thueringen-tot-aufgefunden",
+      "published": "Thu, 24 Sep 2026 17:34:12 -0000",
+      "published_display": "24.09.2026 · 17:34 Uhr"
+    },
     {
       "title": "Ministerpräsidentenkonferenz: Vorsitz der Ministerpräsidentenkonferenz geht nicht an Sachsen-Anhalt",
       "summary": "Ab Oktober sollte Sachsen-Anhalt den Vorsitz in der MPK übernehmen. Nach dem dortigen AfD-Sieg behält Rheinland-Pfalz das Amt für ein weiteres Jahr.",
@@ -33,14 +49,6 @@
       "link": "https://www.zeit.de/news/2026-09/24/deutschland-und-frankreich-ringen-um-eu-industriefoerderung",
       "published": "Thu, 24 Sep 2026 17:07:40 -0000",
       "published_display": "24.09.2026 · 17:07 Uhr"
-    },
-    {
-      "title": "Gipfeltreffen in den USA: Xi Jinping und Donald Trump beschwören Freundschaft und Zusammenarbeit",
-      "summary": "Bei seinem Staatsbesuch in den USA hat Chinas Staatschef Xi den Willen zur Zusammenarbeit beider Länder betont. Donald Trump sprach von einer »großartigen Freundschaft«.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/donald-trump-xi-jinping-usa-china-treffen-kooperation-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/donald-trump-xi-jinping-usa-china-treffen-kooperation",
-      "published": "Thu, 24 Sep 2026 17:06:28 -0000",
-      "published_display": "24.09.2026 · 17:06 Uhr"
     },
     {
       "title": "Verkehr: Feuerwehr löscht brennenden Linienbus",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/24/berliner-cdu-fraktion-waehlt-evers-an-die-spitze",
       "published": "Thu, 24 Sep 2026 16:41:22 -0000",
       "published_display": "24.09.2026 · 16:41 Uhr"
-    },
-    {
-      "title": "Nach Landtagswahl: Ministerinnen und Staatskanzlei-Chef verzichten auf Posten",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/martin-verzichtet-auf-ministeramt-in-neuer-regierung-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/martin-verzichtet-auf-ministeramt-in-neuer-regierung",
-      "published": "Thu, 24 Sep 2026 16:36:42 -0000",
-      "published_display": "24.09.2026 · 16:36 Uhr"
     }
   ]
 }
