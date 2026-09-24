@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-24T03:44:56.225451+00:00",
+  "updated": "2026-09-24T03:56:19.688089+00:00",
   "items": [
+    {
+      "title": "Bundestag: Bundestag berät über umstrittene Geheimdienstreform und Organspende",
+      "summary": "Die Abgeordneten diskutieren ein Vorhaben von Alexander Dobrindt, das Befugnisse von Geheimdiensten deutlich weiten würde. Auch die Widerspruchsregelung wird debattiert.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/nachrichtendienste-reform-bundesnachrichtendienst-verfassungsschutz-alexander-dobrindt-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/nachrichtendienste-reform-bundesnachrichtendienst-verfassungsschutz-alexander-dobrindt",
+      "published": "Thu, 24 Sep 2026 03:51:22 -0000",
+      "published_display": "24.09.2026 · 03:51 Uhr"
+    },
     {
       "title": "Bauarbeiten: A7-Vollsperrung - Ausbau südlich der Elbtunnels wird fertig",
       "summary": "",
@@ -112,14 +120,6 @@
       "image": "https://img.zeit.de/news/2026-09/24/was-duerfen-deutschlands-nachrichtendienste-kuenftig-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-09/24/was-duerfen-deutschlands-nachrichtendienste-kuenftig",
       "published": "Thu, 24 Sep 2026 03:00:07 -0000",
-      "published_display": "24.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Neues akademisches Jahr: Zu wenige Wohnheimplätze vor neuem Uni-Semester in Berlin",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/zu-wenige-wohnheimplaetze-vor-neuem-uni-semester-in-berlin-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/zu-wenige-wohnheimplaetze-vor-neuem-uni-semester-in-berlin",
-      "published": "Thu, 24 Sep 2026 03:00:05 -0000",
       "published_display": "24.09.2026 · 03:00 Uhr"
     }
   ]
