@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-24T21:42:33.366846+00:00",
+  "updated": "2026-09-24T21:54:18.744258+00:00",
   "items": [
+    {
+      "title": "Mittelfranken: Kleintransporter prallt auf A3 auf Lkw – Schwerverletzter",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/kleintransporter-prallt-auf-a3-auf-lkw-schwerverletzter-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/kleintransporter-prallt-auf-a3-auf-lkw-schwerverletzter",
+      "published": "Thu, 24 Sep 2026 21:50:17 -0000",
+      "published_display": "24.09.2026 · 21:50 Uhr"
+    },
+    {
+      "title": "Regierungschef unter Druck: Konfrontiert mit Protest: Netanjahu verteidigt Kriege bei UN",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/protest-und-widerstand-netanjahu-in-new-york-erwartet-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/protest-und-widerstand-netanjahu-in-new-york-erwartet",
+      "published": "Thu, 24 Sep 2026 21:45:28 -0000",
+      "published_display": "24.09.2026 · 21:45 Uhr"
+    },
+    {
+      "title": "Fußball-Nationalmannschaft: Klopp klärt auf: Musiala mit «normaler Fußballverletzung»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/klopp-klaert-auf-musiala-mit-normaler-fussballverletzung-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/klopp-klaert-auf-musiala-mit-normaler-fussballverletzung",
+      "published": "Thu, 24 Sep 2026 21:43:20 -0000",
+      "published_display": "24.09.2026 · 21:43 Uhr"
+    },
     {
       "title": "Axel Springer Award: Thiel attackiert Medien als »linke Hassfabrik« und lobt Axel Springer",
       "summary": "Bei der Verleihung des Axel Springer Awards bezeichnet der Tech-Milliardär Peter Thiel die Medienlandschaft als »einseitig«. Der Springer-Konzern sei eine »Gegenstimme«.",
@@ -36,7 +60,7 @@
     },
     {
       "title": "Nations League, 1. Spieltag: Deutschland spielt im ersten Spiel unter Jürgen Klopp unentschieden",
-      "summary": "Das DFB-Team konnte beim Debüt von Bundestrainer Jürgen Klopp nicht gewinnen. Die Niederländer glichen kurz vor Spielende durch Cody Gakpo aus. Der Spielbericht",
+      "summary": "Die deutsche Nationalmannschaft hat einen Sieg gegen die Niederlande verpasst. Cody Gakpo erzielte kurz vor Schluss den Ausgleich. Der Spielbericht",
       "image": "https://img.zeit.de/sport/2026-09/nations-league-bild/original__640x360",
       "link": "https://www.zeit.de/sport/2026-09/nations-league-deutschland-niederlande-fussball",
       "published": "Thu, 24 Sep 2026 20:56:12 -0000",
@@ -49,14 +73,6 @@
       "link": "https://www.zeit.de/news/2026-09/24/dfb-team-mit-remis-gegen-niederlande-bei-klopp-debuet",
       "published": "Thu, 24 Sep 2026 20:42:33 -0000",
       "published_display": "24.09.2026 · 20:42 Uhr"
-    },
-    {
-      "title": "Regierungschef unter Druck: Konfrontiert mit Protest: Netanjahu verteidigt Kriege bei UN",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/protest-und-widerstand-netanjahu-in-new-york-erwartet-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/protest-und-widerstand-netanjahu-in-new-york-erwartet",
-      "published": "Thu, 24 Sep 2026 20:27:14 -0000",
-      "published_display": "24.09.2026 · 20:27 Uhr"
     },
     {
       "title": "Basketball-Königsklasse: Bayern-Basketballer starten mit Sieg in Euroleague",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/politik/ausland/2026-09/benjamin-netanjahu-rede-un-generalversammlung-israel",
       "published": "Thu, 24 Sep 2026 19:13:47 -0000",
       "published_display": "24.09.2026 · 19:13 Uhr"
-    },
-    {
-      "title": "Filme aus 64 Ländern: Filmfest Hamburg startet - Die Welt durch andere Augen sehen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/filmfest-hamburg-startet-die-welt-durch-andere-augen-sehen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/filmfest-hamburg-startet-die-welt-durch-andere-augen-sehen",
-      "published": "Thu, 24 Sep 2026 19:10:14 -0000",
-      "published_display": "24.09.2026 · 19:10 Uhr"
-    },
-    {
-      "title": "Nach der Wahl: Berliner SPD will mit Linke und CDU sondieren",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/berliner-spd-fraktion-soll-eine-doppelspitze-bekommen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/berliner-spd-fraktion-soll-eine-doppelspitze-bekommen",
-      "published": "Thu, 24 Sep 2026 19:09:27 -0000",
-      "published_display": "24.09.2026 · 19:09 Uhr"
     }
   ]
 }
