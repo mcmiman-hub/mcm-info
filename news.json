@@ -1,7 +1,47 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-24T07:32:02.454976+00:00",
+  "updated": "2026-09-24T07:44:57.853065+00:00",
   "items": [
+    {
+      "title": "Nordrhein-Westfalen: Kritik an EEG-Entwurf für Bezeichnung von Borken als »Küstengebiet«",
+      "summary": "Obwohl Borken mehr als 150 Kilometer von der Nordsee entfernt liegt, wird es in der geplanten EEG-Reform als »Küstengebiet« bezeichnet. Die Irritation ist groß.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/windkraft-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/kreis-borken-eeg-kuestenregion-windkraft-foerderung",
+      "published": "Thu, 24 Sep 2026 07:38:10 -0000",
+      "published_display": "24.09.2026 · 07:38 Uhr"
+    },
+    {
+      "title": "Notlandung bei Betzenstein: Motorausfall - Pilot landet Kleinflugzeug im Maisfeld",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/motorausfall-pilot-landet-kleinflugzeug-im-maisfeld-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/motorausfall-pilot-landet-kleinflugzeug-im-maisfeld",
+      "published": "Thu, 24 Sep 2026 07:38:02 -0000",
+      "published_display": "24.09.2026 · 07:38 Uhr"
+    },
+    {
+      "title": "Statistisches Bundesamt: Immobilienpreise in Deutschland steigen nicht mehr so stark",
+      "summary": "Die Preise für Häuser und Wohnungen sind im zweiten Quartal so wenig gestiegen wie seit zwei Jahren nicht mehr. Es zeigen sich große regionale Unterschiede.",
+      "image": "https://img.zeit.de/wirtschaft/2026-09/immobilienpreise-deutschland-wohnimmobilien-destatis-grossstaedte-laendliche-regionen-foto-1/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/2026-09/statistisches-bundesamt-immobilienpreise-deutschland-grossstadt-land",
+      "published": "Thu, 24 Sep 2026 07:37:12 -0000",
+      "published_display": "24.09.2026 · 07:37 Uhr"
+    },
+    {
+      "title": "Nachwuchs im Aquarium: Hai-Paar in Karlsruhe bekommt Vierlinge",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/23/hai-paar-in-karlsruhe-bekommt-vierlinge-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/23/hai-paar-in-karlsruhe-bekommt-vierlinge",
+      "published": "Thu, 24 Sep 2026 07:35:01 -0000",
+      "published_display": "24.09.2026 · 07:35 Uhr"
+    },
+    {
+      "title": "Nach langer Krankheit: Heinz Hoenig: «Ich möchte meine Jungs aufwachsen sehen»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/heinz-hoenig-ich-moechte-meine-jungs-aufwachsen-sehen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/heinz-hoenig-ich-moechte-meine-jungs-aufwachsen-sehen",
+      "published": "Thu, 24 Sep 2026 07:33:24 -0000",
+      "published_display": "24.09.2026 · 07:33 Uhr"
+    },
     {
       "title": "Jürgen Klopp: Die Fußballreise des Jürgen Klopp",
       "summary": "In Mainz und Dortmund war Jürgen Klopp der Vollgastrainer, in England lernte er, sein Spiel weiterzuentwickeln und zu verfeinern. Was hat er nun mit der DFB-Elf vor?",
@@ -9,6 +49,14 @@
       "link": "https://www.zeit.de/sport/2026-09/juergen-klopp-bundestrainer-deutsche-nationalmannschaft-fc-liverpool",
       "published": "Thu, 24 Sep 2026 07:31:38 -0000",
       "published_display": "24.09.2026 · 07:31 Uhr"
+    },
+    {
+      "title": "Gartendenkmal und Klimawandel: «Zukunftstag» im Gartenreich Dessau-Wörlitz",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/zukunftstag-im-gartenreich-dessau-woerlitz-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/zukunftstag-im-gartenreich-dessau-woerlitz",
+      "published": "Thu, 24 Sep 2026 07:30:05 -0000",
+      "published_display": "24.09.2026 · 07:30 Uhr"
     },
     {
       "title": "Kriminalität: Polizeieinsatz in Heidenheim - Hintergründe unklar",
@@ -73,54 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/24/easyjet-weitet-im-sommer-flugangebot-am-ber-aus",
       "published": "Thu, 24 Sep 2026 07:14:58 -0000",
       "published_display": "24.09.2026 · 07:14 Uhr"
-    },
-    {
-      "title": "Migration: Mackenroth plädiert für zentralisiertes Abschiebeverfahren",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/mackenroth-plaediert-fuer-zentralisiertes-abschiebeverfahren-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/mackenroth-plaediert-fuer-zentralisiertes-abschiebeverfahren",
-      "published": "Thu, 24 Sep 2026 07:10:43 -0000",
-      "published_display": "24.09.2026 · 07:10 Uhr"
-    },
-    {
-      "title": "Neuzulassungen: Mehr als jeder fünfte neue Pkw in der EU fährt elektrisch",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/mehr-als-jeder-fuenfte-neue-pkw-in-der-eu-faehrt-elektrisch-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/mehr-als-jeder-fuenfte-neue-pkw-in-der-eu-faehrt-elektrisch",
-      "published": "Thu, 24 Sep 2026 07:08:47 -0000",
-      "published_display": "24.09.2026 · 07:08 Uhr"
-    },
-    {
-      "title": "Wie weiter nach der Wahl?: CDU lehnt SPD-Einladung in Sachsen-Anhalt ab",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/cdu-lehnt-spd-einladung-in-sachsen-anhalt-ab-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/cdu-lehnt-spd-einladung-in-sachsen-anhalt-ab",
-      "published": "Thu, 24 Sep 2026 07:08:31 -0000",
-      "published_display": "24.09.2026 · 07:08 Uhr"
-    },
-    {
-      "title": "Wurstburger mit Apfel-Fenchel-Slaw: Hier geht's um die Wurst",
-      "summary": "Bratwurst im Brötchen? Kennt man. Aber mit knackigem Apfel-Fenchel-Slaw? Probieren Sie’s aus – schmeckt besser als auf jedem Schützenfest!",
-      "image": "https://img.zeit.de/zeit-magazin/wochenmarkt/2025-03/wurstburger-apfel-senf-salat-rezept-wochenmarkt-bild/original__640x360",
-      "link": "https://www.zeit.de/zeit-magazin/wochenmarkt/2025-03/wurstburger-apfel-senf-salat-rezept-wochenmarkt",
-      "published": "Thu, 24 Sep 2026 07:05:56 -0000",
-      "published_display": "24.09.2026 · 07:05 Uhr"
-    },
-    {
-      "title": "Statistisches Bundesamt: Immobilienpreise in Deutschland steigen nicht mehr so stark",
-      "summary": "Die Preise für Häuser und Wohnungen sind im zweiten Quartal so wenig gestiegen wie seit zwei Jahren nicht mehr. Es zeigen sich große regionale Unterschiede.",
-      "image": "https://img.zeit.de/wirtschaft/2026-09/immobilienpreise-deutschland-wohnimmobilien-destatis-grossstaedte-laendliche-regionen-foto-1/original__640x360",
-      "link": "https://www.zeit.de/wirtschaft/2026-09/statistisches-bundesamt-immobilienpreise-deutschland-grossstadt-land",
-      "published": "Thu, 24 Sep 2026 07:04:59 -0000",
-      "published_display": "24.09.2026 · 07:04 Uhr"
-    },
-    {
-      "title": "Erneuerbare Energien: Energie der Zukunft: Wie Forscher Windanlagen testen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/energie-der-zukunft-wie-forscher-windanlagen-testen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/energie-der-zukunft-wie-forscher-windanlagen-testen",
-      "published": "Thu, 24 Sep 2026 07:00:08 -0000",
-      "published_display": "24.09.2026 · 07:00 Uhr"
     }
   ]
 }
