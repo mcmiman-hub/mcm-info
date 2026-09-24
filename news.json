@@ -1,7 +1,39 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-24T17:43:10.108855+00:00",
+  "updated": "2026-09-24T17:54:33.434580+00:00",
   "items": [
+    {
+      "title": "Axel Springer: Hunderte demonstrieren gegen Preisverleihung an Peter Thiel",
+      "summary": "Der umstrittene US-Investor Thiel wird mit dem Axel Springer Award ausgezeichnet. Vor dem Sitz des Verlags in Berlin kam es zu Protesten.",
+      "image": "https://img.zeit.de/gesellschaft/2026-09/axel-springer-award-peter-thiel-protest-palantir-foto-1/original__640x360",
+      "link": "https://www.zeit.de/gesellschaft/2026-09/axel-springer-award-peter-thiel-protest-palantir",
+      "published": "Thu, 24 Sep 2026 17:48:34 -0000",
+      "published_display": "24.09.2026 · 17:48 Uhr"
+    },
+    {
+      "title": "Frankreich: Schauspielerin Marina Vlady mit 88 Jahren gestorben",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/schauspielerin-marina-vlady-mit-88-jahren-gestorben-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/schauspielerin-marina-vlady-mit-88-jahren-gestorben",
+      "published": "Thu, 24 Sep 2026 17:45:50 -0000",
+      "published_display": "24.09.2026 · 17:45 Uhr"
+    },
+    {
+      "title": "Telekommunikation: Störung der Notruf-Bandansage in Hamburg ist beendet",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/stoerung-der-notruf-bandansage-in-hamburg-ist-beendet-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/stoerung-der-notruf-bandansage-in-hamburg-ist-beendet",
+      "published": "Thu, 24 Sep 2026 17:45:05 -0000",
+      "published_display": "24.09.2026 · 17:45 Uhr"
+    },
+    {
+      "title": "Nach den Landtagswahlen: Thüringens CDU-Regierungschef fordert Kursänderung im Bund",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/thueringens-cdu-regierungschef-fordert-kursaenderung-im-bund-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/thueringens-cdu-regierungschef-fordert-kursaenderung-im-bund",
+      "published": "Thu, 24 Sep 2026 17:42:38 -0000",
+      "published_display": "24.09.2026 · 17:42 Uhr"
+    },
     {
       "title": "Gipfeltreffen in den USA: Xi Jinping und Donald Trump beschwören Freundschaft und Zusammenarbeit",
       "summary": "Der chinesische Staatschef hat den Willen Chinas betont, trotz Rivalität mit den USA zusammenzuarbeiten. Donald Trump kündigte Gespräche über Sicherheit und KI an.",
@@ -89,38 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/24/150-juedische-berliner-nehmen-linke-in-schutz",
       "published": "Thu, 24 Sep 2026 16:58:16 -0000",
       "published_display": "24.09.2026 · 16:58 Uhr"
-    },
-    {
-      "title": "Gaza: Mahmud Abbas prangert »Siedlerterrorismus« im Westjordanland an",
-      "summary": "Der palästinensische Präsident kritisiert vor der UN die Ausweitung israelischer Siedlungen. Im Westjordanland zerstört Israels Militär Olivenbäume. Das Liveblog",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/nahostkonflikt-westjordanland-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2025-10/krieg-gaza-israel-hamas-liveblog",
-      "published": "Thu, 24 Sep 2026 16:57:37 -0000",
-      "published_display": "24.09.2026 · 16:57 Uhr"
-    },
-    {
-      "title": "Einstweilige Verfügung: CNN, «Politico» und MS NOW: Reporter wieder im Weißen Haus",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/trump-muss-verbannte-us-medien-wieder-ins-weisse-haus-lassen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/trump-muss-verbannte-us-medien-wieder-ins-weisse-haus-lassen",
-      "published": "Thu, 24 Sep 2026 16:52:29 -0000",
-      "published_display": "24.09.2026 · 16:52 Uhr"
-    },
-    {
-      "title": "Debatte um Antisemitismus: Wolfram Weimer stellt Kulturfinanzierung für Berlin infrage",
-      "summary": "Im kommenden Jahrzehnt soll Berlin vom Bund fast drei Milliarden Euro für Kultur erhalten. Staatsminister Weimer knüpft das nach dem Wahlsieg der Linken an Bedingungen.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/wolfram-weimer-kulturstaatsminister-berliner-kulturfoerderung-antisemitismus-linke-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/wolfram-weimer-kulturstaatsminister-berliner-kulturfoerderung-antisemitismus-linke",
-      "published": "Thu, 24 Sep 2026 16:46:30 -0000",
-      "published_display": "24.09.2026 · 16:46 Uhr"
-    },
-    {
-      "title": "Nach der Wahl in Berlin: Berliner CDU-Fraktion wählt Evers an die Spitze",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/berliner-cdu-fraktion-waehlt-evers-an-die-spitze-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/berliner-cdu-fraktion-waehlt-evers-an-die-spitze",
-      "published": "Thu, 24 Sep 2026 16:41:22 -0000",
-      "published_display": "24.09.2026 · 16:41 Uhr"
     }
   ]
 }
