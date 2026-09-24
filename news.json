@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-24T00:58:23.876717+00:00",
+  "updated": "2026-09-24T01:16:42.593984+00:00",
   "items": [
+    {
+      "title": "Ankündigung vom HVV: Fahrkartenkontrolle in Hamburg und im Umland",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/fahrkartenkontrolle-in-hamburg-und-im-umland-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/fahrkartenkontrolle-in-hamburg-und-im-umland",
+      "published": "Thu, 24 Sep 2026 01:00:06 -0000",
+      "published_display": "24.09.2026 · 01:00 Uhr"
+    },
+    {
+      "title": "Handelskonflikt: US-Regierung: Zusatzzölle gegen China erneut aufgeschoben",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/us-regierung-zusatzzoelle-gegen-china-erneut-aufgeschoben-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/us-regierung-zusatzzoelle-gegen-china-erneut-aufgeschoben",
+      "published": "Thu, 24 Sep 2026 00:56:10 -0000",
+      "published_display": "24.09.2026 · 00:56 Uhr"
+    },
     {
       "title": "Facebook-Konzern: Meta bringt KI-Brille mit Display auch nach Deutschland",
       "summary": "",
@@ -49,14 +65,6 @@
       "link": "https://www.zeit.de/digital/2026-09/openai-australien-ki-agent-cybersicherheit-sam-altman",
       "published": "Wed, 23 Sep 2026 23:55:03 -0000",
       "published_display": "23.09.2026 · 23:55 Uhr"
-    },
-    {
-      "title": "Handelskonflikt: US-Regierung: Zusatzzölle gegen China erneut aufgeschoben",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/us-regierung-zusatzzoelle-gegen-china-erneut-aufgeschoben-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/us-regierung-zusatzzoelle-gegen-china-erneut-aufgeschoben",
-      "published": "Wed, 23 Sep 2026 23:51:45 -0000",
-      "published_display": "23.09.2026 · 23:51 Uhr"
     },
     {
       "title": "Ukrainekrieg: Wadephul wirft Russland »hybride Angriffe« auf Europa vor",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/politik/ausland/2026-09/g20-gipfel-miami-usa-wladimir-putin",
       "published": "Wed, 23 Sep 2026 22:20:33 -0000",
       "published_display": "23.09.2026 · 22:20 Uhr"
-    },
-    {
-      "title": "Energiepolitik: Italien verabschiedet Gesetz für Rückkehr zur Atomkraft",
-      "summary": "Knapp 40 Jahre nach dem Ausstieg ebnet der italienische Senat die Rückkehr zur Atomenergie. Der Bau neuer Reaktoren liegt allerdings noch in weiter Ferne.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/atomkraft-italien-gesetz-giorgia-meloni-energiemix-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/atomkraft-italien-gesetz-giorgia-meloni-energiemix",
-      "published": "Wed, 23 Sep 2026 22:10:56 -0000",
-      "published_display": "23.09.2026 · 22:10 Uhr"
     }
   ]
 }
