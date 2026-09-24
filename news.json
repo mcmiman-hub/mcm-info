@@ -1,7 +1,71 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-24T16:56:40.392224+00:00",
+  "updated": "2026-09-24T17:16:32.263913+00:00",
   "items": [
+    {
+      "title": "«Made in Europe»?: Deutschland und Frankreich ringen um EU-Industrieförderung",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/deutschland-und-frankreich-ringen-um-eu-industriefoerderung-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/deutschland-und-frankreich-ringen-um-eu-industriefoerderung",
+      "published": "Thu, 24 Sep 2026 17:07:40 -0000",
+      "published_display": "24.09.2026 · 17:07 Uhr"
+    },
+    {
+      "title": "Gipfeltreffen in den USA: Xi Jinping und Donald Trump beschwören Freundschaft und Zusammenarbeit",
+      "summary": "Bei seinem Staatsbesuch in den USA hat Chinas Staatschef Xi den Willen zur Zusammenarbeit beider Länder betont. Donald Trump sprach von einer »großartigen Freundschaft«.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/donald-trump-xi-jinping-usa-china-treffen-kooperation-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/donald-trump-xi-jinping-usa-china-treffen-kooperation",
+      "published": "Thu, 24 Sep 2026 17:06:28 -0000",
+      "published_display": "24.09.2026 · 17:06 Uhr"
+    },
+    {
+      "title": "Verkehr: Feuerwehr löscht brennenden Linienbus",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/feuerwehr-loescht-brennenden-linienbus-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/feuerwehr-loescht-brennenden-linienbus",
+      "published": "Thu, 24 Sep 2026 17:04:43 -0000",
+      "published_display": "24.09.2026 · 17:04 Uhr"
+    },
+    {
+      "title": "Fotografie: Bilder des Tages",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/bilder-des-tages-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/bilder-des-tages",
+      "published": "Thu, 24 Sep 2026 17:01:10 -0000",
+      "published_display": "24.09.2026 · 17:01 Uhr"
+    },
+    {
+      "title": "Mutterschaft: »Wer teilen will, muss den Vater auch machen lassen«",
+      "summary": "Franca Lehfeldt bekam vergangenes Jahr ein Kind. Das Muttersein hat ihren Blick auf Deutschland verändert – vor allem, weil sich der Blick auf sie so verändert hat.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/mutterschaft-frauen-familienpolitik-teilzeitmuster-rentenluecke-bild-01/original__640x360",
+      "link": "https://www.zeit.de/2026/41/mutterschaft-frauen-familienpolitik-teilzeitmuster-rentenluecke",
+      "published": "Thu, 24 Sep 2026 17:00:28 -0000",
+      "published_display": "24.09.2026 · 17:00 Uhr"
+    },
+    {
+      "title": "Erster Engländer seit 2001?: «Komplettpaket»: Kane für Tuchel würdiger Ballon-d'Or-Sieger",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/komplettpaket-kane-fuer-tuchel-wuerdiger-ballon-d-or-sieger-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/komplettpaket-kane-fuer-tuchel-wuerdiger-ballon-d-or-sieger",
+      "published": "Thu, 24 Sep 2026 16:58:18 -0000",
+      "published_display": "24.09.2026 · 16:58 Uhr"
+    },
+    {
+      "title": "Antisemitismusvorwurf: 150 jüdische Berliner nehmen Linke in Schutz",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/150-juedische-berliner-nehmen-linke-in-schutz-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/150-juedische-berliner-nehmen-linke-in-schutz",
+      "published": "Thu, 24 Sep 2026 16:58:16 -0000",
+      "published_display": "24.09.2026 · 16:58 Uhr"
+    },
+    {
+      "title": "Gaza: Mahmud Abbas prangert »Siedlerterrorismus« im Westjordanland an",
+      "summary": "Der palästinensische Präsident kritisiert vor der UN die Ausweitung israelischer Siedlungen. Im Westjordanland zerstört Israels Militär Olivenbäume. Das Liveblog",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/nahostkonflikt-westjordanland-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2025-10/krieg-gaza-israel-hamas-liveblog",
+      "published": "Thu, 24 Sep 2026 16:57:37 -0000",
+      "published_display": "24.09.2026 · 16:57 Uhr"
+    },
     {
       "title": "Einstweilige Verfügung: CNN, «Politico» und MS NOW: Reporter wieder im Weißen Haus",
       "summary": "",
@@ -9,14 +73,6 @@
       "link": "https://www.zeit.de/news/2026-09/24/trump-muss-verbannte-us-medien-wieder-ins-weisse-haus-lassen",
       "published": "Thu, 24 Sep 2026 16:52:29 -0000",
       "published_display": "24.09.2026 · 16:52 Uhr"
-    },
-    {
-      "title": "Gaza: Mahmud Abbas prangert »Siedlerterrorismus« im Westjordanland an",
-      "summary": "Der palästinensische Präsident kritisiert vor der UN die Ausweitung israelischer Siedlungen. Im Westjordanland zerstört Israels Militär Olivenbäume. Das Liveblog",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/nahostkonflikt-westjordanland-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2025-10/krieg-gaza-israel-hamas-liveblog",
-      "published": "Thu, 24 Sep 2026 16:47:49 -0000",
-      "published_display": "24.09.2026 · 16:47 Uhr"
     },
     {
       "title": "Debatte um Antisemitismus: Wolfram Weimer stellt Kulturfinanzierung für Berlin infrage",
@@ -65,62 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/24/managerin-an-techbosse-macht-die-blackbox-ki-auf",
       "published": "Thu, 24 Sep 2026 16:26:03 -0000",
       "published_display": "24.09.2026 · 16:26 Uhr"
-    },
-    {
-      "title": "Alkohol: Rheinland-Pfalz macht sich für kleine Brennereien stark",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/rheinland-pfalz-macht-sich-fuer-kleine-brennereien-stark-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/rheinland-pfalz-macht-sich-fuer-kleine-brennereien-stark",
-      "published": "Thu, 24 Sep 2026 16:24:01 -0000",
-      "published_display": "24.09.2026 · 16:24 Uhr"
-    },
-    {
-      "title": "Formel 1: Audis Formel-1-Chef bestätigt: Mit Hülkenberg auch 2027",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/audis-formel-1-chef-bestaetigt-mit-huelkenberg-auch-2027-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/audis-formel-1-chef-bestaetigt-mit-huelkenberg-auch-2027",
-      "published": "Thu, 24 Sep 2026 16:13:45 -0000",
-      "published_display": "24.09.2026 · 16:13 Uhr"
-    },
-    {
-      "title": "Landgericht Frankfurt: Prozess gegen Narkosearzt - lebenslange Strafe gefordert",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/prozess-gegen-narkosearzt-lebenslange-strafe-gefordert-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/prozess-gegen-narkosearzt-lebenslange-strafe-gefordert",
-      "published": "Thu, 24 Sep 2026 16:12:29 -0000",
-      "published_display": "24.09.2026 · 16:12 Uhr"
-    },
-    {
-      "title": "Verbotenes Autorennen: Prozess um tödlichen Unfall: Gericht mildert Strafe ab",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/prozess-um-toedlichen-unfall-gericht-mildert-strafe-ab-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/prozess-um-toedlichen-unfall-gericht-mildert-strafe-ab",
-      "published": "Thu, 24 Sep 2026 16:08:40 -0000",
-      "published_display": "24.09.2026 · 16:08 Uhr"
-    },
-    {
-      "title": "Urteil um versuchten Mord: Gericht spricht Mutter vom Vorwurf der Babyvergiftung frei",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/gericht-spricht-mutter-vom-vorwurf-der-babyvergiftung-frei-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/gericht-spricht-mutter-vom-vorwurf-der-babyvergiftung-frei",
-      "published": "Thu, 24 Sep 2026 16:06:57 -0000",
-      "published_display": "24.09.2026 · 16:06 Uhr"
-    },
-    {
-      "title": "Bundeswehr: «Red Storm Charlie» – Bundeswehrübung in Hamburg gestartet",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/red-storm-charlie-bundeswehruebung-in-hamburg-gestartet-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/red-storm-charlie-bundeswehruebung-in-hamburg-gestartet",
-      "published": "Thu, 24 Sep 2026 16:02:10 -0000",
-      "published_display": "24.09.2026 · 16:02 Uhr"
-    },
-    {
-      "title": "Verkehr: VBB erhöht Ticketpreise - Berlin AB bleibt bei 4,00 Euro",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/vbb-erhoeht-ticketpreise-berlin-ab-bleibt-bei-4-00-euro-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/vbb-erhoeht-ticketpreise-berlin-ab-bleibt-bei-4-00-euro",
-      "published": "Thu, 24 Sep 2026 15:59:37 -0000",
-      "published_display": "24.09.2026 · 15:59 Uhr"
     }
   ]
 }
