@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-24T22:30:06.528491+00:00",
+  "updated": "2026-09-24T22:42:20.964516+00:00",
   "items": [
+    {
+      "title": "Schulen in Italien: Italien führt Burkaverbot und Obergrenze ausländischer Schüler ein",
+      "summary": "Burkas und Nikabs sind an Schulen in Italien künftig nicht mehr erlaubt. Nicht mehr als 30 Prozent der Schüler einer Klasse dürfen mangelnde Sprachkenntnisse haben.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/italiens-ministerpraesidentin-giorgia-meloni-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/burka-nikab-verbot-italien-schule-giorgia-meloni",
+      "published": "Thu, 24 Sep 2026 22:30:22 -0000",
+      "published_display": "24.09.2026 · 22:30 Uhr"
+    },
     {
       "title": "Fußball-Nationalmannschaft: Spiel wie «ein Boxkampf»: Pressestimmen zum Klopp-Debüt",
       "summary": "",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/politik/deutschland/2026-09/stolpersteine-heidenau-cdu-afd-buendnis-oberelbe",
       "published": "Thu, 24 Sep 2026 19:39:30 -0000",
       "published_display": "24.09.2026 · 19:39 Uhr"
-    },
-    {
-      "title": "Durchsuchungsbeschluss: Bauarbeiter mit Urin übergossen - Großeinsatz der Polizei",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/grosseinsatz-der-polizei-in-berlin-nach-gewaltstraftaten-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/grosseinsatz-der-polizei-in-berlin-nach-gewaltstraftaten",
-      "published": "Thu, 24 Sep 2026 19:34:25 -0000",
-      "published_display": "24.09.2026 · 19:34 Uhr"
     }
   ]
 }
