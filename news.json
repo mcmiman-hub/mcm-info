@@ -1,7 +1,39 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-24T16:33:10.199449+00:00",
+  "updated": "2026-09-24T16:45:38.838368+00:00",
   "items": [
+    {
+      "title": "Nach der Wahl in Berlin: Berliner CDU-Fraktion wählt Evers an die Spitze",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/berliner-cdu-fraktion-waehlt-evers-an-die-spitze-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/berliner-cdu-fraktion-waehlt-evers-an-die-spitze",
+      "published": "Thu, 24 Sep 2026 16:41:22 -0000",
+      "published_display": "24.09.2026 · 16:41 Uhr"
+    },
+    {
+      "title": "Ministerpräsidentenkonferenz: Vorsitz der Ministerpräsidentenkonferenz geht nicht an Sachsen-Anhalt",
+      "summary": "Ab Oktober sollte Sachsen-Anhalt den Vorsitz in der MPK übernehmen. Nach dem dortigen AfD-Sieg behält Rheinland-Pfalz das Amt für ein weiteres Jahr.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/ministerpraesidentenkonferenz-vorsitz-rheinland-pfalz-sachsen-anhalt-malu-dreyer-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/ministerpraesidentenkonferenz-vorsitz-rheinland-pfalz-sachsen-anhalt-malu-dreyer",
+      "published": "Thu, 24 Sep 2026 16:37:37 -0000",
+      "published_display": "24.09.2026 · 16:37 Uhr"
+    },
+    {
+      "title": "Nach Landtagswahl: Ministerinnen und Staatskanzlei-Chef verzichten auf Posten",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/martin-verzichtet-auf-ministeramt-in-neuer-regierung-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/martin-verzichtet-auf-ministeramt-in-neuer-regierung",
+      "published": "Thu, 24 Sep 2026 16:36:42 -0000",
+      "published_display": "24.09.2026 · 16:36 Uhr"
+    },
+    {
+      "title": "Koordinierungsgremium: Statt Sachsen-Anhalt: Rheinland-Pfalz weiter an MPK-Spitze",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/statt-sachsen-anhalt-rheinland-pfalz-weiter-an-mpk-spitze-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/statt-sachsen-anhalt-rheinland-pfalz-weiter-an-mpk-spitze",
+      "published": "Thu, 24 Sep 2026 16:33:25 -0000",
+      "published_display": "24.09.2026 · 16:33 Uhr"
+    },
     {
       "title": "Künstliche Intelligenz: Experten fordern Kurswechsel von KI-Konzernen",
       "summary": "",
@@ -17,14 +49,6 @@
       "link": "https://www.zeit.de/news/2026-09/24/rheinland-pfalz-macht-sich-fuer-kleine-brennereien-stark",
       "published": "Thu, 24 Sep 2026 16:24:01 -0000",
       "published_display": "24.09.2026 · 16:24 Uhr"
-    },
-    {
-      "title": "Bundesländer: Statt Sachsen-Anhalt: Rheinland-Pfalz weiter an MPK-Spitze",
-      "summary": "",
-      "image": "https://img.zeit.de/administratives/sharing/fallback-image-die-zeit/wide__1300x731",
-      "link": "https://www.zeit.de/news/2026-09/24/statt-sachsen-anhalt-rheinland-pfalz-weiter-an-mpk-spitze",
-      "published": "Thu, 24 Sep 2026 16:22:28 -0000",
-      "published_display": "24.09.2026 · 16:22 Uhr"
     },
     {
       "title": "Formel 1: Audis Formel-1-Chef bestätigt: Mit Hülkenberg auch 2027",
@@ -83,7 +107,7 @@
       "published_display": "24.09.2026 · 15:59 Uhr"
     },
     {
-      "title": "Insolvenzbetrug: Verurteilung von René Benko zu 30 Monate Haft ist rechtskräftig",
+      "title": "Insolvenzbetrug: Verurteilung von René Benko zu 30 Monaten Haft ist rechtskräftig",
       "summary": "Um Vermögensteile vor der Insolvenz zu schützen, hat der Investor René Benko sie unrechtmäßig beiseitegeschafft. Eine Verurteilung deswegen ist nun rechtskräftig.",
       "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-09/rene-benko-urteil-insolvenzbetrug-signa-haft-oesterreich-foto-1/original__640x360",
       "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-09/rene-benko-urteil-insolvenzbetrug-signa-haft-oesterreich",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/24/tierschutz-verstoss-auf-pferdemarkt-amt-leitet-verfahren-ein",
       "published": "Thu, 24 Sep 2026 15:56:11 -0000",
       "published_display": "24.09.2026 · 15:56 Uhr"
-    },
-    {
-      "title": "Debatte um Antisemitismus: Wolfram Weimer stellt Kulturfinanzierung für Berlin infrage",
-      "summary": "Im kommenden Jahrzehnt soll Berlin vom Bund fast drei Milliarden Euro für Kultur erhalten. Staatsminister Weimer knüpft das nach dem Wahlsieg der Linken an Bedingungen.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/wolfram-weimer-kulturstaatsminister-berliner-kulturfoerderung-antisemitismus-linke-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/wolfram-weimer-kulturstaatsminister-berliner-kulturfoerderung-antisemitismus-linke",
-      "published": "Thu, 24 Sep 2026 15:55:16 -0000",
-      "published_display": "24.09.2026 · 15:55 Uhr"
-    },
-    {
-      "title": "Wolfsnachwuchs: Neues Wolfsrudel im Südwesten - Welpe tappt in Fotofalle",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/neues-wolfsrudel-im-suedwesten-welpe-gesichtet-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/neues-wolfsrudel-im-suedwesten-welpe-gesichtet",
-      "published": "Thu, 24 Sep 2026 15:55:11 -0000",
-      "published_display": "24.09.2026 · 15:55 Uhr"
-    },
-    {
-      "title": "Kommunikation in der Beziehung: »Meine Frau ist wie ein Terrier. Die beißt sich fest«",
-      "summary": "Mia fühlt sich allein in der Beziehung und bei der Kinderbetreuung, ihr Mann André sagt immer nur Ja. Erst als sie fremdgeht, wacht er auf – und spricht aus, was er will.",
-      "image": "https://img.zeit.de/zeit-magazin/2026-09/wie-haben-sie-das-geschafft-mutter-depressiv-kinder-bild/original__640x360",
-      "link": "https://www.zeit.de/zeit-magazin/leben/2026-09/kommunikation-beziehung-affaere-arbeitsteilung-kinder",
-      "published": "Thu, 24 Sep 2026 15:51:32 -0000",
-      "published_display": "24.09.2026 · 15:51 Uhr"
     }
   ]
 }
