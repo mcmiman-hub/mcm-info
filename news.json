@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-24T05:29:22.331359+00:00",
+  "updated": "2026-09-24T05:44:00.415078+00:00",
   "items": [
+    {
+      "title": "Autoindustrie: Marktanteil chinesischer Automarken in EU wächst",
+      "summary": "Mehr als 10 Prozent des EU-Automarkts machen mittlerweile chinesische Firmen aus. Von Januar bis August lieferten Hersteller wie BYD zwei Drittel mehr als 2025.",
+      "image": "https://img.zeit.de/wirtschaft/2026-09/chinesische-autohersteller-europa-marktanteil-byd-geely-saic-foto-1/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/2026-09/chinesische-autohersteller-europa-marktanteil-byd-geely-saic",
+      "published": "Thu, 24 Sep 2026 05:42:18 -0000",
+      "published_display": "24.09.2026 · 05:42 Uhr"
+    },
+    {
+      "title": "Wetter: Wetter bleibt wechselhaft – bis zu 22 Grad am Wochenende",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/wetter-bleibt-wechselhaft-bis-zu-22-grad-am-wochenende-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/wetter-bleibt-wechselhaft-bis-zu-22-grad-am-wochenende",
+      "published": "Thu, 24 Sep 2026 05:38:37 -0000",
+      "published_display": "24.09.2026 · 05:38 Uhr"
+    },
+    {
+      "title": "Fußball-Nationalmannschaft: Kerner über Klopp: «Ein Ja-Typ in dieser Nein-Zeit»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/kerner-ueber-klopp-ein-ja-typ-in-dieser-nein-zeit-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/kerner-ueber-klopp-ein-ja-typ-in-dieser-nein-zeit",
+      "published": "Thu, 24 Sep 2026 05:30:05 -0000",
+      "published_display": "24.09.2026 · 05:30 Uhr"
+    },
     {
       "title": "Unfall: Eichel überfahren und gestürzt - Radfahrerin schwer verletzt",
       "summary": "",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/24/sturmboeen-an-der-nordseekueste-wetter-bleibt-wechselhaft",
       "published": "Thu, 24 Sep 2026 04:44:29 -0000",
       "published_display": "24.09.2026 · 04:44 Uhr"
-    },
-    {
-      "title": "Demenz: Er sagte: Jetzt mach ich mir noch fünf schöne Jahre",
-      "summary": "Wie fühlt es sich an, die Diagnose Demenz zu erhalten? Durch einen Schnelltest kann man eine Ahnung davon bekommen. Und auch mit der Diagnose noch gut leben.",
-      "image": "https://img.zeit.de/familie/2026-09/demenz-alzheimer-diagnose-gedaechtnis-bild-05/original__640x360",
-      "link": "https://www.zeit.de/familie/2026-09/demenz-alzheimer-diagnose-gedaechtnis-familie",
-      "published": "Thu, 24 Sep 2026 04:34:28 -0000",
-      "published_display": "24.09.2026 · 04:34 Uhr"
-    },
-    {
-      "title": "Harte Schale, gesunder Kern: Supernuss Macadamia: Eine Australierin zum Anbeißen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/supernuss-macadamia-eine-australierin-zum-anbeissen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/supernuss-macadamia-eine-australierin-zum-anbeissen",
-      "published": "Thu, 24 Sep 2026 04:30:08 -0000",
-      "published_display": "24.09.2026 · 04:30 Uhr"
-    },
-    {
-      "title": "Auszeichnung: «Blauer Panther»: Wer wird «Beste Schauspielerin»?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/blauer-panther-wer-wird-beste-schauspielerin-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/blauer-panther-wer-wird-beste-schauspielerin",
-      "published": "Thu, 24 Sep 2026 04:23:08 -0000",
-      "published_display": "24.09.2026 · 04:23 Uhr"
     }
   ]
 }
