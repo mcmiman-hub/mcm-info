@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-24T21:28:37.510558+00:00",
+  "updated": "2026-09-24T21:42:33.366846+00:00",
   "items": [
+    {
+      "title": "Axel Springer Award: Thiel attackiert Medien als »linke Hassfabrik« und lobt Axel Springer",
+      "summary": "Bei der Verleihung des Axel Springer Awards bezeichnet der Tech-Milliardär Peter Thiel die Medienlandschaft als »einseitig«. Der Springer-Konzern sei eine »Gegenstimme«.",
+      "image": "https://img.zeit.de/gesellschaft/2026-09/axel-springer-award-peter-thiel-berlin-foto-1/original__640x360",
+      "link": "https://www.zeit.de/gesellschaft/2026-09/axel-springer-award-peter-thiel-berlin",
+      "published": "Thu, 24 Sep 2026 21:37:24 -0000",
+      "published_display": "24.09.2026 · 21:37 Uhr"
+    },
     {
       "title": "Evakuierung: Gasleck in Greiz - Wohngebiet weiträumig abgesperrt",
       "summary": "",
@@ -28,7 +36,7 @@
     },
     {
       "title": "Nations League, 1. Spieltag: Deutschland spielt im ersten Spiel unter Jürgen Klopp unentschieden",
-      "summary": "Deutschland konnte beim Debüt von Bundestrainer Jürgen Klopp nicht gewinnen. Die Niederländer glichen kurz vor Spielende durch Cody Gakpo aus. Der Spielbericht",
+      "summary": "Das DFB-Team konnte beim Debüt von Bundestrainer Jürgen Klopp nicht gewinnen. Die Niederländer glichen kurz vor Spielende durch Cody Gakpo aus. Der Spielbericht",
       "image": "https://img.zeit.de/sport/2026-09/nations-league-bild/original__640x360",
       "link": "https://www.zeit.de/sport/2026-09/nations-league-deutschland-niederlande-fussball",
       "published": "Thu, 24 Sep 2026 20:56:12 -0000",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/24/berliner-spd-fraktion-soll-eine-doppelspitze-bekommen",
       "published": "Thu, 24 Sep 2026 19:09:27 -0000",
       "published_display": "24.09.2026 · 19:09 Uhr"
-    },
-    {
-      "title": "Basketball: Rostocker geben Sieg in letzter Minute aus der Hand",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/rostocker-geben-sieg-in-letzter-minute-aus-der-hand-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/rostocker-geben-sieg-in-letzter-minute-aus-der-hand",
-      "published": "Thu, 24 Sep 2026 18:58:08 -0000",
-      "published_display": "24.09.2026 · 18:58 Uhr"
     }
   ]
 }
