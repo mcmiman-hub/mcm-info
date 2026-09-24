@@ -1,7 +1,47 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-23T23:53:59.442903+00:00",
+  "updated": "2026-09-24T00:24:09.021280+00:00",
   "items": [
+    {
+      "title": "Krieg gegen die Ukraine: Russland beschießt Kiew mit ballistischen Raketen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/russland-beschiesst-kiew-mit-ballistischen-raketen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/russland-beschiesst-kiew-mit-ballistischen-raketen",
+      "published": "Thu, 24 Sep 2026 00:20:53 -0000",
+      "published_display": "24.09.2026 · 00:20 Uhr"
+    },
+    {
+      "title": "Staatsbesuch: Chinas Präsident Xi zu Staatsbesuch in den USA angekommen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/chinas-praesident-xi-zu-staatsbesuch-in-den-usa-angekommen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/chinas-praesident-xi-zu-staatsbesuch-in-den-usa-angekommen",
+      "published": "Thu, 24 Sep 2026 00:00:54 -0000",
+      "published_display": "24.09.2026 · 00:00 Uhr"
+    },
+    {
+      "title": "Wandern: Deutscher Wandertag lädt zu grenzüberschreitenden Touren",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/deutscher-wandertag-laedt-zu-grenzueberschreitenden-touren-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/deutscher-wandertag-laedt-zu-grenzueberschreitenden-touren",
+      "published": "Thu, 24 Sep 2026 00:00:04 -0000",
+      "published_display": "24.09.2026 · 00:00 Uhr"
+    },
+    {
+      "title": "Krieg gegen die Ukraine: Ukraine meldet einen Toten nach Angriffen auf Kyjiw",
+      "summary": "In der ukrainischen Hauptstadt ist bei russischen Angriffen ein Mensch gestorben. Wladimir Putin zeigt sich offen für eine Teilnahme am G20-Gipfel in Miami. Das Liveblog",
+      "image": "https://img.zeit.de/politik/ausland/ukraine-krieg-news-liveblog-kyjiw-angriff/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "published": "Wed, 23 Sep 2026 23:59:25 -0000",
+      "published_display": "23.09.2026 · 23:59 Uhr"
+    },
+    {
+      "title": "OpenAI: Australien meldet KI-Hack in regierungseigene Datenbank",
+      "summary": "Ein KI-Agent von OpenAI ist in eine australische Behördenseite eingedrungen und hat auf nicht öffentlichte Daten zugegriffen. Australien untersucht den Vorfall.",
+      "image": "https://img.zeit.de/digital/2026-09/2026-09-22t220908z-2013275046-mt1aap000edk8kq-rtrmadp-3-anthony-albanese-united-states-visit-bild/original__640x360",
+      "link": "https://www.zeit.de/digital/2026-09/openai-australien-ki-agent-cybersicherheit-sam-altman",
+      "published": "Wed, 23 Sep 2026 23:55:03 -0000",
+      "published_display": "23.09.2026 · 23:55 Uhr"
+    },
     {
       "title": "Handelskonflikt: US-Regierung: Zusatzzölle gegen China erneut aufgeschoben",
       "summary": "",
@@ -19,28 +59,12 @@
       "published_display": "23.09.2026 · 23:41 Uhr"
     },
     {
-      "title": "Krieg gegen die Ukraine: Russland beschießt Kiew mit ballistischen Raketen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/russland-beschiesst-kiew-mit-ballistischen-raketen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/russland-beschiesst-kiew-mit-ballistischen-raketen",
-      "published": "Wed, 23 Sep 2026 23:39:48 -0000",
-      "published_display": "23.09.2026 · 23:39 Uhr"
-    },
-    {
       "title": "Amira Mohamed Ali: BSW-Vorsitzende dementiert Abmachung mit AfD über Landtagspräsidium",
       "summary": "Das BSW will laut Mohamed Ali keinen Landtagsvizepräsidenten in Sachsen-Anhalt aufstellen. Einen AfD-Landtagspräsidenten will die Partei wohl trotzdem unterstützen.",
       "image": "https://img.zeit.de/politik/deutschland/2026-09/landtagswahl-mecklenburg-vorpommern-wahlparty-bsw-bild/original__640x360",
       "link": "https://www.zeit.de/politik/deutschland/2026-09/amira-mohamed-ali-bsw-afd-sachsen-anhalt-landtag",
       "published": "Wed, 23 Sep 2026 23:19:50 -0000",
       "published_display": "23.09.2026 · 23:19 Uhr"
-    },
-    {
-      "title": "Krieg gegen die Ukraine: Russlands Außenminister Lawrow lehnt Feuerpause in der Ukraine ab",
-      "summary": "Russland hat Forderungen, seine Angriffe auf die Ukraine zu pausieren, zurückgewiesen. Wladimir Putin zeigt sich offen für Teilnahme am G20-Gipfel in Miami. Das Liveblog",
-      "image": "https://img.zeit.de/politik/2026-09/sergej-lawrow-russland-ukraine-krieg/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "published": "Wed, 23 Sep 2026 23:01:55 -0000",
-      "published_display": "23.09.2026 · 23:01 Uhr"
     },
     {
       "title": "Krasnojarsk: Tödliche Bärenangriffe in Russland - Ermittler schreiten ein",
@@ -51,8 +75,8 @@
       "published_display": "23.09.2026 · 23:00 Uhr"
     },
     {
-      "title": "USA und China: Donald Trump empfängt Xi Jinping zu Staatsbesuch",
-      "summary": "Der US-Präsident hat den chinesischen Staatschef auf dem Rollfeld eines Militärstützpunkts empfangen. Es ist der erste Besuch von Xi in den USA seit über einem Jahrzehnt.",
+      "title": "USA und China: Xi Jinping strebt Partnerschaft mit USA an",
+      "summary": "Chinas Staatschef will die Rivalität zwischen seinem Land und den USA beenden. Die US-Regierung kündigt zum Staatsbesuch von Xi einen Aufschub ihrer Zusatzzölle an.",
       "image": "https://img.zeit.de/politik/ausland/2026-09/xi-jinping-washington-dc-staatsbesuch-donald-trump-china-foto-1/original__640x360",
       "link": "https://www.zeit.de/politik/ausland/2026-09/xi-jinping-washington-dc-staatsbesuch-donald-trump-china",
       "published": "Wed, 23 Sep 2026 22:47:45 -0000",
@@ -75,20 +99,12 @@
       "published_display": "23.09.2026 · 22:25 Uhr"
     },
     {
-      "title": "G20-Gipfel in Miami: Marco Rubio hofft auf Putins Teilnahme beim G20-Gipfel in Miami",
+      "title": "G20-Gipfel in Miami: Marco Rubio hofft auf Putins Teilnahme am G20-Gipfel in Miami",
       "summary": "Im Dezember will Donald Trump den nächsten G20-Gipfel in seinem Golfklub in Florida abhalten. Unter den Gästen könnte auch Wladimir Putin sein – darauf hofft Marco Rubio.",
       "image": "https://img.zeit.de/politik/ausland/2026-09/g20-gipfel-miami-usa-wladimir-putin-foto-1/original__640x360",
       "link": "https://www.zeit.de/politik/ausland/2026-09/g20-gipfel-miami-usa-wladimir-putin",
       "published": "Wed, 23 Sep 2026 22:20:33 -0000",
       "published_display": "23.09.2026 · 22:20 Uhr"
-    },
-    {
-      "title": "Staatsbesuch: Chinas Präsident Xi zu Staatsbesuch in den USA angekommen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/chinas-praesident-xi-zu-staatsbesuch-in-den-usa-angekommen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/chinas-praesident-xi-zu-staatsbesuch-in-den-usa-angekommen",
-      "published": "Wed, 23 Sep 2026 22:17:31 -0000",
-      "published_display": "23.09.2026 · 22:17 Uhr"
     },
     {
       "title": "Energiepolitik: Italien verabschiedet Gesetz für Rückkehr zur Atomkraft",
@@ -100,27 +116,11 @@
     },
     {
       "title": "Parlamentswahl in Israel: Israels Wahlkommission will arabische Parteien ausschließen",
-      "summary": "Vor der Parlamentswahl versucht die Wahlkommission in Israel, Parteien der arabischen Minderheit auszuschließen. Das Oberste Gericht kassierte solche Versuche bisher.",
+      "summary": "Vor der Parlamentswahl versucht die Wahlkommission in Israel, Parteien der arabischen Minderheit auszuschließen. Das oberste Gericht kassierte solche Versuche bisher.",
       "image": "https://img.zeit.de/politik/ausland/2026-09/unionsfraktionschef-spahn-reist-nach-israel-bild/original__640x360",
       "link": "https://www.zeit.de/politik/ausland/2026-09/israel-wahl-ausschluss-arabische-parteien-raum-vereinte-liste",
       "published": "Wed, 23 Sep 2026 22:06:21 -0000",
       "published_display": "23.09.2026 · 22:06 Uhr"
-    },
-    {
-      "title": "Kalenderblatt: Was geschah am 24. September?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/23/was-geschah-am-24-september-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/23/was-geschah-am-24-september",
-      "published": "Wed, 23 Sep 2026 21:55:04 -0000",
-      "published_display": "23.09.2026 · 21:55 Uhr"
-    },
-    {
-      "title": "Fußball-Nationalmannschaft: Klopps Adrenalin-Kick gegen Oranje: Kein Titelversprechen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/23/spontaner-klopp-spricht-ueber-euphorie-xavi-und-musiala-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/23/spontaner-klopp-spricht-ueber-euphorie-xavi-und-musiala",
-      "published": "Wed, 23 Sep 2026 21:50:13 -0000",
-      "published_display": "23.09.2026 · 21:50 Uhr"
     }
   ]
 }
