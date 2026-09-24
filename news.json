@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-24T20:56:16.362432+00:00",
+  "updated": "2026-09-24T21:16:58.335128+00:00",
   "items": [
+    {
+      "title": "Bei seiner Buchpremiere: Erster gemeinsamer Auftritt – Riccardo Simonetti mit Ehemann",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/erster-gemeinsamer-auftritt-riccardo-simonetti-mit-ehemann-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/erster-gemeinsamer-auftritt-riccardo-simonetti-mit-ehemann",
+      "published": "Thu, 24 Sep 2026 20:57:27 -0000",
+      "published_display": "24.09.2026 · 20:57 Uhr"
+    },
+    {
+      "title": "Nations League, 1. Spieltag: Deutschland spielt im ersten Spiel unter Jürgen Klopp unentschieden",
+      "summary": "Deutschland konnte beim Debüt von Bundestrainer Jürgen Klopp nicht gewinnen. Die Niederländer glichen kurz vor Spielende durch Cody Gakpo aus. Der Spielbericht",
+      "image": "https://img.zeit.de/sport/2026-09/nations-league-bild/original__640x360",
+      "link": "https://www.zeit.de/sport/2026-09/nations-league-deutschland-niederlande-fussball",
+      "published": "Thu, 24 Sep 2026 20:56:12 -0000",
+      "published_display": "24.09.2026 · 20:56 Uhr"
+    },
     {
       "title": "Fußball-Nationalmannschaft: Wildes Remis bei Klopps erster Bundestrainer-Show",
       "summary": "",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/sport/2026-09/nations-league-uefa-fussball-2026-liveticker",
       "published": "Thu, 24 Sep 2026 18:58:03 -0000",
       "published_display": "24.09.2026 · 18:58 Uhr"
-    },
-    {
-      "title": "Bühnen-Sanierung: Kölner Bühnen nach 14 Jahren Sanierung wiedereröffnet",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/koelner-buehnen-sprechen-bei-problemen-von-kinderkrankheiten-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/koelner-buehnen-sprechen-bei-problemen-von-kinderkrankheiten",
-      "published": "Thu, 24 Sep 2026 18:57:37 -0000",
-      "published_display": "24.09.2026 · 18:57 Uhr"
-    },
-    {
-      "title": "KI-Whistleblower: I want to KI__ you",
-      "summary": "Ist klar, haben wir schon gehört: Künstliche Intelligenz kann die Menschheit erlösen oder auslöschen. Aber eines dämmert uns jetzt erst.",
-      "image": "https://img.zeit.de/2026/41/i-want-to-ki-you-bild-2/original__640x360",
-      "link": "https://www.zeit.de/2026/41/ki-whistleblower-anthropic-openai-ausloeschung-menschheit",
-      "published": "Thu, 24 Sep 2026 18:56:29 -0000",
-      "published_display": "24.09.2026 · 18:56 Uhr"
     }
   ]
 }
