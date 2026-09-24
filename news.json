@@ -1,7 +1,39 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-24T03:17:37.750599+00:00",
+  "updated": "2026-09-24T03:30:50.649605+00:00",
   "items": [
+    {
+      "title": "Schäden an Behelfsbrücke: Nach Brückenschäden: Teilsperrung der A643 aufgehoben",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/nach-brueckenschaeden-teilsperrung-der-a643-aufgehoben-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/nach-brueckenschaeden-teilsperrung-der-a643-aufgehoben",
+      "published": "Thu, 24 Sep 2026 03:25:03 -0000",
+      "published_display": "24.09.2026 · 03:25 Uhr"
+    },
+    {
+      "title": "Künstliche Intelligenz: OpenAI-Agent hackt australisches Regierungsportal",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/openai-agent-hackt-australisches-regierungsportal-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/openai-agent-hackt-australisches-regierungsportal",
+      "published": "Thu, 24 Sep 2026 03:22:32 -0000",
+      "published_display": "24.09.2026 · 03:22 Uhr"
+    },
+    {
+      "title": "Entlastungen: Lies: Übergewinnsteuer notfalls national einführen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/lies-uebergewinnsteuer-notfalls-national-einfuehren-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/lies-uebergewinnsteuer-notfalls-national-einfuehren",
+      "published": "Thu, 24 Sep 2026 03:20:04 -0000",
+      "published_display": "24.09.2026 · 03:20 Uhr"
+    },
+    {
+      "title": "Flughafen BER: Was steckt hinter der Drohnen-Sichtung am Flughafen BER?",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/was-steckt-hinter-der-drohnen-sichtung-am-flughafen-ber-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/was-steckt-hinter-der-drohnen-sichtung-am-flughafen-ber",
+      "published": "Thu, 24 Sep 2026 03:19:57 -0000",
+      "published_display": "24.09.2026 · 03:19 Uhr"
+    },
     {
       "title": "Fotografie: Bilder des Tages",
       "summary": "",
@@ -89,38 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/24/protest-und-widerstand-netanjahu-in-new-york-erwartet",
       "published": "Thu, 24 Sep 2026 02:30:08 -0000",
       "published_display": "24.09.2026 · 02:30 Uhr"
-    },
-    {
-      "title": "Vor Wahl der Parteispitze: Schenk will Kernthemen der SPD stärker herausstellen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/schenk-will-kernthemen-der-spd-staerker-herausstellen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/schenk-will-kernthemen-der-spd-staerker-herausstellen",
-      "published": "Thu, 24 Sep 2026 02:30:07 -0000",
-      "published_display": "24.09.2026 · 02:30 Uhr"
-    },
-    {
-      "title": "Kurioser Gesetzespassus: Bund macht Borken in NRW zu «Küstenregion» – Land verärgert",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/bund-macht-borken-in-nrw-zu-kuestenregion-land-veraergert-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/bund-macht-borken-in-nrw-zu-kuestenregion-land-veraergert",
-      "published": "Thu, 24 Sep 2026 02:30:06 -0000",
-      "published_display": "24.09.2026 · 02:30 Uhr"
-    },
-    {
-      "title": "Immobilienwirtschaft: Vonovia ist bereit für den Bau von Soldatenwohnungen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/vonovia-ist-bereit-fuer-den-bau-von-soldatenwohnungen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/vonovia-ist-bereit-fuer-den-bau-von-soldatenwohnungen",
-      "published": "Thu, 24 Sep 2026 02:30:05 -0000",
-      "published_display": "24.09.2026 · 02:30 Uhr"
-    },
-    {
-      "title": "Facebook-Konzern: Facebook-Konzern überholt Rivalen mit kleinem KI-Gerät",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/meta-bringt-ki-brille-mit-display-auch-nach-deutschland-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/meta-bringt-ki-brille-mit-display-auch-nach-deutschland",
-      "published": "Thu, 24 Sep 2026 02:27:32 -0000",
-      "published_display": "24.09.2026 · 02:27 Uhr"
     }
   ]
 }
