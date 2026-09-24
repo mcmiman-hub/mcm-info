@@ -1,14 +1,78 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-24T08:19:40.688350+00:00",
+  "updated": "2026-09-24T08:34:08.802494+00:00",
   "items": [
+    {
+      "title": "Sportpolitik: Berlin zieht Olympia-Bewerbung zurück",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/berlin-zieht-olympia-bewerbung-zurueck-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/berlin-zieht-olympia-bewerbung-zurueck",
+      "published": "Thu, 24 Sep 2026 08:32:05 -0000",
+      "published_display": "24.09.2026 · 08:32 Uhr"
+    },
     {
       "title": "Regierungsbildung in Sachsen-Anhalt: CDU in Sachsen-Anhalt lehnt Koalitionsgespräche mit der SPD ab",
       "summary": "Nach der Niederlage bei der Landtagswahl in Sachsen-Anhalt will die CDU in die Opposition gehen. Eine Einladung der SPD zu Koalitionsgesprächen hat sie abgelehnt.",
       "image": "https://img.zeit.de/politik/deutschland/2026-09/cdu-sachsen-anhalt-opposition-regierungsbildung-afd-foto-1/original__640x360",
       "link": "https://www.zeit.de/politik/deutschland/2026-09/cdu-sachsen-anhalt-opposition-regierungsbildung-afd",
-      "published": "Thu, 24 Sep 2026 08:18:24 -0000",
-      "published_display": "24.09.2026 · 08:18 Uhr"
+      "published": "Thu, 24 Sep 2026 08:30:18 -0000",
+      "published_display": "24.09.2026 · 08:30 Uhr"
+    },
+    {
+      "title": "Olympia-Bewerbung: Berlin zieht Bewerbung für Olympische Spiele offiziell zurück",
+      "summary": "Die Entscheidung über die deutsche Olympiabewerbung fällt zwischen München und Köln-Rhein-Ruhr. Berlin nimmt sich selbst aus dem Rennen.",
+      "image": "https://img.zeit.de/administratives/sharing/fallback-image-die-zeit/wide__1300x731",
+      "link": "https://www.zeit.de/sport/2026-09/berlin-olympia-bewerbung-rueckzug-kai-wegner-muenchen-koeln-rhein-ruhr",
+      "published": "Thu, 24 Sep 2026 08:29:12 -0000",
+      "published_display": "24.09.2026 · 08:29 Uhr"
+    },
+    {
+      "title": "Herbstprognose: Wirtschaftsinstitute erwarten doppelt so hohes Wirtschaftswachstum",
+      "summary": "Der Irankrieg belastet die deutsche Wirtschaft weniger stark als erwartet. Führende Wirtschaftsinstitute rechnen für 2026 mit einem Wachstum von 1,3 Prozent.",
+      "image": "https://img.zeit.de/wirtschaft/2026-09/wirtschaftswachstum-bild/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/2026-09/herbstprognose-wirtschaftsinstitute-2026-wirtschaftswachstum-1-3-prozent",
+      "published": "Thu, 24 Sep 2026 08:28:21 -0000",
+      "published_display": "24.09.2026 · 08:28 Uhr"
+    },
+    {
+      "title": "»Das große Backen«: Ihm scheißt die Buttercreme ab",
+      "summary": "Beim »Großen Backen« auf Sat.1 machen hochbegabte Hobbypatissiers aus jedem Kuchen ein Kunstwerk. Auch rührend: wie der Actionbäcker Andre mit Leib und Seele mitmischt.",
+      "image": "https://img.zeit.de/2026/41/andre-mischt-mit-bild-2/original__640x360",
+      "link": "https://www.zeit.de/2026/41/das-grosse-backen-sat-1-andre-finale",
+      "published": "Thu, 24 Sep 2026 08:25:08 -0000",
+      "published_display": "24.09.2026 · 08:25 Uhr"
+    },
+    {
+      "title": "Neuzulassungen: Elektroautos überflügeln in Europa reine Verbrenner",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/mehr-als-jeder-fuenfte-neue-pkw-in-der-eu-faehrt-elektrisch-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/mehr-als-jeder-fuenfte-neue-pkw-in-der-eu-faehrt-elektrisch",
+      "published": "Thu, 24 Sep 2026 08:20:51 -0000",
+      "published_display": "24.09.2026 · 08:20 Uhr"
+    },
+    {
+      "title": "Vor Sondierung in MV: Oldenburg verzichtet auf weiteres Ministeramt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/oldenburg-verzichtet-auf-weiteres-ministeramt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/oldenburg-verzichtet-auf-weiteres-ministeramt",
+      "published": "Thu, 24 Sep 2026 08:20:34 -0000",
+      "published_display": "24.09.2026 · 08:20 Uhr"
+    },
+    {
+      "title": "Bundesliga: «Gänsehaut»: Kiel trifft im Handball-Derby auf Flensburg",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/gaensehaut-kiel-trifft-im-handball-derby-auf-flensburg-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/gaensehaut-kiel-trifft-im-handball-derby-auf-flensburg",
+      "published": "Thu, 24 Sep 2026 08:20:05 -0000",
+      "published_display": "24.09.2026 · 08:20 Uhr"
+    },
+    {
+      "title": "3. Fußball-Liga: FC Ingolstadt trennt sich von Trainer-Pionierin Wittmann",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/fc-ingolstadt-trennt-sich-von-trainer-pionierin-wittmann-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/fc-ingolstadt-trennt-sich-von-trainer-pionierin-wittmann",
+      "published": "Thu, 24 Sep 2026 08:19:44 -0000",
+      "published_display": "24.09.2026 · 08:19 Uhr"
     },
     {
       "title": "Mobilität: Verkehrsunfälle endeten in diesem Jahr seltener tödlich",
@@ -35,14 +99,6 @@
       "published_display": "24.09.2026 · 08:12 Uhr"
     },
     {
-      "title": "Herbstprognose: Wirtschaftsinstitute erwarten doppelt so hohes Wirtschaftswachstum",
-      "summary": "Der Irankrieg belastet die deutsche Wirtschaft weniger stark als erwartet. Führende Wirtschaftsinstitute rechnen für 2026 mit einem Wachstum von 1,3 Prozent.",
-      "image": "https://img.zeit.de/wirtschaft/2026-09/wirtschaftswachstum-bild/original__640x360",
-      "link": "https://www.zeit.de/wirtschaft/2026-09/herbstprognose-wirtschaftsinstitute-2026-wirtschaftswachstum-1-3-prozent",
-      "published": "Thu, 24 Sep 2026 08:11:19 -0000",
-      "published_display": "24.09.2026 · 08:11 Uhr"
-    },
-    {
       "title": "Staatsschutz ermittelt: CDU-Büro in Offenbach mit Steinen beworfen",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-09/24/cdu-buero-in-offenbach-mit-steinen-beworfen-image-group/original__640x360",
@@ -65,62 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/24/institute-erwarten-doppelt-so-hohes-wirtschaftswachstum",
       "published": "Thu, 24 Sep 2026 08:00:17 -0000",
       "published_display": "24.09.2026 · 08:00 Uhr"
-    },
-    {
-      "title": "Sozialbetrug: NRW geht gegen Betrug mit Schrotthäusern und Mietwucher vor",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/nrw-geht-gegen-betrug-mit-schrotthaeusern-und-mietwucher-vor-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/nrw-geht-gegen-betrug-mit-schrotthaeusern-und-mietwucher-vor",
-      "published": "Thu, 24 Sep 2026 08:00:04 -0000",
-      "published_display": "24.09.2026 · 08:00 Uhr"
-    },
-    {
-      "title": "Gegen Einwegmüll: Verpackungssteuer trotz Ärger in Potsdam ab Oktober fällig",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/23/aerger-um-verpackungssteuer-kommt-die-abgabe-zum-oktober-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/23/aerger-um-verpackungssteuer-kommt-die-abgabe-zum-oktober",
-      "published": "Thu, 24 Sep 2026 07:59:09 -0000",
-      "published_display": "24.09.2026 · 07:59 Uhr"
-    },
-    {
-      "title": "Oasis-Tournee: Oasis warnt vor Betrug beim Ticketverkauf",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/oasis-warnt-vor-betrug-beim-ticketverkauf-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/oasis-warnt-vor-betrug-beim-ticketverkauf",
-      "published": "Thu, 24 Sep 2026 07:51:37 -0000",
-      "published_display": "24.09.2026 · 07:51 Uhr"
-    },
-    {
-      "title": "Nachwuchs im Aquarium: Hai-Paar in Karlsruhe bekommt Vierlinge",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/23/hai-paar-in-karlsruhe-bekommt-vierlinge-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/23/hai-paar-in-karlsruhe-bekommt-vierlinge",
-      "published": "Thu, 24 Sep 2026 07:49:36 -0000",
-      "published_display": "24.09.2026 · 07:49 Uhr"
-    },
-    {
-      "title": "Notlandung bei Betzenstein: Motorausfall - Pilot landet Kleinflugzeug im Maisfeld",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/motorausfall-pilot-landet-kleinflugzeug-im-maisfeld-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/motorausfall-pilot-landet-kleinflugzeug-im-maisfeld",
-      "published": "Thu, 24 Sep 2026 07:49:13 -0000",
-      "published_display": "24.09.2026 · 07:49 Uhr"
-    },
-    {
-      "title": "Autoindustrie: Marktanteil chinesischer Automarken in EU wächst",
-      "summary": "Mehr als 10 Prozent des EU-Automarkts machen mittlerweile chinesische Firmen aus. Der Anteil von E-Autos an allen Neuzulassungen ist auf ein Fünftel gestiegen.",
-      "image": "https://img.zeit.de/wirtschaft/2026-09/chinesische-autohersteller-europa-marktanteil-byd-geely-saic-foto-1/original__640x360",
-      "link": "https://www.zeit.de/wirtschaft/2026-09/chinesische-autohersteller-europa-marktanteil-byd-geely-saic",
-      "published": "Thu, 24 Sep 2026 07:46:50 -0000",
-      "published_display": "24.09.2026 · 07:46 Uhr"
-    },
-    {
-      "title": "Nordrhein-Westfalen: Kritik an EEG-Entwurf für Bezeichnung von Borken als »Küstengebiet«",
-      "summary": "Obwohl Borken mehr als 150 Kilometer von der Nordsee entfernt liegt, wird es in der geplanten EEG-Reform als »Küstengebiet« bezeichnet. Die Irritation ist groß.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/windkraft-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/kreis-borken-eeg-kuestenregion-windkraft-foerderung-gxe",
-      "published": "Thu, 24 Sep 2026 07:38:10 -0000",
-      "published_display": "24.09.2026 · 07:38 Uhr"
     }
   ]
 }
