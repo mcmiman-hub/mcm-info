@@ -1,7 +1,103 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-24T13:19:40.736636+00:00",
+  "updated": "2026-09-24T13:34:08.016872+00:00",
   "items": [
+    {
+      "title": "Sicherheitsmängel: Chef von IT-Sicherheitszentrum muss nach Verlust sensibler Daten gehen",
+      "summary": "Das Cispa-Institut für IT-Sicherheit trennt sich von seinem wissenschaftlichen Leiter. Ein Bericht hatte Cispa zuvor unzureichenden Schutz sensibler Daten bescheinigt.",
+      "image": "https://img.zeit.de/digital/2026-09/cispa-michael-backes-it-sicherheit-saarbruecken-foto-1/original__640x360",
+      "link": "https://www.zeit.de/digital/2026-09/cispa-michael-backes-it-sicherheit-saarbruecken",
+      "published": "Thu, 24 Sep 2026 13:33:32 -0000",
+      "published_display": "24.09.2026 · 13:33 Uhr"
+    },
+    {
+      "title": "Hamburger Tourismus: Neue Dungeon-Show dreht sich um skrupellose Kindermörderin",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/neue-dungeon-show-dreht-sich-um-skrupellose-kindermoerderin-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/neue-dungeon-show-dreht-sich-um-skrupellose-kindermoerderin",
+      "published": "Thu, 24 Sep 2026 13:28:12 -0000",
+      "published_display": "24.09.2026 · 13:28 Uhr"
+    },
+    {
+      "title": "Alacher See: Kampfmittelräumung bei Naturschutzgebiet startet im Oktober",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/kampfmittelraeumung-bei-naturschutzgebiet-startet-im-oktober-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/kampfmittelraeumung-bei-naturschutzgebiet-startet-im-oktober",
+      "published": "Thu, 24 Sep 2026 13:27:13 -0000",
+      "published_display": "24.09.2026 · 13:27 Uhr"
+    },
+    {
+      "title": "Sozialbetrug: Das «Sweet home» ist jetzt dicht - NRW bekämpft Sozialbetrug",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/das-sweet-home-ist-jetzt-dicht-nrw-bekaempft-sozialbetrug-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/das-sweet-home-ist-jetzt-dicht-nrw-bekaempft-sozialbetrug",
+      "published": "Thu, 24 Sep 2026 13:26:53 -0000",
+      "published_display": "24.09.2026 · 13:26 Uhr"
+    },
+    {
+      "title": "Drei Menschen verletzt: Autofahrerin stirbt bei Unfall mit Linienbus",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/autofahrerin-stirbt-bei-unfall-mit-linienbus-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/autofahrerin-stirbt-bei-unfall-mit-linienbus",
+      "published": "Thu, 24 Sep 2026 13:26:50 -0000",
+      "published_display": "24.09.2026 · 13:26 Uhr"
+    },
+    {
+      "title": "Trump-Xi-Treffen: China und USA lehnen Regulierung von KI laut Donald Trump ab",
+      "summary": "Trump sieht den Umgang mit Künstlicher Intelligenz als ein zentrales Thema seines Treffens mit Xi Jinping. Regulierung von KI solle so bleiben »wie sie ist«.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/donald-trump-xi-jinping-washington-china-ki-regulierung-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/donald-trump-xi-jinping-washington-china-ki-regulierung",
+      "published": "Thu, 24 Sep 2026 13:25:52 -0000",
+      "published_display": "24.09.2026 · 13:25 Uhr"
+    },
+    {
+      "title": "IT-Vorfall: Cyberangriff auf städtischen Betrieb in Kassel",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/cyberangriff-auf-staedtischen-betrieb-in-kassel-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/cyberangriff-auf-staedtischen-betrieb-in-kassel",
+      "published": "Thu, 24 Sep 2026 13:23:28 -0000",
+      "published_display": "24.09.2026 · 13:23 Uhr"
+    },
+    {
+      "title": "Autonomer Nahverkehr: Bahn entwickelt Projekt mit selbstfahrenden Shuttles weiter",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/bahn-entwickelt-projekt-mit-selbstfahrenden-shuttles-weiter-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/bahn-entwickelt-projekt-mit-selbstfahrenden-shuttles-weiter",
+      "published": "Thu, 24 Sep 2026 13:23:15 -0000",
+      "published_display": "24.09.2026 · 13:23 Uhr"
+    },
+    {
+      "title": "Sportpolitik: MV-Ministerin bedauert Olympia-Rückzug Berlins",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/mv-ministerin-bedauert-olympia-rueckzug-berlins-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/mv-ministerin-bedauert-olympia-rueckzug-berlins",
+      "published": "Thu, 24 Sep 2026 13:22:51 -0000",
+      "published_display": "24.09.2026 · 13:22 Uhr"
+    },
+    {
+      "title": "Pressefreiheit: CNN und weitere Medien dürfen trotz Richterspruch nicht ins Weiße Haus",
+      "summary": "Trotz aufgehobenem Medienausschluss hat das Weiße Haus kritischen Medien erneut den Zutritt verweigert. Der Secret Service konfiszierte mindestens einen Presseausweis.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/donald-trump-weisses-haus-journalisten-politico-ms-now-cnn-pressefreiheit-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/donald-trump-weisses-haus-journalisten-politico-ms-now-cnn-pressefreiheit",
+      "published": "Thu, 24 Sep 2026 13:22:33 -0000",
+      "published_display": "24.09.2026 · 13:22 Uhr"
+    },
+    {
+      "title": "Branchentreffen: Umfragen: Ernährungswirtschaft im Nordosten unter Druck",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/umfragen-ernaehrungswirtschaft-im-nordosten-unter-druck-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/umfragen-ernaehrungswirtschaft-im-nordosten-unter-druck",
+      "published": "Thu, 24 Sep 2026 13:21:39 -0000",
+      "published_display": "24.09.2026 · 13:21 Uhr"
+    },
+    {
+      "title": "Extremismus: Hasskommentar gegen Oldenburg: Polizei prüft Neonazi-Post",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/hasskommentar-gegen-oldenburg-polizei-prueft-neonazi-post-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/hasskommentar-gegen-oldenburg-polizei-prueft-neonazi-post",
+      "published": "Thu, 24 Sep 2026 13:20:33 -0000",
+      "published_display": "24.09.2026 · 13:20 Uhr"
+    },
     {
       "title": "Gefundener Feuerwerkskörper: Kugelbombe bei Kraftwerk: Staatsschutz untersucht Spuren",
       "summary": "",
@@ -25,102 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/24/57-kilogramm-kokain-gebunkert-sechseinhalb-jahre-haft",
       "published": "Thu, 24 Sep 2026 13:12:39 -0000",
       "published_display": "24.09.2026 · 13:12 Uhr"
-    },
-    {
-      "title": "Ursache in Technikraum: Rauch in Schule festgestellt – Gebäude geräumt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/rauch-in-schule-festgestellt-gebaeude-geraeumt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/rauch-in-schule-festgestellt-gebaeude-geraeumt",
-      "published": "Thu, 24 Sep 2026 13:12:07 -0000",
-      "published_display": "24.09.2026 · 13:12 Uhr"
-    },
-    {
-      "title": "Gelassenheit: »Die Philosophie, die uns das Sterben lehrt, lehrt uns auch das Leben«",
-      "summary": "Seit der Antike denken Philosophen über die Kunst der Gelassenheit nach. Ihre Erkenntnisse helfen heute noch, sagt Otfried Höffe.",
-      "image": "https://img.zeit.de/2026/41/die-philosophie-die-uns-das-sterben-lehrt-lehrt-uns-auch-das-leben-bild-3/original__640x360",
-      "link": "https://www.zeit.de/2026/41/gelassenheit-philosophie-antike-otfried-hoeffe",
-      "published": "Thu, 24 Sep 2026 13:09:41 -0000",
-      "published_display": "24.09.2026 · 13:09 Uhr"
-    },
-    {
-      "title": "»Bares für Rares«: »Aus meinen Fehlkäufen habe ich am meisten gelernt«",
-      "summary": "Wolfgang Pauritsch ist Fernsehhändler bei »Bares für Rares«. Hier erzählt er, was er mal für zwölf Millionen Euro versteigert hat und worauf er beim Ankauf achtet.",
-      "image": "https://img.zeit.de/arbeit/2026-09/bares-fuer-rares-wolfgang-pauritsch-auktion-antiquitaeten-kunst-bild/original__640x360",
-      "link": "https://www.zeit.de/arbeit/2026-09/bares-fuer-rares-wolfgang-pauritsch-auktion-antiquitaeten-kunst",
-      "published": "Thu, 24 Sep 2026 13:08:37 -0000",
-      "published_display": "24.09.2026 · 13:08 Uhr"
-    },
-    {
-      "title": "Deutsche Marine: Kommandowechsel beim 3. Minensuchgeschwader in Kiel",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/kommandowechsel-beim-3-minensuchgeschwader-in-kiel-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/kommandowechsel-beim-3-minensuchgeschwader-in-kiel",
-      "published": "Thu, 24 Sep 2026 13:04:28 -0000",
-      "published_display": "24.09.2026 · 13:04 Uhr"
-    },
-    {
-      "title": "Brandstiftung: 16-Jähriger soll Feuer gelegt haben - Schule evakuiert",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/16-jaehriger-soll-feuer-gelegt-haben-schule-evakuiert-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/16-jaehriger-soll-feuer-gelegt-haben-schule-evakuiert",
-      "published": "Thu, 24 Sep 2026 13:04:25 -0000",
-      "published_display": "24.09.2026 · 13:04 Uhr"
-    },
-    {
-      "title": "Halbleiterindustrie: Innovationspolitik muss die ganze Region mitdenken!",
-      "summary": "Warum Chipfabriken noch kein Zukunftsversprechen sind, zeigt sich vielerorts im Osten.",
-      "image": "https://img.zeit.de/2026/40/halbleiter-industrie-ostdeutschland-tsmc-intel-investitionen-bild/original__640x360",
-      "link": "https://www.zeit.de/2026/40/halbleiter-industrie-ostdeutschland-tsmc-intel-investitionen",
-      "published": "Thu, 24 Sep 2026 13:04:16 -0000",
-      "published_display": "24.09.2026 · 13:04 Uhr"
-    },
-    {
-      "title": "Überforderung im Studium: Zu erschöpft, um über die Erschöpfung zu reden",
-      "summary": "Ein Drittel der Studierenden in der Schweiz hat Depressionssymptome. Macht das Studium krank? Und wenn ja: Was lässt sich dagegen tun?",
-      "image": "https://img.zeit.de/campus/2026-08/ueberforderung-studium-stress-depressionen-finanzen-bild/original__640x360",
-      "link": "https://www.zeit.de/campus/ratgeber/2026/03/ueberforderung-studium-stress-depressionen-finanzen",
-      "published": "Thu, 24 Sep 2026 13:04:02 -0000",
-      "published_display": "24.09.2026 · 13:04 Uhr"
-    },
-    {
-      "title": "Armut wegen Depressionen: Kranksein macht arm, Armsein macht krank",
-      "summary": "Tanja möchte arbeiten, doch ihre Gesundheit lässt es nicht zu. Statt Hilfe erlebt sie Vorurteile – und die Gesundheitsreform könnte alles noch verschlimmern.",
-      "image": "https://img.zeit.de/video/2026-08/depressionen-krankheit-armut-tanja-whu/original__640x360",
-      "link": "https://www.zeit.de/video/2026-05/armut-depression-finanzielle-sorge-psyche-gesundheitsreform",
-      "published": "Thu, 24 Sep 2026 13:03:46 -0000",
-      "published_display": "24.09.2026 · 13:03 Uhr"
-    },
-    {
-      "title": "Fußball: Nach Pokal-Ausschreitungen: FCK verschärft Sicherheit",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/nach-pokal-ausschreitungen-fck-verschaerft-sicherheit-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/nach-pokal-ausschreitungen-fck-verschaerft-sicherheit",
-      "published": "Thu, 24 Sep 2026 13:03:09 -0000",
-      "published_display": "24.09.2026 · 13:03 Uhr"
-    },
-    {
-      "title": "Antisemitismus: Hamburgs Zweite Bürgermeisterin warnt vor Linken in Berlin",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/hamburgs-zweite-buergermeisterin-warnt-vor-linken-in-berlin-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/hamburgs-zweite-buergermeisterin-warnt-vor-linken-in-berlin",
-      "published": "Thu, 24 Sep 2026 13:03:07 -0000",
-      "published_display": "24.09.2026 · 13:03 Uhr"
-    },
-    {
-      "title": "CDU in Mecklenburg-Vorpommern: Hier ist die CDU jetzt außerparlamentarische Opposition",
-      "summary": "Einen Landtag ohne CDU gab es noch nie. Und dann ausgerechnet im Landesverband von Angela Merkel. Vor Ort wirken Parteivertreter ratlos – und zeigen auf den Kanzler.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/cdu-im-wahlkreis-13-loitz-mecklenburg-vorpommern-bild-02/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/cdu-mecklenburg-vorpommern-landtagswahl-peenetal-loitz",
-      "published": "Thu, 24 Sep 2026 13:02:13 -0000",
-      "published_display": "24.09.2026 · 13:02 Uhr"
-    },
-    {
-      "title": "Unfall auf Baustelle: Kran fällt auf Haus - Zwei Leichtverletzte",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/kran-faellt-auf-haus-zwei-leichtverletzte-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/kran-faellt-auf-haus-zwei-leichtverletzte",
-      "published": "Thu, 24 Sep 2026 13:01:46 -0000",
-      "published_display": "24.09.2026 · 13:01 Uhr"
     }
   ]
 }
