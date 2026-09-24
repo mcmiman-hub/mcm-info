@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-24T06:49:08.733873+00:00",
+  "updated": "2026-09-24T06:59:48.423192+00:00",
   "items": [
+    {
+      "title": "Hybridauto : Das Schlechteste aus zwei Welten",
+      "summary": "Doppelter Antrieb, doppelter Ärger: Plug-in-Hybride werden als cleverer Kompromiss beworben, doch sie sind überkonstruiert. Und haben hohe Sprit- und Reparaturkosten.",
+      "image": "https://img.zeit.de/mobilitaet/2026-09/hybridantrieb-automobilindustrie/original__640x360",
+      "link": "https://www.zeit.de/mobilitaet/2026-09/hybridautos-verbrenner-verkehr-auto-technologie",
+      "published": "Thu, 24 Sep 2026 06:58:07 -0000",
+      "published_display": "24.09.2026 · 06:58 Uhr"
+    },
+    {
+      "title": "Vor Sondierung in MV: Oldenburg verzichtet auf weiteres Ministeramt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/oldenburg-verzichtet-auf-weiteres-ministeramt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/oldenburg-verzichtet-auf-weiteres-ministeramt",
+      "published": "Thu, 24 Sep 2026 06:56:24 -0000",
+      "published_display": "24.09.2026 · 06:56 Uhr"
+    },
+    {
+      "title": "Kurioser Gesetzespassus: Bund macht Borken in NRW zu «Küstenregion» – Land reagiert",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/bund-macht-borken-in-nrw-zu-kuestenregion-land-veraergert-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/bund-macht-borken-in-nrw-zu-kuestenregion-land-veraergert",
+      "published": "Thu, 24 Sep 2026 06:53:00 -0000",
+      "published_display": "24.09.2026 · 06:53 Uhr"
+    },
     {
       "title": "Gefundener Feuerwerkskörper: Kugelbombe entdeckt: Leitungen nahe Fundort führten Strom",
       "summary": "",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/24/unbekannte-setzen-transporter-in-brand-zeugen-gesucht",
       "published": "Thu, 24 Sep 2026 06:06:03 -0000",
       "published_display": "24.09.2026 · 06:06 Uhr"
-    },
-    {
-      "title": "Regierungsfähigkeit der Linken: Die Linke – zu radikal zum Regieren?",
-      "summary": "Die Partei hat ein Antisemitismus-Problem und verfolgt radikale Ideen. Sollte sie fernbleiben von der Macht? Darüber streitet das Land – und die ZEIT.",
-      "image": "https://img.zeit.de/2026/41/die-linke-zu-radikal-zum-regieren-bild-2/original__640x360",
-      "link": "https://www.zeit.de/2026/41/regierungsfaehigkeit-linke-berlin-elif-eralp-enteignung-antisemitismus",
-      "published": "Thu, 24 Sep 2026 06:01:44 -0000",
-      "published_display": "24.09.2026 · 06:01 Uhr"
-    },
-    {
-      "title": "Brennender Kunststoff: Brand auf Recyclinghof gelöscht - Ursache weiter unklar",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/brand-auf-recyclinghof-geloescht-ursache-weiter-unklar-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/brand-auf-recyclinghof-geloescht-ursache-weiter-unklar",
-      "published": "Thu, 24 Sep 2026 06:00:44 -0000",
-      "published_display": "24.09.2026 · 06:00 Uhr"
-    },
-    {
-      "title": "Autoindustrie: Marktanteil chinesischer Automarken in EU wächst",
-      "summary": "Mehr als 10 Prozent des EU-Automarkts machen mittlerweile chinesische Firmen aus. Von Januar bis August lieferten Hersteller wie BYD zwei Drittel mehr als 2025.",
-      "image": "https://img.zeit.de/wirtschaft/2026-09/chinesische-autohersteller-europa-marktanteil-byd-geely-saic-foto-1/original__640x360",
-      "link": "https://www.zeit.de/wirtschaft/2026-09/chinesische-autohersteller-europa-marktanteil-byd-geely-saic",
-      "published": "Thu, 24 Sep 2026 05:58:04 -0000",
-      "published_display": "24.09.2026 · 05:58 Uhr"
     }
   ]
 }
