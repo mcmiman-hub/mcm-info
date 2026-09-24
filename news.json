@@ -1,7 +1,95 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-24T12:49:42.347962+00:00",
+  "updated": "2026-09-24T12:59:54.828612+00:00",
   "items": [
+    {
+      "title": "Meta Connect : Jetzt müssen ihm die Leute nur noch vertrauen",
+      "summary": "Mark Zuckerberg setzt alles auf Metas neuen KI-Agenten Muse. Der kann erstaunlich viel, muss dafür aber auch fast alles über seine Nutzer wissen. Ist das eine gute Idee?",
+      "image": "https://img.zeit.de/wirtschaft/unternehmen/2026-09/meta-connect-mark-zuckerberg-ki-vision-vertrauen-bild/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/2026-09/meta-connect-entwicklung-ki-agent-muse-mark-zuckerberg",
+      "published": "Thu, 24 Sep 2026 12:59:15 -0000",
+      "published_display": "24.09.2026 · 12:59 Uhr"
+    },
+    {
+      "title": "Champions League: Nach Pyro-Vorfall: Polizei fahndet nach vier Personen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/nach-pyro-vorfall-polizei-fahndet-nach-vier-personen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/nach-pyro-vorfall-polizei-fahndet-nach-vier-personen",
+      "published": "Thu, 24 Sep 2026 12:57:08 -0000",
+      "published_display": "24.09.2026 · 12:57 Uhr"
+    },
+    {
+      "title": "Sicherheitsrisiken von KI: Wie Trump mal eben die Superintelligenz entdeckte",
+      "summary": "Ob bei den UN oder im Weißen Haus: Überall wird beraten, welche Regeln KI benötigt. Die Ideen reichen vom KI-Zar bis zur Hilfe-Hotline für Agenten. Der KI-Newsletter",
+      "image": "https://img.zeit.de/digital/2026-09/trump-ki-superintelligenz-newsletter/original__640x360",
+      "link": "https://www.zeit.de/digital/internet/2026-09/sicherheitsrisiken-kuenstliche-intelligenz-xi-jinping-donald-trump-newsletter",
+      "published": "Thu, 24 Sep 2026 12:56:43 -0000",
+      "published_display": "24.09.2026 · 12:56 Uhr"
+    },
+    {
+      "title": "Gegen Baum geprallt: Fahrer stirbt nach medizinischem Notfall in Klinik",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/fahrer-stirbt-nach-medizinischem-notfall-in-klinik-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/fahrer-stirbt-nach-medizinischem-notfall-in-klinik",
+      "published": "Thu, 24 Sep 2026 12:56:39 -0000",
+      "published_display": "24.09.2026 · 12:56 Uhr"
+    },
+    {
+      "title": "Entscheidung nach Stichwahl: AfD-Kandidatin zählte Wahlstimmen aus - Einspruch",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/afd-kandidatin-zaehlte-wahlstimmen-aus-einspruch-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/afd-kandidatin-zaehlte-wahlstimmen-aus-einspruch",
+      "published": "Thu, 24 Sep 2026 12:54:09 -0000",
+      "published_display": "24.09.2026 · 12:54 Uhr"
+    },
+    {
+      "title": "Abberufungsantrag: Fraktion will Kreistagspräsidenten Diener abberufen lassen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/fraktion-will-kreistagspraesidenten-diener-abberufen-lassen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/fraktion-will-kreistagspraesidenten-diener-abberufen-lassen",
+      "published": "Thu, 24 Sep 2026 12:54:00 -0000",
+      "published_display": "24.09.2026 · 12:54 Uhr"
+    },
+    {
+      "title": "Eingesperrt im «Time-Out-Raum»: Anklage beschreibt jahrelange Gewalt in Behindertenheim",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/jahrelange-gewalt-in-behindertenheim-prozess-beginnt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/jahrelange-gewalt-in-behindertenheim-prozess-beginnt",
+      "published": "Thu, 24 Sep 2026 12:53:20 -0000",
+      "published_display": "24.09.2026 · 12:53 Uhr"
+    },
+    {
+      "title": "Zugriff über QR-Code: Polizei warnt vor neuer Betrugsmasche bei WhatsApp",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/polizei-warnt-vor-neuer-betrugsmasche-bei-whatsapp-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/polizei-warnt-vor-neuer-betrugsmasche-bei-whatsapp",
+      "published": "Thu, 24 Sep 2026 12:52:19 -0000",
+      "published_display": "24.09.2026 · 12:52 Uhr"
+    },
+    {
+      "title": "Spritpreise: Schoki für alle löst unsere Probleme nicht",
+      "summary": "Steigende Spritpreise sind erst der Anfang, bald dürfte der Preisschock viele Lebensbereiche erfassen. Wenn der Politik nur mehr einfiele, als Geschenke zu verteilen.",
+      "image": "https://img.zeit.de/2026/41/schoki-fuer-alle-bild-2/original__640x360",
+      "link": "https://www.zeit.de/2026/41/spritpreise-tankrabatt-preisdeckel-benzin-energiepreise-bundesregierung",
+      "published": "Thu, 24 Sep 2026 12:52:14 -0000",
+      "published_display": "24.09.2026 · 12:52 Uhr"
+    },
+    {
+      "title": "In Dubai festgenommen: Gefasster Windkraftbetrüger Holt - Auslieferung ungewiss",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/gefasster-windkraftbetrueger-holt-auslieferung-ungewiss-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/gefasster-windkraftbetrueger-holt-auslieferung-ungewiss",
+      "published": "Thu, 24 Sep 2026 12:48:34 -0000",
+      "published_display": "24.09.2026 · 12:48 Uhr"
+    },
+    {
+      "title": "Synode in Travemünde: Ein bischöfliches Trio soll in Zukunft die Nordkirche führen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/ein-bischoefliches-trio-soll-in-zukunft-die-nordkirche-fuehren-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/ein-bischoefliches-trio-soll-in-zukunft-die-nordkirche-fuehren",
+      "published": "Thu, 24 Sep 2026 12:47:57 -0000",
+      "published_display": "24.09.2026 · 12:47 Uhr"
+    },
     {
       "title": "Täter schlug in Restaurant zu: Anwohner sollen nach Überfall Videoaufnahmen sichten",
       "summary": "",
@@ -33,94 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/24/agrarminister-ringen-um-die-nutzung-von-duenger",
       "published": "Thu, 24 Sep 2026 12:41:41 -0000",
       "published_display": "24.09.2026 · 12:41 Uhr"
-    },
-    {
-      "title": "Debatte um Antisemitismus: 150 jüdische Berliner kritisieren Antisemitismus-Vorwurf an die Linke",
-      "summary": "In einem offenen Brief kritisieren jüdische Berliner den Umgang mit der Linkspartei. Sie werfen Medien und Teilen der jüdischen Community »Instrumentalisierung« vor.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/offener-brief-juedische-berliner-antisemitismus-linke-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/offener-brief-juedische-berliner-antisemitismus-linke",
-      "published": "Thu, 24 Sep 2026 12:40:19 -0000",
-      "published_display": "24.09.2026 · 12:40 Uhr"
-    },
-    {
-      "title": "Nach der Wahl: Berliner Linke auf steinigem Weg zur Macht",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/berliner-linke-auf-steinigem-weg-zur-macht-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/berliner-linke-auf-steinigem-weg-zur-macht",
-      "published": "Thu, 24 Sep 2026 12:37:33 -0000",
-      "published_display": "24.09.2026 · 12:37 Uhr"
-    },
-    {
-      "title": "Vermögensteuer: Bovenschulte will Vermögensteuer für Superreiche",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/bovenschulte-will-vermoegensteuer-fuer-superreiche-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/bovenschulte-will-vermoegensteuer-fuer-superreiche",
-      "published": "Thu, 24 Sep 2026 12:36:00 -0000",
-      "published_display": "24.09.2026 · 12:36 Uhr"
-    },
-    {
-      "title": "Wildtierforschung: Er war ein Maskottchen mit GPS-Halsband: Elch Bert ist tot",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/er-war-ein-maskottchen-mit-gps-halsband-elch-bert-ist-tot-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/er-war-ein-maskottchen-mit-gps-halsband-elch-bert-ist-tot",
-      "published": "Thu, 24 Sep 2026 12:30:33 -0000",
-      "published_display": "24.09.2026 · 12:30 Uhr"
-    },
-    {
-      "title": "Wohnungspolitik: Mieterschutz: Regeln gegen teures Wohnen in Hessen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/mieterschutz-regeln-gegen-teures-wohnen-in-hessen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/mieterschutz-regeln-gegen-teures-wohnen-in-hessen",
-      "published": "Thu, 24 Sep 2026 12:28:08 -0000",
-      "published_display": "24.09.2026 · 12:28 Uhr"
-    },
-    {
-      "title": "Brände: Rauchsäule über der A1: Busfahrer rettet sich vor Vollbrand",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/rauchsaeule-ueber-der-a1-busfahrer-rettet-sich-vor-vollbrand-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/rauchsaeule-ueber-der-a1-busfahrer-rettet-sich-vor-vollbrand",
-      "published": "Thu, 24 Sep 2026 12:26:44 -0000",
-      "published_display": "24.09.2026 · 12:26 Uhr"
-    },
-    {
-      "title": "UN-Versammlung: Protest und Widerstand – Netanjahu in New York erwartet",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/protest-und-widerstand-netanjahu-in-new-york-erwartet-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/protest-und-widerstand-netanjahu-in-new-york-erwartet",
-      "published": "Thu, 24 Sep 2026 12:26:39 -0000",
-      "published_display": "24.09.2026 · 12:26 Uhr"
-    },
-    {
-      "title": "Entscheidung aus Karlsruhe: Lina E. vorerst frei – Karlsruhe hebt Beugehaft auf",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/lina-e-vorerst-frei-karlsruhe-hebt-beugehaft-auf-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/lina-e-vorerst-frei-karlsruhe-hebt-beugehaft-auf",
-      "published": "Thu, 24 Sep 2026 12:24:11 -0000",
-      "published_display": "24.09.2026 · 12:24 Uhr"
-    },
-    {
-      "title": "Wiedervereinigung: Mit «Auf uns» die Einheit feiern",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/mit-auf-uns-die-einheit-feiern-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/mit-auf-uns-die-einheit-feiern",
-      "published": "Thu, 24 Sep 2026 12:23:38 -0000",
-      "published_display": "24.09.2026 · 12:23 Uhr"
-    },
-    {
-      "title": "Prozess: Anklage beschreibt jahrelange Gewalt in Behindertenheim",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/jahrelange-gewalt-in-behindertenheim-prozess-beginnt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/jahrelange-gewalt-in-behindertenheim-prozess-beginnt",
-      "published": "Thu, 24 Sep 2026 12:22:27 -0000",
-      "published_display": "24.09.2026 · 12:22 Uhr"
-    },
-    {
-      "title": "SPD-Spitze: SPD Frankfurt fordert Ablösung von Lars Klingbeil und Bärbel Bas",
-      "summary": "Die Frankfurter Sozialdemokraten haben sich für eine Neuwahl der Bundesparteispitze ausgesprochen. Nur so könne ein »politischer Neuanfang« für die Partei gelingen.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/spd-frankfurt-parteispitze-bund-lars-klingbeil-baerbel-bas-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/spd-frankfurt-parteispitze-bund-lars-klingbeil-baerbel-bas-gxe",
-      "published": "Thu, 24 Sep 2026 12:21:57 -0000",
-      "published_display": "24.09.2026 · 12:21 Uhr"
     }
   ]
 }
