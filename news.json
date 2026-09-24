@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-24T04:44:33.386432+00:00",
+  "updated": "2026-09-24T04:56:10.950378+00:00",
   "items": [
+    {
+      "title": "Unfall im Rhein-Neckar-Kreis: Motorrad stößt gegen Auto - 18-Jähriger schwer verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/motorrad-stoesst-gegen-auto-18-jaehriger-schwer-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/motorrad-stoesst-gegen-auto-18-jaehriger-schwer-verletzt",
+      "published": "Thu, 24 Sep 2026 04:52:40 -0000",
+      "published_display": "24.09.2026 · 04:52 Uhr"
+    },
+    {
+      "title": "Pakistan und Afghanistan: Pakistan fliegt Angriffe auf Ziele in Afghanistan",
+      "summary": "Pakistans Militär hat laut eigenen Angaben nach angeblichen Drohnenangriffen militärische Ziele im Nachbarland beschossen. Die Taliban weisen die Vorwürfe zurück.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/pakistan-afghanistan-luftangriffe-taliban-grenze-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/pakistan-afghanistan-luftangriffe-taliban-grenze",
+      "published": "Thu, 24 Sep 2026 04:49:07 -0000",
+      "published_display": "24.09.2026 · 04:49 Uhr"
+    },
+    {
+      "title": "Wetter: Sturmböen an der Nordseeküste – Wetter bleibt wechselhaft",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/sturmboeen-an-der-nordseekueste-wetter-bleibt-wechselhaft-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/sturmboeen-an-der-nordseekueste-wetter-bleibt-wechselhaft",
+      "published": "Thu, 24 Sep 2026 04:44:29 -0000",
+      "published_display": "24.09.2026 · 04:44 Uhr"
+    },
     {
       "title": "Demenz: Er sagte: Jetzt mach ich mir noch fünf schöne Jahre",
       "summary": "Wie fühlt es sich an, die Diagnose Demenz zu erhalten? Durch einen Schnelltest kann man eine Ahnung davon bekommen. Und auch mit der Diagnose noch gut leben.",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/24/managerin-an-techbosse-macht-die-blackbox-ki-auf",
       "published": "Thu, 24 Sep 2026 04:00:11 -0000",
       "published_display": "24.09.2026 · 04:00 Uhr"
-    },
-    {
-      "title": "Elbvertiefung: Der tägliche Newsletter aus Hamburg: Wenn ein Amateur-Chor vor 50.000 Menschen auftritt",
-      "summary": "Die Elbvertiefung am Donnerstag – Mit einer Staatsanwaltschaft im Verzug, der Kriegssimulation »Red Storm Charlie« und einer möglichen Aufarbeitung bei Kühne+Nagel",
-      "image": "https://img.zeit.de/hamburg/2026-09/maennerchor/original__640x360",
-      "link": "https://www.zeit.de/hamburg/2026-09/elbvertiefung-24-09-2026",
-      "published": "Thu, 24 Sep 2026 04:00:09 -0000",
-      "published_display": "24.09.2026 · 04:00 Uhr"
-    },
-    {
-      "title": "Xi in Washington: Donald Trump rollt Xi Jinping den roten Teppich aus",
-      "summary": "US-Präsident Trump empfängt Chinas Staatschef Xi in Washington. Was ist von dem Treffen zu erwarten? Und: Warum Ärzte so eindringlich vor Nikotinpouches warnen.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/xi-jinping-washington-donald-trump-usa-nachrichtenpodcast-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/2026-09/xi-jinping-washington-donald-trump-usa-nachrichtenpodcast",
-      "published": "Thu, 24 Sep 2026 03:59:26 -0000",
-      "published_display": "24.09.2026 · 03:59 Uhr"
-    },
-    {
-      "title": "Wetter: Windiger Donnerstag – am Wochenende wird es wärmer",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/windiger-donnerstag-am-wochenende-wird-es-waermer-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/windiger-donnerstag-am-wochenende-wird-es-waermer",
-      "published": "Thu, 24 Sep 2026 03:57:16 -0000",
-      "published_display": "24.09.2026 · 03:57 Uhr"
     }
   ]
 }
