@@ -1,7 +1,39 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-24T05:44:00.415078+00:00",
+  "updated": "2026-09-24T05:55:27.800005+00:00",
   "items": [
+    {
+      "title": "Ukrainekrieg: Ukraine meldet zwei Tote durch russische Angriff auf Kyjiw",
+      "summary": "Russland hat Kyjiw erneut mit ballistischen Raketen angegriffen. Auch Häuser und eine Entbindungsklinik wurden getroffen. Mindestens zwei Menschen wurden getötet.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/russland-angriffe-kiew-odessa-wohnhaeuser-infrastruktur-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/russland-angriffe-kiew-odessa-wohnhaeuser-infrastruktur",
+      "published": "Thu, 24 Sep 2026 05:53:45 -0000",
+      "published_display": "24.09.2026 · 05:53 Uhr"
+    },
+    {
+      "title": "Kriminalität: Einsatz gegen Drogen - Durchsuchungen in mehreren Städten",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/einsatz-gegen-drogen-durchsuchungen-in-mehreren-staedten-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/einsatz-gegen-drogen-durchsuchungen-in-mehreren-staedten",
+      "published": "Thu, 24 Sep 2026 05:49:46 -0000",
+      "published_display": "24.09.2026 · 05:49 Uhr"
+    },
+    {
+      "title": "US-Bundesrichter hebt Ausschluss von Medien durch Trump vorerst auf",
+      "summary": "",
+      "image": "https://img.zeit.de/administratives/eilmeldung/fallback-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/usa-bundesrichter-ausschluss-von-medien-donald-trump",
+      "published": "Thu, 24 Sep 2026 05:49:30 -0000",
+      "published_display": "24.09.2026 · 05:49 Uhr"
+    },
+    {
+      "title": "Medien: Richter hebt Trumps Ausschluss von US-Medien vorerst auf",
+      "summary": "",
+      "image": "https://img.zeit.de/administratives/sharing/fallback-image-die-zeit/wide__1300x731",
+      "link": "https://www.zeit.de/news/2026-09/24/richter-hebt-trumps-ausschluss-von-us-medien-vorerst-auf",
+      "published": "Thu, 24 Sep 2026 05:43:24 -0000",
+      "published_display": "24.09.2026 · 05:43 Uhr"
+    },
     {
       "title": "Autoindustrie: Marktanteil chinesischer Automarken in EU wächst",
       "summary": "Mehr als 10 Prozent des EU-Automarkts machen mittlerweile chinesische Firmen aus. Von Januar bis August lieferten Hersteller wie BYD zwei Drittel mehr als 2025.",
@@ -89,38 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/24/neues-digitalisierungszentrum-fuer-bundeswehr-in-munster",
       "published": "Thu, 24 Sep 2026 04:55:29 -0000",
       "published_display": "24.09.2026 · 04:55 Uhr"
-    },
-    {
-      "title": "Unfälle: Ein Toter und drei Schwerverletzte nach Unfall bei Karsdorf",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/ein-toter-und-drei-schwerverletzte-nach-unfall-bei-karsdorf-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/ein-toter-und-drei-schwerverletzte-nach-unfall-bei-karsdorf",
-      "published": "Thu, 24 Sep 2026 04:54:28 -0000",
-      "published_display": "24.09.2026 · 04:54 Uhr"
-    },
-    {
-      "title": "Unfall im Rhein-Neckar-Kreis: Motorrad stößt gegen Auto - 18-Jähriger schwer verletzt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/motorrad-stoesst-gegen-auto-18-jaehriger-schwer-verletzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/motorrad-stoesst-gegen-auto-18-jaehriger-schwer-verletzt",
-      "published": "Thu, 24 Sep 2026 04:52:40 -0000",
-      "published_display": "24.09.2026 · 04:52 Uhr"
-    },
-    {
-      "title": "Pakistan und Afghanistan: Pakistan fliegt Angriffe auf Ziele in Afghanistan",
-      "summary": "Pakistans Militär hat laut eigenen Angaben nach angeblichen Drohnenangriffen militärische Ziele im Nachbarland beschossen. Die Taliban weisen die Vorwürfe zurück.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/pakistan-afghanistan-luftangriffe-taliban-grenze-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/pakistan-afghanistan-luftangriffe-taliban-grenze",
-      "published": "Thu, 24 Sep 2026 04:49:07 -0000",
-      "published_display": "24.09.2026 · 04:49 Uhr"
-    },
-    {
-      "title": "Wetter: Sturmböen an der Nordseeküste – Wetter bleibt wechselhaft",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/sturmboeen-an-der-nordseekueste-wetter-bleibt-wechselhaft-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/sturmboeen-an-der-nordseekueste-wetter-bleibt-wechselhaft",
-      "published": "Thu, 24 Sep 2026 04:44:29 -0000",
-      "published_display": "24.09.2026 · 04:44 Uhr"
     }
   ]
 }
