@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-24T20:19:05.877070+00:00",
+  "updated": "2026-09-24T20:32:54.962808+00:00",
   "items": [
+    {
+      "title": "Regierungschef unter Druck: Konfrontiert mit Protest: Netanjahu verteidigt Kriege bei UN",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/protest-und-widerstand-netanjahu-in-new-york-erwartet-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/protest-und-widerstand-netanjahu-in-new-york-erwartet",
+      "published": "Thu, 24 Sep 2026 20:27:14 -0000",
+      "published_display": "24.09.2026 · 20:27 Uhr"
+    },
     {
       "title": "Basketball-Königsklasse: Bayern-Basketballer starten mit Sieg in Euroleague",
       "summary": "",
@@ -9,14 +17,6 @@
       "link": "https://www.zeit.de/news/2026-09/24/bayern-basketballer-starten-mit-sieg-in-euroleague",
       "published": "Thu, 24 Sep 2026 20:11:11 -0000",
       "published_display": "24.09.2026 · 20:11 Uhr"
-    },
-    {
-      "title": "Regierungschef unter Druck: Konfrontiert mit Protest: Netanjahu verteidigt Kriege bei UN",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/protest-und-widerstand-netanjahu-in-new-york-erwartet-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/protest-und-widerstand-netanjahu-in-new-york-erwartet",
-      "published": "Thu, 24 Sep 2026 20:04:34 -0000",
-      "published_display": "24.09.2026 · 20:04 Uhr"
     },
     {
       "title": "Stolpersteine in Heidenau: AfD und CDU stimmen in Heidenau gegen Verlegung von Stolpersteinen",
@@ -52,7 +52,7 @@
     },
     {
       "title": "UN-Generalversammlung: Netanjahu rechtfertigt Kriegsführung – viele Delegierte verlassen Saal",
-      "summary": "Benjamin Netanjahu hat vor den Vereinten Nationen Israels Kriegsführung im Nahen Osten verteidigt. Zuvor haben erneut zahlreiche UN-Delegierte den Saal verlassen.",
+      "summary": "Benjamin Netanjahu hat vor den Vereinten Nationen Israels Kriegsführung im Nahen Osten verteidigt. Vor seiner Rede verließen erneut zahlreiche UN-Delegierte den Saal.",
       "image": "https://img.zeit.de/politik/ausland/2026-09/benjamin-netanjahu-rede-un-generalversammlung-israel-foto-1/original__640x360",
       "link": "https://www.zeit.de/politik/ausland/2026-09/benjamin-netanjahu-rede-un-generalversammlung-israel",
       "published": "Thu, 24 Sep 2026 19:13:47 -0000",
