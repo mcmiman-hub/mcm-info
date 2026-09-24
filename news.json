@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-24T02:17:23.451204+00:00",
+  "updated": "2026-09-24T02:30:27.405436+00:00",
   "items": [
+    {
+      "title": "Facebook-Konzern: Facebook-Konzern überholt Rivalen mit kleinem KI-Gerät",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/meta-bringt-ki-brille-mit-display-auch-nach-deutschland-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/meta-bringt-ki-brille-mit-display-auch-nach-deutschland",
+      "published": "Thu, 24 Sep 2026 02:27:32 -0000",
+      "published_display": "24.09.2026 · 02:27 Uhr"
+    },
+    {
+      "title": "Sportpolitik: Streit statt Sport: Wie Berlin Olympia erneut vermasselt hat",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/streit-statt-sport-wie-berlin-olympia-erneut-vermasselt-hat-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/streit-statt-sport-wie-berlin-olympia-erneut-vermasselt-hat",
+      "published": "Thu, 24 Sep 2026 02:15:06 -0000",
+      "published_display": "24.09.2026 · 02:15 Uhr"
+    },
     {
       "title": "Oktoberfest: Wie entstand eigentlich das Italiener-Wochenende?",
       "summary": "",
@@ -104,22 +120,6 @@
       "image": "https://img.zeit.de/news/2026-09/24/wasenboje-wo-das-volksfest-seine-schattenseiten-zeigt-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-09/24/wasenboje-wo-das-volksfest-seine-schattenseiten-zeigt",
       "published": "Thu, 24 Sep 2026 02:00:18 -0000",
-      "published_display": "24.09.2026 · 02:00 Uhr"
-    },
-    {
-      "title": "Oktoberfest: Mehr internationale Gäste am ersten Wiesn-Wochenende",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/mehr-internationale-gaeste-am-ersten-wiesn-wochenende-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/mehr-internationale-gaeste-am-ersten-wiesn-wochenende",
-      "published": "Thu, 24 Sep 2026 02:00:11 -0000",
-      "published_display": "24.09.2026 · 02:00 Uhr"
-    },
-    {
-      "title": "Agrarministerkonferenz: Agrarminister ringen um die Nutzung von Dünger",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/agrarminister-ringen-um-die-nutzung-von-duenger-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/agrarminister-ringen-um-die-nutzung-von-duenger",
-      "published": "Thu, 24 Sep 2026 02:00:10 -0000",
       "published_display": "24.09.2026 · 02:00 Uhr"
     }
   ]
