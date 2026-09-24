@@ -1,7 +1,71 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-24T02:56:03.103679+00:00",
+  "updated": "2026-09-24T03:17:37.750599+00:00",
   "items": [
+    {
+      "title": "Fotografie: Bilder des Tages",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/bilder-des-tages-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/bilder-des-tages",
+      "published": "Thu, 24 Sep 2026 03:13:56 -0000",
+      "published_display": "24.09.2026 · 03:13 Uhr"
+    },
+    {
+      "title": "Pakistan und Afghanistan: Pakistan fliegt Angriffe auf Ziele in Afghanistan",
+      "summary": "Pakistans Militär hat laut eigenen Angaben nach angeblichen Drohnenangriffen militärische Ziele im Nachbarland beschossen. Die Taliban weisen die Vorwürfe zurück.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/pakistan-afghanistan-luftangriffe-taliban-grenze-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/pakistan-afghanistan-luftangriffe-taliban-grenze",
+      "published": "Thu, 24 Sep 2026 03:11:22 -0000",
+      "published_display": "24.09.2026 · 03:11 Uhr"
+    },
+    {
+      "title": "China und USA: Und sie brauchen sich doch",
+      "summary": "Beim Treffen von Donald Trump mit Xi Jinping geht es für beide Seiten um viel. Aus dem letzten Besuch ging der Chinese gestärkt hervor, dieses Mal soll es anders laufen.",
+      "image": "https://img.zeit.de/wirtschaft/2026-09/china-usa-donald-trump-xi-jinping-treffen-washington-dc-bild-2/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/2026-09/china-usa-donald-trump-xi-jinping-treffen-washington-dc",
+      "published": "Thu, 24 Sep 2026 03:07:22 -0000",
+      "published_display": "24.09.2026 · 03:07 Uhr"
+    },
+    {
+      "title": "Arbeitswelt: Umfrage: Rund die Hälfte erwartet KI-Kenntnisse für Jobstart",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/umfrage-rund-die-haelfte-erwartet-ki-kenntnisse-fuer-jobstart-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/umfrage-rund-die-haelfte-erwartet-ki-kenntnisse-fuer-jobstart",
+      "published": "Thu, 24 Sep 2026 03:05:04 -0000",
+      "published_display": "24.09.2026 · 03:05 Uhr"
+    },
+    {
+      "title": "Hohe Spritpreise: Umweltminister: «Tankrabatte sind Beruhigungspillen»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/umweltminister-tankrabatte-sind-beruhigungspillen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/umweltminister-tankrabatte-sind-beruhigungspillen",
+      "published": "Thu, 24 Sep 2026 03:00:08 -0000",
+      "published_display": "24.09.2026 · 03:00 Uhr"
+    },
+    {
+      "title": "Bundestag: Was dürfen Deutschlands Nachrichtendienste künftig?",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/was-duerfen-deutschlands-nachrichtendienste-kuenftig-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/was-duerfen-deutschlands-nachrichtendienste-kuenftig",
+      "published": "Thu, 24 Sep 2026 03:00:07 -0000",
+      "published_display": "24.09.2026 · 03:00 Uhr"
+    },
+    {
+      "title": "Neues akademisches Jahr: Zu wenige Wohnheimplätze vor neuem Uni-Semester in Berlin",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/zu-wenige-wohnheimplaetze-vor-neuem-uni-semester-in-berlin-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/zu-wenige-wohnheimplaetze-vor-neuem-uni-semester-in-berlin",
+      "published": "Thu, 24 Sep 2026 03:00:05 -0000",
+      "published_display": "24.09.2026 · 03:00 Uhr"
+    },
+    {
+      "title": "Antrag von SPD und FDP: Opposition will Landtagskommission für Gefängnisse zurück",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/opposition-will-landtagskommission-fuer-gefaengnisse-zurueck-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/opposition-will-landtagskommission-fuer-gefaengnisse-zurueck",
+      "published": "Thu, 24 Sep 2026 03:00:04 -0000",
+      "published_display": "24.09.2026 · 03:00 Uhr"
+    },
     {
       "title": "Schwarz-rote Reformen: Bentele fordert Sozialcheck für Rentenreform",
       "summary": "",
@@ -57,70 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/24/meta-bringt-ki-brille-mit-display-auch-nach-deutschland",
       "published": "Thu, 24 Sep 2026 02:27:32 -0000",
       "published_display": "24.09.2026 · 02:27 Uhr"
-    },
-    {
-      "title": "Sportpolitik: Streit statt Sport: Wie Berlin Olympia erneut vermasselt hat",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/streit-statt-sport-wie-berlin-olympia-erneut-vermasselt-hat-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/streit-statt-sport-wie-berlin-olympia-erneut-vermasselt-hat",
-      "published": "Thu, 24 Sep 2026 02:15:06 -0000",
-      "published_display": "24.09.2026 · 02:15 Uhr"
-    },
-    {
-      "title": "Oktoberfest: Wie entstand eigentlich das Italiener-Wochenende?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/wie-entstand-eigentlich-das-italiener-wochenende-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/wie-entstand-eigentlich-das-italiener-wochenende",
-      "published": "Thu, 24 Sep 2026 02:15:05 -0000",
-      "published_display": "24.09.2026 · 02:15 Uhr"
-    },
-    {
-      "title": "Wohnungspolitik: Mieterschutz: Regeln gegen teures Wohnen in Hessen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/mieterschutz-regeln-gegen-teures-wohnen-in-hessen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/mieterschutz-regeln-gegen-teures-wohnen-in-hessen",
-      "published": "Thu, 24 Sep 2026 02:14:04 -0000",
-      "published_display": "24.09.2026 · 02:14 Uhr"
-    },
-    {
-      "title": "Wetter in Bayern: Regen und Gewitter im Osten – Wochenende bringt Sonne zurück",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/regen-und-gewitter-im-osten-wochenende-bringt-sonne-zurueck-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/regen-und-gewitter-im-osten-wochenende-bringt-sonne-zurueck",
-      "published": "Thu, 24 Sep 2026 02:10:05 -0000",
-      "published_display": "24.09.2026 · 02:10 Uhr"
-    },
-    {
-      "title": "Elektromobilität: So viel Ladestrom brauchen Elektro-Lkw in Europa",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/so-viel-ladestrom-brauchen-elektro-lkw-in-europa-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/so-viel-ladestrom-brauchen-elektro-lkw-in-europa",
-      "published": "Thu, 24 Sep 2026 02:10:04 -0000",
-      "published_display": "24.09.2026 · 02:10 Uhr"
-    },
-    {
-      "title": "Berlin nach der Wahl: SPD-Abgeordneter Düsterhöft schließt Opposition nicht aus",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/spd-abgeordneter-duesterhoeft-schliesst-opposition-nicht-aus-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/spd-abgeordneter-duesterhoeft-schliesst-opposition-nicht-aus",
-      "published": "Thu, 24 Sep 2026 02:01:04 -0000",
-      "published_display": "24.09.2026 · 02:01 Uhr"
-    },
-    {
-      "title": "Künstliche Intelligenz: CSU-Juristen fordern umfassende Justizreform wegen KI",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/csu-juristen-fordern-umfassende-justizreform-wegen-ki-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/csu-juristen-fordern-umfassende-justizreform-wegen-ki",
-      "published": "Thu, 24 Sep 2026 02:00:33 -0000",
-      "published_display": "24.09.2026 · 02:00 Uhr"
-    },
-    {
-      "title": "Edmund Stoiber hat Geburtstag: 85. Geburtstag ohne große Feier",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/85-geburtstag-ohne-grosse-feier-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/85-geburtstag-ohne-grosse-feier",
-      "published": "Thu, 24 Sep 2026 02:00:32 -0000",
-      "published_display": "24.09.2026 · 02:00 Uhr"
     }
   ]
 }
