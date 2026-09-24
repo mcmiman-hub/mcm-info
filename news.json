@@ -1,7 +1,79 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-24T09:45:18.105445+00:00",
+  "updated": "2026-09-24T09:56:11.626724+00:00",
   "items": [
+    {
+      "title": "Erich Schlatter: Das unerhörte Leben des Außenseiters Erich Schlatter",
+      "summary": "Ist er ein Querulant, ein Charismatiker oder ein Systemsprenger? Lange konnte niemand Erich Schlatter richtig böse sein. Dann wird ihm plötzlich ein Mord vorgeworfen.",
+      "image": "https://img.zeit.de/zeit-verbrechen/2026/40/systemsprenger-bild-10/original__640x360",
+      "link": "https://www.zeit.de/zeit-verbrechen/2026/40/erich-schlatter-schaffhausen-justiz-psychiatrie-schweiz",
+      "published": "Thu, 24 Sep 2026 09:53:29 -0000",
+      "published_display": "24.09.2026 · 09:53 Uhr"
+    },
+    {
+      "title": "Immobilienwirtschaft: Vonovia ist bereit für den Bau von Soldatenwohnungen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/vonovia-ist-bereit-fuer-den-bau-von-soldatenwohnungen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/vonovia-ist-bereit-fuer-den-bau-von-soldatenwohnungen",
+      "published": "Thu, 24 Sep 2026 09:53:29 -0000",
+      "published_display": "24.09.2026 · 09:53 Uhr"
+    },
+    {
+      "title": "Kriminalität: Schüsse und Böller in Heidenheim - Polizei prüft Hintergrund",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/polizeieinsatz-in-heidenheim-hintergruende-unklar-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/polizeieinsatz-in-heidenheim-hintergruende-unklar",
+      "published": "Thu, 24 Sep 2026 09:51:44 -0000",
+      "published_display": "24.09.2026 · 09:51 Uhr"
+    },
+    {
+      "title": "Mobilitätskosten: Spritpreise gesunken - aber Aufwärtstrend am Donnerstag",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/spritpreise-gesunken-aber-aufwaertstrend-am-donnerstag-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/spritpreise-gesunken-aber-aufwaertstrend-am-donnerstag",
+      "published": "Thu, 24 Sep 2026 09:50:05 -0000",
+      "published_display": "24.09.2026 · 09:50 Uhr"
+    },
+    {
+      "title": "Lebensmittelhersteller: Ungewöhnlicher Geruch: Großeinsatz bei Firma in Eppelheim",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/ungewoehnlicher-geruch-grosseinsatz-bei-firma-in-eppelheim-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/ungewoehnlicher-geruch-grosseinsatz-bei-firma-in-eppelheim",
+      "published": "Thu, 24 Sep 2026 09:49:43 -0000",
+      "published_display": "24.09.2026 · 09:49 Uhr"
+    },
+    {
+      "title": "Schneller als Qin Haiyang: Mit 17 Jahren zur Bestmarke: Japaner schwimmt Weltrekord",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/mit-17-jahren-zur-bestmarke-japaner-schwimmt-weltrekord-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/mit-17-jahren-zur-bestmarke-japaner-schwimmt-weltrekord",
+      "published": "Thu, 24 Sep 2026 09:47:43 -0000",
+      "published_display": "24.09.2026 · 09:47 Uhr"
+    },
+    {
+      "title": "Durchsuchung: Fahnder entdecken stillgelegte Cannabisplantage in Frankfurt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/fahnder-entdecken-stillgelegte-cannabisplantage-in-frankfurt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/fahnder-entdecken-stillgelegte-cannabisplantage-in-frankfurt",
+      "published": "Thu, 24 Sep 2026 09:46:45 -0000",
+      "published_display": "24.09.2026 · 09:46 Uhr"
+    },
+    {
+      "title": "Identität geklärt: Auto brennt aus – Zwei Männer sterben bei Neuruppin",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/auto-brennt-aus-zwei-maenner-sterben-bei-neuruppin-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/auto-brennt-aus-zwei-maenner-sterben-bei-neuruppin",
+      "published": "Thu, 24 Sep 2026 09:46:11 -0000",
+      "published_display": "24.09.2026 · 09:46 Uhr"
+    },
+    {
+      "title": "Sportpolitik: LSB Sachsen bedauert Berliner Rückzug bei Olympia-Bewerbung",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/lsb-sachsen-bedauert-berliner-rueckzug-bei-olympia-bewerbung-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/lsb-sachsen-bedauert-berliner-rueckzug-bei-olympia-bewerbung",
+      "published": "Thu, 24 Sep 2026 09:44:12 -0000",
+      "published_display": "24.09.2026 · 09:44 Uhr"
+    },
     {
       "title": "Geheimdienstreform: Bundestag berät über mehr Befugnisse für die Geheimdienste",
       "summary": "Bundesinnenminister Dobrindt will die Abwehr von Sabotage und Spionage ausweiten. Die geplanten neuen Rechte der Nachrichtendienste sorgen im Bundestag für Streit.",
@@ -49,78 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/24/h-iby-tauscht-vor-berufungsprozess-seine-verteidiger-aus",
       "published": "Thu, 24 Sep 2026 09:35:27 -0000",
       "published_display": "24.09.2026 · 09:35 Uhr"
-    },
-    {
-      "title": "Handelskonflikt: Xi bei Trump: US-Regierung verkündet Atempause im Zollstreit",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/us-regierung-zusatzzoelle-gegen-china-erneut-aufgeschoben-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/us-regierung-zusatzzoelle-gegen-china-erneut-aufgeschoben",
-      "published": "Thu, 24 Sep 2026 09:35:09 -0000",
-      "published_display": "24.09.2026 · 09:35 Uhr"
-    },
-    {
-      "title": "Pharma: Neues Unternehmen von Biontech-Gründern heißt Arife",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/23/neues-unternehmen-von-biontech-gruendern-heisst-arife-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/23/neues-unternehmen-von-biontech-gruendern-heisst-arife",
-      "published": "Thu, 24 Sep 2026 09:34:17 -0000",
-      "published_display": "24.09.2026 · 09:34 Uhr"
-    },
-    {
-      "title": "Regierungsbildung in Berlin: Müller: Koalitionsvertrag mit Präambel gegen Antisemitismus",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/mueller-koalitionsvertrag-mit-praeambel-gegen-antisemitismus-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/mueller-koalitionsvertrag-mit-praeambel-gegen-antisemitismus",
-      "published": "Thu, 24 Sep 2026 09:33:49 -0000",
-      "published_display": "24.09.2026 · 09:33 Uhr"
-    },
-    {
-      "title": "Sportpolitik: Brandenburg ist enttäuscht über Olympia-Rückzug Berlins",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/brandenburgs-minister-ist-enttaeuscht-ueber-olympia-rueckzug-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/brandenburgs-minister-ist-enttaeuscht-ueber-olympia-rueckzug",
-      "published": "Thu, 24 Sep 2026 09:32:48 -0000",
-      "published_display": "24.09.2026 · 09:32 Uhr"
-    },
-    {
-      "title": "Herbst auf der Insel: Strandkörbe in Wyk bis Mitte Oktober frei zu nutzen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/strandkoerbe-in-wyk-bis-mitte-oktober-frei-zu-nutzen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/strandkoerbe-in-wyk-bis-mitte-oktober-frei-zu-nutzen",
-      "published": "Thu, 24 Sep 2026 09:31:08 -0000",
-      "published_display": "24.09.2026 · 09:31 Uhr"
-    },
-    {
-      "title": "Notfälle: Störung bei Notrufen der Hamburger Polizei und Feuerwehr",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/stoerung-bei-notrufen-der-hamburger-polizei-und-feuerwehr-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/stoerung-bei-notrufen-der-hamburger-polizei-und-feuerwehr",
-      "published": "Thu, 24 Sep 2026 09:30:54 -0000",
-      "published_display": "24.09.2026 · 09:30 Uhr"
-    },
-    {
-      "title": "Zwist am Tegernsee: Nachbarschaftsstreit: Hoeneß darf Bäume vorerst behalten",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/nachbarschaftsstreit-hoeness-darf-baeume-vorerst-behalten-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/nachbarschaftsstreit-hoeness-darf-baeume-vorerst-behalten",
-      "published": "Thu, 24 Sep 2026 09:29:43 -0000",
-      "published_display": "24.09.2026 · 09:29 Uhr"
-    },
-    {
-      "title": "Ifo-Geschäftsklimaindex: Stimmung in deutschen Unternehmen verbessert sich weiter",
-      "summary": "Die Wirtschaft scheint sich zu erholen, entsprechend positiv blicken Unternehmen derzeit in die Zukunft. Der Geschäftsklimaindex stieg auf den höchsten Wert seit 2023.",
-      "image": "https://img.zeit.de/wirtschaft/unternehmen/2026-09/ifo-geschaeftsklima-index-deutschland-unternehmen-konjunktur-foto-1/original__640x360",
-      "link": "https://www.zeit.de/wirtschaft/unternehmen/2026-09/ifo-geschaeftsklima-index-deutschland-unternehmen-konjunktur",
-      "published": "Thu, 24 Sep 2026 09:27:42 -0000",
-      "published_display": "24.09.2026 · 09:27 Uhr"
-    },
-    {
-      "title": "Sogar Fußballteam eingebunden: Millionenschwere Hehlerei - wie die Betrüger ins Netz gingen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/millionenschwere-hehlerei-wie-die-betrueger-ins-netz-gingen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/millionenschwere-hehlerei-wie-die-betrueger-ins-netz-gingen",
-      "published": "Thu, 24 Sep 2026 09:26:47 -0000",
-      "published_display": "24.09.2026 · 09:26 Uhr"
     }
   ]
 }
