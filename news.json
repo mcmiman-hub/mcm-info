@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-24T20:32:54.962808+00:00",
+  "updated": "2026-09-24T20:45:52.435619+00:00",
   "items": [
+    {
+      "title": "Fußball-Nationalmannschaft: Wildes Remis bei Klopps erster Bundestrainer-Show",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/klopps-erste-startelf-mit-neuling-treu-adeyemi-und-schade-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/klopps-erste-startelf-mit-neuling-treu-adeyemi-und-schade",
+      "published": "Thu, 24 Sep 2026 20:42:33 -0000",
+      "published_display": "24.09.2026 · 20:42 Uhr"
+    },
+    {
+      "title": "Fußball-Nationalmannschaft: DFB-Team mit Remis gegen Niederlande bei Klopp-Debüt",
+      "summary": "",
+      "image": "https://img.zeit.de/administratives/sharing/fallback-image-die-zeit/wide__1300x731",
+      "link": "https://www.zeit.de/news/2026-09/24/dfb-team-mit-remis-gegen-niederlande-bei-klopp-debuet",
+      "published": "Thu, 24 Sep 2026 20:42:33 -0000",
+      "published_display": "24.09.2026 · 20:42 Uhr"
+    },
     {
       "title": "Regierungschef unter Druck: Konfrontiert mit Protest: Netanjahu verteidigt Kriege bei UN",
       "summary": "",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/2026/41/ki-whistleblower-anthropic-openai-ausloeschung-menschheit",
       "published": "Thu, 24 Sep 2026 18:56:29 -0000",
       "published_display": "24.09.2026 · 18:56 Uhr"
-    },
-    {
-      "title": "Schwarz-rote Reformen: Wüst: Bas soll Gesetzentwurf zur Rentenreform vorlegen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/wuest-bas-soll-gesetzentwurf-zur-rentenreform-vorlegen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/wuest-bas-soll-gesetzentwurf-zur-rentenreform-vorlegen",
-      "published": "Thu, 24 Sep 2026 18:54:36 -0000",
-      "published_display": "24.09.2026 · 18:54 Uhr"
-    },
-    {
-      "title": "Nach der Abgeordnetenhauswahl: Juso-Chef wirbt für rot-grün-rote Koalition in Berlin",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/juso-chef-wirbt-fuer-rot-gruen-rote-koalition-in-berlin-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/juso-chef-wirbt-fuer-rot-gruen-rote-koalition-in-berlin",
-      "published": "Thu, 24 Sep 2026 18:52:07 -0000",
-      "published_display": "24.09.2026 · 18:52 Uhr"
     }
   ]
 }
