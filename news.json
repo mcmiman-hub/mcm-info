@@ -1,7 +1,39 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-24T07:44:57.853065+00:00",
+  "updated": "2026-09-24T07:56:02.201143+00:00",
   "items": [
+    {
+      "title": "Oasis-Tournee: Oasis warnt vor Betrug beim Ticketverkauf",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/oasis-warnt-vor-betrug-beim-ticketverkauf-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/oasis-warnt-vor-betrug-beim-ticketverkauf",
+      "published": "Thu, 24 Sep 2026 07:51:37 -0000",
+      "published_display": "24.09.2026 · 07:51 Uhr"
+    },
+    {
+      "title": "Nachwuchs im Aquarium: Hai-Paar in Karlsruhe bekommt Vierlinge",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/23/hai-paar-in-karlsruhe-bekommt-vierlinge-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/23/hai-paar-in-karlsruhe-bekommt-vierlinge",
+      "published": "Thu, 24 Sep 2026 07:49:36 -0000",
+      "published_display": "24.09.2026 · 07:49 Uhr"
+    },
+    {
+      "title": "Notlandung bei Betzenstein: Motorausfall - Pilot landet Kleinflugzeug im Maisfeld",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/motorausfall-pilot-landet-kleinflugzeug-im-maisfeld-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/motorausfall-pilot-landet-kleinflugzeug-im-maisfeld",
+      "published": "Thu, 24 Sep 2026 07:49:13 -0000",
+      "published_display": "24.09.2026 · 07:49 Uhr"
+    },
+    {
+      "title": "Autoindustrie: Marktanteil chinesischer Automarken in EU wächst",
+      "summary": "Mehr als 10 Prozent des EU-Automarkts machen mittlerweile chinesische Firmen aus. Der Anteil von E-Autos an allen Neuzulassungen ist auf ein Fünftel gestiegen.",
+      "image": "https://img.zeit.de/wirtschaft/2026-09/chinesische-autohersteller-europa-marktanteil-byd-geely-saic-foto-1/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/2026-09/chinesische-autohersteller-europa-marktanteil-byd-geely-saic",
+      "published": "Thu, 24 Sep 2026 07:46:50 -0000",
+      "published_display": "24.09.2026 · 07:46 Uhr"
+    },
     {
       "title": "Nordrhein-Westfalen: Kritik an EEG-Entwurf für Bezeichnung von Borken als »Küstengebiet«",
       "summary": "Obwohl Borken mehr als 150 Kilometer von der Nordsee entfernt liegt, wird es in der geplanten EEG-Reform als »Küstengebiet« bezeichnet. Die Irritation ist groß.",
@@ -11,28 +43,12 @@
       "published_display": "24.09.2026 · 07:38 Uhr"
     },
     {
-      "title": "Notlandung bei Betzenstein: Motorausfall - Pilot landet Kleinflugzeug im Maisfeld",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/motorausfall-pilot-landet-kleinflugzeug-im-maisfeld-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/motorausfall-pilot-landet-kleinflugzeug-im-maisfeld",
-      "published": "Thu, 24 Sep 2026 07:38:02 -0000",
-      "published_display": "24.09.2026 · 07:38 Uhr"
-    },
-    {
       "title": "Statistisches Bundesamt: Immobilienpreise in Deutschland steigen nicht mehr so stark",
       "summary": "Die Preise für Häuser und Wohnungen sind im zweiten Quartal so wenig gestiegen wie seit zwei Jahren nicht mehr. Es zeigen sich große regionale Unterschiede.",
       "image": "https://img.zeit.de/wirtschaft/2026-09/immobilienpreise-deutschland-wohnimmobilien-destatis-grossstaedte-laendliche-regionen-foto-1/original__640x360",
       "link": "https://www.zeit.de/wirtschaft/2026-09/statistisches-bundesamt-immobilienpreise-deutschland-grossstadt-land",
       "published": "Thu, 24 Sep 2026 07:37:12 -0000",
       "published_display": "24.09.2026 · 07:37 Uhr"
-    },
-    {
-      "title": "Nachwuchs im Aquarium: Hai-Paar in Karlsruhe bekommt Vierlinge",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/23/hai-paar-in-karlsruhe-bekommt-vierlinge-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/23/hai-paar-in-karlsruhe-bekommt-vierlinge",
-      "published": "Thu, 24 Sep 2026 07:35:01 -0000",
-      "published_display": "24.09.2026 · 07:35 Uhr"
     },
     {
       "title": "Nach langer Krankheit: Heinz Hoenig: «Ich möchte meine Jungs aufwachsen sehen»",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/24/ksc-boss-eggimann-nach-sieglos-serie-drehen-nicht-durch",
       "published": "Thu, 24 Sep 2026 07:22:50 -0000",
       "published_display": "24.09.2026 · 07:22 Uhr"
-    },
-    {
-      "title": "Ukrainekrieg: Ukraine meldet zwei Tote durch russische Angriffe auf Kyjiw",
-      "summary": "Russland hat Kyjiw erneut mit ballistischen Raketen angegriffen. Auch Häuser und eine Entbindungsklinik wurden getroffen. Mindestens zwei Menschen wurden getötet.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/russland-angriffe-kiew-odessa-wohnhaeuser-infrastruktur-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/russland-angriffe-kiew-odessa-wohnhaeuser-infrastruktur",
-      "published": "Thu, 24 Sep 2026 07:16:15 -0000",
-      "published_display": "24.09.2026 · 07:16 Uhr"
-    },
-    {
-      "title": "Tourismus: Easyjet weitet im Sommer Flugangebot am BER aus",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/easyjet-weitet-im-sommer-flugangebot-am-ber-aus-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/easyjet-weitet-im-sommer-flugangebot-am-ber-aus",
-      "published": "Thu, 24 Sep 2026 07:14:58 -0000",
-      "published_display": "24.09.2026 · 07:14 Uhr"
     }
   ]
 }
