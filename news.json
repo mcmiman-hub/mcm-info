@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-24T04:31:22.122722+00:00",
+  "updated": "2026-09-24T04:44:33.386432+00:00",
   "items": [
+    {
+      "title": "Demenz: Er sagte: Jetzt mach ich mir noch fünf schöne Jahre",
+      "summary": "Wie fühlt es sich an, die Diagnose Demenz zu erhalten? Durch einen Schnelltest kann man eine Ahnung davon bekommen. Und auch mit der Diagnose noch gut leben.",
+      "image": "https://img.zeit.de/familie/2026-09/demenz-alzheimer-diagnose-gedaechtnis-bild-05/original__640x360",
+      "link": "https://www.zeit.de/familie/2026-09/demenz-alzheimer-diagnose-gedaechtnis-familie",
+      "published": "Thu, 24 Sep 2026 04:34:28 -0000",
+      "published_display": "24.09.2026 · 04:34 Uhr"
+    },
+    {
+      "title": "Harte Schale, gesunder Kern: Supernuss Macadamia: Eine Australierin zum Anbeißen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/supernuss-macadamia-eine-australierin-zum-anbeissen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/supernuss-macadamia-eine-australierin-zum-anbeissen",
+      "published": "Thu, 24 Sep 2026 04:30:08 -0000",
+      "published_display": "24.09.2026 · 04:30 Uhr"
+    },
     {
       "title": "Auszeichnung: «Blauer Panther»: Wer wird «Beste Schauspielerin»?",
       "summary": "",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/24/windiger-donnerstag-am-wochenende-wird-es-waermer",
       "published": "Thu, 24 Sep 2026 03:57:16 -0000",
       "published_display": "24.09.2026 · 03:57 Uhr"
-    },
-    {
-      "title": "Bundestag: Bundestag berät über umstrittene Geheimdienstreform und Organspende",
-      "summary": "Die Abgeordneten diskutieren ein Vorhaben von Alexander Dobrindt, das Befugnisse von Geheimdiensten deutlich weiten würde. Auch die Widerspruchsregelung wird debattiert.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/nachrichtendienste-reform-bundesnachrichtendienst-verfassungsschutz-alexander-dobrindt-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/nachrichtendienste-reform-bundesnachrichtendienst-verfassungsschutz-alexander-dobrindt",
-      "published": "Thu, 24 Sep 2026 03:51:22 -0000",
-      "published_display": "24.09.2026 · 03:51 Uhr"
-    },
-    {
-      "title": "Bauarbeiten: A7-Vollsperrung - Ausbau südlich der Elbtunnels wird fertig",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/a7-vollsperrung-ausbau-suedlich-der-elbtunnels-wird-fertig-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/a7-vollsperrung-ausbau-suedlich-der-elbtunnels-wird-fertig",
-      "published": "Thu, 24 Sep 2026 03:30:09 -0000",
-      "published_display": "24.09.2026 · 03:30 Uhr"
     }
   ]
 }
