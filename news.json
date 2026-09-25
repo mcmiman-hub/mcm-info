@@ -1,7 +1,79 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-25T09:32:47.466079+00:00",
+  "updated": "2026-09-25T09:45:29.732896+00:00",
   "items": [
+    {
+      "title": "Landesvorsitz: Brandenburgs Grüne suchen Landeschefin - Debatte zu Hauptamt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/brandenburgs-gruene-suchen-landeschefin-debatte-zu-hauptamt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/brandenburgs-gruene-suchen-landeschefin-debatte-zu-hauptamt",
+      "published": "Fri, 25 Sep 2026 09:42:22 -0000",
+      "published_display": "25.09.2026 · 09:42 Uhr"
+    },
+    {
+      "title": "Europaweite Aktion: Zoll entdeckt Hinweise auf Arbeitsausbeutung in München",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/zoll-entdeckt-hinweise-auf-arbeitsausbeutung-in-muenchen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/zoll-entdeckt-hinweise-auf-arbeitsausbeutung-in-muenchen",
+      "published": "Fri, 25 Sep 2026 09:38:59 -0000",
+      "published_display": "25.09.2026 · 09:38 Uhr"
+    },
+    {
+      "title": "Verkehr: Störung der S3 zwischen Pinneberg und Elbgaustraße vorbei",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/s3-gestoert-kein-zug-zwischen-pinneberg-und-elbgaustrasse-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/s3-gestoert-kein-zug-zwischen-pinneberg-und-elbgaustrasse",
+      "published": "Fri, 25 Sep 2026 09:38:48 -0000",
+      "published_display": "25.09.2026 · 09:38 Uhr"
+    },
+    {
+      "title": "Dialysekonzern: FMC stellt Chinageschäft neu auf: 110 Millionen Sonderkosten",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/fmc-stellt-chinageschaeft-neu-auf-110-millionen-sonderkosten-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/fmc-stellt-chinageschaeft-neu-auf-110-millionen-sonderkosten",
+      "published": "Fri, 25 Sep 2026 09:38:24 -0000",
+      "published_display": "25.09.2026 · 09:38 Uhr"
+    },
+    {
+      "title": "Vor der Bewerber-Wahl: Olympia-Finale: So läuft der Endspurt von München und NRW",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/wann-sich-sport-staatsminister-rauhe-olympia-wuenscht-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/wann-sich-sport-staatsminister-rauhe-olympia-wuenscht",
+      "published": "Fri, 25 Sep 2026 09:38:23 -0000",
+      "published_display": "25.09.2026 · 09:38 Uhr"
+    },
+    {
+      "title": "Krieg gegen die Ukraine: Ukraine erhält wohl Lizenz zur Herstellung von Patriot-Abwehrraketen",
+      "summary": "Die USA haben der Ukraine nach Angaben von Selenskyj die Lizenz zur Patriot-Herstellung erteilt. Russland attackiert Rüstungsbetriebe und Schiffe. Das Liveblog",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/liveblog-ukraine-patriot-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "published": "Fri, 25 Sep 2026 09:36:00 -0000",
+      "published_display": "25.09.2026 · 09:36 Uhr"
+    },
+    {
+      "title": "Kinderbuch: Illustrator will seinen Grüffelo nicht auf der Wiesn sehen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/illustrator-will-seinen-grueffelo-nicht-auf-der-wiesn-sehen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/illustrator-will-seinen-grueffelo-nicht-auf-der-wiesn-sehen",
+      "published": "Fri, 25 Sep 2026 09:35:56 -0000",
+      "published_display": "25.09.2026 · 09:35 Uhr"
+    },
+    {
+      "title": "Wahlen: Backhaus will sich weiter politisch engagieren in MV",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/backhaus-will-sich-weiter-politisch-engagieren-in-mv-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/backhaus-will-sich-weiter-politisch-engagieren-in-mv",
+      "published": "Fri, 25 Sep 2026 09:34:35 -0000",
+      "published_display": "25.09.2026 · 09:34 Uhr"
+    },
+    {
+      "title": "Bundespolizeigesetz: Bundestag beschließt neues Bundespolizeigesetz",
+      "summary": "Der Bundestag hat weitreichende neue Befugnisse für die Bundespolizei beschlossen. Nach einer Panne im Sommer war eine Wiederholung der Abstimmung über das Gesetz nötig.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/bundespolizeigesetz-reform-bundestag-befugnisse-abschiebehaft-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/bundespolizeigesetz-reform-bundestag-befugnisse-abschiebehaft",
+      "published": "Fri, 25 Sep 2026 09:33:26 -0000",
+      "published_display": "25.09.2026 · 09:33 Uhr"
+    },
     {
       "title": "Berliner Pläne zur Vergesellschaftung: Studie bewertet Vergesellschaftung als sinnvolle Ergänzung zu Neubau",
       "summary": "Eine Studie der Hans-Böckler-Stiftung hält die Vergesellschaftung von Wohnraum in Berlin für sinnvoll. Den Mangel an Wohnungen in der Hauptstadt löse sie jedoch nicht.",
@@ -49,78 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/25/initiative-macht-druck-auf-linke-bei-enteignungs-frage",
       "published": "Fri, 25 Sep 2026 09:23:26 -0000",
       "published_display": "25.09.2026 · 09:23 Uhr"
-    },
-    {
-      "title": "Kriminalität: Bundespolizei fasst gesuchten Betrüger am Bremer Flughafen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/bundespolizei-fasst-gesuchten-betrueger-am-bremer-flughafen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/bundespolizei-fasst-gesuchten-betrueger-am-bremer-flughafen",
-      "published": "Fri, 25 Sep 2026 09:21:45 -0000",
-      "published_display": "25.09.2026 · 09:21 Uhr"
-    },
-    {
-      "title": "15-Tage-Regelung: Schenk gegen Änderung bei Kinderkrankentagen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/schenk-gegen-aenderung-bei-kinderkrankentagen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/schenk-gegen-aenderung-bei-kinderkrankentagen",
-      "published": "Fri, 25 Sep 2026 09:20:13 -0000",
-      "published_display": "25.09.2026 · 09:20 Uhr"
-    },
-    {
-      "title": "Fünf Personen festgenommen: Sexuelle Offerte: Festnahme nach Diebstahlmasche",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/sexuelle-offerte-festnahme-nach-diebstahlmasche-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/sexuelle-offerte-festnahme-nach-diebstahlmasche",
-      "published": "Fri, 25 Sep 2026 09:18:25 -0000",
-      "published_display": "25.09.2026 · 09:18 Uhr"
-    },
-    {
-      "title": "Berliner Regierungsbildung: Söder warnt SPD und Grüne vor Koalition mit Linkspartei",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/soeder-warnt-spd-und-gruene-vor-koalition-mit-linkspartei-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/soeder-warnt-spd-und-gruene-vor-koalition-mit-linkspartei",
-      "published": "Fri, 25 Sep 2026 09:15:44 -0000",
-      "published_display": "25.09.2026 · 09:15 Uhr"
-    },
-    {
-      "title": "Höchstrichterliches Urteil: BGH entscheidet: Street-Art-Gemälde darf an Hochhausfassade",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/bgh-entscheidet-im-streit-um-streetart-fassadengemaelde-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/bgh-entscheidet-im-streit-um-streetart-fassadengemaelde",
-      "published": "Fri, 25 Sep 2026 09:14:22 -0000",
-      "published_display": "25.09.2026 · 09:14 Uhr"
-    },
-    {
-      "title": "Luftfahrt: Investor Attestor übernimmt Condor ganz - Staat steigt aus",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/investor-attestor-uebernimmt-condor-ganz-staat-steigt-aus-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/investor-attestor-uebernimmt-condor-ganz-staat-steigt-aus",
-      "published": "Fri, 25 Sep 2026 09:13:55 -0000",
-      "published_display": "25.09.2026 · 09:13 Uhr"
-    },
-    {
-      "title": "Polizeieinsatz: Polizei kontrolliert besetztes Haus nach Angriffen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/polizei-kontrolliert-besetztes-haus-nach-angriffen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/polizei-kontrolliert-besetztes-haus-nach-angriffen",
-      "published": "Fri, 25 Sep 2026 09:13:09 -0000",
-      "published_display": "25.09.2026 · 09:13 Uhr"
-    },
-    {
-      "title": "Fußball-Nationalmannschaft: Klopp holt Wirtz und Burkardt für Musiala und Havertz",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/klopp-holt-wirtz-und-burkardt-fuer-musiala-und-havertz-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/klopp-holt-wirtz-und-burkardt-fuer-musiala-und-havertz",
-      "published": "Fri, 25 Sep 2026 09:13:05 -0000",
-      "published_display": "25.09.2026 · 09:13 Uhr"
-    },
-    {
-      "title": "Unfälle: Quad überschlägt sich – Zwei Schwerverletzte in Badbergen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/quad-ueberschlaegt-sich-zwei-schwerverletzte-in-badbergen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/quad-ueberschlaegt-sich-zwei-schwerverletzte-in-badbergen",
-      "published": "Fri, 25 Sep 2026 09:11:45 -0000",
-      "published_display": "25.09.2026 · 09:11 Uhr"
     }
   ]
 }
