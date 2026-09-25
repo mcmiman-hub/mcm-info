@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-25T19:42:59.228266+00:00",
+  "updated": "2026-09-25T19:54:58.551779+00:00",
   "items": [
+    {
+      "title": "Wiesbaden: Raubvogel-Brutkästen an Strommasten lösen Polizeieinsatz aus",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/raubvogel-brutkaesten-an-strommasten-loesen-polizeieinsatz-aus-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/raubvogel-brutkaesten-an-strommasten-loesen-polizeieinsatz-aus",
+      "published": "Fri, 25 Sep 2026 19:51:50 -0000",
+      "published_display": "25.09.2026 · 19:51 Uhr"
+    },
+    {
+      "title": "USA: Supreme Court erlaubt Nutzung von Datenbank zur Wählerprüfung",
+      "summary": "Kurz vor den US-Zwischenwahlen erlaubt der Supreme Court die Wählerprüfung durch eine Datenbank. Damit will die Trump-Regierung Nicht-Staatsbürger überprüfen lassen.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/usa-oberster-gerichtshof-waehler-datenbank-wahlberechtigung-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/usa-oberster-gerichtshof-waehler-datenbank-wahlberechtigung",
+      "published": "Fri, 25 Sep 2026 19:45:03 -0000",
+      "published_display": "25.09.2026 · 19:45 Uhr"
+    },
     {
       "title": "Lebensmittelrückruf: Amt warnt vor Fremdkörpern in Kimchi-Gläsern",
       "summary": "",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/25/stimmungsmache-berliner-linke-wehrt-sich-gegen-vorwuerfe",
       "published": "Fri, 25 Sep 2026 18:34:58 -0000",
       "published_display": "25.09.2026 · 18:34 Uhr"
-    },
-    {
-      "title": "G20-Treffen in Miami: Außenminister Wadephul begrüßt Einladung an Putin zum G20-Gipfel",
-      "summary": "US-Präsident Trump hat Kremlchef Putin zum G20-Treffen nach Miami eingeladen. Der deutsche Außenminister sieht es als möglichen Beginn von ernsthaften Verhandlungen.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/g20-treffen-miami-wladimir-putin-usa-einladung-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/g20-treffen-miami-wladimir-putin-usa-einladung",
-      "published": "Fri, 25 Sep 2026 18:32:04 -0000",
-      "published_display": "25.09.2026 · 18:32 Uhr"
-    },
-    {
-      "title": "Sondierungen mit SPD und Grüne: Rot-Grün-Rot in Berlin – wie stehen die Chancen?",
-      "summary": "Die Berliner Linke berät über mögliche Sondierungen mit SPD und Grünen. Wie realistisch ist eine rot-grün-rote Landesregierung? Und: Xi beendet Staatsbesuch in den USA.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/berliner-abgeordnetenhaus-die-linke-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/2026-09/sondierungen-spd-gruene-linke-berlin-nachrichtenpodcast",
-      "published": "Fri, 25 Sep 2026 18:22:25 -0000",
-      "published_display": "25.09.2026 · 18:22 Uhr"
     }
   ]
 }
