@@ -1,7 +1,39 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-25T04:18:17.119889+00:00",
+  "updated": "2026-09-25T04:32:03.553571+00:00",
   "items": [
+    {
+      "title": "Donald Trump und Xi Jinping: Einer der seltsamsten Staatsbesuche der jüngeren US-Geschichte",
+      "summary": "Xi Jinping besucht Donald Trump: Vordergründig tauschen die beiden Präsidenten nur warme Worte aus. Und doch zeichnet sich eine historische Verschiebung ab.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/donald-trump-xi-jinping-usa-china-treffen-midterms-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/donald-trump-xi-jinping-usa-china-treffen-midterms",
+      "published": "Fri, 25 Sep 2026 04:31:05 -0000",
+      "published_display": "25.09.2026 · 04:31 Uhr"
+    },
+    {
+      "title": "Neben Abraumförderbrücke: Vierbeiner-Festival: Wenn Hunde Mode zeigen und SUP fahren",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/vierbeiner-festival-wenn-hunde-mode-zeigen-und-sup-fahren-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/vierbeiner-festival-wenn-hunde-mode-zeigen-und-sup-fahren",
+      "published": "Fri, 25 Sep 2026 04:30:04 -0000",
+      "published_display": "25.09.2026 · 04:30 Uhr"
+    },
+    {
+      "title": "Wetterprognose: Am Wochenende bis zu 28 Grad in Hessen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/am-wochenende-bis-zu-28-grad-in-hessen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/am-wochenende-bis-zu-28-grad-in-hessen",
+      "published": "Fri, 25 Sep 2026 04:26:13 -0000",
+      "published_display": "25.09.2026 · 04:26 Uhr"
+    },
+    {
+      "title": "Wetterprognose: Wochenende mit bis zu 26 Grad in Nordrhein-Westfalen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/wochenende-mit-bis-zu-26-grad-in-nordrhein-westfalen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/wochenende-mit-bis-zu-26-grad-in-nordrhein-westfalen",
+      "published": "Fri, 25 Sep 2026 04:18:58 -0000",
+      "published_display": "25.09.2026 · 04:18 Uhr"
+    },
     {
       "title": "Brände: Nächtlicher Brand in leerstehender Wohnung in Stendal",
       "summary": "",
@@ -89,38 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/25/berliner-spd-vize-kiziltepe-fuer-rot-gruen-rot",
       "published": "Fri, 25 Sep 2026 04:00:07 -0000",
       "published_display": "25.09.2026 · 04:00 Uhr"
-    },
-    {
-      "title": "Dana Vowinckel: »Ich hätte nie gedacht, dass ich jemand werde, der puzzelt«",
-      "summary": "Im Wochenendpodcast erklärt die Autorin Dana Vowinckel, wie man gut streiten kann. Und gibt zu, dass sie Cola-abhängig ist. Cola mit Zucker!",
-      "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-09/dana-vowinckel-alltag-streiten-wochenende-tipps-podcast-bild/original__640x360",
-      "link": "https://www.zeit.de/entdecken/2026-09/dana-vowinckel-alltag-streiten-wochenende-tipps-podcast",
-      "published": "Fri, 25 Sep 2026 04:00:06 -0000",
-      "published_display": "25.09.2026 · 04:00 Uhr"
-    },
-    {
-      "title": "Flutkatastrophe im Himalaya: Sturzflut in Nepal: Alltag zwischen Trauer und Wiederaufbau",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/sturzflut-in-nepal-alltag-zwischen-trauer-und-wiederaufbau-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/sturzflut-in-nepal-alltag-zwischen-trauer-und-wiederaufbau",
-      "published": "Fri, 25 Sep 2026 04:00:06 -0000",
-      "published_display": "25.09.2026 · 04:00 Uhr"
-    },
-    {
-      "title": "Gemeinwohl: Lotto fördert 21 Projekte mit einer Dreiviertelmillion Euro",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/lotto-foerdert-21-projekte-mit-einer-dreiviertelmillion-euro-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/lotto-foerdert-21-projekte-mit-einer-dreiviertelmillion-euro",
-      "published": "Fri, 25 Sep 2026 04:00:05 -0000",
-      "published_display": "25.09.2026 · 04:00 Uhr"
-    },
-    {
-      "title": "Fußball-Nationalmannschaft: DFB-Tor eine «Schande?» Klopp und Kimmich kontern van Dijk",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/dfb-tor-eine-schande-klopp-und-kimmich-kontern-van-dijk-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/dfb-tor-eine-schande-klopp-und-kimmich-kontern-van-dijk",
-      "published": "Fri, 25 Sep 2026 03:54:04 -0000",
-      "published_display": "25.09.2026 · 03:54 Uhr"
     }
   ]
 }
