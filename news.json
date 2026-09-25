@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-25T01:16:33.777771+00:00",
+  "updated": "2026-09-25T01:27:54.462603+00:00",
   "items": [
+    {
+      "title": "Rechenzentren im All: Google schickt testweise KI-Chips ins All",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/google-schickt-testweise-ki-chips-ins-all-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/google-schickt-testweise-ki-chips-ins-all",
+      "published": "Fri, 25 Sep 2026 01:25:52 -0000",
+      "published_display": "25.09.2026 · 01:25 Uhr"
+    },
+    {
+      "title": "Kriminalität: 17-Jähriger in Berlin nach Schüssen in Lebensgefahr",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/17-jaehriger-in-berlin-nach-schuessen-in-lebensgefahr-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/17-jaehriger-in-berlin-nach-schuessen-in-lebensgefahr",
+      "published": "Fri, 25 Sep 2026 01:14:41 -0000",
+      "published_display": "25.09.2026 · 01:14 Uhr"
+    },
     {
       "title": "Politikwechsel gefordert: Experte warnt: Parteien in der Krise – Destruktivität wächst",
       "summary": "",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/24/protest-und-widerstand-netanjahu-in-new-york-erwartet",
       "published": "Thu, 24 Sep 2026 21:45:28 -0000",
       "published_display": "24.09.2026 · 21:45 Uhr"
-    },
-    {
-      "title": "Fußball-Nationalmannschaft: Klopp klärt auf: Musiala mit «normaler Fußballverletzung»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/klopp-klaert-auf-musiala-mit-normaler-fussballverletzung-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/klopp-klaert-auf-musiala-mit-normaler-fussballverletzung",
-      "published": "Thu, 24 Sep 2026 21:43:20 -0000",
-      "published_display": "24.09.2026 · 21:43 Uhr"
-    },
-    {
-      "title": "Axel Springer Award: Thiel attackiert Medien als »linke Hassfabrik« und lobt Axel Springer",
-      "summary": "Bei der Verleihung des Axel Springer Awards bezeichnet der Tech-Milliardär Peter Thiel die Medienlandschaft als »einseitig«. Der Springer-Konzern sei eine »Gegenstimme«.",
-      "image": "https://img.zeit.de/gesellschaft/2026-09/axel-springer-award-peter-thiel-berlin-foto-1/original__640x360",
-      "link": "https://www.zeit.de/gesellschaft/2026-09/axel-springer-award-peter-thiel-berlin",
-      "published": "Thu, 24 Sep 2026 21:37:24 -0000",
-      "published_display": "24.09.2026 · 21:37 Uhr"
     }
   ]
 }
