@@ -1,7 +1,71 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-25T12:49:38.157193+00:00",
+  "updated": "2026-09-25T13:00:46.602722+00:00",
   "items": [
+    {
+      "title": "Kriminalität: Mann in Mühlhausen von Maskiertem angegriffen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/mann-in-muehlhausen-von-maskiertem-angegriffen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/mann-in-muehlhausen-von-maskiertem-angegriffen",
+      "published": "Fri, 25 Sep 2026 12:56:39 -0000",
+      "published_display": "25.09.2026 · 12:56 Uhr"
+    },
+    {
+      "title": "Kritik an Gianni Infantino: Vier europäische Top-Fußballligen greifen Fifa-Chef an",
+      "summary": "Bundesliga, Serie A, La Liga und Premier League werfen dem Fifa-Präsidenten Gianni Infantino Führungsversagen vor. Einen sofortigen Rücktritt fordern sie aber nicht.",
+      "image": "https://img.zeit.de/sport/2026-09/fifa-gianni-infantino-bundesliga-premier-league-la-liga-serie-a-foto-1/original__640x360",
+      "link": "https://www.zeit.de/sport/2026-09/fifa-gianni-infantino-bundesliga-premier-league-la-liga-serie-a",
+      "published": "Fri, 25 Sep 2026 12:56:28 -0000",
+      "published_display": "25.09.2026 · 12:56 Uhr"
+    },
+    {
+      "title": "Erste Instanz: Gericht weist Klagen gegen kommunalen Finanzausgleich ab",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/gericht-weist-klagen-gegen-kommunalen-finanzausgleich-ab-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/gericht-weist-klagen-gegen-kommunalen-finanzausgleich-ab",
+      "published": "Fri, 25 Sep 2026 12:54:03 -0000",
+      "published_display": "25.09.2026 · 12:54 Uhr"
+    },
+    {
+      "title": "Bundeswehr: Verteidigung ist eine Frage der Haltung, nicht des Geschlechts",
+      "summary": "Dass Deutschland viel Geld in das Militär investiert, reicht nicht aus. Es braucht ein klares Zielbild. Und vieles spricht für eine Dienstpflicht für Frauen und Männer.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/bundeswehr-streitkraefte-verteidigung-soldaten-wehrpflicht-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/bundeswehr-streitkraefte-verteidigung-soldaten-wehrpflicht",
+      "published": "Fri, 25 Sep 2026 12:52:25 -0000",
+      "published_display": "25.09.2026 · 12:52 Uhr"
+    },
+    {
+      "title": "Bundesrat: Zigaretten und Alkohol teurer? Länder melden Widerstand an",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/regierungschefs-voigt-und-rhein-warnen-vor-steuererhoehungen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/regierungschefs-voigt-und-rhein-warnen-vor-steuererhoehungen",
+      "published": "Fri, 25 Sep 2026 12:51:45 -0000",
+      "published_display": "25.09.2026 · 12:51 Uhr"
+    },
+    {
+      "title": "Ermittlungen: Staatsanwalt ermittelt gegen 105 Jahre alten NS-Wachmann",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/staatsanwalt-ermittelt-gegen-105-jahre-alten-ns-wachmann-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/staatsanwalt-ermittelt-gegen-105-jahre-alten-ns-wachmann",
+      "published": "Fri, 25 Sep 2026 12:50:32 -0000",
+      "published_display": "25.09.2026 · 12:50 Uhr"
+    },
+    {
+      "title": "Beliebtheit von Friedrich Merz: Unzufriedenheit für die Geschichtsbücher",
+      "summary": "Nur noch 17 Prozent der Menschen in Deutschland sprechen sich für Friedrich Merz aus. Wann sein Abstieg begann, wer davon profitiert – und wer nicht.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/beliebtheit-friedrich-merz-bevoelkerung-bundeskanzler-vergleich-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/beliebtheit-friedrich-merz-bevoelkerung-bundeskanzler-vergleich",
+      "published": "Fri, 25 Sep 2026 12:49:35 -0000",
+      "published_display": "25.09.2026 · 12:49 Uhr"
+    },
+    {
+      "title": "Südfrankreich: Model tot im Auto gefunden – Ex-Freund unter Mordverdacht",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/model-tot-im-auto-gefunden-ex-freund-unter-mordverdacht-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/model-tot-im-auto-gefunden-ex-freund-unter-mordverdacht",
+      "published": "Fri, 25 Sep 2026 12:48:17 -0000",
+      "published_display": "25.09.2026 · 12:48 Uhr"
+    },
     {
       "title": "Schulstreik gegen Wehrpflicht: Schülerinnen und Schüler demonstrieren gegen mögliche Wehrpflicht",
       "summary": "In der Debatte um eine Wiedereinführung der Wehrpflicht haben sich Schülerinnen und Schüler zu Wort gemeldet. Deutschlandweit gingen sie auf die Straßen.",
@@ -27,6 +91,22 @@
       "published_display": "25.09.2026 · 12:44 Uhr"
     },
     {
+      "title": "Schulstreik: Schüler im Norden protestieren gegen mögliche Wehrpflicht",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/schueler-im-norden-protestieren-gegen-moegliche-wehrpflicht-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/schueler-im-norden-protestieren-gegen-moegliche-wehrpflicht",
+      "published": "Fri, 25 Sep 2026 12:41:57 -0000",
+      "published_display": "25.09.2026 · 12:41 Uhr"
+    },
+    {
+      "title": "Geschichte: Briefe von Gräfin Cosel zurück am Verbannungsort in Stolpen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/briefe-von-graefin-cosel-zurueck-am-verbannungsort-in-stolpen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/briefe-von-graefin-cosel-zurueck-am-verbannungsort-in-stolpen",
+      "published": "Fri, 25 Sep 2026 12:41:38 -0000",
+      "published_display": "25.09.2026 · 12:41 Uhr"
+    },
+    {
       "title": "Gedenken an NS-Opfer: Banaszak zu Stolpersteinverbot in Heidenau: «Skandal»",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-09/25/banaszak-zu-stolpersteinverbot-in-heidenau-skandal-image-group/original__640x360",
@@ -41,86 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/25/wie-verlaengertes-studium-was-eidinger-an-seinem-job-mag",
       "published": "Fri, 25 Sep 2026 12:40:30 -0000",
       "published_display": "25.09.2026 · 12:40 Uhr"
-    },
-    {
-      "title": "Wohnen: Rund 8.900 Studierende warten im Südwesten auf Wohnheimplatz",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/rund-8-900-studierende-warten-im-suedwesten-auf-wohnheimplatz-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/rund-8-900-studierende-warten-im-suedwesten-auf-wohnheimplatz",
-      "published": "Fri, 25 Sep 2026 12:40:16 -0000",
-      "published_display": "25.09.2026 · 12:40 Uhr"
-    },
-    {
-      "title": "Hollywood-Star aus Deutschland: Sandra Hüller in US-Talkshow: Vom Jobcenter zum Schauspiel",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/sandra-hueller-in-us-talkshow-vom-jobcenter-zum-schauspiel-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/sandra-hueller-in-us-talkshow-vom-jobcenter-zum-schauspiel",
-      "published": "Fri, 25 Sep 2026 12:36:06 -0000",
-      "published_display": "25.09.2026 · 12:36 Uhr"
-    },
-    {
-      "title": "Kommunalwahl: Stichwahl-Duell – Salzgitter als AfD-Hochburg im Fokus",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/stichwahl-duell-salzgitter-als-afd-hochburg-im-fokus-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/stichwahl-duell-salzgitter-als-afd-hochburg-im-fokus",
-      "published": "Fri, 25 Sep 2026 12:28:15 -0000",
-      "published_display": "25.09.2026 · 12:28 Uhr"
-    },
-    {
-      "title": "Postliberalismus: Der Feind meines Feindes ist nicht mein Freund",
-      "summary": "Für viele Linke ist der sogenannte Postliberalismus das neue große Ding. Doch die Begeisterung bewegt sich am Ende zwischen tragischer Romantik und autoritärem Exzess.",
-      "image": "https://img.zeit.de/feuilleton/2026-09/postliberalismus-politische-linke-autoritaer-bild/original__640x360",
-      "link": "https://www.zeit.de/feuilleton/2026-09/postliberalismus-politische-linke-autoritaer",
-      "published": "Fri, 25 Sep 2026 12:22:03 -0000",
-      "published_display": "25.09.2026 · 12:22 Uhr"
-    },
-    {
-      "title": "Sachsen-Anhalt nach der Wahl: AfD in Magdeburg in der Mitte – Landtag ringt um Regeln",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/streit-im-magdeburger-landtag-ueber-ausschussgroesse-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/streit-im-magdeburger-landtag-ueber-ausschussgroesse",
-      "published": "Fri, 25 Sep 2026 12:18:25 -0000",
-      "published_display": "25.09.2026 · 12:18 Uhr"
-    },
-    {
-      "title": "Staatsanleihen: Ölschock und KI-Boom - Kampf ums Kapital treibt die Renditen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/oelschock-und-ki-boom-kampf-ums-kapital-treibt-die-renditen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/oelschock-und-ki-boom-kampf-ums-kapital-treibt-die-renditen",
-      "published": "Fri, 25 Sep 2026 12:18:02 -0000",
-      "published_display": "25.09.2026 · 12:18 Uhr"
-    },
-    {
-      "title": "Trockenheit: Rhein-Pegelstand erreicht Rekordtief",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/rhein-pegelstand-erreicht-rekordtief-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/rhein-pegelstand-erreicht-rekordtief",
-      "published": "Fri, 25 Sep 2026 12:17:15 -0000",
-      "published_display": "25.09.2026 · 12:17 Uhr"
-    },
-    {
-      "title": "Deutsche Marine: Kommandowechsel beim 3. Minensuchgeschwader in Kiel",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/kommandowechsel-beim-3-minensuchgeschwader-in-kiel-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/kommandowechsel-beim-3-minensuchgeschwader-in-kiel",
-      "published": "Fri, 25 Sep 2026 12:13:33 -0000",
-      "published_display": "25.09.2026 · 12:13 Uhr"
-    },
-    {
-      "title": "Messe als Agrartreffpunkt: Tiere, Technik und Bauernhof-Atmosphäre auf Messe Erfurt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/tiere-technik-und-bauernhof-atmosphaere-auf-messe-erfurt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/tiere-technik-und-bauernhof-atmosphaere-auf-messe-erfurt",
-      "published": "Fri, 25 Sep 2026 12:12:59 -0000",
-      "published_display": "25.09.2026 · 12:12 Uhr"
-    },
-    {
-      "title": "Ladung mit Propangasflaschen: Lkw mit Straßenbahn kollidiert - vier Verletzte",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/lkw-mit-strassenbahn-kollidiert-vier-verletzte-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/lkw-mit-strassenbahn-kollidiert-vier-verletzte",
-      "published": "Fri, 25 Sep 2026 12:11:35 -0000",
-      "published_display": "25.09.2026 · 12:11 Uhr"
     }
   ]
 }
