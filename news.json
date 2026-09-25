@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-25T23:27:31.870723+00:00",
+  "updated": "2026-09-25T23:42:20.734372+00:00",
   "items": [
+    {
+      "title": "US-Präsident: Trump postet offenbar mit KI verändertes Foto von sich und Xi",
+      "summary": "Trump verzieht wegen eines lauten Flugzeugs bei Xis Ankunft das Gesicht. Dafür gibt es Häme. Jetzt postet er ein Bild der Szene mit starrer Miene – wohl von KI geändert.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/trump-comp-bild-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/donald-trump-xi-jinping-foto-generative-ki-retusche-truth-social",
+      "published": "Fri, 25 Sep 2026 23:35:53 -0000",
+      "published_display": "25.09.2026 · 23:35 Uhr"
+    },
+    {
+      "title": "Unfall: Zwei Motorräder prallen auf Auto - ein Schwerverletzter",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/26/zwei-motorraeder-prallen-auf-auto-ein-schwerverletzter-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/26/zwei-motorraeder-prallen-auf-auto-ein-schwerverletzter",
+      "published": "Fri, 25 Sep 2026 23:35:47 -0000",
+      "published_display": "25.09.2026 · 23:35 Uhr"
+    },
     {
       "title": "Künstliche Intelligenz: KI von OpenAI brachte Nutzer-Bilder zu Online-Plattformen",
       "summary": "",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/25/hamburg-feiert-drama-sieg-gegen-niners",
       "published": "Fri, 25 Sep 2026 20:37:29 -0000",
       "published_display": "25.09.2026 · 20:37 Uhr"
-    },
-    {
-      "title": "Deutsche Eishockey Liga: Eisbären gewinnen in Köln nach Penaltyschießen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/eisbaeren-gewinnen-in-koeln-nach-penaltyschiessen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/eisbaeren-gewinnen-in-koeln-nach-penaltyschiessen",
-      "published": "Fri, 25 Sep 2026 20:36:00 -0000",
-      "published_display": "25.09.2026 · 20:36 Uhr"
-    },
-    {
-      "title": "Führerschein sichergestellt: Seniorin fährt nach Unfallserie einfach zum Einkaufen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/seniorin-faehrt-nach-unfallserie-einfach-zum-einkaufen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/seniorin-faehrt-nach-unfallserie-einfach-zum-einkaufen",
-      "published": "Fri, 25 Sep 2026 20:29:45 -0000",
-      "published_display": "25.09.2026 · 20:29 Uhr"
     }
   ]
 }
