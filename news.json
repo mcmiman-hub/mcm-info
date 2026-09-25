@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-25T18:47:13.330179+00:00",
+  "updated": "2026-09-25T18:57:22.446849+00:00",
   "items": [
+    {
+      "title": "Einsatz für die Gesellschaft: Merkel ruft zu Solidarität und Mitmenschlichkeit auf",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/merkel-ruft-zu-solidaritaet-und-mitmenschlichkeit-auf-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/merkel-ruft-zu-solidaritaet-und-mitmenschlichkeit-auf",
+      "published": "Fri, 25 Sep 2026 18:52:50 -0000",
+      "published_display": "25.09.2026 · 18:52 Uhr"
+    },
+    {
+      "title": "Westbalkan-Regelung: Hat Deutschland etwa zu viele Bauarbeiter?",
+      "summary": "Die Regierung will deutlich weniger Arbeitskräfte vom Westbalkan reinlassen. Selbst in der CDU fürchtet man: Das könnte der Wirtschaft richtig schaden.",
+      "image": "https://img.zeit.de/2026/41/wir-sind-auf-arbeitskraefte-vom-westbalkan-angewiesen-bild-2/original__640x360",
+      "link": "https://www.zeit.de/2026/41/westbalkan-regelung-arbeitsmigration-bundesregierung-bundesagentur",
+      "published": "Fri, 25 Sep 2026 18:47:14 -0000",
+      "published_display": "25.09.2026 · 18:47 Uhr"
+    },
     {
       "title": "Unfall bei Polizeieinsatz: Busfahrer bremst - Passagierin schwer verletzt",
       "summary": "",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/2026/41/tech-faschismus-silicon-valley-oligarchen-curtis-yarvin-mirjam-zadoff",
       "published": "Fri, 25 Sep 2026 17:56:58 -0000",
       "published_display": "25.09.2026 · 17:56 Uhr"
-    },
-    {
-      "title": "Parteien: Berliner Linke will mit Grünen und SPD sondieren",
-      "summary": "",
-      "image": "https://img.zeit.de/administratives/sharing/fallback-image-die-zeit/wide__1300x731",
-      "link": "https://www.zeit.de/news/2026-09/25/berliner-linke-will-mit-gruenen-und-spd-sondieren",
-      "published": "Fri, 25 Sep 2026 17:48:42 -0000",
-      "published_display": "25.09.2026 · 17:48 Uhr"
-    },
-    {
-      "title": "Diplomatie: Xi und Trump wollen sich im November in China treffen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/xi-und-trump-wollen-sich-im-november-in-china-treffen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/xi-und-trump-wollen-sich-im-november-in-china-treffen",
-      "published": "Fri, 25 Sep 2026 17:46:13 -0000",
-      "published_display": "25.09.2026 · 17:46 Uhr"
     }
   ]
 }
