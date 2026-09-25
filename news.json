@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-25T17:29:41.743299+00:00",
+  "updated": "2026-09-25T17:44:51.002158+00:00",
   "items": [
+    {
+      "title": "Fotografie: Bilder des Tages",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/bilder-des-tages-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/bilder-des-tages",
+      "published": "Fri, 25 Sep 2026 17:33:49 -0000",
+      "published_display": "25.09.2026 · 17:33 Uhr"
+    },
+    {
+      "title": "Landtag Sachsen-Anhalt: Die AfD sitzt in der Mitte",
+      "summary": "In Magdeburg nutzt die AfD ihre neue Stärke, um den Landtag zu ihren Gunsten umzubauen. Die anderen Fraktionen drohen schon mit Klagen vor dem Landesverfassungsgericht.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/afd-landtag-magdeburg-streit-sitzordnung-ausschussgroesse-verfassungsklage-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/afd-landtag-magdeburg-streit-sitzordnung-ausschussgroesse-verfassungsklage",
+      "published": "Fri, 25 Sep 2026 17:31:50 -0000",
+      "published_display": "25.09.2026 · 17:31 Uhr"
+    },
     {
       "title": "Sachsen-Anhalt: Martin Sellner gründet »Institut für Remigration« in Magdeburg",
       "summary": "Der Rechtsextremist Martin Sellner hat eine Firma namens »Institut für Remigration« gegründet. Ziel ist laut einem Strategiepapier eine härtere Abschiebepraxis.",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/25/vfb-stuttgart-gewinnt-test-gegen-heidenheim",
       "published": "Fri, 25 Sep 2026 16:27:53 -0000",
       "published_display": "25.09.2026 · 16:27 Uhr"
-    },
-    {
-      "title": "Westjordanland: UN wirft 214 Firmen Beteiligung an israelischem Siedlungsbau vor",
-      "summary": "Israelischer Siedlungsbau im besetzten Westjordanland gilt als illegal. Die Vereinten Nationen listen 214 Bauunternehmen, darunter auch einen deutschen Zementhersteller.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/un-datenbank-siedlungen-israel-unternehmen-heidelberg-materials-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/un-datenbank-siedlungen-israel-unternehmen-heidelberg-materials-gxe",
-      "published": "Fri, 25 Sep 2026 16:25:45 -0000",
-      "published_display": "25.09.2026 · 16:25 Uhr"
-    },
-    {
-      "title": "Armin Schuster: Sachsens Innenminister steht nach Aussagen zum Asylrecht in der Kritik",
-      "summary": "Armin Schuster hat sich dafür ausgesprochen, die Zahl der Asylsuchenden klar zu begrenzen. Die Oppositionsparteien werfen ihm vor, das Grundrecht auf Asyl abzulehnen.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/armin-schuster-asylrecht-kontingent-cdu-sachsen-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/armin-schuster-asylrecht-kontingent-cdu-sachsen-gxe",
-      "published": "Fri, 25 Sep 2026 16:17:43 -0000",
-      "published_display": "25.09.2026 · 16:17 Uhr"
     }
   ]
 }
