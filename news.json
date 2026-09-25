@@ -1,7 +1,111 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-25T11:18:29.158175+00:00",
+  "updated": "2026-09-25T11:31:04.573239+00:00",
   "items": [
+    {
+      "title": "Sachsen-Anhalt nach der Wahl: AfD in Magdeburg in der Mitte – Landtag ringt um Regeln",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/streit-im-magdeburger-landtag-ueber-ausschussgroesse-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/streit-im-magdeburger-landtag-ueber-ausschussgroesse",
+      "published": "Fri, 25 Sep 2026 11:28:18 -0000",
+      "published_display": "25.09.2026 · 11:28 Uhr"
+    },
+    {
+      "title": "Bevölkerung: Knackt Leipzig bald die 700.000-Einwohner-Marke?",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/knackt-leipzig-bald-die-700-000-einwohner-marke-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/knackt-leipzig-bald-die-700-000-einwohner-marke",
+      "published": "Fri, 25 Sep 2026 11:27:03 -0000",
+      "published_display": "25.09.2026 · 11:27 Uhr"
+    },
+    {
+      "title": "Wetter: Letzte Sommertage laden zum Baden ein",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/sommerwetter-im-herbst-knackt-deutschland-die-31-grad-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/sommerwetter-im-herbst-knackt-deutschland-die-31-grad",
+      "published": "Fri, 25 Sep 2026 11:25:58 -0000",
+      "published_display": "25.09.2026 · 11:25 Uhr"
+    },
+    {
+      "title": "Flucht des Windkraft-Betrügers: Windkraft-Betrüger floh mit Reisepass – Justiz ahnungslos",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/windkraft-betrueger-floh-mit-reisepass-justiz-ahnungslos-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/windkraft-betrueger-floh-mit-reisepass-justiz-ahnungslos",
+      "published": "Fri, 25 Sep 2026 11:25:41 -0000",
+      "published_display": "25.09.2026 · 11:25 Uhr"
+    },
+    {
+      "title": "Wahlleitung: Endergebnis in Moskau: Dreiviertelmehrheit für Kreml-Partei",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/endergebnis-in-moskau-dreiviertelmehrheit-fuer-kreml-partei-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/endergebnis-in-moskau-dreiviertelmehrheit-fuer-kreml-partei",
+      "published": "Fri, 25 Sep 2026 11:23:04 -0000",
+      "published_display": "25.09.2026 · 11:23 Uhr"
+    },
+    {
+      "title": "Rund 80 Schließfächer geknackt: Bankeinbruch mit Inside-Job? Darum ist der Prozess brisant",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/bankeinbruch-mit-inside-job-darum-ist-der-prozess-brisant-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/bankeinbruch-mit-inside-job-darum-ist-der-prozess-brisant",
+      "published": "Fri, 25 Sep 2026 11:22:38 -0000",
+      "published_display": "25.09.2026 · 11:22 Uhr"
+    },
+    {
+      "title": "Lausitz: Die Zukunft und ihre Gegner",
+      "summary": "Das Braunkohlerevier Lausitz soll zur Modellregion für klimafreundliche Technologien werden. Doch der Aufstieg der AfD gefährdet den grünen Umbau.",
+      "image": "https://img.zeit.de/2026/41/die-zukunft-und-ihre-gegner-bild-1/original__640x360",
+      "link": "https://www.zeit.de/2026/41/lausitz-braunkohle-abbau-klimaschutz-technologie-strukturwandel",
+      "published": "Fri, 25 Sep 2026 11:22:12 -0000",
+      "published_display": "25.09.2026 · 11:22 Uhr"
+    },
+    {
+      "title": "Katholische Kirche: Papst mahnt in Frankreich zu «neuer Brüderlichkeit»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/papst-mahnt-in-frankreich-zu-neuer-bruederlichkeit-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/papst-mahnt-in-frankreich-zu-neuer-bruederlichkeit",
+      "published": "Fri, 25 Sep 2026 11:21:38 -0000",
+      "published_display": "25.09.2026 · 11:21 Uhr"
+    },
+    {
+      "title": "Wolfsnachwuchs: Wolfswelpe gesichtet - was kann ihm gefährlich werden?",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/wolfswelpe-gesichtet-was-kann-ihm-gefaehrlich-werden-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/wolfswelpe-gesichtet-was-kann-ihm-gefaehrlich-werden",
+      "published": "Fri, 25 Sep 2026 11:21:36 -0000",
+      "published_display": "25.09.2026 · 11:21 Uhr"
+    },
+    {
+      "title": "Schauspieler: Mark Waschke: Was den «Tatort» zum Fernsehlagerfeuer macht",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/mark-waschke-was-den-tatort-zum-fernsehlagerfeuer-macht-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/mark-waschke-was-den-tatort-zum-fernsehlagerfeuer-macht",
+      "published": "Fri, 25 Sep 2026 11:21:02 -0000",
+      "published_display": "25.09.2026 · 11:21 Uhr"
+    },
+    {
+      "title": "Energiepreise: Woidke fordert vom Bund Vorbereitung auf Gaspreis-Debatte",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/woidke-fordert-vom-bund-vorbereitung-auf-gaspreis-debatte-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/woidke-fordert-vom-bund-vorbereitung-auf-gaspreis-debatte",
+      "published": "Fri, 25 Sep 2026 11:20:56 -0000",
+      "published_display": "25.09.2026 · 11:20 Uhr"
+    },
+    {
+      "title": "Im Gesicht verletzt: Zwei Zehnjährige auf dem Tretroller angefahren",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/zwei-zehnjaehrige-auf-dem-tretroller-angefahren-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/zwei-zehnjaehrige-auf-dem-tretroller-angefahren",
+      "published": "Fri, 25 Sep 2026 11:20:35 -0000",
+      "published_display": "25.09.2026 · 11:20 Uhr"
+    },
+    {
+      "title": "Rapperin Vicky: »Ihr müsst mal alle ein bisschen chillen«",
+      "summary": "Aus Liebeskummer lud sie auf TikTok einen Song hoch – und wurde damit berühmt. Ein Gespräch mit der Rapperin Vicky über Provokation und Feminismus.",
+      "image": "https://img.zeit.de/2026/41/ihr-muesst-mal-alle-ein-bisschen-chillen-bild-1/original__640x360",
+      "link": "https://www.zeit.de/2026/41/vicky-rapperin-victoria-zechner-tiktok-feminismus",
+      "published": "Fri, 25 Sep 2026 11:19:21 -0000",
+      "published_display": "25.09.2026 · 11:19 Uhr"
+    },
     {
       "title": "Stolpersteine in Heidenau: Stolperstein-Künstler kritisiert CDU nach Verlegungsstopp in Heidenau",
       "summary": "Auf Antrag von CDU und AfD werden in Heidenau keine Stolpersteine mehr verlegt. Künstler Gunter Demnig wirft der CDU vor, sich von christlichen Werten entfernt zu haben.",
@@ -11,116 +115,12 @@
       "published_display": "25.09.2026 · 11:16 Uhr"
     },
     {
-      "title": "Zum Jahreswechsel: Brandenburg übernimmt Vorsitz der Agrarministerkonferenz",
+      "title": "Künstliche Intelligenz: Datenschützer prüfen KI-Kameras in Schwimmbädern",
       "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/brandenburg-uebernimmt-vorsitz-der-agrarministerkonferenz-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/brandenburg-uebernimmt-vorsitz-der-agrarministerkonferenz",
-      "published": "Fri, 25 Sep 2026 11:15:22 -0000",
+      "image": "https://img.zeit.de/news/2026-09/25/datenschuetzer-pruefen-ki-kameras-in-schwimmbaedern-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/datenschuetzer-pruefen-ki-kameras-in-schwimmbaedern",
+      "published": "Fri, 25 Sep 2026 11:15:47 -0000",
       "published_display": "25.09.2026 · 11:15 Uhr"
-    },
-    {
-      "title": "Stumpfe Gewalt und Schussloch: Jagdwilderei? Tote Dachse am Straßenrand",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/jagdwilderei-tote-dachse-am-strassenrand-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/jagdwilderei-tote-dachse-am-strassenrand",
-      "published": "Fri, 25 Sep 2026 11:14:59 -0000",
-      "published_display": "25.09.2026 · 11:14 Uhr"
-    },
-    {
-      "title": "Tennis: Sinner-Absage für Peking: Zverevs Chance auf Nummer 1 steigt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/sinner-absage-fuer-peking-zverevs-chance-auf-nummer-1-steigt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/sinner-absage-fuer-peking-zverevs-chance-auf-nummer-1-steigt",
-      "published": "Fri, 25 Sep 2026 11:14:54 -0000",
-      "published_display": "25.09.2026 · 11:14 Uhr"
-    },
-    {
-      "title": "Wetter: Bis zu 31 Grad im Südwesten – Sonne satt am Wochenende",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/bis-zu-31-grad-im-suedwesten-sonne-satt-am-wochenende-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/bis-zu-31-grad-im-suedwesten-sonne-satt-am-wochenende",
-      "published": "Fri, 25 Sep 2026 11:14:21 -0000",
-      "published_display": "25.09.2026 · 11:14 Uhr"
-    },
-    {
-      "title": "Westdeutscher Rundfunk: WDR streicht 76 Programmangebote bis Ende 2027",
-      "summary": "Der WDR beendet zahlreiche Angebote bis Ende kommenden Jahres – unter anderem »Menschen Hautnah«. Zudem wird jede dritte Stelle nach einer Verrentung nicht wiederbesetzt.",
-      "image": "https://img.zeit.de/feuilleton/2026-09/wdr-programme-insolvenz-sparen-hoerfunk-fernsehen-foto-1/original__640x360",
-      "link": "https://www.zeit.de/feuilleton/2026-09/wdr-programme-insolvenz-sparen-hoerfunk-fernsehen",
-      "published": "Fri, 25 Sep 2026 11:14:07 -0000",
-      "published_display": "25.09.2026 · 11:14 Uhr"
-    },
-    {
-      "title": "Gedenken an NS-Opfer: Stolperstein-Verbot in Heidenau löst Empörung in Hamburg aus",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/stolperstein-verbot-in-heidenau-loest-empoerung-in-hamburg-aus-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/stolperstein-verbot-in-heidenau-loest-empoerung-in-hamburg-aus",
-      "published": "Fri, 25 Sep 2026 11:12:38 -0000",
-      "published_display": "25.09.2026 · 11:12 Uhr"
-    },
-    {
-      "title": "Körpersprache der Katze: Verstehen Sie Katzen?",
-      "summary": "Sie sind eigenwillig, rätselhaft – und undurchschaubar? Wer Hauskatzen genau beobachtet, kann ihr Verhalten richtig einordnen. Sie auch? Testen Sie Ihr Wissen!",
-      "image": "https://img.zeit.de/wissenschaft/2026-09/katzen-verhalten-koerpersprache-wissen-quiz-teaser/original__640x360",
-      "link": "https://www.zeit.de/wissenschaft/2026-09/katzen-verhalten-koerpersprache-wissen-quiz",
-      "published": "Fri, 25 Sep 2026 11:12:08 -0000",
-      "published_display": "25.09.2026 · 11:12 Uhr"
-    },
-    {
-      "title": "Kriminalität in Israel: Alle 35 Stunden ein Mord",
-      "summary": "In der arabischen Community in Israel grassiert die Gewalt. Viele sagen: Die Polizei tut nicht genug. Im Wahlkampf könnte das Thema nun wichtig werden.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/kriminalitaet-israel-arabische-gemeinschaft-proteste-polizei-bild-02/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/kriminalitaet-israel-arabische-gemeinschaft-proteste-polizei",
-      "published": "Fri, 25 Sep 2026 11:11:04 -0000",
-      "published_display": "25.09.2026 · 11:11 Uhr"
-    },
-    {
-      "title": "Ladung mit Propangasflaschen: Lkw mit Straßenbahn kollidiert - vier Verletzte",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/lkw-mit-strassenbahn-kollidiert-vier-verletzte-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/lkw-mit-strassenbahn-kollidiert-vier-verletzte",
-      "published": "Fri, 25 Sep 2026 11:11:00 -0000",
-      "published_display": "25.09.2026 · 11:11 Uhr"
-    },
-    {
-      "title": "Volleyball-Champions League: Volleys zuerst gegen Qualifikant - Finale gegen Galatasaray",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/volleys-zuerst-gegen-qualifikant-finale-gegen-galatasaray-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/volleys-zuerst-gegen-qualifikant-finale-gegen-galatasaray",
-      "published": "Fri, 25 Sep 2026 11:10:44 -0000",
-      "published_display": "25.09.2026 · 11:10 Uhr"
-    },
-    {
-      "title": "Volkswagen: Einer Million VW-Autos in Deutschland droht Lenkungsausfall",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/einer-million-vw-autos-in-deutschland-droht-lenkungsausfall-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/einer-million-vw-autos-in-deutschland-droht-lenkungsausfall",
-      "published": "Fri, 25 Sep 2026 11:10:22 -0000",
-      "published_display": "25.09.2026 · 11:10 Uhr"
-    },
-    {
-      "title": "Tödliche Auseinandersetzung: Prozessstart nach tödlichen Schüssen in Bremer Neustadt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/toedliche-schuesse-in-bremer-neustadt-trio-vor-gericht-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/toedliche-schuesse-in-bremer-neustadt-trio-vor-gericht",
-      "published": "Fri, 25 Sep 2026 11:09:19 -0000",
-      "published_display": "25.09.2026 · 11:09 Uhr"
-    },
-    {
-      "title": "Polizei: Linken-Wahlsieg: Südwesten lädt Berliner Polizisten ein",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/linken-wahlsieg-suedwesten-laedt-berliner-polizisten-ein-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/linken-wahlsieg-suedwesten-laedt-berliner-polizisten-ein",
-      "published": "Fri, 25 Sep 2026 11:05:45 -0000",
-      "published_display": "25.09.2026 · 11:05 Uhr"
-    },
-    {
-      "title": "Autounfall: Zwölfjährige auf Schulweg schwer verletzt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/zwoelfjaehrige-auf-schulweg-schwer-verletzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/zwoelfjaehrige-auf-schulweg-schwer-verletzt",
-      "published": "Fri, 25 Sep 2026 11:05:37 -0000",
-      "published_display": "25.09.2026 · 11:05 Uhr"
     }
   ]
 }
