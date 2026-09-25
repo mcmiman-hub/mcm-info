@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-24T23:55:41.617199+00:00",
+  "updated": "2026-09-25T00:26:02.269364+00:00",
   "items": [
+    {
+      "title": "Evakuierung: Gasleck in Greiz - Warnung aufgehoben",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/24/gasleck-in-greiz-wohngebiet-weitraeumig-abgesperrt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/gasleck-in-greiz-wohngebiet-weitraeumig-abgesperrt",
+      "published": "Fri, 25 Sep 2026 00:22:34 -0000",
+      "published_display": "25.09.2026 · 00:22 Uhr"
+    },
+    {
+      "title": "Saudi-Arabien: Frankreich will Ölhafen in Saudi-Arabien schützen",
+      "summary": "Soldaten, Radaranlagen und Verteidigungssysteme will Frankreich nach Saudi-Arabien bringen. Dort soll der wichtige Ölhafen Janbu vor Huthi-Angriffen geschützt werden.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/un-generalversammlung-bild-2/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/huthi-angriffe-saudi-arabien-janbu-bab-al-mandab-ost-west-pipeline",
+      "published": "Thu, 24 Sep 2026 23:59:42 -0000",
+      "published_display": "24.09.2026 · 23:59 Uhr"
+    },
     {
       "title": "Abschiebungen: Trump zieht wegen Abschiebung in Drittstaaten vor Supreme Court",
       "summary": "Ein Richter fordert, dass Migranten vor ihrer Abschiebung in Drittstaaten Einwände erheben können. Die US-Regierung geht dagegen vor und zieht vor das Oberste Gericht.",
@@ -91,14 +107,6 @@
       "published_display": "24.09.2026 · 21:37 Uhr"
     },
     {
-      "title": "Evakuierung: Gasleck in Greiz - Wohngebiet weiträumig abgesperrt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/24/gasleck-in-greiz-wohngebiet-weitraeumig-abgesperrt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/24/gasleck-in-greiz-wohngebiet-weitraeumig-abgesperrt",
-      "published": "Thu, 24 Sep 2026 21:25:10 -0000",
-      "published_display": "24.09.2026 · 21:25 Uhr"
-    },
-    {
       "title": "Fußball-Nationalmannschaft: Wildes Remis bei Klopps erster Bundestrainer-Show",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-09/24/klopps-erste-startelf-mit-neuling-treu-adeyemi-und-schade-image-group/original__640x360",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/24/erster-gemeinsamer-auftritt-riccardo-simonetti-mit-ehemann",
       "published": "Thu, 24 Sep 2026 20:57:27 -0000",
       "published_display": "24.09.2026 · 20:57 Uhr"
-    },
-    {
-      "title": "Nations League, 1. Spieltag: Deutschland spielt im ersten Spiel unter Jürgen Klopp unentschieden",
-      "summary": "Die deutsche Nationalmannschaft hat einen Sieg gegen die Niederlande verpasst. Cody Gakpo erzielte kurz vor Schluss den Ausgleich. Der Spielbericht",
-      "image": "https://img.zeit.de/sport/2026-09/nations-league-bild/original__640x360",
-      "link": "https://www.zeit.de/sport/2026-09/nations-league-deutschland-niederlande-fussball",
-      "published": "Thu, 24 Sep 2026 20:56:12 -0000",
-      "published_display": "24.09.2026 · 20:56 Uhr"
     }
   ]
 }
