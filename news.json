@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-25T16:47:38.698323+00:00",
+  "updated": "2026-09-25T16:56:55.255851+00:00",
   "items": [
+    {
+      "title": "Online-Bestellungen: Online-Händler müssen zwei Euro Gebühr für Importe in die EU bezahlen",
+      "summary": "Weil immer mehr Online-Bestellungen aus nicht europäischen Ländern geliefert werden, erhebt die EU künftig eine 2-Euro-Gebühr. 90 Prozent der Produkte kommen aus China.",
+      "image": "https://img.zeit.de/wirtschaft/2026-09/eu-bearbeitungsgebuehr-online-bestellungen-pakete-china-shein-temu-aliexpress-foto-1/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/2026-09/eu-bearbeitungsgebuehr-online-bestellungen-pakete-china-shein-temu-aliexpress",
+      "published": "Fri, 25 Sep 2026 16:51:05 -0000",
+      "published_display": "25.09.2026 · 16:51 Uhr"
+    },
+    {
+      "title": "Evakuierung: Gasleck in Greiz - Versorgung bleibt unterbrochen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/gasleck-in-greiz-wohngebiet-weitraeumig-abgesperrt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/gasleck-in-greiz-wohngebiet-weitraeumig-abgesperrt",
+      "published": "Fri, 25 Sep 2026 16:49:55 -0000",
+      "published_display": "25.09.2026 · 16:49 Uhr"
+    },
     {
       "title": "Ungewöhnliche Hurrikansaison: Gleich drei Hurrikane im Pazifik - Hawaii und Mexiko bedroht",
       "summary": "",
@@ -52,9 +68,9 @@
     },
     {
       "title": "Westjordanland: UN wirft 214 Firmen Beteiligung an israelischem Siedlungsbau vor",
-      "summary": "Israelischer Siedlungsbau im besetzten Westjordanland gilt als illegal. Die Vereinten Nationen listen 214 Baunternehmen, darunter auch einen deutschen Zement-Hersteller.",
+      "summary": "Israelischer Siedlungsbau im besetzten Westjordanland gilt als illegal. Die Vereinten Nationen listen 214 Bauunternehmen, darunter auch einen deutschen Zementhersteller.",
       "image": "https://img.zeit.de/politik/ausland/2026-09/un-datenbank-siedlungen-israel-unternehmen-heidelberg-materials-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/un-datenbank-siedlungen-israel-unternehmen-heidelberg-materials",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/un-datenbank-siedlungen-israel-unternehmen-heidelberg-materials-gxe",
       "published": "Fri, 25 Sep 2026 16:25:45 -0000",
       "published_display": "25.09.2026 · 16:25 Uhr"
     },
@@ -62,7 +78,7 @@
       "title": "Armin Schuster: Sachsens Innenminister steht nach Aussagen zum Asylrecht in der Kritik",
       "summary": "Armin Schuster hat sich dafür ausgesprochen, die Zahl der Asylsuchenden klar zu begrenzen. Die Oppositionsparteien werfen ihm vor, das Grundrecht auf Asyl abzulehnen.",
       "image": "https://img.zeit.de/politik/deutschland/2026-09/armin-schuster-asylrecht-kontingent-cdu-sachsen-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/armin-schuster-asylrecht-kontingent-cdu-sachsen",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/armin-schuster-asylrecht-kontingent-cdu-sachsen-gxe",
       "published": "Fri, 25 Sep 2026 16:17:43 -0000",
       "published_display": "25.09.2026 · 16:17 Uhr"
     },
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/25/burghausen-klagt-wegen-pfoa-belastung-millionenforderungen",
       "published": "Fri, 25 Sep 2026 16:10:01 -0000",
       "published_display": "25.09.2026 · 16:10 Uhr"
-    },
-    {
-      "title": "Nach den Wahlen: »Friedrich Merz ist das Gesicht eines Scheiterns«",
-      "summary": "Warum wählen immer weniger Menschen die CDU? Darüber spricht Mariam Lau im Nachrichtenvideopodcast »Was jetzt? – Die Woche«.",
-      "image": "https://img.zeit.de/video/2026-09/was-jetzt-die-woche-cdu-merz/original__640x360",
-      "link": "https://www.zeit.de/video/2026-09/friedrich-merz-cdu-beliebtheit-was-jetzt-die-woche",
-      "published": "Fri, 25 Sep 2026 16:07:33 -0000",
-      "published_display": "25.09.2026 · 16:07 Uhr"
-    },
-    {
-      "title": "Die Linke in Berlin: Elifs Eleven",
-      "summary": "Sie pochen auf den Volksentscheid zu Enteignungen, eine sieht »kein Existenzrecht für Staaten«: Ein Blick auf die wichtigsten Abgeordneten der Berliner Linken",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/die-linke-berlin-fraktion-abgeordnetenhaus-elif-eralp-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/die-linke-berlin-fraktion-abgeordnetenhaus-elif-eralp",
-      "published": "Fri, 25 Sep 2026 16:05:24 -0000",
-      "published_display": "25.09.2026 · 16:05 Uhr"
     }
   ]
 }
