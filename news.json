@@ -1,7 +1,79 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-25T09:18:23.812556+00:00",
+  "updated": "2026-09-25T09:32:47.466079+00:00",
   "items": [
+    {
+      "title": "Berliner Pläne zur Vergesellschaftung: Studie bewertet Vergesellschaftung als sinnvolle Ergänzung zu Neubau",
+      "summary": "Eine Studie der Hans-Böckler-Stiftung hält die Vergesellschaftung von Wohnraum in Berlin für sinnvoll. Den Mangel an Wohnungen in der Hauptstadt löse sie jedoch nicht.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/vergesellschaftung-wohnungen-berlin-hans-boeckler-stiftung-mieten-neubau-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/vergesellschaftung-wohnungen-berlin-hans-boeckler-stiftung-mieten-neubau",
+      "published": "Fri, 25 Sep 2026 09:31:13 -0000",
+      "published_display": "25.09.2026 · 09:31 Uhr"
+    },
+    {
+      "title": "Landtagswahlen: SPD, Linke und Grüne weisen AfD-Forderung zurück",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/spd-linke-und-gruene-weisen-afd-forderung-zurueck-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/spd-linke-und-gruene-weisen-afd-forderung-zurueck",
+      "published": "Fri, 25 Sep 2026 09:27:39 -0000",
+      "published_display": "25.09.2026 · 09:27 Uhr"
+    },
+    {
+      "title": "Sechs neue «Herzkino»-Filme: Ostsee-«Bergdoktor»? Wissenswertes zu «Dr. Nice» im ZDF",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/ostsee-bergdoktor-wissenswertes-zu-dr-nice-im-zdf-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/ostsee-bergdoktor-wissenswertes-zu-dr-nice-im-zdf",
+      "published": "Fri, 25 Sep 2026 09:27:09 -0000",
+      "published_display": "25.09.2026 · 09:27 Uhr"
+    },
+    {
+      "title": "Feuerwehrgeräte gestohlen: Nach Einbrüchen bei Feuerwehren Verdächtiger in U-Haft",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/nach-einbruechen-bei-feuerwehren-verdaechtiger-in-u-haft-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/nach-einbruechen-bei-feuerwehren-verdaechtiger-in-u-haft",
+      "published": "Fri, 25 Sep 2026 09:25:28 -0000",
+      "published_display": "25.09.2026 · 09:25 Uhr"
+    },
+    {
+      "title": "Wohnen: Makler-Auswertung: 7,5 Millionen Euro für Wohnhaus gezahlt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/makler-auswertung-7-5-millionen-euro-fuer-wohnhaus-gezahlt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/makler-auswertung-7-5-millionen-euro-fuer-wohnhaus-gezahlt",
+      "published": "Fri, 25 Sep 2026 09:24:03 -0000",
+      "published_display": "25.09.2026 · 09:24 Uhr"
+    },
+    {
+      "title": "Wohnungsbau in Berlin: Initiative macht Druck auf Linke bei Enteignungs-Frage",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/initiative-macht-druck-auf-linke-bei-enteignungs-frage-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/initiative-macht-druck-auf-linke-bei-enteignungs-frage",
+      "published": "Fri, 25 Sep 2026 09:23:26 -0000",
+      "published_display": "25.09.2026 · 09:23 Uhr"
+    },
+    {
+      "title": "Kriminalität: Bundespolizei fasst gesuchten Betrüger am Bremer Flughafen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/bundespolizei-fasst-gesuchten-betrueger-am-bremer-flughafen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/bundespolizei-fasst-gesuchten-betrueger-am-bremer-flughafen",
+      "published": "Fri, 25 Sep 2026 09:21:45 -0000",
+      "published_display": "25.09.2026 · 09:21 Uhr"
+    },
+    {
+      "title": "15-Tage-Regelung: Schenk gegen Änderung bei Kinderkrankentagen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/schenk-gegen-aenderung-bei-kinderkrankentagen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/schenk-gegen-aenderung-bei-kinderkrankentagen",
+      "published": "Fri, 25 Sep 2026 09:20:13 -0000",
+      "published_display": "25.09.2026 · 09:20 Uhr"
+    },
+    {
+      "title": "Fünf Personen festgenommen: Sexuelle Offerte: Festnahme nach Diebstahlmasche",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/sexuelle-offerte-festnahme-nach-diebstahlmasche-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/sexuelle-offerte-festnahme-nach-diebstahlmasche",
+      "published": "Fri, 25 Sep 2026 09:18:25 -0000",
+      "published_display": "25.09.2026 · 09:18 Uhr"
+    },
     {
       "title": "Berliner Regierungsbildung: Söder warnt SPD und Grüne vor Koalition mit Linkspartei",
       "summary": "",
@@ -49,78 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/25/quad-ueberschlaegt-sich-zwei-schwerverletzte-in-badbergen",
       "published": "Fri, 25 Sep 2026 09:11:45 -0000",
       "published_display": "25.09.2026 · 09:11 Uhr"
-    },
-    {
-      "title": "Flutkatastrophe im Himalaya: Eine «Warnung an die Welt»: Nepalesen kämpfen ums Überleben",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/sturzflut-in-nepal-alltag-zwischen-trauer-und-wiederaufbau-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/sturzflut-in-nepal-alltag-zwischen-trauer-und-wiederaufbau",
-      "published": "Fri, 25 Sep 2026 09:06:00 -0000",
-      "published_display": "25.09.2026 · 09:06 Uhr"
-    },
-    {
-      "title": "Neutralitätsinitiative in der Schweiz: So neutral wollen nicht mal die Schweizer sein",
-      "summary": "Eine Volksinitiative will die Neutralität in die Verfassung schreiben, hat aber kaum Chancen. Was ist da los? Und: Wer noch Wasserflaschen schleppt.",
-      "image": "https://img.zeit.de/video/2026-08/servus-gruezi-hallo-bymarzenaskubatz-61a5756-1-bild-4/original__640x360",
-      "link": "https://www.zeit.de/video/2026-09/neutralitaetsinitiative-schweiz-verfassung-alpenpodcast-videopodcast",
-      "published": "Fri, 25 Sep 2026 09:04:07 -0000",
-      "published_display": "25.09.2026 · 09:04 Uhr"
-    },
-    {
-      "title": "Wohnungkrise in Berlin: So lässt sich die Wohnungsnot ohne Enteignungen lösen",
-      "summary": "Berlin diskutiert über Vergesellschaftung, dabei liegen praktische Lösungen für das Wohnungsproblem direkt in der Stadt: als Flächen, die man nutzen muss.",
-      "image": "https://img.zeit.de/wirtschaft/2026-09/wohnungskrise-berlin-vergesellschaftung-immobilien-linke-bild/original__640x360",
-      "link": "https://www.zeit.de/wirtschaft/2026-09/wohnungskrise-berlin-vergesellschaftung-immobilien-linke",
-      "published": "Fri, 25 Sep 2026 09:03:43 -0000",
-      "published_display": "25.09.2026 · 09:03 Uhr"
-    },
-    {
-      "title": "Berliner Pläne zur Vergesellschaftung: Studie bewertet Vergesellschaftung als sinnvolle Ergänzung zu Neubau",
-      "summary": "Eine Studie der Hans-Böckler-Stiftung hält die Vergesellschaftung von Wohnraum in Berlin für sinnvoll. Den Mangel an Wohnungen in der Hauptstadt löse sie jedoch nicht.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/vergesellschaftung-wohnungen-berlin-hans-boeckler-stiftung-mieten-neubau-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/vergesellschaftung-wohnungen-berlin-hans-boeckler-stiftung-mieten-neubau",
-      "published": "Fri, 25 Sep 2026 09:02:49 -0000",
-      "published_display": "25.09.2026 · 09:02 Uhr"
-    },
-    {
-      "title": "Bundespolizeigesetz: Bundestag beschließt neues Bundespolizeigesetz",
-      "summary": "Der Bundestag hat weitreichende neue Befugnisse für die Bundespolizei beschlossen. Nach einer Panne im Sommer war eine Wiederholung der Abstimmung über das Gesetz nötig.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/bundespolizeigesetz-reform-bundestag-befugnisse-abschiebehaft-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/bundespolizeigesetz-reform-bundestag-befugnisse-abschiebehaft",
-      "published": "Fri, 25 Sep 2026 09:02:38 -0000",
-      "published_display": "25.09.2026 · 09:02 Uhr"
-    },
-    {
-      "title": "Soziale Arbeit: So haben sie sich das nicht vorgestellt",
-      "summary": "Immer mehr junge Menschen studieren Soziale Arbeit. Ein Job für Idealisten. Doch später im Arbeitsalltag erleben viele einen fundamentalen Realitätsschock.",
-      "image": "https://img.zeit.de/arbeit/2026-09/soziale-arbeit-studium-arbeitsmarkt-junge-menschen-bild/original__640x360",
-      "link": "https://www.zeit.de/arbeit/2026-09/soziale-arbeit-studium-arbeitsmarkt-junge-menschen",
-      "published": "Fri, 25 Sep 2026 09:00:51 -0000",
-      "published_display": "25.09.2026 · 09:00 Uhr"
-    },
-    {
-      "title": "Rund 80 Schließfächer geknackt: Bankraub mit Inside-Job? Verteidiger weist Vorwürfe zurück",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/schliessfaecher-mit-insiderwissen-geknackt-wo-ist-die-beute-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/schliessfaecher-mit-insiderwissen-geknackt-wo-ist-die-beute",
-      "published": "Fri, 25 Sep 2026 09:00:30 -0000",
-      "published_display": "25.09.2026 · 09:00 Uhr"
-    },
-    {
-      "title": "Laborstudie: Studie: Extreme Hitze kann Entwicklung von Hummeln schädigen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/studie-extreme-hitze-kann-entwicklung-von-hummeln-schaedigen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/studie-extreme-hitze-kann-entwicklung-von-hummeln-schaedigen",
-      "published": "Fri, 25 Sep 2026 09:00:08 -0000",
-      "published_display": "25.09.2026 · 09:00 Uhr"
-    },
-    {
-      "title": "Klimawandel: Weinlese so früh und so kurz wie noch nie",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/weinlese-so-frueh-und-so-kurz-wie-noch-nie-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/weinlese-so-frueh-und-so-kurz-wie-noch-nie",
-      "published": "Fri, 25 Sep 2026 09:00:05 -0000",
-      "published_display": "25.09.2026 · 09:00 Uhr"
     }
   ]
 }
