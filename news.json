@@ -1,14 +1,62 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-25T06:23:13.680690+00:00",
+  "updated": "2026-09-25T06:50:21.947745+00:00",
   "items": [
     {
-      "title": "Konsumklima in Deutschland: Sparneigung der Verbraucher steigt auf Höchststand seit Finanzkrise",
-      "summary": "Marktforscher sehen ein abgeflautes Konsumklima in Deutschland. Die durchschnittliche Sparneigung sei gestiegen, die Einkommenserwartung gesunken.",
-      "image": "https://img.zeit.de/administratives/sharing/fallback-image-die-zeit/wide__1300x731",
+      "title": "Konsumklima in Deutschland: Verbraucher neigen laut Studie vermehrt zum Sparen",
+      "summary": "Marktforscher sehen ein abgeflautes Konsumklima in Deutschland. Die durchschnittliche Sparneigung sei auf den höchsten Stand seit der Finanzkrise gestiegen.",
+      "image": "https://img.zeit.de/wirtschaft/2026-09/konsumklima-deutschland-nim-gfk-energiepreise-foto-1/original__640x360",
       "link": "https://www.zeit.de/wirtschaft/2026-09/konsumklima-deutschland-nim-gfk-energiepreise",
-      "published": "Fri, 25 Sep 2026 06:22:40 -0000",
-      "published_display": "25.09.2026 · 06:22 Uhr"
+      "published": "Fri, 25 Sep 2026 06:40:39 -0000",
+      "published_display": "25.09.2026 · 06:40 Uhr"
+    },
+    {
+      "title": "Ministeriums-Bericht: Häftling soll Matratze in JVA-Krankenhaus angezündet haben",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/haeftling-soll-matratze-in-jva-krankenhaus-angezuendet-haben-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/haeftling-soll-matratze-in-jva-krankenhaus-angezuendet-haben",
+      "published": "Fri, 25 Sep 2026 06:38:53 -0000",
+      "published_display": "25.09.2026 · 06:38 Uhr"
+    },
+    {
+      "title": "Rentenreform: Dobrindt kündigt Einigung zur Rentenreform für die »nächsten Tagen« an",
+      "summary": "Union und SPD wollen in Kürze letzte strittige Punkte der Rentenreform klären. Besonders umstritten ist, wie es mit der sogenannten Rente mit 63 Jahren weitergehen soll.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/rentenreform-union-spd-alexander-dobrindt-abschlagsfreie-rente-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/rentenreform-union-spd-alexander-dobrindt-abschlagsfreie-rente",
+      "published": "Fri, 25 Sep 2026 06:34:45 -0000",
+      "published_display": "25.09.2026 · 06:34 Uhr"
+    },
+    {
+      "title": "Antisemitismus-Debatte: Berliner Linken-Chefin: «sehr überrascht» über Kritik",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/berliner-linken-chefin-sehr-ueberrascht-ueber-kritik-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/berliner-linken-chefin-sehr-ueberrascht-ueber-kritik",
+      "published": "Fri, 25 Sep 2026 06:34:37 -0000",
+      "published_display": "25.09.2026 · 06:34 Uhr"
+    },
+    {
+      "title": "Unfälle: 38-jähriger Motorradfahrer stirbt bei Unfall",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/38-jaehriger-motorradfahrer-stirbt-bei-unfall-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/38-jaehriger-motorradfahrer-stirbt-bei-unfall",
+      "published": "Fri, 25 Sep 2026 06:33:23 -0000",
+      "published_display": "25.09.2026 · 06:33 Uhr"
+    },
+    {
+      "title": "Verkehr: S3 gestört: Kein Zug zwischen Pinneberg und Elbgaustraße",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/s3-gestoert-kein-zug-zwischen-pinneberg-und-elbgaustrasse-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/s3-gestoert-kein-zug-zwischen-pinneberg-und-elbgaustrasse",
+      "published": "Fri, 25 Sep 2026 06:26:35 -0000",
+      "published_display": "25.09.2026 · 06:26 Uhr"
+    },
+    {
+      "title": "Regierungsbildung in Berlin: Bartsch: Regierung mit Linken in Berlin «keine Drohung»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/bartsch-regierung-mit-linken-in-berlin-keine-drohung-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/bartsch-regierung-mit-linken-in-berlin-keine-drohung",
+      "published": "Fri, 25 Sep 2026 06:25:05 -0000",
+      "published_display": "25.09.2026 · 06:25 Uhr"
     },
     {
       "title": "Staatsbesuch: Trump empfängt Xi: Viel Pomp und demonstrative Harmonie",
@@ -73,54 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/25/fachmagazin-opern-urauffuehrung-des-jahres-aus-bayern",
       "published": "Fri, 25 Sep 2026 06:01:05 -0000",
       "published_display": "25.09.2026 · 06:01 Uhr"
-    },
-    {
-      "title": "Kritikerumfrage: Fachmagazin: Staatstheater Mainz ist Opernhaus des Jahres",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/fachmagazin-staatstheater-mainz-ist-opernhaus-des-jahres-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/fachmagazin-staatstheater-mainz-ist-opernhaus-des-jahres",
-      "published": "Fri, 25 Sep 2026 06:01:04 -0000",
-      "published_display": "25.09.2026 · 06:01 Uhr"
-    },
-    {
-      "title": "Konsumklima: Sparen statt Shoppen: Verbraucher halten ihr Geld zusammen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/sparen-statt-shoppen-verbraucher-halten-ihr-geld-zusammen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/sparen-statt-shoppen-verbraucher-halten-ihr-geld-zusammen",
-      "published": "Fri, 25 Sep 2026 06:00:06 -0000",
-      "published_display": "25.09.2026 · 06:00 Uhr"
-    },
-    {
-      "title": "Gefährliche Aktion: Mädchen klettern für Social-Media-Videos auf Autobahnbrücke",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/maedchen-klettern-fuer-social-media-videos-auf-autobahnbruecke-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/maedchen-klettern-fuer-social-media-videos-auf-autobahnbruecke",
-      "published": "Fri, 25 Sep 2026 05:51:51 -0000",
-      "published_display": "25.09.2026 · 05:51 Uhr"
-    },
-    {
-      "title": "Irankrieg: Iranische Regierung soll den USA Plan für Kriegsende vorgelegt haben",
-      "summary": "Der Iran hat den USA US-Medienberichten zufolge einen Plan zur Öffnung der Straße von Hormus unterbreitet. Zu welchen Bedingungen ist noch nicht bekannt.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/iran-usa-verhandlungen-krieg-strasse-von-hormus-abbas-araghtschi-bild-2/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/iran-usa-verhandlungen-krieg-strasse-von-hormus-abbas-araghtschi-gxe",
-      "published": "Fri, 25 Sep 2026 05:40:41 -0000",
-      "published_display": "25.09.2026 · 05:40 Uhr"
-    },
-    {
-      "title": "Unfälle: Betrunkene Fahrerin verursacht Unfall in Stralsund",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/betrunkene-fahrerin-verursacht-unfall-in-stralsund-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/betrunkene-fahrerin-verursacht-unfall-in-stralsund",
-      "published": "Fri, 25 Sep 2026 05:39:52 -0000",
-      "published_display": "25.09.2026 · 05:39 Uhr"
-    },
-    {
-      "title": "Regierungsbildung in Berlin: Berliner SPD-Vize ist offen für Gespräche über rot-grün-rote Koalition",
-      "summary": "Cansel Kiziltepe plädiert als erste führende SPD-Politikerin für Koalitionsgespräche mit Linken und Grünen. Die Berliner hätten sich für eine linke Politik entschieden.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/cansel-kiziltepe-spd-berlin-koalition-linke-gruene-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/cansel-kiziltepe-spd-berlin-koalition-linke-gruene-gxe",
-      "published": "Fri, 25 Sep 2026 05:38:30 -0000",
-      "published_display": "25.09.2026 · 05:38 Uhr"
     }
   ]
 }
