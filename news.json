@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-25T20:44:40.691711+00:00",
+  "updated": "2026-09-25T20:56:02.743427+00:00",
   "items": [
+    {
+      "title": "Jemen: Jemens Regierung ruft zur Mobilmachung gegen die Huthi-Rebellen auf",
+      "summary": "Seit Monaten toben die Kämpfe zwischen der proiranischen Huthi-Miliz im Jemen und der Regierungsarmee. Jetzt soll sich die Bevölkerung gegen die Huthis stellen.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/iran-krieg-jemen-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/jemen-huthis-mobilmachung-al-alimi-bab-al-mandab",
+      "published": "Fri, 25 Sep 2026 20:55:49 -0000",
+      "published_display": "25.09.2026 · 20:55 Uhr"
+    },
     {
       "title": "Basketball-Bundesliga: Niners Chemnitz verlieren nach Verlängerung",
       "summary": "",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/politik/ausland/2026-09/deutschland-kanada-johann-wadephul-ottawa-zusammenarbeit",
       "published": "Fri, 25 Sep 2026 19:07:03 -0000",
       "published_display": "25.09.2026 · 19:07 Uhr"
-    },
-    {
-      "title": "Detonation weit zu hören: Gefahrgut-Transporter explodiert auf A1",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/gefahrgut-transporter-explodiert-auf-a1-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/gefahrgut-transporter-explodiert-auf-a1",
-      "published": "Fri, 25 Sep 2026 19:05:52 -0000",
-      "published_display": "25.09.2026 · 19:05 Uhr"
     }
   ]
 }
