@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-25T21:56:02.714540+00:00",
+  "updated": "2026-09-25T22:17:08.483608+00:00",
   "items": [
+    {
+      "title": "Reformdebatte: SPD will bei Pflegereform Leistungskürzung verhindern",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/26/spd-will-bei-pflegereform-leistungskuerzung-verhindern-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/26/spd-will-bei-pflegereform-leistungskuerzung-verhindern",
+      "published": "Fri, 25 Sep 2026 22:02:04 -0000",
+      "published_display": "25.09.2026 · 22:02 Uhr"
+    },
+    {
+      "title": "Kalenderblatt: Was geschah am 26. September?",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/was-geschah-am-26-september-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/was-geschah-am-26-september",
+      "published": "Fri, 25 Sep 2026 21:55:04 -0000",
+      "published_display": "25.09.2026 · 21:55 Uhr"
+    },
     {
       "title": "Papstbesuch: Rund 80.000 Menschen feiern Gottesdienst mit Papst Leo in Frankreich",
       "summary": "Am ersten Abend seiner viertägigen Frankreichreise hat Papst Leo XIV. einen Gottesdienst im Stade de France gehalten. Rund 80.000 junge Franzosen waren dabei.",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/politik/ausland/2026-09/usa-oberster-gerichtshof-waehler-datenbank-wahlberechtigung",
       "published": "Fri, 25 Sep 2026 19:45:03 -0000",
       "published_display": "25.09.2026 · 19:45 Uhr"
-    },
-    {
-      "title": "Lebensmittelrückruf: Amt warnt vor Fremdkörpern in Kimchi-Gläsern",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/amt-warnt-vor-fremdkoerpern-in-kimchi-glaesern-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/amt-warnt-vor-fremdkoerpern-in-kimchi-glaesern",
-      "published": "Fri, 25 Sep 2026 19:34:39 -0000",
-      "published_display": "25.09.2026 · 19:34 Uhr"
-    },
-    {
-      "title": "Ungewöhnliche Hurrikansaison: Gleich drei Hurrikane im Pazifik - Hawaii und Mexiko bedroht",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/gleich-drei-hurrikane-im-pazifik-hawaii-und-mexiko-bedroht-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/gleich-drei-hurrikane-im-pazifik-hawaii-und-mexiko-bedroht",
-      "published": "Fri, 25 Sep 2026 19:30:13 -0000",
-      "published_display": "25.09.2026 · 19:30 Uhr"
     }
   ]
 }
