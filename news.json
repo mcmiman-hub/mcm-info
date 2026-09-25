@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-25T22:17:08.483608+00:00",
+  "updated": "2026-09-25T22:29:01.303065+00:00",
   "items": [
+    {
+      "title": "Russland: Unabhängiger Politikwissenschaftler Kynew in Russland festgenommen",
+      "summary": "Wegen Vorwürfen des Drogenhandels ist ein russischer Politologe verhaftet worden. In den letzten Tagen äußerte er sich mehrfach zur Parlamentswahl in Russland.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/alexander-kynew-festnahme-russland-politologe-duma-wahl-bild-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/alexander-kynew-festnahme-russland-politologe-duma-wahl",
+      "published": "Fri, 25 Sep 2026 22:25:36 -0000",
+      "published_display": "25.09.2026 · 22:25 Uhr"
+    },
     {
       "title": "Reformdebatte: SPD will bei Pflegereform Leistungskürzung verhindern",
       "summary": "",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/25/raubvogel-brutkaesten-an-strommasten-loesen-polizeieinsatz-aus",
       "published": "Fri, 25 Sep 2026 19:51:50 -0000",
       "published_display": "25.09.2026 · 19:51 Uhr"
-    },
-    {
-      "title": "USA: Supreme Court erlaubt Nutzung von Datenbank zur Wählerprüfung",
-      "summary": "Kurz vor den US-Zwischenwahlen erlaubt der Supreme Court die Wählerprüfung durch eine Datenbank. Damit will die Trump-Regierung Nicht-Staatsbürger überprüfen lassen.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/usa-oberster-gerichtshof-waehler-datenbank-wahlberechtigung-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/usa-oberster-gerichtshof-waehler-datenbank-wahlberechtigung",
-      "published": "Fri, 25 Sep 2026 19:45:03 -0000",
-      "published_display": "25.09.2026 · 19:45 Uhr"
     }
   ]
 }
