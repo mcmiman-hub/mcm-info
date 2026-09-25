@@ -1,7 +1,119 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-25T03:56:26.429143+00:00",
+  "updated": "2026-09-25T04:18:17.119889+00:00",
   "items": [
+    {
+      "title": "Brände: Nächtlicher Brand in leerstehender Wohnung in Stendal",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/naechtlicher-brand-in-leerstehender-wohnung-in-stendal-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/naechtlicher-brand-in-leerstehender-wohnung-in-stendal",
+      "published": "Fri, 25 Sep 2026 04:14:00 -0000",
+      "published_display": "25.09.2026 · 04:14 Uhr"
+    },
+    {
+      "title": "Wetterprognose: Rheinland-Pfalz und Saarland: Sonniges Wochenende erwartet",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/rheinland-pfalz-und-saarland-sonniges-wochenende-erwartet-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/rheinland-pfalz-und-saarland-sonniges-wochenende-erwartet",
+      "published": "Fri, 25 Sep 2026 04:10:58 -0000",
+      "published_display": "25.09.2026 · 04:10 Uhr"
+    },
+    {
+      "title": "Fußball-Nationalmannschaft: Treu dankt Klopp: «Gut, dass jemand die Augen aufmacht»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/treu-dankt-klopp-gut-dass-jemand-die-augen-aufmacht-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/treu-dankt-klopp-gut-dass-jemand-die-augen-aufmacht",
+      "published": "Fri, 25 Sep 2026 04:05:04 -0000",
+      "published_display": "25.09.2026 · 04:05 Uhr"
+    },
+    {
+      "title": "Sicherheit von KI: Wie sicher sind unsere Daten in Zeiten von KI?",
+      "summary": "Ein KI-Agent dringt in eine australische Regierungsdatenbank ein. Was bedeutet das für die Datensicherheit? Und: Wie ein US-Dieselexportstopp Deutschland treffen würde.",
+      "image": "https://img.zeit.de/politik/2026-09/sicherheit-ki-australien-daten/original__640x360",
+      "link": "https://www.zeit.de/politik/2026-09/sicherheit-ki-australien-daten-nachrichtenpodcast",
+      "published": "Fri, 25 Sep 2026 04:00:15 -0000",
+      "published_display": "25.09.2026 · 04:00 Uhr"
+    },
+    {
+      "title": "Musik: Wahnsinn mit 75: Wolfgang Petry singt übers Alter",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/wahnsinn-mit-75-wolfgang-petry-singt-uebers-alter-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/wahnsinn-mit-75-wolfgang-petry-singt-uebers-alter",
+      "published": "Fri, 25 Sep 2026 04:00:13 -0000",
+      "published_display": "25.09.2026 · 04:00 Uhr"
+    },
+    {
+      "title": "Die Linke: Sieg der Linken in Berlin: Auf die Liebe folgt der Hass",
+      "summary": "Enteignungspläne, Antisemitismusvorwürfe: Die Linke in der Hauptstadt polarisiert. Was erzählt ihr Erfolg über die Verfasstheit der Mitte? Und wie geht es jetzt weiter?",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/podcasrt-die-linke-antisemitismus-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/2026-09/die-linke-berlin-regierung-politikpodcast",
+      "published": "Fri, 25 Sep 2026 04:00:12 -0000",
+      "published_display": "25.09.2026 · 04:00 Uhr"
+    },
+    {
+      "title": "Schokoladenwerk in Bochum: Schoko-Produktion fürs Weihnachtsgeschäft im vollen Gang",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/schoko-produktion-fuers-weihnachtsgeschaeft-im-vollen-gang-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/schoko-produktion-fuers-weihnachtsgeschaeft-im-vollen-gang",
+      "published": "Fri, 25 Sep 2026 04:00:12 -0000",
+      "published_display": "25.09.2026 · 04:00 Uhr"
+    },
+    {
+      "title": "Elbvertiefung: Der tägliche Newsletter aus Hamburg: Rundstück warm: Ein Gericht, das Kindheitserinnerungen weckt",
+      "summary": "Die Elbvertiefung am Freitag – Mit dem Fall des Getöteten aus der Lagerstraße, Heino und der Frage, wo er steht, und einem Schulstreik gegen die Wehrpflicht",
+      "image": "https://img.zeit.de/hamburg/2026-09/rundstueck/original__640x360",
+      "link": "https://www.zeit.de/hamburg/2026-09/elbvertiefung-25-09-2026",
+      "published": "Fri, 25 Sep 2026 04:00:09 -0000",
+      "published_display": "25.09.2026 · 04:00 Uhr"
+    },
+    {
+      "title": "Justiz: Mehr Asylverfahren vor Verwaltungsgerichten im Nordosten",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/mehr-asylverfahren-vor-verwaltungsgerichten-im-nordosten-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/mehr-asylverfahren-vor-verwaltungsgerichten-im-nordosten",
+      "published": "Fri, 25 Sep 2026 04:00:08 -0000",
+      "published_display": "25.09.2026 · 04:00 Uhr"
+    },
+    {
+      "title": "Fischerei: Karpfen-Tradition neu gedacht – Saison beginnt am Samstag",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/karpfen-tradition-neu-gedacht-saison-beginnt-am-samstag-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/karpfen-tradition-neu-gedacht-saison-beginnt-am-samstag",
+      "published": "Fri, 25 Sep 2026 04:00:08 -0000",
+      "published_display": "25.09.2026 · 04:00 Uhr"
+    },
+    {
+      "title": "Nach der Wahl: Berliner SPD-Vize Kiziltepe für Rot-Grün-Rot",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/berliner-spd-vize-kiziltepe-fuer-rot-gruen-rot-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/berliner-spd-vize-kiziltepe-fuer-rot-gruen-rot",
+      "published": "Fri, 25 Sep 2026 04:00:07 -0000",
+      "published_display": "25.09.2026 · 04:00 Uhr"
+    },
+    {
+      "title": "Dana Vowinckel: »Ich hätte nie gedacht, dass ich jemand werde, der puzzelt«",
+      "summary": "Im Wochenendpodcast erklärt die Autorin Dana Vowinckel, wie man gut streiten kann. Und gibt zu, dass sie Cola-abhängig ist. Cola mit Zucker!",
+      "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-09/dana-vowinckel-alltag-streiten-wochenende-tipps-podcast-bild/original__640x360",
+      "link": "https://www.zeit.de/entdecken/2026-09/dana-vowinckel-alltag-streiten-wochenende-tipps-podcast",
+      "published": "Fri, 25 Sep 2026 04:00:06 -0000",
+      "published_display": "25.09.2026 · 04:00 Uhr"
+    },
+    {
+      "title": "Flutkatastrophe im Himalaya: Sturzflut in Nepal: Alltag zwischen Trauer und Wiederaufbau",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/sturzflut-in-nepal-alltag-zwischen-trauer-und-wiederaufbau-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/sturzflut-in-nepal-alltag-zwischen-trauer-und-wiederaufbau",
+      "published": "Fri, 25 Sep 2026 04:00:06 -0000",
+      "published_display": "25.09.2026 · 04:00 Uhr"
+    },
+    {
+      "title": "Gemeinwohl: Lotto fördert 21 Projekte mit einer Dreiviertelmillion Euro",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/lotto-foerdert-21-projekte-mit-einer-dreiviertelmillion-euro-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/lotto-foerdert-21-projekte-mit-einer-dreiviertelmillion-euro",
+      "published": "Fri, 25 Sep 2026 04:00:05 -0000",
+      "published_display": "25.09.2026 · 04:00 Uhr"
+    },
     {
       "title": "Fußball-Nationalmannschaft: DFB-Tor eine «Schande?» Klopp und Kimmich kontern van Dijk",
       "summary": "",
@@ -9,118 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/25/dfb-tor-eine-schande-klopp-und-kimmich-kontern-van-dijk",
       "published": "Fri, 25 Sep 2026 03:54:04 -0000",
       "published_display": "25.09.2026 · 03:54 Uhr"
-    },
-    {
-      "title": "Entscheidung am Samstag: Harald Schmidt schwärmt von Olympia in Köln",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/harald-schmidt-schwaermt-von-olympia-in-koeln-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/harald-schmidt-schwaermt-von-olympia-in-koeln",
-      "published": "Fri, 25 Sep 2026 03:50:04 -0000",
-      "published_display": "25.09.2026 · 03:50 Uhr"
-    },
-    {
-      "title": "Wechseljahre: »Nö, das mache ich jetzt, ich beende meine Ehe«",
-      "summary": "In der Lebensmitte ziehen viele Frauen Bilanz: Führe ich das richtige Leben? Vier Frauen erzählen, wie sie Job, Männer und anderen Ballast aus ihrem Leben geworfen haben.",
-      "image": "https://img.zeit.de/familie/2026-09/wechseljahre-menopause-frauen-entscheidungen-neuanfang-bild/original__640x360",
-      "link": "https://www.zeit.de/familie/2026-08/wechseljahre-menopause-frauen-entscheidungen-neuanfang",
-      "published": "Fri, 25 Sep 2026 03:46:15 -0000",
-      "published_display": "25.09.2026 · 03:46 Uhr"
-    },
-    {
-      "title": "Axel Springer Award: Der letzte aufrechte Deutsche?",
-      "summary": "Der libertäre Investor Peter Thiel hat den Axel Springer Award bekommen. Verlagschef Mathias Döpfner inszenierte die Verleihung als Geschichte über einen verlorenen Sohn.",
-      "image": "https://img.zeit.de/feuilleton/2026-09/axel-springer-award-peter-thiel-tech-unternehmer-palantir-bild/original__640x360",
-      "link": "https://www.zeit.de/feuilleton/2026-09/axel-springer-award-peter-thiel-tech-unternehmer-palantir",
-      "published": "Fri, 25 Sep 2026 03:45:00 -0000",
-      "published_display": "25.09.2026 · 03:45 Uhr"
-    },
-    {
-      "title": "USA und China: Trump empfängt Xi zu Staatsbankett im Weißen Haus",
-      "summary": "Der US-Präsident und der chinesische Staatschef betonen ihre guten Beziehungen und gemeinsamen Interessen. Journalisten waren vom Staatsbankett ausgeschlossen.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/xi-jinping-donald-trump-china-staatsbesuch-washington-dc-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/xi-jinping-donald-trump-china-staatsbesuch-washington-dc",
-      "published": "Fri, 25 Sep 2026 03:41:36 -0000",
-      "published_display": "25.09.2026 · 03:41 Uhr"
-    },
-    {
-      "title": "Fußball-Nationalmannschaft: Wie beim Vokabel-Test: So lief das wilde Klopp-Debüt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/wie-beim-vokabel-test-so-lief-das-wilde-klopp-debuet-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/wie-beim-vokabel-test-so-lief-das-wilde-klopp-debuet",
-      "published": "Fri, 25 Sep 2026 03:34:04 -0000",
-      "published_display": "25.09.2026 · 03:34 Uhr"
-    },
-    {
-      "title": "Musik: Wolfgang Petry: Keine neue Tour mehr von mir",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/wolfgang-petry-keine-neue-tour-mehr-von-mir-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/wolfgang-petry-keine-neue-tour-mehr-von-mir",
-      "published": "Fri, 25 Sep 2026 03:30:07 -0000",
-      "published_display": "25.09.2026 · 03:30 Uhr"
-    },
-    {
-      "title": "Wetter: Bis zu 31 Grad im Südwesten – Sonne satt am Wochenende",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/bis-zu-31-grad-im-suedwesten-sonne-satt-am-wochenende-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/bis-zu-31-grad-im-suedwesten-sonne-satt-am-wochenende",
-      "published": "Fri, 25 Sep 2026 03:30:06 -0000",
-      "published_display": "25.09.2026 · 03:30 Uhr"
-    },
-    {
-      "title": "Naturschauspiel am Watt: Der Vogelzug beginnt - Tipps zum Beobachten",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/der-vogelzug-beginnt-tipps-zum-beobachten-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/der-vogelzug-beginnt-tipps-zum-beobachten",
-      "published": "Fri, 25 Sep 2026 03:30:05 -0000",
-      "published_display": "25.09.2026 · 03:30 Uhr"
-    },
-    {
-      "title": "BDI-Grundsatzpapier: Deutsche Industrie will unabhängiger von China und USA werden",
-      "summary": "Der Bundesverband der Deutschen Industrie fordert eine Neuausrichtung der deutschen Wirtschaftspolitik. Wachstum und Wettbewerbsfähigkeit seien oberste Priorität.",
-      "image": "https://img.zeit.de/wirtschaft/2026-09/bdi-abhaengigkeit-china-lieferketten-usa-eu-foto-1/original__640x360",
-      "link": "https://www.zeit.de/wirtschaft/2026-09/bdi-abhaengigkeit-china-lieferketten-usa-eu",
-      "published": "Fri, 25 Sep 2026 03:24:25 -0000",
-      "published_display": "25.09.2026 · 03:24 Uhr"
-    },
-    {
-      "title": "Staatsbesuch: Trump empfängt Xi: Viel Pomp und demonstrative Harmonie",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/trump-empfaengt-xi-viel-pomp-und-demonstrative-harmonie-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/trump-empfaengt-xi-viel-pomp-und-demonstrative-harmonie",
-      "published": "Fri, 25 Sep 2026 03:22:40 -0000",
-      "published_display": "25.09.2026 · 03:22 Uhr"
-    },
-    {
-      "title": "Fotografie: Bilder des Tages",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/bilder-des-tages-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/bilder-des-tages",
-      "published": "Fri, 25 Sep 2026 03:13:45 -0000",
-      "published_display": "25.09.2026 · 03:13 Uhr"
-    },
-    {
-      "title": "Innere Sicherheit: Von KI bis Taser - Pläne für Polizeiaufgaben polarisieren",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/von-ki-bis-taser-plaene-fuer-polizeiaufgaben-polarisieren-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/von-ki-bis-taser-plaene-fuer-polizeiaufgaben-polarisieren",
-      "published": "Fri, 25 Sep 2026 03:00:06 -0000",
-      "published_display": "25.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Laufsport: 52. Marathon mit 56.187 Läufern - Sperrungen und Sicherheit",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/52-marathon-mit-56-187-laeufern-sperrungen-und-sicherheit-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/52-marathon-mit-56-187-laeufern-sperrungen-und-sicherheit",
-      "published": "Fri, 25 Sep 2026 03:00:05 -0000",
-      "published_display": "25.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Autobahn-Sperrung: Kreuz Herne: Vollsperrung vor der Brücken-Freigabe",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/kreuz-herne-vollsperrung-vor-der-bruecken-freigabe-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/kreuz-herne-vollsperrung-vor-der-bruecken-freigabe",
-      "published": "Fri, 25 Sep 2026 03:00:05 -0000",
-      "published_display": "25.09.2026 · 03:00 Uhr"
     }
   ]
 }
