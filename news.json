@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-25T19:54:58.551779+00:00",
+  "updated": "2026-09-25T20:16:28.310524+00:00",
   "items": [
+    {
+      "title": "Basketball: MBC gewinnt Bundesliga-Derby gegen Jena",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/mbc-gewinnt-bundesliga-derby-gegen-jena-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/mbc-gewinnt-bundesliga-derby-gegen-jena",
+      "published": "Fri, 25 Sep 2026 20:06:56 -0000",
+      "published_display": "25.09.2026 · 20:06 Uhr"
+    },
+    {
+      "title": "Pflegereform: SPD-Generalsekretär stellt sich gegen Leistungskürzung in der Pflege",
+      "summary": "Die SPD will bei der geplanten Pflegereform keine Leistungskürzungen akzeptieren. Kommende Woche ist ein Kabinettsbeschluss für die Finanzierung der Pflege geplant.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/pflegeversicherung-spd-tim-kluessendorf-leistungskuerzung-bild-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/pflegeversicherung-spd-tim-kluessendorf-leistungskuerzung",
+      "published": "Fri, 25 Sep 2026 19:59:18 -0000",
+      "published_display": "25.09.2026 · 19:59 Uhr"
+    },
     {
       "title": "Wiesbaden: Raubvogel-Brutkästen an Strommasten lösen Polizeieinsatz aus",
       "summary": "",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/25/busfahrer-bremst-passagierin-schwer-verletzt",
       "published": "Fri, 25 Sep 2026 18:37:14 -0000",
       "published_display": "25.09.2026 · 18:37 Uhr"
-    },
-    {
-      "title": "Firmenjubiläum: Merz arbeitete in jungen Jahren «einige Monate» bei Henkel",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/merz-arbeitete-in-jungen-jahren-einige-monate-bei-henkel-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/merz-arbeitete-in-jungen-jahren-einige-monate-bei-henkel",
-      "published": "Fri, 25 Sep 2026 18:36:48 -0000",
-      "published_display": "25.09.2026 · 18:36 Uhr"
-    },
-    {
-      "title": "Nach der Abgeordnetenhauswahl: Berliner Linke startet Projekt Regierungsbildung",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/stimmungsmache-berliner-linke-wehrt-sich-gegen-vorwuerfe-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/stimmungsmache-berliner-linke-wehrt-sich-gegen-vorwuerfe",
-      "published": "Fri, 25 Sep 2026 18:34:58 -0000",
-      "published_display": "25.09.2026 · 18:34 Uhr"
     }
   ]
 }
