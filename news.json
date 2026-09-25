@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-25T04:45:48.012001+00:00",
+  "updated": "2026-09-25T04:56:59.087609+00:00",
   "items": [
+    {
+      "title": "Irankrieg: Iran legt USA Medienberichten zufolge Plan für Kriegsende vor",
+      "summary": "Die iranische Regierung soll den USA laut US-Medien einen Plan zur Öffnung der Straße von Hormus unterbreitet haben. Zu welchen Bedingungen, ist noch nicht bekannt.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/iran-usa-verhandlungen-krieg-strasse-von-hormus-abbas-araghtschi-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/iran-usa-verhandlungen-krieg-strasse-von-hormus-abbas-araghtschi",
+      "published": "Fri, 25 Sep 2026 04:55:41 -0000",
+      "published_display": "25.09.2026 · 04:55 Uhr"
+    },
+    {
+      "title": "Wettervorhersage: Sommerwetter im Herbst: Knackt Deutschland die 31 Grad?",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/sommerwetter-im-herbst-knackt-deutschland-die-31-grad-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/sommerwetter-im-herbst-knackt-deutschland-die-31-grad",
+      "published": "Fri, 25 Sep 2026 04:47:26 -0000",
+      "published_display": "25.09.2026 · 04:47 Uhr"
+    },
+    {
+      "title": "Unfall: 32-Jähriger von Auto erfasst und lebensgefährlich verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/32-jaehriger-von-auto-erfasst-und-lebensgefaehrlich-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/32-jaehriger-von-auto-erfasst-und-lebensgefaehrlich-verletzt",
+      "published": "Fri, 25 Sep 2026 04:45:26 -0000",
+      "published_display": "25.09.2026 · 04:45 Uhr"
+    },
     {
       "title": "Fußball-Nationalmannschaft: Wie beim Vokabel-Test: So lief das wilde Klopp-Debüt",
       "summary": "",
@@ -17,14 +41,6 @@
       "link": "https://www.zeit.de/news/2026-09/25/wochenende-bringt-sonne-aber-kalte-naechte",
       "published": "Fri, 25 Sep 2026 04:39:17 -0000",
       "published_display": "25.09.2026 · 04:39 Uhr"
-    },
-    {
-      "title": "Irankrieg: Iran legt USA Medienberichten zufolge Plan für Kriegsende vor",
-      "summary": "Die iranische Regierung soll den USA laut US-Medien einen Plan zur Öffnung der Straße von Hormus unterbreitet haben. Zu welchen Bedingungen, ist noch nicht bekannt.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/iran-usa-verhandlungen-krieg-strasse-von-hormus-abbas-araghtschi-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/iran-usa-verhandlungen-krieg-strasse-von-hormus-abbas-araghtschi",
-      "published": "Fri, 25 Sep 2026 04:32:39 -0000",
-      "published_display": "25.09.2026 · 04:32 Uhr"
     },
     {
       "title": "Unfälle: Auto fährt über Rot - Mann bei Unfall verletzt",
@@ -104,22 +120,6 @@
       "image": "https://img.zeit.de/news/2026-09/25/wahnsinn-mit-75-wolfgang-petry-singt-uebers-alter-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-09/25/wahnsinn-mit-75-wolfgang-petry-singt-uebers-alter",
       "published": "Fri, 25 Sep 2026 04:00:13 -0000",
-      "published_display": "25.09.2026 · 04:00 Uhr"
-    },
-    {
-      "title": "Die Linke: Sieg der Linken in Berlin: Auf die Liebe folgt der Hass",
-      "summary": "Enteignungspläne, Antisemitismusvorwürfe: Die Linke in der Hauptstadt polarisiert. Was erzählt ihr Erfolg über die Verfasstheit der Mitte? Und wie geht es jetzt weiter?",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/podcasrt-die-linke-antisemitismus-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/2026-09/die-linke-berlin-regierung-politikpodcast",
-      "published": "Fri, 25 Sep 2026 04:00:12 -0000",
-      "published_display": "25.09.2026 · 04:00 Uhr"
-    },
-    {
-      "title": "Schokoladenwerk in Bochum: Schoko-Produktion fürs Weihnachtsgeschäft im vollen Gang",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/schoko-produktion-fuers-weihnachtsgeschaeft-im-vollen-gang-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/schoko-produktion-fuers-weihnachtsgeschaeft-im-vollen-gang",
-      "published": "Fri, 25 Sep 2026 04:00:12 -0000",
       "published_display": "25.09.2026 · 04:00 Uhr"
     }
   ]
