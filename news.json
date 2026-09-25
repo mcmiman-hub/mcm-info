@@ -1,7 +1,55 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-25T05:17:06.019921+00:00",
+  "updated": "2026-09-25T05:29:17.561250+00:00",
   "items": [
+    {
+      "title": "Kriminalität: Exponat aus Lern- und Gedenkort in Chemnitz gestohlen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/exponat-aus-lern-und-gedenkort-in-chemnitz-gestohlen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/exponat-aus-lern-und-gedenkort-in-chemnitz-gestohlen",
+      "published": "Fri, 25 Sep 2026 05:25:36 -0000",
+      "published_display": "25.09.2026 · 05:25 Uhr"
+    },
+    {
+      "title": "Kriminalität: Angriff mit Pfefferpistolen: 64-Jähriger in Rodgau verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/angriff-mit-pfefferpistolen-64-jaehriger-in-rodgau-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/angriff-mit-pfefferpistolen-64-jaehriger-in-rodgau-verletzt",
+      "published": "Fri, 25 Sep 2026 05:23:00 -0000",
+      "published_display": "25.09.2026 · 05:23 Uhr"
+    },
+    {
+      "title": "Handbremse vergessen: Geparktes Auto stürzt in Stuttgarter Baugrube",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/geparktes-auto-stuerzt-in-stuttgarter-baugrube-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/geparktes-auto-stuerzt-in-stuttgarter-baugrube",
+      "published": "Fri, 25 Sep 2026 05:21:15 -0000",
+      "published_display": "25.09.2026 · 05:21 Uhr"
+    },
+    {
+      "title": "Irankrieg: Iranische Regierung soll den USA Plan für Kriegsende vorgelegt haben",
+      "summary": "Der Iran hat den USA US-Medienberichten zufolge einen Plan zur Öffnung der Straße von Hormus unterbreitet. Zu welchen Bedingungen ist noch nicht bekannt.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/iran-usa-verhandlungen-krieg-strasse-von-hormus-abbas-araghtschi-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/iran-usa-verhandlungen-krieg-strasse-von-hormus-abbas-araghtschi",
+      "published": "Fri, 25 Sep 2026 05:18:06 -0000",
+      "published_display": "25.09.2026 · 05:18 Uhr"
+    },
+    {
+      "title": "Polen: Früher arm und grau, heute Musterschüler",
+      "summary": "Die Eltern unserer Autorin zogen einst für ein besseres Leben aus Polen nach Berlin. Heute fragt sie sich, ob Polen Deutschland nicht in vieler Hinsicht überholt hat.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/polen-deutschland-digitalisierung-wirtschaftswachstum-5vor8-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/polen-deutschland-digitalisierung-wirtschaftswachstum-5vor8",
+      "published": "Fri, 25 Sep 2026 05:17:35 -0000",
+      "published_display": "25.09.2026 · 05:17 Uhr"
+    },
+    {
+      "title": "Wetter: Wolken am Freitag, Sonne und bis zu 22 Grad am Sonntag",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/wolken-am-freitag-sonne-und-bis-zu-22-grad-am-sonntag-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/wolken-am-freitag-sonne-und-bis-zu-22-grad-am-sonntag",
+      "published": "Fri, 25 Sep 2026 05:16:59 -0000",
+      "published_display": "25.09.2026 · 05:16 Uhr"
+    },
     {
       "title": "Debüt als Bundestrainer: Es ist noch viel zu tun für Jürgen Klopp",
       "summary": "Dass alle rennen, ist neu. Eine Mannschaft aber zeichnet sich noch nicht ab. Und beim 1:1 war viel Glück im Spiel. Über Jürgen Klopps Einstand als Bundestrainer",
@@ -51,14 +99,6 @@
       "published_display": "25.09.2026 · 05:00 Uhr"
     },
     {
-      "title": "Irankrieg: Iran legt USA Medienberichten zufolge Plan für Kriegsende vor",
-      "summary": "Die iranische Regierung soll den USA laut US-Medien einen Plan zur Öffnung der Straße von Hormus unterbreitet haben. Zu welchen Bedingungen, ist noch nicht bekannt.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/iran-usa-verhandlungen-krieg-strasse-von-hormus-abbas-araghtschi-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/iran-usa-verhandlungen-krieg-strasse-von-hormus-abbas-araghtschi",
-      "published": "Fri, 25 Sep 2026 04:55:41 -0000",
-      "published_display": "25.09.2026 · 04:55 Uhr"
-    },
-    {
       "title": "Wettervorhersage: Sommerwetter im Herbst: Knackt Deutschland die 31 Grad?",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-09/25/sommerwetter-im-herbst-knackt-deutschland-die-31-grad-image-group/original__640x360",
@@ -81,46 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/25/wie-beim-vokabel-test-so-lief-das-wilde-klopp-debuet",
       "published": "Fri, 25 Sep 2026 04:42:47 -0000",
       "published_display": "25.09.2026 · 04:42 Uhr"
-    },
-    {
-      "title": "Wetter: Wochenende bringt Sonne – aber kalte Nächte",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/wochenende-bringt-sonne-aber-kalte-naechte-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/wochenende-bringt-sonne-aber-kalte-naechte",
-      "published": "Fri, 25 Sep 2026 04:39:17 -0000",
-      "published_display": "25.09.2026 · 04:39 Uhr"
-    },
-    {
-      "title": "Unfälle: Auto fährt über Rot - Mann bei Unfall verletzt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/auto-faehrt-ueber-rot-mann-bei-unfall-verletzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/auto-faehrt-ueber-rot-mann-bei-unfall-verletzt",
-      "published": "Fri, 25 Sep 2026 04:31:10 -0000",
-      "published_display": "25.09.2026 · 04:31 Uhr"
-    },
-    {
-      "title": "Neben Abraumförderbrücke: Vierbeiner-Festival: Wenn Hunde Mode zeigen und SUP fahren",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/vierbeiner-festival-wenn-hunde-mode-zeigen-und-sup-fahren-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/vierbeiner-festival-wenn-hunde-mode-zeigen-und-sup-fahren",
-      "published": "Fri, 25 Sep 2026 04:30:04 -0000",
-      "published_display": "25.09.2026 · 04:30 Uhr"
-    },
-    {
-      "title": "Wetterprognose: Am Wochenende bis zu 28 Grad in Hessen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/am-wochenende-bis-zu-28-grad-in-hessen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/am-wochenende-bis-zu-28-grad-in-hessen",
-      "published": "Fri, 25 Sep 2026 04:26:13 -0000",
-      "published_display": "25.09.2026 · 04:26 Uhr"
-    },
-    {
-      "title": "Wetterprognose: Wochenende mit bis zu 26 Grad in Nordrhein-Westfalen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/wochenende-mit-bis-zu-26-grad-in-nordrhein-westfalen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/wochenende-mit-bis-zu-26-grad-in-nordrhein-westfalen",
-      "published": "Fri, 25 Sep 2026 04:18:58 -0000",
-      "published_display": "25.09.2026 · 04:18 Uhr"
     }
   ]
 }
