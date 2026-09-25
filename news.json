@@ -1,126 +1,126 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-25T08:56:57.993523+00:00",
+  "updated": "2026-09-25T09:18:23.812556+00:00",
   "items": [
+    {
+      "title": "Berliner Regierungsbildung: Söder warnt SPD und Grüne vor Koalition mit Linkspartei",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/soeder-warnt-spd-und-gruene-vor-koalition-mit-linkspartei-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/soeder-warnt-spd-und-gruene-vor-koalition-mit-linkspartei",
+      "published": "Fri, 25 Sep 2026 09:15:44 -0000",
+      "published_display": "25.09.2026 · 09:15 Uhr"
+    },
+    {
+      "title": "Höchstrichterliches Urteil: BGH entscheidet: Street-Art-Gemälde darf an Hochhausfassade",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/bgh-entscheidet-im-streit-um-streetart-fassadengemaelde-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/bgh-entscheidet-im-streit-um-streetart-fassadengemaelde",
+      "published": "Fri, 25 Sep 2026 09:14:22 -0000",
+      "published_display": "25.09.2026 · 09:14 Uhr"
+    },
+    {
+      "title": "Luftfahrt: Investor Attestor übernimmt Condor ganz - Staat steigt aus",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/investor-attestor-uebernimmt-condor-ganz-staat-steigt-aus-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/investor-attestor-uebernimmt-condor-ganz-staat-steigt-aus",
+      "published": "Fri, 25 Sep 2026 09:13:55 -0000",
+      "published_display": "25.09.2026 · 09:13 Uhr"
+    },
+    {
+      "title": "Polizeieinsatz: Polizei kontrolliert besetztes Haus nach Angriffen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/polizei-kontrolliert-besetztes-haus-nach-angriffen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/polizei-kontrolliert-besetztes-haus-nach-angriffen",
+      "published": "Fri, 25 Sep 2026 09:13:09 -0000",
+      "published_display": "25.09.2026 · 09:13 Uhr"
+    },
+    {
+      "title": "Fußball-Nationalmannschaft: Klopp holt Wirtz und Burkardt für Musiala und Havertz",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/klopp-holt-wirtz-und-burkardt-fuer-musiala-und-havertz-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/klopp-holt-wirtz-und-burkardt-fuer-musiala-und-havertz",
+      "published": "Fri, 25 Sep 2026 09:13:05 -0000",
+      "published_display": "25.09.2026 · 09:13 Uhr"
+    },
+    {
+      "title": "Unfälle: Quad überschlägt sich – Zwei Schwerverletzte in Badbergen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/quad-ueberschlaegt-sich-zwei-schwerverletzte-in-badbergen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/quad-ueberschlaegt-sich-zwei-schwerverletzte-in-badbergen",
+      "published": "Fri, 25 Sep 2026 09:11:45 -0000",
+      "published_display": "25.09.2026 · 09:11 Uhr"
+    },
+    {
+      "title": "Flutkatastrophe im Himalaya: Eine «Warnung an die Welt»: Nepalesen kämpfen ums Überleben",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/sturzflut-in-nepal-alltag-zwischen-trauer-und-wiederaufbau-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/sturzflut-in-nepal-alltag-zwischen-trauer-und-wiederaufbau",
+      "published": "Fri, 25 Sep 2026 09:06:00 -0000",
+      "published_display": "25.09.2026 · 09:06 Uhr"
+    },
+    {
+      "title": "Neutralitätsinitiative in der Schweiz: So neutral wollen nicht mal die Schweizer sein",
+      "summary": "Eine Volksinitiative will die Neutralität in die Verfassung schreiben, hat aber kaum Chancen. Was ist da los? Und: Wer noch Wasserflaschen schleppt.",
+      "image": "https://img.zeit.de/video/2026-08/servus-gruezi-hallo-bymarzenaskubatz-61a5756-1-bild-4/original__640x360",
+      "link": "https://www.zeit.de/video/2026-09/neutralitaetsinitiative-schweiz-verfassung-alpenpodcast-videopodcast",
+      "published": "Fri, 25 Sep 2026 09:04:07 -0000",
+      "published_display": "25.09.2026 · 09:04 Uhr"
+    },
+    {
+      "title": "Wohnungkrise in Berlin: So lässt sich die Wohnungsnot ohne Enteignungen lösen",
+      "summary": "Berlin diskutiert über Vergesellschaftung, dabei liegen praktische Lösungen für das Wohnungsproblem direkt in der Stadt: als Flächen, die man nutzen muss.",
+      "image": "https://img.zeit.de/wirtschaft/2026-09/wohnungskrise-berlin-vergesellschaftung-immobilien-linke-bild/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/2026-09/wohnungskrise-berlin-vergesellschaftung-immobilien-linke",
+      "published": "Fri, 25 Sep 2026 09:03:43 -0000",
+      "published_display": "25.09.2026 · 09:03 Uhr"
+    },
     {
       "title": "Berliner Pläne zur Vergesellschaftung: Studie bewertet Vergesellschaftung als sinnvolle Ergänzung zu Neubau",
       "summary": "Eine Studie der Hans-Böckler-Stiftung hält die Vergesellschaftung von Wohnraum in Berlin für sinnvoll. Den Mangel an Wohnungen in der Hauptstadt löse sie jedoch nicht.",
       "image": "https://img.zeit.de/politik/deutschland/2026-09/vergesellschaftung-wohnungen-berlin-hans-boeckler-stiftung-mieten-neubau-foto-1/original__640x360",
       "link": "https://www.zeit.de/politik/deutschland/2026-09/vergesellschaftung-wohnungen-berlin-hans-boeckler-stiftung-mieten-neubau",
-      "published": "Fri, 25 Sep 2026 08:55:13 -0000",
-      "published_display": "25.09.2026 · 08:55 Uhr"
+      "published": "Fri, 25 Sep 2026 09:02:49 -0000",
+      "published_display": "25.09.2026 · 09:02 Uhr"
     },
     {
-      "title": "Justizskandal: Gestohlene Generalschlüssel: Wieder Razzia in JVA Euskirchen",
+      "title": "Bundespolizeigesetz: Bundestag beschließt neues Bundespolizeigesetz",
+      "summary": "Der Bundestag hat weitreichende neue Befugnisse für die Bundespolizei beschlossen. Nach einer Panne im Sommer war eine Wiederholung der Abstimmung über das Gesetz nötig.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/bundespolizeigesetz-reform-bundestag-befugnisse-abschiebehaft-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/bundespolizeigesetz-reform-bundestag-befugnisse-abschiebehaft",
+      "published": "Fri, 25 Sep 2026 09:02:38 -0000",
+      "published_display": "25.09.2026 · 09:02 Uhr"
+    },
+    {
+      "title": "Soziale Arbeit: So haben sie sich das nicht vorgestellt",
+      "summary": "Immer mehr junge Menschen studieren Soziale Arbeit. Ein Job für Idealisten. Doch später im Arbeitsalltag erleben viele einen fundamentalen Realitätsschock.",
+      "image": "https://img.zeit.de/arbeit/2026-09/soziale-arbeit-studium-arbeitsmarkt-junge-menschen-bild/original__640x360",
+      "link": "https://www.zeit.de/arbeit/2026-09/soziale-arbeit-studium-arbeitsmarkt-junge-menschen",
+      "published": "Fri, 25 Sep 2026 09:00:51 -0000",
+      "published_display": "25.09.2026 · 09:00 Uhr"
+    },
+    {
+      "title": "Rund 80 Schließfächer geknackt: Bankraub mit Inside-Job? Verteidiger weist Vorwürfe zurück",
       "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/gestohlene-generalschluessel-wieder-razzia-in-jva-euskirchen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/gestohlene-generalschluessel-wieder-razzia-in-jva-euskirchen",
-      "published": "Fri, 25 Sep 2026 08:54:46 -0000",
-      "published_display": "25.09.2026 · 08:54 Uhr"
+      "image": "https://img.zeit.de/news/2026-09/25/schliessfaecher-mit-insiderwissen-geknackt-wo-ist-die-beute-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/schliessfaecher-mit-insiderwissen-geknackt-wo-ist-die-beute",
+      "published": "Fri, 25 Sep 2026 09:00:30 -0000",
+      "published_display": "25.09.2026 · 09:00 Uhr"
     },
     {
-      "title": "Gesundheit: Schwesig kritisiert Pläne zu Kinderkrankengeld",
+      "title": "Laborstudie: Studie: Extreme Hitze kann Entwicklung von Hummeln schädigen",
       "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/schwesig-kritisiert-plaene-zu-kinderkrankengeld-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/schwesig-kritisiert-plaene-zu-kinderkrankengeld",
-      "published": "Fri, 25 Sep 2026 08:52:41 -0000",
-      "published_display": "25.09.2026 · 08:52 Uhr"
+      "image": "https://img.zeit.de/news/2026-09/25/studie-extreme-hitze-kann-entwicklung-von-hummeln-schaedigen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/studie-extreme-hitze-kann-entwicklung-von-hummeln-schaedigen",
+      "published": "Fri, 25 Sep 2026 09:00:08 -0000",
+      "published_display": "25.09.2026 · 09:00 Uhr"
     },
     {
-      "title": "Gedenken an CSD-Attentat: Regenbogenbank im Tiergarten erneut beschädigt",
+      "title": "Klimawandel: Weinlese so früh und so kurz wie noch nie",
       "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/regenbogenbank-im-tiergarten-erneut-beschaedigt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/regenbogenbank-im-tiergarten-erneut-beschaedigt",
-      "published": "Fri, 25 Sep 2026 08:47:25 -0000",
-      "published_display": "25.09.2026 · 08:47 Uhr"
-    },
-    {
-      "title": "Brände: Flammen zerstören Stall – Einsatzkräfte kämpfen stundenlang",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/flammen-zerstoeren-stall-einsatzkraefte-kaempfen-stundenlang-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/flammen-zerstoeren-stall-einsatzkraefte-kaempfen-stundenlang",
-      "published": "Fri, 25 Sep 2026 08:46:49 -0000",
-      "published_display": "25.09.2026 · 08:46 Uhr"
-    },
-    {
-      "title": "Sicherheitsbehörde: Neuer Chef des Verfassungsschutzes wechselt die Rheinseite",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/neuer-chef-des-verfassungsschutzes-wechselt-die-rheinseite-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/neuer-chef-des-verfassungsschutzes-wechselt-die-rheinseite",
-      "published": "Fri, 25 Sep 2026 08:43:25 -0000",
-      "published_display": "25.09.2026 · 08:43 Uhr"
-    },
-    {
-      "title": "Ukraine-Krieg: Junge bei Luftangriff auf Kiew getötet",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/junge-bei-luftangriff-auf-kiew-getoetet-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/junge-bei-luftangriff-auf-kiew-getoetet",
-      "published": "Fri, 25 Sep 2026 08:43:10 -0000",
-      "published_display": "25.09.2026 · 08:43 Uhr"
-    },
-    {
-      "title": "Agrarministerkonferenz: Wasserversorger wehren sich gegen regionale Dünger-Lösungen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/wasserversorger-wehren-sich-gegen-regionale-duenger-loesungen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/wasserversorger-wehren-sich-gegen-regionale-duenger-loesungen",
-      "published": "Fri, 25 Sep 2026 08:42:15 -0000",
-      "published_display": "25.09.2026 · 08:42 Uhr"
-    },
-    {
-      "title": "Automobilbranche: VW und Audi rufen knapp eine Million Fahrzeuge in Deutschland zurück",
-      "summary": "Ein Schraubenfehler bei manchen VW- und Audi-Modellen kann laut Kraftfahrtbundesamt zum Lenkungsausfall führen. Knapp eine Million Autos sind in Deutschland betroffen.",
-      "image": "https://img.zeit.de/wirtschaft/2026-09/vw-audi-rueckruf-lenkung-ausfall-schraubenabriss-foto-1/original__640x360",
-      "link": "https://www.zeit.de/wirtschaft/2026-09/vw-audi-rueckruf-lenkung-ausfall-schraubenabriss",
-      "published": "Fri, 25 Sep 2026 08:41:24 -0000",
-      "published_display": "25.09.2026 · 08:41 Uhr"
-    },
-    {
-      "title": "Spritpreise: Söder fordert grundlegende Reform der Energiesteuern",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/soeder-fordert-grundlegende-reform-der-energiesteuern-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/soeder-fordert-grundlegende-reform-der-energiesteuern",
-      "published": "Fri, 25 Sep 2026 08:39:56 -0000",
-      "published_display": "25.09.2026 · 08:39 Uhr"
-    },
-    {
-      "title": "Walpertskirchen: «Aus Überzeugung» - Rentner pflegt Bahnhof seit 30 Jahren",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/ehrenamtlicher-kuemmert-sich-seit-30-jahren-um-bahnhof-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/ehrenamtlicher-kuemmert-sich-seit-30-jahren-um-bahnhof",
-      "published": "Fri, 25 Sep 2026 08:39:23 -0000",
-      "published_display": "25.09.2026 · 08:39 Uhr"
-    },
-    {
-      "title": "Verkehr: Bahn-Strecke Stuttgart-Heilbronn für eine Woche gesperrt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/bahn-strecke-stuttgart-heilbronn-fuer-eine-woche-gesperrt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/bahn-strecke-stuttgart-heilbronn-fuer-eine-woche-gesperrt",
-      "published": "Fri, 25 Sep 2026 08:39:16 -0000",
-      "published_display": "25.09.2026 · 08:39 Uhr"
-    },
-    {
-      "title": "Fußball: Topligen attackieren FIFA-Boss Infantino: «Ausbeuterisch»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/topligen-attackieren-fifa-boss-infantino-ausbeuterisch-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/topligen-attackieren-fifa-boss-infantino-ausbeuterisch",
-      "published": "Fri, 25 Sep 2026 08:37:41 -0000",
-      "published_display": "25.09.2026 · 08:37 Uhr"
-    },
-    {
-      "title": "Kriminalität: 17-Jähriger in Berlin in den Oberkörper geschossen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/17-jaehriger-in-berlin-nach-schuessen-in-lebensgefahr-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/17-jaehriger-in-berlin-nach-schuessen-in-lebensgefahr",
-      "published": "Fri, 25 Sep 2026 08:31:52 -0000",
-      "published_display": "25.09.2026 · 08:31 Uhr"
-    },
-    {
-      "title": "Festgenommen: 24-Jähriger stiehlt 450 Blankorezepte aus Arztpraxis",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/24-jaehriger-stiehlt-450-blankorezepte-aus-arztpraxis-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/24-jaehriger-stiehlt-450-blankorezepte-aus-arztpraxis",
-      "published": "Fri, 25 Sep 2026 08:31:13 -0000",
-      "published_display": "25.09.2026 · 08:31 Uhr"
+      "image": "https://img.zeit.de/news/2026-09/25/weinlese-so-frueh-und-so-kurz-wie-noch-nie-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/weinlese-so-frueh-und-so-kurz-wie-noch-nie",
+      "published": "Fri, 25 Sep 2026 09:00:05 -0000",
+      "published_display": "25.09.2026 · 09:00 Uhr"
     }
   ]
 }
