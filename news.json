@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-25T18:34:31.454415+00:00",
+  "updated": "2026-09-25T18:47:13.330179+00:00",
   "items": [
+    {
+      "title": "Unfall bei Polizeieinsatz: Busfahrer bremst - Passagierin schwer verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/busfahrer-bremst-passagierin-schwer-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/busfahrer-bremst-passagierin-schwer-verletzt",
+      "published": "Fri, 25 Sep 2026 18:37:14 -0000",
+      "published_display": "25.09.2026 · 18:37 Uhr"
+    },
+    {
+      "title": "Firmenjubiläum: Merz arbeitete in jungen Jahren «einige Monate» bei Henkel",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/merz-arbeitete-in-jungen-jahren-einige-monate-bei-henkel-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/merz-arbeitete-in-jungen-jahren-einige-monate-bei-henkel",
+      "published": "Fri, 25 Sep 2026 18:36:48 -0000",
+      "published_display": "25.09.2026 · 18:36 Uhr"
+    },
+    {
+      "title": "Nach der Abgeordnetenhauswahl: Berliner Linke startet Projekt Regierungsbildung",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/stimmungsmache-berliner-linke-wehrt-sich-gegen-vorwuerfe-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/stimmungsmache-berliner-linke-wehrt-sich-gegen-vorwuerfe",
+      "published": "Fri, 25 Sep 2026 18:34:58 -0000",
+      "published_display": "25.09.2026 · 18:34 Uhr"
+    },
     {
       "title": "G20-Treffen in Miami: Außenminister Wadephul begrüßt Einladung an Putin zum G20-Gipfel",
       "summary": "US-Präsident Trump hat Kremlchef Putin zum G20-Treffen nach Miami eingeladen. Der deutsche Außenminister sieht es als möglichen Beginn von ernsthaften Verhandlungen.",
@@ -83,14 +107,6 @@
       "published_display": "25.09.2026 · 17:56 Uhr"
     },
     {
-      "title": "Nach der Abgeordnetenhauswahl: Berliner Linke will mit Grünen und SPD sondieren",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/stimmungsmache-berliner-linke-wehrt-sich-gegen-vorwuerfe-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/stimmungsmache-berliner-linke-wehrt-sich-gegen-vorwuerfe",
-      "published": "Fri, 25 Sep 2026 17:52:55 -0000",
-      "published_display": "25.09.2026 · 17:52 Uhr"
-    },
-    {
       "title": "Parteien: Berliner Linke will mit Grünen und SPD sondieren",
       "summary": "",
       "image": "https://img.zeit.de/administratives/sharing/fallback-image-die-zeit/wide__1300x731",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/25/xi-und-trump-wollen-sich-im-november-in-china-treffen",
       "published": "Fri, 25 Sep 2026 17:46:13 -0000",
       "published_display": "25.09.2026 · 17:46 Uhr"
-    },
-    {
-      "title": "Sachsen-Anhalt: Martin Sellner gründet »Institut für Remigration« in Magdeburg",
-      "summary": "Martin Sellner hat in Sachsen-Anhalt ein Unternehmen gegründet. Laut einem Strategiepapier ist das Ziel, Sachsen-Anhalt zu einem »Remigrationsmusterland« zu machen.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/martin-sellner-institut-remigration-sachsen-anhalt-philipp-huemer-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/martin-sellner-institut-remigration-sachsen-anhalt-philipp-huemer",
-      "published": "Fri, 25 Sep 2026 17:46:11 -0000",
-      "published_display": "25.09.2026 · 17:46 Uhr"
-    },
-    {
-      "title": "Fotografie: Bilder des Tages",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/bilder-des-tages-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/bilder-des-tages",
-      "published": "Fri, 25 Sep 2026 17:33:49 -0000",
-      "published_display": "25.09.2026 · 17:33 Uhr"
     }
   ]
 }
