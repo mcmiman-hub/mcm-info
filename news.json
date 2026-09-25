@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-25T22:54:50.330046+00:00",
+  "updated": "2026-09-25T23:15:49.424970+00:00",
   "items": [
+    {
+      "title": "Regierungsbildung in Berlin: Frei warnt Grüne und SPD vor Zusammenarbeit mit Linken",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/26/frei-warnt-gruene-und-spd-vor-zusammenarbeit-mit-linken-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/26/frei-warnt-gruene-und-spd-vor-zusammenarbeit-mit-linken",
+      "published": "Fri, 25 Sep 2026 23:00:04 -0000",
+      "published_display": "25.09.2026 · 23:00 Uhr"
+    },
     {
       "title": "Unfälle: Sechs Menschen teils schwer verletzt bei Unfall in Borken",
       "summary": "",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/25/papst-mahnt-in-frankreich-zu-neuer-bruederlichkeit",
       "published": "Fri, 25 Sep 2026 20:29:23 -0000",
       "published_display": "25.09.2026 · 20:29 Uhr"
-    },
-    {
-      "title": "Pflegereform: SPD-Generalsekretär stellt sich gegen Leistungskürzung in der Pflege",
-      "summary": "Die SPD will bei der geplanten Pflegereform keine Leistungskürzungen akzeptieren. Kommende Woche ist ein Kabinettsbeschluss für die Finanzierung der Pflege geplant.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/pflegeversicherung-spd-tim-kluessendorf-leistungskuerzung-bild-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/pflegeversicherung-spd-tim-kluessendorf-leistungskuerzung",
-      "published": "Fri, 25 Sep 2026 20:21:50 -0000",
-      "published_display": "25.09.2026 · 20:21 Uhr"
     }
   ]
 }
