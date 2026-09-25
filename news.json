@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-25T03:17:03.036167+00:00",
+  "updated": "2026-09-25T03:29:42.947857+00:00",
   "items": [
+    {
+      "title": "BDI-Grundsatzpapier: Deutsche Industrie will unabhängiger von China und USA werden",
+      "summary": "Der Bundesverband der Deutschen Industrie fordert eine Neuausrichtung der deutschen Wirtschaftspolitik. Wachstum und Wettbewerbsfähigkeit seien oberste Priorität.",
+      "image": "https://img.zeit.de/wirtschaft/2026-09/bdi-abhaengigkeit-china-lieferketten-usa-eu-foto-1/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/2026-09/bdi-abhaengigkeit-china-lieferketten-usa-eu",
+      "published": "Fri, 25 Sep 2026 03:24:25 -0000",
+      "published_display": "25.09.2026 · 03:24 Uhr"
+    },
+    {
+      "title": "Staatsbesuch: Trump empfängt Xi: Viel Pomp und demonstrative Harmonie",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/trump-empfaengt-xi-viel-pomp-und-demonstrative-harmonie-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/trump-empfaengt-xi-viel-pomp-und-demonstrative-harmonie",
+      "published": "Fri, 25 Sep 2026 03:22:40 -0000",
+      "published_display": "25.09.2026 · 03:22 Uhr"
+    },
     {
       "title": "Fotografie: Bilder des Tages",
       "summary": "",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/25/wann-sich-sport-staatsminister-rauhe-olympia-wuenscht",
       "published": "Fri, 25 Sep 2026 02:25:04 -0000",
       "published_display": "25.09.2026 · 02:25 Uhr"
-    },
-    {
-      "title": "Unglück im Freefall-Tower: Tödlicher Unfall auf der Wiesn - Ermittler werten Videos aus",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/toedlicher-unfall-auf-der-wiesn-ermittler-werten-videos-aus-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/toedlicher-unfall-auf-der-wiesn-ermittler-werten-videos-aus",
-      "published": "Fri, 25 Sep 2026 02:15:04 -0000",
-      "published_display": "25.09.2026 · 02:15 Uhr"
-    },
-    {
-      "title": "Wetter in Bayern: Wochenende lockt mit bis zu 27 Grad nach draußen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/wochenende-lockt-mit-bis-zu-27-grad-nach-draussen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/wochenende-lockt-mit-bis-zu-27-grad-nach-draussen",
-      "published": "Fri, 25 Sep 2026 02:05:04 -0000",
-      "published_display": "25.09.2026 · 02:05 Uhr"
     }
   ]
 }
