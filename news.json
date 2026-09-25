@@ -1,7 +1,95 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-25T10:31:36.583330+00:00",
+  "updated": "2026-09-25T10:44:50.733517+00:00",
   "items": [
+    {
+      "title": "Obstbau: Warum sich Verbraucher auf kleinere Äpfel einstellen müssen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/warum-sich-verbraucher-auf-kleinere-aepfel-einstellen-muessen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/warum-sich-verbraucher-auf-kleinere-aepfel-einstellen-muessen",
+      "published": "Fri, 25 Sep 2026 10:42:13 -0000",
+      "published_display": "25.09.2026 · 10:42 Uhr"
+    },
+    {
+      "title": "Alkohol während der Schwangerschaft: Sie ist Ärztin, sie ist schwanger, sie ist alkoholsüchtig",
+      "summary": "Anna wusste, dass sie schwanger ist, und trank trotzdem weiter. Ihre Geschichte zeigt, wie eine Frau mit ihrer Sucht kämpft, die stärker sein will als die Liebe zum Kind.",
+      "image": "https://img.zeit.de/familie/2026-09/alkohol-schwangerschaft-sucht-klinik/original__640x360",
+      "link": "https://www.zeit.de/familie/2026-09/alkohol-schwangerschaft-sucht-klinik-drogen",
+      "published": "Fri, 25 Sep 2026 10:40:24 -0000",
+      "published_display": "25.09.2026 · 10:40 Uhr"
+    },
+    {
+      "title": "Gedenken: Diskussion um Stolpersteinverbot in Heidenau",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/diskussion-um-stolpersteinverbot-in-heidenau-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/diskussion-um-stolpersteinverbot-in-heidenau",
+      "published": "Fri, 25 Sep 2026 10:40:02 -0000",
+      "published_display": "25.09.2026 · 10:40 Uhr"
+    },
+    {
+      "title": "Automobilbranche: VW und Audi rufen knapp eine Million Fahrzeuge in Deutschland zurück",
+      "summary": "Ein Schraubenfehler bei einigen VW- und Audi-Modellen kann laut Kraftfahrt-Bundesamt zum Ausfall der Lenkung führen. Rund 960.000 Autos sind in Deutschland betroffen.",
+      "image": "https://img.zeit.de/wirtschaft/2026-09/vw-audi-rueckruf-lenkung-ausfall-schraubenabriss-foto-1/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/2026-09/vw-audi-rueckruf-lenkung-ausfall-schraubenabriss-gxe",
+      "published": "Fri, 25 Sep 2026 10:38:10 -0000",
+      "published_display": "25.09.2026 · 10:38 Uhr"
+    },
+    {
+      "title": "Deutsche Bahn teilt mit: Rheintalbahn-Sperrung Anfang Oktober",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/rheintalbahn-sperrung-anfang-oktober-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/rheintalbahn-sperrung-anfang-oktober",
+      "published": "Fri, 25 Sep 2026 10:37:08 -0000",
+      "published_display": "25.09.2026 · 10:37 Uhr"
+    },
+    {
+      "title": "Bundesrat: Opfer von E-Scooter-Unfällen sollen leichter an Geld kommen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/opfer-von-e-scooter-unfaellen-sollen-leichter-an-geld-kommen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/opfer-von-e-scooter-unfaellen-sollen-leichter-an-geld-kommen",
+      "published": "Fri, 25 Sep 2026 10:34:52 -0000",
+      "published_display": "25.09.2026 · 10:34 Uhr"
+    },
+    {
+      "title": "Kriminalität: Nach Schüssen auf Barbershop ermittelt jetzt eine Soko",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/nach-schuessen-auf-barbershop-ermittelt-jetzt-eine-soko-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/nach-schuessen-auf-barbershop-ermittelt-jetzt-eine-soko",
+      "published": "Fri, 25 Sep 2026 10:34:01 -0000",
+      "published_display": "25.09.2026 · 10:34 Uhr"
+    },
+    {
+      "title": "Polizei: Linken-Wahlsieg: Südwesten lädt Berliner Polizisten ein",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/linken-wahlsieg-suedwesten-laedt-berliner-polizisten-ein-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/linken-wahlsieg-suedwesten-laedt-berliner-polizisten-ein",
+      "published": "Fri, 25 Sep 2026 10:33:52 -0000",
+      "published_display": "25.09.2026 · 10:33 Uhr"
+    },
+    {
+      "title": "Die besten Politikerbiografien: Sieben politische Biografien, die Sie garantiert schlauer machen",
+      "summary": "Populisten, Revolutionärinnen, außergewöhnliche Menschen der Macht: Wir empfehlen Ihnen sieben herausragende politische Biografien, die unseren Blick verändert haben.",
+      "image": "https://img.zeit.de/feuilleton/literatur/2026-08/politiker-biografien-leseempfehlung-persoenlichkeiten-leben-schaeuble/original__640x360",
+      "link": "https://www.zeit.de/feuilleton/literatur/2026-08/politiker-biografien-leseempfehlung-persoenlichkeiten-leben",
+      "published": "Fri, 25 Sep 2026 10:32:59 -0000",
+      "published_display": "25.09.2026 · 10:32 Uhr"
+    },
+    {
+      "title": "Wildtiere: Elch Bert ist tot: Bleibt er als Präparat erhalten?",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/elch-bert-ist-tot-bleibt-er-als-praeparat-erhalten-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/elch-bert-ist-tot-bleibt-er-als-praeparat-erhalten",
+      "published": "Fri, 25 Sep 2026 10:32:43 -0000",
+      "published_display": "25.09.2026 · 10:32 Uhr"
+    },
+    {
+      "title": "Fußball: Klopp adelt U21-Kapitän Bischof: «Tom hat ganz viele Dinge»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/klopp-adelt-u21-kapitaen-bischof-tom-hat-ganz-viele-dinge-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/klopp-adelt-u21-kapitaen-bischof-tom-hat-ganz-viele-dinge",
+      "published": "Fri, 25 Sep 2026 10:32:02 -0000",
+      "published_display": "25.09.2026 · 10:32 Uhr"
+    },
     {
       "title": "Niderigwasser: Pegelstand im Rhein auf neuen Tiefstand gefallen",
       "summary": "Der Rhein erreicht an der Engstelle Kaub bei Koblenz einen Pegeltiefstand von zwei Zentimetern. Das könnte einen neuen historischen Wert darstellen.",
@@ -33,94 +121,6 @@
       "link": "https://www.zeit.de/politik/ausland/2026-09/iran-strasse-von-hormus-reise-persischer-golf",
       "published": "Fri, 25 Sep 2026 10:27:50 -0000",
       "published_display": "25.09.2026 · 10:27 Uhr"
-    },
-    {
-      "title": "Kanuslalom-EM: Bronze für Emily Apel bei Kanuslalom-EM",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/bronze-fuer-emily-apel-bei-kanuslalom-em-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/bronze-fuer-emily-apel-bei-kanuslalom-em",
-      "published": "Fri, 25 Sep 2026 10:27:49 -0000",
-      "published_display": "25.09.2026 · 10:27 Uhr"
-    },
-    {
-      "title": "Oktoberfest: Drohne am Festgelände - Polizei greift ein",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/drohne-am-festgelaende-polizei-greift-ein-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/drohne-am-festgelaende-polizei-greift-ein",
-      "published": "Fri, 25 Sep 2026 10:27:44 -0000",
-      "published_display": "25.09.2026 · 10:27 Uhr"
-    },
-    {
-      "title": "Musik: Reinhard Mey kehrt in neuem Album zu seinen Wurzeln zurück",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/reinhard-mey-kehrt-in-neuem-album-zu-seinen-wurzeln-zurueck-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/reinhard-mey-kehrt-in-neuem-album-zu-seinen-wurzeln-zurueck",
-      "published": "Fri, 25 Sep 2026 10:27:20 -0000",
-      "published_display": "25.09.2026 · 10:27 Uhr"
-    },
-    {
-      "title": "Backstreet Boys: Wir waren Teenies, und die Welt war unsere Chance",
-      "summary": "Zehn Shows in Düsseldorf, 400.000 verkaufte Tickets: Die einst belächelten Backstreet Boys sind heute groß wie nie. Dahinter steckt mehr als schnöde Nostalgie.",
-      "image": "https://img.zeit.de/zeit-magazin/2026-09/60th-academy-of-country-music-awards-sponsors-bild/original__640x360",
-      "link": "https://www.zeit.de/feuilleton/musik/2026-09/backstreet-boys-konzerte-duesseldorf-popmusik",
-      "published": "Fri, 25 Sep 2026 10:24:41 -0000",
-      "published_display": "25.09.2026 · 10:24 Uhr"
-    },
-    {
-      "title": "Unfälle: Dachdecker stürzt bei Arbeiten an Reetdach und verletzt sich",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/dachdecker-stuerzt-bei-arbeiten-an-reetdach-und-verletzt-sich-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/dachdecker-stuerzt-bei-arbeiten-an-reetdach-und-verletzt-sich",
-      "published": "Fri, 25 Sep 2026 10:24:16 -0000",
-      "published_display": "25.09.2026 · 10:24 Uhr"
-    },
-    {
-      "title": "Regenbogen-Bank in Berlin: Gedenkbank am Ort des CSD-Anschlags erneut beschädigt",
-      "summary": "Zum zweiten Mal ist eine in Gedenken an die Opfer des CSD-Anschlags aufgestellte Bank beschädigt worden. Der Staatsschutz hat die Ermittlungen übernommen.",
-      "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-09/regenbogen-bank-berlin-csd-anschlag-tiergarten-foto-1/original__640x360",
-      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-09/regenbogen-bank-berlin-csd-anschlag-tiergarten",
-      "published": "Fri, 25 Sep 2026 10:23:10 -0000",
-      "published_display": "25.09.2026 · 10:23 Uhr"
-    },
-    {
-      "title": "Ukraine-Krieg: Junge bei Luftangriff auf Kiew getötet",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/junge-bei-luftangriff-auf-kiew-getoetet-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/junge-bei-luftangriff-auf-kiew-getoetet",
-      "published": "Fri, 25 Sep 2026 10:22:36 -0000",
-      "published_display": "25.09.2026 · 10:22 Uhr"
-    },
-    {
-      "title": "Fußball-Nationalmannschaft: Klopps Offensivtausch nach Pluspunkten im «Boxkampf»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/wie-beim-vokabel-test-so-lief-das-wilde-klopp-debuet-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/wie-beim-vokabel-test-so-lief-das-wilde-klopp-debuet",
-      "published": "Fri, 25 Sep 2026 10:22:35 -0000",
-      "published_display": "25.09.2026 · 10:22 Uhr"
-    },
-    {
-      "title": "Anna Mayr: »Aus Höflichkeit kann keine Freundschaft werden«",
-      "summary": "Unsere Kolumnistin entdeckt den Wert der Grenzüberschreitung – anhand eines Trauerfalls.",
-      "image": "https://img.zeit.de/2026/41/anna-mayr-fuersorge-trauer-integration-hoeflichkeit-bild/original__640x360",
-      "link": "https://www.zeit.de/2026/41/anna-mayr-fuersorge-trauer-integration-hoeflichkeit",
-      "published": "Fri, 25 Sep 2026 10:22:15 -0000",
-      "published_display": "25.09.2026 · 10:22 Uhr"
-    },
-    {
-      "title": "Spritpreise: Schwesig: Tankrabatt hätte früher kommen müssen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/schwesig-tankrabatt-haette-frueher-kommen-muessen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/schwesig-tankrabatt-haette-frueher-kommen-muessen",
-      "published": "Fri, 25 Sep 2026 10:22:10 -0000",
-      "published_display": "25.09.2026 · 10:22 Uhr"
-    },
-    {
-      "title": "Fördermittel: 33 Gemeinden im Norden erhalten Städtebauförderung",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/33-gemeinden-im-norden-erhalten-staedtebaufoerderung-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/33-gemeinden-im-norden-erhalten-staedtebaufoerderung",
-      "published": "Fri, 25 Sep 2026 10:19:46 -0000",
-      "published_display": "25.09.2026 · 10:19 Uhr"
     }
   ]
 }
