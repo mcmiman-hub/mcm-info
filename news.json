@@ -1,7 +1,95 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-25T05:55:48.933191+00:00",
+  "updated": "2026-09-25T06:23:13.680690+00:00",
   "items": [
+    {
+      "title": "Konsumklima in Deutschland: Sparneigung der Verbraucher steigt auf Höchststand seit Finanzkrise",
+      "summary": "Marktforscher sehen ein abgeflautes Konsumklima in Deutschland. Die durchschnittliche Sparneigung sei gestiegen, die Einkommenserwartung gesunken.",
+      "image": "https://img.zeit.de/administratives/sharing/fallback-image-die-zeit/wide__1300x731",
+      "link": "https://www.zeit.de/wirtschaft/2026-09/konsumklima-deutschland-nim-gfk-energiepreise",
+      "published": "Fri, 25 Sep 2026 06:22:40 -0000",
+      "published_display": "25.09.2026 · 06:22 Uhr"
+    },
+    {
+      "title": "Staatsbesuch: Trump empfängt Xi: Viel Pomp und demonstrative Harmonie",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/trump-empfaengt-xi-viel-pomp-und-demonstrative-harmonie-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/trump-empfaengt-xi-viel-pomp-und-demonstrative-harmonie",
+      "published": "Fri, 25 Sep 2026 06:21:19 -0000",
+      "published_display": "25.09.2026 · 06:21 Uhr"
+    },
+    {
+      "title": "Unfälle: Windradflügel im Graben – Bergung dauert bis in den Morgen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/windradfluegel-im-graben-bergung-dauert-bis-in-den-morgen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/windradfluegel-im-graben-bergung-dauert-bis-in-den-morgen",
+      "published": "Fri, 25 Sep 2026 06:15:00 -0000",
+      "published_display": "25.09.2026 · 06:15 Uhr"
+    },
+    {
+      "title": "Kriminalität: Mann bedroht Sicherheitsmitarbeiter mit Glasflasche",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/mann-bedroht-sicherheitsmitarbeiter-mit-glasflasche-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/mann-bedroht-sicherheitsmitarbeiter-mit-glasflasche",
+      "published": "Fri, 25 Sep 2026 06:10:30 -0000",
+      "published_display": "25.09.2026 · 06:10 Uhr"
+    },
+    {
+      "title": "Neue Musik von Taylor Swift: «Trage jetzt weiß»: Swift singt erstmals über ihre Hochzeit",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/trage-jetzt-weiss-swift-singt-erstmals-ueber-ihre-hochzeit-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/trage-jetzt-weiss-swift-singt-erstmals-ueber-ihre-hochzeit",
+      "published": "Fri, 25 Sep 2026 06:08:25 -0000",
+      "published_display": "25.09.2026 · 06:08 Uhr"
+    },
+    {
+      "title": "Satire «ZDF Magazin vor Ort»: ZDF-Abgesang auf alte Samstagabendshows",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/zdf-abgesang-auf-alte-samstagabendshows-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/zdf-abgesang-auf-alte-samstagabendshows",
+      "published": "Fri, 25 Sep 2026 06:08:04 -0000",
+      "published_display": "25.09.2026 · 06:08 Uhr"
+    },
+    {
+      "title": "Beschluss erwartet: Nochmal Tankrabatt - Wann wird es billiger und wie viel?",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/nochmal-tankrabatt-wann-wird-es-billiger-und-wie-viel-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/nochmal-tankrabatt-wann-wird-es-billiger-und-wie-viel",
+      "published": "Fri, 25 Sep 2026 06:07:31 -0000",
+      "published_display": "25.09.2026 · 06:07 Uhr"
+    },
+    {
+      "title": "Neues Kunstwerk enthüllt: Ai Weiweis «Mushrooms» in Sydney: Stahlhelme gegen den Krieg",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/ai-weiweis-mushrooms-in-sydney-stahlhelme-gegen-den-krieg-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/ai-weiweis-mushrooms-in-sydney-stahlhelme-gegen-den-krieg",
+      "published": "Fri, 25 Sep 2026 06:04:11 -0000",
+      "published_display": "25.09.2026 · 06:04 Uhr"
+    },
+    {
+      "title": "Kritikerumfrage: Fachmagazin: Opern-Uraufführung des Jahres aus Bayern",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/fachmagazin-opern-urauffuehrung-des-jahres-aus-bayern-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/fachmagazin-opern-urauffuehrung-des-jahres-aus-bayern",
+      "published": "Fri, 25 Sep 2026 06:01:05 -0000",
+      "published_display": "25.09.2026 · 06:01 Uhr"
+    },
+    {
+      "title": "Kritikerumfrage: Fachmagazin: Staatstheater Mainz ist Opernhaus des Jahres",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/fachmagazin-staatstheater-mainz-ist-opernhaus-des-jahres-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/fachmagazin-staatstheater-mainz-ist-opernhaus-des-jahres",
+      "published": "Fri, 25 Sep 2026 06:01:04 -0000",
+      "published_display": "25.09.2026 · 06:01 Uhr"
+    },
+    {
+      "title": "Konsumklima: Sparen statt Shoppen: Verbraucher halten ihr Geld zusammen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/sparen-statt-shoppen-verbraucher-halten-ihr-geld-zusammen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/sparen-statt-shoppen-verbraucher-halten-ihr-geld-zusammen",
+      "published": "Fri, 25 Sep 2026 06:00:06 -0000",
+      "published_display": "25.09.2026 · 06:00 Uhr"
+    },
     {
       "title": "Gefährliche Aktion: Mädchen klettern für Social-Media-Videos auf Autobahnbrücke",
       "summary": "",
@@ -13,8 +101,8 @@
     {
       "title": "Irankrieg: Iranische Regierung soll den USA Plan für Kriegsende vorgelegt haben",
       "summary": "Der Iran hat den USA US-Medienberichten zufolge einen Plan zur Öffnung der Straße von Hormus unterbreitet. Zu welchen Bedingungen ist noch nicht bekannt.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/iran-usa-verhandlungen-krieg-strasse-von-hormus-abbas-araghtschi-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/iran-usa-verhandlungen-krieg-strasse-von-hormus-abbas-araghtschi",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/iran-usa-verhandlungen-krieg-strasse-von-hormus-abbas-araghtschi-bild-2/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/iran-usa-verhandlungen-krieg-strasse-von-hormus-abbas-araghtschi-gxe",
       "published": "Fri, 25 Sep 2026 05:40:41 -0000",
       "published_display": "25.09.2026 · 05:40 Uhr"
     },
@@ -30,97 +118,9 @@
       "title": "Regierungsbildung in Berlin: Berliner SPD-Vize ist offen für Gespräche über rot-grün-rote Koalition",
       "summary": "Cansel Kiziltepe plädiert als erste führende SPD-Politikerin für Koalitionsgespräche mit Linken und Grünen. Die Berliner hätten sich für eine linke Politik entschieden.",
       "image": "https://img.zeit.de/politik/deutschland/2026-09/cansel-kiziltepe-spd-berlin-koalition-linke-gruene-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/cansel-kiziltepe-spd-berlin-koalition-linke-gruene",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/cansel-kiziltepe-spd-berlin-koalition-linke-gruene-gxe",
       "published": "Fri, 25 Sep 2026 05:38:30 -0000",
       "published_display": "25.09.2026 · 05:38 Uhr"
-    },
-    {
-      "title": "Sachsen-Anhalt: Riedel will weiter in der Landesverwaltung arbeiten",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/riedel-will-weiter-in-der-landesverwaltung-arbeiten-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/riedel-will-weiter-in-der-landesverwaltung-arbeiten",
-      "published": "Fri, 25 Sep 2026 05:30:42 -0000",
-      "published_display": "25.09.2026 · 05:30 Uhr"
-    },
-    {
-      "title": "Kriminalität: Mann an S-Bahnstation mit Fahrradschloss am Kopf verletzt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/mann-an-s-bahnstation-mit-fahrradschloss-am-kopf-verletzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/mann-an-s-bahnstation-mit-fahrradschloss-am-kopf-verletzt",
-      "published": "Fri, 25 Sep 2026 05:29:33 -0000",
-      "published_display": "25.09.2026 · 05:29 Uhr"
-    },
-    {
-      "title": "Kriminalität: Exponat aus Lern- und Gedenkort in Chemnitz gestohlen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/exponat-aus-lern-und-gedenkort-in-chemnitz-gestohlen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/exponat-aus-lern-und-gedenkort-in-chemnitz-gestohlen",
-      "published": "Fri, 25 Sep 2026 05:25:36 -0000",
-      "published_display": "25.09.2026 · 05:25 Uhr"
-    },
-    {
-      "title": "Kriminalität: Angriff mit Pfefferpistolen: 64-Jähriger in Rodgau verletzt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/angriff-mit-pfefferpistolen-64-jaehriger-in-rodgau-verletzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/angriff-mit-pfefferpistolen-64-jaehriger-in-rodgau-verletzt",
-      "published": "Fri, 25 Sep 2026 05:23:00 -0000",
-      "published_display": "25.09.2026 · 05:23 Uhr"
-    },
-    {
-      "title": "Handbremse vergessen: Geparktes Auto stürzt in Stuttgarter Baugrube",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/geparktes-auto-stuerzt-in-stuttgarter-baugrube-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/geparktes-auto-stuerzt-in-stuttgarter-baugrube",
-      "published": "Fri, 25 Sep 2026 05:21:15 -0000",
-      "published_display": "25.09.2026 · 05:21 Uhr"
-    },
-    {
-      "title": "Polen: Früher arm und grau, heute Musterschüler",
-      "summary": "Die Eltern unserer Autorin zogen einst für ein besseres Leben aus Polen nach Berlin. Heute fragt sie sich, ob Polen Deutschland nicht in vieler Hinsicht überholt hat.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/polen-deutschland-digitalisierung-wirtschaftswachstum-5vor8-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/polen-deutschland-digitalisierung-wirtschaftswachstum-5vor8",
-      "published": "Fri, 25 Sep 2026 05:17:35 -0000",
-      "published_display": "25.09.2026 · 05:17 Uhr"
-    },
-    {
-      "title": "Wetter: Wolken am Freitag, Sonne und bis zu 22 Grad am Sonntag",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/wolken-am-freitag-sonne-und-bis-zu-22-grad-am-sonntag-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/wolken-am-freitag-sonne-und-bis-zu-22-grad-am-sonntag",
-      "published": "Fri, 25 Sep 2026 05:16:59 -0000",
-      "published_display": "25.09.2026 · 05:16 Uhr"
-    },
-    {
-      "title": "Debüt als Bundestrainer: Es ist noch viel zu tun für Jürgen Klopp",
-      "summary": "Dass alle rennen, ist neu. Eine Mannschaft aber zeichnet sich noch nicht ab. Und beim 1:1 war viel Glück im Spiel. Über Jürgen Klopps Einstand als Bundestrainer",
-      "image": "https://img.zeit.de/sport/2026-09/fussball-juergen-klopp-bundestrainer-debuet-amsterdam-bild/original__640x360",
-      "link": "https://www.zeit.de/sport/2026-09/fussball-juergen-klopp-bundestrainer-debuet-amsterdam",
-      "published": "Fri, 25 Sep 2026 05:15:33 -0000",
-      "published_display": "25.09.2026 · 05:15 Uhr"
-    },
-    {
-      "title": "Unfälle: Windradflügel im Graben – Bergung dauert bis in den Morgen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/windradfluegel-im-graben-bergung-dauert-bis-in-den-morgen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/windradfluegel-im-graben-bergung-dauert-bis-in-den-morgen",
-      "published": "Fri, 25 Sep 2026 05:14:15 -0000",
-      "published_display": "25.09.2026 · 05:14 Uhr"
-    },
-    {
-      "title": "Donald Trump und Xi Jinping: Einer der seltsamsten Staatsbesuche der jüngeren US-Geschichte",
-      "summary": "Xi Jinping besucht Donald Trump: Vordergründig tauschen die beiden Präsidenten nur warme Worte aus. Und doch zeichnet sich eine historische Verschiebung ab.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/donald-trump-xi-jinping-usa-china-treffen-midterms-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/donald-trump-xi-jinping-usa-china-treffen-midterms",
-      "published": "Fri, 25 Sep 2026 05:07:11 -0000",
-      "published_display": "25.09.2026 · 05:07 Uhr"
-    },
-    {
-      "title": "Wetter: Bis zu 22 Grad in Hamburg – Sonne und nur vereinzelt Regen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/bis-zu-22-grad-in-hamburg-sonne-und-nur-vereinzelt-regen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/bis-zu-22-grad-in-hamburg-sonne-und-nur-vereinzelt-regen",
-      "published": "Fri, 25 Sep 2026 05:02:18 -0000",
-      "published_display": "25.09.2026 · 05:02 Uhr"
     }
   ]
 }
