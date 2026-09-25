@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-25T16:18:59.042224+00:00",
+  "updated": "2026-09-25T16:33:45.425704+00:00",
   "items": [
+    {
+      "title": "Volker Türk: Das oberste schlechte Gewissen",
+      "summary": "Volker Türk hat als UN-Menschenrechtskommissar einen undankbaren Job. Mehr als 60 Kriege weltweit, mächtige Feinde, aber er lässt sich nicht beirren. Wie macht er das?",
+      "image": "https://img.zeit.de/2026/41/das-oberste-schlechte-gewissen-bild-1/original__640x360",
+      "link": "https://www.zeit.de/2026/41/volker-tuerk-un-hochkommissar-menschenrechte",
+      "published": "Fri, 25 Sep 2026 16:28:45 -0000",
+      "published_display": "25.09.2026 · 16:28 Uhr"
+    },
+    {
+      "title": "Fußball: VfB Stuttgart gewinnt Test gegen Heidenheim",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/vfb-stuttgart-gewinnt-test-gegen-heidenheim-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/vfb-stuttgart-gewinnt-test-gegen-heidenheim",
+      "published": "Fri, 25 Sep 2026 16:27:53 -0000",
+      "published_display": "25.09.2026 · 16:27 Uhr"
+    },
+    {
+      "title": "Westjordanland: UN wirft 214 Firmen Beteiligung an israelischem Siedlungsbau vor",
+      "summary": "Israelischer Siedlungsbau im besetzten Westjordanland gilt als illegal. Die Vereinten Nationen listen 214 Baunternehmen, darunter auch einen deutschen Zement-Hersteller.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/un-datenbank-siedlungen-israel-unternehmen-heidelberg-materials-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/un-datenbank-siedlungen-israel-unternehmen-heidelberg-materials",
+      "published": "Fri, 25 Sep 2026 16:25:45 -0000",
+      "published_display": "25.09.2026 · 16:25 Uhr"
+    },
     {
       "title": "Armin Schuster: Sachsens Innenminister steht nach Aussagen zum Asylrecht in der Kritik",
       "summary": "Armin Schuster hat sich dafür ausgesprochen, die Zahl der Asylsuchenden klar zu begrenzen. Die Oppositionsparteien werfen ihm vor, das Grundrecht auf Asyl abzulehnen.",
@@ -67,14 +91,6 @@
       "published_display": "25.09.2026 · 16:05 Uhr"
     },
     {
-      "title": "Westjordanland: UN wirft 214 Firmen Beteiligung an israelischem Siedlungsbau vor",
-      "summary": "Israelischer Siedlungsbau im besetzten Westjordanland gilt als illegal. Die Vereinten Nationen listen 214 Baunternehmen, darunter auch einen deutschen Zement-Hersteller.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/un-datenbank-siedlungen-israel-unternehmen-heidelberg-materials-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/un-datenbank-siedlungen-israel-unternehmen-heidelberg-materials",
-      "published": "Fri, 25 Sep 2026 16:03:40 -0000",
-      "published_display": "25.09.2026 · 16:03 Uhr"
-    },
-    {
       "title": "Negativpreis: «BigBrotherAwards» an Großnutzer von US-Technik vergeben",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-09/25/bigbrotherawards-an-grossnutzer-von-us-technik-vergeben-image-group/original__640x360",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/25/zwischenfaelle-in-berlin-behoerde-warnt-vor-thc-gummibaerchen",
       "published": "Fri, 25 Sep 2026 15:47:02 -0000",
       "published_display": "25.09.2026 · 15:47 Uhr"
-    },
-    {
-      "title": "Vor der NBA-Saison: Dennis Schröder vor dem NBA-Start: Es bleibt ein Privileg",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/dennis-schroeder-vor-dem-nba-start-es-bleibt-ein-privileg-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/dennis-schroeder-vor-dem-nba-start-es-bleibt-ein-privileg",
-      "published": "Fri, 25 Sep 2026 15:46:27 -0000",
-      "published_display": "25.09.2026 · 15:46 Uhr"
-    },
-    {
-      "title": "Chemiebranche in der Krise: BASF streckt bei Evonik die Fühler aus",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/basf-streckt-bei-evonik-die-fuehler-aus-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/basf-streckt-bei-evonik-die-fuehler-aus",
-      "published": "Fri, 25 Sep 2026 15:42:27 -0000",
-      "published_display": "25.09.2026 · 15:42 Uhr"
     }
   ]
 }
