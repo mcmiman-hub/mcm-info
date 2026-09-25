@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-25T22:29:01.303065+00:00",
+  "updated": "2026-09-25T22:43:44.080254+00:00",
   "items": [
+    {
+      "title": "Unfälle: Sechs Menschen teils schwer verletzt bei Unfall in Borken",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/26/sechs-menschen-teils-schwer-verletzt-bei-unfall-in-borken-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/26/sechs-menschen-teils-schwer-verletzt-bei-unfall-in-borken",
+      "published": "Fri, 25 Sep 2026 22:36:56 -0000",
+      "published_display": "25.09.2026 · 22:36 Uhr"
+    },
+    {
+      "title": "Zehn Konzerte: Auf Hoverboards in die 90er - Backstreet Boys in Düsseldorf",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/26/auf-hoverboards-in-die-90er-backstreet-boys-in-duesseldorf-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/26/auf-hoverboards-in-die-90er-backstreet-boys-in-duesseldorf",
+      "published": "Fri, 25 Sep 2026 22:31:04 -0000",
+      "published_display": "25.09.2026 · 22:31 Uhr"
+    },
     {
       "title": "Russland: Unabhängiger Politikwissenschaftler Kynew in Russland festgenommen",
       "summary": "Wegen Vorwürfen des Drogenhandels ist ein russischer Politologe verhaftet worden. In den letzten Tagen äußerte er sich mehrfach zur Parlamentswahl in Russland.",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/politik/deutschland/2026-09/pflegeversicherung-spd-tim-kluessendorf-leistungskuerzung",
       "published": "Fri, 25 Sep 2026 20:21:50 -0000",
       "published_display": "25.09.2026 · 20:21 Uhr"
-    },
-    {
-      "title": "Basketball: MBC gewinnt Bundesliga-Derby gegen Jena",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/mbc-gewinnt-bundesliga-derby-gegen-jena-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/mbc-gewinnt-bundesliga-derby-gegen-jena",
-      "published": "Fri, 25 Sep 2026 20:06:56 -0000",
-      "published_display": "25.09.2026 · 20:06 Uhr"
-    },
-    {
-      "title": "Wiesbaden: Raubvogel-Brutkästen an Strommasten lösen Polizeieinsatz aus",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/raubvogel-brutkaesten-an-strommasten-loesen-polizeieinsatz-aus-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/raubvogel-brutkaesten-an-strommasten-loesen-polizeieinsatz-aus",
-      "published": "Fri, 25 Sep 2026 19:51:50 -0000",
-      "published_display": "25.09.2026 · 19:51 Uhr"
     }
   ]
 }
