@@ -1,7 +1,63 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-25T07:32:39.261670+00:00",
+  "updated": "2026-09-25T07:45:20.586846+00:00",
   "items": [
+    {
+      "title": "Wohnen: Zahl der Empfänger von Wohngeld steigt auf Höchststand",
+      "summary": "Gut 1,3 Millionen Haushalte bekommen staatliche Zuschüsse, um ihr Zuhause bezahlen zu können. Das sind 7,2 Prozent mehr als 2025 – und so viele wie noch nie zuvor.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/wohngeld-deutschland-haushalte-rekord-ausgaben-rentner-mecklenburg-vorpommern-bayern-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/wohngeld-deutschland-haushalte-rekord-ausgaben-rentner-mecklenburg-vorpommern-bayern",
+      "published": "Fri, 25 Sep 2026 07:40:45 -0000",
+      "published_display": "25.09.2026 · 07:40 Uhr"
+    },
+    {
+      "title": "Abwärtstrend beschleunigt: Hellofresh kappt Gewinnziel - Aktie sackt ab",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/hellofresh-kappt-gewinnziel-aktie-sackt-ab-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/hellofresh-kappt-gewinnziel-aktie-sackt-ab",
+      "published": "Fri, 25 Sep 2026 07:40:29 -0000",
+      "published_display": "25.09.2026 · 07:40 Uhr"
+    },
+    {
+      "title": "Justiz: Sachsen und Thüringen für Verschärfung des Jugendstrafrechts",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/sachsen-und-thueringen-fuer-verschaerfung-des-jugendstrafrechts-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/sachsen-und-thueringen-fuer-verschaerfung-des-jugendstrafrechts",
+      "published": "Fri, 25 Sep 2026 07:36:56 -0000",
+      "published_display": "25.09.2026 · 07:36 Uhr"
+    },
+    {
+      "title": "Baukonjunktur: Aufträge für Baubranche sinken im Juli - Wohnungsbau stockt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/auftraege-fuer-baubranche-sinken-im-juli-wohnungsbau-stockt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/auftraege-fuer-baubranche-sinken-im-juli-wohnungsbau-stockt",
+      "published": "Fri, 25 Sep 2026 07:36:17 -0000",
+      "published_display": "25.09.2026 · 07:36 Uhr"
+    },
+    {
+      "title": "Landesvorsitz: Brandenburgs Grüne suchen Landeschefin - Debatte zu Hauptamt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/brandenburgs-gruene-suchen-landeschefin-debatte-zu-hauptamt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/brandenburgs-gruene-suchen-landeschefin-debatte-zu-hauptamt",
+      "published": "Fri, 25 Sep 2026 07:36:09 -0000",
+      "published_display": "25.09.2026 · 07:36 Uhr"
+    },
+    {
+      "title": "ZDF-Politbarometer: Unzufriedenheit mit Schwarz-Rot erreicht Höhepunkt",
+      "summary": "Im ZDF-Politbarometer äußern sich knapp drei Viertel der Befragten unzufrieden mit der Regierungskoalition. In der Sonntagsfrage liegt weiter die AfD vorne.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/zdf-politbarometer-unzufriedenheit-regierung-spd-cdu-forschungsgruppe-wahlen-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/zdf-politbarometer-unzufriedenheit-regierung-spd-cdu-forschungsgruppe-wahlen",
+      "published": "Fri, 25 Sep 2026 07:33:34 -0000",
+      "published_display": "25.09.2026 · 07:33 Uhr"
+    },
+    {
+      "title": "Zuschuss fürs Wohnen: Zahl der Haushalte mit Wohngeld und Ausgaben dafür gestiegen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/zahl-der-haushalte-mit-wohngeld-und-ausgaben-dafuer-gestiegen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/zahl-der-haushalte-mit-wohngeld-und-ausgaben-dafuer-gestiegen",
+      "published": "Fri, 25 Sep 2026 07:30:21 -0000",
+      "published_display": "25.09.2026 · 07:30 Uhr"
+    },
     {
       "title": "Kriminalität: Mit Messer bedroht: Vater und Sohn auf Rastplatz bestohlen",
       "summary": "",
@@ -65,62 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/25/aktivisten-blockieren-gleise-im-hamburger-hafen",
       "published": "Fri, 25 Sep 2026 07:07:34 -0000",
       "published_display": "25.09.2026 · 07:07 Uhr"
-    },
-    {
-      "title": "Rentenreform: Dobrindt kündigt Einigung zur Rentenreform für die »nächsten Tagen« an",
-      "summary": "Union und SPD wollen in Kürze letzte strittige Punkte der Rentenreform klären. Besonders umstritten ist, wie es mit der sogenannten Rente mit 63 Jahren weitergehen soll.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/rentenreform-union-spd-alexander-dobrindt-abschlagsfreie-rente-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/rentenreform-union-spd-alexander-dobrindt-abschlagsfreie-rente-gxe",
-      "published": "Fri, 25 Sep 2026 07:06:22 -0000",
-      "published_display": "25.09.2026 · 07:06 Uhr"
-    },
-    {
-      "title": "Gestohlene Geldbörse: Warum ich mein Portemonnaie nicht bei der Polizei abholen wollte",
-      "summary": "Unser Autor wurde beklaut. Als seine Geldbörse einige Zeit später bei der Polizei auftaucht, geht er nicht hin.",
-      "image": "https://img.zeit.de/zeit-magazin/2026/41/warum-ich-mein-portemonnaie-nicht-bei-der-polizei-abholen-wollte-bild-1/original__640x360",
-      "link": "https://www.zeit.de/zeit-magazin/2026/41/geldboerse-diebstahl-restaurant-polizei-fundsache-ausweise",
-      "published": "Fri, 25 Sep 2026 07:04:10 -0000",
-      "published_display": "25.09.2026 · 07:04 Uhr"
-    },
-    {
-      "title": "Wetter: So warm wird es zum Wochenende",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/so-warm-wird-es-zum-wochenende-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/so-warm-wird-es-zum-wochenende",
-      "published": "Fri, 25 Sep 2026 06:55:41 -0000",
-      "published_display": "25.09.2026 · 06:55 Uhr"
-    },
-    {
-      "title": "Nach der Wahl: Berliner SPD-Vize Kiziltepe für Rot-Grün-Rot",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/berliner-spd-vize-kiziltepe-fuer-rot-gruen-rot-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/berliner-spd-vize-kiziltepe-fuer-rot-gruen-rot",
-      "published": "Fri, 25 Sep 2026 06:55:36 -0000",
-      "published_display": "25.09.2026 · 06:55 Uhr"
-    },
-    {
-      "title": "Rems-Murr-Kreis: 28-Jähriger greift Rathausmitarbeiter mit Flasche an",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/28-jaehriger-greift-rathausmitarbeiter-mit-flasche-an-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/28-jaehriger-greift-rathausmitarbeiter-mit-flasche-an",
-      "published": "Fri, 25 Sep 2026 06:53:53 -0000",
-      "published_display": "25.09.2026 · 06:53 Uhr"
-    },
-    {
-      "title": "Wohnungskrise: Zahl der Empfänger von Wohngeld steigt auf Höchststand",
-      "summary": "Gut 1,3 Millionen Haushalte bekommen staatliche Zuschüsse, um ihr Zuhause bezahlen zu können. Das sind 7,2 Prozent mehr als 2025 – und so viele wie noch nie zuvor.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/wohngeld-deutschland-haushalte-rekord-ausgaben-rentner-mecklenburg-vorpommern-bayern-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/wohngeld-deutschland-haushalte-rekord-ausgaben-rentner-mecklenburg-vorpommern-bayern",
-      "published": "Fri, 25 Sep 2026 06:51:44 -0000",
-      "published_display": "25.09.2026 · 06:51 Uhr"
-    },
-    {
-      "title": "Sozialreformen: Schwesig dringt auf Treffen von Merz mit Ministerpräsidenten",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/schwesig-dringt-auf-treffen-von-merz-mit-ministerpraesidenten-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/schwesig-dringt-auf-treffen-von-merz-mit-ministerpraesidenten",
-      "published": "Fri, 25 Sep 2026 06:50:20 -0000",
-      "published_display": "25.09.2026 · 06:50 Uhr"
     }
   ]
 }
