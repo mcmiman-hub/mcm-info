@@ -1,7 +1,71 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-25T14:33:40.732911+00:00",
+  "updated": "2026-09-25T14:47:04.894995+00:00",
   "items": [
+    {
+      "title": "15-Tage-Regelung: Schenk gegen Änderung bei Kinderkrankentagen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/schenk-gegen-aenderung-bei-kinderkrankentagen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/schenk-gegen-aenderung-bei-kinderkrankentagen",
+      "published": "Fri, 25 Sep 2026 14:44:03 -0000",
+      "published_display": "25.09.2026 · 14:44 Uhr"
+    },
+    {
+      "title": "Verdächtiger in U-Haft: Mann soll Ex-Frau mit Cuttermesser attackiert haben – Not-OP",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/mann-soll-ex-frau-mit-cuttermesser-attackiert-haben-not-op-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/mann-soll-ex-frau-mit-cuttermesser-attackiert-haben-not-op",
+      "published": "Fri, 25 Sep 2026 14:42:28 -0000",
+      "published_display": "25.09.2026 · 14:42 Uhr"
+    },
+    {
+      "title": "Emsland: Tödlicher Unfall zwischen Radfahrerin und Auto",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/toedlicher-unfall-zwischen-radfahrerin-und-auto-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/toedlicher-unfall-zwischen-radfahrerin-und-auto",
+      "published": "Fri, 25 Sep 2026 14:41:53 -0000",
+      "published_display": "25.09.2026 · 14:41 Uhr"
+    },
+    {
+      "title": "«Herbstwasen» beginnt: Vier Schläge, dann geht's los - was auf dem Wasen noch läuft",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/vier-schlaege-dann-geht-s-los-was-auf-dem-wasen-noch-laeuft-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/vier-schlaege-dann-geht-s-los-was-auf-dem-wasen-noch-laeuft",
+      "published": "Fri, 25 Sep 2026 14:41:38 -0000",
+      "published_display": "25.09.2026 · 14:41 Uhr"
+    },
+    {
+      "title": "Chemieindustrie: Evonik bestätigt Übernahmeangebot durch BASF",
+      "summary": "Die deutsche Chemiebranche könnte vor Veränderungen stehen: Evonik hat ein Übernahmeangebot von BASF öffentlich gemacht. Gespräche fänden derzeit jedoch nicht statt.",
+      "image": "https://img.zeit.de/wirtschaft/unternehmen/2026-09/basf-evonik-uebernahme-chemiekonzerne-rag-stiftung-foto-1/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/unternehmen/2026-09/basf-evonik-uebernahme-chemiekonzerne-rag-stiftung",
+      "published": "Fri, 25 Sep 2026 14:41:32 -0000",
+      "published_display": "25.09.2026 · 14:41 Uhr"
+    },
+    {
+      "title": "Frankreich-Besuch: Papst mahnt zu «neuer Brüderlichkeit»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/papst-mahnt-in-frankreich-zu-neuer-bruederlichkeit-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/papst-mahnt-in-frankreich-zu-neuer-bruederlichkeit",
+      "published": "Fri, 25 Sep 2026 14:41:32 -0000",
+      "published_display": "25.09.2026 · 14:41 Uhr"
+    },
+    {
+      "title": "Kulturpreis: Bridges Kammerorchester erhält Binding-Kulturpreis",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/bridges-kammerorchester-erhaelt-binding-kulturpreis-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/bridges-kammerorchester-erhaelt-binding-kulturpreis",
+      "published": "Fri, 25 Sep 2026 14:35:37 -0000",
+      "published_display": "25.09.2026 · 14:35 Uhr"
+    },
+    {
+      "title": "WM-Finals: WM-Silber und -Bronze für deutsche Para-Triathleten",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/wm-silber-und-bronze-fuer-deutsche-para-triathleten-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/wm-silber-und-bronze-fuer-deutsche-para-triathleten",
+      "published": "Fri, 25 Sep 2026 14:34:58 -0000",
+      "published_display": "25.09.2026 · 14:34 Uhr"
+    },
     {
       "title": "Rentenreform: CDU-Abgeordneter droht mit Ablehnung der Rentenreform",
       "summary": "Im koalitionsinternen Ringen um die Rentenreform warnt der CDU-Politiker Reddig davor, sie zu verwässern. Einer der Wirtschaftsweisen sieht die Parteien in der Pflicht.",
@@ -11,12 +75,20 @@
       "published_display": "25.09.2026 · 14:32 Uhr"
     },
     {
-      "title": "Chemieindustrie: Evonik bestätigt Übernahmeangebot durch BASF",
-      "summary": "Die deutsche Chemiebranche könnte vor Veränderungen stehen: Evonik hat ein Übernahmeangebot von BASF öffentlich gemacht. Gespräche fänden derzeit jedoch nicht statt.",
-      "image": "https://img.zeit.de/wirtschaft/unternehmen/2026-09/basf-evonik-uebernahme-chemiekonzerne-rag-stiftung-foto-1/original__640x360",
-      "link": "https://www.zeit.de/wirtschaft/unternehmen/2026-09/basf-evonik-uebernahme-chemiekonzerne-rag-stiftung",
-      "published": "Fri, 25 Sep 2026 14:29:45 -0000",
-      "published_display": "25.09.2026 · 14:29 Uhr"
+      "title": "Fußball-Testspiele: Zweiter Test in Länderspielpause: Hertha reist nach Augsburg",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/zweiter-test-in-laenderspielpause-hertha-reist-nach-augsburg-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/zweiter-test-in-laenderspielpause-hertha-reist-nach-augsburg",
+      "published": "Fri, 25 Sep 2026 14:32:05 -0000",
+      "published_display": "25.09.2026 · 14:32 Uhr"
+    },
+    {
+      "title": "Zeugenaufruf: Mann nach mutmaßlicher Schlägerei verletzt aufgefunden",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/mann-nach-mutmasslicher-schlaegerei-verletzt-aufgefunden-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/mann-nach-mutmasslicher-schlaegerei-verletzt-aufgefunden",
+      "published": "Fri, 25 Sep 2026 14:31:45 -0000",
+      "published_display": "25.09.2026 · 14:31 Uhr"
     },
     {
       "title": "Kooperation von CDU mit AfD: Knobloch zeigt sich entsetzt über Stolpersteinverbot in Heidenau",
@@ -49,78 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/25/kriminalitaet-am-hauptbahnhof-nuernberg-weitere-festnahmen",
       "published": "Fri, 25 Sep 2026 14:25:10 -0000",
       "published_display": "25.09.2026 · 14:25 Uhr"
-    },
-    {
-      "title": "Spätfolgen von Tschernobyl: Essbare Wildpilze - kein Risiko durch Cäsium-137",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/essbare-wildpilze-kein-risiko-durch-caesium-137-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/essbare-wildpilze-kein-risiko-durch-caesium-137",
-      "published": "Fri, 25 Sep 2026 14:24:00 -0000",
-      "published_display": "25.09.2026 · 14:24 Uhr"
-    },
-    {
-      "title": "Mapo Champignons: Pilzsaison in Szechuan",
-      "summary": "Mapo Tofu ist eines der beliebtesten Gerichte der chinesischen Küche. Trotzdem darf es munter abgewandelt werden – hier wird der Tofu durch herbstliche Pilze ersetzt.",
-      "image": "https://img.zeit.de/zeit-magazin/wochenmarkt/2026-09/mapo-champignon-tofu-rezept-szechuan-china-bild/original__640x360",
-      "link": "https://www.zeit.de/zeit-magazin/wochenmarkt/2026-09/mapo-champignon-tofu-rezept-szechuan-china",
-      "published": "Fri, 25 Sep 2026 14:22:23 -0000",
-      "published_display": "25.09.2026 · 14:22 Uhr"
-    },
-    {
-      "title": "Wohnungsbau in Berlin: Forscher: Vergesellschaftung könnte Mieten in Berlin bremsen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/forscher-vergesellschaftung-koennte-mieten-in-berlin-bremsen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/forscher-vergesellschaftung-koennte-mieten-in-berlin-bremsen",
-      "published": "Fri, 25 Sep 2026 14:18:06 -0000",
-      "published_display": "25.09.2026 · 14:18 Uhr"
-    },
-    {
-      "title": "Kriminalität: 19-Jähriger nach Einbruch in Untersuchungshaft",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/19-jaehriger-nach-einbruch-in-untersuchungshaft-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/19-jaehriger-nach-einbruch-in-untersuchungshaft",
-      "published": "Fri, 25 Sep 2026 14:16:54 -0000",
-      "published_display": "25.09.2026 · 14:16 Uhr"
-    },
-    {
-      "title": "Verfahren gegen mehrere Beamte: Diskriminierende und sexistische Chats? SEK-Beamte versetzt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/diskriminierende-und-sexistische-chats-sek-beamte-versetzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/diskriminierende-und-sexistische-chats-sek-beamte-versetzt",
-      "published": "Fri, 25 Sep 2026 14:16:16 -0000",
-      "published_display": "25.09.2026 · 14:16 Uhr"
-    },
-    {
-      "title": "DFB-Pokal-Finale: Pokalkrawalle: DFB reduziert Geldstrafen für Bayern und VfB",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/pokalkrawalle-dfb-reduziert-geldstrafen-fuer-bayern-und-vfb-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/pokalkrawalle-dfb-reduziert-geldstrafen-fuer-bayern-und-vfb",
-      "published": "Fri, 25 Sep 2026 14:13:50 -0000",
-      "published_display": "25.09.2026 · 14:13 Uhr"
-    },
-    {
-      "title": "Finanzen: Dauerstreit Kommunalfinanzen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/dauerstreit-kommunalfinanzen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/dauerstreit-kommunalfinanzen",
-      "published": "Fri, 25 Sep 2026 14:12:23 -0000",
-      "published_display": "25.09.2026 · 14:12 Uhr"
-    },
-    {
-      "title": "Frankreich: Roman wegen KI-Verdachts aus Auswahlliste für Prix Goncourt gestrichen",
-      "summary": "Mehrere Analysen zeigen, dass »C’était ça ou mourir« von Thélyson Orélien ein KI-Produkt ist. Der Prix Goncourt hat das Werk deswegen von seiner Auswahlliste gestrichen.",
-      "image": "https://img.zeit.de/feuilleton/2026-09/thelyson-orelien-prix-goncourt-kuenstliche-intelligenz-roman-foto-1/original__640x360",
-      "link": "https://www.zeit.de/feuilleton/2026-09/thelyson-orelien-prix-goncourt-kuenstliche-intelligenz-roman-gxe",
-      "published": "Fri, 25 Sep 2026 14:11:19 -0000",
-      "published_display": "25.09.2026 · 14:11 Uhr"
-    },
-    {
-      "title": "Energiepreise: Nochmal Tankrabatt - Wann wird es billiger und wie viel?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/nochmal-tankrabatt-wann-wird-es-billiger-und-wie-viel-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/nochmal-tankrabatt-wann-wird-es-billiger-und-wie-viel",
-      "published": "Fri, 25 Sep 2026 14:11:04 -0000",
-      "published_display": "25.09.2026 · 14:11 Uhr"
     }
   ]
 }
