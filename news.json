@@ -1,7 +1,71 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-25T10:44:50.733517+00:00",
+  "updated": "2026-09-25T10:56:11.622127+00:00",
   "items": [
+    {
+      "title": "Bundesrat: Autoposing soll zurückgedrängt werden",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/autoposing-soll-zurueckgedraengt-werden-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/autoposing-soll-zurueckgedraengt-werden",
+      "published": "Fri, 25 Sep 2026 10:52:04 -0000",
+      "published_display": "25.09.2026 · 10:52 Uhr"
+    },
+    {
+      "title": "Zeugenaufruf: Diebe stehlen kilometerweise Kupferkabel von Solaranlage",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/diebe-stehlen-kilometerweise-kupferkabel-von-solaranlage-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/diebe-stehlen-kilometerweise-kupferkabel-von-solaranlage",
+      "published": "Fri, 25 Sep 2026 10:50:36 -0000",
+      "published_display": "25.09.2026 · 10:50 Uhr"
+    },
+    {
+      "title": "Kriminalität: Messerattacke in Hildesheim: 27-Jähriger notoperiert",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/messerattacke-in-hildesheim-27-jaehriger-notoperiert-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/messerattacke-in-hildesheim-27-jaehriger-notoperiert",
+      "published": "Fri, 25 Sep 2026 10:50:29 -0000",
+      "published_display": "25.09.2026 · 10:50 Uhr"
+    },
+    {
+      "title": "Sandro Wagner: Die einfache Wahrheit über echte Typen",
+      "summary": "Viele vermissen echte Typen. Dann kommt einer wie Sandro Wagner, und das ist auch wieder nicht okay?! Zeit für eine Kolumnisten-Verteidigung mit Blick in die 1980er",
+      "image": "https://img.zeit.de/zeit-magazin/2026-09/sandro-wagner-gru-nfla-che-bild/original__640x360",
+      "link": "https://www.zeit.de/sport/2026-09/sandro-wagner-hannover-96-fussball-gruenflaeche",
+      "published": "Fri, 25 Sep 2026 10:50:27 -0000",
+      "published_display": "25.09.2026 · 10:50 Uhr"
+    },
+    {
+      "title": "Polizeieinsatz: 19-Jähriger wehrt sich gegen Räuber - Schuss in den Fuß",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/19-jaehriger-wehrt-sich-gegen-raeuber-schuss-in-den-fuss-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/19-jaehriger-wehrt-sich-gegen-raeuber-schuss-in-den-fuss",
+      "published": "Fri, 25 Sep 2026 10:48:14 -0000",
+      "published_display": "25.09.2026 · 10:48 Uhr"
+    },
+    {
+      "title": "Fußball-Regionalliga: «Löwen» treffen auf «Spektakel»-Team - Einstimmen für Wiesn",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/loewen-treffen-auf-spektakel-team-einstimmen-fuer-wiesn-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/loewen-treffen-auf-spektakel-team-einstimmen-fuer-wiesn",
+      "published": "Fri, 25 Sep 2026 10:47:41 -0000",
+      "published_display": "25.09.2026 · 10:47 Uhr"
+    },
+    {
+      "title": "Frugale WG: Eine Woche nicht geduscht? Das muss belohnt werden!",
+      "summary": "Videos über eine Wohngemeinschaft mit extremen Spartipps gehen viral. Aber verwenden die wirklich Mehrweg-Klopapier? Ein Internet-Lehrstück",
+      "image": "https://img.zeit.de/digital/2026-09/internet-kolumne-rose-frugal-wg-bild/original__640x360",
+      "link": "https://www.zeit.de/digital/internet/2026-09/frugale-wg-sparen-social-media-internetkolumne",
+      "published": "Fri, 25 Sep 2026 10:46:20 -0000",
+      "published_display": "25.09.2026 · 10:46 Uhr"
+    },
+    {
+      "title": "Hoher Schaden erwartet: Polizei ermittelt nach Brand in landwirtschaftlichem Gebäude",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/polizei-ermittelt-nach-brand-in-landwirtschaftlichem-gebaeude-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/polizei-ermittelt-nach-brand-in-landwirtschaftlichem-gebaeude",
+      "published": "Fri, 25 Sep 2026 10:46:03 -0000",
+      "published_display": "25.09.2026 · 10:46 Uhr"
+    },
     {
       "title": "Obstbau: Warum sich Verbraucher auf kleinere Äpfel einstellen müssen",
       "summary": "",
@@ -57,70 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/25/nach-schuessen-auf-barbershop-ermittelt-jetzt-eine-soko",
       "published": "Fri, 25 Sep 2026 10:34:01 -0000",
       "published_display": "25.09.2026 · 10:34 Uhr"
-    },
-    {
-      "title": "Polizei: Linken-Wahlsieg: Südwesten lädt Berliner Polizisten ein",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/linken-wahlsieg-suedwesten-laedt-berliner-polizisten-ein-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/linken-wahlsieg-suedwesten-laedt-berliner-polizisten-ein",
-      "published": "Fri, 25 Sep 2026 10:33:52 -0000",
-      "published_display": "25.09.2026 · 10:33 Uhr"
-    },
-    {
-      "title": "Die besten Politikerbiografien: Sieben politische Biografien, die Sie garantiert schlauer machen",
-      "summary": "Populisten, Revolutionärinnen, außergewöhnliche Menschen der Macht: Wir empfehlen Ihnen sieben herausragende politische Biografien, die unseren Blick verändert haben.",
-      "image": "https://img.zeit.de/feuilleton/literatur/2026-08/politiker-biografien-leseempfehlung-persoenlichkeiten-leben-schaeuble/original__640x360",
-      "link": "https://www.zeit.de/feuilleton/literatur/2026-08/politiker-biografien-leseempfehlung-persoenlichkeiten-leben",
-      "published": "Fri, 25 Sep 2026 10:32:59 -0000",
-      "published_display": "25.09.2026 · 10:32 Uhr"
-    },
-    {
-      "title": "Wildtiere: Elch Bert ist tot: Bleibt er als Präparat erhalten?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/elch-bert-ist-tot-bleibt-er-als-praeparat-erhalten-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/elch-bert-ist-tot-bleibt-er-als-praeparat-erhalten",
-      "published": "Fri, 25 Sep 2026 10:32:43 -0000",
-      "published_display": "25.09.2026 · 10:32 Uhr"
-    },
-    {
-      "title": "Fußball: Klopp adelt U21-Kapitän Bischof: «Tom hat ganz viele Dinge»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/klopp-adelt-u21-kapitaen-bischof-tom-hat-ganz-viele-dinge-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/klopp-adelt-u21-kapitaen-bischof-tom-hat-ganz-viele-dinge",
-      "published": "Fri, 25 Sep 2026 10:32:02 -0000",
-      "published_display": "25.09.2026 · 10:32 Uhr"
-    },
-    {
-      "title": "Niderigwasser: Pegelstand im Rhein auf neuen Tiefstand gefallen",
-      "summary": "Der Rhein erreicht an der Engstelle Kaub bei Koblenz einen Pegeltiefstand von zwei Zentimetern. Das könnte einen neuen historischen Wert darstellen.",
-      "image": "https://img.zeit.de/wissenschaft/umwelt/2026-09/rhein-pegel-kaub-niedrigwasser-frachtschiffe-wirtschaft-foto-1/original__640x360",
-      "link": "https://www.zeit.de/wissenschaft/umwelt/2026-09/rhein-pegel-kaub-niedrigwasser-frachtschiffe-wirtschaft",
-      "published": "Fri, 25 Sep 2026 10:31:04 -0000",
-      "published_display": "25.09.2026 · 10:31 Uhr"
-    },
-    {
-      "title": "Paartherapie: Warum es der Beziehung hilft, sich den Partner als Tier vorzustellen",
-      "summary": "Diese Methode hilft Paartherapeuten, festgefahrene Konflikte zu lösen: Metaphern. Warum ein Gartenzaun, eine Schildkröte, oder eine Frisbee viel bewirken können.",
-      "image": "https://img.zeit.de/video/2026-09/6405476220112-still/original__640x360",
-      "link": "https://www.zeit.de/zeit-magazin/leben/2026-09/paartherapie-beziehungen-metaphern-konflikte-partnerschaft",
-      "published": "Fri, 25 Sep 2026 10:30:26 -0000",
-      "published_display": "25.09.2026 · 10:30 Uhr"
-    },
-    {
-      "title": "Wetter: Bis zu 31 Grad im Südwesten – Sonne satt am Wochenende",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/bis-zu-31-grad-im-suedwesten-sonne-satt-am-wochenende-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/bis-zu-31-grad-im-suedwesten-sonne-satt-am-wochenende",
-      "published": "Fri, 25 Sep 2026 10:27:59 -0000",
-      "published_display": "25.09.2026 · 10:27 Uhr"
-    },
-    {
-      "title": "Iran: Wenn der Krieg losgeht, dann von hier",
-      "summary": "Seit Monaten steht die Straße von Hormus im Fokus. Doch wie geht es den Menschen dort? Eine Reise entlang der iranischen Küste.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/iran-strasse-von-hormus-reise-persischer-golf-bild-bild-07/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/iran-strasse-von-hormus-reise-persischer-golf",
-      "published": "Fri, 25 Sep 2026 10:27:50 -0000",
-      "published_display": "25.09.2026 · 10:27 Uhr"
     }
   ]
 }
