@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-25T20:56:02.743427+00:00",
+  "updated": "2026-09-25T21:17:21.408199+00:00",
   "items": [
+    {
+      "title": "Papstbesuch: Rund 80.000 Menschen feiern Gottesdienst mit Papst Leo in Frankreich",
+      "summary": "Am ersten Abend seiner viertägigen Frankreichreise hat Papst Leo XIV. einen Gottesdienst im Stade de France gehalten. Rund 80.000 junge Franzosen waren dabei.",
+      "image": "https://img.zeit.de/gesellschaft/2026-09/papst-leo-xiv-frankreich-emmanuel-macron-menschenrechte-sterbehilfe-abtreibung-bild-1/original__640x360",
+      "link": "https://www.zeit.de/gesellschaft/2026-09/papst-leo-xiv-frankreich-emmanuel-macron-menschenrechte-sterbehilfe-abtreibung",
+      "published": "Fri, 25 Sep 2026 21:14:55 -0000",
+      "published_display": "25.09.2026 · 21:14 Uhr"
+    },
+    {
+      "title": "Monarchin auf Zeit: Paula Löber aus Sachsen-Anhalt ist neue Deutsche Weinkönigin",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/paula-loeber-aus-sachsen-anhalt-ist-neue-deutsche-weinkoenigin-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/paula-loeber-aus-sachsen-anhalt-ist-neue-deutsche-weinkoenigin",
+      "published": "Fri, 25 Sep 2026 21:05:55 -0000",
+      "published_display": "25.09.2026 · 21:05 Uhr"
+    },
     {
       "title": "Jemen: Jemens Regierung ruft zur Mobilmachung gegen die Huthi-Rebellen auf",
       "summary": "Seit Monaten toben die Kämpfe zwischen der proiranischen Huthi-Miliz im Jemen und der Regierungsarmee. Jetzt soll sich die Bevölkerung gegen die Huthis stellen.",
@@ -9,6 +25,14 @@
       "link": "https://www.zeit.de/politik/ausland/2026-09/jemen-huthis-mobilmachung-al-alimi-bab-al-mandab",
       "published": "Fri, 25 Sep 2026 20:55:49 -0000",
       "published_display": "25.09.2026 · 20:55 Uhr"
+    },
+    {
+      "title": "Landkreis Rottal-Inn: 76-jährige Autofahrerin stirbt nach Unfall mit Lkw",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/25/76-jaehrige-autofahrerin-stirbt-nach-unfall-mit-lkw-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/25/76-jaehrige-autofahrerin-stirbt-nach-unfall-mit-lkw",
+      "published": "Fri, 25 Sep 2026 20:54:05 -0000",
+      "published_display": "25.09.2026 · 20:54 Uhr"
     },
     {
       "title": "Basketball-Bundesliga: Niners Chemnitz verlieren nach Verlängerung",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/25/gleich-drei-hurrikane-im-pazifik-hawaii-und-mexiko-bedroht",
       "published": "Fri, 25 Sep 2026 19:30:13 -0000",
       "published_display": "25.09.2026 · 19:30 Uhr"
-    },
-    {
-      "title": "Handball-Super Globe: Füchse Berlin starten mit Kantersieg in die Club-WM",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/fuechse-berlin-starten-mit-kantersieg-in-die-club-wm-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/fuechse-berlin-starten-mit-kantersieg-in-die-club-wm",
-      "published": "Fri, 25 Sep 2026 19:22:49 -0000",
-      "published_display": "25.09.2026 · 19:22 Uhr"
-    },
-    {
-      "title": "Reformdebatte: SPD-Generalsekretär: Keine Leistungskürzung in der Pflege",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/spd-generalsekretaer-keine-leistungskuerzung-in-der-pflege-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/spd-generalsekretaer-keine-leistungskuerzung-in-der-pflege",
-      "published": "Fri, 25 Sep 2026 19:17:36 -0000",
-      "published_display": "25.09.2026 · 19:17 Uhr"
-    },
-    {
-      "title": "Johann Wadephul in Ottawa: Kanada, oh Kanada",
-      "summary": "Deutschland und Kanada wollen enger zusammenarbeiten, entsprechend freundlich wird Johann Wadephul empfangen. Die gute Stimmung hängt auch mit Donald Trump zusammen.",
-      "image": "https://img.zeit.de/politik/2026-09/deutschland-kanada-johann-wadephul-ottawa-zusammenarbeit-bild-2/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/deutschland-kanada-johann-wadephul-ottawa-zusammenarbeit",
-      "published": "Fri, 25 Sep 2026 19:07:03 -0000",
-      "published_display": "25.09.2026 · 19:07 Uhr"
     }
   ]
 }
