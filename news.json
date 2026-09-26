@@ -1,7 +1,47 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-26T18:19:54.629636+00:00",
+  "updated": "2026-09-26T18:34:51.876399+00:00",
   "items": [
+    {
+      "title": "Sozialstaat: DGB mobilisiert Zehntausende gegen Sozialkürzungen",
+      "summary": "Bundesweit sind Menschen dem Aufruf des Deutschen Gewerkschaftsbunds gefolgt. Die Proteste richteten sich gegen geplante Kürzungen und Reformen.",
+      "image": "https://img.zeit.de/gesellschaft/2026-09/dgb-gewerkschaften-demonstration-sozialstaat-kuerzungen-yasmin-fahimi-foto-1/original__640x360",
+      "link": "https://www.zeit.de/gesellschaft/2026-09/dgb-gewerkschaften-demonstration-sozialstaat-kuerzungen-yasmin-fahimi",
+      "published": "Sat, 26 Sep 2026 18:34:24 -0000",
+      "published_display": "26.09.2026 · 18:34 Uhr"
+    },
+    {
+      "title": "Nations League: Irische Nationalmannschaft votiert für Spiel gegen Israel",
+      "summary": "Die Mehrheit des irischen Kaders lehnt einen Boykott des Nation-League-Spiels gegen Israel ab. Einige Spieler hatten sich öffentlich gegen eine Austragung ausgesprochen.",
+      "image": "https://img.zeit.de/sport/2026-09/irland-israel-fussball-nations-league-boykott-gaza-konflikt-foto-1/original__640x360",
+      "link": "https://www.zeit.de/sport/2026-09/irland-israel-fussball-nations-league-boykott-gaza-konflikt",
+      "published": "Sat, 26 Sep 2026 18:31:58 -0000",
+      "published_display": "26.09.2026 · 18:31 Uhr"
+    },
+    {
+      "title": "Jubiläumsspiel gegen Real: 100 Jahre Weserstadion: Rehhagel feiert Trainer-Comeback",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/26/100-jahre-weserstadion-rehhagel-feiert-trainer-comeback-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/26/100-jahre-weserstadion-rehhagel-feiert-trainer-comeback",
+      "published": "Sat, 26 Sep 2026 18:31:35 -0000",
+      "published_display": "26.09.2026 · 18:31 Uhr"
+    },
+    {
+      "title": "Handball-Pokal: THW Kiel muss im Achtelfinale nach Lemgo reisen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/26/thw-kiel-muss-im-achtelfinale-nach-lemgo-reisen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/26/thw-kiel-muss-im-achtelfinale-nach-lemgo-reisen",
+      "published": "Sat, 26 Sep 2026 18:29:58 -0000",
+      "published_display": "26.09.2026 · 18:29 Uhr"
+    },
+    {
+      "title": "Alkohol während der Schwangerschaft: Sie ist Ärztin, sie ist schwanger, sie ist alkoholsüchtig",
+      "summary": "Anna wusste, dass sie schwanger ist, und trank trotzdem weiter. Ihre Geschichte zeigt, wie eine Frau mit ihrer Sucht kämpft, die stärker sein will als die Liebe zum Kind.",
+      "image": "https://img.zeit.de/familie/2026-09/alkohol-schwangerschaft-sucht-klinik/original__640x360",
+      "link": "https://www.zeit.de/familie/2026-09/alkohol-schwangerschaft-sucht-klinik-drogen",
+      "published": "Sat, 26 Sep 2026 18:21:11 -0000",
+      "published_display": "26.09.2026 · 18:21 Uhr"
+    },
     {
       "title": "Künstliche Intelligenz: OpenAI prüft unerwünschtes Verhalten von KI-Agenten",
       "summary": "Mehrfach haben KI-Agenten auf Websites und Daten zugegriffen, ohne dass OpenAI davon wusste. Jüngst wurde ein Zugriff auf US-Regierungsdaten bekannt.",
@@ -59,14 +99,6 @@
       "published_display": "26.09.2026 · 17:47 Uhr"
     },
     {
-      "title": "Jubiläumsspiel gegen Real: 100 Jahre Weserstadion: Rehhagel feiert Trainer-Comeback",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/26/100-jahre-weserstadion-rehhagel-feiert-trainer-comeback-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/26/100-jahre-weserstadion-rehhagel-feiert-trainer-comeback",
-      "published": "Sat, 26 Sep 2026 17:18:43 -0000",
-      "published_display": "26.09.2026 · 17:18 Uhr"
-    },
-    {
       "title": "Biopic: Tom Holland als Fred Astaire - Sabrina Carpenter stößt dazu",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-09/26/tom-holland-als-fred-astaire-sabrina-carpenter-stoesst-dazu-image-group/original__640x360",
@@ -89,38 +121,6 @@
       "link": "https://www.zeit.de/zeit-wissen/2026/03/rakete-fehlalarm-1983-sowjetunion-stanislaw-petrow",
       "published": "Sat, 26 Sep 2026 16:56:49 -0000",
       "published_display": "26.09.2026 · 16:56 Uhr"
-    },
-    {
-      "title": "Staatsbesuch: China und USA richten KI-Kommunikationskanal ein",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/26/china-und-usa-richten-ki-kommunikationskanal-ein-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/26/china-und-usa-richten-ki-kommunikationskanal-ein",
-      "published": "Sat, 26 Sep 2026 16:42:17 -0000",
-      "published_display": "26.09.2026 · 16:42 Uhr"
-    },
-    {
-      "title": "Debatte über Krankenkassen: So ließe sich das Zweiklassensystem abschaffen",
-      "summary": "Als Kassenpatient wartet man beim Arzt oft wochenlang. Kanzler Merz will das ändern. Wie ließe sich das System beenden? Drei Vorschläge",
-      "image": "https://img.zeit.de/wirtschaft/2026-09/debatte-krankenkassen-gerechtigkeit-soziale-ungleichheit-private-krankenversicherung-bild/original__640x360",
-      "link": "https://www.zeit.de/wirtschaft/2026-09/debatte-krankenkassen-gerechtigkeit-soziale-ungleichheit-private-krankenversicherung",
-      "published": "Sat, 26 Sep 2026 16:41:56 -0000",
-      "published_display": "26.09.2026 · 16:41 Uhr"
-    },
-    {
-      "title": "UN-Generaldebatte: Außenminister Wadephul trifft russischen Amtskollegen Sergej Lawrow",
-      "summary": "20 Minuten und ein Handschlag: Johann Wadephul hat überraschend Sergej Lawrow in New York getroffen. Der Außenminister habe ein Ende der russischen Aggression gefordert.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/aussenminister-wadephul-trifft-russischen-amtskollegen-sergej-lawrow-foto/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/aussenminister-wadephul-trifft-russischen-amtskollegen-sergej-lawrow",
-      "published": "Sat, 26 Sep 2026 16:40:03 -0000",
-      "published_display": "26.09.2026 · 16:40 Uhr"
-    },
-    {
-      "title": "Wandern: Deutscher Wandertag endet mit Festumzug und Bergparade",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/26/deutscher-wandertag-endet-mit-festumzug-und-bergparade-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/26/deutscher-wandertag-endet-mit-festumzug-und-bergparade",
-      "published": "Sat, 26 Sep 2026 16:39:33 -0000",
-      "published_display": "26.09.2026 · 16:39 Uhr"
     }
   ]
 }
