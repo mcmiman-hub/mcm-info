@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-26T00:57:51.819670+00:00",
+  "updated": "2026-09-26T01:15:45.801121+00:00",
   "items": [
+    {
+      "title": "Alter Skandal, neues Urteil: Rückschlag für Meta vor Gericht wegen Cambridge Analytica",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/26/rueckschlag-fuer-meta-vor-gericht-wegen-cambridge-analytica-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/26/rueckschlag-fuer-meta-vor-gericht-wegen-cambridge-analytica",
+      "published": "Sat, 26 Sep 2026 01:08:56 -0000",
+      "published_display": "26.09.2026 · 01:08 Uhr"
+    },
+    {
+      "title": "Versorgung: Widerwort aus Mainz beim Thema Kinderkrankengeld",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/26/widerwort-aus-mainz-beim-thema-kinderkrankengeld-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/26/widerwort-aus-mainz-beim-thema-kinderkrankengeld",
+      "published": "Sat, 26 Sep 2026 01:00:06 -0000",
+      "published_display": "26.09.2026 · 01:00 Uhr"
+    },
     {
       "title": "OpenAI: KI von OpenAI lädt Bilder von Nutzern unerlaubt auf Plattformen hoch",
       "summary": "Es ist der erste Vorfall, bei dem Daten von OpenAI-Nutzern betroffen sind: Die KI von OpenAI hat Bilder von Nutzern auf Onlineplattformen hochgeladen.",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/25/was-geschah-am-26-september",
       "published": "Fri, 25 Sep 2026 21:55:04 -0000",
       "published_display": "25.09.2026 · 21:55 Uhr"
-    },
-    {
-      "title": "Papstbesuch: Rund 80.000 Menschen feiern Gottesdienst mit Papst Leo in Frankreich",
-      "summary": "Am ersten Abend seiner viertägigen Frankreichreise hat Papst Leo XIV. einen Gottesdienst im Stade de France gehalten. Rund 80.000 junge Franzosen waren dabei.",
-      "image": "https://img.zeit.de/gesellschaft/2026-09/papst-leo-xiv-frankreich-emmanuel-macron-menschenrechte-sterbehilfe-abtreibung-bild-1/original__640x360",
-      "link": "https://www.zeit.de/gesellschaft/2026-09/papst-leo-xiv-frankreich-emmanuel-macron-menschenrechte-sterbehilfe-abtreibung",
-      "published": "Fri, 25 Sep 2026 21:14:55 -0000",
-      "published_display": "25.09.2026 · 21:14 Uhr"
-    },
-    {
-      "title": "Monarchin auf Zeit: Paula Löber aus Sachsen-Anhalt ist neue Deutsche Weinkönigin",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/paula-loeber-aus-sachsen-anhalt-ist-neue-deutsche-weinkoenigin-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/paula-loeber-aus-sachsen-anhalt-ist-neue-deutsche-weinkoenigin",
-      "published": "Fri, 25 Sep 2026 21:05:55 -0000",
-      "published_display": "25.09.2026 · 21:05 Uhr"
     }
   ]
 }
