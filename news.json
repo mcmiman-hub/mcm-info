@@ -1,7 +1,95 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-26T13:54:28.465908+00:00",
+  "updated": "2026-09-26T14:16:37.699067+00:00",
   "items": [
+    {
+      "title": "Nach Münchens Sieg: Bundeskanzler Merz: «Olympia gehört nach Deutschland»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/26/bundeskanzler-merz-olympia-gehoert-nach-deutschland-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/26/bundeskanzler-merz-olympia-gehoert-nach-deutschland",
+      "published": "Sat, 26 Sep 2026 14:11:41 -0000",
+      "published_display": "26.09.2026 · 14:11 Uhr"
+    },
+    {
+      "title": "Sozialprotest: Zehntausende demonstrieren für den Sozialstaat",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/26/zehntausende-demonstrieren-fuer-den-sozialstaat-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/26/zehntausende-demonstrieren-fuer-den-sozialstaat",
+      "published": "Sat, 26 Sep 2026 14:09:48 -0000",
+      "published_display": "26.09.2026 · 14:09 Uhr"
+    },
+    {
+      "title": "Olympia-Bewerbung: Wüst sagt München Unterstützung zu",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/26/wuest-sagt-muenchen-unterstuetzung-zu-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/26/wuest-sagt-muenchen-unterstuetzung-zu",
+      "published": "Sat, 26 Sep 2026 14:08:16 -0000",
+      "published_display": "26.09.2026 · 14:08 Uhr"
+    },
+    {
+      "title": "Migration: Dobrindt will Frontex deutlich stärken",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/26/dobrindt-will-frontex-deutlich-staerken-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/26/dobrindt-will-frontex-deutlich-staerken",
+      "published": "Sat, 26 Sep 2026 14:04:16 -0000",
+      "published_display": "26.09.2026 · 14:04 Uhr"
+    },
+    {
+      "title": "Olympia-Bewerbung: Bayern feiert Olympia-Triumph Münchens",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/26/bayern-feiert-olympia-triumph-muenchens-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/26/bayern-feiert-olympia-triumph-muenchens",
+      "published": "Sat, 26 Sep 2026 13:58:38 -0000",
+      "published_display": "26.09.2026 · 13:58 Uhr"
+    },
+    {
+      "title": "Fußball-Nationalmannschaft: Geheimratsecken, Schweineohren und Klopps Griechen-Warnung",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/26/nuebel-vor-torwart-einsatz-wirtz-und-burkardt-sofort-dabei-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/26/nuebel-vor-torwart-einsatz-wirtz-und-burkardt-sofort-dabei",
+      "published": "Sat, 26 Sep 2026 13:58:01 -0000",
+      "published_display": "26.09.2026 · 13:58 Uhr"
+    },
+    {
+      "title": "Angriff: Tote und Verletzte nach Explosion in Pakistan",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/26/tote-und-verletzte-nach-explosion-in-pakistan-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/26/tote-und-verletzte-nach-explosion-in-pakistan",
+      "published": "Sat, 26 Sep 2026 13:56:27 -0000",
+      "published_display": "26.09.2026 · 13:56 Uhr"
+    },
+    {
+      "title": "DFB-Pokal der Frauen: 1:2 gegen Köln: Tapfere Herthanerinnen scheitern im Pokal",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/26/1-2-gegen-koeln-tapfere-herthanerinnen-scheitern-im-pokal-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/26/1-2-gegen-koeln-tapfere-herthanerinnen-scheitern-im-pokal",
+      "published": "Sat, 26 Sep 2026 13:55:38 -0000",
+      "published_display": "26.09.2026 · 13:55 Uhr"
+    },
+    {
+      "title": "Bundeswehr: 1.700 Kräfte trainieren Ernstfall – Aktivisten protestieren",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/26/1-700-kraefte-trainieren-ernstfall-aktivisten-protestieren-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/26/1-700-kraefte-trainieren-ernstfall-aktivisten-protestieren",
+      "published": "Sat, 26 Sep 2026 13:55:20 -0000",
+      "published_display": "26.09.2026 · 13:55 Uhr"
+    },
+    {
+      "title": "Jens Spahn: Kritik an Jens Spahns Fehlen in Ausschusssitzung",
+      "summary": "Der ehemalige CDU-Fraktionschef hat in einer Sitzung des Haushaltsausschusses gefehlt. Innerhalb der Union gibt es darüber Unmut.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/jens-spahn-cdu-haushaltsausschuss-urlaub-bundestag-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/jens-spahn-cdu-haushaltsausschuss-urlaub-bundestag-gxe",
+      "published": "Sat, 26 Sep 2026 13:54:24 -0000",
+      "published_display": "26.09.2026 · 13:54 Uhr"
+    },
+    {
+      "title": "Familienfest: Landtag lädt ein zum Blick hinter die Kulissen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/26/landtag-laedt-ein-zum-blick-hinter-die-kulissen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/26/landtag-laedt-ein-zum-blick-hinter-die-kulissen",
+      "published": "Sat, 26 Sep 2026 13:53:11 -0000",
+      "published_display": "26.09.2026 · 13:53 Uhr"
+    },
     {
       "title": "Hydrologie: Liegt der Rhein trocken, wenn die Gletscher erst mal weg sind?",
       "summary": "Bis Ende des Jahrhunderts sind zahlreiche Alpengletscher geschmolzen – mit weitreichenden Folgen. Was das für den Rhein und die Länder, durch die er fließt, bedeutet.",
@@ -22,7 +110,7 @@
       "title": "Papstbesuch in Frankreich: Hunderttausende bejubeln Papst Leo XIV. in Paris",
       "summary": "Auf der Place de la Concorde feiert der Papst einen Gottesdienst, schon auf dem Weg dorthin jubelten ihm Hunderttausende zu. Vier Tage ist Leo XIV. in Frankreich.",
       "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-09/papst-leo-xiv-paris-messe-champs-elysees-papamobil-foto-1/original__640x360",
-      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-09/papst-leo-xiv-paris-messe-champs-elysees-papamobil",
+      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-09/papst-leo-xiv-paris-messe-champs-elysees-papamobil-gxe",
       "published": "Sat, 26 Sep 2026 13:50:08 -0000",
       "published_display": "26.09.2026 · 13:50 Uhr"
     },
@@ -33,94 +121,6 @@
       "link": "https://www.zeit.de/2026/41/drogenhilfe-abrigado-harburg-schule-schusswaffen",
       "published": "Sat, 26 Sep 2026 13:49:15 -0000",
       "published_display": "26.09.2026 · 13:49 Uhr"
-    },
-    {
-      "title": "Jens Spahn: Kritik an Jens Spahns Fehlen in Ausschusssitzung",
-      "summary": "Der ehemalige CDU-Fraktionschef hat in einer Sitzung des Haushaltsausschusses gefehlt. Innerhalb der Union gibt es darüber Unmut.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/jens-spahn-cdu-haushaltsausschuss-urlaub-bundestag-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/jens-spahn-cdu-haushaltsausschuss-urlaub-bundestag",
-      "published": "Sat, 26 Sep 2026 13:45:29 -0000",
-      "published_display": "26.09.2026 · 13:45 Uhr"
-    },
-    {
-      "title": "Sportpolitik: Sachsen mit Kanuslalom-Park raus aus dem Olympia-Rennen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/26/sachsen-mit-kanuslalom-park-raus-aus-dem-olympia-rennen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/26/sachsen-mit-kanuslalom-park-raus-aus-dem-olympia-rennen",
-      "published": "Sat, 26 Sep 2026 13:45:25 -0000",
-      "published_display": "26.09.2026 · 13:45 Uhr"
-    },
-    {
-      "title": "Delegation von EU-Abgeordneten: AfD-Vorstandsmitglied Hohloch auf Pakistan-Reise",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/26/afd-vorstandsmitglied-hohloch-auf-pakistan-reise-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/26/afd-vorstandsmitglied-hohloch-auf-pakistan-reise",
-      "published": "Sat, 26 Sep 2026 13:42:50 -0000",
-      "published_display": "26.09.2026 · 13:42 Uhr"
-    },
-    {
-      "title": "Polizei ermittelt: 25-Jähriger in Delmenhorst tödlich verletzt - Tötungsdelikt?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/26/mann-in-delmenhorst-toedlich-verletzt-toetungsdelikt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/26/mann-in-delmenhorst-toedlich-verletzt-toetungsdelikt",
-      "published": "Sat, 26 Sep 2026 13:42:49 -0000",
-      "published_display": "26.09.2026 · 13:42 Uhr"
-    },
-    {
-      "title": "Darmstadt: Gegendemo bei «Reichsbürger»-Treffen in der Überzahl",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/26/gegendemo-bei-reichsbuerger-treffen-in-der-ueberzahl-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/26/gegendemo-bei-reichsbuerger-treffen-in-der-ueberzahl",
-      "published": "Sat, 26 Sep 2026 13:41:52 -0000",
-      "published_display": "26.09.2026 · 13:41 Uhr"
-    },
-    {
-      "title": "Im Duell mit Köln-Rhein-Ruhr: München ist deutscher Kandidat für Olympia",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/26/muenchen-ist-deutscher-kandidat-fuer-olympia-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/26/muenchen-ist-deutscher-kandidat-fuer-olympia",
-      "published": "Sat, 26 Sep 2026 13:40:56 -0000",
-      "published_display": "26.09.2026 · 13:40 Uhr"
-    },
-    {
-      "title": "Olympia-Bewerbung: 91:50 Stimmen: München siegte deutlich gegen Köln-Rhein-Ruhr",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/26/91-50-stimmen-muenchen-siegte-deutlich-gegen-koeln-rhein-ruhr-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/26/91-50-stimmen-muenchen-siegte-deutlich-gegen-koeln-rhein-ruhr",
-      "published": "Sat, 26 Sep 2026 13:40:24 -0000",
-      "published_display": "26.09.2026 · 13:40 Uhr"
-    },
-    {
-      "title": "Olympia-Bewerbung: Wüst sagt München Unterstützung zu",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/26/wuest-sagt-muenchen-unterstuetzung-zu-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/26/wuest-sagt-muenchen-unterstuetzung-zu",
-      "published": "Sat, 26 Sep 2026 13:38:26 -0000",
-      "published_display": "26.09.2026 · 13:38 Uhr"
-    },
-    {
-      "title": "Lilli Tollkien: »Die antiautoritäre Erziehung war oft einfach Ignoranz«",
-      "summary": "Männerkommune, Kreuzberg, Achtzigerjahre, grenzenlose Kindheit. Lilli Tollkien hat darüber einen umwerfenden Roman geschrieben. Wie prägt diese Zeit einen Menschen?",
-      "image": "https://img.zeit.de/familie/2026-09/debuertroman-lilli-tolkien-kindheit-maenner-mit-beiden-haenden-bild-05/original__640x360",
-      "link": "https://www.zeit.de/familie/2026-09/debuertroman-lilli-tolkien-kindheit-maenner-mit-beiden-haenden-den-himmel-tragen",
-      "published": "Sat, 26 Sep 2026 13:34:10 -0000",
-      "published_display": "26.09.2026 · 13:34 Uhr"
-    },
-    {
-      "title": "Katholische Kirche: 700.000 Menschen bei Papstmesse in Paris",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/26/hunderttausende-bei-papstmesse-in-paris-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/26/hunderttausende-bei-papstmesse-in-paris",
-      "published": "Sat, 26 Sep 2026 13:33:05 -0000",
-      "published_display": "26.09.2026 · 13:33 Uhr"
-    },
-    {
-      "title": "Münchens Wahlsieg: Kindheitserinnerung lässt Klopp von Olympia träumen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/26/kindheitserinnerung-laesst-klopp-von-olympia-traeumen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/26/kindheitserinnerung-laesst-klopp-von-olympia-traeumen",
-      "published": "Sat, 26 Sep 2026 13:32:34 -0000",
-      "published_display": "26.09.2026 · 13:32 Uhr"
     }
   ]
 }
