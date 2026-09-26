@@ -1,7 +1,39 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-26T18:34:51.876399+00:00",
+  "updated": "2026-09-26T18:47:26.312675+00:00",
   "items": [
+    {
+      "title": "Nations League: Irische Nationalmannschaft votiert für Spiel gegen Israel",
+      "summary": "Die Mehrheit des irischen Kaders hat einen Boykott des Nation-League-Spiels gegen Israel abgelehnt. Einige Spieler hatten sich gegen eine Austragung ausgesprochen.",
+      "image": "https://img.zeit.de/sport/2026-09/irland-israel-fussball-nations-league-boykott-gaza-konflikt-foto-1/original__640x360",
+      "link": "https://www.zeit.de/sport/2026-09/irland-israel-fussball-nations-league-boykott-gaza-konflikt",
+      "published": "Sat, 26 Sep 2026 18:45:14 -0000",
+      "published_display": "26.09.2026 · 18:45 Uhr"
+    },
+    {
+      "title": "Handwerk: First Lady Büdenbender bei Ehrung von «Junghandwerkern 2026»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/26/first-lady-buedenbender-bei-ehrung-von-junghandwerkern-2026-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/26/first-lady-buedenbender-bei-ehrung-von-junghandwerkern-2026",
+      "published": "Sat, 26 Sep 2026 18:41:48 -0000",
+      "published_display": "26.09.2026 · 18:41 Uhr"
+    },
+    {
+      "title": "Bundesliga: Kiel und Flensburg teilen im 117. Derby die Punkte",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/26/kiel-und-flensburg-teilen-im-117-derby-die-punkte-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/26/kiel-und-flensburg-teilen-im-117-derby-die-punkte",
+      "published": "Sat, 26 Sep 2026 18:39:05 -0000",
+      "published_display": "26.09.2026 · 18:39 Uhr"
+    },
+    {
+      "title": "Wahlen: Berliner SPD will mit Linken über Regierungsbildung sprechen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/26/berliner-spd-will-mit-linken-ueber-regierungsbildung-sprechen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/26/berliner-spd-will-mit-linken-ueber-regierungsbildung-sprechen",
+      "published": "Sat, 26 Sep 2026 18:36:48 -0000",
+      "published_display": "26.09.2026 · 18:36 Uhr"
+    },
     {
       "title": "Sozialstaat: DGB mobilisiert Zehntausende gegen Sozialkürzungen",
       "summary": "Bundesweit sind Menschen dem Aufruf des Deutschen Gewerkschaftsbunds gefolgt. Die Proteste richteten sich gegen geplante Kürzungen und Reformen.",
@@ -11,12 +43,12 @@
       "published_display": "26.09.2026 · 18:34 Uhr"
     },
     {
-      "title": "Nations League: Irische Nationalmannschaft votiert für Spiel gegen Israel",
-      "summary": "Die Mehrheit des irischen Kaders lehnt einen Boykott des Nation-League-Spiels gegen Israel ab. Einige Spieler hatten sich öffentlich gegen eine Austragung ausgesprochen.",
-      "image": "https://img.zeit.de/sport/2026-09/irland-israel-fussball-nations-league-boykott-gaza-konflikt-foto-1/original__640x360",
-      "link": "https://www.zeit.de/sport/2026-09/irland-israel-fussball-nations-league-boykott-gaza-konflikt",
-      "published": "Sat, 26 Sep 2026 18:31:58 -0000",
-      "published_display": "26.09.2026 · 18:31 Uhr"
+      "title": "Demo für queere Rechte: Mit Musikstar-Auftritt: Friedliche CSD-Party in Görlitz",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/26/mit-musikstar-auftritt-friedliche-csd-party-in-goerlitz-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/26/mit-musikstar-auftritt-friedliche-csd-party-in-goerlitz",
+      "published": "Sat, 26 Sep 2026 18:33:39 -0000",
+      "published_display": "26.09.2026 · 18:33 Uhr"
     },
     {
       "title": "Jubiläumsspiel gegen Real: 100 Jahre Weserstadion: Rehhagel feiert Trainer-Comeback",
@@ -49,14 +81,6 @@
       "link": "https://www.zeit.de/digital/2026-09/openai-ki-agenten-daten-zugriff-sec-investor-gov",
       "published": "Sat, 26 Sep 2026 18:18:30 -0000",
       "published_display": "26.09.2026 · 18:18 Uhr"
-    },
-    {
-      "title": "Bundesliga: Kiel und Flensburg teilen im 117. Derby die Punkte",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/26/kiel-und-flensburg-teilen-im-117-derby-die-punkte-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/26/kiel-und-flensburg-teilen-im-117-derby-die-punkte",
-      "published": "Sat, 26 Sep 2026 18:12:40 -0000",
-      "published_display": "26.09.2026 · 18:12 Uhr"
     },
     {
       "title": "Tödlicher Konflikt: Mord beim Segeltrip? Streit auf Boot eskaliert",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/politik/ausland/2026-09/sergej-lawrow-vereinte-nationen-generalversammlung-rede-ukraine",
       "published": "Sat, 26 Sep 2026 17:47:35 -0000",
       "published_display": "26.09.2026 · 17:47 Uhr"
-    },
-    {
-      "title": "Biopic: Tom Holland als Fred Astaire - Sabrina Carpenter stößt dazu",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/26/tom-holland-als-fred-astaire-sabrina-carpenter-stoesst-dazu-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/26/tom-holland-als-fred-astaire-sabrina-carpenter-stoesst-dazu",
-      "published": "Sat, 26 Sep 2026 17:03:13 -0000",
-      "published_display": "26.09.2026 · 17:03 Uhr"
-    },
-    {
-      "title": "Fotografie: Bilder des Tages",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/26/bilder-des-tages-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/26/bilder-des-tages",
-      "published": "Sat, 26 Sep 2026 17:02:34 -0000",
-      "published_display": "26.09.2026 · 17:02 Uhr"
-    },
-    {
-      "title": "Raketenfehlalarm: 26 09 83",
-      "summary": "26. September 1983: Das sowjetische Raketen-Frühwarnsystem meldet einen atomaren Erstschlag der USA. Der dritte Weltkrieg? Nur ein Offizier traute der Maschine nicht.",
-      "image": "https://img.zeit.de/zeit-wissen/2026/03/26-09-83-bild-3/original__640x360",
-      "link": "https://www.zeit.de/zeit-wissen/2026/03/rakete-fehlalarm-1983-sowjetunion-stanislaw-petrow",
-      "published": "Sat, 26 Sep 2026 16:56:49 -0000",
-      "published_display": "26.09.2026 · 16:56 Uhr"
     }
   ]
 }
