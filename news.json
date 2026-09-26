@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-26T07:16:43.810364+00:00",
+  "updated": "2026-09-26T07:28:43.020420+00:00",
   "items": [
+    {
+      "title": "Lehrpläne an Schulen: Lehrer, entrümpelt den Stundenplan!",
+      "summary": "Die Lehrpläne sind zu voll, deshalb brauchen Pädagogen Mut zur Lücke. So werden auch die Pisa-Ergebnisse besser.",
+      "image": "https://img.zeit.de/2026/41/die-position-lehrer-entruempelt-den-stundenplan-bild-2/original__640x360",
+      "link": "https://www.zeit.de/2026/41/lehrplaene-schule-bildung-lehrer-pisa-studie",
+      "published": "Sat, 26 Sep 2026 07:22:55 -0000",
+      "published_display": "26.09.2026 · 07:22 Uhr"
+    },
+    {
+      "title": "KI im US-Gesundheitswesen: KI-Diagnostik könnte Krankenkassen zusätzliche Milliarden kosten",
+      "summary": "KI-Werkzeuge hätten in den USA für eine Milliarde Dollar an zusätzlichen Kosten gesorgt, errechnet eine Studie. Die Patienten würden davon allerdings nicht profitieren.",
+      "image": "https://img.zeit.de/digital/2026-09/ki-gesundheitswesen-usa-bcbsa-kosten-aerzte-abbuchung-nebenerkrankungen-foto-1/original__640x360",
+      "link": "https://www.zeit.de/digital/2026-09/ki-gesundheitswesen-usa-bcbsa-kosten-aerzte-abbuchung-nebenerkrankungen-gxe",
+      "published": "Sat, 26 Sep 2026 07:21:18 -0000",
+      "published_display": "26.09.2026 · 07:21 Uhr"
+    },
+    {
+      "title": "Väter in Kinderfilmen: Papa: ist ein Trottel. Mama: regelt alles.",
+      "summary": "Die Rollenverteilung in den beliebten Familienfilmen und Kinderserien ist immer gleich. Sind Eltern so? Niemals, findet unser Autor. Leider ja, sagt unsere Autorin.",
+      "image": "https://img.zeit.de/2026/41/papa-ist-ein-trottel-bild-1/original__640x360",
+      "link": "https://www.zeit.de/2026/41/vaeter-kinderfilme-muetter-peppa-wutz-bluey",
+      "published": "Sat, 26 Sep 2026 07:20:18 -0000",
+      "published_display": "26.09.2026 · 07:20 Uhr"
+    },
     {
       "title": "Polizei ermittelt: Mann in Delmenhorst tödlich verletzt - Tötungsdelikt?",
       "summary": "",
@@ -78,7 +102,7 @@
       "title": "US-Waffenlieferungen an Taiwan: Taiwan hofft auf Waffenlieferung der USA",
       "summary": "Nach dem Gipfel zwischen den Präsidenten der USA und Chinas hofft die Inselrepublik Taiwan auf die Lieferung von US-Abwehrwaffen. Donald Trump muss diese noch genehmigen.",
       "image": "https://img.zeit.de/politik/ausland/2026-09/usa-taiwan-waffenlieferungen-china-donald-trump-xi-jinping-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/usa-taiwan-waffenlieferungen-china-donald-trump-xi-jinping",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/usa-taiwan-waffenlieferungen-china-donald-trump-xi-jinping-gxe",
       "published": "Sat, 26 Sep 2026 06:26:02 -0000",
       "published_display": "26.09.2026 · 06:26 Uhr"
     },
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/politik/ausland/2026-09/eltern-kind-beziehungen-china-generation-z-forderungen",
       "published": "Sat, 26 Sep 2026 06:06:53 -0000",
       "published_display": "26.09.2026 · 06:06 Uhr"
-    },
-    {
-      "title": "Im Krankenhaus: Vater und Sohn greifen Polizei nach E-Scooter-Kontrolle an",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/26/vater-und-sohn-greifen-polizei-nach-e-scooter-kontrolle-an-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/26/vater-und-sohn-greifen-polizei-nach-e-scooter-kontrolle-an",
-      "published": "Sat, 26 Sep 2026 06:04:45 -0000",
-      "published_display": "26.09.2026 · 06:04 Uhr"
-    },
-    {
-      "title": "Wetter am Wochenende: Sonne in Bayern gibt Vollgas - bis zu 28 Grad erwartet",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/26/sonne-in-bayern-gibt-vollgas-bis-zu-28-grad-erwartet-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/26/sonne-in-bayern-gibt-vollgas-bis-zu-28-grad-erwartet",
-      "published": "Sat, 26 Sep 2026 05:40:28 -0000",
-      "published_display": "26.09.2026 · 05:40 Uhr"
-    },
-    {
-      "title": "Video-App: Tiktok begrenzt Nutzungszeit für Kinder in US-Bundesstaat",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/26/tiktok-begrenzt-nutzungszeit-fuer-kinder-in-us-bundesstaat-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/26/tiktok-begrenzt-nutzungszeit-fuer-kinder-in-us-bundesstaat",
-      "published": "Sat, 26 Sep 2026 05:39:06 -0000",
-      "published_display": "26.09.2026 · 05:39 Uhr"
     }
   ]
 }
