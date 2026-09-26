@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-26T19:15:10.426014+00:00",
+  "updated": "2026-09-26T19:26:52.782640+00:00",
   "items": [
+    {
+      "title": "Regierungsbildung in Berlin: Berliner SPD nimmt Einladung der Linken zu Sondierungsgesprächen an",
+      "summary": "Der Landesvorstand der Berliner SPD will mit den Linken über eine Regierungsbeteiligung sprechen. Landeschef Steffen Krach sieht dafür »hohe Hürden«.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/spd-berlin-linke-sondierungsgespraeche-regierungsbildung-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/spd-berlin-linke-sondierungsgespraeche-regierungsbildung",
+      "published": "Sat, 26 Sep 2026 19:19:34 -0000",
+      "published_display": "26.09.2026 · 19:19 Uhr"
+    },
+    {
+      "title": "Luftverkehr: Lufthansa-Flug nach Toronto kehrt wegen Geruchs in Kabine um",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/26/lufthansa-flug-nach-toronto-kehrt-wegen-geruchs-in-kabine-um-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/26/lufthansa-flug-nach-toronto-kehrt-wegen-geruchs-in-kabine-um",
+      "published": "Sat, 26 Sep 2026 19:16:01 -0000",
+      "published_display": "26.09.2026 · 19:16 Uhr"
+    },
+    {
+      "title": "DHB-Pokal: Spezielles Achtelfinale: Füchse reisen im Pokal nach Potsdam",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/26/spezielles-achtelfinale-fuechse-reisen-im-pokal-nach-potsdam-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/26/spezielles-achtelfinale-fuechse-reisen-im-pokal-nach-potsdam",
+      "published": "Sat, 26 Sep 2026 19:14:20 -0000",
+      "published_display": "26.09.2026 · 19:14 Uhr"
+    },
     {
       "title": "Feuer: Kabelbrand sorgt für Stromausfall in Mainzer Uniklinik",
       "summary": "",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/digital/2026-09/openai-ki-agenten-daten-zugriff-sec-investor-gov",
       "published": "Sat, 26 Sep 2026 18:18:30 -0000",
       "published_display": "26.09.2026 · 18:18 Uhr"
-    },
-    {
-      "title": "Tödlicher Konflikt: Mord beim Segeltrip? Streit auf Boot eskaliert",
-      "summary": "Zwei Freunde gehen gemeinsam segeln. Nach einem heftigen Streit stirbt einer von ihnen – der andere wird wegen Mordes angeklagt. Hat er seinen Freund wirklich getötet?",
-      "image": "https://img.zeit.de/video/2026-09/toedlicher-konflikt-freundschaft-segeln-verbrechen-videopodcast-foto/original__640x360",
-      "link": "https://www.zeit.de/video/2026-09/toedlicher-konflikt-freundschaft-segeln-verbrechen-videopodcast",
-      "published": "Sat, 26 Sep 2026 17:57:29 -0000",
-      "published_display": "26.09.2026 · 17:57 Uhr"
-    },
-    {
-      "title": "Musik: Rapper Danger Dan spricht über Coming-out",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/26/rapper-danger-dan-spricht-ueber-coming-out-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/26/rapper-danger-dan-spricht-ueber-coming-out",
-      "published": "Sat, 26 Sep 2026 17:56:21 -0000",
-      "published_display": "26.09.2026 · 17:56 Uhr"
-    },
-    {
-      "title": "Künstliche Intelligenz: Die KI sagt: »Dieser Autor macht sich zum Versuchskaninchen«",
-      "summary": "Für Journalisten ist KI eine Muse und ein furchtbarer Besserwisser zugleich. Sie hilft und kopiert uns. Wir sollten diese freundlichen Monsterrechner nicht unterschätzen.",
-      "image": "https://img.zeit.de/feuilleton/2026-09/kuenstliche-intelligenz-chatbots-redaktion-sorge/original__640x360",
-      "link": "https://www.zeit.de/feuilleton/2026-09/kuenstliche-intelligenz-chatbots-redaktion-sorge-zukunft",
-      "published": "Sat, 26 Sep 2026 17:55:29 -0000",
-      "published_display": "26.09.2026 · 17:55 Uhr"
     }
   ]
 }
