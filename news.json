@@ -1,10 +1,34 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-26T18:47:26.312675+00:00",
+  "updated": "2026-09-26T18:56:55.613368+00:00",
   "items": [
     {
+      "title": "Feuer: Kabelbrand sorgt für Stromausfall in Mainzer Uniklinik",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/26/kabelbrand-sorgt-fuer-stromausfall-in-mainzer-uniklinik-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/26/kabelbrand-sorgt-fuer-stromausfall-in-mainzer-uniklinik",
+      "published": "Sat, 26 Sep 2026 18:53:15 -0000",
+      "published_display": "26.09.2026 · 18:53 Uhr"
+    },
+    {
+      "title": "Sozialstaat: DGB mobilisiert Zehntausende gegen Sozialkürzungen",
+      "summary": "Bundesweit sind Menschen dem Aufruf des Deutschen Gewerkschaftsbunds gefolgt. Die Proteste richteten sich gegen geplante Kürzungen und Reformen.",
+      "image": "https://img.zeit.de/gesellschaft/2026-09/dgb-gewerkschaften-demonstration-sozialstaat-kuerzungen-yasmin-fahimi-foto-1/original__640x360",
+      "link": "https://www.zeit.de/gesellschaft/2026-09/dgb-gewerkschaften-demonstration-sozialstaat-kuerzungen-yasmin-fahimi",
+      "published": "Sat, 26 Sep 2026 18:52:33 -0000",
+      "published_display": "26.09.2026 · 18:52 Uhr"
+    },
+    {
+      "title": "Gewalt: Mann in Köln angeschossen – Fahndung nach Verdächtigen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/26/mann-in-koeln-angeschossen-fahndung-nach-verdaechtigen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/26/mann-in-koeln-angeschossen-fahndung-nach-verdaechtigen",
+      "published": "Sat, 26 Sep 2026 18:48:23 -0000",
+      "published_display": "26.09.2026 · 18:48 Uhr"
+    },
+    {
       "title": "Nations League: Irische Nationalmannschaft votiert für Spiel gegen Israel",
-      "summary": "Die Mehrheit des irischen Kaders hat einen Boykott des Nation-League-Spiels gegen Israel abgelehnt. Einige Spieler hatten sich gegen eine Austragung ausgesprochen.",
+      "summary": "Die Mehrheit des irischen Kaders hat einen Boykott des Nations-League-Spiels gegen Israel abgelehnt. Einige Spieler hatten sich gegen eine Austragung ausgesprochen.",
       "image": "https://img.zeit.de/sport/2026-09/irland-israel-fussball-nations-league-boykott-gaza-konflikt-foto-1/original__640x360",
       "link": "https://www.zeit.de/sport/2026-09/irland-israel-fussball-nations-league-boykott-gaza-konflikt",
       "published": "Sat, 26 Sep 2026 18:45:14 -0000",
@@ -33,14 +57,6 @@
       "link": "https://www.zeit.de/news/2026-09/26/berliner-spd-will-mit-linken-ueber-regierungsbildung-sprechen",
       "published": "Sat, 26 Sep 2026 18:36:48 -0000",
       "published_display": "26.09.2026 · 18:36 Uhr"
-    },
-    {
-      "title": "Sozialstaat: DGB mobilisiert Zehntausende gegen Sozialkürzungen",
-      "summary": "Bundesweit sind Menschen dem Aufruf des Deutschen Gewerkschaftsbunds gefolgt. Die Proteste richteten sich gegen geplante Kürzungen und Reformen.",
-      "image": "https://img.zeit.de/gesellschaft/2026-09/dgb-gewerkschaften-demonstration-sozialstaat-kuerzungen-yasmin-fahimi-foto-1/original__640x360",
-      "link": "https://www.zeit.de/gesellschaft/2026-09/dgb-gewerkschaften-demonstration-sozialstaat-kuerzungen-yasmin-fahimi",
-      "published": "Sat, 26 Sep 2026 18:34:24 -0000",
-      "published_display": "26.09.2026 · 18:34 Uhr"
     },
     {
       "title": "Demo für queere Rechte: Mit Musikstar-Auftritt: Friedliche CSD-Party in Görlitz",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/feuilleton/2026-09/kuenstliche-intelligenz-chatbots-redaktion-sorge-zukunft",
       "published": "Sat, 26 Sep 2026 17:55:29 -0000",
       "published_display": "26.09.2026 · 17:55 Uhr"
-    },
-    {
-      "title": "Champagner: »Für Mutti wäre der jetzt zu trocken«",
-      "summary": "Manchmal muss es echter Schampus sein: Die Sommelière Sharin Polte testet Winzer-Champagner, von gefällig bis anspruchsvoll. Und verrät, was man mindestens zahlen sollte.",
-      "image": "https://img.zeit.de/zeit-magazin/wochenmarkt/2026-09/champagner-bild/original__640x360",
-      "link": "https://www.zeit.de/zeit-magazin/wochenmarkt/2026/11/sommeliere-test-champagner-wochenmarkt",
-      "published": "Sat, 26 Sep 2026 17:53:16 -0000",
-      "published_display": "26.09.2026 · 17:53 Uhr"
-    },
-    {
-      "title": "Krieg in der Ukraine: Lawrow wirft Europa Vereitelung von Friedensversuchen vor",
-      "summary": "Der russische Außenminister Sergej Lawrow wirft europäischen Staaten vor, eine Friedenslösung für die Ukraine zu verhindern. Russland werde den Krieg fortsetzen, sagt er.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/sergej-lawrow-vereinte-nationen-generalversammlung-rede-ukraine-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/sergej-lawrow-vereinte-nationen-generalversammlung-rede-ukraine",
-      "published": "Sat, 26 Sep 2026 17:47:35 -0000",
-      "published_display": "26.09.2026 · 17:47 Uhr"
     }
   ]
 }
