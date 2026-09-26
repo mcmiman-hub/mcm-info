@@ -1,7 +1,39 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-26T05:28:35.540275+00:00",
+  "updated": "2026-09-26T05:42:55.576239+00:00",
   "items": [
+    {
+      "title": "Wetter am Wochenende: Sonne in Bayern gibt Vollgas - bis zu 28 Grad erwartet",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/26/sonne-in-bayern-gibt-vollgas-bis-zu-28-grad-erwartet-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/26/sonne-in-bayern-gibt-vollgas-bis-zu-28-grad-erwartet",
+      "published": "Sat, 26 Sep 2026 05:40:28 -0000",
+      "published_display": "26.09.2026 · 05:40 Uhr"
+    },
+    {
+      "title": "Video-App: Tiktok begrenzt Nutzungszeit für Kinder in US-Bundesstaat",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/26/tiktok-begrenzt-nutzungszeit-fuer-kinder-in-us-bundesstaat-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/26/tiktok-begrenzt-nutzungszeit-fuer-kinder-in-us-bundesstaat",
+      "published": "Sat, 26 Sep 2026 05:39:06 -0000",
+      "published_display": "26.09.2026 · 05:39 Uhr"
+    },
+    {
+      "title": "Zehn Konzerte: Auf Hoverboards in die 90er - Backstreet Boys in Düsseldorf",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/26/auf-hoverboards-in-die-90er-backstreet-boys-in-duesseldorf-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/26/auf-hoverboards-in-die-90er-backstreet-boys-in-duesseldorf",
+      "published": "Sat, 26 Sep 2026 05:34:03 -0000",
+      "published_display": "26.09.2026 · 05:34 Uhr"
+    },
+    {
+      "title": "Tiersterben: Dutzende tote Jungwale an Argentiniens Küste gespült",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/26/dutzende-tote-jungwale-an-argentiniens-kueste-gespuelt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/26/dutzende-tote-jungwale-an-argentiniens-kueste-gespuelt",
+      "published": "Sat, 26 Sep 2026 05:26:42 -0000",
+      "published_display": "26.09.2026 · 05:26 Uhr"
+    },
     {
       "title": "Stolpersteine in Heidenau: Karin Prien nennt Stolperstein-Verbot einen »Skandal«",
       "summary": "In der sächsischen Stadt Heidenau sollen künftig keine Stolpersteine zum Gedenken an NS-Opfer mehr verlegt werden. Die Bundesbildungsministerin kritisiert das deutlich.",
@@ -89,38 +121,6 @@
       "link": "https://www.zeit.de/2026/41/papst-leo-xiv-frankreich-besuch-emmanuel-macron-laizismus",
       "published": "Sat, 26 Sep 2026 04:00:10 -0000",
       "published_display": "26.09.2026 · 04:00 Uhr"
-    },
-    {
-      "title": "Hochschulen: Welche Studiengänge in MV besonders gefragt sind",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/26/welche-studiengaenge-in-mv-besonders-gefragt-sind-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/26/welche-studiengaenge-in-mv-besonders-gefragt-sind",
-      "published": "Sat, 26 Sep 2026 04:00:07 -0000",
-      "published_display": "26.09.2026 · 04:00 Uhr"
-    },
-    {
-      "title": "Naturschutz: Nadelkraut und Co.: Wie problematische Arten bekämpft werden",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/26/nadelkraut-und-co-wie-problematische-arten-bekaempft-werden-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/26/nadelkraut-und-co-wie-problematische-arten-bekaempft-werden",
-      "published": "Sat, 26 Sep 2026 04:00:06 -0000",
-      "published_display": "26.09.2026 · 04:00 Uhr"
-    },
-    {
-      "title": "Grilled Cheese mit ofengerösteten Trauben: Warmer Käse und Wein",
-      "summary": "Manchmal braucht es nicht mehr als gutes Brot, deftigen Käse und ein paar geröstete Trauben. In der Pfanne wird daraus ein schnell zubereitetes Wohlfühlgericht.",
-      "image": "https://img.zeit.de/zeit-magazin/2026/41/warmer-kaese-und-wein-bild-1/original__640x360",
-      "link": "https://www.zeit.de/zeit-magazin/2026/41/grilled-cheese-sandwich-trauben-cheddar-sauerteigbrot",
-      "published": "Sat, 26 Sep 2026 03:59:43 -0000",
-      "published_display": "26.09.2026 · 03:59 Uhr"
-    },
-    {
-      "title": "Sigrid Nunez: »Susan Sontag fand es lächerlich, nicht über Sex zu reden«",
-      "summary": "In ihrem neuen Erzählungsband setzt Sigrid Nunez mehr auf Zweideutigkeit als Moral. Darauf ein Glas Wein mit der Schriftstellerin in ihrer New Yorker Heimat.",
-      "image": "https://img.zeit.de/2026/41/frei-sei-der-geist-bild-1/original__640x360",
-      "link": "https://www.zeit.de/2026/41/sigrid-nunez-schriftstellerin-new-york-moral-libertinage",
-      "published": "Sat, 26 Sep 2026 03:59:13 -0000",
-      "published_display": "26.09.2026 · 03:59 Uhr"
     }
   ]
 }
