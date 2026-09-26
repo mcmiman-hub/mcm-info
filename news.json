@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-26T09:54:08.315116+00:00",
+  "updated": "2026-09-26T10:16:38.967501+00:00",
   "items": [
+    {
+      "title": "Wetter: Der Sommer kehrt zurück - aber für wie lange?",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/26/der-sommer-kehrt-zurueck-aber-fuer-wie-lange-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/26/der-sommer-kehrt-zurueck-aber-fuer-wie-lange",
+      "published": "Sat, 26 Sep 2026 10:05:49 -0000",
+      "published_display": "26.09.2026 · 10:05 Uhr"
+    },
+    {
+      "title": "Fußball-Nationalmannschaft: Nübel vor Torwart-Einsatz - Wirtz und Burkardt sofort dabei",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/26/nuebel-vor-torwart-einsatz-wirtz-und-burkardt-sofort-dabei-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/26/nuebel-vor-torwart-einsatz-wirtz-und-burkardt-sofort-dabei",
+      "published": "Sat, 26 Sep 2026 10:00:01 -0000",
+      "published_display": "26.09.2026 · 10:00 Uhr"
+    },
     {
       "title": "Lebensgefährlich verletzt: Motorradfahrer kollidiert in Bremen mit Linienbus",
       "summary": "",
@@ -92,7 +108,7 @@
     },
     {
       "title": "Bahnverkehr: Züge fallen nach Beschädigung von Bahnkabeln in NRW aus",
-      "summary": "In Gelsenkirchen wurden mehrere Bahnkabel durchtrennt und herausgerissen. Nun kommt es zu Ausfällen in Nah- und Fernverkehr. Die Polizei vermutet Diebstahl.",
+      "summary": "In Gelsenkirchen wurden mehrere Bahnkabel durchtrennt und herausgerissen. Nun kommt es zu Ausfällen im Nah- und Fernverkehr. Die Polizei vermutet Diebstahl.",
       "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-09/gelsenkirchen-bahn-vandalismus-kabel-diebstahl-zugausfaelle-foto-1/original__640x360",
       "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-09/gelsenkirchen-bahn-vandalismus-kabel-diebstahl-zugausfaelle-gxe",
       "published": "Sat, 26 Sep 2026 09:19:36 -0000",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/26/verfassungsgerichtspraesident-afd-richter-unter-bedingungen",
       "published": "Sat, 26 Sep 2026 09:18:23 -0000",
       "published_display": "26.09.2026 · 09:18 Uhr"
-    },
-    {
-      "title": "Bundesliga: HSV-Profi Gronbæk fällt mit Oberschenkelverletzung aus",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/26/hsv-profi-gronb-k-faellt-mit-oberschenkelverletzung-aus-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/26/hsv-profi-gronb-k-faellt-mit-oberschenkelverletzung-aus",
-      "published": "Sat, 26 Sep 2026 09:17:35 -0000",
-      "published_display": "26.09.2026 · 09:17 Uhr"
-    },
-    {
-      "title": "Zugvögel: Nach Vogelgrippe: Tausende Kraniche füllen Rastplätze",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/26/nach-vogelgrippe-tausende-kraniche-fuellen-rastplaetze-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/26/nach-vogelgrippe-tausende-kraniche-fuellen-rastplaetze",
-      "published": "Sat, 26 Sep 2026 09:15:09 -0000",
-      "published_display": "26.09.2026 · 09:15 Uhr"
     }
   ]
 }
