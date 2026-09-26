@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-26T16:55:12.686066+00:00",
+  "updated": "2026-09-26T17:15:41.227575+00:00",
   "items": [
+    {
+      "title": "Biopic: Tom Holland als Fred Astaire - Sabrina Carpenter stößt dazu",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/26/tom-holland-als-fred-astaire-sabrina-carpenter-stoesst-dazu-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/26/tom-holland-als-fred-astaire-sabrina-carpenter-stoesst-dazu",
+      "published": "Sat, 26 Sep 2026 17:03:13 -0000",
+      "published_display": "26.09.2026 · 17:03 Uhr"
+    },
+    {
+      "title": "Fotografie: Bilder des Tages",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/26/bilder-des-tages-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/26/bilder-des-tages",
+      "published": "Sat, 26 Sep 2026 17:02:34 -0000",
+      "published_display": "26.09.2026 · 17:02 Uhr"
+    },
+    {
+      "title": "Raketenfehlalarm: 26 09 83",
+      "summary": "26. September 1983: Das sowjetische Raketen-Frühwarnsystem meldet einen atomaren Erstschlag der USA. Der dritte Weltkrieg? Nur ein Offizier traute der Maschine nicht.",
+      "image": "https://img.zeit.de/zeit-wissen/2026/03/26-09-83-bild-3/original__640x360",
+      "link": "https://www.zeit.de/zeit-wissen/2026/03/rakete-fehlalarm-1983-sowjetunion-stanislaw-petrow",
+      "published": "Sat, 26 Sep 2026 16:56:49 -0000",
+      "published_display": "26.09.2026 · 16:56 Uhr"
+    },
     {
       "title": "Staatsbesuch: China und USA richten KI-Kommunikationskanal ein",
       "summary": "",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/26/motorradfahrer-bei-unfall-mit-reh-schwer-verletzt",
       "published": "Sat, 26 Sep 2026 16:14:19 -0000",
       "published_display": "26.09.2026 · 16:14 Uhr"
-    },
-    {
-      "title": "Ins Klinikum gebracht: Vorfahrt genommen - Motorradfahrer schwer verletzt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/26/vorfahrt-genommen-motorradfahrer-schwer-verletzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/26/vorfahrt-genommen-motorradfahrer-schwer-verletzt",
-      "published": "Sat, 26 Sep 2026 15:59:37 -0000",
-      "published_display": "26.09.2026 · 15:59 Uhr"
-    },
-    {
-      "title": "Erinnerung an Überfüllung: Hoher Besucherandrang auf dem Oktoberfest",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/26/hoher-besucherandrang-auf-dem-oktoberfest-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/26/hoher-besucherandrang-auf-dem-oktoberfest",
-      "published": "Sat, 26 Sep 2026 15:56:18 -0000",
-      "published_display": "26.09.2026 · 15:56 Uhr"
-    },
-    {
-      "title": "Wahrzeichen Roms: Kolosseum nach Todessturz wieder offen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/26/kolosseum-nach-todessturz-wieder-offen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/26/kolosseum-nach-todessturz-wieder-offen",
-      "published": "Sat, 26 Sep 2026 15:52:33 -0000",
-      "published_display": "26.09.2026 · 15:52 Uhr"
     }
   ]
 }
