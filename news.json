@@ -1,7 +1,47 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-26T17:54:35.123385+00:00",
+  "updated": "2026-09-26T18:19:54.629636+00:00",
   "items": [
+    {
+      "title": "Künstliche Intelligenz: OpenAI prüft unerwünschtes Verhalten von KI-Agenten",
+      "summary": "Mehrfach haben KI-Agenten auf Websites und Daten zugegriffen, ohne dass OpenAI davon wusste. Jüngst wurde ein Zugriff auf US-Regierungsdaten bekannt.",
+      "image": "https://img.zeit.de/digital/2026-09/openai-ki-agenten-daten-zugriff-sec-investor-gov-foto-1/original__640x360",
+      "link": "https://www.zeit.de/digital/2026-09/openai-ki-agenten-daten-zugriff-sec-investor-gov",
+      "published": "Sat, 26 Sep 2026 18:18:30 -0000",
+      "published_display": "26.09.2026 · 18:18 Uhr"
+    },
+    {
+      "title": "Bundesliga: Kiel und Flensburg teilen im 117. Derby die Punkte",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/26/kiel-und-flensburg-teilen-im-117-derby-die-punkte-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/26/kiel-und-flensburg-teilen-im-117-derby-die-punkte",
+      "published": "Sat, 26 Sep 2026 18:12:40 -0000",
+      "published_display": "26.09.2026 · 18:12 Uhr"
+    },
+    {
+      "title": "Tödlicher Konflikt: Mord beim Segeltrip? Streit auf Boot eskaliert",
+      "summary": "Zwei Freunde gehen gemeinsam segeln. Nach einem heftigen Streit stirbt einer von ihnen – der andere wird wegen Mordes angeklagt. Hat er seinen Freund wirklich getötet?",
+      "image": "https://img.zeit.de/video/2026-09/toedlicher-konflikt-freundschaft-segeln-verbrechen-videopodcast-foto/original__640x360",
+      "link": "https://www.zeit.de/video/2026-09/toedlicher-konflikt-freundschaft-segeln-verbrechen-videopodcast",
+      "published": "Sat, 26 Sep 2026 17:57:29 -0000",
+      "published_display": "26.09.2026 · 17:57 Uhr"
+    },
+    {
+      "title": "Musik: Rapper Danger Dan spricht über Coming-out",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/26/rapper-danger-dan-spricht-ueber-coming-out-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/26/rapper-danger-dan-spricht-ueber-coming-out",
+      "published": "Sat, 26 Sep 2026 17:56:21 -0000",
+      "published_display": "26.09.2026 · 17:56 Uhr"
+    },
+    {
+      "title": "Künstliche Intelligenz: Die KI sagt: »Dieser Autor macht sich zum Versuchskaninchen«",
+      "summary": "Für Journalisten ist KI eine Muse und ein furchtbarer Besserwisser zugleich. Sie hilft und kopiert uns. Wir sollten diese freundlichen Monsterrechner nicht unterschätzen.",
+      "image": "https://img.zeit.de/feuilleton/2026-09/kuenstliche-intelligenz-chatbots-redaktion-sorge/original__640x360",
+      "link": "https://www.zeit.de/feuilleton/2026-09/kuenstliche-intelligenz-chatbots-redaktion-sorge-zukunft",
+      "published": "Sat, 26 Sep 2026 17:55:29 -0000",
+      "published_display": "26.09.2026 · 17:55 Uhr"
+    },
     {
       "title": "Champagner: »Für Mutti wäre der jetzt zu trocken«",
       "summary": "Manchmal muss es echter Schampus sein: Die Sommelière Sharin Polte testet Winzer-Champagner, von gefällig bis anspruchsvoll. Und verrät, was man mindestens zahlen sollte.",
@@ -17,14 +57,6 @@
       "link": "https://www.zeit.de/politik/ausland/2026-09/sergej-lawrow-vereinte-nationen-generalversammlung-rede-ukraine",
       "published": "Sat, 26 Sep 2026 17:47:35 -0000",
       "published_display": "26.09.2026 · 17:47 Uhr"
-    },
-    {
-      "title": "Musik: Rapper Danger Dan spricht über Coming-out",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/26/rapper-danger-dan-spricht-ueber-coming-out-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/26/rapper-danger-dan-spricht-ueber-coming-out",
-      "published": "Sat, 26 Sep 2026 17:33:09 -0000",
-      "published_display": "26.09.2026 · 17:33 Uhr"
     },
     {
       "title": "Jubiläumsspiel gegen Real: 100 Jahre Weserstadion: Rehhagel feiert Trainer-Comeback",
@@ -89,38 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/26/deutscher-wandertag-endet-mit-festumzug-und-bergparade",
       "published": "Sat, 26 Sep 2026 16:39:33 -0000",
       "published_display": "26.09.2026 · 16:39 Uhr"
-    },
-    {
-      "title": "Tennis: Zverev verpasst Führung für Team Europa beim Laver Cup",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/26/zverev-verpasst-fuehrung-fuer-team-europa-beim-laver-cup-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/26/zverev-verpasst-fuehrung-fuer-team-europa-beim-laver-cup",
-      "published": "Sat, 26 Sep 2026 16:37:10 -0000",
-      "published_display": "26.09.2026 · 16:37 Uhr"
-    },
-    {
-      "title": "Migration: Dobrindt will Frontex deutlich stärken",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/26/dobrindt-will-frontex-deutlich-staerken-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/26/dobrindt-will-frontex-deutlich-staerken",
-      "published": "Sat, 26 Sep 2026 16:35:07 -0000",
-      "published_display": "26.09.2026 · 16:35 Uhr"
-    },
-    {
-      "title": "Katastrophenschutz: Hunderte Einsatzkräfte trainieren Versorgung im Angriffsfall",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/26/hunderte-einsatzkraefte-trainieren-versorgung-im-angriffsfall-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/26/hunderte-einsatzkraefte-trainieren-versorgung-im-angriffsfall",
-      "published": "Sat, 26 Sep 2026 16:18:47 -0000",
-      "published_display": "26.09.2026 · 16:18 Uhr"
-    },
-    {
-      "title": "Landesübungstag: Rheinland-Pfalz macht den Katastrophen-Check",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/26/rheinland-pfalz-macht-den-katastrophen-check-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/26/rheinland-pfalz-macht-den-katastrophen-check",
-      "published": "Sat, 26 Sep 2026 16:16:27 -0000",
-      "published_display": "26.09.2026 · 16:16 Uhr"
     }
   ]
 }
