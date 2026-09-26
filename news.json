@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-26T16:43:46.729594+00:00",
+  "updated": "2026-09-26T16:55:12.686066+00:00",
   "items": [
+    {
+      "title": "Staatsbesuch: China und USA richten KI-Kommunikationskanal ein",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/26/china-und-usa-richten-ki-kommunikationskanal-ein-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/26/china-und-usa-richten-ki-kommunikationskanal-ein",
+      "published": "Sat, 26 Sep 2026 16:42:17 -0000",
+      "published_display": "26.09.2026 · 16:42 Uhr"
+    },
     {
       "title": "Debatte über Krankenkassen: So ließe sich das Zweiklassensystem abschaffen",
       "summary": "Als Kassenpatient wartet man beim Arzt oft wochenlang. Kanzler Merz will das ändern. Wie ließe sich das System beenden? Drei Vorschläge",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/26/kolosseum-nach-todessturz-wieder-offen",
       "published": "Sat, 26 Sep 2026 15:52:33 -0000",
       "published_display": "26.09.2026 · 15:52 Uhr"
-    },
-    {
-      "title": "Kanzlerkrise: CDU Mühlenbecker Land schreibt Brandbrief an Merz",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/26/cdu-muehlenbecker-land-schreibt-brandbrief-an-merz-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/26/cdu-muehlenbecker-land-schreibt-brandbrief-an-merz",
-      "published": "Sat, 26 Sep 2026 15:50:51 -0000",
-      "published_display": "26.09.2026 · 15:50 Uhr"
     }
   ]
 }
