@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-26T11:15:53.667714+00:00",
+  "updated": "2026-09-26T11:28:02.005778+00:00",
   "items": [
+    {
+      "title": "Unfall: Mann stirbt bei Frontalcrash nahe Mettlach",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/26/mann-stirbt-bei-frontalcrash-nahe-mettlach-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/26/mann-stirbt-bei-frontalcrash-nahe-mettlach",
+      "published": "Sat, 26 Sep 2026 11:21:53 -0000",
+      "published_display": "26.09.2026 · 11:21 Uhr"
+    },
+    {
+      "title": "Schwerer Unfall: Autofahrerin prallt gegen Baum – lebensgefährlich verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/26/autofahrerin-prallt-gegen-baum-lebensgefaehrlich-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/26/autofahrerin-prallt-gegen-baum-lebensgefaehrlich-verletzt",
+      "published": "Sat, 26 Sep 2026 11:21:40 -0000",
+      "published_display": "26.09.2026 · 11:21 Uhr"
+    },
+    {
+      "title": "Spielstätte: Potsdams Hans Otto Theater feiert 20 Jahre Neubau am See",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/26/potsdams-hans-otto-theater-feiert-20-jahre-neubau-am-see-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/26/potsdams-hans-otto-theater-feiert-20-jahre-neubau-am-see",
+      "published": "Sat, 26 Sep 2026 11:15:16 -0000",
+      "published_display": "26.09.2026 · 11:15 Uhr"
+    },
     {
       "title": "Vulkan Ätna: Flugverkehr auf Sizilien wegen Vulkanasche geschlossen",
       "summary": "Flugzeuge können in Catania wegen aufsteigender Vulkanasche weder starten noch landen. Die Wolke reichte bis zu vier Kilometer aus dem Krater in den Himmel.",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/26/aetna-aschewolke-legt-flughafen-auf-sizilien-lahm",
       "published": "Sat, 26 Sep 2026 10:46:17 -0000",
       "published_display": "26.09.2026 · 10:46 Uhr"
-    },
-    {
-      "title": "Ladung nicht gesichert: Matratze fällt von Anhänger – Motorradfahrer stürzt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/26/matratze-faellt-von-anhaenger-motorradfahrer-stuerzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/26/matratze-faellt-von-anhaenger-motorradfahrer-stuerzt",
-      "published": "Sat, 26 Sep 2026 10:44:41 -0000",
-      "published_display": "26.09.2026 · 10:44 Uhr"
-    },
-    {
-      "title": "Semesterstart am 1. Oktober: Von Bevölkerungsschutz bis Trauer: Wintersemester beginnt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/26/von-bevoelkerungsschutz-bis-trauer-wintersemester-beginnt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/26/von-bevoelkerungsschutz-bis-trauer-wintersemester-beginnt",
-      "published": "Sat, 26 Sep 2026 10:41:20 -0000",
-      "published_display": "26.09.2026 · 10:41 Uhr"
-    },
-    {
-      "title": "Ukraine-Krieg: Selenskyj: Tote und Verletzte durch russische Angriffe",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/26/selenskyj-tote-und-verletzte-durch-russische-angriffe-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/26/selenskyj-tote-und-verletzte-durch-russische-angriffe",
-      "published": "Sat, 26 Sep 2026 10:38:06 -0000",
-      "published_display": "26.09.2026 · 10:38 Uhr"
     }
   ]
 }
