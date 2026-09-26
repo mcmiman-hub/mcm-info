@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-26T19:54:49.663560+00:00",
+  "updated": "2026-09-26T20:16:25.875146+00:00",
   "items": [
+    {
+      "title": "Johann Wadephul: Ein außenpolitisches Lebenszeichen",
+      "summary": "Die deutsche Außenpolitik hat an Einfluss verloren. Dann trifft Johann Wadephul überraschend Russlands Außenminister Lawrow. Über ein Treffen, in dem jede Geste zählt.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/un-erstes-bilaterales-treffen-mit-lawrow-wadephul-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/johann-wadephul-sergej-lawrow-un-treffen",
+      "published": "Sat, 26 Sep 2026 20:08:08 -0000",
+      "published_display": "26.09.2026 · 20:08 Uhr"
+    },
+    {
+      "title": "Psychotherapie: Was gegen Angst hilft. Und gegen Depressionen. Und Zwangsstörungen",
+      "summary": "David Barlow gilt als einer der einflussreichsten Psychologen der vergangenen 50 Jahre. Er sagt: Viele Störungen haben eins gemeinsam. Daher helfe auch dieselbe Therapie.",
+      "image": "https://img.zeit.de/2026/37/was-gegen-angst-hilft-und-gegen-depressionen-und-zwangsstoerungen-bild-1/original__640x360",
+      "link": "https://www.zeit.de/2026/37/unified-protocol-david-barlow-angststoerungen-therapie",
+      "published": "Sat, 26 Sep 2026 20:00:32 -0000",
+      "published_display": "26.09.2026 · 20:00 Uhr"
+    },
+    {
+      "title": "Vereinte Nationen: Treffen am Rande der UN: Wadephul und Lawrow bleiben uneins",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/26/wadephul-trifft-lawrow-in-new-york-zu-gespraechen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/26/wadephul-trifft-lawrow-in-new-york-zu-gespraechen",
+      "published": "Sat, 26 Sep 2026 19:57:54 -0000",
+      "published_display": "26.09.2026 · 19:57 Uhr"
+    },
     {
       "title": "Darmstadt: Gegendemo bei «Reichsbürger»-Treffen in der Überzahl",
       "summary": "",
@@ -29,7 +53,7 @@
     {
       "title": "Regierungsbildung in Sachsen-Anhalt: BSW-Chefin weiter offen für Kooperation mit der AfD in Sachsen-Anhalt",
       "summary": "Das BSW in Sachsen-Anhalt will weiter mit allen Parteien zusammenarbeiten, auch mit der AfD. »Wir werden nach Inhalten entscheiden«, sagte Bundesvorsitzende Mohamed Ali.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/bsw-sachsen-anhalt-amira-mohamed-ali-regierungsbildung-afd-foto-1/original__640x360",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/amira-mohamed-ali-bsw-sachsen-anhalt-bild/original__640x360",
       "link": "https://www.zeit.de/politik/deutschland/2026-09/bsw-sachsen-anhalt-amira-mohamed-ali-regierungsbildung-afd",
       "published": "Sat, 26 Sep 2026 19:35:32 -0000",
       "published_display": "26.09.2026 · 19:35 Uhr"
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/26/first-lady-buedenbender-bei-ehrung-von-junghandwerkern-2026",
       "published": "Sat, 26 Sep 2026 18:41:48 -0000",
       "published_display": "26.09.2026 · 18:41 Uhr"
-    },
-    {
-      "title": "Bundesliga: Kiel und Flensburg teilen im 117. Derby die Punkte",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/26/kiel-und-flensburg-teilen-im-117-derby-die-punkte-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/26/kiel-und-flensburg-teilen-im-117-derby-die-punkte",
-      "published": "Sat, 26 Sep 2026 18:39:05 -0000",
-      "published_display": "26.09.2026 · 18:39 Uhr"
-    },
-    {
-      "title": "Wahlen: Berliner SPD will mit Linken über Regierungsbildung sprechen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/26/berliner-spd-will-mit-linken-ueber-regierungsbildung-sprechen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/26/berliner-spd-will-mit-linken-ueber-regierungsbildung-sprechen",
-      "published": "Sat, 26 Sep 2026 18:36:48 -0000",
-      "published_display": "26.09.2026 · 18:36 Uhr"
-    },
-    {
-      "title": "Demo für queere Rechte: Mit Musikstar-Auftritt: Friedliche CSD-Party in Görlitz",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/26/mit-musikstar-auftritt-friedliche-csd-party-in-goerlitz-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/26/mit-musikstar-auftritt-friedliche-csd-party-in-goerlitz",
-      "published": "Sat, 26 Sep 2026 18:33:39 -0000",
-      "published_display": "26.09.2026 · 18:33 Uhr"
     }
   ]
 }
