@@ -1,7 +1,87 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-26T02:55:32.283840+00:00",
+  "updated": "2026-09-26T03:16:50.300343+00:00",
   "items": [
+    {
+      "title": "Alabama: TikTok legt Rechtsstreit gegen Zahlung von 100 Millionen Dollar bei",
+      "summary": "Die Videoplattform TikTok wendet einen weiteren Prozess mit einem Vergleich ab. Mindestens 100 Millionen Dollar muss das Unternehmen dafür zahlen.",
+      "image": "https://img.zeit.de/digital/2026-09/file-photo-teenagers-look-at-their-mobile-phone-screens-in-paris-bild/original__640x360",
+      "link": "https://www.zeit.de/digital/2026-09/tiktok-usa-alabama-rechtsstreit-vergleich",
+      "published": "Sat, 26 Sep 2026 03:13:08 -0000",
+      "published_display": "26.09.2026 · 03:13 Uhr"
+    },
+    {
+      "title": "Tag der Deutschen Einheit: Ausnahmezustand fürs große Fest - Blick hinter die Kulissen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/26/ausnahmezustand-fuers-grosse-fest-blick-hinter-die-kulissen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/26/ausnahmezustand-fuers-grosse-fest-blick-hinter-die-kulissen",
+      "published": "Sat, 26 Sep 2026 03:00:17 -0000",
+      "published_display": "26.09.2026 · 03:00 Uhr"
+    },
+    {
+      "title": "Tiere: Ausstellung zeigt NRW als Heimat von Urzeit-Walen und Haien",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/26/ausstellung-zeigt-nrw-als-heimat-von-urzeit-walen-und-haien-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/26/ausstellung-zeigt-nrw-als-heimat-von-urzeit-walen-und-haien",
+      "published": "Sat, 26 Sep 2026 03:00:14 -0000",
+      "published_display": "26.09.2026 · 03:00 Uhr"
+    },
+    {
+      "title": "Bildung: Skikompaktkurse gehören für viele Schüler weiter dazu",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/26/skikompaktkurse-gehoeren-fuer-viele-schueler-weiter-dazu-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/26/skikompaktkurse-gehoeren-fuer-viele-schueler-weiter-dazu",
+      "published": "Sat, 26 Sep 2026 03:00:12 -0000",
+      "published_display": "26.09.2026 · 03:00 Uhr"
+    },
+    {
+      "title": "Vor der Entscheidung: Das sind die Stärken und Schwächen der zwei Olympia-Bewerber",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/26/das-sind-die-staerken-und-schwaechen-der-zwei-olympia-bewerber-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/26/das-sind-die-staerken-und-schwaechen-der-zwei-olympia-bewerber",
+      "published": "Sat, 26 Sep 2026 03:00:12 -0000",
+      "published_display": "26.09.2026 · 03:00 Uhr"
+    },
+    {
+      "title": "Mit Zustimmung der Verbraucher: Pakete landen immer häufiger vor der Haustür",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/26/pakete-landen-immer-haeufiger-vor-der-haustuer-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/26/pakete-landen-immer-haeufiger-vor-der-haustuer",
+      "published": "Sat, 26 Sep 2026 03:00:10 -0000",
+      "published_display": "26.09.2026 · 03:00 Uhr"
+    },
+    {
+      "title": "Ernährung: Experten warnen vor Risiken bei Nahrungsergänzungsmitteln",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/26/experten-warnen-vor-risiken-bei-nahrungsergaenzungsmitteln-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/26/experten-warnen-vor-risiken-bei-nahrungsergaenzungsmitteln",
+      "published": "Sat, 26 Sep 2026 03:00:06 -0000",
+      "published_display": "26.09.2026 · 03:00 Uhr"
+    },
+    {
+      "title": "Wetter: Die Sonne gibt noch mal Vollgas: bis zu 31 Grad im Südwesten",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/26/die-sonne-gibt-noch-mal-vollgas-bis-zu-31-grad-im-suedwesten-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/26/die-sonne-gibt-noch-mal-vollgas-bis-zu-31-grad-im-suedwesten",
+      "published": "Sat, 26 Sep 2026 03:00:05 -0000",
+      "published_display": "26.09.2026 · 03:00 Uhr"
+    },
+    {
+      "title": "Meta und Cambridge Analytica: Facebook-Mutterkonzern Meta erleidet Niederlage vor Gericht",
+      "summary": "Vor acht Jahren war Facebook in einen weitreichenden Datenschutz-Skandal verwickelt. Jetzt hat der Mutterkonzern Meta vor Gericht verloren – was teuer werden könne.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/meta-connect-event-at-the-company-s-headquarters-in-menlo-park-california-bild/original__640x360",
+      "link": "https://www.zeit.de/digital/2026-09/meta-cambridge-analytica-datenschutz-skandal-urteil-new-mexico",
+      "published": "Sat, 26 Sep 2026 02:57:15 -0000",
+      "published_display": "26.09.2026 · 02:57 Uhr"
+    },
+    {
+      "title": "Künstliche Intelligenz: KI von OpenAI lud Nutzer-Bilder zu Online-Plattformen hoch",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/26/ki-von-openai-lud-nutzer-bilder-zu-online-plattformen-hoch-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/26/ki-von-openai-lud-nutzer-bilder-zu-online-plattformen-hoch",
+      "published": "Sat, 26 Sep 2026 02:55:54 -0000",
+      "published_display": "26.09.2026 · 02:55 Uhr"
+    },
     {
       "title": "Unfälle: Auto fährt Steilhang runter - vier Verletzte",
       "summary": "",
@@ -41,86 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/26/so-warm-wird-es-am-wochenende",
       "published": "Sat, 26 Sep 2026 02:25:04 -0000",
       "published_display": "26.09.2026 · 02:25 Uhr"
-    },
-    {
-      "title": "Unfälle: Vier Schwerverletzte bei Unfall mit Bus - Fahrerflucht",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/26/vier-schwerverletzte-bei-unfall-mit-bus-fahrerflucht-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/26/vier-schwerverletzte-bei-unfall-mit-bus-fahrerflucht",
-      "published": "Sat, 26 Sep 2026 02:22:11 -0000",
-      "published_display": "26.09.2026 · 02:22 Uhr"
-    },
-    {
-      "title": "Trumps Krach mit Medien: Streit geht weiter: CNN darf Trump nicht auf Reise begleiten",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/26/streit-geht-weiter-cnn-darf-trump-nicht-auf-reise-begleiten-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/26/streit-geht-weiter-cnn-darf-trump-nicht-auf-reise-begleiten",
-      "published": "Sat, 26 Sep 2026 02:15:49 -0000",
-      "published_display": "26.09.2026 · 02:15 Uhr"
-    },
-    {
-      "title": "Berühmter Bauingenieur: Ufo-Turm und «Taucherhelm» - Müther-Woche auf Rügen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/26/ufo-turm-und-taucherhelm-muether-woche-auf-ruegen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/26/ufo-turm-und-taucherhelm-muether-woche-auf-ruegen",
-      "published": "Sat, 26 Sep 2026 02:15:05 -0000",
-      "published_display": "26.09.2026 · 02:15 Uhr"
-    },
-    {
-      "title": "Blumentradition: Die «Königin des Herbstes» hält Hof in Thüringen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/26/die-koenigin-des-herbstes-haelt-hof-in-thueringen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/26/die-koenigin-des-herbstes-haelt-hof-in-thueringen",
-      "published": "Sat, 26 Sep 2026 02:00:27 -0000",
-      "published_display": "26.09.2026 · 02:00 Uhr"
-    },
-    {
-      "title": "Böden zu trocken: Schwacher Start in Pilzsaison: Worauf Sammler achten sollten",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/26/schwacher-start-in-pilzsaison-worauf-sammler-achten-sollten-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/26/schwacher-start-in-pilzsaison-worauf-sammler-achten-sollten",
-      "published": "Sat, 26 Sep 2026 02:00:23 -0000",
-      "published_display": "26.09.2026 · 02:00 Uhr"
-    },
-    {
-      "title": "Demonstrationen: DGB erwartet Tausende beim Aktionstag gegen Sozialabbau",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/26/dgb-erwartet-tausende-beim-aktionstag-gegen-sozialabbau-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/26/dgb-erwartet-tausende-beim-aktionstag-gegen-sozialabbau",
-      "published": "Sat, 26 Sep 2026 02:00:22 -0000",
-      "published_display": "26.09.2026 · 02:00 Uhr"
-    },
-    {
-      "title": "Landkreis Böblingen: In Leonberg stinkt's immer noch – und niemand weiß warum",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/26/in-leonberg-stinkt-s-immer-noch-und-niemand-weiss-warum-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/26/in-leonberg-stinkt-s-immer-noch-und-niemand-weiss-warum",
-      "published": "Sat, 26 Sep 2026 02:00:21 -0000",
-      "published_display": "26.09.2026 · 02:00 Uhr"
-    },
-    {
-      "title": "Gibt es außerirdisches Leben?: Saturn-Mond: Bedingungen für Leben günstiger als angenommen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/26/saturn-mond-bedingungen-fuer-leben-guenstiger-als-angenommen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/26/saturn-mond-bedingungen-fuer-leben-guenstiger-als-angenommen",
-      "published": "Sat, 26 Sep 2026 02:00:15 -0000",
-      "published_display": "26.09.2026 · 02:00 Uhr"
-    },
-    {
-      "title": "Qualmen im Festzelt: Wasen und Wiesn - So ist die Regel fürs Rauchen im Festzelt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/26/wasen-und-wiesn-so-ist-die-regel-fuers-rauchen-im-festzelt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/26/wasen-und-wiesn-so-ist-die-regel-fuers-rauchen-im-festzelt",
-      "published": "Sat, 26 Sep 2026 02:00:14 -0000",
-      "published_display": "26.09.2026 · 02:00 Uhr"
-    },
-    {
-      "title": "«Nancy Grace Roman»-Teleskop: Mit Technologie aus Jena das Weltall erkunden",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/26/mit-technologie-aus-jena-das-weltall-erkunden-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/26/mit-technologie-aus-jena-das-weltall-erkunden",
-      "published": "Sat, 26 Sep 2026 02:00:13 -0000",
-      "published_display": "26.09.2026 · 02:00 Uhr"
     }
   ]
 }
