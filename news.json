@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-26T19:41:33.090013+00:00",
+  "updated": "2026-09-26T19:54:49.663560+00:00",
   "items": [
+    {
+      "title": "Darmstadt: Gegendemo bei «Reichsbürger»-Treffen in der Überzahl",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/26/gegendemo-bei-reichsbuerger-treffen-in-der-ueberzahl-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/26/gegendemo-bei-reichsbuerger-treffen-in-der-ueberzahl",
+      "published": "Sat, 26 Sep 2026 19:50:24 -0000",
+      "published_display": "26.09.2026 · 19:50 Uhr"
+    },
+    {
+      "title": "Handball: SC Magdeburg schlägt Bietigheim klar",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/26/sc-magdeburg-schlaegt-bietigheim-klar-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/26/sc-magdeburg-schlaegt-bietigheim-klar",
+      "published": "Sat, 26 Sep 2026 19:46:48 -0000",
+      "published_display": "26.09.2026 · 19:46 Uhr"
+    },
     {
       "title": "Fußball-Testspiele: Union siegt bei Abschied von Legende Kreilach",
       "summary": "",
@@ -13,7 +29,7 @@
     {
       "title": "Regierungsbildung in Sachsen-Anhalt: BSW-Chefin weiter offen für Kooperation mit der AfD in Sachsen-Anhalt",
       "summary": "Das BSW in Sachsen-Anhalt will weiter mit allen Parteien zusammenarbeiten, auch mit der AfD. »Wir werden nach Inhalten entscheiden«, sagte Bundesvorsitzende Mohamed Ali.",
-      "image": "https://img.zeit.de/administratives/sharing/fallback-image-die-zeit/wide__1300x731",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/bsw-sachsen-anhalt-amira-mohamed-ali-regierungsbildung-afd-foto-1/original__640x360",
       "link": "https://www.zeit.de/politik/deutschland/2026-09/bsw-sachsen-anhalt-amira-mohamed-ali-regierungsbildung-afd",
       "published": "Sat, 26 Sep 2026 19:35:32 -0000",
       "published_display": "26.09.2026 · 19:35 Uhr"
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/26/mit-musikstar-auftritt-friedliche-csd-party-in-goerlitz",
       "published": "Sat, 26 Sep 2026 18:33:39 -0000",
       "published_display": "26.09.2026 · 18:33 Uhr"
-    },
-    {
-      "title": "Jubiläumsspiel gegen Real: 100 Jahre Weserstadion: Rehhagel feiert Trainer-Comeback",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/26/100-jahre-weserstadion-rehhagel-feiert-trainer-comeback-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/26/100-jahre-weserstadion-rehhagel-feiert-trainer-comeback",
-      "published": "Sat, 26 Sep 2026 18:31:35 -0000",
-      "published_display": "26.09.2026 · 18:31 Uhr"
-    },
-    {
-      "title": "Handball-Pokal: THW Kiel muss im Achtelfinale nach Lemgo reisen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/26/thw-kiel-muss-im-achtelfinale-nach-lemgo-reisen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/26/thw-kiel-muss-im-achtelfinale-nach-lemgo-reisen",
-      "published": "Sat, 26 Sep 2026 18:29:58 -0000",
-      "published_display": "26.09.2026 · 18:29 Uhr"
     }
   ]
 }
