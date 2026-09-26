@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-26T22:16:27.029280+00:00",
+  "updated": "2026-09-26T22:28:33.175530+00:00",
   "items": [
+    {
+      "title": "Künstliche Intelligenz: OpenAI pausiert KI-Training nach neuem Zwischenfall",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/openai-pausiert-ki-training-nach-neuem-zwischenfall-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/openai-pausiert-ki-training-nach-neuem-zwischenfall",
+      "published": "Sat, 26 Sep 2026 22:21:48 -0000",
+      "published_display": "26.09.2026 · 22:21 Uhr"
+    },
+    {
+      "title": "Verbraucher: Neue Label informieren Verbraucher über Rechte bei Problemen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/neue-label-informieren-verbraucher-ueber-rechte-bei-problemen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/neue-label-informieren-verbraucher-ueber-rechte-bei-problemen",
+      "published": "Sat, 26 Sep 2026 22:15:05 -0000",
+      "published_display": "26.09.2026 · 22:15 Uhr"
+    },
     {
       "title": "US-Flugzeugbauer: Neues Software-Problem bei Boeing 737 Max",
       "summary": "",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/26/wadephul-trifft-lawrow-in-new-york-zu-gespraechen",
       "published": "Sat, 26 Sep 2026 20:27:46 -0000",
       "published_display": "26.09.2026 · 20:27 Uhr"
-    },
-    {
-      "title": "Johann Wadephul: Ein außenpolitisches Lebenszeichen",
-      "summary": "Die deutsche Außenpolitik hat an Einfluss verloren. Dann trifft Johann Wadephul überraschend Russlands Außenminister Lawrow. Über ein Treffen, in dem jede Geste zählt.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/un-erstes-bilaterales-treffen-mit-lawrow-wadephul-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/johann-wadephul-sergej-lawrow-un-treffen",
-      "published": "Sat, 26 Sep 2026 20:08:08 -0000",
-      "published_display": "26.09.2026 · 20:08 Uhr"
-    },
-    {
-      "title": "Psychotherapie: Was gegen Angst hilft. Und gegen Depressionen. Und Zwangsstörungen",
-      "summary": "David Barlow gilt als einer der einflussreichsten Psychologen der vergangenen 50 Jahre. Er sagt: Viele Störungen haben eins gemeinsam. Daher helfe auch dieselbe Therapie.",
-      "image": "https://img.zeit.de/2026/37/was-gegen-angst-hilft-und-gegen-depressionen-und-zwangsstoerungen-bild-1/original__640x360",
-      "link": "https://www.zeit.de/2026/37/unified-protocol-david-barlow-angststoerungen-therapie",
-      "published": "Sat, 26 Sep 2026 20:00:32 -0000",
-      "published_display": "26.09.2026 · 20:00 Uhr"
     }
   ]
 }
