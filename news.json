@@ -1,7 +1,63 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-26T12:49:04.082640+00:00",
+  "updated": "2026-09-26T12:58:13.186370+00:00",
   "items": [
+    {
+      "title": "Koalition: Miersch droht mit Stopp von Linnemanns Pflegeplänen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/26/spd-will-bei-pflegereform-leistungskuerzung-verhindern-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/26/spd-will-bei-pflegereform-leistungskuerzung-verhindern",
+      "published": "Sat, 26 Sep 2026 12:55:51 -0000",
+      "published_display": "26.09.2026 · 12:55 Uhr"
+    },
+    {
+      "title": "Olympische Spiele: DOSB schickt München als Olympia-Bewerber ins Rennen",
+      "summary": "München bewirbt sich um die Ausrichtung der Olympischen Spiele und Paralympics 2036, 2040 oder 2044. Die bayerische Hauptstadt setzte sich gegen Köln-Rhein-Ruhr durch.",
+      "image": "https://img.zeit.de/sport/2026-09/olympiade-deutschland-muenchen-2/original__640x360",
+      "link": "https://www.zeit.de/sport/2026-09/deutscher-olympischer-sportbund-muenchen-bewerber",
+      "published": "Sat, 26 Sep 2026 12:55:30 -0000",
+      "published_display": "26.09.2026 · 12:55 Uhr"
+    },
+    {
+      "title": "Kriminalität: 66-Jähriger stirbt durch äußere Gewalteinwirkung",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/26/66-jaehriger-stirbt-durch-aeussere-gewalteinwirkung-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/26/66-jaehriger-stirbt-durch-aeussere-gewalteinwirkung",
+      "published": "Sat, 26 Sep 2026 12:54:53 -0000",
+      "published_display": "26.09.2026 · 12:54 Uhr"
+    },
+    {
+      "title": "Im Duell mit Köln-Rhein-Ruhr: München ist deutscher Kandidat für Olympia",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/26/muenchen-ist-deutscher-kandidat-fuer-olympia-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/26/muenchen-ist-deutscher-kandidat-fuer-olympia",
+      "published": "Sat, 26 Sep 2026 12:53:31 -0000",
+      "published_display": "26.09.2026 · 12:53 Uhr"
+    },
+    {
+      "title": "Proteste: Tausende demonstrieren in Essen gegen Sozialabbau",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/26/tausende-demonstrieren-in-essen-gegen-sozialabbau-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/26/tausende-demonstrieren-in-essen-gegen-sozialabbau",
+      "published": "Sat, 26 Sep 2026 12:52:22 -0000",
+      "published_display": "26.09.2026 · 12:52 Uhr"
+    },
+    {
+      "title": "Auszeichnung: Bio-Preis für Balsamico und Lammfleischerzeugung",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/26/bio-preis-fuer-balsamico-und-lammfleischerzeugung-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/26/bio-preis-fuer-balsamico-und-lammfleischerzeugung",
+      "published": "Sat, 26 Sep 2026 12:50:18 -0000",
+      "published_display": "26.09.2026 · 12:50 Uhr"
+    },
+    {
+      "title": "Schwerer Unfall: Sechs Verletzte auf B404 – auch Kleinkind betroffen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/26/sechs-verletzte-auf-b404-auch-kleinkind-betroffen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/26/sechs-verletzte-auf-b404-auch-kleinkind-betroffen",
+      "published": "Sat, 26 Sep 2026 12:50:16 -0000",
+      "published_display": "26.09.2026 · 12:50 Uhr"
+    },
     {
       "title": "Kiel statt Rostock: Hoffen auf Olympia: Kiel ist deutscher Segel-Kandidat",
       "summary": "",
@@ -27,14 +83,6 @@
       "published_display": "26.09.2026 · 12:44 Uhr"
     },
     {
-      "title": "Im Duell mit Köln-Rhein-Ruhr: München ist deutscher Kandidat für Olympia",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/26/muenchen-ist-deutscher-kandidat-fuer-olympia-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/26/muenchen-ist-deutscher-kandidat-fuer-olympia",
-      "published": "Sat, 26 Sep 2026 12:44:10 -0000",
-      "published_display": "26.09.2026 · 12:44 Uhr"
-    },
-    {
       "title": "Fahndung: Leipziger Polizei sucht nach geflohenem Strafgefangenen",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-09/26/leipziger-polizei-sucht-nach-geflohenem-strafgefangenen-image-group/original__640x360",
@@ -48,14 +96,6 @@
       "image": "https://img.zeit.de/administratives/sharing/fallback-image-die-zeit/wide__1300x731",
       "link": "https://www.zeit.de/news/2026-09/26/muenchen-ist-deutscher-bewerber-fuer-olympische-spiele",
       "published": "Sat, 26 Sep 2026 12:43:03 -0000",
-      "published_display": "26.09.2026 · 12:43 Uhr"
-    },
-    {
-      "title": "DOSB schickt München als Olympia-Bewerber ins Rennen",
-      "summary": "",
-      "image": "https://img.zeit.de/administratives/eilmeldung/fallback-bild/original__640x360",
-      "link": "https://www.zeit.de/sport/2026-09/deutscher-olympischer-sportbund-muenchen-bewerber",
-      "published": "Sat, 26 Sep 2026 12:43:01 -0000",
       "published_display": "26.09.2026 · 12:43 Uhr"
     },
     {
@@ -81,46 +121,6 @@
       "link": "https://www.zeit.de/wirtschaft/2026-09/daniela-cavallo-vw-sozialpartnerschaft-autoindustrie-standorte-beschaeftigung",
       "published": "Sat, 26 Sep 2026 12:38:38 -0000",
       "published_display": "26.09.2026 · 12:38 Uhr"
-    },
-    {
-      "title": "Polizei ermittelt: Mann in Delmenhorst tödlich verletzt - Tötungsdelikt?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/26/mann-in-delmenhorst-toedlich-verletzt-toetungsdelikt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/26/mann-in-delmenhorst-toedlich-verletzt-toetungsdelikt",
-      "published": "Sat, 26 Sep 2026 12:36:28 -0000",
-      "published_display": "26.09.2026 · 12:36 Uhr"
-    },
-    {
-      "title": "Aktionstag: Tausende demonstrieren im Saarland für starken Sozialstaat",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/26/tausende-demonstrieren-im-saarland-fuer-starken-sozialstaat-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/26/tausende-demonstrieren-im-saarland-fuer-starken-sozialstaat",
-      "published": "Sat, 26 Sep 2026 12:34:30 -0000",
-      "published_display": "26.09.2026 · 12:34 Uhr"
-    },
-    {
-      "title": "»Pocket rescission«: Demokraten werfen Trump »Diebstahl am amerikanischen Volk« vor",
-      "summary": "Der US-Präsident will fast eine Milliarde Dollar an Staatsausgaben streichen. Das Geld war bereits genehmigt und sollte unter anderem an Initiativen für Diversität gehen.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/pocket-rescission-donald-trump-ausgabenstreichung-usa-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/pocket-rescission-donald-trump-ausgabenstreichung-usa",
-      "published": "Sat, 26 Sep 2026 12:33:22 -0000",
-      "published_display": "26.09.2026 · 12:33 Uhr"
-    },
-    {
-      "title": "Freizeitunfall: Kletterer von oberkörpergroßem Stein getroffen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/26/kletterer-von-oberkoerpergrossem-stein-getroffen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/26/kletterer-von-oberkoerpergrossem-stein-getroffen",
-      "published": "Sat, 26 Sep 2026 12:33:17 -0000",
-      "published_display": "26.09.2026 · 12:33 Uhr"
-    },
-    {
-      "title": "Proteste: Tausende demonstrieren in Essen gegen Sozialabbau",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/26/tausende-demonstrieren-in-essen-gegen-sozialabbau-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/26/tausende-demonstrieren-in-essen-gegen-sozialabbau",
-      "published": "Sat, 26 Sep 2026 12:30:49 -0000",
-      "published_display": "26.09.2026 · 12:30 Uhr"
     }
   ]
 }
