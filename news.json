@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-26T20:28:51.540618+00:00",
+  "updated": "2026-09-26T20:43:12.996353+00:00",
   "items": [
+    {
+      "title": "Jubiläum: 30 Jahre «Blaues Wunder» - Wolgaster Peenebrücke gefeiert",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/26/30-jahre-blaues-wunder-wolgaster-peenebruecke-gefeiert-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/26/30-jahre-blaues-wunder-wolgaster-peenebruecke-gefeiert",
+      "published": "Sat, 26 Sep 2026 20:33:32 -0000",
+      "published_display": "26.09.2026 · 20:33 Uhr"
+    },
+    {
+      "title": "UN-Generaldebatte: Außenminister Wadephul spricht sich für UN-Regelwerk für KI aus",
+      "summary": "Die UN sollen laut Johann Wadephul ein Rahmenwerk für die sichere KI-Entwicklung erarbeiten. Auch die Ukraine war Thema seiner Rede bei der UN-Vollversammlung.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/johann-wadephul-cdu-vereinte-nationen-kuenstliche-intelligenz-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/johann-wadephul-cdu-vereinte-nationen-kuenstliche-intelligenz",
+      "published": "Sat, 26 Sep 2026 20:31:14 -0000",
+      "published_display": "26.09.2026 · 20:31 Uhr"
+    },
+    {
+      "title": "Vereinte Nationen: Treffen am Rande der UN: Wadephul und Lawrow bleiben uneins",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/26/wadephul-trifft-lawrow-in-new-york-zu-gespraechen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/26/wadephul-trifft-lawrow-in-new-york-zu-gespraechen",
+      "published": "Sat, 26 Sep 2026 20:27:46 -0000",
+      "published_display": "26.09.2026 · 20:27 Uhr"
+    },
     {
       "title": "Johann Wadephul: Ein außenpolitisches Lebenszeichen",
       "summary": "Die deutsche Außenpolitik hat an Einfluss verloren. Dann trifft Johann Wadephul überraschend Russlands Außenminister Lawrow. Über ein Treffen, in dem jede Geste zählt.",
@@ -17,14 +41,6 @@
       "link": "https://www.zeit.de/2026/37/unified-protocol-david-barlow-angststoerungen-therapie",
       "published": "Sat, 26 Sep 2026 20:00:32 -0000",
       "published_display": "26.09.2026 · 20:00 Uhr"
-    },
-    {
-      "title": "Vereinte Nationen: Treffen am Rande der UN: Wadephul und Lawrow bleiben uneins",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/26/wadephul-trifft-lawrow-in-new-york-zu-gespraechen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/26/wadephul-trifft-lawrow-in-new-york-zu-gespraechen",
-      "published": "Sat, 26 Sep 2026 19:57:54 -0000",
-      "published_display": "26.09.2026 · 19:57 Uhr"
     },
     {
       "title": "Darmstadt: Gegendemo bei «Reichsbürger»-Treffen in der Überzahl",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/26/mann-in-koeln-angeschossen-fahndung-nach-verdaechtigen",
       "published": "Sat, 26 Sep 2026 18:48:23 -0000",
       "published_display": "26.09.2026 · 18:48 Uhr"
-    },
-    {
-      "title": "Nations League: Irische Nationalmannschaft votiert für Spiel gegen Israel",
-      "summary": "Die Mehrheit des irischen Kaders hat einen Boykott des Nations-League-Spiels gegen Israel abgelehnt. Einige Spieler hatten sich gegen eine Austragung ausgesprochen.",
-      "image": "https://img.zeit.de/sport/2026-09/irland-israel-fussball-nations-league-boykott-gaza-konflikt-foto-1/original__640x360",
-      "link": "https://www.zeit.de/sport/2026-09/irland-israel-fussball-nations-league-boykott-gaza-konflikt",
-      "published": "Sat, 26 Sep 2026 18:45:14 -0000",
-      "published_display": "26.09.2026 · 18:45 Uhr"
-    },
-    {
-      "title": "Handwerk: First Lady Büdenbender bei Ehrung von «Junghandwerkern 2026»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/26/first-lady-buedenbender-bei-ehrung-von-junghandwerkern-2026-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/26/first-lady-buedenbender-bei-ehrung-von-junghandwerkern-2026",
-      "published": "Sat, 26 Sep 2026 18:41:48 -0000",
-      "published_display": "26.09.2026 · 18:41 Uhr"
     }
   ]
 }
