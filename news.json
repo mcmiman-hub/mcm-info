@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-26T19:26:52.782640+00:00",
+  "updated": "2026-09-26T19:41:33.090013+00:00",
   "items": [
+    {
+      "title": "Fußball-Testspiele: Union siegt bei Abschied von Legende Kreilach",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/26/union-siegt-bei-abschied-von-legende-kreilach-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/26/union-siegt-bei-abschied-von-legende-kreilach",
+      "published": "Sat, 26 Sep 2026 19:36:57 -0000",
+      "published_display": "26.09.2026 · 19:36 Uhr"
+    },
+    {
+      "title": "Regierungsbildung in Sachsen-Anhalt: BSW-Chefin weiter offen für Kooperation mit der AfD in Sachsen-Anhalt",
+      "summary": "Das BSW in Sachsen-Anhalt will weiter mit allen Parteien zusammenarbeiten, auch mit der AfD. »Wir werden nach Inhalten entscheiden«, sagte Bundesvorsitzende Mohamed Ali.",
+      "image": "https://img.zeit.de/administratives/sharing/fallback-image-die-zeit/wide__1300x731",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/bsw-sachsen-anhalt-amira-mohamed-ali-regierungsbildung-afd",
+      "published": "Sat, 26 Sep 2026 19:35:32 -0000",
+      "published_display": "26.09.2026 · 19:35 Uhr"
+    },
     {
       "title": "Regierungsbildung in Berlin: Berliner SPD nimmt Einladung der Linken zu Sondierungsgesprächen an",
       "summary": "Der Landesvorstand der Berliner SPD will mit den Linken über eine Regierungsbeteiligung sprechen. Landeschef Steffen Krach sieht dafür »hohe Hürden«.",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/26/thw-kiel-muss-im-achtelfinale-nach-lemgo-reisen",
       "published": "Sat, 26 Sep 2026 18:29:58 -0000",
       "published_display": "26.09.2026 · 18:29 Uhr"
-    },
-    {
-      "title": "Alkohol während der Schwangerschaft: Sie ist Ärztin, sie ist schwanger, sie ist alkoholsüchtig",
-      "summary": "Anna wusste, dass sie schwanger ist, und trank trotzdem weiter. Ihre Geschichte zeigt, wie eine Frau mit ihrer Sucht kämpft, die stärker sein will als die Liebe zum Kind.",
-      "image": "https://img.zeit.de/familie/2026-09/alkohol-schwangerschaft-sucht-klinik/original__640x360",
-      "link": "https://www.zeit.de/familie/2026-09/alkohol-schwangerschaft-sucht-klinik-drogen",
-      "published": "Sat, 26 Sep 2026 18:21:11 -0000",
-      "published_display": "26.09.2026 · 18:21 Uhr"
-    },
-    {
-      "title": "Künstliche Intelligenz: OpenAI prüft unerwünschtes Verhalten von KI-Agenten",
-      "summary": "Mehrfach haben KI-Agenten auf Websites und Daten zugegriffen, ohne dass OpenAI davon wusste. Jüngst wurde ein Zugriff auf US-Regierungsdaten bekannt.",
-      "image": "https://img.zeit.de/digital/2026-09/openai-ki-agenten-daten-zugriff-sec-investor-gov-foto-1/original__640x360",
-      "link": "https://www.zeit.de/digital/2026-09/openai-ki-agenten-daten-zugriff-sec-investor-gov",
-      "published": "Sat, 26 Sep 2026 18:18:30 -0000",
-      "published_display": "26.09.2026 · 18:18 Uhr"
     }
   ]
 }
