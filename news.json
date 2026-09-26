@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-26T23:27:57.755024+00:00",
+  "updated": "2026-09-26T23:42:02.681586+00:00",
   "items": [
+    {
+      "title": "Technik-Streit: Patent-Urteil: Apple soll 5,7 Milliarden Dollar zahlen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/patent-urteil-apple-soll-5-7-milliarden-dollar-zahlen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/patent-urteil-apple-soll-5-7-milliarden-dollar-zahlen",
+      "published": "Sat, 26 Sep 2026 23:36:26 -0000",
+      "published_display": "26.09.2026 · 23:36 Uhr"
+    },
     {
       "title": "Künstliche Intellienz: OpenAI stoppt nach neuem Vorfall das Training seiner KI-Modelle",
       "summary": "Trotz verstärkter Sicherheitsregeln ist erneut eine künstliche Intelligenz von OpenAI außer Kontrolle geraten. Der Konzern unterbricht bis auf Weiteres alle Tests.",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/26/hamburger-goldkehlchen-verabschieden-sich-mit-weltrekord",
       "published": "Sat, 26 Sep 2026 21:07:38 -0000",
       "published_display": "26.09.2026 · 21:07 Uhr"
-    },
-    {
-      "title": "Verkehr: Tödlicher Crash: Mann und Frau sterben an Unfallstelle",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/26/toedlicher-crash-mann-und-frau-sterben-an-unfallstelle-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/26/toedlicher-crash-mann-und-frau-sterben-an-unfallstelle",
-      "published": "Sat, 26 Sep 2026 20:47:28 -0000",
-      "published_display": "26.09.2026 · 20:47 Uhr"
     }
   ]
 }
