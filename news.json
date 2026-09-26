@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-26T00:23:28.882229+00:00",
+  "updated": "2026-09-26T00:48:41.603450+00:00",
   "items": [
+    {
+      "title": "Tarifkonflikt: Weitere Warnstreiks bei SWEG - drei Tage lang",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/26/weitere-warnstreiks-bei-sweg-drei-tage-lang-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/26/weitere-warnstreiks-bei-sweg-drei-tage-lang",
+      "published": "Sat, 26 Sep 2026 00:36:04 -0000",
+      "published_display": "26.09.2026 · 00:36 Uhr"
+    },
+    {
+      "title": "Nahverkehr: Heute Streik bei der Saarbahn",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/26/heute-streik-bei-der-saarbahn-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/26/heute-streik-bei-der-saarbahn",
+      "published": "Sat, 26 Sep 2026 00:34:47 -0000",
+      "published_display": "26.09.2026 · 00:34 Uhr"
+    },
     {
       "title": "Traditionsreicher Titel: «Wahnsinn»: Neue Weinkönigin kommt aus Sachsen-Anhalt",
       "summary": "",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/politik/ausland/2026-09/jemen-huthis-mobilmachung-al-alimi-bab-al-mandab",
       "published": "Fri, 25 Sep 2026 20:55:49 -0000",
       "published_display": "25.09.2026 · 20:55 Uhr"
-    },
-    {
-      "title": "Landkreis Rottal-Inn: 76-jährige Autofahrerin stirbt nach Unfall mit Lkw",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/76-jaehrige-autofahrerin-stirbt-nach-unfall-mit-lkw-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/76-jaehrige-autofahrerin-stirbt-nach-unfall-mit-lkw",
-      "published": "Fri, 25 Sep 2026 20:54:05 -0000",
-      "published_display": "25.09.2026 · 20:54 Uhr"
-    },
-    {
-      "title": "Basketball-Bundesliga: Niners Chemnitz verlieren nach Verlängerung",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/25/niners-chemnitz-verlieren-nach-verlaengerung-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/25/niners-chemnitz-verlieren-nach-verlaengerung",
-      "published": "Fri, 25 Sep 2026 20:38:45 -0000",
-      "published_display": "25.09.2026 · 20:38 Uhr"
     }
   ]
 }
