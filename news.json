@@ -1,12 +1,28 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-26T08:32:01.392705+00:00",
+  "updated": "2026-09-26T08:44:15.583322+00:00",
   "items": [
+    {
+      "title": "Wetter: Bis zu 29 Grad in Hessen erwartet",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/26/bis-zu-29-grad-in-hessen-erwartet-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/26/bis-zu-29-grad-in-hessen-erwartet",
+      "published": "Sat, 26 Sep 2026 08:38:17 -0000",
+      "published_display": "26.09.2026 · 08:38 Uhr"
+    },
+    {
+      "title": "Magdeburg: Streit zwischen Autofahrern - Schreckschusswaffe gezückt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/26/streit-zwischen-autofahrern-schreckschusswaffe-gezueckt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/26/streit-zwischen-autofahrern-schreckschusswaffe-gezueckt",
+      "published": "Sat, 26 Sep 2026 08:35:34 -0000",
+      "published_display": "26.09.2026 · 08:35 Uhr"
+    },
     {
       "title": "Botanicals: Experten warnen vor Risiken bei Nahrungsergänzungsmitteln",
       "summary": "Nahrungsergänzungsmittel aus Algen, Pilzen oder Flechten sollen strenger kontrolliert werden, um Gesundheitsrisiken abzuklären. Das fordert eine Expertengruppe.",
       "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-09/botanicals-nahrungsergaenzungsmittel-bvl-verbraucherschutz-risiken-foto-1/original__640x360",
-      "link": "https://www.zeit.de/gesundheit/2026-09/botanicals-nahrungsergaenzungsmittel-verbraucherschutz-pilze-algen-flechten",
+      "link": "https://www.zeit.de/gesundheit/2026-09/botanicals-nahrungsergaenzungsmittel-verbraucherschutz-pilze-algen-flechten-gxe",
       "published": "Sat, 26 Sep 2026 08:28:56 -0000",
       "published_display": "26.09.2026 · 08:28 Uhr"
     },
@@ -14,7 +30,7 @@
       "title": "Alexander Schweitzer: Schweitzer fordert von Merz Änderungen an Reformen",
       "summary": "Der stellvertretende SPD-Vorsitzende will »faire« Reformen, der Kanzler zeige einen »kalten neoliberalen Geist«. Auch Niedersachsens Ministerpräsident will Änderungen.",
       "image": "https://img.zeit.de/politik/deutschland/2026-09/alexander-schweitzer-friedrich-merz-sozialstaat-reform-cdu-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/alexander-schweitzer-friedrich-merz-sozialstaat-reform-cdu",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/alexander-schweitzer-friedrich-merz-sozialstaat-reform-cdu-gxe",
       "published": "Sat, 26 Sep 2026 08:28:08 -0000",
       "published_display": "26.09.2026 · 08:28 Uhr"
     },
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/26/bis-zu-30-grad-sommerliches-september-ende-erwartet",
       "published": "Sat, 26 Sep 2026 07:58:25 -0000",
       "published_display": "26.09.2026 · 07:58 Uhr"
-    },
-    {
-      "title": "Unfälle: Unfall in Gera: Fußgängerin lebensbedrohlich verletzt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/26/unfall-in-gera-fussgaengerin-lebensbedrohlich-verletzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/26/unfall-in-gera-fussgaengerin-lebensbedrohlich-verletzt",
-      "published": "Sat, 26 Sep 2026 07:57:23 -0000",
-      "published_display": "26.09.2026 · 07:57 Uhr"
-    },
-    {
-      "title": "Verkehr: Vorfahrt missachtet - drei Verletzte bei Unfall in Löningen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/26/vorfahrt-missachtet-drei-verletzte-bei-unfall-in-loeningen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/26/vorfahrt-missachtet-drei-verletzte-bei-unfall-in-loeningen",
-      "published": "Sat, 26 Sep 2026 07:54:52 -0000",
-      "published_display": "26.09.2026 · 07:54 Uhr"
     }
   ]
 }
