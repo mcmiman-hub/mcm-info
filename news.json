@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-27T05:28:45.688789+00:00",
+  "updated": "2026-09-27T05:43:34.260551+00:00",
   "items": [
+    {
+      "title": "Wetterausblick für Bayern: Spätsommerliche Temperaturen in Bayern – bis zu 29 Grad",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/spaetsommerliche-temperaturen-in-bayern-bis-zu-29-grad-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/spaetsommerliche-temperaturen-in-bayern-bis-zu-29-grad",
+      "published": "Sun, 27 Sep 2026 05:32:19 -0000",
+      "published_display": "27.09.2026 · 05:32 Uhr"
+    },
+    {
+      "title": "Westerwaldkreis: Unfall auf A3 - ein Toter und mehrere Schwerverletzte",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/unfall-auf-a3-ein-toter-und-mehrere-schwerverletzte-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/unfall-auf-a3-ein-toter-und-mehrere-schwerverletzte",
+      "published": "Sun, 27 Sep 2026 05:27:17 -0000",
+      "published_display": "27.09.2026 · 05:27 Uhr"
+    },
     {
       "title": "Habe meinen Körper missbraucht: Sylvester Stallone spricht über Bulimie und Panikattacken",
       "summary": "",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/wirtschaft/2026-09/emp-co-richtlinie-greenwashing-produktlebensdauer-obsoleszenz-reparierbarkeit-faq",
       "published": "Sun, 27 Sep 2026 04:16:45 -0000",
       "published_display": "27.09.2026 · 04:16 Uhr"
-    },
-    {
-      "title": "Marina Abramović: Nackt, wenn es das Gesetz erlaubt",
-      "summary": "Statt in Buchform kommt Lebenshilfe jetzt immer öfter als Kartenset daher. Wie unsere Kolumnistin mit der Marina-Abramović-Edition ihr Leben noch mal neu beginnt.",
-      "image": "https://img.zeit.de/2026/41/marina-abramovic-neustart-leben-methode-karten-bild/original__640x360",
-      "link": "https://www.zeit.de/2026/41/marina-abramovic-neustart-leben-methode-karten",
-      "published": "Sun, 27 Sep 2026 04:09:39 -0000",
-      "published_display": "27.09.2026 · 04:09 Uhr"
-    },
-    {
-      "title": "Unser Personal Trainer: Der Pendellauf",
-      "summary": "Egal ob Sie Kampfsport machen, Tennis, Hockey, Fußball spielen oder einfach fitter werden möchten: Unsere neue Übung ist ideal, um Ausdauer und Schnelligkeit zu schulen.",
-      "image": "https://img.zeit.de/sport/2026-09/pendellauf-fitnessuebung-personal-trainer-teaserfoto/original__640x360",
-      "link": "https://www.zeit.de/sport/2026-09/pendellauf-fitnessuebung-personal-trainer",
-      "published": "Sun, 27 Sep 2026 04:08:31 -0000",
-      "published_display": "27.09.2026 · 04:08 Uhr"
     }
   ]
 }
