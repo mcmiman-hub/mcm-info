@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-27T22:29:42.609774+00:00",
+  "updated": "2026-09-27T22:44:08.132051+00:00",
   "items": [
+    {
+      "title": "Konflikte: Gegner blockieren umstrittene Oranier-Parade in Nordirland",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/gericht-in-nordirland-laesst-umstrittene-oranier-parade-zu-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/gericht-in-nordirland-laesst-umstrittene-oranier-parade-zu",
+      "published": "Sun, 27 Sep 2026 22:33:37 -0000",
+      "published_display": "27.09.2026 · 22:33 Uhr"
+    },
     {
       "title": "Rad-WM in Montréal: Brandon McNulty zum ersten Mal Rad-Weltmeister",
       "summary": "Als erster US-Amerikaner seit Lance Armstrong hat Brandon McNulty die Rad-WM in Kanada gewonnen. Er löste damit Superstar Tadej Pogacar ab.",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/politik/deutschland/2026-09/ob-wahl-hannover-belit-onay-axel-von-der-ohe-gruene-spd",
       "published": "Sun, 27 Sep 2026 20:32:35 -0000",
       "published_display": "27.09.2026 · 20:32 Uhr"
-    },
-    {
-      "title": "Stichwahl in Wennigsen: Acht Stimmen - SPD-Kandidat siegt hauchdünn",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/acht-stimmen-spd-kandidat-siegt-hauchduenn-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/acht-stimmen-spd-kandidat-siegt-hauchduenn",
-      "published": "Sun, 27 Sep 2026 20:29:26 -0000",
-      "published_display": "27.09.2026 · 20:29 Uhr"
     }
   ]
 }
