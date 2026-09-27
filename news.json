@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-27T04:17:49.969273+00:00",
+  "updated": "2026-09-27T04:31:14.555040+00:00",
   "items": [
+    {
+      "title": "Wildunfall: Unfall mit Wildschweinen auf A61",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/unfall-mit-wildschweinen-auf-a61-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/unfall-mit-wildschweinen-auf-a61",
+      "published": "Sun, 27 Sep 2026 04:28:56 -0000",
+      "published_display": "27.09.2026 · 04:28 Uhr"
+    },
+    {
+      "title": "Gottesdienst: Warum ich Gottesdienste liebe, obwohl mir Gott eher egal ist",
+      "summary": "Kater, Einsamkeit und Selbstzweifel – so beginnt für viele junge Menschen der Sonntag. Unsere Autorin hat ein überraschendes Gegenmittel gefunden.",
+      "image": "https://img.zeit.de/2026/41/verkatert-im-gottesdienst-bild-1/original__640x360",
+      "link": "https://www.zeit.de/2026/41/gottesdienst-sonntag-kirche-ruhe-gemeinschaft",
+      "published": "Sun, 27 Sep 2026 04:20:16 -0000",
+      "published_display": "27.09.2026 · 04:20 Uhr"
+    },
+    {
+      "title": "Pilatestrainerin: »Früher habe ich das Dreifache verdient«",
+      "summary": "Alexandra Christandl hat als Beraterin 5.000 Euro verdient. Trotzdem arbeitet sie mittlerweile lieber als Pilatestrainerin – auch wenn sie nun von Ersparnissen lebt.",
+      "image": "https://img.zeit.de/arbeit/2026-09/pilates-trainerin-quereinstieg-einkommen-kontoauszug-bild-01/original__640x360",
+      "link": "https://www.zeit.de/arbeit/2026-09/pilates-trainerin-quereinstieg-einkommen-kontoauszug",
+      "published": "Sun, 27 Sep 2026 04:19:10 -0000",
+      "published_display": "27.09.2026 · 04:19 Uhr"
+    },
     {
       "title": "EmpCo-Richtlinie: Wie Deutschland gegen Greenwashing und Verbrauchertäuschung vorgeht",
       "summary": "Nicht alle Produkte sind so ökologisch, wie die Werbung es suggeriert. In Deutschland ist Greenwashing deshalb ab sofort verboten. Was ändert sich genau? Der Überblick.",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/27/csu-vize-kandidatur-fuer-steinmeier-nachfolge-schnell-klaeren",
       "published": "Sun, 27 Sep 2026 03:30:08 -0000",
       "published_display": "27.09.2026 · 03:30 Uhr"
-    },
-    {
-      "title": "Schutz des Wattenmeeres: Wachen Nationalpark-Ranger bald auch auf der Nordsee?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/wachen-nationalpark-ranger-bald-auch-auf-der-nordsee-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/wachen-nationalpark-ranger-bald-auch-auf-der-nordsee",
-      "published": "Sun, 27 Sep 2026 03:30:07 -0000",
-      "published_display": "27.09.2026 · 03:30 Uhr"
-    },
-    {
-      "title": "Film über Pflegeroboter: Mit KI gegen Einsamkeit? Doris Dörrie und ihr Wunschroboter",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/mit-ki-gegen-einsamkeit-doris-doerrie-und-ihr-wunschroboter-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/mit-ki-gegen-einsamkeit-doris-doerrie-und-ihr-wunschroboter",
-      "published": "Sun, 27 Sep 2026 03:30:05 -0000",
-      "published_display": "27.09.2026 · 03:30 Uhr"
-    },
-    {
-      "title": "Kriminalität: Vorwurf: Dreifachmord - Prozess gegen 38-Jährigen beginnt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/vorwurf-dreifachmord-prozess-gegen-38-jaehrigen-beginnt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/vorwurf-dreifachmord-prozess-gegen-38-jaehrigen-beginnt",
-      "published": "Sun, 27 Sep 2026 03:15:04 -0000",
-      "published_display": "27.09.2026 · 03:15 Uhr"
     }
   ]
 }
