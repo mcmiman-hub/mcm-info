@@ -1,7 +1,95 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-27T10:55:12.937672+00:00",
+  "updated": "2026-09-27T11:16:41.727871+00:00",
   "items": [
+    {
+      "title": "Unfälle: Mann wird von Auto 400 Meter mitgezogen und stürzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/mann-wird-von-auto-400-meter-mitgezogen-und-stuerzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/mann-wird-von-auto-400-meter-mitgezogen-und-stuerzt",
+      "published": "Sun, 27 Sep 2026 11:13:04 -0000",
+      "published_display": "27.09.2026 · 11:13 Uhr"
+    },
+    {
+      "title": "Kriminalität: Frau stirbt nach Gewaltverbrechen – Ehemann festgenommen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/frau-stirbt-nach-gewaltverbrechen-ehemann-festgenommen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/frau-stirbt-nach-gewaltverbrechen-ehemann-festgenommen",
+      "published": "Sun, 27 Sep 2026 11:10:32 -0000",
+      "published_display": "27.09.2026 · 11:10 Uhr"
+    },
+    {
+      "title": "Zeugenaufruf: Vierjähriger nach Unfall verletzt – Polizei sucht Zeugen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/vierjaehriger-nach-unfall-verletzt-polizei-sucht-zeugen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/vierjaehriger-nach-unfall-verletzt-polizei-sucht-zeugen",
+      "published": "Sun, 27 Sep 2026 11:07:51 -0000",
+      "published_display": "27.09.2026 · 11:07 Uhr"
+    },
+    {
+      "title": "Stolpersteine-App: Stolpersteine digital: App trotzt Heidenau-Beschluss",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/stolpersteine-digital-app-trotzt-heidenau-beschluss-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/stolpersteine-digital-app-trotzt-heidenau-beschluss",
+      "published": "Sun, 27 Sep 2026 11:06:33 -0000",
+      "published_display": "27.09.2026 · 11:06 Uhr"
+    },
+    {
+      "title": "1:3 in Burghausen: Erste 1860-Niederlage in Regionalliga: «Selber Schuld»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/erste-1860-niederlage-in-regionalliga-selber-schuld-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/erste-1860-niederlage-in-regionalliga-selber-schuld",
+      "published": "Sun, 27 Sep 2026 11:05:09 -0000",
+      "published_display": "27.09.2026 · 11:05 Uhr"
+    },
+    {
+      "title": "Nach Duell mit Köln-Rhein-Ruhr: Reaktionen auf die Wahl Münchens als Olympia-Bewerber",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/reaktionen-auf-die-wahl-muenchens-als-olympia-bewerber-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/reaktionen-auf-die-wahl-muenchens-als-olympia-bewerber",
+      "published": "Sun, 27 Sep 2026 11:02:55 -0000",
+      "published_display": "27.09.2026 · 11:02 Uhr"
+    },
+    {
+      "title": "Grippesaison: Gesundheitsminister ruft Brandenburger zu Grippeimpfung auf",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/gesundheitsminister-ruft-brandenburger-zu-grippeimpfung-auf-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/gesundheitsminister-ruft-brandenburger-zu-grippeimpfung-auf",
+      "published": "Sun, 27 Sep 2026 11:02:26 -0000",
+      "published_display": "27.09.2026 · 11:02 Uhr"
+    },
+    {
+      "title": "Volksabstimmung: Schweizer lehnen strengere Auslegung von Neutralität ab",
+      "summary": "Die Schweizer haben bei einer Volksabstimmung laut Hochrechnung gegen eine striktere Neutralität gestimmt. Auslöser des Streits waren die EU-Sanktionen gegen Russland.",
+      "image": "https://img.zeit.de/politik/2026-09/neutralitaetsinitiative-schweiz-christoph-blocher-svp-russland-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/2026-09/neutralitaetsinitiative-schweiz-christoph-blocher-svp-russland",
+      "published": "Sun, 27 Sep 2026 10:56:05 -0000",
+      "published_display": "27.09.2026 · 10:56 Uhr"
+    },
+    {
+      "title": "Unfälle: Auto fährt in Gegenverkehr – vier Verletzte bei Gielsdorf",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/auto-faehrt-in-gegenverkehr-vier-verletzte-bei-gielsdorf-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/auto-faehrt-in-gegenverkehr-vier-verletzte-bei-gielsdorf",
+      "published": "Sun, 27 Sep 2026 10:55:46 -0000",
+      "published_display": "27.09.2026 · 10:55 Uhr"
+    },
+    {
+      "title": "Leichtathletik: «Bitter»: Marathon-Drama in Berlin um Äthiopierin Assefa",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/kraempfe-beim-finish-assefa-verpasst-marathon-weltrekord-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/kraempfe-beim-finish-assefa-verpasst-marathon-weltrekord",
+      "published": "Sun, 27 Sep 2026 10:54:19 -0000",
+      "published_display": "27.09.2026 · 10:54 Uhr"
+    },
+    {
+      "title": "Beamte reagieren: Polizei erstattet Anzeige wegen Hakenkreuztattoo",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/polizei-erstattet-anzeige-wegen-hakenkreuztattoo-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/polizei-erstattet-anzeige-wegen-hakenkreuztattoo",
+      "published": "Sun, 27 Sep 2026 10:53:52 -0000",
+      "published_display": "27.09.2026 · 10:53 Uhr"
+    },
     {
       "title": "Zusammenstoß: Unfall im Kreis Lippe: Jugendliche teils schwer verletzt",
       "summary": "",
@@ -33,94 +121,6 @@
       "link": "https://www.zeit.de/politik/ausland/2026-09/johann-wadephul-sergej-lawrow-new-york-treffen-russland-ukraine-folgen",
       "published": "Sun, 27 Sep 2026 10:47:28 -0000",
       "published_display": "27.09.2026 · 10:47 Uhr"
-    },
-    {
-      "title": "Nachts durch die Straßen: Verbotenes Autorennen? Drei Verletzte in Würzburg",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/verbotenes-autorennen-drei-verletzte-in-wuerzburg-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/verbotenes-autorennen-drei-verletzte-in-wuerzburg",
-      "published": "Sun, 27 Sep 2026 10:43:21 -0000",
-      "published_display": "27.09.2026 · 10:43 Uhr"
-    },
-    {
-      "title": "Volksabstimmung: Hochrechnung: Schweizer gegen striktere Neutralität",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/hochrechnung-schweizer-gegen-striktere-neutralitaet-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/hochrechnung-schweizer-gegen-striktere-neutralitaet",
-      "published": "Sun, 27 Sep 2026 10:41:16 -0000",
-      "published_display": "27.09.2026 · 10:41 Uhr"
-    },
-    {
-      "title": "Brände: 1.000 Heuballen brennen in Eisenach",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/1-000-heuballen-brennen-in-eisenach-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/1-000-heuballen-brennen-in-eisenach",
-      "published": "Sun, 27 Sep 2026 10:39:21 -0000",
-      "published_display": "27.09.2026 · 10:39 Uhr"
-    },
-    {
-      "title": "Zeugen gesucht: Mann in Düsseldorf durch Stiche lebensgefährlich verletzt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/mann-in-duesseldorf-durch-stiche-lebensgefaehrlich-verletzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/mann-in-duesseldorf-durch-stiche-lebensgefaehrlich-verletzt",
-      "published": "Sun, 27 Sep 2026 10:36:04 -0000",
-      "published_display": "27.09.2026 · 10:36 Uhr"
-    },
-    {
-      "title": "Westerwaldkreis: Unfall auf A3: Mann stirbt, drei Menschen schwer verletzt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/unfall-auf-a3-mann-stirbt-drei-menschen-schwer-verletzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/unfall-auf-a3-mann-stirbt-drei-menschen-schwer-verletzt",
-      "published": "Sun, 27 Sep 2026 10:34:02 -0000",
-      "published_display": "27.09.2026 · 10:34 Uhr"
-    },
-    {
-      "title": "Notfälle: Mehrfamilienhaus in Gotha in Brand",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/mehrfamilienhaus-in-gotha-in-brand-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/mehrfamilienhaus-in-gotha-in-brand",
-      "published": "Sun, 27 Sep 2026 10:32:58 -0000",
-      "published_display": "27.09.2026 · 10:32 Uhr"
-    },
-    {
-      "title": "Torstraße in Berlin: Wenn alte Bäume einem Radweg weichen sollen",
-      "summary": "In Berlin müssen 32 Linden gefällt werden, weil eine Straße umgebaut wird. Aus dem Streit darum ist ein Politikum geworden, das für einen viel größeren Konflikt steht.",
-      "image": "https://img.zeit.de/mobilitaet/2026-09/torstrasse-berlin-mitte-baeume-faellen-teaser-bild-03/original__640x360",
-      "link": "https://www.zeit.de/mobilitaet/2026-09/torstrasse-berlin-mitte-baeume-faellen-senat-streit",
-      "published": "Sun, 27 Sep 2026 10:26:20 -0000",
-      "published_display": "27.09.2026 · 10:26 Uhr"
-    },
-    {
-      "title": "Vorhersage: Sommerliche Temperaturen in NRW",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/sommerliche-temperaturen-in-nrw-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/sommerliche-temperaturen-in-nrw",
-      "published": "Sun, 27 Sep 2026 10:24:35 -0000",
-      "published_display": "27.09.2026 · 10:24 Uhr"
-    },
-    {
-      "title": "Unfälle: Motorradfahrer stirbt bei Zusammenstoß mit Auto",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/motorradfahrer-stirbt-bei-zusammenstoss-mit-auto-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/motorradfahrer-stirbt-bei-zusammenstoss-mit-auto",
-      "published": "Sun, 27 Sep 2026 10:24:16 -0000",
-      "published_display": "27.09.2026 · 10:24 Uhr"
-    },
-    {
-      "title": "Peter Zumthor: Nah ans Herz gebaut",
-      "summary": "In Basel eröffnet Peter Zumthor drei Museumsbauten. Wie plant man so monumental und berührend? Wir haben den großen Schweizer Architekten begleitet.",
-      "image": "https://img.zeit.de/2026/41/nah-ans-herz-gebaut-bild-1/original__640x360",
-      "link": "https://www.zeit.de/2026/41/peter-zumthor-fondation-beyeler-riehen-architektur",
-      "published": "Sun, 27 Sep 2026 10:23:26 -0000",
-      "published_display": "27.09.2026 · 10:23 Uhr"
-    },
-    {
-      "title": "Riccardo Simonetti: »Ich habe lange geglaubt, dass ich als Mädchen glücklicher wäre«",
-      "summary": "Männlichkeit kann zum Käfig werden, sagt Riccardo Simonetti. Im Interview erzählt der Entertainer von seiner Befreiung – und wie schön es ist, ein schwuler Mann zu sein.",
-      "image": "https://img.zeit.de/zeit-magazin/2026-09/ricardo-simonetti-bild/original__640x360",
-      "link": "https://www.zeit.de/zeit-magazin/leben/2026-09/riccardo-simonetti-maennlichkeit-queerness-identitaet",
-      "published": "Sun, 27 Sep 2026 10:22:24 -0000",
-      "published_display": "27.09.2026 · 10:22 Uhr"
     }
   ]
 }
