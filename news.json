@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-27T21:29:11.284931+00:00",
+  "updated": "2026-09-27T21:42:48.161944+00:00",
   "items": [
+    {
+      "title": "Verpuffung: Vater und zehnjähriger Sohn auf Kirmes schwer verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/vater-und-zehnjaehriger-sohn-auf-kirmes-schwer-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/vater-und-zehnjaehriger-sohn-auf-kirmes-schwer-verletzt",
+      "published": "Sun, 27 Sep 2026 21:30:02 -0000",
+      "published_display": "27.09.2026 · 21:30 Uhr"
+    },
     {
       "title": "Fußball-Nationalmannschaft: Schweinsteiger kritisiert DFB-Elf: «Im Mittelmaß angekommen»",
       "summary": "",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/27/gruene-erobern-landratsamt-in-osterholz-von-der-spd",
       "published": "Sun, 27 Sep 2026 19:13:26 -0000",
       "published_display": "27.09.2026 · 19:13 Uhr"
-    },
-    {
-      "title": "Politik am Balkan: Serbiens Präsident Vucic zurückgetreten",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/serbiens-praesident-vucic-zurueckgetreten-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/serbiens-praesident-vucic-zurueckgetreten",
-      "published": "Sun, 27 Sep 2026 19:12:04 -0000",
-      "published_display": "27.09.2026 · 19:12 Uhr"
     }
   ]
 }
