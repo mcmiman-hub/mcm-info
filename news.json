@@ -1,9 +1,65 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-27T14:54:42.226677+00:00",
+  "updated": "2026-09-27T15:16:46.431658+00:00",
   "items": [
     {
-      "title": "Reformen: Der Mensch ist keine Kostenstelle",
+      "title": "Basketball: Seawolves verlieren nach dramatischer Schlussphase",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/seawolves-verlieren-nach-dramatischer-schlussphase-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/seawolves-verlieren-nach-dramatischer-schlussphase",
+      "published": "Sun, 27 Sep 2026 15:12:10 -0000",
+      "published_display": "27.09.2026 · 15:12 Uhr"
+    },
+    {
+      "title": "Kürbiswettbewerb: Der Super-Kürbis in Brandenburg bleibt unter einer Tonne",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/der-super-kuerbis-in-brandenburg-bleibt-unter-einer-tonne-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/der-super-kuerbis-in-brandenburg-bleibt-unter-einer-tonne",
+      "published": "Sun, 27 Sep 2026 15:11:59 -0000",
+      "published_display": "27.09.2026 · 15:11 Uhr"
+    },
+    {
+      "title": "Frauenerkrankungen: Es juckt und brennt, Sex wird zur Qual",
+      "summary": "Vulvaerkrankungen sind weitverbreitet, aber kaum bekannt, selbst unter Frauenärztinnen. Warum das so ist und was zwei Betroffenen in ihrem Leid geholfen hat.",
+      "image": "https://img.zeit.de/arbeit/2026-09/frauengesundheit-vulvaerkrankungen-intimbereich-medizin-behandlung-vulvodynie-bild/original__640x360",
+      "link": "https://www.zeit.de/gesundheit/2026-09/frauengesundheit-vulvaerkrankungen-intimbereich-medizin-behandlung-vulvodynie",
+      "published": "Sun, 27 Sep 2026 15:03:59 -0000",
+      "published_display": "27.09.2026 · 15:03 Uhr"
+    },
+    {
+      "title": "Parutyne in der Ukraine: Die Farbe des Krieges",
+      "summary": "Ein Dorf an der ukrainischen Front. Der Himmel voller Drohnen. Mittendrin Dmytro Moldovanov, der das größte Bild seines Lebens erschaffen will.",
+      "image": "https://img.zeit.de/zeit-magazin/2026/41/die-farbe-des-krieges-bild-1/original__640x360",
+      "link": "https://www.zeit.de/zeit-magazin/2026/41/parutyne-ukraine-dmytro-moldovanov-krieg-kunst-maler",
+      "published": "Sun, 27 Sep 2026 15:01:15 -0000",
+      "published_display": "27.09.2026 · 15:01 Uhr"
+    },
+    {
+      "title": "Nahe dem Oktoberfest: Jugendliche mit Anscheinswaffen sorgen für Polizeieinsatz",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/jugendliche-mit-anscheinswaffen-sorgen-fuer-polizeieinsatz-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/jugendliche-mit-anscheinswaffen-sorgen-fuer-polizeieinsatz",
+      "published": "Sun, 27 Sep 2026 14:59:42 -0000",
+      "published_display": "27.09.2026 · 14:59 Uhr"
+    },
+    {
+      "title": "Wende durch Gilles: DFB-Pokal: Bayern-Frauen zittern sich ins Achtelfinale",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/dfb-pokal-bayern-frauen-zittern-sich-ins-achtelfinale-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/dfb-pokal-bayern-frauen-zittern-sich-ins-achtelfinale",
+      "published": "Sun, 27 Sep 2026 14:59:09 -0000",
+      "published_display": "27.09.2026 · 14:59 Uhr"
+    },
+    {
+      "title": "Tübingen: Reitanlage in Flammen - 47 Pferde gerettet",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/reitanlage-in-flammen-47-pferde-gerettet-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/reitanlage-in-flammen-47-pferde-gerettet",
+      "published": "Sun, 27 Sep 2026 14:59:02 -0000",
+      "published_display": "27.09.2026 · 14:59 Uhr"
+    },
+    {
+      "title": "Reformen: Menschen sind keine Kostenstelle",
       "summary": "In der Reformdebatte wird der Mensch oft nur als Kostenfaktor behandelt. Die Regierung sollte ihren Blick weiten. Denn diese Logik ist auch im Hinblick auf KI gefährlich.",
       "image": "https://img.zeit.de/arbeit/2026-09/reform-debatte-kosten-menschen-kuenstliche-intelligenz-bild/original__640x360",
       "link": "https://www.zeit.de/arbeit/2026-09/reform-debatte-kosten-menschen-kuenstliche-intelligenz",
@@ -65,62 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/27/banaszak-und-brantner-kandidieren-wieder-fuer-gruenen-spitze",
       "published": "Sun, 27 Sep 2026 14:23:10 -0000",
       "published_display": "27.09.2026 · 14:23 Uhr"
-    },
-    {
-      "title": "Deutsche Eishockey Liga: Eisbären Berlin gewinnen mit 4:0 gegen Iserlohn",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/eisbaeren-berlin-gewinnen-mit-4-0-gegen-iserlohn-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/eisbaeren-berlin-gewinnen-mit-4-0-gegen-iserlohn",
-      "published": "Sun, 27 Sep 2026 14:23:10 -0000",
-      "published_display": "27.09.2026 · 14:23 Uhr"
-    },
-    {
-      "title": "RAF Fairford: Festnahmen nahe US-genutzter Militärbasis in Großbritannien",
-      "summary": "Wegen Terrorverdachts sind Fahrzeuge nahe dem Militärstützpunkt Fairford durchsucht und Gebäude evakuiert worden. Der Stützpunkt wird von der US-Luftwaffe genutzt.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/raf-fairford-grossbritannien-polizei-usa-iran-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/raf-fairford-grossbritannien-polizei-usa-iran-gxe",
-      "published": "Sun, 27 Sep 2026 14:21:35 -0000",
-      "published_display": "27.09.2026 · 14:21 Uhr"
-    },
-    {
-      "title": "Pilze: »Speisepilze mit Apps zu identifizieren, ist hoch riskant«",
-      "summary": "Pilze sind ganz eigene Wesen: nicht Pflanzen, nicht Tiere, köstlich, zuweilen aber auch tödlich. Ein Gespräch mit den Pilzexperten Katharina und Lothar Krieglsteiner",
-      "image": "https://img.zeit.de/zeit-magazin/2026-09/der-trueffel-will-gefressen-werden-bild/original__640x360",
-      "link": "https://www.zeit.de/zeit-magazin/wochenmarkt/2026/11/pilze-biologie-wald-saison-vielfalt-wochenmarkt",
-      "published": "Sun, 27 Sep 2026 14:19:10 -0000",
-      "published_display": "27.09.2026 · 14:19 Uhr"
-    },
-    {
-      "title": "Soziales: Kosten für Benzin und Diesel setzen Tafeln unter Druck",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/kosten-fuer-benzin-und-diesel-setzen-tafeln-unter-druck-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/kosten-fuer-benzin-und-diesel-setzen-tafeln-unter-druck",
-      "published": "Sun, 27 Sep 2026 14:18:48 -0000",
-      "published_display": "27.09.2026 · 14:18 Uhr"
-    },
-    {
-      "title": "Schweizer Neutralität: Schweizer lehnen Abschottung durch strikte Neutralität ab",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/hochrechnung-schweizer-gegen-striktere-neutralitaet-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/hochrechnung-schweizer-gegen-striktere-neutralitaet",
-      "published": "Sun, 27 Sep 2026 14:16:18 -0000",
-      "published_display": "27.09.2026 · 14:16 Uhr"
-    },
-    {
-      "title": "Brände: Autohaus steht in Vollbrand - Millionenschaden",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/autohaus-steht-in-vollbrand-warnung-an-bevoelkerung-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/autohaus-steht-in-vollbrand-warnung-an-bevoelkerung",
-      "published": "Sun, 27 Sep 2026 14:16:05 -0000",
-      "published_display": "27.09.2026 · 14:16 Uhr"
-    },
-    {
-      "title": "Kommunalwahlen: Entscheidungen über kommunale Spitzenämter in Niedersachsen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/entscheidungen-ueber-kommunale-spitzenaemter-in-niedersachsen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/entscheidungen-ueber-kommunale-spitzenaemter-in-niedersachsen",
-      "published": "Sun, 27 Sep 2026 14:13:07 -0000",
-      "published_display": "27.09.2026 · 14:13 Uhr"
     }
   ]
 }
