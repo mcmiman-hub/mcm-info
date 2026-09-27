@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-27T20:16:57.426599+00:00",
+  "updated": "2026-09-27T20:29:04.075322+00:00",
   "items": [
+    {
+      "title": "Oberhaus des Parlaments: Machtzuwachs für Le Pens Rechtsnationale im Pariser Senat",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/franzoesischer-senat-wird-zur-haelfte-neu-gewaehlt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/franzoesischer-senat-wird-zur-haelfte-neu-gewaehlt",
+      "published": "Sun, 27 Sep 2026 20:26:11 -0000",
+      "published_display": "27.09.2026 · 20:26 Uhr"
+    },
+    {
+      "title": "Straßenrad-WM: Armstrongs Erbe: Underdog McNulty krönt sich zum Weltmeister",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/erster-weltmeister-seit-armstrong-mcnulty-schockt-favoriten-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/erster-weltmeister-seit-armstrong-mcnulty-schockt-favoriten",
+      "published": "Sun, 27 Sep 2026 20:18:38 -0000",
+      "published_display": "27.09.2026 · 20:18 Uhr"
+    },
     {
       "title": "OB-Wahl in Hannover: Grünen-Politiker Belit Onay gewinnt Bürgermeisterstichwahl in Hannover",
       "summary": "Zwei Wochen nach der Kommunalwahl in Niedersachsen ging es in einer Hochburg der Grünen in die Stichwahl. Der amtierende Oberbürgermeister wurde klar im Amt bestätigt.",
@@ -17,14 +33,6 @@
       "link": "https://www.zeit.de/politik/ausland/2026-09/aleksandar-vucic-ruecktritt-serbien-praesident-parlamentswahl",
       "published": "Sun, 27 Sep 2026 19:41:25 -0000",
       "published_display": "27.09.2026 · 19:41 Uhr"
-    },
-    {
-      "title": "Straßenrad-WM: Armstrongs Erbe: Underdog McNulty krönt sich zum Weltmeister",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/erster-weltmeister-seit-armstrong-mcnulty-schockt-favoriten-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/erster-weltmeister-seit-armstrong-mcnulty-schockt-favoriten",
-      "published": "Sun, 27 Sep 2026 19:40:36 -0000",
-      "published_display": "27.09.2026 · 19:40 Uhr"
     },
     {
       "title": "Szene in ZDF-Dokumentation: Amthor eckt mit Strandkorb im Kanzleramt an",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/27/bis-zu-32-grad-wo-es-am-sonntag-im-suedwesten-heiss-wird",
       "published": "Sun, 27 Sep 2026 18:36:10 -0000",
       "published_display": "27.09.2026 · 18:36 Uhr"
-    },
-    {
-      "title": "Kommunalwahlen: Onay gewinnt Stichwahl um Hannovers Oberbürgermeisteramt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/zwischenstand-ob-wahl-hannover-onay-fuehrt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/zwischenstand-ob-wahl-hannover-onay-fuehrt",
-      "published": "Sun, 27 Sep 2026 18:34:45 -0000",
-      "published_display": "27.09.2026 · 18:34 Uhr"
     }
   ]
 }
