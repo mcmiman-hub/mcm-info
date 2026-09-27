@@ -1,9 +1,113 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-27T02:56:38.412706+00:00",
+  "updated": "2026-09-27T03:17:50.060084+00:00",
   "items": [
     {
-      "title": "Künstliche Intellienz: OpenAI stoppt KI-Training nach neuem Vorfall",
+      "title": "Kriminalität: Vorwurf: Dreifachmord - Prozess gegen 38-Jährigen beginnt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/vorwurf-dreifachmord-prozess-gegen-38-jaehrigen-beginnt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/vorwurf-dreifachmord-prozess-gegen-38-jaehrigen-beginnt",
+      "published": "Sun, 27 Sep 2026 03:15:04 -0000",
+      "published_display": "27.09.2026 · 03:15 Uhr"
+    },
+    {
+      "title": "Bundesliga: Kieler Frust über Videobeweis: «Tut einfach weh»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/kieler-frust-ueber-videobeweis-tut-einfach-weh-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/kieler-frust-ueber-videobeweis-tut-einfach-weh",
+      "published": "Sun, 27 Sep 2026 03:14:04 -0000",
+      "published_display": "27.09.2026 · 03:14 Uhr"
+    },
+    {
+      "title": "Nahverkehr: Verbraucherzentralen fordern einheitliches Ticketsystem im ÖPNV",
+      "summary": "Künftig sollte es nur noch fünf Ticketarten für Busse und Bahnen in ganz Deutschland geben, fordern Verbraucherschützer. Der Fahrpreis soll nach Zeit gestaffelt sein.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/saarbahn-und-gdl-im-verhaerteten-tarifstreit-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/oepnv-tarife-tickets-preise-verbraucherzentrale",
+      "published": "Sun, 27 Sep 2026 03:04:03 -0000",
+      "published_display": "27.09.2026 · 03:04 Uhr"
+    },
+    {
+      "title": "Festwoche: 80 Jahre Landtag: Leinwand für Lichtkunst und Demokratie",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/80-jahre-landtag-leinwand-fuer-lichtkunst-und-demokratie-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/80-jahre-landtag-leinwand-fuer-lichtkunst-und-demokratie",
+      "published": "Sun, 27 Sep 2026 03:00:21 -0000",
+      "published_display": "27.09.2026 · 03:00 Uhr"
+    },
+    {
+      "title": "Bahnverkehr: Züge in NRW noch unpünktlicher als vor einem Jahr",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/zuege-in-nrw-noch-unpuenktlicher-als-vor-einem-jahr-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/zuege-in-nrw-noch-unpuenktlicher-als-vor-einem-jahr",
+      "published": "Sun, 27 Sep 2026 03:00:18 -0000",
+      "published_display": "27.09.2026 · 03:00 Uhr"
+    },
+    {
+      "title": "Städtebau-Projekt: Baubeginn für neue Störschleife in Itzehoe verzögert sich",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/baubeginn-fuer-neue-stoerschleife-in-itzehoe-verzoegert-sich-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/baubeginn-fuer-neue-stoerschleife-in-itzehoe-verzoegert-sich",
+      "published": "Sun, 27 Sep 2026 03:00:17 -0000",
+      "published_display": "27.09.2026 · 03:00 Uhr"
+    },
+    {
+      "title": "Anhörung im Thüringer Landtag: Warum Kerkeling und Maaßen über ein AfD-Verbot sprechen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/warum-kerkeling-und-maassen-ueber-ein-afd-verbot-sprechen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/warum-kerkeling-und-maassen-ueber-ein-afd-verbot-sprechen",
+      "published": "Sun, 27 Sep 2026 03:00:17 -0000",
+      "published_display": "27.09.2026 · 03:00 Uhr"
+    },
+    {
+      "title": "Nach der Wahl in Baden-Baden: So geht es mit Münchens Olympia-Bewerbung weiter",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/so-geht-es-mit-muenchens-olympia-bewerbung-weiter-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/so-geht-es-mit-muenchens-olympia-bewerbung-weiter",
+      "published": "Sun, 27 Sep 2026 03:00:10 -0000",
+      "published_display": "27.09.2026 · 03:00 Uhr"
+    },
+    {
+      "title": "Denkmäler: Goldener Saal nach Sanierung wieder geöffnet",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/goldener-saal-nach-sanierung-wieder-geoeffnet-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/goldener-saal-nach-sanierung-wieder-geoeffnet",
+      "published": "Sun, 27 Sep 2026 03:00:10 -0000",
+      "published_display": "27.09.2026 · 03:00 Uhr"
+    },
+    {
+      "title": "Schifffahrt: Hadag beklagt Treibstoffkosten - Auswirkungen auch in Kiel",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/hadag-beklagt-treibstoffkosten-auswirkungen-auch-in-kiel-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/hadag-beklagt-treibstoffkosten-auswirkungen-auch-in-kiel",
+      "published": "Sun, 27 Sep 2026 03:00:07 -0000",
+      "published_display": "27.09.2026 · 03:00 Uhr"
+    },
+    {
+      "title": "Spielautomaten: Gewerkschaft fordert Schritte gegen illegales Glücksspiel",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/gewerkschaft-fordert-schritte-gegen-illegales-gluecksspiel-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/gewerkschaft-fordert-schritte-gegen-illegales-gluecksspiel",
+      "published": "Sun, 27 Sep 2026 03:00:06 -0000",
+      "published_display": "27.09.2026 · 03:00 Uhr"
+    },
+    {
+      "title": "Modernisierung: Hunderte neue Streifenwagen für die NRW-Polizei",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/hunderte-neue-streifenwagen-fuer-die-nrw-polizei-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/hunderte-neue-streifenwagen-fuer-die-nrw-polizei",
+      "published": "Sun, 27 Sep 2026 03:00:05 -0000",
+      "published_display": "27.09.2026 · 03:00 Uhr"
+    },
+    {
+      "title": "Hitzewelle: Todesfälle in Kliniken - Kein Hinweis auf Versäumnisse",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/todesfaelle-in-kliniken-kein-hinweis-auf-versaeumnisse-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/todesfaelle-in-kliniken-kein-hinweis-auf-versaeumnisse",
+      "published": "Sun, 27 Sep 2026 03:00:04 -0000",
+      "published_display": "27.09.2026 · 03:00 Uhr"
+    },
+    {
+      "title": "Künstliche Intelligenz: OpenAI stoppt KI-Training nach neuem Vorfall",
       "summary": "Trotz verstärkter Sicherheitsregeln hat sich wieder eine künstliche Intelligenz von OpenAI verselbstständigt. Der Konzern setzt Tests der fortschrittlichsten Modelle aus.",
       "image": "https://img.zeit.de/digital/internet/2026-09/openai-sicherheitsvorfall-ki-dns-luecke-training-pause-foto-1/original__640x360",
       "link": "https://www.zeit.de/digital/internet/2026-09/openai-sicherheitsvorfall-ki-dns-luecke-training-pause",
@@ -17,110 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/27/haus-in-pfullendorf-komplett-in-flammen-hoher-schaden",
       "published": "Sun, 27 Sep 2026 02:34:36 -0000",
       "published_display": "27.09.2026 · 02:34 Uhr"
-    },
-    {
-      "title": "Wahlen in Niedersachsen: Diese Stichwahlen stehen im Fokus",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/diese-stichwahlen-stehen-im-fokus-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/diese-stichwahlen-stehen-im-fokus",
-      "published": "Sun, 27 Sep 2026 02:30:10 -0000",
-      "published_display": "27.09.2026 · 02:30 Uhr"
-    },
-    {
-      "title": "Schutz des Wattenmeeres: Länder planen Einsatz von Nationalpark-Rangern auf dem Meer",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/laender-planen-einsatz-von-nationalpark-rangern-auf-dem-meer-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/laender-planen-einsatz-von-nationalpark-rangern-auf-dem-meer",
-      "published": "Sun, 27 Sep 2026 02:30:10 -0000",
-      "published_display": "27.09.2026 · 02:30 Uhr"
-    },
-    {
-      "title": "Koalition: Kassen warnen vor Pflege-Blockade - «Geld alle»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/kassen-warnen-vor-pflege-blockade-geld-alle-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/kassen-warnen-vor-pflege-blockade-geld-alle",
-      "published": "Sun, 27 Sep 2026 02:30:05 -0000",
-      "published_display": "27.09.2026 · 02:30 Uhr"
-    },
-    {
-      "title": "Wetter: Bis zu 31 Grad: Wie lang hält sich der Altweibersommer?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/bis-zu-31-grad-wie-lang-haelt-sich-der-altweibersommer-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/bis-zu-31-grad-wie-lang-haelt-sich-der-altweibersommer",
-      "published": "Sun, 27 Sep 2026 02:27:06 -0000",
-      "published_display": "27.09.2026 · 02:27 Uhr"
-    },
-    {
-      "title": "Unfälle: Tödlicher Unfall mit zwei Motorrädern",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/toedlicher-unfall-mit-zwei-motorraedern-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/toedlicher-unfall-mit-zwei-motorraedern",
-      "published": "Sun, 27 Sep 2026 02:16:14 -0000",
-      "published_display": "27.09.2026 · 02:16 Uhr"
-    },
-    {
-      "title": "Eingeschleppte Ameisenart: Ameisen-Invasion: Wo und wie Tapinoma ihr Unwesen treibt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/ameisen-invasion-wo-und-wie-tapinoma-ihr-unwesen-treibt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/ameisen-invasion-wo-und-wie-tapinoma-ihr-unwesen-treibt",
-      "published": "Sun, 27 Sep 2026 02:15:05 -0000",
-      "published_display": "27.09.2026 · 02:15 Uhr"
-    },
-    {
-      "title": "Münchner Bewerbung: Verein: Deutschland darf wieder von Olympia träumen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/verein-deutschland-darf-wieder-von-olympia-traeumen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/verein-deutschland-darf-wieder-von-olympia-traeumen",
-      "published": "Sun, 27 Sep 2026 02:09:15 -0000",
-      "published_display": "27.09.2026 · 02:09 Uhr"
-    },
-    {
-      "title": "Influenza: Grippesaison steht an - So steht es um den Impfstoff im Land",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/grippesaison-steht-an-so-steht-es-um-den-impfstoff-im-land-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/grippesaison-steht-an-so-steht-es-um-den-impfstoff-im-land",
-      "published": "Sun, 27 Sep 2026 02:00:29 -0000",
-      "published_display": "27.09.2026 · 02:00 Uhr"
-    },
-    {
-      "title": "Verkehr: Ausbau der Pendler-Radrouten geht nur langsam voran",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/ausbau-der-pendler-radrouten-geht-nur-langsam-voran-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/ausbau-der-pendler-radrouten-geht-nur-langsam-voran",
-      "published": "Sun, 27 Sep 2026 02:00:27 -0000",
-      "published_display": "27.09.2026 · 02:00 Uhr"
-    },
-    {
-      "title": "Eingeschleppte Ameisenart: Invasive Ameise Tapinoma in rund 90 Kommunen nachgewiesen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/invasive-ameise-tapinoma-in-rund-90-kommunen-nachgewiesen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/invasive-ameise-tapinoma-in-rund-90-kommunen-nachgewiesen",
-      "published": "Sun, 27 Sep 2026 02:00:22 -0000",
-      "published_display": "27.09.2026 · 02:00 Uhr"
-    },
-    {
-      "title": "«Gewichtsstigmatisierung»: Hohes Gewicht, großer Druck: Was übergewichtige Eltern nervt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/hohes-gewicht-grosser-druck-was-uebergewichtige-eltern-nervt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/hohes-gewicht-grosser-druck-was-uebergewichtige-eltern-nervt",
-      "published": "Sun, 27 Sep 2026 02:00:18 -0000",
-      "published_display": "27.09.2026 · 02:00 Uhr"
-    },
-    {
-      "title": "Polizeiermittlungen: Vermisste in Sachsen-Anhalt: Großteil Kinder und Jugendliche",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/vermisste-in-sachsen-anhalt-grossteil-kinder-und-jugendliche-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/vermisste-in-sachsen-anhalt-grossteil-kinder-und-jugendliche",
-      "published": "Sun, 27 Sep 2026 02:00:15 -0000",
-      "published_display": "27.09.2026 · 02:00 Uhr"
-    },
-    {
-      "title": "Schwedens Königin kommt: Royaler Besuch am Bodensee: Hier zeigt sich Königin Silvia",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/royaler-besuch-am-bodensee-hier-zeigt-sich-koenigin-silvia-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/royaler-besuch-am-bodensee-hier-zeigt-sich-koenigin-silvia",
-      "published": "Sun, 27 Sep 2026 02:00:14 -0000",
-      "published_display": "27.09.2026 · 02:00 Uhr"
     }
   ]
 }
