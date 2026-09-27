@@ -1,6 +1,6 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-27T01:43:19.448094+00:00",
+  "updated": "2026-09-27T01:55:47.080202+00:00",
   "items": [
     {
       "title": "Extremwetter: Schwerer Sturm legt Flugverkehr im Nordosten der USA lahm",
@@ -8,6 +8,14 @@
       "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-09/sturm-usa-new-york-stromausfall-flugverkehr-foto-1/original__640x360",
       "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-09/sturm-usa-new-york-stromausfall-flugverkehr",
       "published": "Sun, 27 Sep 2026 01:42:56 -0000",
+      "published_display": "27.09.2026 · 01:42 Uhr"
+    },
+    {
+      "title": "Unfälle: Auto überschlägt sich - zwei Leichtverletzte",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/auto-ueberschlaegt-sich-zwei-leichtverletzte-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/auto-ueberschlaegt-sich-zwei-leichtverletzte",
+      "published": "Sun, 27 Sep 2026 01:42:05 -0000",
       "published_display": "27.09.2026 · 01:42 Uhr"
     },
     {
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/26/riesen-protest-gegen-zwangsraeumung-einer-rentnerin-in-madrid",
       "published": "Sun, 27 Sep 2026 00:07:39 -0000",
       "published_display": "27.09.2026 · 00:07 Uhr"
-    },
-    {
-      "title": "Unfälle: Auto prallt gegen Baum und fängt Feuer - ein Toter",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/auto-prallt-gegen-baum-und-faengt-feuer-ein-toter-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/auto-prallt-gegen-baum-und-faengt-feuer-ein-toter",
-      "published": "Sat, 26 Sep 2026 23:59:13 -0000",
-      "published_display": "26.09.2026 · 23:59 Uhr"
     }
   ]
 }
