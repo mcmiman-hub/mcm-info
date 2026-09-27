@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-27T23:28:07.999281+00:00",
+  "updated": "2026-09-27T23:42:20.491402+00:00",
   "items": [
+    {
+      "title": "Feuer: Großeinsatz: Laubenbrand in Bitterfeld",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/28/grosseinsatz-laubenbrand-in-bitterfeld-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/28/grosseinsatz-laubenbrand-in-bitterfeld",
+      "published": "Sun, 27 Sep 2026 23:38:55 -0000",
+      "published_display": "27.09.2026 · 23:38 Uhr"
+    },
     {
       "title": "Feuer: Großbrand in Gutach - Bahnstrecke teils gesperrt",
       "summary": "",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/27/irak-us-truppen-sind-vollstaendig-abgezogen",
       "published": "Sun, 27 Sep 2026 20:54:12 -0000",
       "published_display": "27.09.2026 · 20:54 Uhr"
-    },
-    {
-      "title": "Uefa Nations League: Deutsche Nationalelf verliert gegen Griechenland",
-      "summary": "Jürgen Klopp hat bei seinem Heimdebüt mehrere Positionen in der Nationalelf gewechselt. Trotzdem unterlag die deutsche Mannschaft am Ende den Griechen. Der Spielbericht",
-      "image": "https://img.zeit.de/sport/2026-09/deutschland-griechenland-bild/original__640x360",
-      "link": "https://www.zeit.de/sport/2026-09/uefa-nations-league-deutschland-griechenland",
-      "published": "Sun, 27 Sep 2026 20:49:57 -0000",
-      "published_display": "27.09.2026 · 20:49 Uhr"
     }
   ]
 }
