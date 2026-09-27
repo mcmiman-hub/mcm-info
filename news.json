@@ -1,6 +1,6 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-27T19:54:05.188179+00:00",
+  "updated": "2026-09-27T20:16:57.426599+00:00",
   "items": [
     {
       "title": "OB-Wahl in Hannover: Grünen-Politiker Belit Onay gewinnt Bürgermeisterstichwahl in Hannover",
@@ -9,14 +9,6 @@
       "link": "https://www.zeit.de/politik/deutschland/2026-09/ob-wahl-hannover-belit-onay-axel-von-der-ohe-gruene-spd",
       "published": "Sun, 27 Sep 2026 19:52:51 -0000",
       "published_display": "27.09.2026 · 19:52 Uhr"
-    },
-    {
-      "title": "Abwahl: Raunheimer Bürgermeister Rendel abgewählt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/raunheimer-buergermeister-rendel-abgewaehlt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/raunheimer-buergermeister-rendel-abgewaehlt",
-      "published": "Sun, 27 Sep 2026 19:41:44 -0000",
-      "published_display": "27.09.2026 · 19:41 Uhr"
     },
     {
       "title": "Parlamentswahl in Serbien: Serbiens Präsident Aleksandar Vučić tritt zurück",
@@ -121,6 +113,14 @@
       "link": "https://www.zeit.de/news/2026-09/27/bis-zu-32-grad-wo-es-am-sonntag-im-suedwesten-heiss-wird",
       "published": "Sun, 27 Sep 2026 18:36:10 -0000",
       "published_display": "27.09.2026 · 18:36 Uhr"
+    },
+    {
+      "title": "Kommunalwahlen: Onay gewinnt Stichwahl um Hannovers Oberbürgermeisteramt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/zwischenstand-ob-wahl-hannover-onay-fuehrt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/zwischenstand-ob-wahl-hannover-onay-fuehrt",
+      "published": "Sun, 27 Sep 2026 18:34:45 -0000",
+      "published_display": "27.09.2026 · 18:34 Uhr"
     }
   ]
 }
