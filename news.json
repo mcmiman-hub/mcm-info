@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-27T07:43:48.546901+00:00",
+  "updated": "2026-09-27T07:55:20.630015+00:00",
   "items": [
+    {
+      "title": "Boeing 737 MAX: Boeing entdeckt neuen Software-Fehler bei 737 Max",
+      "summary": "Nach einem Software-Update meldet der US-Flugzeugbauer Boeing ein Problem. Es kann bei den Modellen 737 Max bei der automatisierten Landenavigation auftreten.",
+      "image": "https://img.zeit.de/mobilitaet/2026-09/boeing-737-max-software-fehler-navigation-southwest-united-foto-1/original__640x360",
+      "link": "https://www.zeit.de/mobilitaet/2026-09/boeing-737-max-software-fehler-navigation-southwest-united",
+      "published": "Sun, 27 Sep 2026 07:52:03 -0000",
+      "published_display": "27.09.2026 · 07:52 Uhr"
+    },
+    {
+      "title": "Laufsport: 1.800 Polizisten sichern Marathon – viele Straßen gesperrt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/1-800-polizisten-sichern-marathon-viele-strassen-gesperrt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/1-800-polizisten-sichern-marathon-viele-strassen-gesperrt",
+      "published": "Sun, 27 Sep 2026 07:49:36 -0000",
+      "published_display": "27.09.2026 · 07:49 Uhr"
+    },
+    {
+      "title": "Sportpolitik: Berliner Sport: Neue Machtverhältnisse, alte Baustellen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/berlins-sport-bei-machtwechsel-vor-neuen-fragen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/berlins-sport-bei-machtwechsel-vor-neuen-fragen",
+      "published": "Sun, 27 Sep 2026 07:46:54 -0000",
+      "published_display": "27.09.2026 · 07:46 Uhr"
+    },
     {
       "title": "Basketball-Bundesliga: Alba nach Bayern-Pleite gelassen: «Sind noch am Anfang»",
       "summary": "",
@@ -9,14 +33,6 @@
       "link": "https://www.zeit.de/news/2026-09/27/alba-nach-bayern-pleite-gelassen-sind-noch-am-anfang",
       "published": "Sun, 27 Sep 2026 07:39:55 -0000",
       "published_display": "27.09.2026 · 07:39 Uhr"
-    },
-    {
-      "title": "Sportpolitik: Berlins Sport bei Machtwechsel vor neuen Fragen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/berlins-sport-bei-machtwechsel-vor-neuen-fragen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/berlins-sport-bei-machtwechsel-vor-neuen-fragen",
-      "published": "Sun, 27 Sep 2026 07:29:30 -0000",
-      "published_display": "27.09.2026 · 07:29 Uhr"
     },
     {
       "title": "Mit 2,7 Promille: Mann greift Kinder vor Einkaufszentrum an",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/27/mann-bei-streit-in-jena-mit-flasche-verletzt",
       "published": "Sun, 27 Sep 2026 06:40:54 -0000",
       "published_display": "27.09.2026 · 06:40 Uhr"
-    },
-    {
-      "title": "Brände: Dachstuhl brennt in Plauen – Bewohner retten sich",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/dachstuhl-brennt-in-plauen-bewohner-retten-sich-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/dachstuhl-brennt-in-plauen-bewohner-retten-sich",
-      "published": "Sun, 27 Sep 2026 06:35:00 -0000",
-      "published_display": "27.09.2026 · 06:35 Uhr"
-    },
-    {
-      "title": "Migration: Warten auf Sachsen-Anhalts Abschiebehaftanstalt - Und jetzt?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/warten-auf-sachsen-anhalts-abschiebehaftanstalt-und-jetzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/warten-auf-sachsen-anhalts-abschiebehaftanstalt-und-jetzt",
-      "published": "Sun, 27 Sep 2026 06:30:06 -0000",
-      "published_display": "27.09.2026 · 06:30 Uhr"
     }
   ]
 }
