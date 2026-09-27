@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-27T05:43:34.260551+00:00",
+  "updated": "2026-09-27T05:54:58.806073+00:00",
   "items": [
+    {
+      "title": "Unfälle: Reisebus auf A96 umgekippt – zwei Tote und mehrere Verletzte",
+      "summary": "",
+      "image": "https://img.zeit.de/administratives/sharing/fallback-image-die-zeit/wide__1300x731",
+      "link": "https://www.zeit.de/news/2026-09/27/reisebus-auf-a96-umgekippt-zwei-tote-und-mehrere-verletzte",
+      "published": "Sun, 27 Sep 2026 05:45:08 -0000",
+      "published_display": "27.09.2026 · 05:45 Uhr"
+    },
     {
       "title": "Wetterausblick für Bayern: Spätsommerliche Temperaturen in Bayern – bis zu 29 Grad",
       "summary": "",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/arbeit/2026-09/pilates-trainerin-quereinstieg-einkommen-kontoauszug",
       "published": "Sun, 27 Sep 2026 04:19:10 -0000",
       "published_display": "27.09.2026 · 04:19 Uhr"
-    },
-    {
-      "title": "EmpCo-Richtlinie: Wie Deutschland gegen Greenwashing und Verbrauchertäuschung vorgeht",
-      "summary": "Nicht alle Produkte sind so ökologisch, wie die Werbung es suggeriert. In Deutschland ist Greenwashing deshalb ab sofort verboten. Was ändert sich genau? Der Überblick.",
-      "image": "https://img.zeit.de/wirtschaft/2026-09/aakash-dhage-gvucee-exbe-unsplash-bild/original__640x360",
-      "link": "https://www.zeit.de/wirtschaft/2026-09/emp-co-richtlinie-greenwashing-produktlebensdauer-obsoleszenz-reparierbarkeit-faq",
-      "published": "Sun, 27 Sep 2026 04:16:45 -0000",
-      "published_display": "27.09.2026 · 04:16 Uhr"
     }
   ]
 }
