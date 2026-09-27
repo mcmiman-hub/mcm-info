@@ -1,7 +1,47 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-27T15:43:32.881888+00:00",
+  "updated": "2026-09-27T15:55:06.765263+00:00",
   "items": [
+    {
+      "title": "Wende durch Gilles: DFB-Pokal: Bayern-Frauen zittern sich ins Achtelfinale",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/dfb-pokal-bayern-frauen-zittern-sich-ins-achtelfinale-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/dfb-pokal-bayern-frauen-zittern-sich-ins-achtelfinale",
+      "published": "Sun, 27 Sep 2026 15:50:54 -0000",
+      "published_display": "27.09.2026 · 15:50 Uhr"
+    },
+    {
+      "title": "Manipulationen an der Börse: Mehrere Festnahmen nach Manipulationsskandal in der Türkei",
+      "summary": "Mit falschen Fondsbewertungen sollen Milliardengewinne an der türkischen Börse erzielt worden sein. Vermögenswerte wurden eingefroren, dazu gab es mehr als 40 Festnahmen.",
+      "image": "https://img.zeit.de/geld/2026-09/boersenmanipulation-tuerkei-istanbul-akin-guerlek-foto-1/original__640x360",
+      "link": "https://www.zeit.de/geld/2026-09/boersenmanipulation-tuerkei-istanbul-akin-guerlek",
+      "published": "Sun, 27 Sep 2026 15:49:07 -0000",
+      "published_display": "27.09.2026 · 15:49 Uhr"
+    },
+    {
+      "title": "Iran-Krieg: Trump: Erwarte weitere Gespräche mit dem Iran",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/trump-erwarte-weitere-gespraeche-mit-dem-iran-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/trump-erwarte-weitere-gespraeche-mit-dem-iran",
+      "published": "Sun, 27 Sep 2026 15:48:47 -0000",
+      "published_display": "27.09.2026 · 15:48 Uhr"
+    },
+    {
+      "title": "Bundesregierung: Linnemann gegen Pflegedeckel - Warum die Koalition streitet",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/linnemann-gegen-pflegedeckel-warum-die-koalition-streitet-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/linnemann-gegen-pflegedeckel-warum-die-koalition-streitet",
+      "published": "Sun, 27 Sep 2026 15:47:05 -0000",
+      "published_display": "27.09.2026 · 15:47 Uhr"
+    },
+    {
+      "title": "Basketball: Missglückter Saisonauftakt für Jena",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/missglueckter-saisonauftakt-fuer-jena-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/missglueckter-saisonauftakt-fuer-jena",
+      "published": "Sun, 27 Sep 2026 15:45:17 -0000",
+      "published_display": "27.09.2026 · 15:45 Uhr"
+    },
     {
       "title": "Kollision: Treckerfahrer bei Kollision verletzt",
       "summary": "",
@@ -17,14 +57,6 @@
       "link": "https://www.zeit.de/news/2026-09/27/zverev-fuehrt-team-europa-zum-triumph-beim-laver-cup",
       "published": "Sun, 27 Sep 2026 15:38:27 -0000",
       "published_display": "27.09.2026 · 15:38 Uhr"
-    },
-    {
-      "title": "Manipulationen an der Börse: Mehrere Festnahmen nach Manipulationsskandal in der Türkei",
-      "summary": "Mit falschen Fondsbewertungen sollen Milliardengewinne an der türkischen Börse erzielt worden sein. Vermögenswerte wurden eingefroren, dazu gab es mehr als 40 Festnahmen.",
-      "image": "https://img.zeit.de/geld/2026-09/boersenmanipulation-tuerkei-istanbul-akin-guerlek-foto-1/original__640x360",
-      "link": "https://www.zeit.de/geld/2026-09/boersenmanipulation-tuerkei-istanbul-akin-guerlek",
-      "published": "Sun, 27 Sep 2026 15:33:48 -0000",
-      "published_display": "27.09.2026 · 15:33 Uhr"
     },
     {
       "title": "Unfall beim Überholen: Schwerverletzter bei Frontalzusammenstoß in der Altmark",
@@ -89,38 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/27/linksjugend-nennt-berliner-polizei-kriminellen-clan",
       "published": "Sun, 27 Sep 2026 15:15:37 -0000",
       "published_display": "27.09.2026 · 15:15 Uhr"
-    },
-    {
-      "title": "Basketball: Seawolves verlieren nach dramatischer Schlussphase",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/seawolves-verlieren-nach-dramatischer-schlussphase-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/seawolves-verlieren-nach-dramatischer-schlussphase",
-      "published": "Sun, 27 Sep 2026 15:12:10 -0000",
-      "published_display": "27.09.2026 · 15:12 Uhr"
-    },
-    {
-      "title": "Kürbiswettbewerb: Der Super-Kürbis in Brandenburg bleibt unter einer Tonne",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/der-super-kuerbis-in-brandenburg-bleibt-unter-einer-tonne-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/der-super-kuerbis-in-brandenburg-bleibt-unter-einer-tonne",
-      "published": "Sun, 27 Sep 2026 15:11:59 -0000",
-      "published_display": "27.09.2026 · 15:11 Uhr"
-    },
-    {
-      "title": "Frauenerkrankungen: Es juckt und brennt, Sex wird zur Qual",
-      "summary": "Vulvaerkrankungen sind weitverbreitet, aber kaum bekannt, selbst unter Frauenärztinnen. Warum das so ist und was zwei Betroffenen in ihrem Leid geholfen hat.",
-      "image": "https://img.zeit.de/arbeit/2026-09/frauengesundheit-vulvaerkrankungen-intimbereich-medizin-behandlung-vulvodynie-bild/original__640x360",
-      "link": "https://www.zeit.de/gesundheit/2026-09/frauengesundheit-vulvaerkrankungen-intimbereich-medizin-behandlung-vulvodynie",
-      "published": "Sun, 27 Sep 2026 15:03:59 -0000",
-      "published_display": "27.09.2026 · 15:03 Uhr"
-    },
-    {
-      "title": "Parutyne in der Ukraine: Die Farbe des Krieges",
-      "summary": "Ein Dorf an der ukrainischen Front. Der Himmel voller Drohnen. Mittendrin Dmytro Moldovanov, der das größte Bild seines Lebens erschaffen will.",
-      "image": "https://img.zeit.de/zeit-magazin/2026/41/die-farbe-des-krieges-bild-1/original__640x360",
-      "link": "https://www.zeit.de/zeit-magazin/2026/41/parutyne-ukraine-dmytro-moldovanov-krieg-kunst-maler",
-      "published": "Sun, 27 Sep 2026 15:01:15 -0000",
-      "published_display": "27.09.2026 · 15:01 Uhr"
     }
   ]
 }
