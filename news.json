@@ -1,13 +1,29 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-27T20:43:19.570431+00:00",
+  "updated": "2026-09-27T20:54:50.558369+00:00",
   "items": [
+    {
+      "title": "Uefa Nations League: Deutsche Nationalelf verliert gegen Griechenland",
+      "summary": "Beim Heimdebüt von Jürgen Klopp kann sich Deutschland nicht gegen die Griechen durchsetzen. Vor dem Tor fehlte es trotz Chancen oft an Gefährlichkeit. Der Spielbericht",
+      "image": "https://img.zeit.de/sport/2026-09/deutschland-griechenland-bild/original__640x360",
+      "link": "https://www.zeit.de/sport/2026-09/uefa-nations-league-deutschland-griechenland",
+      "published": "Sun, 27 Sep 2026 20:49:57 -0000",
+      "published_display": "27.09.2026 · 20:49 Uhr"
+    },
     {
       "title": "Frankreich: Rassemblement National gewinnt weitere Sitze im Senat",
       "summary": "Auch nach den Teilwahlen dominieren die Konservativen in Frankreichs Senat. Die Partei von Marine Le Pen kann erstmals eine Fraktion bilden und erhält mehr Befugnisse.",
       "image": "https://img.zeit.de/politik/ausland/2026-09/senatswahl-frankreich-rassemblement-national-udr-foto-1/original__640x360",
       "link": "https://www.zeit.de/politik/ausland/2026-09/senatswahl-frankreich-rassemblement-national-udr",
       "published": "Sun, 27 Sep 2026 20:42:41 -0000",
+      "published_display": "27.09.2026 · 20:42 Uhr"
+    },
+    {
+      "title": "Fußball-Nationalmannschaft: Die Fußball-Nationalmannschaft in der Einzelkritik",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/die-fussball-nationalmannschaft-in-der-einzelkritik-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/die-fussball-nationalmannschaft-in-der-einzelkritik",
+      "published": "Sun, 27 Sep 2026 20:42:01 -0000",
       "published_display": "27.09.2026 · 20:42 Uhr"
     },
     {
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/27/papst-verurteilt-gesetze-zu-sterbehilfe",
       "published": "Sun, 27 Sep 2026 18:59:54 -0000",
       "published_display": "27.09.2026 · 18:59 Uhr"
-    },
-    {
-      "title": "Kommunalwahlen: AfD verliert drei Stichwahlen deutlich",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/gegen-afd-kandidatin-cdu-ob-gewinnt-in-salzgitter-klar-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/gegen-afd-kandidatin-cdu-ob-gewinnt-in-salzgitter-klar",
-      "published": "Sun, 27 Sep 2026 18:57:17 -0000",
-      "published_display": "27.09.2026 · 18:57 Uhr"
-    },
-    {
-      "title": "Fußball-Nationalmannschaft: «Habe Riesenbock»: Neuling Conté spielt gegen Griechenland",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/fuenf-aenderungen-mit-neuling-cont-gegen-griechenland-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/fuenf-aenderungen-mit-neuling-cont-gegen-griechenland",
-      "published": "Sun, 27 Sep 2026 18:51:09 -0000",
-      "published_display": "27.09.2026 · 18:51 Uhr"
     }
   ]
 }
