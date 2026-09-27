@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-27T04:44:28.478748+00:00",
+  "updated": "2026-09-27T04:56:02.172209+00:00",
   "items": [
+    {
+      "title": "Papst Leo XIV. in Paris: Kirchenoberhaupt, Diplomat, Rockstar",
+      "summary": "Eine halbe Million Menschen strömte auf die Champs-Elysées, um Leo XIV. live zu sehen. Ein guter Moment, um der Frage nachzugehen, was für ein Papst dieser Mann ist.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/papst-leo-paris-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/papst-leo-xvi-paris-besuch-champs-elysee",
+      "published": "Sun, 27 Sep 2026 04:44:41 -0000",
+      "published_display": "27.09.2026 · 04:44 Uhr"
+    },
     {
       "title": "Konflikte: Gericht in Nordirland lässt umstrittene Oranier-Parade zu",
       "summary": "",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/politik/ausland/2026-09/neutralitaets-initiative-schweiz-volksabstimmung-pro-schweiz-russland-sanktionen",
       "published": "Sun, 27 Sep 2026 03:51:15 -0000",
       "published_display": "27.09.2026 · 03:51 Uhr"
-    },
-    {
-      "title": "Brände: Reitanlage in Flammen - 47 Pferde gerettet",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/reitanlage-in-flammen-47-pferde-gerettet-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/reitanlage-in-flammen-47-pferde-gerettet",
-      "published": "Sun, 27 Sep 2026 03:47:51 -0000",
-      "published_display": "27.09.2026 · 03:47 Uhr"
     }
   ]
 }
