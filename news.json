@@ -1,7 +1,39 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-27T14:43:16.053368+00:00",
+  "updated": "2026-09-27T14:54:42.226677+00:00",
   "items": [
+    {
+      "title": "Reformen: Der Mensch ist keine Kostenstelle",
+      "summary": "In der Reformdebatte wird der Mensch oft nur als Kostenfaktor behandelt. Die Regierung sollte ihren Blick weiten. Denn diese Logik ist auch im Hinblick auf KI gefährlich.",
+      "image": "https://img.zeit.de/arbeit/2026-09/reform-debatte-kosten-menschen-kuenstliche-intelligenz-bild/original__640x360",
+      "link": "https://www.zeit.de/arbeit/2026-09/reform-debatte-kosten-menschen-kuenstliche-intelligenz",
+      "published": "Sun, 27 Sep 2026 14:51:22 -0000",
+      "published_display": "27.09.2026 · 14:51 Uhr"
+    },
+    {
+      "title": "Demokratie: Rund 11.000 Gäste beim Tag der offenen Tür im Landtag",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/rund-11-000-gaeste-beim-tag-der-offenen-tuer-im-landtag-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/rund-11-000-gaeste-beim-tag-der-offenen-tuer-im-landtag",
+      "published": "Sun, 27 Sep 2026 14:50:55 -0000",
+      "published_display": "27.09.2026 · 14:50 Uhr"
+    },
+    {
+      "title": "DFB-Pokal der Frauen: Union-Frauen in nächster Runde - Viktoria scheitert spät",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/union-frauen-in-naechster-runde-viktoria-scheitert-spaet-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/union-frauen-in-naechster-runde-viktoria-scheitert-spaet",
+      "published": "Sun, 27 Sep 2026 14:50:00 -0000",
+      "published_display": "27.09.2026 · 14:50 Uhr"
+    },
+    {
+      "title": "Frauengesundheit: Frauenrat will Abtreibung als Teil der Gesundheitsversorgung",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/frauenrat-will-abtreibung-als-teil-der-gesundheitsversorgung-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/frauenrat-will-abtreibung-als-teil-der-gesundheitsversorgung",
+      "published": "Sun, 27 Sep 2026 14:49:46 -0000",
+      "published_display": "27.09.2026 · 14:49 Uhr"
+    },
     {
       "title": "Grüne Tage Thüringen: Knapp 20.000 Besucher bei Landwirtschaftsmesse in Erfurt",
       "summary": "",
@@ -89,38 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/27/entscheidungen-ueber-kommunale-spitzenaemter-in-niedersachsen",
       "published": "Sun, 27 Sep 2026 14:13:07 -0000",
       "published_display": "27.09.2026 · 14:13 Uhr"
-    },
-    {
-      "title": "Leichtathletik: «Bitter»: Marathon-Drama in Berlin um Äthiopierin Assefa",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/kraempfe-beim-finish-assefa-verpasst-marathon-weltrekord-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/kraempfe-beim-finish-assefa-verpasst-marathon-weltrekord",
-      "published": "Sun, 27 Sep 2026 14:11:24 -0000",
-      "published_display": "27.09.2026 · 14:11 Uhr"
-    },
-    {
-      "title": "Halbzeit für das Oktoberfest: Wiesn-Halbzeit: Viel Andrang, gutes Wetter und zwei Unglücke",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/sonnig-froehlich-entspannt-eine-fast-perfekte-wiesn-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/sonnig-froehlich-entspannt-eine-fast-perfekte-wiesn",
-      "published": "Sun, 27 Sep 2026 14:04:53 -0000",
-      "published_display": "27.09.2026 · 14:04 Uhr"
-    },
-    {
-      "title": "Brände: Autobahn-Mittelstreifen brennt - Zigarettenkippe Ursache?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/autobahn-mittelstreifen-brennt-zigarettenkippe-ursache-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/autobahn-mittelstreifen-brennt-zigarettenkippe-ursache",
-      "published": "Sun, 27 Sep 2026 14:02:42 -0000",
-      "published_display": "27.09.2026 · 14:02 Uhr"
-    },
-    {
-      "title": "Fußball: Eintracht-Frauen souverän im DFB-Pokal weiter",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/eintracht-frauen-souveraen-im-dfb-pokal-weiter-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/eintracht-frauen-souveraen-im-dfb-pokal-weiter",
-      "published": "Sun, 27 Sep 2026 14:01:48 -0000",
-      "published_display": "27.09.2026 · 14:01 Uhr"
     }
   ]
 }
