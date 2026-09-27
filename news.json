@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-27T00:25:48.753818+00:00",
+  "updated": "2026-09-27T00:49:24.029788+00:00",
   "items": [
+    {
+      "title": "Nach Stromausfall: Universitätsmedizin Mainz nimmt wieder Patienten auf",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/universitaetsmedizin-mainz-nimmt-wieder-patienten-auf-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/universitaetsmedizin-mainz-nimmt-wieder-patienten-auf",
+      "published": "Sun, 27 Sep 2026 00:32:18 -0000",
+      "published_display": "27.09.2026 · 00:32 Uhr"
+    },
+    {
+      "title": "Karibik: USA rücken von Gewaltdrohung gegen Kuba ab",
+      "summary": "Diese Woche hatte US-Präsident Donald Trump Kuba für einen »gescheiterten Staat« erklärt, der »fallen« werde. Jetzt stellt er eine Einigung mit der Insel in Aussicht.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/donald-trump-kuba-regimewechsel-militaerdrohung-sanktionen-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/donald-trump-usa-kuba-regimewechsel-militaerdrohung-bruno-rodriguez-un-vollversammlung",
+      "published": "Sun, 27 Sep 2026 00:27:45 -0000",
+      "published_display": "27.09.2026 · 00:27 Uhr"
+    },
+    {
+      "title": "Fotografie: Bilder des Tages",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/bilder-des-tages-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/bilder-des-tages",
+      "published": "Sun, 27 Sep 2026 00:25:50 -0000",
+      "published_display": "27.09.2026 · 00:25 Uhr"
+    },
     {
       "title": "Wohnungsnot: Riesen-Protest gegen Zwangsräumung einer Rentnerin in Madrid",
       "summary": "",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/27/strassenbahn-in-koeln-erfasst-auto-ein-mann-stirbt",
       "published": "Sat, 26 Sep 2026 22:02:00 -0000",
       "published_display": "26.09.2026 · 22:02 Uhr"
-    },
-    {
-      "title": "Migration: Rhein: «Stadtbild»-Debatte fortsetzen und Lösungen anbieten",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/rhein-stadtbild-debatte-fortsetzen-und-loesungen-anbieten-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/rhein-stadtbild-debatte-fortsetzen-und-loesungen-anbieten",
-      "published": "Sat, 26 Sep 2026 22:01:04 -0000",
-      "published_display": "26.09.2026 · 22:01 Uhr"
-    },
-    {
-      "title": "Spanien: Tausende demonstrieren in Madrid für bezahlbaren Wohnraum",
-      "summary": "Eine 87-Jährige wurde in Madrid im Zuge einer Zwangsräumung aus ihrer Mietwohnung getragen. Das hat in Spanien die Debatte über bezahlbaren Wohnraum neu entfacht.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/spain-housing-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/proteste-madrid-maricarmen-abascal-zwangsraeumung-mieterschutz",
-      "published": "Sat, 26 Sep 2026 21:56:49 -0000",
-      "published_display": "26.09.2026 · 21:56 Uhr"
-    },
-    {
-      "title": "Kalenderblatt: Was geschah am 27. September?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/26/was-geschah-am-27-september-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/26/was-geschah-am-27-september",
-      "published": "Sat, 26 Sep 2026 21:55:04 -0000",
-      "published_display": "26.09.2026 · 21:55 Uhr"
     }
   ]
 }
