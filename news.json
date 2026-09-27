@@ -1,7 +1,71 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-27T03:56:23.582336+00:00",
+  "updated": "2026-09-27T04:17:49.969273+00:00",
   "items": [
+    {
+      "title": "EmpCo-Richtlinie: Wie Deutschland gegen Greenwashing und Verbrauchertäuschung vorgeht",
+      "summary": "Nicht alle Produkte sind so ökologisch, wie die Werbung es suggeriert. In Deutschland ist Greenwashing deshalb ab sofort verboten. Was ändert sich genau? Der Überblick.",
+      "image": "https://img.zeit.de/wirtschaft/2026-09/aakash-dhage-gvucee-exbe-unsplash-bild/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/2026-09/emp-co-richtlinie-greenwashing-produktlebensdauer-obsoleszenz-reparierbarkeit-faq",
+      "published": "Sun, 27 Sep 2026 04:16:45 -0000",
+      "published_display": "27.09.2026 · 04:16 Uhr"
+    },
+    {
+      "title": "Marina Abramović: Nackt, wenn es das Gesetz erlaubt",
+      "summary": "Statt in Buchform kommt Lebenshilfe jetzt immer öfter als Kartenset daher. Wie unsere Kolumnistin mit der Marina-Abramović-Edition ihr Leben noch mal neu beginnt.",
+      "image": "https://img.zeit.de/2026/41/marina-abramovic-neustart-leben-methode-karten-bild/original__640x360",
+      "link": "https://www.zeit.de/2026/41/marina-abramovic-neustart-leben-methode-karten",
+      "published": "Sun, 27 Sep 2026 04:09:39 -0000",
+      "published_display": "27.09.2026 · 04:09 Uhr"
+    },
+    {
+      "title": "Unser Personal Trainer: Der Pendellauf",
+      "summary": "Egal ob Sie Kampfsport machen, Tennis, Hockey, Fußball spielen oder einfach fitter werden möchten: Unsere neue Übung ist ideal, um Ausdauer und Schnelligkeit zu schulen.",
+      "image": "https://img.zeit.de/sport/2026-09/pendellauf-fitnessuebung-personal-trainer-teaserfoto/original__640x360",
+      "link": "https://www.zeit.de/sport/2026-09/pendellauf-fitnessuebung-personal-trainer",
+      "published": "Sun, 27 Sep 2026 04:08:31 -0000",
+      "published_display": "27.09.2026 · 04:08 Uhr"
+    },
+    {
+      "title": "Scharlotka: Der einfachste Apfelkuchen ist der beste Apfelkuchen",
+      "summary": "Eine Scharlotka braucht nur vier Zutaten. Sie ist in vielen osteuropäischen Ländern verbreitet – und wahrscheinlich die beste Art, der Apfelschwemme Herr zu werden.",
+      "image": "https://img.zeit.de/zeit-magazin/wochenmarkt/2026-09/scharlotka-apfelkuchen-osteuropa-backen-rezept-bild/original__640x360",
+      "link": "https://www.zeit.de/zeit-magazin/wochenmarkt/2026-09/scharlotka-apfelkuchen-osteuropa-backen-rezept",
+      "published": "Sun, 27 Sep 2026 04:07:42 -0000",
+      "published_display": "27.09.2026 · 04:07 Uhr"
+    },
+    {
+      "title": "Abstimmung in der Schweiz: Kann ein Land heute überhaupt neutral sein?",
+      "summary": "Die Schweiz stimmt ab: Soll die Neutralität in die Verfassung? Und: Nach den Wahlen fehlt die Aufmerksamkeit – ein Blick nach Sachsen-Anhalt und Mecklenburg-Vorpommern.",
+      "image": "https://img.zeit.de/politik/2026-09/schweiz-abstimmung-neutralitaet-verfassung-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/2026-09/schweiz-abstimmung-neutralitaet-verfassung",
+      "published": "Sun, 27 Sep 2026 04:01:23 -0000",
+      "published_display": "27.09.2026 · 04:01 Uhr"
+    },
+    {
+      "title": "US-Zwischenwahlen: Selbst aus vernagelten Häusern werden Stimmen abgegeben, behaupten sie",
+      "summary": "Seit Jahren schürt Trump das Gerücht des massenhaften Wahlbetrugs – für den es keine Belege gibt. Vor den Midterms zeigt sich, wie tief das Misstrauen inzwischen reicht.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/us-politics-trump-republicans-convention-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/us-zwischenwahlen-republikaner-demokraten-sicherheit",
+      "published": "Sun, 27 Sep 2026 04:00:50 -0000",
+      "published_display": "27.09.2026 · 04:00 Uhr"
+    },
+    {
+      "title": "Kuriositäten: Was uns Ortsnamen erzählen – von Neustadt bis Oberkaka",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/was-uns-ortsnamen-erzaehlen-von-neustadt-bis-oberkaka-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/was-uns-ortsnamen-erzaehlen-von-neustadt-bis-oberkaka",
+      "published": "Sun, 27 Sep 2026 04:00:07 -0000",
+      "published_display": "27.09.2026 · 04:00 Uhr"
+    },
+    {
+      "title": "Flugverkehr: Minister gegen Änderung von Nachtflugverbot am Flughafen BER",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/minister-gegen-aenderung-von-nachtflugverbot-am-flughafen-ber-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/minister-gegen-aenderung-von-nachtflugverbot-am-flughafen-ber",
+      "published": "Sun, 27 Sep 2026 04:00:04 -0000",
+      "published_display": "27.09.2026 · 04:00 Uhr"
+    },
     {
       "title": "Referendum: Schweizer entscheiden über stärkere Neutralität",
       "summary": "Wie neutral darf die Schweiz in der aktuellen Zeit sein? Darüber stimmen die Eidgenossen heute ab. Die Initiative geht von einer rechtskonservativen Gruppe aus.",
@@ -57,70 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/27/vorwurf-dreifachmord-prozess-gegen-38-jaehrigen-beginnt",
       "published": "Sun, 27 Sep 2026 03:15:04 -0000",
       "published_display": "27.09.2026 · 03:15 Uhr"
-    },
-    {
-      "title": "Bundesliga: Kieler Frust über Videobeweis: «Tut einfach weh»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/kieler-frust-ueber-videobeweis-tut-einfach-weh-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/kieler-frust-ueber-videobeweis-tut-einfach-weh",
-      "published": "Sun, 27 Sep 2026 03:14:04 -0000",
-      "published_display": "27.09.2026 · 03:14 Uhr"
-    },
-    {
-      "title": "Nahverkehr: Verbraucherzentralen fordern einheitliches Ticketsystem im ÖPNV",
-      "summary": "Künftig sollte es nur noch fünf Ticketarten für Busse und Bahnen in ganz Deutschland geben, fordern Verbraucherschützer. Der Fahrpreis soll nach Zeit gestaffelt sein.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/saarbahn-und-gdl-im-verhaerteten-tarifstreit-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/oepnv-tarife-tickets-preise-verbraucherzentrale",
-      "published": "Sun, 27 Sep 2026 03:04:03 -0000",
-      "published_display": "27.09.2026 · 03:04 Uhr"
-    },
-    {
-      "title": "Festwoche: 80 Jahre Landtag: Leinwand für Lichtkunst und Demokratie",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/80-jahre-landtag-leinwand-fuer-lichtkunst-und-demokratie-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/80-jahre-landtag-leinwand-fuer-lichtkunst-und-demokratie",
-      "published": "Sun, 27 Sep 2026 03:00:21 -0000",
-      "published_display": "27.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Bahnverkehr: Züge in NRW noch unpünktlicher als vor einem Jahr",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/zuege-in-nrw-noch-unpuenktlicher-als-vor-einem-jahr-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/zuege-in-nrw-noch-unpuenktlicher-als-vor-einem-jahr",
-      "published": "Sun, 27 Sep 2026 03:00:18 -0000",
-      "published_display": "27.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Städtebau-Projekt: Baubeginn für neue Störschleife in Itzehoe verzögert sich",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/baubeginn-fuer-neue-stoerschleife-in-itzehoe-verzoegert-sich-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/baubeginn-fuer-neue-stoerschleife-in-itzehoe-verzoegert-sich",
-      "published": "Sun, 27 Sep 2026 03:00:17 -0000",
-      "published_display": "27.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Anhörung im Thüringer Landtag: Warum Kerkeling und Maaßen über ein AfD-Verbot sprechen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/warum-kerkeling-und-maassen-ueber-ein-afd-verbot-sprechen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/warum-kerkeling-und-maassen-ueber-ein-afd-verbot-sprechen",
-      "published": "Sun, 27 Sep 2026 03:00:17 -0000",
-      "published_display": "27.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Nach der Wahl in Baden-Baden: So geht es mit Münchens Olympia-Bewerbung weiter",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/so-geht-es-mit-muenchens-olympia-bewerbung-weiter-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/so-geht-es-mit-muenchens-olympia-bewerbung-weiter",
-      "published": "Sun, 27 Sep 2026 03:00:10 -0000",
-      "published_display": "27.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Denkmäler: Goldener Saal nach Sanierung wieder geöffnet",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/goldener-saal-nach-sanierung-wieder-geoeffnet-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/goldener-saal-nach-sanierung-wieder-geoeffnet",
-      "published": "Sun, 27 Sep 2026 03:00:10 -0000",
-      "published_display": "27.09.2026 · 03:00 Uhr"
     }
   ]
 }
