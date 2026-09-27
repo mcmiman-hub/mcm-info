@@ -1,7 +1,55 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-27T09:29:35.366800+00:00",
+  "updated": "2026-09-27T09:43:42.910429+00:00",
   "items": [
+    {
+      "title": "Oktoberfest: Sonnig, fröhlich, entspannt: Eine fast perfekte Wiesn",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/sonnig-froehlich-entspannt-eine-fast-perfekte-wiesn-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/sonnig-froehlich-entspannt-eine-fast-perfekte-wiesn",
+      "published": "Sun, 27 Sep 2026 09:36:27 -0000",
+      "published_display": "27.09.2026 · 09:36 Uhr"
+    },
+    {
+      "title": "Bahnverkehr: Strecke bei Winsen gesperrt – Metronom-Züge fallen aus",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/strecke-bei-winsen-gesperrt-metronom-zuege-fallen-aus-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/strecke-bei-winsen-gesperrt-metronom-zuege-fallen-aus",
+      "published": "Sun, 27 Sep 2026 09:35:54 -0000",
+      "published_display": "27.09.2026 · 09:35 Uhr"
+    },
+    {
+      "title": "Sportpolitik: Berliner Sport: Neue Machtverhältnisse, alte Baustellen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/berlins-sport-bei-machtwechsel-vor-neuen-fragen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/berlins-sport-bei-machtwechsel-vor-neuen-fragen",
+      "published": "Sun, 27 Sep 2026 09:35:37 -0000",
+      "published_display": "27.09.2026 · 09:35 Uhr"
+    },
+    {
+      "title": "Wetteraussichten: Plötzlich wieder Sommer: Hitze zum Start in die neue Woche",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/ploetzlich-wieder-sommer-hitze-zum-start-in-die-neue-woche-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/ploetzlich-wieder-sommer-hitze-zum-start-in-die-neue-woche",
+      "published": "Sun, 27 Sep 2026 09:32:17 -0000",
+      "published_display": "27.09.2026 · 09:32 Uhr"
+    },
+    {
+      "title": "Feuerwehreinsatz: Brand in Müllpresse: Eingang auf Oktoberfest gesperrt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/brand-in-muellpresse-eingang-auf-oktoberfest-gesperrt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/brand-in-muellpresse-eingang-auf-oktoberfest-gesperrt",
+      "published": "Sun, 27 Sep 2026 09:30:45 -0000",
+      "published_display": "27.09.2026 · 09:30 Uhr"
+    },
+    {
+      "title": "Formel 1 in Aserbaidschan: WM-Duell als Psychospiel: «Jetzt geht es ans Eingemachte»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/wm-duell-als-psychospiel-jetzt-geht-es-ans-eingemachte-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/wm-duell-als-psychospiel-jetzt-geht-es-ans-eingemachte",
+      "published": "Sun, 27 Sep 2026 09:28:13 -0000",
+      "published_display": "27.09.2026 · 09:28 Uhr"
+    },
     {
       "title": "Zuwanderung: FDP-Vizechefin für stärkere Begrenzung von Migration",
       "summary": "",
@@ -12,7 +60,7 @@
     },
     {
       "title": "Berlin-Marathon: Äthiopierin Tigst Assefa verpasst Marathon-Weltrekord knapp",
-      "summary": "Lange sah es so aus, als ob in Berlin ein neuer Marathon-Weltrekord aufgestellt werden würde, doch Tigst Assefa bekam Muskelkrämpfe. Sie lief aber den Streckenrekord.",
+      "summary": "Lange sah es so aus, als ob in Berlin ein neuer Marathon-Weltrekord aufgestellt werden würde, doch Tigst Assefa bekam Muskelkrämpfe. Bei den Männern siegte Guye Adola.",
       "image": "https://img.zeit.de/sport/2026-09/berlin-marathon-tigst-assefa-guye-adola-foto-1/original__640x360",
       "link": "https://www.zeit.de/sport/2026-09/berlin-marathon-tigst-assefa-guye-adola",
       "published": "Sun, 27 Sep 2026 09:25:53 -0000",
@@ -73,54 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/27/saarbahn-nimmt-nach-streik-wieder-den-betrieb-auf",
       "published": "Sun, 27 Sep 2026 09:19:31 -0000",
       "published_display": "27.09.2026 · 09:19 Uhr"
-    },
-    {
-      "title": "Leichtathletik: Krämpfe vor dem Ziel: Assefa verpasst Marathon-Weltrekord",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/kraempfe-beim-finish-assefa-verpasst-marathon-weltrekord-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/kraempfe-beim-finish-assefa-verpasst-marathon-weltrekord",
-      "published": "Sun, 27 Sep 2026 09:09:45 -0000",
-      "published_display": "27.09.2026 · 09:09 Uhr"
-    },
-    {
-      "title": "Zusammenstoß: Unfall in Lippe: Sechs Jugendliche teils schwer verletzt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/unfall-in-lippe-sechs-jugendliche-teils-schwer-verletzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/unfall-in-lippe-sechs-jugendliche-teils-schwer-verletzt",
-      "published": "Sun, 27 Sep 2026 09:06:11 -0000",
-      "published_display": "27.09.2026 · 09:06 Uhr"
-    },
-    {
-      "title": "Wahlsieg gegen Köln-Rhein-Ruhr: Jetzt in die Achterbahn: Wie München Olympia holen will",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/so-geht-es-mit-muenchens-olympia-bewerbung-weiter-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/so-geht-es-mit-muenchens-olympia-bewerbung-weiter",
-      "published": "Sun, 27 Sep 2026 09:00:30 -0000",
-      "published_display": "27.09.2026 · 09:00 Uhr"
-    },
-    {
-      "title": "Nach Drohnenangriffen: Russlands Krieg kommt näher",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/russlands-krieg-kommt-naeher-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/russlands-krieg-kommt-naeher",
-      "published": "Sun, 27 Sep 2026 08:59:32 -0000",
-      "published_display": "27.09.2026 · 08:59 Uhr"
-    },
-    {
-      "title": "Iran: Früher kamen die Teheraner Hippies auf die Delfin-Insel, heute: Stille",
-      "summary": "Was passiert in der Straße von Hormus? Unterwegs an der iranischen Küste, wo Raketen einschlagen, Fabriken stillstehen und auch Schmuggler sich fragen, wie es weitergeht",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/iran-strasse-von-hormus-reise-persischer-golf-bild-bild-07/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/iran-strasse-von-hormus-reise-persischer-golf",
-      "published": "Sun, 27 Sep 2026 08:54:16 -0000",
-      "published_display": "27.09.2026 · 08:54 Uhr"
-    },
-    {
-      "title": "Notfall: Feuer auf Fahrgastschiff – Besatzung verhindert Schlimmeres",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/feuer-auf-fahrgastschiff-besatzung-verhindert-schlimmeres-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/feuer-auf-fahrgastschiff-besatzung-verhindert-schlimmeres",
-      "published": "Sun, 27 Sep 2026 08:52:43 -0000",
-      "published_display": "27.09.2026 · 08:52 Uhr"
     }
   ]
 }
