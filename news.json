@@ -1,10 +1,106 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-27T07:55:20.630015+00:00",
+  "updated": "2026-09-27T08:17:54.041180+00:00",
   "items": [
     {
+      "title": "Verkehr: Motorrad streift Fahrrad - 76-Jähriger schwer verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/motorrad-streift-fahrrad-76-jaehriger-schwer-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/motorrad-streift-fahrrad-76-jaehriger-schwer-verletzt",
+      "published": "Sun, 27 Sep 2026 08:16:26 -0000",
+      "published_display": "27.09.2026 · 08:16 Uhr"
+    },
+    {
+      "title": "Kriminalität: 6.000 Liter Diesel von Bremer Firmengelände gestohlen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/6-000-liter-diesel-von-bremer-firmengelaende-gestohlen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/6-000-liter-diesel-von-bremer-firmengelaende-gestohlen",
+      "published": "Sun, 27 Sep 2026 08:14:57 -0000",
+      "published_display": "27.09.2026 · 08:14 Uhr"
+    },
+    {
+      "title": "Sportpolitik: Brandenburgs Sportminister freut sich über Olympia",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/brandenburgs-sportminister-freut-sich-ueber-olympia-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/brandenburgs-sportminister-freut-sich-ueber-olympia",
+      "published": "Sun, 27 Sep 2026 08:12:04 -0000",
+      "published_display": "27.09.2026 · 08:12 Uhr"
+    },
+    {
+      "title": "Verkehrsunfall in Osthessen: Radfahrer prallt gegen Auto – 14-Jähriger schwer verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/radfahrer-prallt-gegen-auto-14-jaehriger-schwer-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/radfahrer-prallt-gegen-auto-14-jaehriger-schwer-verletzt",
+      "published": "Sun, 27 Sep 2026 08:11:41 -0000",
+      "published_display": "27.09.2026 · 08:11 Uhr"
+    },
+    {
+      "title": "Spielstätte: Potsdams Hans Otto Theater feiert 20 Jahre Neubau am See",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/potsdams-hans-otto-theater-feiert-20-jahre-neubau-am-see-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/potsdams-hans-otto-theater-feiert-20-jahre-neubau-am-see",
+      "published": "Sun, 27 Sep 2026 08:09:56 -0000",
+      "published_display": "27.09.2026 · 08:09 Uhr"
+    },
+    {
+      "title": "Über zwei Promille: Betrunkener Autofahrer schläft während Fahrt auf A8 ein",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/betrunkener-autofahrer-schlaeft-waehrend-fahrt-auf-a8-ein-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/betrunkener-autofahrer-schlaeft-waehrend-fahrt-auf-a8-ein",
+      "published": "Sun, 27 Sep 2026 08:08:40 -0000",
+      "published_display": "27.09.2026 · 08:08 Uhr"
+    },
+    {
+      "title": "Konflikte: Gegendemonstranten blockieren Oranier-Parade in Nordirland",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/gericht-in-nordirland-laesst-umstrittene-oranier-parade-zu-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/gericht-in-nordirland-laesst-umstrittene-oranier-parade-zu",
+      "published": "Sun, 27 Sep 2026 08:04:08 -0000",
+      "published_display": "27.09.2026 · 08:04 Uhr"
+    },
+    {
+      "title": "Notfälle: Reizgas in Einkaufszentrum versprüht – 20 Betroffene",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/reizgas-in-einkaufszentrum-versprueht-20-betroffene-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/reizgas-in-einkaufszentrum-versprueht-20-betroffene",
+      "published": "Sun, 27 Sep 2026 07:59:31 -0000",
+      "published_display": "27.09.2026 · 07:59 Uhr"
+    },
+    {
+      "title": "Erich Schlatter: Das unerhörte Leben des Außenseiters Erich Schlatter",
+      "summary": "Ist er ein Querulant, ein Charismatiker oder ein Systemsprenger? Lange konnte niemand Erich Schlatter richtig böse sein. Dann wird ihm plötzlich ein Mord vorgeworfen.",
+      "image": "https://img.zeit.de/zeit-verbrechen/2026/40/systemsprenger-bild-10/original__640x360",
+      "link": "https://www.zeit.de/zeit-verbrechen/2026/40/erich-schlatter-schaffhausen-justiz-psychiatrie-schweiz",
+      "published": "Sun, 27 Sep 2026 07:57:37 -0000",
+      "published_display": "27.09.2026 · 07:57 Uhr"
+    },
+    {
+      "title": "Streitigkeiten: Neun Verletzte nach Streit bei Fest in Döbeln",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/neun-verletzte-nach-streit-bei-fest-in-doebeln-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/neun-verletzte-nach-streit-bei-fest-in-doebeln",
+      "published": "Sun, 27 Sep 2026 07:57:22 -0000",
+      "published_display": "27.09.2026 · 07:57 Uhr"
+    },
+    {
+      "title": "Sportpolitik: Berliner Sport: Neue Machtverhältnisse, alte Baustellen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/berlins-sport-bei-machtwechsel-vor-neuen-fragen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/berlins-sport-bei-machtwechsel-vor-neuen-fragen",
+      "published": "Sun, 27 Sep 2026 07:57:13 -0000",
+      "published_display": "27.09.2026 · 07:57 Uhr"
+    },
+    {
+      "title": "Excel-Meisterschaft: Das Preisgeld ist die =SUMME()",
+      "summary": "Excel ist der Schrecken aller Großraumbüros. Die Excel-Athleten sehen das anders, sie betreiben Tabellenkalkulation als Sport. Wer gewinnt, fährt zur WM – nach Las Vegas.",
+      "image": "https://img.zeit.de/digital/games/2026-09/260912-mroschmann-zeit-excelwm-17-bild/original__640x360",
+      "link": "https://www.zeit.de/digital/games/2026-09/excel-meisterschaft-microsoft-e-sport-las-vegas",
+      "published": "Sun, 27 Sep 2026 07:56:24 -0000",
+      "published_display": "27.09.2026 · 07:56 Uhr"
+    },
+    {
       "title": "Boeing 737 MAX: Boeing entdeckt neuen Software-Fehler bei 737 Max",
-      "summary": "Nach einem Software-Update meldet der US-Flugzeugbauer Boeing ein Problem. Es kann bei den Modellen 737 Max bei der automatisierten Landenavigation auftreten.",
+      "summary": "Der US-Flugzeugbauer Boeing meldet ein Software-Problem. Es kann bei den Modellen 737 Max bei der automatisierten Landenavigation auftreten.",
       "image": "https://img.zeit.de/mobilitaet/2026-09/boeing-737-max-software-fehler-navigation-southwest-united-foto-1/original__640x360",
       "link": "https://www.zeit.de/mobilitaet/2026-09/boeing-737-max-software-fehler-navigation-southwest-united",
       "published": "Sun, 27 Sep 2026 07:52:03 -0000",
@@ -19,108 +115,12 @@
       "published_display": "27.09.2026 · 07:49 Uhr"
     },
     {
-      "title": "Sportpolitik: Berliner Sport: Neue Machtverhältnisse, alte Baustellen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/berlins-sport-bei-machtwechsel-vor-neuen-fragen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/berlins-sport-bei-machtwechsel-vor-neuen-fragen",
-      "published": "Sun, 27 Sep 2026 07:46:54 -0000",
-      "published_display": "27.09.2026 · 07:46 Uhr"
-    },
-    {
       "title": "Basketball-Bundesliga: Alba nach Bayern-Pleite gelassen: «Sind noch am Anfang»",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-09/27/alba-nach-bayern-pleite-gelassen-sind-noch-am-anfang-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-09/27/alba-nach-bayern-pleite-gelassen-sind-noch-am-anfang",
       "published": "Sun, 27 Sep 2026 07:39:55 -0000",
       "published_display": "27.09.2026 · 07:39 Uhr"
-    },
-    {
-      "title": "Mit 2,7 Promille: Mann greift Kinder vor Einkaufszentrum an",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/mann-greift-kinder-vor-einkaufszentrum-an-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/mann-greift-kinder-vor-einkaufszentrum-an",
-      "published": "Sun, 27 Sep 2026 07:25:46 -0000",
-      "published_display": "27.09.2026 · 07:25 Uhr"
-    },
-    {
-      "title": "Unfälle: Pedelec und Motorrad prallen zusammen - Ein Schwerverletzter",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/pedelec-und-motorrad-prallen-zusammen-ein-schwerverletzter-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/pedelec-und-motorrad-prallen-zusammen-ein-schwerverletzter",
-      "published": "Sun, 27 Sep 2026 07:22:43 -0000",
-      "published_display": "27.09.2026 · 07:22 Uhr"
-    },
-    {
-      "title": "Verkehr: Autofahrer stirbt nach Kollision mit Lastwagen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/autofahrer-stirbt-nach-kollision-mit-lastwagen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/autofahrer-stirbt-nach-kollision-mit-lastwagen",
-      "published": "Sun, 27 Sep 2026 07:21:43 -0000",
-      "published_display": "27.09.2026 · 07:21 Uhr"
-    },
-    {
-      "title": "Bundesliga: Videobeweis sorgt für Diskussionen beim Handball-Derby",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/kieler-frust-ueber-videobeweis-tut-einfach-weh-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/kieler-frust-ueber-videobeweis-tut-einfach-weh",
-      "published": "Sun, 27 Sep 2026 07:19:22 -0000",
-      "published_display": "27.09.2026 · 07:19 Uhr"
-    },
-    {
-      "title": "Unfälle: Missglücktes Überholmanöver - zwei Schwerverletzte",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/missgluecktes-ueberholmanoever-zwei-schwerverletzte-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/missgluecktes-ueberholmanoever-zwei-schwerverletzte",
-      "published": "Sun, 27 Sep 2026 07:15:06 -0000",
-      "published_display": "27.09.2026 · 07:15 Uhr"
-    },
-    {
-      "title": "Fußball-Nationalmannschaft: Klopp verzichtet auf Schlotterbeck gegen Griechenland",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/klopp-verzichtet-auf-schlotterbeck-gegen-griechenland-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/klopp-verzichtet-auf-schlotterbeck-gegen-griechenland",
-      "published": "Sun, 27 Sep 2026 07:10:25 -0000",
-      "published_display": "27.09.2026 · 07:10 Uhr"
-    },
-    {
-      "title": "«Gewichtsstigmatisierung»: Hohes Gewicht, großer Druck: Was übergewichtige Eltern nervt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/hohes-gewicht-grosser-druck-was-uebergewichtige-eltern-nervt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/hohes-gewicht-grosser-druck-was-uebergewichtige-eltern-nervt",
-      "published": "Sun, 27 Sep 2026 07:03:14 -0000",
-      "published_display": "27.09.2026 · 07:03 Uhr"
-    },
-    {
-      "title": "Diplomatie: Wüst reist für drei Tage in die Türkei",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/wuest-reist-fuer-drei-tage-in-die-tuerkei-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/wuest-reist-fuer-drei-tage-in-die-tuerkei",
-      "published": "Sun, 27 Sep 2026 07:00:05 -0000",
-      "published_display": "27.09.2026 · 07:00 Uhr"
-    },
-    {
-      "title": "Unfälle: Reisebus auf A96 umgekippt – zwei Tote und 26 Verletzte",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/reisebus-auf-a96-umgekippt-zwei-tote-und-mehrere-verletzte-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/reisebus-auf-a96-umgekippt-zwei-tote-und-mehrere-verletzte",
-      "published": "Sun, 27 Sep 2026 06:58:34 -0000",
-      "published_display": "27.09.2026 · 06:58 Uhr"
-    },
-    {
-      "title": "Remis für Whitecaps: US-Fußball: Vancouver feiert «Raumdeuter» Müller",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/us-fussball-vancouver-feiert-raumdeuter-mueller-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/us-fussball-vancouver-feiert-raumdeuter-mueller",
-      "published": "Sun, 27 Sep 2026 06:57:17 -0000",
-      "published_display": "27.09.2026 · 06:57 Uhr"
-    },
-    {
-      "title": "Streitigkeiten: Mann bei Streit in Jena mit Flasche verletzt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/mann-bei-streit-in-jena-mit-flasche-verletzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/mann-bei-streit-in-jena-mit-flasche-verletzt",
-      "published": "Sun, 27 Sep 2026 06:40:54 -0000",
-      "published_display": "27.09.2026 · 06:40 Uhr"
     }
   ]
 }
