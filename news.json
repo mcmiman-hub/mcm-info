@@ -1,22 +1,38 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-27T20:54:50.558369+00:00",
+  "updated": "2026-09-27T21:16:42.261185+00:00",
   "items": [
-    {
-      "title": "Uefa Nations League: Deutsche Nationalelf verliert gegen Griechenland",
-      "summary": "Beim Heimdebüt von Jürgen Klopp kann sich Deutschland nicht gegen die Griechen durchsetzen. Vor dem Tor fehlte es trotz Chancen oft an Gefährlichkeit. Der Spielbericht",
-      "image": "https://img.zeit.de/sport/2026-09/deutschland-griechenland-bild/original__640x360",
-      "link": "https://www.zeit.de/sport/2026-09/uefa-nations-league-deutschland-griechenland",
-      "published": "Sun, 27 Sep 2026 20:49:57 -0000",
-      "published_display": "27.09.2026 · 20:49 Uhr"
-    },
     {
       "title": "Frankreich: Rassemblement National gewinnt weitere Sitze im Senat",
       "summary": "Auch nach den Teilwahlen dominieren die Konservativen in Frankreichs Senat. Die Partei von Marine Le Pen kann erstmals eine Fraktion bilden und erhält mehr Befugnisse.",
       "image": "https://img.zeit.de/politik/ausland/2026-09/senatswahl-frankreich-rassemblement-national-udr-foto-1/original__640x360",
       "link": "https://www.zeit.de/politik/ausland/2026-09/senatswahl-frankreich-rassemblement-national-udr",
-      "published": "Sun, 27 Sep 2026 20:42:41 -0000",
-      "published_display": "27.09.2026 · 20:42 Uhr"
+      "published": "Sun, 27 Sep 2026 21:08:33 -0000",
+      "published_display": "27.09.2026 · 21:08 Uhr"
+    },
+    {
+      "title": "Fußball-Nationalmannschaft: «Nicht gut genug»: Griechen crashen Klopps Heimdebüt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/erster-frust-fuer-klopp-griechen-crashen-aufbruchstimmung-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/erster-frust-fuer-klopp-griechen-crashen-aufbruchstimmung",
+      "published": "Sun, 27 Sep 2026 21:00:39 -0000",
+      "published_display": "27.09.2026 · 21:00 Uhr"
+    },
+    {
+      "title": "US-Militär in Nahost: Irak: US-Truppen sind vollständig abgezogen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/irak-us-truppen-sind-vollstaendig-abgezogen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/irak-us-truppen-sind-vollstaendig-abgezogen",
+      "published": "Sun, 27 Sep 2026 20:54:12 -0000",
+      "published_display": "27.09.2026 · 20:54 Uhr"
+    },
+    {
+      "title": "Uefa Nations League: Deutsche Nationalelf verliert gegen Griechenland",
+      "summary": "Jürgen Klopp hat bei seinem Heimdebüt mehrere Positionen in der Nationalelf gewechselt. Trotzdem unterlag die deutsche Mannschaft am Ende den Griechen. Der Spielbericht",
+      "image": "https://img.zeit.de/sport/2026-09/deutschland-griechenland-bild/original__640x360",
+      "link": "https://www.zeit.de/sport/2026-09/uefa-nations-league-deutschland-griechenland",
+      "published": "Sun, 27 Sep 2026 20:49:57 -0000",
+      "published_display": "27.09.2026 · 20:49 Uhr"
     },
     {
       "title": "Fußball-Nationalmannschaft: Die Fußball-Nationalmannschaft in der Einzelkritik",
@@ -25,14 +41,6 @@
       "link": "https://www.zeit.de/news/2026-09/27/die-fussball-nationalmannschaft-in-der-einzelkritik",
       "published": "Sun, 27 Sep 2026 20:42:01 -0000",
       "published_display": "27.09.2026 · 20:42 Uhr"
-    },
-    {
-      "title": "Fußball-Nationalmannschaft: Erster Frust für Klopp: Griechen crashen Aufbruchstimmung",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/erster-frust-fuer-klopp-griechen-crashen-aufbruchstimmung-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/erster-frust-fuer-klopp-griechen-crashen-aufbruchstimmung",
-      "published": "Sun, 27 Sep 2026 20:39:40 -0000",
-      "published_display": "27.09.2026 · 20:39 Uhr"
     },
     {
       "title": "Bürgerentscheid: Raunheimer Bürgermeister Rendel bleibt im Amt",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/27/afd-verliert-alle-drei-stichwahlen-onay-bleibt-hannover-ob",
       "published": "Sun, 27 Sep 2026 19:09:41 -0000",
       "published_display": "27.09.2026 · 19:09 Uhr"
-    },
-    {
-      "title": "Leo XIV. in Frankreich: Papst trifft Missbrauchsopfer in Lourdes",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/papst-verurteilt-gesetze-zu-sterbehilfe-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/papst-verurteilt-gesetze-zu-sterbehilfe",
-      "published": "Sun, 27 Sep 2026 18:59:54 -0000",
-      "published_display": "27.09.2026 · 18:59 Uhr"
     }
   ]
 }
