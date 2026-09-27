@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-27T16:17:38.415218+00:00",
+  "updated": "2026-09-27T16:30:57.784937+00:00",
   "items": [
+    {
+      "title": "Die Linke: Linksjugend nennt Berliner Polizei «kriminellen Clan»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/linksjugend-nennt-berliner-polizei-kriminellen-clan-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/linksjugend-nennt-berliner-polizei-kriminellen-clan",
+      "published": "Sun, 27 Sep 2026 16:28:49 -0000",
+      "published_display": "27.09.2026 · 16:28 Uhr"
+    },
+    {
+      "title": "Irankrieg: Donald Trump stellt neue Verhandlungen mit dem Iran in Aussicht",
+      "summary": "Nachdem er ein Gesprächsangebot des Iran abgelehnt hat, möchte Trump diese Woche erneut verhandeln. Sein Finanzminister pocht auf mehr Druck auf den Iran. Das Liveblog",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/iran-krieg-donald-trump-hormus-live-bild-7/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-05/iran-krieg-donald-trump-hormus-live",
+      "published": "Sun, 27 Sep 2026 16:24:17 -0000",
+      "published_display": "27.09.2026 · 16:24 Uhr"
+    },
     {
       "title": "Tennis: Alexander Zverev führt Team Europa zum Sieg beim Laver Cup",
       "summary": "Zum sechsten Mal gewinnt Team Europa den Laver Cup. Der Sieg Alexander Zverevs gegen den US-Amerikaner Learner Tien holte die entscheidenden Punkte bei dem Show-Event.",
@@ -9,14 +25,6 @@
       "link": "https://www.zeit.de/sport/2026-09/laver-cup-alexander-zverev-team-europa-learner-tien",
       "published": "Sun, 27 Sep 2026 16:14:16 -0000",
       "published_display": "27.09.2026 · 16:14 Uhr"
-    },
-    {
-      "title": "Irankrieg: Donald Trump stellt neue Verhandlungen mit dem Iran in Aussicht",
-      "summary": "Nachdem er ein Gesprächsangebot des Iran abgelehnt hat, möchte Trump diese Woche erneut verhandeln. Sein Finanzminister pocht auf mehr Druck auf den Iran. Das Liveblog",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/iran-krieg-donald-trump-hormus-live-bild-7/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-05/iran-krieg-donald-trump-hormus-live",
-      "published": "Sun, 27 Sep 2026 16:11:14 -0000",
-      "published_display": "27.09.2026 · 16:11 Uhr"
     },
     {
       "title": "Fotografie: Bilder des Tages",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/27/linnemann-gegen-pflegedeckel-warum-die-koalition-streitet",
       "published": "Sun, 27 Sep 2026 15:47:05 -0000",
       "published_display": "27.09.2026 · 15:47 Uhr"
-    },
-    {
-      "title": "Basketball: Missglückter Saisonauftakt für Jena",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/missglueckter-saisonauftakt-fuer-jena-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/missglueckter-saisonauftakt-fuer-jena",
-      "published": "Sun, 27 Sep 2026 15:45:17 -0000",
-      "published_display": "27.09.2026 · 15:45 Uhr"
     }
   ]
 }
