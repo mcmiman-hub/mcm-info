@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-27T04:31:14.555040+00:00",
+  "updated": "2026-09-27T04:44:28.478748+00:00",
   "items": [
+    {
+      "title": "Konflikte: Gericht in Nordirland lässt umstrittene Oranier-Parade zu",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/gericht-in-nordirland-laesst-umstrittene-oranier-parade-zu-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/gericht-in-nordirland-laesst-umstrittene-oranier-parade-zu",
+      "published": "Sun, 27 Sep 2026 04:40:13 -0000",
+      "published_display": "27.09.2026 · 04:40 Uhr"
+    },
+    {
+      "title": "Elektromobilität: Wenn der Notarzt mit dem E-Auto kommt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/wenn-der-notarzt-mit-dem-e-auto-kommt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/wenn-der-notarzt-mit-dem-e-auto-kommt",
+      "published": "Sun, 27 Sep 2026 04:30:05 -0000",
+      "published_display": "27.09.2026 · 04:30 Uhr"
+    },
     {
       "title": "Wildunfall: Unfall mit Wildschweinen auf A61",
       "summary": "",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/27/reitanlage-in-flammen-47-pferde-gerettet",
       "published": "Sun, 27 Sep 2026 03:47:51 -0000",
       "published_display": "27.09.2026 · 03:47 Uhr"
-    },
-    {
-      "title": "CDU nach Wahlniederlagen: Voigt fordert Trendumkehr: «Länder mischen sich ein»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/voigt-fordert-trendumkehr-laender-mischen-sich-ein-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/voigt-fordert-trendumkehr-laender-mischen-sich-ein",
-      "published": "Sun, 27 Sep 2026 03:30:15 -0000",
-      "published_display": "27.09.2026 · 03:30 Uhr"
-    },
-    {
-      "title": "Wahl des Bundespräsidenten: CSU-Vize: Kandidatur für Steinmeier-Nachfolge schnell klären",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/csu-vize-kandidatur-fuer-steinmeier-nachfolge-schnell-klaeren-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/csu-vize-kandidatur-fuer-steinmeier-nachfolge-schnell-klaeren",
-      "published": "Sun, 27 Sep 2026 03:30:08 -0000",
-      "published_display": "27.09.2026 · 03:30 Uhr"
     }
   ]
 }
