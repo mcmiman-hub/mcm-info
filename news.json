@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-27T03:45:03.737662+00:00",
+  "updated": "2026-09-27T03:56:23.582336+00:00",
   "items": [
+    {
+      "title": "Referendum: Schweizer entscheiden über stärkere Neutralität",
+      "summary": "Wie neutral darf die Schweiz in der aktuellen Zeit sein? Darüber stimmen die Eidgenossen heute ab. Die Initiative geht von einer rechtskonservativen Gruppe aus.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/switzerland-politics-vote-military-neutrality-demo-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/neutralitaets-initiative-schweiz-volksabstimmung-pro-schweiz-russland-sanktionen",
+      "published": "Sun, 27 Sep 2026 03:51:15 -0000",
+      "published_display": "27.09.2026 · 03:51 Uhr"
+    },
+    {
+      "title": "Brände: Reitanlage in Flammen - 47 Pferde gerettet",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/reitanlage-in-flammen-47-pferde-gerettet-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/reitanlage-in-flammen-47-pferde-gerettet",
+      "published": "Sun, 27 Sep 2026 03:47:51 -0000",
+      "published_display": "27.09.2026 · 03:47 Uhr"
+    },
     {
       "title": "CDU nach Wahlniederlagen: Voigt fordert Trendumkehr: «Länder mischen sich ein»",
       "summary": "",
@@ -104,22 +120,6 @@
       "image": "https://img.zeit.de/news/2026-09/27/goldener-saal-nach-sanierung-wieder-geoeffnet-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-09/27/goldener-saal-nach-sanierung-wieder-geoeffnet",
       "published": "Sun, 27 Sep 2026 03:00:10 -0000",
-      "published_display": "27.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Schifffahrt: Hadag beklagt Treibstoffkosten - Auswirkungen auch in Kiel",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/hadag-beklagt-treibstoffkosten-auswirkungen-auch-in-kiel-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/hadag-beklagt-treibstoffkosten-auswirkungen-auch-in-kiel",
-      "published": "Sun, 27 Sep 2026 03:00:07 -0000",
-      "published_display": "27.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Spielautomaten: Gewerkschaft fordert Schritte gegen illegales Glücksspiel",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/gewerkschaft-fordert-schritte-gegen-illegales-gluecksspiel-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/gewerkschaft-fordert-schritte-gegen-illegales-gluecksspiel",
-      "published": "Sun, 27 Sep 2026 03:00:06 -0000",
       "published_display": "27.09.2026 · 03:00 Uhr"
     }
   ]
