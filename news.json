@@ -1,7 +1,79 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-27T13:16:30.046453+00:00",
+  "updated": "2026-09-27T13:28:25.748558+00:00",
   "items": [
+    {
+      "title": "Knesset-Wahl in Israel: Israels Opposition vereinbart Zusammenarbeit gegen Benjamin Netanjahu",
+      "summary": "In Israel wollen jüdische Oppositionsparteien zusammenarbeiten, um einen Wahlsieg Benjamin Netanjahus zu verhindern. Auch Ex-Regierungschefs unterstützen die Kampagne.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/knesset-wahl-israel-opposition-benjamin-netanjahu-gaza-krieg-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/knesset-wahl-israel-opposition-zusammenarbeit",
+      "published": "Sun, 27 Sep 2026 13:26:04 -0000",
+      "published_display": "27.09.2026 · 13:26 Uhr"
+    },
+    {
+      "title": "Bundesverfassungsgericht: Republik »made in Karlsruhe«",
+      "summary": "Seit 75 Jahren prägt das Bundesverfassungsgericht die Republik. Doch die Rolle der Richter könnte sich ändern. Ein Szenario wäre besonders prägend.",
+      "image": "https://img.zeit.de/2026/41/republik-made-in-karlsruhe-bild-1/original__640x360",
+      "link": "https://www.zeit.de/2026/41/bundesverfassungsgericht-afd-verbotsverfahren-vertrauen",
+      "published": "Sun, 27 Sep 2026 13:24:22 -0000",
+      "published_display": "27.09.2026 · 13:24 Uhr"
+    },
+    {
+      "title": "Kriminalität: Toter aus Seefeld wurde erschossen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/toter-aus-seefeld-wurde-erschossen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/toter-aus-seefeld-wurde-erschossen",
+      "published": "Sun, 27 Sep 2026 13:22:07 -0000",
+      "published_display": "27.09.2026 · 13:22 Uhr"
+    },
+    {
+      "title": "Sport: Pflaume und Co.: Diese Promis liefen den Berlin-Marathon",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/pflaume-und-co-diese-promis-liefen-den-berlin-marathon-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/pflaume-und-co-diese-promis-liefen-den-berlin-marathon",
+      "published": "Sun, 27 Sep 2026 13:17:11 -0000",
+      "published_display": "27.09.2026 · 13:17 Uhr"
+    },
+    {
+      "title": "Unfälle: Junger Autofahrer flüchtet und prallt gegen Bagger",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/junger-autofahrer-fluechtet-und-prallt-gegen-bagger-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/junger-autofahrer-fluechtet-und-prallt-gegen-bagger",
+      "published": "Sun, 27 Sep 2026 13:16:53 -0000",
+      "published_display": "27.09.2026 · 13:16 Uhr"
+    },
+    {
+      "title": "Olympische Spiele 2036: Wie es nach Münchens Olympiabewerbung weitergeht",
+      "summary": "München geht als Kandidat um die Ausrichtung der Sommerspiele 2036, 2040, 2044 ins Rennen. Bis zur finalen Entscheidung sind es aber noch zwei Auswahlstufen.",
+      "image": "https://img.zeit.de/sport/2026-09/olympische-spiele-2036-ioc-bewerbung-deutschland-muenchen-foto-1/original__640x360",
+      "link": "https://www.zeit.de/sport/2026-09/olympische-spiele-2036-ioc-bewerbung-deutschland-muenchen",
+      "published": "Sun, 27 Sep 2026 13:16:18 -0000",
+      "published_display": "27.09.2026 · 13:16 Uhr"
+    },
+    {
+      "title": "Notfälle: Wohnhaus in Gotha in Brand",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/mehrfamilienhaus-in-gotha-in-brand-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/mehrfamilienhaus-in-gotha-in-brand",
+      "published": "Sun, 27 Sep 2026 13:15:52 -0000",
+      "published_display": "27.09.2026 · 13:15 Uhr"
+    },
+    {
+      "title": "Zollkontrollen: Zoll stellt Verstöße in Nagelstudios und Barbershops fest",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/zoll-stellt-verstoesse-in-nagelstudios-und-barbershops-fest-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/zoll-stellt-verstoesse-in-nagelstudios-und-barbershops-fest",
+      "published": "Sun, 27 Sep 2026 13:15:11 -0000",
+      "published_display": "27.09.2026 · 13:15 Uhr"
+    },
+    {
+      "title": "Fotografie: Bilder des Tages",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/26/bilder-des-tages-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/26/bilder-des-tages",
+      "published": "Sun, 27 Sep 2026 13:14:37 -0000",
+      "published_display": "27.09.2026 · 13:14 Uhr"
+    },
     {
       "title": "Betrugsversuch: Lkw mit Papier-Kennzeichen - Polizei stoppt Fahrer",
       "summary": "",
@@ -49,78 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/27/kinder-und-jugendliche-diskutieren-ueber-zukunftsfragen",
       "published": "Sun, 27 Sep 2026 13:08:32 -0000",
       "published_display": "27.09.2026 · 13:08 Uhr"
-    },
-    {
-      "title": "Mehrere Unfälle in Folge: Schwerverletzte und Sperrung nach Unfällen auf A36 im Harz",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/schwerverletzte-und-sperrung-nach-unfaellen-auf-a36-im-harz-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/schwerverletzte-und-sperrung-nach-unfaellen-auf-a36-im-harz",
-      "published": "Sun, 27 Sep 2026 13:08:23 -0000",
-      "published_display": "27.09.2026 · 13:08 Uhr"
-    },
-    {
-      "title": "RAF Fairford: Festnahmen nahe US-genutzter Militärbasis in Großbritannien",
-      "summary": "Wegen Sprengstoffverdachts sind Fahrzeuge nahe dem Militärstützpunkt Fairford durchsucht und Gebäude evakuiert worden. Der Stützpunkt wird von der US-Luftwaffe genutzt.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/raf-fairford-grossbritannien-polizei-usa-iran-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/raf-fairford-grossbritannien-polizei-usa-iran-gxe",
-      "published": "Sun, 27 Sep 2026 13:05:28 -0000",
-      "published_display": "27.09.2026 · 13:05 Uhr"
-    },
-    {
-      "title": "DFB-Pokal Frauen: RB Leipzig nach 2:0 in Marburg im Pokal-Achtelfinale",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/rb-leipzig-nach-2-0-in-marburg-im-pokal-achtelfinale-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/rb-leipzig-nach-2-0-in-marburg-im-pokal-achtelfinale",
-      "published": "Sun, 27 Sep 2026 13:03:04 -0000",
-      "published_display": "27.09.2026 · 13:03 Uhr"
-    },
-    {
-      "title": "Auf dem Weg zum Oktoberfest: Zwei Tote und viele Verletzte bei Busunfall auf A96",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/reisebus-auf-a96-umgekippt-zwei-tote-und-mehrere-verletzte-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/reisebus-auf-a96-umgekippt-zwei-tote-und-mehrere-verletzte",
-      "published": "Sun, 27 Sep 2026 13:02:26 -0000",
-      "published_display": "27.09.2026 · 13:02 Uhr"
-    },
-    {
-      "title": "Windenergie: Riesen-Windrad wächst - Weltrekord wird später ausgerufen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/riesen-windrad-waechst-weltrekord-wird-spaeter-ausgerufen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/riesen-windrad-waechst-weltrekord-wird-spaeter-ausgerufen",
-      "published": "Sun, 27 Sep 2026 12:55:44 -0000",
-      "published_display": "27.09.2026 · 12:55 Uhr"
-    },
-    {
-      "title": "Halbzeit für das Oktoberfest: Sonnig, sanft, sicher: Bilderbuch-Wiesn geht in zweite Runde",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/sonnig-froehlich-entspannt-eine-fast-perfekte-wiesn-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/sonnig-froehlich-entspannt-eine-fast-perfekte-wiesn",
-      "published": "Sun, 27 Sep 2026 12:55:35 -0000",
-      "published_display": "27.09.2026 · 12:55 Uhr"
-    },
-    {
-      "title": "Verkehr: Elbtunnel-Sperrung sorgt für Verzögerungen in und um Hamburg",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/elbtunnel-sperrung-sorgt-fuer-verzoegerungen-in-und-um-hamburg-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/elbtunnel-sperrung-sorgt-fuer-verzoegerungen-in-und-um-hamburg",
-      "published": "Sun, 27 Sep 2026 12:54:31 -0000",
-      "published_display": "27.09.2026 · 12:54 Uhr"
-    },
-    {
-      "title": "Sonne satt: Was für ein Herbstwochenende - Sommergefühle im Südwesten",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/bis-zu-32-grad-wo-es-am-sonntag-im-suedwesten-heiss-wird-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/bis-zu-32-grad-wo-es-am-sonntag-im-suedwesten-heiss-wird",
-      "published": "Sun, 27 Sep 2026 12:50:41 -0000",
-      "published_display": "27.09.2026 · 12:50 Uhr"
-    },
-    {
-      "title": "Franziska Brantner und Felix Banaszak: Grünenvorsitzende wollen für zweite Amtszeit kandidieren",
-      "summary": "Die Grünenvorsitzenden Franziska Brantner und Felix Banaszak wollen im Amt bleiben. Ziel sei eine Partei, »der die Menschen zutrauen, dieses Land voranzubringen«.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/franziska-brantner-felix-banaszak-gruene-parteivorsitz-bundesparteitag-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/franziska-brantner-felix-banaszak-gruene-parteivorsitz-bundesparteitag",
-      "published": "Sun, 27 Sep 2026 12:47:18 -0000",
-      "published_display": "27.09.2026 · 12:47 Uhr"
     }
   ]
 }
