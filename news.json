@@ -1,7 +1,39 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-27T08:17:54.041180+00:00",
+  "updated": "2026-09-27T08:31:14.398764+00:00",
   "items": [
+    {
+      "title": "Unfälle: 30 Kilometer lange Geisterfahrt auf A71 endet in Unfall",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/30-kilometer-lange-geisterfahrt-auf-a71-endet-in-unfall-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/30-kilometer-lange-geisterfahrt-auf-a71-endet-in-unfall",
+      "published": "Sun, 27 Sep 2026 08:28:53 -0000",
+      "published_display": "27.09.2026 · 08:28 Uhr"
+    },
+    {
+      "title": "Kritik innerhalb der CDU : CDU-Arbeitnehmerflügel sieht Status als Volkspartei bedroht",
+      "summary": "Nach den Wahlniederlagen fordert der CDU-Arbeitnehmerflügel eine breitere Aufstellung der Partei. Laut Medienbericht gibt es einen Appell zur »Reform einer Volkspartei«.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/cda-cdu-arbeitnehmer-dennis-radtke-friedrich-merz-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/cda-cdu-arbeitnehmer-dennis-radtke-friedrich-merz",
+      "published": "Sun, 27 Sep 2026 08:24:16 -0000",
+      "published_display": "27.09.2026 · 08:24 Uhr"
+    },
+    {
+      "title": "Entscheidung zu Olympia: München statt Köln: Das bedeutet die Olympia-Wahl für NRW",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/muenchen-statt-koeln-das-bedeutet-die-olympia-wahl-fuer-nrw-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/muenchen-statt-koeln-das-bedeutet-die-olympia-wahl-fuer-nrw",
+      "published": "Sun, 27 Sep 2026 08:22:01 -0000",
+      "published_display": "27.09.2026 · 08:22 Uhr"
+    },
+    {
+      "title": "Ministerpräsident: Rente: Wüst wiederholt Kritik am Reformtempo",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/rente-wuest-wiederholt-kritik-am-reformtempo-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/rente-wuest-wiederholt-kritik-am-reformtempo",
+      "published": "Sun, 27 Sep 2026 08:20:32 -0000",
+      "published_display": "27.09.2026 · 08:20 Uhr"
+    },
     {
       "title": "Verkehr: Motorrad streift Fahrrad - 76-Jähriger schwer verletzt",
       "summary": "",
@@ -89,38 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/27/berlins-sport-bei-machtwechsel-vor-neuen-fragen",
       "published": "Sun, 27 Sep 2026 07:57:13 -0000",
       "published_display": "27.09.2026 · 07:57 Uhr"
-    },
-    {
-      "title": "Excel-Meisterschaft: Das Preisgeld ist die =SUMME()",
-      "summary": "Excel ist der Schrecken aller Großraumbüros. Die Excel-Athleten sehen das anders, sie betreiben Tabellenkalkulation als Sport. Wer gewinnt, fährt zur WM – nach Las Vegas.",
-      "image": "https://img.zeit.de/digital/games/2026-09/260912-mroschmann-zeit-excelwm-17-bild/original__640x360",
-      "link": "https://www.zeit.de/digital/games/2026-09/excel-meisterschaft-microsoft-e-sport-las-vegas",
-      "published": "Sun, 27 Sep 2026 07:56:24 -0000",
-      "published_display": "27.09.2026 · 07:56 Uhr"
-    },
-    {
-      "title": "Boeing 737 MAX: Boeing entdeckt neuen Software-Fehler bei 737 Max",
-      "summary": "Der US-Flugzeugbauer Boeing meldet ein Software-Problem. Es kann bei den Modellen 737 Max bei der automatisierten Landenavigation auftreten.",
-      "image": "https://img.zeit.de/mobilitaet/2026-09/boeing-737-max-software-fehler-navigation-southwest-united-foto-1/original__640x360",
-      "link": "https://www.zeit.de/mobilitaet/2026-09/boeing-737-max-software-fehler-navigation-southwest-united",
-      "published": "Sun, 27 Sep 2026 07:52:03 -0000",
-      "published_display": "27.09.2026 · 07:52 Uhr"
-    },
-    {
-      "title": "Laufsport: 1.800 Polizisten sichern Marathon – viele Straßen gesperrt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/1-800-polizisten-sichern-marathon-viele-strassen-gesperrt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/1-800-polizisten-sichern-marathon-viele-strassen-gesperrt",
-      "published": "Sun, 27 Sep 2026 07:49:36 -0000",
-      "published_display": "27.09.2026 · 07:49 Uhr"
-    },
-    {
-      "title": "Basketball-Bundesliga: Alba nach Bayern-Pleite gelassen: «Sind noch am Anfang»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/alba-nach-bayern-pleite-gelassen-sind-noch-am-anfang-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/alba-nach-bayern-pleite-gelassen-sind-noch-am-anfang",
-      "published": "Sun, 27 Sep 2026 07:39:55 -0000",
-      "published_display": "27.09.2026 · 07:39 Uhr"
     }
   ]
 }
