@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-27T19:42:08.459215+00:00",
+  "updated": "2026-09-27T19:54:05.188179+00:00",
   "items": [
+    {
+      "title": "OB-Wahl in Hannover: Grünen-Politiker Belit Onay gewinnt Bürgermeisterstichwahl in Hannover",
+      "summary": "Zwei Wochen nach der Kommunalwahl in Niedersachsen ging es in einer Hochburg der Grünen in die Stichwahl. Der amtierende Oberbürgermeister wurde klar im Amt bestätigt.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/stichwahlen-bei-den-kommunalwahlen-in-niedersachsen-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/ob-wahl-hannover-belit-onay-axel-von-der-ohe-gruene-spd",
+      "published": "Sun, 27 Sep 2026 19:52:51 -0000",
+      "published_display": "27.09.2026 · 19:52 Uhr"
+    },
+    {
+      "title": "Abwahl: Raunheimer Bürgermeister Rendel abgewählt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/raunheimer-buergermeister-rendel-abgewaehlt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/raunheimer-buergermeister-rendel-abgewaehlt",
+      "published": "Sun, 27 Sep 2026 19:41:44 -0000",
+      "published_display": "27.09.2026 · 19:41 Uhr"
+    },
     {
       "title": "Parlamentswahl in Serbien: Serbiens Präsident Aleksandar Vučić tritt zurück",
       "summary": "Ein halbes Jahr vor Ende seines Mandats tritt Aleksandar Vučić als serbischer Präsident zurück. Mit dem Schritt will er vom Präsidialamt in das Amt des Premiers wechseln.",
@@ -11,12 +27,12 @@
       "published_display": "27.09.2026 · 19:41 Uhr"
     },
     {
-      "title": "WM in Montreal: Erster Weltmeister seit Armstrong: McNulty schockt Favoriten",
+      "title": "Straßenrad-WM: Armstrongs Erbe: Underdog McNulty krönt sich zum Weltmeister",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-09/27/erster-weltmeister-seit-armstrong-mcnulty-schockt-favoriten-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-09/27/erster-weltmeister-seit-armstrong-mcnulty-schockt-favoriten",
-      "published": "Sun, 27 Sep 2026 19:30:04 -0000",
-      "published_display": "27.09.2026 · 19:30 Uhr"
+      "published": "Sun, 27 Sep 2026 19:40:36 -0000",
+      "published_display": "27.09.2026 · 19:40 Uhr"
     },
     {
       "title": "Szene in ZDF-Dokumentation: Amthor eckt mit Strandkorb im Kanzleramt an",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/27/bis-zu-32-grad-wo-es-am-sonntag-im-suedwesten-heiss-wird",
       "published": "Sun, 27 Sep 2026 18:36:10 -0000",
       "published_display": "27.09.2026 · 18:36 Uhr"
-    },
-    {
-      "title": "Kommunalwahlen: Onay gewinnt Stichwahl um Hannovers Oberbürgermeisteramt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/zwischenstand-ob-wahl-hannover-onay-fuehrt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/zwischenstand-ob-wahl-hannover-onay-fuehrt",
-      "published": "Sun, 27 Sep 2026 18:34:45 -0000",
-      "published_display": "27.09.2026 · 18:34 Uhr"
-    },
-    {
-      "title": "Liveticker: Nations League: Live: Deutschland gegen Griechenland",
-      "summary": "Das zweite Länderspiel unter dem Bundestrainer Jürgen Klopp: In Augsburg trifft die deutsche Nationalmannschaft auf Griechenland. Die Nations League im Liveticker",
-      "image": "https://img.zeit.de/sport/2026-09/nations-league-uefa-fussball-2026-liveticker-bild-3/original__640x360",
-      "link": "https://www.zeit.de/sport/2026-09/nations-league-uefa-fussball-2026-liveticker",
-      "published": "Sun, 27 Sep 2026 18:33:33 -0000",
-      "published_display": "27.09.2026 · 18:33 Uhr"
     }
   ]
 }
