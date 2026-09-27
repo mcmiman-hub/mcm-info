@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-27T21:42:48.161944+00:00",
+  "updated": "2026-09-27T21:53:58.149843+00:00",
   "items": [
+    {
+      "title": "Fußball-Nationalmannschaft: «Teil des Prozesses»: Klopp übernimmt Verantwortung für 0:1",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/teil-des-prozesses-klopp-uebernimmt-verantwortung-fuer-0-1-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/teil-des-prozesses-klopp-uebernimmt-verantwortung-fuer-0-1",
+      "published": "Sun, 27 Sep 2026 21:51:23 -0000",
+      "published_display": "27.09.2026 · 21:51 Uhr"
+    },
+    {
+      "title": "Fußball-Nationalmannschaft: «Nicht gut genug»: Griechen crashen Klopps Heimdebüt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/erster-frust-fuer-klopp-griechen-crashen-aufbruchstimmung-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/erster-frust-fuer-klopp-griechen-crashen-aufbruchstimmung",
+      "published": "Sun, 27 Sep 2026 21:44:13 -0000",
+      "published_display": "27.09.2026 · 21:44 Uhr"
+    },
     {
       "title": "Verpuffung: Vater und zehnjähriger Sohn auf Kirmes schwer verletzt",
       "summary": "",
@@ -25,14 +41,6 @@
       "link": "https://www.zeit.de/politik/ausland/2026-09/senatswahl-frankreich-rassemblement-national-udr",
       "published": "Sun, 27 Sep 2026 21:08:33 -0000",
       "published_display": "27.09.2026 · 21:08 Uhr"
-    },
-    {
-      "title": "Fußball-Nationalmannschaft: «Nicht gut genug»: Griechen crashen Klopps Heimdebüt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/erster-frust-fuer-klopp-griechen-crashen-aufbruchstimmung-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/erster-frust-fuer-klopp-griechen-crashen-aufbruchstimmung",
-      "published": "Sun, 27 Sep 2026 21:00:39 -0000",
-      "published_display": "27.09.2026 · 21:00 Uhr"
     },
     {
       "title": "US-Militär in Nahost: Irak: US-Truppen sind vollständig abgezogen",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/27/amthor-eckt-mit-strandkorb-im-kanzleramt-an",
       "published": "Sun, 27 Sep 2026 19:23:04 -0000",
       "published_display": "27.09.2026 · 19:23 Uhr"
-    },
-    {
-      "title": "Wahlen: Grüne erobern Landratsamt in Osterholz von der SPD",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/gruene-erobern-landratsamt-in-osterholz-von-der-spd-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/gruene-erobern-landratsamt-in-osterholz-von-der-spd",
-      "published": "Sun, 27 Sep 2026 19:13:26 -0000",
-      "published_display": "27.09.2026 · 19:13 Uhr"
     }
   ]
 }
