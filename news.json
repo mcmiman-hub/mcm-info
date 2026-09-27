@@ -1,7 +1,39 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-27T03:31:29.607946+00:00",
+  "updated": "2026-09-27T03:45:03.737662+00:00",
   "items": [
+    {
+      "title": "CDU nach Wahlniederlagen: Voigt fordert Trendumkehr: «Länder mischen sich ein»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/voigt-fordert-trendumkehr-laender-mischen-sich-ein-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/voigt-fordert-trendumkehr-laender-mischen-sich-ein",
+      "published": "Sun, 27 Sep 2026 03:30:15 -0000",
+      "published_display": "27.09.2026 · 03:30 Uhr"
+    },
+    {
+      "title": "Wahl des Bundespräsidenten: CSU-Vize: Kandidatur für Steinmeier-Nachfolge schnell klären",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/csu-vize-kandidatur-fuer-steinmeier-nachfolge-schnell-klaeren-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/csu-vize-kandidatur-fuer-steinmeier-nachfolge-schnell-klaeren",
+      "published": "Sun, 27 Sep 2026 03:30:08 -0000",
+      "published_display": "27.09.2026 · 03:30 Uhr"
+    },
+    {
+      "title": "Schutz des Wattenmeeres: Wachen Nationalpark-Ranger bald auch auf der Nordsee?",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/wachen-nationalpark-ranger-bald-auch-auf-der-nordsee-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/wachen-nationalpark-ranger-bald-auch-auf-der-nordsee",
+      "published": "Sun, 27 Sep 2026 03:30:07 -0000",
+      "published_display": "27.09.2026 · 03:30 Uhr"
+    },
+    {
+      "title": "Film über Pflegeroboter: Mit KI gegen Einsamkeit? Doris Dörrie und ihr Wunschroboter",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/mit-ki-gegen-einsamkeit-doris-doerrie-und-ihr-wunschroboter-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/mit-ki-gegen-einsamkeit-doris-doerrie-und-ihr-wunschroboter",
+      "published": "Sun, 27 Sep 2026 03:30:05 -0000",
+      "published_display": "27.09.2026 · 03:30 Uhr"
+    },
     {
       "title": "Kriminalität: Vorwurf: Dreifachmord - Prozess gegen 38-Jährigen beginnt",
       "summary": "",
@@ -89,38 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/27/gewerkschaft-fordert-schritte-gegen-illegales-gluecksspiel",
       "published": "Sun, 27 Sep 2026 03:00:06 -0000",
       "published_display": "27.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Modernisierung: Hunderte neue Streifenwagen für die NRW-Polizei",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/hunderte-neue-streifenwagen-fuer-die-nrw-polizei-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/hunderte-neue-streifenwagen-fuer-die-nrw-polizei",
-      "published": "Sun, 27 Sep 2026 03:00:05 -0000",
-      "published_display": "27.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Hitzewelle: Todesfälle in Kliniken - Kein Hinweis auf Versäumnisse",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/todesfaelle-in-kliniken-kein-hinweis-auf-versaeumnisse-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/todesfaelle-in-kliniken-kein-hinweis-auf-versaeumnisse",
-      "published": "Sun, 27 Sep 2026 03:00:04 -0000",
-      "published_display": "27.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Künstliche Intelligenz: OpenAI stoppt KI-Training nach neuem Vorfall",
-      "summary": "Trotz verstärkter Sicherheitsregeln hat sich wieder eine künstliche Intelligenz von OpenAI verselbstständigt. Der Konzern setzt Tests der fortschrittlichsten Modelle aus.",
-      "image": "https://img.zeit.de/digital/internet/2026-09/openai-sicherheitsvorfall-ki-dns-luecke-training-pause-foto-1/original__640x360",
-      "link": "https://www.zeit.de/digital/internet/2026-09/openai-sicherheitsvorfall-ki-dns-luecke-training-pause",
-      "published": "Sun, 27 Sep 2026 02:36:05 -0000",
-      "published_display": "27.09.2026 · 02:36 Uhr"
-    },
-    {
-      "title": "Brände: Haus in Pfullendorf in Flammen - hoher Schaden",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/haus-in-pfullendorf-komplett-in-flammen-hoher-schaden-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/haus-in-pfullendorf-komplett-in-flammen-hoher-schaden",
-      "published": "Sun, 27 Sep 2026 02:34:36 -0000",
-      "published_display": "27.09.2026 · 02:34 Uhr"
     }
   ]
 }
