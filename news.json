@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-27T22:54:53.990426+00:00",
+  "updated": "2026-09-27T23:15:55.022023+00:00",
   "items": [
+    {
+      "title": "Feuer: Großbrand in Gutach - Bahnstrecke teils gesperrt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/28/grossbrand-in-gutach-bahnstrecke-teils-gesperrt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/28/grossbrand-in-gutach-bahnstrecke-teils-gesperrt",
+      "published": "Sun, 27 Sep 2026 23:03:49 -0000",
+      "published_display": "27.09.2026 · 23:03 Uhr"
+    },
+    {
+      "title": "Bundesregierung: CDU-Generalsekretärin verlangt schnellere Umsetzung von Reformen",
+      "summary": "Vor allem nach den Landtagswahlen ist laut Franziska Hoppermann mehr Geschwindigkeit bei den Reformplänen nötig. Sie erwarte »auch von der SPD« mehr Ernsthaftigkeit.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/franziska-hoppermann-cdu-reformen-bundesregierung-rentenreform-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/franziska-hoppermann-cdu-reformen-bundesregierung-rentenreform",
+      "published": "Sun, 27 Sep 2026 23:00:47 -0000",
+      "published_display": "27.09.2026 · 23:00 Uhr"
+    },
+    {
+      "title": "Irankrieg: Donald Trump stellt neue Verhandlungen mit dem Iran in Aussicht",
+      "summary": "Nachdem er ein Gesprächsangebot des Iran abgelehnt hat, möchte Trump diese Woche erneut verhandeln. Sein Finanzminister pocht auf mehr Druck auf den Iran. Das Liveblog",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/iran-krieg-donald-trump-hormus-live-bild-7/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-05/iran-krieg-donald-trump-hormus-live",
+      "published": "Sun, 27 Sep 2026 22:59:14 -0000",
+      "published_display": "27.09.2026 · 22:59 Uhr"
+    },
     {
       "title": "Konflikte: Gegner blockieren umstrittene Oranier-Parade in Nordirland",
       "summary": "",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/sport/2026-09/uefa-nations-league-deutschland-griechenland",
       "published": "Sun, 27 Sep 2026 20:49:57 -0000",
       "published_display": "27.09.2026 · 20:49 Uhr"
-    },
-    {
-      "title": "Fußball-Nationalmannschaft: Die Fußball-Nationalmannschaft in der Einzelkritik",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/die-fussball-nationalmannschaft-in-der-einzelkritik-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/die-fussball-nationalmannschaft-in-der-einzelkritik",
-      "published": "Sun, 27 Sep 2026 20:42:01 -0000",
-      "published_display": "27.09.2026 · 20:42 Uhr"
-    },
-    {
-      "title": "Bürgerentscheid: Raunheimer Bürgermeister Rendel bleibt im Amt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/raunheimer-buergermeister-rendel-bleibt-im-amt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/raunheimer-buergermeister-rendel-bleibt-im-amt",
-      "published": "Sun, 27 Sep 2026 20:38:29 -0000",
-      "published_display": "27.09.2026 · 20:38 Uhr"
-    },
-    {
-      "title": "OB-Wahl in Hannover: Grünen-Politiker Belit Onay gewinnt Bürgermeisterstichwahl in Hannover",
-      "summary": "Zwei Wochen nach der Kommunalwahl in Niedersachsen ging es in einer Hochburg der Grünen in die Stichwahl. Der amtierende Oberbürgermeister wurde klar im Amt bestätigt.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/stichwahlen-bei-den-kommunalwahlen-in-niedersachsen-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/ob-wahl-hannover-belit-onay-axel-von-der-ohe-gruene-spd",
-      "published": "Sun, 27 Sep 2026 20:32:35 -0000",
-      "published_display": "27.09.2026 · 20:32 Uhr"
     }
   ]
 }
