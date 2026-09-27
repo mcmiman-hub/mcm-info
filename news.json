@@ -1,7 +1,55 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-27T18:19:44.771840+00:00",
+  "updated": "2026-09-27T18:35:02.734975+00:00",
   "items": [
+    {
+      "title": "Liveticker: Nations League: Live: Deutschland gegen Griechenland",
+      "summary": "Das zweite Länderspiel unter dem Bundestrainer Jürgen Klopp: In Augsburg trifft die deutsche Nationalmannschaft auf Griechenland. Die Nations League im Liveticker",
+      "image": "https://img.zeit.de/sport/2026-09/nations-league-uefa-fussball-2026-liveticker-bild/original__640x360",
+      "link": "https://www.zeit.de/sport/2026-09/nations-league-uefa-fussball-2026-liveticker",
+      "published": "Sun, 27 Sep 2026 18:33:33 -0000",
+      "published_display": "27.09.2026 · 18:33 Uhr"
+    },
+    {
+      "title": "Russisches Haus in Berlin: Ein Schlag gegen die russische Kultur?",
+      "summary": "Sogenannte Freunde der russischen Kultur kritisieren die Schließung des Russichen Hauses. Wer so denkt, hat sich noch nicht mit der Geschichte dieser Kultur beschäftigt.",
+      "image": "https://img.zeit.de/feuilleton/2026-09/alexander-estis-russland-schliessung-russisches-haus-berlin-bilder/no-kremlin-in-berlin-protesters-oppose-bsw-demonstration-bild-2/original__640x360",
+      "link": "https://www.zeit.de/feuilleton/2026-09/alexander-estis-russland-schliessung-russisches-haus-berlin",
+      "published": "Sun, 27 Sep 2026 18:30:22 -0000",
+      "published_display": "27.09.2026 · 18:30 Uhr"
+    },
+    {
+      "title": "Selbsthilfegruppen: »Letzte Woche hatte ich Suchtdruck. Aber ich habe an euch gedacht«",
+      "summary": "Manch eine Selbsthilfegruppe ist heilsamer als eine Psychotherapie. Prostata, Übergewicht, Depressionen: Wir haben über Wochen zugehört, um ihre Kraft zu begreifen.",
+      "image": "https://img.zeit.de/gesundheit/2026-09/selbsthilfegruppen-probleme-beratung-gespraech-psyche-bild/original__640x360",
+      "link": "https://www.zeit.de/2026/41/selbsthilfegruppen-gesundheitssystem-chronische-krankheiten-sucht-abstinenz",
+      "published": "Sun, 27 Sep 2026 18:29:21 -0000",
+      "published_display": "27.09.2026 · 18:29 Uhr"
+    },
+    {
+      "title": "Fußball-Nationalmannschaft: «Habe Riesenbock»: Neuling Conté spielt gegen Griechenland",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/fuenf-aenderungen-mit-neuling-cont-gegen-griechenland-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/fuenf-aenderungen-mit-neuling-cont-gegen-griechenland",
+      "published": "Sun, 27 Sep 2026 18:27:56 -0000",
+      "published_display": "27.09.2026 · 18:27 Uhr"
+    },
+    {
+      "title": "Von USA genutzter Stützpunkt: Festnahmen bei britischer Militärbasis - Terrorverdacht",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/vorfall-an-militaerbasis-fuenf-maenner-unter-terrorverdacht-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/vorfall-an-militaerbasis-fuenf-maenner-unter-terrorverdacht",
+      "published": "Sun, 27 Sep 2026 18:21:06 -0000",
+      "published_display": "27.09.2026 · 18:21 Uhr"
+    },
+    {
+      "title": "Sterbehilfe in Frankreich: Papst kritisiert Sterbehilfe in Frankreich",
+      "summary": "Seit August haben in Frankreich manche unheilbar kranke Menschen das Recht, sich beim Suizid helfen zu lassen. Der Papst spricht sich entschieden gegen Sterbehilfe aus.",
+      "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-09/sterbehilfe-frankreich-papst-leo-xiv-lourdes-foto-1/original__640x360",
+      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-09/sterbehilfe-frankreich-papst-leo-xiv-lourdes",
+      "published": "Sun, 27 Sep 2026 18:19:34 -0000",
+      "published_display": "27.09.2026 · 18:19 Uhr"
+    },
     {
       "title": "Stichwahlen in Niedersachsen: SPD-Politikerin Bender wird Regionspräsidentin in Hannover",
       "summary": "",
@@ -67,60 +115,12 @@
       "published_display": "27.09.2026 · 17:57 Uhr"
     },
     {
-      "title": "Fußball-Nationalmannschaft: Fünf Änderungen: Mit Neuling Conté gegen Griechenland",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/fuenf-aenderungen-mit-neuling-cont-gegen-griechenland-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/fuenf-aenderungen-mit-neuling-cont-gegen-griechenland",
-      "published": "Sun, 27 Sep 2026 17:50:29 -0000",
-      "published_display": "27.09.2026 · 17:50 Uhr"
-    },
-    {
       "title": "Wahlen in Niedersachsen: Amtsinhaberin Kalisch gewinnt OB-Stichwahl in Lüneburg knapp",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-09/27/amtsinhaberin-kalisch-gewinnt-ob-stichwahl-in-lueneburg-knapp-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-09/27/amtsinhaberin-kalisch-gewinnt-ob-stichwahl-in-lueneburg-knapp",
       "published": "Sun, 27 Sep 2026 17:48:18 -0000",
       "published_display": "27.09.2026 · 17:48 Uhr"
-    },
-    {
-      "title": "Nach Wahlsieg in Berlin: Linken-Chef: Wir stehen an der Seite jüdischer Menschen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/linken-chef-wir-stehen-an-der-seite-juedischer-menschen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/linken-chef-wir-stehen-an-der-seite-juedischer-menschen",
-      "published": "Sun, 27 Sep 2026 17:45:54 -0000",
-      "published_display": "27.09.2026 · 17:45 Uhr"
-    },
-    {
-      "title": "Bundesliga: Erster Ligasieg für Hamburgs Handballer",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/erster-ligasieg-fuer-hamburgs-handballer-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/erster-ligasieg-fuer-hamburgs-handballer",
-      "published": "Sun, 27 Sep 2026 17:44:13 -0000",
-      "published_display": "27.09.2026 · 17:44 Uhr"
-    },
-    {
-      "title": "Stichwahlen in Niedersachsen: Jascha Rohr gewinnt Oberbürgermeisterwahl in Oldenburg",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/jascha-rohr-gewinnt-oberbuergermeisterwahl-in-oldenburg-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/jascha-rohr-gewinnt-oberbuergermeisterwahl-in-oldenburg",
-      "published": "Sun, 27 Sep 2026 17:39:23 -0000",
-      "published_display": "27.09.2026 · 17:39 Uhr"
-    },
-    {
-      "title": "Kanada und die EU: Wenn hier etwas mehr Kanada wäre",
-      "summary": "Mit den USA steckt Kanada in einem Handelskrieg, da reicht die EU dem Land die Hand. Unser Autor ist Kanadier und erlebt diesen hoffnungsvollen Moment in Berlin.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/kanada-eu-usa-assoziierte-mitgliedschaft-bild-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/kanada-eu-usa-assoziierte-mitgliedschaft",
-      "published": "Sun, 27 Sep 2026 17:36:16 -0000",
-      "published_display": "27.09.2026 · 17:36 Uhr"
-    },
-    {
-      "title": "Stichwahl: Katharina Pötter bleibt Oberbürgermeisterin von Osnabrück",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/katharina-poetter-bleibt-oberbuergermeisterin-von-osnabrueck-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/katharina-poetter-bleibt-oberbuergermeisterin-von-osnabrueck",
-      "published": "Sun, 27 Sep 2026 17:28:37 -0000",
-      "published_display": "27.09.2026 · 17:28 Uhr"
     }
   ]
 }
