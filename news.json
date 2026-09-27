@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-27T22:16:38.752390+00:00",
+  "updated": "2026-09-27T22:29:42.609774+00:00",
   "items": [
+    {
+      "title": "Rad-WM in Montréal: Brandon McNulty zum ersten Mal Rad-Weltmeister",
+      "summary": "Als erster US-Amerikaner seit Lance Armstrong hat Brandon McNulty die Rad-WM in Kanada gewonnen. Er löste damit Superstar Tadej Pogacar ab.",
+      "image": "https://img.zeit.de/sport/2026-09/rad-wm-montreal-brandon-mcnulty-strassenrennen-bild/original__640x360",
+      "link": "https://www.zeit.de/sport/2026-09/rad-wm-montreal-brandon-mcnulty-strassenrennen",
+      "published": "Sun, 27 Sep 2026 22:28:42 -0000",
+      "published_display": "27.09.2026 · 22:28 Uhr"
+    },
     {
       "title": "Fußball-Nationalmannschaft: Frau und Sohn fiebern bei Klopps Heimdebüt mit",
       "summary": "",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/27/acht-stimmen-spd-kandidat-siegt-hauchduenn",
       "published": "Sun, 27 Sep 2026 20:29:26 -0000",
       "published_display": "27.09.2026 · 20:29 Uhr"
-    },
-    {
-      "title": "Oberhaus des Parlaments: Machtzuwachs für Le Pens Rechtsnationale im Pariser Senat",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/franzoesischer-senat-wird-zur-haelfte-neu-gewaehlt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/franzoesischer-senat-wird-zur-haelfte-neu-gewaehlt",
-      "published": "Sun, 27 Sep 2026 20:26:11 -0000",
-      "published_display": "27.09.2026 · 20:26 Uhr"
     }
   ]
 }
