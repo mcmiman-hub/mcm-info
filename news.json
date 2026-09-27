@@ -1,7 +1,87 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-27T01:29:55.384096+00:00",
+  "updated": "2026-09-27T01:43:19.448094+00:00",
   "items": [
+    {
+      "title": "Extremwetter: Schwerer Sturm legt Flugverkehr im Nordosten der USA lahm",
+      "summary": "Ein Herbststurm hat an der US-Ostküste Chaos ausgelöst. Mehr als 100.000 Haushalte waren zeitweise ohne Strom. Straßen sind überschwemmt. Weltstars sagten Konzerte ab.",
+      "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-09/sturm-usa-new-york-stromausfall-flugverkehr-foto-1/original__640x360",
+      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-09/sturm-usa-new-york-stromausfall-flugverkehr",
+      "published": "Sun, 27 Sep 2026 01:42:56 -0000",
+      "published_display": "27.09.2026 · 01:42 Uhr"
+    },
+    {
+      "title": "Irankrieg: Trump lehnt iranisches Angebot zu Straße von Hormus ab",
+      "summary": "Der US-Präsident hat die iranischen Vorschläge zur Öffnung der Straße von Hormus abgelehnt. Er postete außerdem eine Karte, auf der eine »Trump-Straße« eingezeichnet war.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/strasse-von-hormus-donald-trump-iran-masud-peseschkian-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/strasse-von-hormus-donald-trump-iran-masud-peseschkian",
+      "published": "Sun, 27 Sep 2026 01:35:06 -0000",
+      "published_display": "27.09.2026 · 01:35 Uhr"
+    },
+    {
+      "title": "Volksabstimmung: Schweizer stimmen über striktere Neutralität ab",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/schweizer-stimmen-ueber-striktere-neutralitaet-ab-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/schweizer-stimmen-ueber-striktere-neutralitaet-ab",
+      "published": "Sun, 27 Sep 2026 01:30:15 -0000",
+      "published_display": "27.09.2026 · 01:30 Uhr"
+    },
+    {
+      "title": "Trotz Rekordhitze: Honigertrag nur knapp unter Rekordjahr",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/honigertrag-nur-knapp-unter-rekordjahr-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/honigertrag-nur-knapp-unter-rekordjahr",
+      "published": "Sun, 27 Sep 2026 01:30:14 -0000",
+      "published_display": "27.09.2026 · 01:30 Uhr"
+    },
+    {
+      "title": "Lohr gegen Horst: Stichwahl entscheidet über neue Rathaus-Spitze von Worms",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/stichwahl-entscheidet-ueber-neue-rathaus-spitze-von-worms-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/stichwahl-entscheidet-ueber-neue-rathaus-spitze-von-worms",
+      "published": "Sun, 27 Sep 2026 01:30:08 -0000",
+      "published_display": "27.09.2026 · 01:30 Uhr"
+    },
+    {
+      "title": "Fußball: DFB-Team trifft bei Klopps Heimdebüt auf Griechenland",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/dfb-team-trifft-bei-klopps-heimdebuet-auf-griechenland-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/dfb-team-trifft-bei-klopps-heimdebuet-auf-griechenland",
+      "published": "Sun, 27 Sep 2026 01:30:07 -0000",
+      "published_display": "27.09.2026 · 01:30 Uhr"
+    },
+    {
+      "title": "Leichtathletik: Äthiopierin Assefa peilt Marathon-Weltrekord in Berlin an",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/aethiopierin-assefa-peilt-marathon-weltrekord-in-berlin-an-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/aethiopierin-assefa-peilt-marathon-weltrekord-in-berlin-an",
+      "published": "Sun, 27 Sep 2026 01:30:07 -0000",
+      "published_display": "27.09.2026 · 01:30 Uhr"
+    },
+    {
+      "title": "Wahlen: Stichwahlen entscheiden über Bürgermeister und Landräte",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/stichwahlen-entscheiden-ueber-buergermeister-und-landraete-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/stichwahlen-entscheiden-ueber-buergermeister-und-landraete",
+      "published": "Sun, 27 Sep 2026 01:30:06 -0000",
+      "published_display": "27.09.2026 · 01:30 Uhr"
+    },
+    {
+      "title": "Parteitag: Linke Rheinland-Pfalz wählt Vorstand neu",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/linke-rheinland-pfalz-waehlt-vorstand-neu-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/linke-rheinland-pfalz-waehlt-vorstand-neu",
+      "published": "Sun, 27 Sep 2026 01:30:05 -0000",
+      "published_display": "27.09.2026 · 01:30 Uhr"
+    },
+    {
+      "title": "Windenergie: Weltrekord geplant: Riesen-Windrad in der Lausitz",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/weltrekord-geplant-riesen-windrad-in-der-lausitz-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/weltrekord-geplant-riesen-windrad-in-der-lausitz",
+      "published": "Sun, 27 Sep 2026 01:30:04 -0000",
+      "published_display": "27.09.2026 · 01:30 Uhr"
+    },
     {
       "title": "Nach Stromausfall: Universitätsmedizin Mainz nimmt wieder Patienten auf",
       "summary": "",
@@ -41,86 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/27/auto-prallt-gegen-baum-und-faengt-feuer-ein-toter",
       "published": "Sat, 26 Sep 2026 23:59:13 -0000",
       "published_display": "26.09.2026 · 23:59 Uhr"
-    },
-    {
-      "title": "Brände: Haus in Pfullendorf komplett in Flammen - hoher Schaden",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/haus-in-pfullendorf-komplett-in-flammen-hoher-schaden-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/haus-in-pfullendorf-komplett-in-flammen-hoher-schaden",
-      "published": "Sat, 26 Sep 2026 23:56:31 -0000",
-      "published_display": "26.09.2026 · 23:56 Uhr"
-    },
-    {
-      "title": "Unwetter: Sturm an US-Ostküste - Überschwemmungen und Stromausfälle",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/sturm-an-us-ostkueste-ueberschwemmungen-und-stromausfaelle-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/sturm-an-us-ostkueste-ueberschwemmungen-und-stromausfaelle",
-      "published": "Sat, 26 Sep 2026 23:50:50 -0000",
-      "published_display": "26.09.2026 · 23:50 Uhr"
-    },
-    {
-      "title": "Technik-Streit: Patent-Urteil: Apple soll 5,7 Milliarden Dollar zahlen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/patent-urteil-apple-soll-5-7-milliarden-dollar-zahlen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/patent-urteil-apple-soll-5-7-milliarden-dollar-zahlen",
-      "published": "Sat, 26 Sep 2026 23:36:26 -0000",
-      "published_display": "26.09.2026 · 23:36 Uhr"
-    },
-    {
-      "title": "Künstliche Intellienz: OpenAI stoppt nach neuem Vorfall das Training seiner KI-Modelle",
-      "summary": "Trotz verstärkter Sicherheitsregeln ist erneut eine künstliche Intelligenz von OpenAI außer Kontrolle geraten. Der Konzern unterbricht bis auf Weiteres alle Tests.",
-      "image": "https://img.zeit.de/digital/internet/2026-09/openai-sicherheitsvorfall-ki-dns-luecke-training-pause-foto-1/original__640x360",
-      "link": "https://www.zeit.de/digital/internet/2026-09/openai-sicherheitsvorfall-ki-dns-luecke-training-pause",
-      "published": "Sat, 26 Sep 2026 23:19:38 -0000",
-      "published_display": "26.09.2026 · 23:19 Uhr"
-    },
-    {
-      "title": "Brände: Reitanlage in Flammen - 47 Pferde gerettet",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/reitanlage-in-flammen-47-pferde-gerettet-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/reitanlage-in-flammen-47-pferde-gerettet",
-      "published": "Sat, 26 Sep 2026 22:42:17 -0000",
-      "published_display": "26.09.2026 · 22:42 Uhr"
-    },
-    {
-      "title": "Nach Instagram-Beitrag: Prozess um angebliche Drohung Comeys gegen Trump erst 2027",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/prozess-um-angebliche-drohung-comeys-gegen-trump-erst-2027-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/prozess-um-angebliche-drohung-comeys-gegen-trump-erst-2027",
-      "published": "Sat, 26 Sep 2026 22:40:10 -0000",
-      "published_display": "26.09.2026 · 22:40 Uhr"
-    },
-    {
-      "title": "Künstliche Intelligenz: OpenAI pausiert KI-Training nach neuem Zwischenfall",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/openai-pausiert-ki-training-nach-neuem-zwischenfall-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/openai-pausiert-ki-training-nach-neuem-zwischenfall",
-      "published": "Sat, 26 Sep 2026 22:21:48 -0000",
-      "published_display": "26.09.2026 · 22:21 Uhr"
-    },
-    {
-      "title": "Verbraucher: Neue Label informieren Verbraucher über Rechte bei Problemen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/neue-label-informieren-verbraucher-ueber-rechte-bei-problemen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/neue-label-informieren-verbraucher-ueber-rechte-bei-problemen",
-      "published": "Sat, 26 Sep 2026 22:15:05 -0000",
-      "published_display": "26.09.2026 · 22:15 Uhr"
-    },
-    {
-      "title": "US-Flugzeugbauer: Neues Software-Problem bei Boeing 737 Max",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/neues-software-problem-bei-boeing-737-max-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/neues-software-problem-bei-boeing-737-max",
-      "published": "Sat, 26 Sep 2026 22:07:27 -0000",
-      "published_display": "26.09.2026 · 22:07 Uhr"
-    },
-    {
-      "title": "Unfälle: Straßenbahn in Köln erfasst Auto - ein Mann stirbt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/strassenbahn-in-koeln-erfasst-auto-ein-mann-stirbt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/strassenbahn-in-koeln-erfasst-auto-ein-mann-stirbt",
-      "published": "Sat, 26 Sep 2026 22:02:00 -0000",
-      "published_display": "26.09.2026 · 22:02 Uhr"
     }
   ]
 }
