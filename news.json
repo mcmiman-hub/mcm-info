@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-27T19:14:52.222565+00:00",
+  "updated": "2026-09-27T19:27:35.033947+00:00",
   "items": [
+    {
+      "title": "Szene in ZDF-Dokumentation: Amthor eckt mit Strandkorb im Kanzleramt an",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/amthor-eckt-mit-strandkorb-im-kanzleramt-an-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/amthor-eckt-mit-strandkorb-im-kanzleramt-an",
+      "published": "Sun, 27 Sep 2026 19:23:04 -0000",
+      "published_display": "27.09.2026 · 19:23 Uhr"
+    },
+    {
+      "title": "Wahlen: Grüne erobern Landratsamt in Osterholz von der SPD",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/gruene-erobern-landratsamt-in-osterholz-von-der-spd-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/gruene-erobern-landratsamt-in-osterholz-von-der-spd",
+      "published": "Sun, 27 Sep 2026 19:13:26 -0000",
+      "published_display": "27.09.2026 · 19:13 Uhr"
+    },
     {
       "title": "Politik am Balkan: Serbiens Präsident Vucic zurückgetreten",
       "summary": "",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/feuilleton/2026-09/alexander-estis-russland-schliessung-russisches-haus-berlin",
       "published": "Sun, 27 Sep 2026 18:30:22 -0000",
       "published_display": "27.09.2026 · 18:30 Uhr"
-    },
-    {
-      "title": "Selbsthilfegruppen: »Letzte Woche hatte ich Suchtdruck. Aber ich habe an euch gedacht«",
-      "summary": "Manch eine Selbsthilfegruppe ist heilsamer als eine Psychotherapie. Prostata, Übergewicht, Depressionen: Wir haben über Wochen zugehört, um ihre Kraft zu begreifen.",
-      "image": "https://img.zeit.de/gesundheit/2026-09/selbsthilfegruppen-probleme-beratung-gespraech-psyche-bild/original__640x360",
-      "link": "https://www.zeit.de/2026/41/selbsthilfegruppen-gesundheitssystem-chronische-krankheiten-sucht-abstinenz",
-      "published": "Sun, 27 Sep 2026 18:29:21 -0000",
-      "published_display": "27.09.2026 · 18:29 Uhr"
-    },
-    {
-      "title": "Von USA genutzter Stützpunkt: Festnahmen bei britischer Militärbasis - Terrorverdacht",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/vorfall-an-militaerbasis-fuenf-maenner-unter-terrorverdacht-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/vorfall-an-militaerbasis-fuenf-maenner-unter-terrorverdacht",
-      "published": "Sun, 27 Sep 2026 18:21:06 -0000",
-      "published_display": "27.09.2026 · 18:21 Uhr"
     }
   ]
 }
