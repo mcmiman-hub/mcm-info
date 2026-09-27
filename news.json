@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-27T23:42:20.491402+00:00",
+  "updated": "2026-09-27T23:54:16.693717+00:00",
   "items": [
+    {
+      "title": "Proteste: Dutzende Festnahmen bei Demo für Palestine Action in England",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/28/dutzende-festnahmen-bei-demo-fuer-palestine-action-in-england-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/28/dutzende-festnahmen-bei-demo-fuer-palestine-action-in-england",
+      "published": "Sun, 27 Sep 2026 23:47:50 -0000",
+      "published_display": "27.09.2026 · 23:47 Uhr"
+    },
     {
       "title": "Feuer: Großeinsatz: Laubenbrand in Bitterfeld",
       "summary": "",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/politik/ausland/2026-09/senatswahl-frankreich-rassemblement-national-udr",
       "published": "Sun, 27 Sep 2026 21:08:33 -0000",
       "published_display": "27.09.2026 · 21:08 Uhr"
-    },
-    {
-      "title": "US-Militär in Nahost: Irak: US-Truppen sind vollständig abgezogen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/irak-us-truppen-sind-vollstaendig-abgezogen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/irak-us-truppen-sind-vollstaendig-abgezogen",
-      "published": "Sun, 27 Sep 2026 20:54:12 -0000",
-      "published_display": "27.09.2026 · 20:54 Uhr"
     }
   ]
 }
