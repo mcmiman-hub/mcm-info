@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-28T20:46:37.692039+00:00",
+  "updated": "2026-09-28T20:58:44.051469+00:00",
   "items": [
+    {
+      "title": "Reality-TV: «Villa der Versuchung»: Sieg für Reality-Neuling Frenzy",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/28/villa-der-versuchung-sieg-fuer-reality-neuling-frenzy-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/28/villa-der-versuchung-sieg-fuer-reality-neuling-frenzy",
+      "published": "Mon, 28 Sep 2026 20:50:04 -0000",
+      "published_display": "28.09.2026 · 20:50 Uhr"
+    },
     {
       "title": "Krieg gegen die Ukraine: Selenskyj warnt vor russischer Mobilmachung",
       "summary": "Mehr Personal und mehr Geld: Russland plant offenbar, deutlich mehr in die Armee zu investieren. Wolodymyr Selenskyj warnt vor einer neuen Mobilmachung. Das Liveblog",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/politik/deutschland/2026-09/johann-wadephul-russland-gespraeche-friedrich-merz-wladimir-putin-sergej-lawrow",
       "published": "Mon, 28 Sep 2026 18:03:33 -0000",
       "published_display": "28.09.2026 · 18:03 Uhr"
-    },
-    {
-      "title": "Thüringen-Tourismus: Rennsteiglauf bekommt den Thüringer Tourismuspreis",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/28/rennsteiglauf-bekommt-den-thueringer-tourismuspreis-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/28/rennsteiglauf-bekommt-den-thueringer-tourismuspreis",
-      "published": "Mon, 28 Sep 2026 18:00:04 -0000",
-      "published_display": "28.09.2026 · 18:00 Uhr"
     }
   ]
 }
