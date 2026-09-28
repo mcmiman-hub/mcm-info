@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-28T15:36:50.242747+00:00",
+  "updated": "2026-09-28T15:51:24.384486+00:00",
   "items": [
+    {
+      "title": "Technische Störung: IT-Störung trifft Kommunalverwaltungen in Rheinland-Pfalz",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/28/it-stoerung-trifft-kommunalverwaltungen-in-rheinland-pfalz-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/28/it-stoerung-trifft-kommunalverwaltungen-in-rheinland-pfalz",
+      "published": "Mon, 28 Sep 2026 15:47:18 -0000",
+      "published_display": "28.09.2026 · 15:47 Uhr"
+    },
+    {
+      "title": "Fußball-Bundesliga: BVB verlängert mit Geschäftsführern Cramer, Ricken und Treß",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/28/bvb-verlaengert-mit-geschaeftsfuehrern-cramer-ricken-und-tress-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/28/bvb-verlaengert-mit-geschaeftsfuehrern-cramer-ricken-und-tress",
+      "published": "Mon, 28 Sep 2026 15:44:44 -0000",
+      "published_display": "28.09.2026 · 15:44 Uhr"
+    },
+    {
+      "title": "Erpresserischer Menschenraub: Ex-Chef entführt und ausgeraubt: Angeklagter erhebt Vorwürfe",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/28/ex-chef-gefesselt-erpresst-und-ausgeraubt-prozess-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/28/ex-chef-gefesselt-erpresst-und-ausgeraubt-prozess",
+      "published": "Mon, 28 Sep 2026 15:41:49 -0000",
+      "published_display": "28.09.2026 · 15:41 Uhr"
+    },
     {
       "title": "Unfälle: Mann wird in Oldisleben unter Arbeitsmaschine eingeklemmt",
       "summary": "",
@@ -30,7 +54,7 @@
       "title": "Metro AG in Russland: Wladimir Putin stellt Russland-Geschäft unter Zwangsverwaltung",
       "summary": "Als eines von wenigen deutschen Unternehmen blieb die Metro AG auch nach dem Überfall auf die Ukraine in Russland. Nun werden dort alle Vermögenswerte verstaatlicht.",
       "image": "https://img.zeit.de/politik/ausland/2026-09/metro-ag-russland-zwangsverwaltung-wladimir-putin-ukraine-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/metro-ag-russland-zwangsverwaltung-wladimir-putin-ukraine",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/metro-ag-russland-zwangsverwaltung-wladimir-putin-ukraine-gxe",
       "published": "Mon, 28 Sep 2026 15:26:00 -0000",
       "published_display": "28.09.2026 · 15:26 Uhr"
     },
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/28/studio-babelsberg-hat-neue-studios-fuer-ihre-filmproduktion",
       "published": "Mon, 28 Sep 2026 15:14:56 -0000",
       "published_display": "28.09.2026 · 15:14 Uhr"
-    },
-    {
-      "title": "Wintersport: Warten auf neuen Lift am Fichtelberg - Investor nennt Termin",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/28/warten-auf-neuen-lift-am-fichtelberg-investor-nennt-termin-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/28/warten-auf-neuen-lift-am-fichtelberg-investor-nennt-termin",
-      "published": "Mon, 28 Sep 2026 15:04:25 -0000",
-      "published_display": "28.09.2026 · 15:04 Uhr"
-    },
-    {
-      "title": "Raumfahrt: Riesen-Rakete Starship zu Erdumrundung aufgebrochen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/28/riesen-rakete-starship-bricht-zu-mehrfacher-erdumrundung-auf-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/28/riesen-rakete-starship-bricht-zu-mehrfacher-erdumrundung-auf",
-      "published": "Mon, 28 Sep 2026 15:02:57 -0000",
-      "published_display": "28.09.2026 · 15:02 Uhr"
-    },
-    {
-      "title": "Verkehrsunfall: Vier Verletzte nach Unfall – Feuerwehr befreit Fahrerin",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/28/vier-verletzte-nach-unfall-feuerwehr-befreit-fahrerin-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/28/vier-verletzte-nach-unfall-feuerwehr-befreit-fahrerin",
-      "published": "Mon, 28 Sep 2026 15:02:34 -0000",
-      "published_display": "28.09.2026 · 15:02 Uhr"
     }
   ]
 }
