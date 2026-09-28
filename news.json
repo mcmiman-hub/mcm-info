@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-28T23:29:37.657083+00:00",
+  "updated": "2026-09-28T23:44:24.756216+00:00",
   "items": [
+    {
+      "title": "US-Flugzeugbauer: Software-Problem verzögert Zulassung neuer Boeing-Variante",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/software-problem-verzoegert-zulassung-neuer-boeing-variante-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/software-problem-verzoegert-zulassung-neuer-boeing-variante",
+      "published": "Mon, 28 Sep 2026 23:30:04 -0000",
+      "published_display": "28.09.2026 · 23:30 Uhr"
+    },
     {
       "title": "Pflegereform: Pflegerat fordert umfassende Überarbeitung der Reform",
       "summary": "Vor dem Beschluss über die Pflegereform warnt der Deutsche Pflegerat vor höheren Hürden für Pflegebedürftige. Auch das Personalproblem drohe sich zu verschärfen.",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/29/pflegerat-fordert-umfassende-ueberarbeitung-der-reform",
       "published": "Mon, 28 Sep 2026 22:04:04 -0000",
       "published_display": "28.09.2026 · 22:04 Uhr"
-    },
-    {
-      "title": "Vatikan: Papst will auch nach Deutschland kommen - noch kein Termin",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/papst-will-auch-nach-deutschland-kommen-noch-kein-termin-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/papst-will-auch-nach-deutschland-kommen-noch-kein-termin",
-      "published": "Mon, 28 Sep 2026 22:02:04 -0000",
-      "published_display": "28.09.2026 · 22:02 Uhr"
     }
   ]
 }
