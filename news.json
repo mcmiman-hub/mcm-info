@@ -1,7 +1,103 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-28T03:59:22.043339+00:00",
+  "updated": "2026-09-28T04:19:47.858800+00:00",
   "items": [
+    {
+      "title": "Wetterausblick für Bayern: Spätsommerliches Wetter in Bayern – aber wie lange noch?",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/28/spaetsommerliches-wetter-in-bayern-aber-wie-lange-noch-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/28/spaetsommerliches-wetter-in-bayern-aber-wie-lange-noch",
+      "published": "Mon, 28 Sep 2026 04:17:04 -0000",
+      "published_display": "28.09.2026 · 04:17 Uhr"
+    },
+    {
+      "title": "Wettervorhersage: Strahlender Sonnenschein und bis zu 26 Grad",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/28/strahlender-sonnenschein-und-bis-zu-26-grad-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/28/strahlender-sonnenschein-und-bis-zu-26-grad",
+      "published": "Mon, 28 Sep 2026 04:10:24 -0000",
+      "published_display": "28.09.2026 · 04:10 Uhr"
+    },
+    {
+      "title": "Kommunalwahl: Ohne Kandidatur: Mirko Domaschke Nebelschützer Bürgermeister",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/28/ohne-kandidatur-mirko-domaschke-nebelschuetzer-buergermeister-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/28/ohne-kandidatur-mirko-domaschke-nebelschuetzer-buergermeister",
+      "published": "Mon, 28 Sep 2026 04:04:23 -0000",
+      "published_display": "28.09.2026 · 04:04 Uhr"
+    },
+    {
+      "title": "Deutscher Startup Monitor: Zahl der Milliarden-Start-ups nimmt durch KI deutlich zu",
+      "summary": "Investitionen in Rüstungsfirmen und Künstliche Intelligenz kommen Start-ups in Deutschland zugute. Doch viele von ihnen bevorzugen die Nutzung von Anbietern aus den USA.",
+      "image": "https://img.zeit.de/digital/2026-09/deutscher-startup-monitor-gruenderbranche-wagniskapital-kuenstliche-intelligenz-foto-1/original__640x360",
+      "link": "https://www.zeit.de/digital/2026-09/deutscher-startup-monitor-gruenderbranche-wagniskapital-kuenstliche-intelligenz",
+      "published": "Mon, 28 Sep 2026 04:03:33 -0000",
+      "published_display": "28.09.2026 · 04:03 Uhr"
+    },
+    {
+      "title": "Kriminalität: Mann in Berlin-Moabit aus Fahrzeug angeschossen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/28/mann-in-berlin-moabit-aus-fahrzeug-angeschossen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/28/mann-in-berlin-moabit-aus-fahrzeug-angeschossen",
+      "published": "Mon, 28 Sep 2026 04:02:57 -0000",
+      "published_display": "28.09.2026 · 04:02 Uhr"
+    },
+    {
+      "title": "Fußball-Nationalmannschaft: Platz eins weit weg: Das droht Klopp in der Nations League",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/28/platz-eins-weit-weg-das-droht-klopp-in-der-nations-league-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/28/platz-eins-weit-weg-das-droht-klopp-in-der-nations-league",
+      "published": "Mon, 28 Sep 2026 04:02:04 -0000",
+      "published_display": "28.09.2026 · 04:02 Uhr"
+    },
+    {
+      "title": "Elbvertiefung: Der tägliche Newsletter aus Hamburg: Proteste gegen Einsparungen an der HafenCity Universität",
+      "summary": "Die Elbvertiefung am Montag – Mit »Red Storm Charlie«, freier Fahrt auf der A7 (aber nur südlich des Elbtunnels) und sehr viel Sparpolitik",
+      "image": "https://img.zeit.de/2026-09/foto-28-09-2026-6/original__640x360",
+      "link": "https://www.zeit.de/hamburg/2026-09/elbvertiefung-28-09-2026",
+      "published": "Mon, 28 Sep 2026 04:00:26 -0000",
+      "published_display": "28.09.2026 · 04:00 Uhr"
+    },
+    {
+      "title": "Dienstleistungen: Waschsalons im Wandel: Wie sie heute Kunden locken",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/28/waschsalons-im-wandel-wie-sie-heute-kunden-locken-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/28/waschsalons-im-wandel-wie-sie-heute-kunden-locken",
+      "published": "Mon, 28 Sep 2026 04:00:11 -0000",
+      "published_display": "28.09.2026 · 04:00 Uhr"
+    },
+    {
+      "title": "Glücksspielwerbung: Mehr als 50.000 Erwachsene in Brandenburg glücksspielsüchtig",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/28/mehr-als-50-000-erwachsene-in-brandenburg-gluecksspielsuechtig-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/28/mehr-als-50-000-erwachsene-in-brandenburg-gluecksspielsuechtig",
+      "published": "Mon, 28 Sep 2026 04:00:08 -0000",
+      "published_display": "28.09.2026 · 04:00 Uhr"
+    },
+    {
+      "title": "Bahn: Fahrgastverband Pro Bahn fordert neue Direktverbindung in MV",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/28/fahrgastverband-pro-bahn-fordert-neue-direktverbindung-in-mv-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/28/fahrgastverband-pro-bahn-fordert-neue-direktverbindung-in-mv",
+      "published": "Mon, 28 Sep 2026 04:00:08 -0000",
+      "published_display": "28.09.2026 · 04:00 Uhr"
+    },
+    {
+      "title": "Einschneidende Veränderungen: «Rosenheim-Cops» ermitteln wieder: Gossip zum Staffelstart",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/28/rosenheim-cops-ermitteln-wieder-gossip-zum-staffelstart-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/28/rosenheim-cops-ermitteln-wieder-gossip-zum-staffelstart",
+      "published": "Mon, 28 Sep 2026 04:00:07 -0000",
+      "published_display": "28.09.2026 · 04:00 Uhr"
+    },
+    {
+      "title": "Steigende Gebühren: Mehr als 1.000 Euro für die Kita? Eltern fordern Reform",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/28/mehr-als-1-000-euro-fuer-die-kita-eltern-fordern-reform-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/28/mehr-als-1-000-euro-fuer-die-kita-eltern-fordern-reform",
+      "published": "Mon, 28 Sep 2026 04:00:06 -0000",
+      "published_display": "28.09.2026 · 04:00 Uhr"
+    },
     {
       "title": "Bundesverfassungsgericht: Deutschlands mächtigstes Gericht wird 75 Jahre alt",
       "summary": "Das Bundesverfassungsgericht feiert Geburtstag. Doch seine Autorität beruht auf einem politischen Konsens, der brüchig werden könnte. Und: Wadephuls Vorstoß in New York",
@@ -25,102 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/28/rosenheim-cops-was-max-mueller-vom-ausstieg-abhaelt",
       "published": "Mon, 28 Sep 2026 03:55:04 -0000",
       "published_display": "28.09.2026 · 03:55 Uhr"
-    },
-    {
-      "title": "Nach OIympia-Votum: ÖPNV, Dorf, Stadion: Münchens To-Do-Liste unter Zeitdruck",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/28/oepnv-dorf-stadion-muenchens-to-do-liste-unter-zeitdruck-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/28/oepnv-dorf-stadion-muenchens-to-do-liste-unter-zeitdruck",
-      "published": "Mon, 28 Sep 2026 03:45:04 -0000",
-      "published_display": "28.09.2026 · 03:45 Uhr"
-    },
-    {
-      "title": "Fußball-Nationalmannschaft: Klopp nach dem Griechen-Flop: «Sind nicht so schlecht»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/28/klopp-nach-dem-griechen-flop-sind-nicht-so-schlecht-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/28/klopp-nach-dem-griechen-flop-sind-nicht-so-schlecht",
-      "published": "Mon, 28 Sep 2026 03:43:04 -0000",
-      "published_display": "28.09.2026 · 03:43 Uhr"
-    },
-    {
-      "title": "Musikpreise: Taylor Swift holt Top-Preis bei MTV Video Music Awards",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/28/madonna-eroeffnet-mtv-video-music-awards-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/28/madonna-eroeffnet-mtv-video-music-awards",
-      "published": "Mon, 28 Sep 2026 03:36:36 -0000",
-      "published_display": "28.09.2026 · 03:36 Uhr"
-    },
-    {
-      "title": "Scheidungsanwältin: »Dieses Haus am Berg hat er mehr geliebt als seine Töchter«",
-      "summary": "Wann man in einer Scheidung nachgeben sollte und wann kämpfen, erklärt die Anwältin Helene Klaar in dieser Folge. Und antwortet auf Kritik an ihrer letzten Kolumne",
-      "image": "https://img.zeit.de/zeit-magazin/2026-09/klaar-interview-aufmacherbild/original__640x360",
-      "link": "https://www.zeit.de/zeit-magazin/leben/2026-09/scheidungsanwaeltin-dr-helene-klaar-faelle-antworten",
-      "published": "Mon, 28 Sep 2026 03:35:43 -0000",
-      "published_display": "28.09.2026 · 03:35 Uhr"
-    },
-    {
-      "title": "Zwei Generationen, eine Musik: Harmonie und Tiefgang auf Maffay-Oerding-Album «Nashville»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/28/harmonie-und-tiefgang-auf-maffay-oerding-album-nashville-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/28/harmonie-und-tiefgang-auf-maffay-oerding-album-nashville",
-      "published": "Mon, 28 Sep 2026 03:30:08 -0000",
-      "published_display": "28.09.2026 · 03:30 Uhr"
-    },
-    {
-      "title": "Steuerbetrug: Nur eine Staatsanwältin für Cum-Ex-Mammutverfahren",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/28/nur-eine-staatsanwaeltin-fuer-cum-ex-mammutverfahren-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/28/nur-eine-staatsanwaeltin-fuer-cum-ex-mammutverfahren",
-      "published": "Mon, 28 Sep 2026 03:30:07 -0000",
-      "published_display": "28.09.2026 · 03:30 Uhr"
-    },
-    {
-      "title": "Soziales: Zu wenige Blutspender - DRK lockt mit Sonderaktionen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/28/zu-wenige-blutspender-drk-lockt-mit-sonderaktionen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/28/zu-wenige-blutspender-drk-lockt-mit-sonderaktionen",
-      "published": "Mon, 28 Sep 2026 03:30:07 -0000",
-      "published_display": "28.09.2026 · 03:30 Uhr"
-    },
-    {
-      "title": "Erneuerbare Energien: Solarstromproduktion übertrifft bereits jetzt Vorjahreswert",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/28/solarstromproduktion-uebertrifft-bereits-jetzt-vorjahreswert-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/28/solarstromproduktion-uebertrifft-bereits-jetzt-vorjahreswert",
-      "published": "Mon, 28 Sep 2026 03:30:06 -0000",
-      "published_display": "28.09.2026 · 03:30 Uhr"
-    },
-    {
-      "title": "Jubiläum in Karlsruhe: Unerschrockene Institution? Bundesverfassungsgericht wird 75",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/28/unerschrockene-institution-bundesverfassungsgericht-wird-75-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/28/unerschrockene-institution-bundesverfassungsgericht-wird-75",
-      "published": "Mon, 28 Sep 2026 03:30:05 -0000",
-      "published_display": "28.09.2026 · 03:30 Uhr"
-    },
-    {
-      "title": "Fotografie: Bilder des Tages",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/28/bilder-des-tages-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/28/bilder-des-tages",
-      "published": "Mon, 28 Sep 2026 03:27:12 -0000",
-      "published_display": "28.09.2026 · 03:27 Uhr"
-    },
-    {
-      "title": "Streit über Antisemitismusvorwurf: Linke zeigt Alexander Dobrindt an",
-      "summary": "Die Linken-Politikerin Elif Eralp hat Bundesinnenminister Alexander Dobrindt angezeigt. Sie wirft ihm üble Nachrede in einer Talkshow vor.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/strafanzeige-alexander-dobrindt-elif-eralp-maybrit-illner-antisemitismus-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/strafanzeige-alexander-dobrindt-elif-eralp-maybrit-illner-antisemitismus",
-      "published": "Mon, 28 Sep 2026 03:25:54 -0000",
-      "published_display": "28.09.2026 · 03:25 Uhr"
-    },
-    {
-      "title": "Verkehr: Elbtunnel nach Sperrung wieder frei",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/28/elbtunnel-nach-sperrung-wieder-frei-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/28/elbtunnel-nach-sperrung-wieder-frei",
-      "published": "Mon, 28 Sep 2026 03:22:01 -0000",
-      "published_display": "28.09.2026 · 03:22 Uhr"
     }
   ]
 }
