@@ -1,7 +1,71 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-28T05:33:28.372662+00:00",
+  "updated": "2026-09-28T05:46:48.050382+00:00",
   "items": [
+    {
+      "title": "Wetter: Warmes, gemischtes Wetter zum Wochenstart im Nordwesten",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/28/warmes-gemischtes-wetter-zum-wochenstart-im-nordwesten-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/28/warmes-gemischtes-wetter-zum-wochenstart-im-nordwesten",
+      "published": "Mon, 28 Sep 2026 05:38:57 -0000",
+      "published_display": "28.09.2026 · 05:38 Uhr"
+    },
+    {
+      "title": "Unfälle: Motorradfahrer bei Unfall in Oberhof schwer verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/28/motorradfahrer-bei-unfall-in-oberhof-schwer-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/28/motorradfahrer-bei-unfall-in-oberhof-schwer-verletzt",
+      "published": "Mon, 28 Sep 2026 05:37:47 -0000",
+      "published_display": "28.09.2026 · 05:37 Uhr"
+    },
+    {
+      "title": "Brände: Sperrmüllbrand: Feuerwehr rettet Bewohnerin aus Hochhaus",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/28/sperrmuellbrand-feuerwehr-rettet-bewohnerin-aus-hochhaus-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/28/sperrmuellbrand-feuerwehr-rettet-bewohnerin-aus-hochhaus",
+      "published": "Mon, 28 Sep 2026 05:36:45 -0000",
+      "published_display": "28.09.2026 · 05:36 Uhr"
+    },
+    {
+      "title": "Brände: Küchenbrand in Nidderau - Bewohner kommt ins Krankenhaus",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/28/kuechenbrand-in-nidderau-bewohner-kommt-ins-krankenhaus-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/28/kuechenbrand-in-nidderau-bewohner-kommt-ins-krankenhaus",
+      "published": "Mon, 28 Sep 2026 05:35:37 -0000",
+      "published_display": "28.09.2026 · 05:35 Uhr"
+    },
+    {
+      "title": "Russisches Gas: Es war nie billig",
+      "summary": "Bei AfD und BSW schwärmt man gern von einer Rückkehr zu russischem Gas und Öl. Drei Argumente sind dabei beliebt. Doch sie sind alle falsch.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/russisches-gas-pipelines-deutschland-billig-5vor8-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/russisches-gas-pipelines-deutschland-billig-5vor8",
+      "published": "Mon, 28 Sep 2026 05:35:34 -0000",
+      "published_display": "28.09.2026 · 05:35 Uhr"
+    },
+    {
+      "title": "Weltmeisterschaft in Montreal: Giro, Tour, Alpen-WM? Lipowitz und die Zukunftsfrage",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/28/giro-tour-alpen-wm-lipowitz-und-die-zukunftsfrage-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/28/giro-tour-alpen-wm-lipowitz-und-die-zukunftsfrage",
+      "published": "Mon, 28 Sep 2026 05:33:10 -0000",
+      "published_display": "28.09.2026 · 05:33 Uhr"
+    },
+    {
+      "title": "Fahndung: Polizei sucht weiter flüchtigen Häftling aus Maßregelvollzug",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/28/polizei-sucht-weiter-fluechtigen-haeftling-aus-massregelvollzug-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/28/polizei-sucht-weiter-fluechtigen-haeftling-aus-massregelvollzug",
+      "published": "Mon, 28 Sep 2026 05:32:24 -0000",
+      "published_display": "28.09.2026 · 05:32 Uhr"
+    },
+    {
+      "title": "Kriminalität: Hoher Schaden bei Einbruch in Erfurter Einfamilienhaus",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/28/hoher-schaden-bei-einbruch-in-erfurter-einfamilienhaus-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/28/hoher-schaden-bei-einbruch-in-erfurter-einfamilienhaus",
+      "published": "Mon, 28 Sep 2026 05:31:40 -0000",
+      "published_display": "28.09.2026 · 05:31 Uhr"
+    },
     {
       "title": "Bundesverfassungsgericht: Deutschlands mächtigstes Gericht wird 75 Jahre alt",
       "summary": "Das Bundesverfassungsgericht feiert Geburtstag. Doch seine Autorität beruht auf einem politischen Konsens, der brüchig werden könnte. Und: Wadephuls Vorstoß in New York",
@@ -57,70 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/28/schussgeraeusche-gemeldet-hochzeitsgesellschaft-im-visier",
       "published": "Mon, 28 Sep 2026 05:19:02 -0000",
       "published_display": "28.09.2026 · 05:19 Uhr"
-    },
-    {
-      "title": "Solarstrom: Solarstromproduktion übertrifft bereits jetzt Vorjahreswert",
-      "summary": "2026 wurde bereits mehr Solarstrom erzeugt als im gesamten vergangenen Jahr. Grund dafür sind unter anderem ungewöhnlich viele Sonnenstunden.",
-      "image": "https://img.zeit.de/wirtschaft/2026-09/solarstrom-deutschland-rekord-bsw-solarenergie-foto-1/original__640x360",
-      "link": "https://www.zeit.de/wirtschaft/2026-09/solarstrom-deutschland-rekord-bsw-solarenergie",
-      "published": "Mon, 28 Sep 2026 04:58:15 -0000",
-      "published_display": "28.09.2026 · 04:58 Uhr"
-    },
-    {
-      "title": "Zwei Bewohner verletzt: «Das war schon extrem» – Großbrand von Bauernhaus in Gutach",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/28/grossbrand-in-gutach-bahnstrecke-teils-gesperrt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/28/grossbrand-in-gutach-bahnstrecke-teils-gesperrt",
-      "published": "Mon, 28 Sep 2026 04:54:32 -0000",
-      "published_display": "28.09.2026 · 04:54 Uhr"
-    },
-    {
-      "title": "Bahnverkehr: Signalreparatur in Königs Wusterhausen bremst S-Bahn aus",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/28/signalreparatur-in-koenigs-wusterhausen-bremst-s-bahn-aus-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/28/signalreparatur-in-koenigs-wusterhausen-bremst-s-bahn-aus",
-      "published": "Mon, 28 Sep 2026 04:45:10 -0000",
-      "published_display": "28.09.2026 · 04:45 Uhr"
-    },
-    {
-      "title": "Unfälle: Motorradfahrerin eingeklemmt – Helfer retten 26-Jährige",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/28/motorradfahrerin-eingeklemmt-helfer-retten-26-jaehrige-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/28/motorradfahrerin-eingeklemmt-helfer-retten-26-jaehrige",
-      "published": "Mon, 28 Sep 2026 04:41:15 -0000",
-      "published_display": "28.09.2026 · 04:41 Uhr"
-    },
-    {
-      "title": "Unfälle: E-Roller-Unfall - Jugendlicher lebensgefährlich verletzt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/28/e-roller-unfall-jugendlicher-lebensgefaehrlich-verletzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/28/e-roller-unfall-jugendlicher-lebensgefaehrlich-verletzt",
-      "published": "Mon, 28 Sep 2026 04:37:55 -0000",
-      "published_display": "28.09.2026 · 04:37 Uhr"
-    },
-    {
-      "title": "Unfall auf dem Weg zur Wiesn: Philippinisches Generalkonsulat bestürzt nach Busunglück",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/28/philippinisches-generalkonsulat-bestuerzt-nach-busunglueck-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/28/philippinisches-generalkonsulat-bestuerzt-nach-busunglueck",
-      "published": "Mon, 28 Sep 2026 04:33:44 -0000",
-      "published_display": "28.09.2026 · 04:33 Uhr"
-    },
-    {
-      "title": "Caracas: Venezolanische Oppositionelle Macero in ihre Heimat zurückgekehrt",
-      "summary": "Claudia Macero gilt als die wichtigste Stellvertreterin von Oppositionsführerin María Corina Machado. Nach zwei Jahren im Exil konnte sie nach Venezuela zurückkehren.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/claudia-macero-venezuela-marina-corina-machado-exil-opposition-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/claudia-macero-venezuela-marina-corina-machado-exil-opposition",
-      "published": "Mon, 28 Sep 2026 04:32:21 -0000",
-      "published_display": "28.09.2026 · 04:32 Uhr"
-    },
-    {
-      "title": "Forschungskooperationen: Verfassungsschutz warnt vor chinesischer Spionage",
-      "summary": "Chinesische Spione könnten deutsche Forschungseinrichtungen ausspionieren, warnt der Verfassungsschutz. Es gebe dort ein mangelndes Risikobewusstsein.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/china-forschung-kooperation-verfassungsschutz-technologien-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/china-forschung-kooperation-verfassungsschutz-technologien",
-      "published": "Mon, 28 Sep 2026 04:30:36 -0000",
-      "published_display": "28.09.2026 · 04:30 Uhr"
     }
   ]
 }
