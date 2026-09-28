@@ -1,7 +1,39 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-28T17:45:50.432699+00:00",
+  "updated": "2026-09-28T17:57:32.570497+00:00",
   "items": [
+    {
+      "title": "Unwetter: Sturm an US-Ostküste - Überschwemmungen und Stromausfälle",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/27/sturm-an-us-ostkueste-ueberschwemmungen-und-stromausfaelle-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/27/sturm-an-us-ostkueste-ueberschwemmungen-und-stromausfaelle",
+      "published": "Mon, 28 Sep 2026 17:50:49 -0000",
+      "published_display": "28.09.2026 · 17:50 Uhr"
+    },
+    {
+      "title": "Hendrik Wüst: Was heißt Kanzlertausch auf Türkisch?",
+      "summary": "Hendrik Wüst lässt in der Kanzlerdebatte keine Zweifel an seinen Ambitionen aufkommen – und spricht sogar mit dem türkischen Staatschef über die CDU.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/hendrik-wuest-cdu-tuerkei-reise-recep-tayyip-erdogan-bild-2/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/hendrik-wuest-cdu-tuerkei-reise-recep-tayyip-erdogan",
+      "published": "Mon, 28 Sep 2026 17:47:18 -0000",
+      "published_display": "28.09.2026 · 17:47 Uhr"
+    },
+    {
+      "title": "Hitze und Dürre in Europa: EU geht von Milliardenschaden für Landwirte durch Hitzesommer aus",
+      "summary": "Hitze und Dürre haben zu schwachen Ernten in der EU geführt. EU-Agrarkommissar Christophe Hansen bezeichnet Landwirte als »die ersten Opfer des Klimawandels«.",
+      "image": "https://img.zeit.de/wirtschaft/2026-09/hitze-duerre-europa-landwirtschaft-klimawandel-eu-agrarpolitik-foto-1/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/2026-09/hitze-duerre-europa-landwirtschaft-klimawandel-eu-agrarpolitik",
+      "published": "Mon, 28 Sep 2026 17:46:55 -0000",
+      "published_display": "28.09.2026 · 17:46 Uhr"
+    },
+    {
+      "title": "Produktion in drei Ländern: VW vereinbart Milliardenpakt mit Batteriepartner aus China",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/28/vw-vereinbart-milliardenpakt-mit-batteriepartner-aus-china-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/28/vw-vereinbart-milliardenpakt-mit-batteriepartner-aus-china",
+      "published": "Mon, 28 Sep 2026 17:45:59 -0000",
+      "published_display": "28.09.2026 · 17:45 Uhr"
+    },
     {
       "title": "Festakt im Saarland: Über der Saar kommen Kohl und Mitterrand wieder zusammen",
       "summary": "",
@@ -89,38 +121,6 @@
       "link": "https://www.zeit.de/wirtschaft/unternehmen/2026-09/basf-uebernahme-evonik-igbce-chemie-michael-vassiliadis",
       "published": "Mon, 28 Sep 2026 17:00:29 -0000",
       "published_display": "28.09.2026 · 17:00 Uhr"
-    },
-    {
-      "title": "Kommunen: Einschüchterung durch AfD? Politikerin bekräftigt Eindruck",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/28/einschuechterung-durch-afd-politikerin-bekraeftigt-eindruck-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/28/einschuechterung-durch-afd-politikerin-bekraeftigt-eindruck",
-      "published": "Mon, 28 Sep 2026 16:59:42 -0000",
-      "published_display": "28.09.2026 · 16:59 Uhr"
-    },
-    {
-      "title": "Fußball-Nationalmannschaft: Matthäus: Kimmich hätte bleiben sollen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/28/matthaeus-kimmich-haette-bleiben-sollen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/28/matthaeus-kimmich-haette-bleiben-sollen",
-      "published": "Mon, 28 Sep 2026 16:58:27 -0000",
-      "published_display": "28.09.2026 · 16:58 Uhr"
-    },
-    {
-      "title": "Bundesverfassungsgericht Karlsruhe: Die Republik feiert so ein bisschen",
-      "summary": "Das Bundesverfassungsgericht hat viel geleistet. Es hat Deutschland offener und freier gemacht. Aber feiern? Nein, feiern kann es nicht besonders gut.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/17392888-hires-richterbank-bundesverfassungsgericht-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/bundesverfassungsgericht-karlsruhe-festakt-75-jahre",
-      "published": "Mon, 28 Sep 2026 16:49:42 -0000",
-      "published_display": "28.09.2026 · 16:49 Uhr"
-    },
-    {
-      "title": "NRW-Regierungschef in Ankara: Wüst spricht mit Erdogan auch über deutsche Innenpolitik",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/28/wuest-erdogan-zeigt-interesse-an-deutschen-wahlergebnissen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/28/wuest-erdogan-zeigt-interesse-an-deutschen-wahlergebnissen",
-      "published": "Mon, 28 Sep 2026 16:39:38 -0000",
-      "published_display": "28.09.2026 · 16:39 Uhr"
     }
   ]
 }
