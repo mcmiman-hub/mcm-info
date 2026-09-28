@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-28T21:18:30.193369+00:00",
+  "updated": "2026-09-28T21:31:15.098601+00:00",
   "items": [
+    {
+      "title": "Lebensgefahr: Motorradfahrerin bei Rövershagen lebensbedrohlich verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/28/motorradfahrerin-bei-roevershagen-lebensbedrohlich-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/28/motorradfahrerin-bei-roevershagen-lebensbedrohlich-verletzt",
+      "published": "Mon, 28 Sep 2026 21:26:24 -0000",
+      "published_display": "28.09.2026 · 21:26 Uhr"
+    },
+    {
+      "title": "USA: Donald Trump bestreitet Waffenangebot an China",
+      "summary": "Der US-Präsident hat laut einem Diplomaten Chinas Staatspräsident Xi Jinping US-Waffen angeboten. Trump sagt, er habe davon »noch nie gehört«. Gemeint sei wohl Taiwan.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/donald-trump-xi-jinping-waffen-china-david-perdue-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/donald-trump-xi-jinping-waffen-china-taiwan-david-perdue",
+      "published": "Mon, 28 Sep 2026 21:24:57 -0000",
+      "published_display": "28.09.2026 · 21:24 Uhr"
+    },
     {
       "title": "Hendrik Wüst: Was heißt Kanzlertausch auf Türkisch?",
       "summary": "Hendrik Wüst lässt in der Kanzlerdebatte keine Zweifel an seinen Ambitionen aufkommen – und spricht sogar mit dem türkischen Staatschef über die Lage der CDU.",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/politik/ausland/2026-09/israelische-siedler-westjordanland-ramiz-alakbarov-un",
       "published": "Mon, 28 Sep 2026 18:48:14 -0000",
       "published_display": "28.09.2026 · 18:48 Uhr"
-    },
-    {
-      "title": "In der Lausitz: 365 Meter: Höchstes Windrad der Welt erreicht seine Höhe",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/28/365-meter-hoechstes-windrad-der-welt-erreicht-seine-hoehe-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/28/365-meter-hoechstes-windrad-der-welt-erreicht-seine-hoehe",
-      "published": "Mon, 28 Sep 2026 18:15:16 -0000",
-      "published_display": "28.09.2026 · 18:15 Uhr"
-    },
-    {
-      "title": "Serbien: Der Autokrat kämpft ums Überleben",
-      "summary": "Serbiens Präsident Aleksandar Vučić muss befürchten, dass sein Versuch misslingt, sich zum Premierminister wählen zu lassen. Nun versucht er, seine Gegner zu überrumpeln.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/serbien-aleksandar-vucic-ruecktritt-parlamentswahl-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/serbien-aleksandar-vucic-ruecktritt-parlamentswahl",
-      "published": "Mon, 28 Sep 2026 18:08:19 -0000",
-      "published_display": "28.09.2026 · 18:08 Uhr"
     }
   ]
 }
