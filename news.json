@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-28T17:31:54.496840+00:00",
+  "updated": "2026-09-28T17:45:50.432699+00:00",
   "items": [
+    {
+      "title": "Festakt im Saarland: Über der Saar kommen Kohl und Mitterrand wieder zusammen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/28/kohl-und-mitterrand-vereint-ueber-der-saar-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/28/kohl-und-mitterrand-vereint-ueber-der-saar",
+      "published": "Mon, 28 Sep 2026 17:40:40 -0000",
+      "published_display": "28.09.2026 · 17:40 Uhr"
+    },
+    {
+      "title": "Philipp Amthor: Philipp Amthor trennt sich nach Kritik von Strandkorb im Kanzleramt",
+      "summary": "Der CDU-Politiker Philipp Amthor ließ sich einen Strandkorb auf den Balkon seines Büros im Kanzleramt liefern. Nach viel Kritik ging das Möbelstück zurück an die Ostsee.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/philipp-amthor-strandkorb-kanzleramt-mecklenburg-vorpommern-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/philipp-amthor-strandkorb-kanzleramt-mecklenburg-vorpommern",
+      "published": "Mon, 28 Sep 2026 17:39:03 -0000",
+      "published_display": "28.09.2026 · 17:39 Uhr"
+    },
+    {
+      "title": "Pflegereform: So wird die Pflegereform noch zu Tode gepflegt",
+      "summary": "Die Pflege ist so unterfinanziert, dass Minister Linnenmann nun schnell Steuerzuschüsse auf den Weg bringen muss. Und erst dann sollte eine neue Expertenkommission ran.",
+      "image": "https://img.zeit.de/politik/2026-09/pflegereform-private-gesetzliche-pflegeversicherung-finanzierung-bild/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/2026-09/pflegereform-private-gesetzliche-pflegeversicherung-finanzierung",
+      "published": "Mon, 28 Sep 2026 17:34:08 -0000",
+      "published_display": "28.09.2026 · 17:34 Uhr"
+    },
     {
       "title": "Protest vor Wahlen: Tausende demonstrieren in Prag gegen Regierung",
       "summary": "",
@@ -9,14 +33,6 @@
       "link": "https://www.zeit.de/news/2026-09/28/tausende-demonstrieren-in-prag-gegen-regierung",
       "published": "Mon, 28 Sep 2026 17:29:32 -0000",
       "published_display": "28.09.2026 · 17:29 Uhr"
-    },
-    {
-      "title": "Festakt im Saarland: Kohl und Mitterrand - vereint über der Saar",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/28/kohl-und-mitterrand-vereint-ueber-der-saar-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/28/kohl-und-mitterrand-vereint-ueber-der-saar",
-      "published": "Mon, 28 Sep 2026 17:28:23 -0000",
-      "published_display": "28.09.2026 · 17:28 Uhr"
     },
     {
       "title": "Auf dem Oktoberfest: Söder und Krause lösen Olympia-Wette in Wiesn-Achterbahn ein",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/28/wuest-erdogan-zeigt-interesse-an-deutschen-wahlergebnissen",
       "published": "Mon, 28 Sep 2026 16:39:38 -0000",
       "published_display": "28.09.2026 · 16:39 Uhr"
-    },
-    {
-      "title": "Raumfahrt: Riesen-Rakete Starship schafft es erstmals in Erdumlaufbahn",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/28/riesen-rakete-starship-bricht-zu-mehrfacher-erdumrundung-auf-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/28/riesen-rakete-starship-bricht-zu-mehrfacher-erdumrundung-auf",
-      "published": "Mon, 28 Sep 2026 16:38:57 -0000",
-      "published_display": "28.09.2026 · 16:38 Uhr"
-    },
-    {
-      "title": "Eisbären auf Spitzbergen: Was ist der Eisbär ohne Eis?",
-      "summary": "Er ist ein Symbol der Klimakrise, denn seine Heimat schmilzt. Erstaunlich nur: Vielen Bären geht es gut. Folgt man der Bärin N23980, versteht man, welchen Preis das hat.",
-      "image": "https://img.zeit.de/2026/40/was-ist-der-eisbaer-ohne-eis-bild-1/original__640x360",
-      "link": "https://www.zeit.de/2026/40/eisbaeren-spitzbergen-klimawandel-tiere-norwegen",
-      "published": "Mon, 28 Sep 2026 16:30:45 -0000",
-      "published_display": "28.09.2026 · 16:30 Uhr"
     }
   ]
 }
