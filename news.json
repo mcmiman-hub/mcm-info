@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-28T05:46:48.050382+00:00",
+  "updated": "2026-09-28T05:57:04.075993+00:00",
   "items": [
+    {
+      "title": "Elektroauto: So laden Sie an öffentlichen Säulen am günstigsten",
+      "summary": "Einfach einstecken und losladen? An öffentlichen Ladepunkten ist es meist komplizierter. Wie E-Auto-Fahrer trotzdem günstigen Strom laden – und Abzocke verhindern.",
+      "image": "https://img.zeit.de/mobilitaet/2026-09/elektroauto-alltag-ladeinfrastruktur-stromtarif-kosten-bild/original__640x360",
+      "link": "https://www.zeit.de/mobilitaet/2026-09/elektroauto-alltag-ladeinfrastruktur-stromtarif-kosten",
+      "published": "Mon, 28 Sep 2026 05:48:51 -0000",
+      "published_display": "28.09.2026 · 05:48 Uhr"
+    },
+    {
+      "title": "Dreitägige Reise: Wüst will «neues Kapitel» mit Türkei aufschlagen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/28/wuest-will-neues-kapitel-mit-tuerkei-aufschlagen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/28/wuest-will-neues-kapitel-mit-tuerkei-aufschlagen",
+      "published": "Mon, 28 Sep 2026 05:45:04 -0000",
+      "published_display": "28.09.2026 · 05:45 Uhr"
+    },
     {
       "title": "Wetter: Warmes, gemischtes Wetter zum Wochenstart im Nordwesten",
       "summary": "",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/28/schoene-herbsttage-im-nordosten-ueber-20-grad-erwartet",
       "published": "Mon, 28 Sep 2026 05:24:39 -0000",
       "published_display": "28.09.2026 · 05:24 Uhr"
-    },
-    {
-      "title": "Unfälle: Motorradfahrer stirbt bei Unfall im Kreis Segeberg",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/28/motorradfahrer-stirbt-bei-unfall-im-kreis-segeberg-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/28/motorradfahrer-stirbt-bei-unfall-im-kreis-segeberg",
-      "published": "Mon, 28 Sep 2026 05:21:55 -0000",
-      "published_display": "28.09.2026 · 05:21 Uhr"
-    },
-    {
-      "title": "Kriminalität: Schussgeräusche gemeldet - Hochzeitsgesellschaft im Visier",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/28/schussgeraeusche-gemeldet-hochzeitsgesellschaft-im-visier-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/28/schussgeraeusche-gemeldet-hochzeitsgesellschaft-im-visier",
-      "published": "Mon, 28 Sep 2026 05:19:02 -0000",
-      "published_display": "28.09.2026 · 05:19 Uhr"
     }
   ]
 }
