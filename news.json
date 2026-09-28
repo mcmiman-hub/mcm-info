@@ -1,7 +1,71 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-28T11:34:58.724727+00:00",
+  "updated": "2026-09-28T11:49:12.182957+00:00",
   "items": [
+    {
+      "title": "Zivilcourage: Mutige Helferin im Wald: Frau befreit Verletzten mit Traktor",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/28/mutige-helferin-im-wald-frau-befreit-verletzten-mit-traktor-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/28/mutige-helferin-im-wald-frau-befreit-verletzten-mit-traktor",
+      "published": "Mon, 28 Sep 2026 11:46:28 -0000",
+      "published_display": "28.09.2026 · 11:46 Uhr"
+    },
+    {
+      "title": "Regierung: Überraschendes Treffen von Wüst und Erdogan geplant",
+      "summary": "",
+      "image": "https://img.zeit.de/administratives/sharing/fallback-image-die-zeit/wide__1300x731",
+      "link": "https://www.zeit.de/news/2026-09/28/ueberraschendes-treffen-von-wuest-und-erdogan-geplant",
+      "published": "Mon, 28 Sep 2026 11:46:13 -0000",
+      "published_display": "28.09.2026 · 11:46 Uhr"
+    },
+    {
+      "title": "Schlag gegen Hintermänner: Tod eines Polizisten - mutmaßliche Drahtzieher gefasst",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/28/tod-eines-polizisten-mutmassliche-drahtzieher-gefasst-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/28/tod-eines-polizisten-mutmassliche-drahtzieher-gefasst",
+      "published": "Mon, 28 Sep 2026 11:43:57 -0000",
+      "published_display": "28.09.2026 · 11:43 Uhr"
+    },
+    {
+      "title": "Mutmaßlicher Täter gefasst: Türkei: Lehrer an Schule in Osmaniye erschossen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/28/tuerkei-lehrer-an-schule-in-osmaniye-erschossen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/28/tuerkei-lehrer-an-schule-in-osmaniye-erschossen",
+      "published": "Mon, 28 Sep 2026 11:43:40 -0000",
+      "published_display": "28.09.2026 · 11:43 Uhr"
+    },
+    {
+      "title": "Tiefsee vor Cape Cod: Weltschwamm und Superstar",
+      "summary": "Am Grund des Atlantiks wurden SpongeBob und Patrick entdeckt, ganz zufällig. Nicht gesucht und trotzdem sofort erkannt zu werden, das passiert nur wahren Berühmtheiten.",
+      "image": "https://img.zeit.de/zeit-magazin/2026/41/tiefsee-cape-cod-noaa-spongebob-schwamm-seestern-collage/original__640x360",
+      "link": "https://www.zeit.de/zeit-magazin/2026/41/tiefsee-cape-cod-noaa-spongebob-schwamm-seestern",
+      "published": "Mon, 28 Sep 2026 11:41:38 -0000",
+      "published_display": "28.09.2026 · 11:41 Uhr"
+    },
+    {
+      "title": "Niedrigwasser am Rhein: Niedrigwasser schränkt Schifffahrt auf dem Rhein stark ein",
+      "summary": "An mehreren Orten am Rhein wurden historische Tiefstände des Pegels gemessen. Der Schiffsverkehr ist weiterhin erheblich eingeschränkt. Es regnet derzeit zu wenig.",
+      "image": "https://img.zeit.de/wissenschaft/umwelt/2026-09/niedrigwasser-rhein-pegel-koeln-kaub-schifffahrt-foto-1/original__640x360",
+      "link": "https://www.zeit.de/wissenschaft/umwelt/2026-09/niedrigwasser-rhein-pegel-koeln-kaub-schifffahrt",
+      "published": "Mon, 28 Sep 2026 11:38:59 -0000",
+      "published_display": "28.09.2026 · 11:38 Uhr"
+    },
+    {
+      "title": "Nahverkehr: Hessische Landesbahn will wachsen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/28/hessische-landesbahn-will-wachsen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/28/hessische-landesbahn-will-wachsen",
+      "published": "Mon, 28 Sep 2026 11:36:31 -0000",
+      "published_display": "28.09.2026 · 11:36 Uhr"
+    },
+    {
+      "title": "75 Jahre Bundesverfassungsgericht: Bundespräsident Steinmeier ruft zum Schutz des Rechtsstaats auf",
+      "summary": "Beim Festakt zum 75. Geburtstag des Bundesverfassungsgerichts betont der Bundespräsident die wichtige Rolle des Gerichts. Es müsse vor Demokratiefeinden geschützt werden.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/bundesverfassungsgericht-75-jahre-jubilaeum-frank-walter-steinmeier-demokratie-grundgesetz-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/bundesverfassungsgericht-75-jahre-jubilaeum-frank-walter-steinmeier-demokratie-grundgesetz",
+      "published": "Mon, 28 Sep 2026 11:36:30 -0000",
+      "published_display": "28.09.2026 · 11:36 Uhr"
+    },
     {
       "title": "Nach Abgeordnetenhauswahl: Grüne und SPD in Berlin stellen Bedingung für Sondierungen",
       "summary": "",
@@ -43,14 +107,6 @@
       "published_display": "28.09.2026 · 11:30 Uhr"
     },
     {
-      "title": "Niedrigwasser am Rhein: Niedrigwasser schränkt Schifffahrt auf dem Rhein stark ein",
-      "summary": "An mehreren Orten am Rhein wurden historische Tiefstände des Pegels gemessen. Der Schiffsverkehr ist weiterhin erheblich eingeschränkt. Es regnet derzeit zu wenig.",
-      "image": "https://img.zeit.de/wissenschaft/umwelt/2026-09/niedrigwasser-rhein-pegel-koeln-kaub-schifffahrt-foto-1/original__640x360",
-      "link": "https://www.zeit.de/wissenschaft/umwelt/2026-09/niedrigwasser-rhein-pegel-koeln-kaub-schifffahrt",
-      "published": "Mon, 28 Sep 2026 11:26:53 -0000",
-      "published_display": "28.09.2026 · 11:26 Uhr"
-    },
-    {
       "title": "«Na doch»: Streit über Antisemitismusvorwurf: Linke zeigt Dobrindt an",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-09/28/streit-ueber-antisemitismusvorwurf-linke-zeigt-dobrindt-an-image-group/original__640x360",
@@ -65,62 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/28/rhein-erreicht-rekordtiefstand-in-koeln",
       "published": "Mon, 28 Sep 2026 11:24:54 -0000",
       "published_display": "28.09.2026 · 11:24 Uhr"
-    },
-    {
-      "title": "Fußball-Nationalmannschaft: Klopp erhört Kimmich nicht: Kapitän ohne Freizeit-Pläne",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/28/kimmich-hofft-vergeblich-auf-klopp-waere-gerne-geblieben-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/28/kimmich-hofft-vergeblich-auf-klopp-waere-gerne-geblieben",
-      "published": "Mon, 28 Sep 2026 11:23:16 -0000",
-      "published_display": "28.09.2026 · 11:23 Uhr"
-    },
-    {
-      "title": "Oktoberfest 2026: Wiesn-Streit eskaliert: Attacke mit Besteckmesser",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/28/wiesn-streit-eskaliert-attacke-mit-besteckmesser-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/28/wiesn-streit-eskaliert-attacke-mit-besteckmesser",
-      "published": "Mon, 28 Sep 2026 11:22:36 -0000",
-      "published_display": "28.09.2026 · 11:22 Uhr"
-    },
-    {
-      "title": "In Niedersachsen: Weniger Straftaten - aber wachsende Furcht davor",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/28/weniger-straftaten-aber-wachsende-furcht-davor-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/28/weniger-straftaten-aber-wachsende-furcht-davor",
-      "published": "Mon, 28 Sep 2026 11:19:45 -0000",
-      "published_display": "28.09.2026 · 11:19 Uhr"
-    },
-    {
-      "title": "Treffen der Außenminister: Kiesewetter warnt vor deutschem Alleingang im Umgang mit Russland",
-      "summary": "Das Treffen von Außenminister Wadephul mit Sergej Lawrow war nach Ansicht von Roderich Kiesewetter ein innenpolitisches Signal. In Verhandlungen sieht er keinen Sinn.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/johann-wadephul-sergej-lawrow-cdu-russland-moskau-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/johann-wadephul-sergej-lawrow-cdu-russland-moskau",
-      "published": "Mon, 28 Sep 2026 11:16:17 -0000",
-      "published_display": "28.09.2026 · 11:16 Uhr"
-    },
-    {
-      "title": "Festakt: Steinmeier: Bundesverfassungsgericht Garant der Demokratie",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/28/bundespraesident-steinmeier-grundgesetz-gilt-fuer-alle-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/28/bundespraesident-steinmeier-grundgesetz-gilt-fuer-alle",
-      "published": "Mon, 28 Sep 2026 11:14:08 -0000",
-      "published_display": "28.09.2026 · 11:14 Uhr"
-    },
-    {
-      "title": "Gewaltkriminalität: Erneute Messerangriffe in Berlin mit drei Schwerverletzten",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/28/messerattacke-in-wedding-16-jaehriger-schwer-verletzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/28/messerattacke-in-wedding-16-jaehriger-schwer-verletzt",
-      "published": "Mon, 28 Sep 2026 11:13:03 -0000",
-      "published_display": "28.09.2026 · 11:13 Uhr"
-    },
-    {
-      "title": "US-Autobauer von Elon Musk: Tesla erhöht Gehälter in Grünheide um bis zu fünf Prozent",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/28/tesla-erhoeht-gehaelter-in-gruenheide-um-bis-zu-fuenf-prozent-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/28/tesla-erhoeht-gehaelter-in-gruenheide-um-bis-zu-fuenf-prozent",
-      "published": "Mon, 28 Sep 2026 11:13:01 -0000",
-      "published_display": "28.09.2026 · 11:13 Uhr"
     }
   ]
 }
