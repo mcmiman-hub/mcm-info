@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-28T01:44:27.249775+00:00",
+  "updated": "2026-09-28T01:56:05.684722+00:00",
   "items": [
+    {
+      "title": "Softwarekonzern: SAP-Chef sieht historische Wachstumschance durch KI-Produkte",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/28/sap-chef-sieht-historische-wachstumschance-durch-ki-produkte-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/28/sap-chef-sieht-historische-wachstumschance-durch-ki-produkte",
+      "published": "Mon, 28 Sep 2026 01:50:05 -0000",
+      "published_display": "28.09.2026 · 01:50 Uhr"
+    },
+    {
+      "title": "Fotografie: Bilder des Tages",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/28/bilder-des-tages-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/28/bilder-des-tages",
+      "published": "Mon, 28 Sep 2026 01:42:26 -0000",
+      "published_display": "28.09.2026 · 01:42 Uhr"
+    },
     {
       "title": "Pressestimmen zur Niederlage gegen Griechenland: »Griechische Tragödie für Klopp«",
       "summary": "Die internationale Presse attestiert dem Bundestrainer einen »Fehlstart« und zieht Parallelen zu seinen Vorgängern. Die Griechen werden nach ihrem Sieg gefeiert.",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/politik/deutschland/2026-09/robert-habeck-caren-miosga-wirtschaftsminister-gruene-usa",
       "published": "Mon, 28 Sep 2026 01:09:16 -0000",
       "published_display": "28.09.2026 · 01:09 Uhr"
-    },
-    {
-      "title": "Musikpreise: Madonna eröffnet MTV Video Music Awards",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/28/madonna-eroeffnet-mtv-video-music-awards-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/28/madonna-eroeffnet-mtv-video-music-awards",
-      "published": "Mon, 28 Sep 2026 01:05:43 -0000",
-      "published_display": "28.09.2026 · 01:05 Uhr"
-    },
-    {
-      "title": "Unfall: Motorradfahrer verunglückt im Harz",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/28/motorradfahrer-verunglueckt-im-harz-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/28/motorradfahrer-verunglueckt-im-harz",
-      "published": "Mon, 28 Sep 2026 01:00:14 -0000",
-      "published_display": "28.09.2026 · 01:00 Uhr"
     }
   ]
 }
