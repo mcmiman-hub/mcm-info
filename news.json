@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-28T16:36:38.928095+00:00",
+  "updated": "2026-09-28T16:50:58.436406+00:00",
   "items": [
+    {
+      "title": "Bundesverfassungsgericht Karlsruhe: Die Republik feiert so ein bisschen",
+      "summary": "Das Bundesverfassungsgericht hat viel geleistet. Es hat Deutschland offener und freier gemacht. Aber feiern? Nein, feiern kann es nicht besonders gut.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/17392888-hires-richterbank-bundesverfassungsgericht-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/bundesverfassungsgericht-karlsruhe-festakt-75-jahre",
+      "published": "Mon, 28 Sep 2026 16:49:42 -0000",
+      "published_display": "28.09.2026 · 16:49 Uhr"
+    },
+    {
+      "title": "NRW-Regierungschef in Ankara: Wüst spricht mit Erdogan auch über deutsche Innenpolitik",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/28/wuest-erdogan-zeigt-interesse-an-deutschen-wahlergebnissen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/28/wuest-erdogan-zeigt-interesse-an-deutschen-wahlergebnissen",
+      "published": "Mon, 28 Sep 2026 16:39:38 -0000",
+      "published_display": "28.09.2026 · 16:39 Uhr"
+    },
+    {
+      "title": "Raumfahrt: Riesen-Rakete Starship schafft es erstmals in Erdumlaufbahn",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/28/riesen-rakete-starship-bricht-zu-mehrfacher-erdumrundung-auf-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/28/riesen-rakete-starship-bricht-zu-mehrfacher-erdumrundung-auf",
+      "published": "Mon, 28 Sep 2026 16:38:57 -0000",
+      "published_display": "28.09.2026 · 16:38 Uhr"
+    },
     {
       "title": "Eisbären auf Spitzbergen: Was ist der Eisbär ohne Eis?",
       "summary": "Er ist ein Symbol der Klimakrise, denn seine Heimat schmilzt. Erstaunlich nur: Vielen Bären geht es gut. Folgt man der Bärin N23980, versteht man, welchen Preis das hat.",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/familie/2026-09/gespraeche-lebensende-sterbebett-familie-aufruf",
       "published": "Mon, 28 Sep 2026 16:00:03 -0000",
       "published_display": "28.09.2026 · 16:00 Uhr"
-    },
-    {
-      "title": "Pflegereform: Warum die SPD die Pflegereform plötzlich infrage stellt",
-      "summary": "Zwei Tage vor dem Kabinettsbeschluss droht die SPD, die Pflegereform zu blockieren. Was steckt dahinter? Und: Andy Burnhams erste Bewährungsprobe beim Labour-Parteitag",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/bundestag-generalaussprache-bild-3/original__640x360",
-      "link": "https://www.zeit.de/politik/2026-09/pflegereform-streit-union-spd-nachrichtenpodcast",
-      "published": "Mon, 28 Sep 2026 15:58:48 -0000",
-      "published_display": "28.09.2026 · 15:58 Uhr"
-    },
-    {
-      "title": "Besuch in der Türkei: Wüst: Erdogan zeigt Interesse an deutschen Wahlergebnissen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/28/wuest-erdogan-zeigt-interesse-an-deutschen-wahlergebnissen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/28/wuest-erdogan-zeigt-interesse-an-deutschen-wahlergebnissen",
-      "published": "Mon, 28 Sep 2026 15:58:31 -0000",
-      "published_display": "28.09.2026 · 15:58 Uhr"
-    },
-    {
-      "title": "Konfliktlösung: Nichts schöner, als sich wieder zu versöhnen",
-      "summary": "Streit ist hässlich, kommt aber zwischen allen Eltern und ihrem Kind vor. Die Familientherapeutin Christine Ordnung erklärt, wie man danach wieder zueinanderfindet.",
-      "image": "https://img.zeit.de/familie/2026-09/streit-eltern-kind-jugendlich/original__640x360",
-      "link": "https://www.zeit.de/familie/2026-09/streit-eltern-kind-jugendlich-versoehnung",
-      "published": "Mon, 28 Sep 2026 15:57:15 -0000",
-      "published_display": "28.09.2026 · 15:57 Uhr"
     }
   ]
 }
