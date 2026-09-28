@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-28T22:43:35.698509+00:00",
+  "updated": "2026-09-28T22:56:08.972706+00:00",
   "items": [
+    {
+      "title": "Wohnungsnot in Spanien: 87-jährige Spanierin darf nach Zwangsräumung in Wohnung zurückkehren",
+      "summary": "Nach Massenprotesten gegen Wohnungsmangel haben Behörden in Madrid eine Zwangsräumung rückgängig gemacht. Der Fall der Rentnerin setzt Spaniens Regierung unter Druck.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/zwangsraeumung-madrid-maricarmen-abascal-miete-proteste-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/zwangsraeumung-madrid-maricarmen-abascal-miete-proteste",
+      "published": "Mon, 28 Sep 2026 22:48:17 -0000",
+      "published_display": "28.09.2026 · 22:48 Uhr"
+    },
+    {
+      "title": "Diplomatie: US-Waffenverkauf an China? Trump dementiert Angebot an Xi",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/us-waffenverkauf-an-china-trump-dementiert-angebot-an-xi-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/us-waffenverkauf-an-china-trump-dementiert-angebot-an-xi",
+      "published": "Mon, 28 Sep 2026 22:46:06 -0000",
+      "published_display": "28.09.2026 · 22:46 Uhr"
+    },
+    {
+      "title": "Krieg gegen die Ukraine: Selenskyj warnt vor russischer Mobilmachung",
+      "summary": "Mehr Personal und mehr Geld: Russland plant offenbar, deutlich mehr in die Armee zu investieren. Wolodymyr Selenskyj warnt vor einer neuen Mobilmachung. Das Liveblog",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/president-donald-trump-attends-united-nations-general-assembly-in-new-york-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "published": "Mon, 28 Sep 2026 22:45:26 -0000",
+      "published_display": "28.09.2026 · 22:45 Uhr"
+    },
     {
       "title": "Ukraine-Krieg: Papst fordert Gespräche über Kriegsende in Ukraine",
       "summary": "",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/28/villa-der-versuchung-sieg-fuer-reality-neuling-frenzy",
       "published": "Mon, 28 Sep 2026 20:50:04 -0000",
       "published_display": "28.09.2026 · 20:50 Uhr"
-    },
-    {
-      "title": "Krieg gegen die Ukraine: Selenskyj warnt vor russischer Mobilmachung",
-      "summary": "Mehr Personal und mehr Geld: Russland plant offenbar, deutlich mehr in die Armee zu investieren. Wolodymyr Selenskyj warnt vor einer neuen Mobilmachung. Das Liveblog",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/president-donald-trump-attends-united-nations-general-assembly-in-new-york-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "published": "Mon, 28 Sep 2026 20:33:39 -0000",
-      "published_display": "28.09.2026 · 20:33 Uhr"
-    },
-    {
-      "title": "Sachsen-Anhalt: Schulze bleibt dabei: AfD ist kein Partner für die CDU",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/28/schulze-bleibt-dabei-afd-ist-kein-partner-fuer-die-cdu-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/28/schulze-bleibt-dabei-afd-ist-kein-partner-fuer-die-cdu",
-      "published": "Mon, 28 Sep 2026 20:31:37 -0000",
-      "published_display": "28.09.2026 · 20:31 Uhr"
-    },
-    {
-      "title": "Künstliche Intelligenz: Papst fordert breiten Dialog über KI",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/28/papst-fordert-breiten-dialog-ueber-ki-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/28/papst-fordert-breiten-dialog-ueber-ki",
-      "published": "Mon, 28 Sep 2026 20:14:42 -0000",
-      "published_display": "28.09.2026 · 20:14 Uhr"
     }
   ]
 }
