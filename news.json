@@ -1,7 +1,79 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-28T15:51:24.384486+00:00",
+  "updated": "2026-09-28T16:01:17.021316+00:00",
   "items": [
+    {
+      "title": "Gespräche am Lebensende: Worüber spricht man am Sterbebett?",
+      "summary": "Die letzten Gespräche, wenn jemand aus der Familie im Sterben liegt, sind nicht leicht. Erzählen Sie uns, was Ihnen wichtig war. Was konnten Sie noch miteinander teilen?",
+      "image": "https://img.zeit.de/familie/2026-09/gespraeche-lebensende-sterbebett-2/original__640x360",
+      "link": "https://www.zeit.de/familie/2026-09/gespraeche-lebensende-sterbebett-familie-aufruf",
+      "published": "Mon, 28 Sep 2026 16:00:03 -0000",
+      "published_display": "28.09.2026 · 16:00 Uhr"
+    },
+    {
+      "title": "Pflegereform: Warum die SPD die Pflegereform plötzlich infrage stellt",
+      "summary": "Zwei Tage vor dem Kabinettsbeschluss droht die SPD, die Pflegereform zu blockieren. Was steckt dahinter? Und: Andy Burnhams erste Bewährungsprobe beim Labour-Parteitag",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/bundestag-generalaussprache-bild-3/original__640x360",
+      "link": "https://www.zeit.de/politik/2026-09/pflegereform-streit-union-spd-nachrichtenpodcast",
+      "published": "Mon, 28 Sep 2026 15:58:48 -0000",
+      "published_display": "28.09.2026 · 15:58 Uhr"
+    },
+    {
+      "title": "Besuch in der Türkei: Wüst: Erdogan zeigt Interesse an deutschen Wahlergebnissen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/28/wuest-erdogan-zeigt-interesse-an-deutschen-wahlergebnissen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/28/wuest-erdogan-zeigt-interesse-an-deutschen-wahlergebnissen",
+      "published": "Mon, 28 Sep 2026 15:58:31 -0000",
+      "published_display": "28.09.2026 · 15:58 Uhr"
+    },
+    {
+      "title": "Konfliktlösung: Nichts schöner, als sich wieder zu versöhnen",
+      "summary": "Streit ist hässlich, kommt aber zwischen allen Eltern und ihrem Kind vor. Die Familientherapeutin Christine Ordnung erklärt, wie man danach wieder zueinanderfindet.",
+      "image": "https://img.zeit.de/familie/2026-09/streit-eltern-kind-jugendlich/original__640x360",
+      "link": "https://www.zeit.de/familie/2026-09/streit-eltern-kind-jugendlich-versoehnung",
+      "published": "Mon, 28 Sep 2026 15:57:15 -0000",
+      "published_display": "28.09.2026 · 15:57 Uhr"
+    },
+    {
+      "title": "Kriminalität: Kettensäge gestohlen, Baum gefällt - Täter gesucht",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/28/kettensaege-gestohlen-baum-gefaellt-taeter-gesucht-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/28/kettensaege-gestohlen-baum-gefaellt-taeter-gesucht",
+      "published": "Mon, 28 Sep 2026 15:56:05 -0000",
+      "published_display": "28.09.2026 · 15:56 Uhr"
+    },
+    {
+      "title": "Kriminalität: Streit im Kleingarten - Mann sticht mit Schwert zu",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/28/streit-im-kleingarten-mann-sticht-mit-schwert-zu-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/28/streit-im-kleingarten-mann-sticht-mit-schwert-zu",
+      "published": "Mon, 28 Sep 2026 15:52:44 -0000",
+      "published_display": "28.09.2026 · 15:52 Uhr"
+    },
+    {
+      "title": "Grüner Stahl: Merz: Deutschland braucht eigene Stahlerzeugung",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/28/merz-deutschland-braucht-eigene-stahlerzeugung-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/28/merz-deutschland-braucht-eigene-stahlerzeugung",
+      "published": "Mon, 28 Sep 2026 15:51:02 -0000",
+      "published_display": "28.09.2026 · 15:51 Uhr"
+    },
+    {
+      "title": "Lebensmittelhandel: Edeka darf 178 Tegut-Supermärkte übernehmen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/28/edeka-darf-178-tegut-supermaerkte-uebernehmen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/28/edeka-darf-178-tegut-supermaerkte-uebernehmen",
+      "published": "Mon, 28 Sep 2026 15:50:20 -0000",
+      "published_display": "28.09.2026 · 15:50 Uhr"
+    },
+    {
+      "title": "Kontaktdaten: Hackerangriff auf Flink: Namen, Adressen, Telefonnummern",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/28/hackerangriff-auf-flink-namen-adressen-telefonnummern-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/28/hackerangriff-auf-flink-namen-adressen-telefonnummern",
+      "published": "Mon, 28 Sep 2026 15:50:11 -0000",
+      "published_display": "28.09.2026 · 15:50 Uhr"
+    },
     {
       "title": "Technische Störung: IT-Störung trifft Kommunalverwaltungen in Rheinland-Pfalz",
       "summary": "",
@@ -43,84 +115,12 @@
       "published_display": "28.09.2026 · 15:29 Uhr"
     },
     {
-      "title": "Pflegereform: Warum die SPD die Pflegereform plötzlich infrage stellt",
-      "summary": "Zwei Tage vor dem Kabinettsbeschluss droht die SPD, die Pflegereform zu blockieren. Was steckt dahinter? Und: Andy Burnhams erste Bewährungsprobe beim Labour-Parteitag",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/bundestag-generalaussprache-bild-3/original__640x360",
-      "link": "https://www.zeit.de/politik/2026-09/pflegereform-streit-union-spd-nachrichtenpodcast",
-      "published": "Mon, 28 Sep 2026 15:27:33 -0000",
-      "published_display": "28.09.2026 · 15:27 Uhr"
-    },
-    {
       "title": "Metro AG in Russland: Wladimir Putin stellt Russland-Geschäft unter Zwangsverwaltung",
       "summary": "Als eines von wenigen deutschen Unternehmen blieb die Metro AG auch nach dem Überfall auf die Ukraine in Russland. Nun werden dort alle Vermögenswerte verstaatlicht.",
       "image": "https://img.zeit.de/politik/ausland/2026-09/metro-ag-russland-zwangsverwaltung-wladimir-putin-ukraine-foto-1/original__640x360",
       "link": "https://www.zeit.de/politik/ausland/2026-09/metro-ag-russland-zwangsverwaltung-wladimir-putin-ukraine-gxe",
       "published": "Mon, 28 Sep 2026 15:26:00 -0000",
       "published_display": "28.09.2026 · 15:26 Uhr"
-    },
-    {
-      "title": "Invasive Art: Waschbären sind in Schleswig-Holstein zunehmend ein Problem",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/28/waschbaeren-sind-in-schleswig-holstein-zunehmend-ein-problem-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/28/waschbaeren-sind-in-schleswig-holstein-zunehmend-ein-problem",
-      "published": "Mon, 28 Sep 2026 15:25:01 -0000",
-      "published_display": "28.09.2026 · 15:25 Uhr"
-    },
-    {
-      "title": "AfD-Verbot: Ehemalige Verfassungsrichter sehen Hürden bei AfD-Verbotsverfahren",
-      "summary": "Ehemalige Verfassungsrichter haben auf die Komplexität eines möglichen AfD-Verbotsverfahrens hingewiesen. Der Fall sei anders gelagert als beim Verfahren gegen die NPD.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/afd-verbot-bundesverfassungsgericht-andreas-vosskuhle-peter-mueller-udo-di-fabio-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/afd-verbot-bundesverfassungsgericht-andreas-vosskuhle-peter-mueller-udo-di-fabio",
-      "published": "Mon, 28 Sep 2026 15:22:49 -0000",
-      "published_display": "28.09.2026 · 15:22 Uhr"
-    },
-    {
-      "title": "Übernahmeangebot: BASF will Evonik: IGBCE sieht «offene und kritische Fragen»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/28/basf-will-evonik-igbce-sieht-offene-und-kritische-fragen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/28/basf-will-evonik-igbce-sieht-offene-und-kritische-fragen",
-      "published": "Mon, 28 Sep 2026 15:20:38 -0000",
-      "published_display": "28.09.2026 · 15:20 Uhr"
-    },
-    {
-      "title": "Abschied des ZDF-Satirikers: Jan Böhmermann: ZDF-Intendant hatte «Tränen in den Augen»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/28/jan-boehmermann-zdf-intendant-hatte-traenen-in-den-augen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/28/jan-boehmermann-zdf-intendant-hatte-traenen-in-den-augen",
-      "published": "Mon, 28 Sep 2026 15:19:05 -0000",
-      "published_display": "28.09.2026 · 15:19 Uhr"
-    },
-    {
-      "title": "Türkei: Türkischer Präsident Erdoğan empfängt Hendrik Wüst in Ankara",
-      "summary": "Auf seiner Türkeireise trifft der Ministerpräsident von NRW überraschend den türkischen Präsidenten. Wüst will ein neues Kapitel in den deutsch-türkischen Beziehungen.",
-      "image": "https://img.zeit.de/politik/2026-09/recep-tayyip-erdogan-hendrik-wuest-treffen-tuerkei-nrw-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/2026-09/recep-tayyip-erdogan-hendrik-wuest-treffen-tuerkei-nrw-gxe",
-      "published": "Mon, 28 Sep 2026 15:17:04 -0000",
-      "published_display": "28.09.2026 · 15:17 Uhr"
-    },
-    {
-      "title": "Gewaltkriminalität: Mann wird vor Polizeiwache angeschossen - Angriff aus Rache?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/28/messerattacke-in-wedding-16-jaehriger-schwer-verletzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/28/messerattacke-in-wedding-16-jaehriger-schwer-verletzt",
-      "published": "Mon, 28 Sep 2026 15:15:47 -0000",
-      "published_display": "28.09.2026 · 15:15 Uhr"
-    },
-    {
-      "title": "Notfälle: Totes Baby in NRW gefunden – Polizei bittet um Hinweise",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/28/totes-baby-in-nrw-gefunden-polizei-bittet-um-hinweise-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/28/totes-baby-in-nrw-gefunden-polizei-bittet-um-hinweise",
-      "published": "Mon, 28 Sep 2026 15:15:26 -0000",
-      "published_display": "28.09.2026 · 15:15 Uhr"
-    },
-    {
-      "title": "Filmproduktion: Studio Babelsberg hat neue Studios für seine Filmproduktion",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/28/studio-babelsberg-hat-neue-studios-fuer-ihre-filmproduktion-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/28/studio-babelsberg-hat-neue-studios-fuer-ihre-filmproduktion",
-      "published": "Mon, 28 Sep 2026 15:14:56 -0000",
-      "published_display": "28.09.2026 · 15:14 Uhr"
     }
   ]
 }
