@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-28T00:27:19.158245+00:00",
+  "updated": "2026-09-28T00:50:34.987038+00:00",
   "items": [
+    {
+      "title": "Liverpool: Mehr als 50 Festnahmen bei Demonstration für Palestine Action",
+      "summary": "Aktivisten protestieren in England gegen das Verbot der propalästinensischen Gruppe. Amnesty International kritisiert die Festnahmen als Angriff auf die Meinungsfreiheit.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/palestine-action-verbot-proteste-liverpool-labour-amnesty-international-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/palestine-action-verbot-proteste-liverpool-labour-amnesty-international",
+      "published": "Mon, 28 Sep 2026 00:48:10 -0000",
+      "published_display": "28.09.2026 · 00:48 Uhr"
+    },
     {
       "title": "Proteste: Dutzende Festnahmen bei Demo für Palestine Action in England",
       "summary": "",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/27/schweinsteiger-kritisiert-dfb-elf-im-mittelmass-angekommen",
       "published": "Sun, 27 Sep 2026 21:22:03 -0000",
       "published_display": "27.09.2026 · 21:22 Uhr"
-    },
-    {
-      "title": "Frankreich: Rassemblement National gewinnt weitere Sitze im Senat",
-      "summary": "Auch nach den Teilwahlen dominieren die Konservativen in Frankreichs Senat. Die Partei von Marine Le Pen kann erstmals eine Fraktion bilden und erhält mehr Befugnisse.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/senatswahl-frankreich-rassemblement-national-udr-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/senatswahl-frankreich-rassemblement-national-udr",
-      "published": "Sun, 27 Sep 2026 21:08:33 -0000",
-      "published_display": "27.09.2026 · 21:08 Uhr"
     }
   ]
 }
