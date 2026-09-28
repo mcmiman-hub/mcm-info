@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-28T20:31:06.336758+00:00",
+  "updated": "2026-09-28T20:46:37.692039+00:00",
   "items": [
+    {
+      "title": "Krieg gegen die Ukraine: Selenskyj warnt vor russischer Mobilmachung",
+      "summary": "Mehr Personal und mehr Geld: Russland plant offenbar, deutlich mehr in die Armee zu investieren. Wolodymyr Selenskyj warnt vor einer neuen Mobilmachung. Das Liveblog",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/president-donald-trump-attends-united-nations-general-assembly-in-new-york-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "published": "Mon, 28 Sep 2026 20:33:39 -0000",
+      "published_display": "28.09.2026 · 20:33 Uhr"
+    },
+    {
+      "title": "Sachsen-Anhalt: Schulze bleibt dabei: AfD ist kein Partner für die CDU",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/28/schulze-bleibt-dabei-afd-ist-kein-partner-fuer-die-cdu-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/28/schulze-bleibt-dabei-afd-ist-kein-partner-fuer-die-cdu",
+      "published": "Mon, 28 Sep 2026 20:31:37 -0000",
+      "published_display": "28.09.2026 · 20:31 Uhr"
+    },
     {
       "title": "Künstliche Intelligenz: Papst fordert breiten Dialog über KI",
       "summary": "",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/28/rennsteiglauf-bekommt-den-thueringer-tourismuspreis",
       "published": "Mon, 28 Sep 2026 18:00:04 -0000",
       "published_display": "28.09.2026 · 18:00 Uhr"
-    },
-    {
-      "title": "Folgen der Trockenheit: Frachtschiff fährt sich im Düsseldorfer Hafen fest",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/28/frachtschiff-faehrt-sich-im-duesseldorfer-hafen-fest-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/28/frachtschiff-faehrt-sich-im-duesseldorfer-hafen-fest",
-      "published": "Mon, 28 Sep 2026 17:58:21 -0000",
-      "published_display": "28.09.2026 · 17:58 Uhr"
-    },
-    {
-      "title": "Unwetter: Sturm an US-Ostküste - Überschwemmungen und Stromausfälle",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/27/sturm-an-us-ostkueste-ueberschwemmungen-und-stromausfaelle-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/27/sturm-an-us-ostkueste-ueberschwemmungen-und-stromausfaelle",
-      "published": "Mon, 28 Sep 2026 17:50:49 -0000",
-      "published_display": "28.09.2026 · 17:50 Uhr"
     }
   ]
 }
