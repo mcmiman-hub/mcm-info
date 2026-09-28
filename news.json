@@ -1,7 +1,87 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-28T10:35:09.627138+00:00",
+  "updated": "2026-09-28T10:48:45.162105+00:00",
   "items": [
+    {
+      "title": "Fußball-Nationalmannschaft: Klopps Kater schon vorm Wiesn-Spiel - Weg «alternativlos»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/28/klopp-nach-dem-griechen-flop-sind-nicht-so-schlecht-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/28/klopp-nach-dem-griechen-flop-sind-nicht-so-schlecht",
+      "published": "Mon, 28 Sep 2026 10:46:03 -0000",
+      "published_display": "28.09.2026 · 10:46 Uhr"
+    },
+    {
+      "title": "Aktuelle Untersuchung: Studie: Integration funktioniert, doch Potenziale ungenutzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/28/studie-integration-funktioniert-doch-potenziale-ungenutzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/28/studie-integration-funktioniert-doch-potenziale-ungenutzt",
+      "published": "Mon, 28 Sep 2026 10:44:58 -0000",
+      "published_display": "28.09.2026 · 10:44 Uhr"
+    },
+    {
+      "title": "Natur: Hotline berät in Berlin erneut zu Baumfällungen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/28/hotline-beraet-in-berlin-erneut-zu-baumfaellungen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/28/hotline-beraet-in-berlin-erneut-zu-baumfaellungen",
+      "published": "Mon, 28 Sep 2026 10:44:21 -0000",
+      "published_display": "28.09.2026 · 10:44 Uhr"
+    },
+    {
+      "title": "Jens Spahn: Jens Spahn verzichtet nach Kritik auf Sitz im Haushaltsausschuss",
+      "summary": "Der frühere Unionsfraktionschef hatte eine Sitzung des Haushaltsausschusses verpasst. Dass er den Posten räumt, begründet er mit der »Politisierung« seiner Person.",
+      "image": "https://img.zeit.de/politik/2026-09/bezirksparteitag-der-cdu-muensterland-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/jens-spahn-verzichtet-nach-kritik-auf-sitz-im-haushaltsausschuss",
+      "published": "Mon, 28 Sep 2026 10:43:37 -0000",
+      "published_display": "28.09.2026 · 10:43 Uhr"
+    },
+    {
+      "title": "Bundestag: «Spiegel»: Spahn zieht sich aus Haushaltsausschuss zurück",
+      "summary": "",
+      "image": "https://img.zeit.de/administratives/sharing/fallback-image-die-zeit/wide__1300x731",
+      "link": "https://www.zeit.de/news/2026-09/28/spiegel-spahn-zieht-sich-aus-haushaltsausschuss-zurueck",
+      "published": "Mon, 28 Sep 2026 10:43:05 -0000",
+      "published_display": "28.09.2026 · 10:43 Uhr"
+    },
+    {
+      "title": "Frankreich-Besuch: Papst warnt vor Zukunftsangst",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/28/papst-warnt-vor-zukunftsangst-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/28/papst-warnt-vor-zukunftsangst",
+      "published": "Mon, 28 Sep 2026 10:42:40 -0000",
+      "published_display": "28.09.2026 · 10:42 Uhr"
+    },
+    {
+      "title": "Tesla in Grünheide: Tesla erhöht Gehälter in Grünheide um bis zu fünf Prozent",
+      "summary": "Das Entgelt der Mitarbeitenden im einzigen europäischen Tesla-Autowerk soll erneut steigen. Das Unternehmen ist aber weiter gegen die Einführung eines Tarifvertrags.",
+      "image": "https://img.zeit.de/mobilitaet/2026-09/tesla-gruenheide-gehalt-lohnerhoehung-tarifvertrag-ig-metall-foto-1/original__640x360",
+      "link": "https://www.zeit.de/mobilitaet/2026-09/tesla-gruenheide-gehalt-lohnerhoehung-tarifvertrag-ig-metall",
+      "published": "Mon, 28 Sep 2026 10:42:32 -0000",
+      "published_display": "28.09.2026 · 10:42 Uhr"
+    },
+    {
+      "title": "Fußball-Nationalmannschaft: Klopp erhört Kimmich nicht: Kapitän ohne Freizeit-Pläne",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/28/kimmich-hofft-vergeblich-auf-klopp-waere-gerne-geblieben-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/28/kimmich-hofft-vergeblich-auf-klopp-waere-gerne-geblieben",
+      "published": "Mon, 28 Sep 2026 10:40:34 -0000",
+      "published_display": "28.09.2026 · 10:40 Uhr"
+    },
+    {
+      "title": "Pflegeversicherung: Private Versicherer lehnen SPD-Vorschlag im Streit um Pflegereform ab",
+      "summary": "Die SPD fordert einen Finanzausgleich zwischen privaten und gesetzlichen Pflegekassen, um letztere zu stützen. Die privaten Pflegeversicherungen weisen das zurück.",
+      "image": "https://img.zeit.de/gesundheit/2026-09/pflegeversicherung-pkv-finanzausgleich-thomas-brahm-foto-1/original__640x360",
+      "link": "https://www.zeit.de/gesundheit/2026-09/pflegeversicherung-pkv-finanzausgleich-thomas-brahm",
+      "published": "Mon, 28 Sep 2026 10:36:20 -0000",
+      "published_display": "28.09.2026 · 10:36 Uhr"
+    },
+    {
+      "title": "Unfall auf dem Weg zur Wiesn: Zweites Todesopfer des schweren Busunfalls identifiziert",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/28/offene-fragen-nach-busunglueck-mit-zwei-toten-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/28/offene-fragen-nach-busunglueck-mit-zwei-toten",
+      "published": "Mon, 28 Sep 2026 10:35:06 -0000",
+      "published_display": "28.09.2026 · 10:35 Uhr"
+    },
     {
       "title": "BSW in Sachsen: Abgeordnete Voigt tritt aus BSW-Landtagsfraktion aus",
       "summary": "",
@@ -41,86 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/28/bundespraesident-steinmeier-grundgesetz-gilt-fuer-alle",
       "published": "Mon, 28 Sep 2026 10:22:44 -0000",
       "published_display": "28.09.2026 · 10:22 Uhr"
-    },
-    {
-      "title": "Wetter: Niedrigwasser schränkt Schifffahrt auf dem Rhein stark ein",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/28/rhein-erreicht-rekordtiefstand-in-koeln-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/28/rhein-erreicht-rekordtiefstand-in-koeln",
-      "published": "Mon, 28 Sep 2026 10:22:39 -0000",
-      "published_display": "28.09.2026 · 10:22 Uhr"
-    },
-    {
-      "title": "Gewalt gegen Frauen: Frauen ziehen sich wegen sexualisierter Gewalt aus dem Netz zurück",
-      "summary": "Zwei Drittel aller Frauen schränken ihre Nutzung von Onlinediensten laut einer Umfrage ein. Der Grund: Männer. Eine strengere Gesetzgebung lässt weiter auf sich warten.",
-      "image": "https://img.zeit.de/digital/2026-09/online-gewalt-frauen-umfrage-deutscher-frauenrat-internet-foto-1/original__640x360",
-      "link": "https://www.zeit.de/digital/2026-09/online-gewalt-frauen-umfrage-deutscher-frauenrat-internet",
-      "published": "Mon, 28 Sep 2026 10:21:21 -0000",
-      "published_display": "28.09.2026 · 10:21 Uhr"
-    },
-    {
-      "title": "Nationalmannschaft: Möller sieht Ebnoutalib-Nominierung kritisch",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/28/moeller-sieht-ebnoutalib-nominierung-kritisch-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/28/moeller-sieht-ebnoutalib-nominierung-kritisch",
-      "published": "Mon, 28 Sep 2026 10:18:29 -0000",
-      "published_display": "28.09.2026 · 10:18 Uhr"
-    },
-    {
-      "title": "Sommerspiele in München?: Nach Olympia-Votum: Kritiker und Umweltschützer warnen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/28/nach-olympia-votum-kritiker-und-umweltschuetzer-warnen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/28/nach-olympia-votum-kritiker-und-umweltschuetzer-warnen",
-      "published": "Mon, 28 Sep 2026 10:15:42 -0000",
-      "published_display": "28.09.2026 · 10:15 Uhr"
-    },
-    {
-      "title": "Schweden: Wahlsiegerin Andersson bricht Regierungsbildung ab",
-      "summary": "Die Sozialdemokratin Magdalena Andersson sieht sich aktuell außerstande, eine Regierung zu bilden. Die Linkspartei habe ihre Bemühungen mit einer Ankündigung untergraben.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/schweden-magdalena-andersson-regierungsbildung-parlamentswahl-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/schweden-magdalena-andersson-regierungsbildung-parlamentswahl",
-      "published": "Mon, 28 Sep 2026 10:14:41 -0000",
-      "published_display": "28.09.2026 · 10:14 Uhr"
-    },
-    {
-      "title": "Kreis Soest: Zeugen von mutmaßlichem Angriff auf AfD-Politiker gesucht",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/28/zeugen-von-mutmasslichem-angriff-auf-afd-politiker-gesucht-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/28/zeugen-von-mutmasslichem-angriff-auf-afd-politiker-gesucht",
-      "published": "Mon, 28 Sep 2026 10:14:19 -0000",
-      "published_display": "28.09.2026 · 10:14 Uhr"
-    },
-    {
-      "title": "Krankheiten: Tollwut bei Fledermaus in Altenburg entdeckt - Einzelfall",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/28/tollwut-bei-fledermaus-in-altenburg-entdeckt-einzelfall-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/28/tollwut-bei-fledermaus-in-altenburg-entdeckt-einzelfall",
-      "published": "Mon, 28 Sep 2026 10:14:06 -0000",
-      "published_display": "28.09.2026 · 10:14 Uhr"
-    },
-    {
-      "title": "Comeback des Werder-Stürmers?: Sag niemals nie: Füllkrug und das Thema Nationalmannschaft",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/28/sag-niemals-nie-fuellkrug-und-das-thema-nationalmannschaft-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/28/sag-niemals-nie-fuellkrug-und-das-thema-nationalmannschaft",
-      "published": "Mon, 28 Sep 2026 10:12:07 -0000",
-      "published_display": "28.09.2026 · 10:12 Uhr"
-    },
-    {
-      "title": "Schottenhamel-Festzelt: So relaxt einer der Wiesn-Wirte auf dem Oktoberfest",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/28/so-relaxt-einer-der-wiesn-wirte-auf-dem-oktoberfest-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/28/so-relaxt-einer-der-wiesn-wirte-auf-dem-oktoberfest",
-      "published": "Mon, 28 Sep 2026 10:11:36 -0000",
-      "published_display": "28.09.2026 · 10:11 Uhr"
-    },
-    {
-      "title": "Sicherheitslücke: Potsdam sperrt Online-Dienste wegen IT-Sicherheitsproblems",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/28/potsdam-sperrt-online-dienste-wegen-it-sicherheitsproblems-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/28/potsdam-sperrt-online-dienste-wegen-it-sicherheitsproblems",
-      "published": "Mon, 28 Sep 2026 10:07:34 -0000",
-      "published_display": "28.09.2026 · 10:07 Uhr"
     }
   ]
 }
