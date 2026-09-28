@@ -1,7 +1,79 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-28T13:20:44.002797+00:00",
+  "updated": "2026-09-28T13:36:21.174179+00:00",
   "items": [
+    {
+      "title": "Kollision: Motorradfahrer bei Unfall mit Linienbus verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/28/motorradfahrer-bei-unfall-mit-linienbus-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/28/motorradfahrer-bei-unfall-mit-linienbus-verletzt",
+      "published": "Mon, 28 Sep 2026 13:30:49 -0000",
+      "published_display": "28.09.2026 · 13:30 Uhr"
+    },
+    {
+      "title": "Wirtschaftsstandort: Rheinland-Pfalz wirbt mehr ausländische Fachkräfte an",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/28/rheinland-pfalz-wirbt-mehr-auslaendische-fachkraefte-an-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/28/rheinland-pfalz-wirbt-mehr-auslaendische-fachkraefte-an",
+      "published": "Mon, 28 Sep 2026 13:30:05 -0000",
+      "published_display": "28.09.2026 · 13:30 Uhr"
+    },
+    {
+      "title": "Schacholympiade: Der Schach-Hammer von Samarkand",
+      "summary": "Die deutsche Mannschaft holt überraschend Bronze bei der Schacholympiade in Usbekistan. Woher kommt dieser plötzliche Erfolg?",
+      "image": "https://img.zeit.de/sport/2026-09/schach-olympiade/original__640x360",
+      "link": "https://www.zeit.de/sport/2026-09/schach-olympiade-deutschland-bronze",
+      "published": "Mon, 28 Sep 2026 13:29:50 -0000",
+      "published_display": "28.09.2026 · 13:29 Uhr"
+    },
+    {
+      "title": "Arbeitsbedingungen: Zollkontrollen: Friseure zahlen häufig keinen Mindestlohn",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/28/zollkontrollen-friseure-zahlen-haeufig-keinen-mindestlohn-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/28/zollkontrollen-friseure-zahlen-haeufig-keinen-mindestlohn",
+      "published": "Mon, 28 Sep 2026 13:29:31 -0000",
+      "published_display": "28.09.2026 · 13:29 Uhr"
+    },
+    {
+      "title": "Statistik: Kaffee gehört in Sachsen-Anhalt oft dazu",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/28/kaffee-gehoert-in-sachsen-anhalt-oft-dazu-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/28/kaffee-gehoert-in-sachsen-anhalt-oft-dazu",
+      "published": "Mon, 28 Sep 2026 13:27:08 -0000",
+      "published_display": "28.09.2026 · 13:27 Uhr"
+    },
+    {
+      "title": "SpaceX: Unendlicher Reichtum statt unendliche Weiten",
+      "summary": "Elon Musks Starship erreicht erstmals die Erdumlaufbahn, ein Techniktraum wird wahr. Einst ging es dabei um eine Reise zum Mars. Doch heute sind die Motive völlig andere.",
+      "image": "https://img.zeit.de/wissenschaft/umwelt/2026-09/spacex-elon-musk-starship-rakete-technik-bild/original__640x360",
+      "link": "https://www.zeit.de/wissenschaft/2026-09/spacex-elon-musk-starship-rakete-technik",
+      "published": "Mon, 28 Sep 2026 13:26:42 -0000",
+      "published_display": "28.09.2026 · 13:26 Uhr"
+    },
+    {
+      "title": "Kriminalität: Ein Toter und zwei Verletzte nach Schüssen in Teestube",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/28/ein-toter-und-zwei-verletzte-nach-schuessen-in-teestube-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/28/ein-toter-und-zwei-verletzte-nach-schuessen-in-teestube",
+      "published": "Mon, 28 Sep 2026 13:24:51 -0000",
+      "published_display": "28.09.2026 · 13:24 Uhr"
+    },
+    {
+      "title": "Große Pläne nach Erkrankung: Siegel will mit «Dschingis Khan»-Neuauflage noch mal zum ESC",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/28/siegel-will-mit-dschingis-khan-neuauflage-noch-mal-zum-esc-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/28/siegel-will-mit-dschingis-khan-neuauflage-noch-mal-zum-esc",
+      "published": "Mon, 28 Sep 2026 13:24:40 -0000",
+      "published_display": "28.09.2026 · 13:24 Uhr"
+    },
+    {
+      "title": "Krieg gegen die Ukraine: Akademie der Wissenschaften in Kyjiw nach Angriff in Flammen",
+      "summary": "Nach einem Angriff brennt die Akademie der Wissenschaften in Kyjiw. Die USA haben der Ukraine laut Selenskyj die Lizenz zur Patriot-Herstellung erteilt. Das Liveblog",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/kraine-krieg-akademie-der-wissenschaften-news-liveblog-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "published": "Mon, 28 Sep 2026 13:22:23 -0000",
+      "published_display": "28.09.2026 · 13:22 Uhr"
+    },
     {
       "title": "Unfall: Müllfahrzeug überrollt Mann – lebensgefährlich verletzt",
       "summary": "",
@@ -49,78 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/28/nach-schliessung-2025-rogacki-als-pop-up-zurueck-in-berlin",
       "published": "Mon, 28 Sep 2026 13:12:08 -0000",
       "published_display": "28.09.2026 · 13:12 Uhr"
-    },
-    {
-      "title": "Sicherheitslücke: Potsdams Online-Dienste nach Sperrung wieder verfügbar",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/28/potsdam-sperrt-online-dienste-wegen-it-sicherheitsproblems-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/28/potsdam-sperrt-online-dienste-wegen-it-sicherheitsproblems",
-      "published": "Mon, 28 Sep 2026 13:11:46 -0000",
-      "published_display": "28.09.2026 · 13:11 Uhr"
-    },
-    {
-      "title": "»Täuschung« von Adania Shibli: Hier gibt es keinen inneren Frieden",
-      "summary": "Mit ihrem Roman »Eine Nebensache« sorgte die palästinensische Autorin Adania Shibli für Kontroversen. Wie gut ist ihr neues Buch »Täuschung«?",
-      "image": "https://img.zeit.de/feuilleton/2026-09/euschung-adania-shibli-roman-israel-palaestina-hebraeisch-arabisch-bild/original__640x360",
-      "link": "https://www.zeit.de/2026/41/taeuschung-adania-shibli-roman-israel-palaestina-hebraeisch-arabisch",
-      "published": "Mon, 28 Sep 2026 13:09:51 -0000",
-      "published_display": "28.09.2026 · 13:09 Uhr"
-    },
-    {
-      "title": "Bundestag: Erstmal kein Comeback: Spahn gibt Haushaltsausschuss auf",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/28/spahn-zieht-sich-aus-haushaltsausschuss-zurueck-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/28/spahn-zieht-sich-aus-haushaltsausschuss-zurueck",
-      "published": "Mon, 28 Sep 2026 13:09:49 -0000",
-      "published_display": "28.09.2026 · 13:09 Uhr"
-    },
-    {
-      "title": "Jahrestag des Anwerbeabkommens: Wüst würdigt Beitrag türkischer Migranten in Deutschland",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/28/wuest-wuerdigt-beitrag-tuerkischer-migranten-in-deutschland-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/28/wuest-wuerdigt-beitrag-tuerkischer-migranten-in-deutschland",
-      "published": "Mon, 28 Sep 2026 13:07:49 -0000",
-      "published_display": "28.09.2026 · 13:07 Uhr"
-    },
-    {
-      "title": "2. Fußball-Bundesliga: KSC testet französischen Stürmer Crivelli",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/28/ksc-testet-franzoesischen-stuermer-crivelli-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/28/ksc-testet-franzoesischen-stuermer-crivelli",
-      "published": "Mon, 28 Sep 2026 13:07:27 -0000",
-      "published_display": "28.09.2026 · 13:07 Uhr"
-    },
-    {
-      "title": "Narrengericht: Söder spricht von «Justizskandal» - löst aber Schulden ein",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/28/soeder-spricht-von-justizskandal-loest-aber-schulden-ein-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/28/soeder-spricht-von-justizskandal-loest-aber-schulden-ein",
-      "published": "Mon, 28 Sep 2026 13:06:05 -0000",
-      "published_display": "28.09.2026 · 13:06 Uhr"
-    },
-    {
-      "title": "KI-Agent aus Europa: Schau mal, meine KI ...",
-      "summary": "In Wien haben vier Gründer einen Chatbot gebaut, der so gut sein soll wie ChatGPT oder Claude. Das Besondere: Er kommt nicht aus den USA – sondern aus Europa.",
-      "image": "https://img.zeit.de/digital/2026-09/ki-agent-europa-eustella-datenschutz-open-source-bild/original__640x360",
-      "link": "https://www.zeit.de/zeit-fuer-unternehmer/2026/03/ki-agent-europa-eustella-datenschutz-open-source",
-      "published": "Mon, 28 Sep 2026 13:04:38 -0000",
-      "published_display": "28.09.2026 · 13:04 Uhr"
-    },
-    {
-      "title": "Fotografie: Bilder des Tages",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/28/bilder-des-tages-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/28/bilder-des-tages",
-      "published": "Mon, 28 Sep 2026 13:03:26 -0000",
-      "published_display": "28.09.2026 · 13:03 Uhr"
-    },
-    {
-      "title": "Szene in ZDF-Dokumentation: Strandkorb-Verkäufer: Amthor wollte «ein Stück Heimat»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/28/strandkorb-verkaeufer-amthor-wollte-ein-stueck-heimat-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/28/strandkorb-verkaeufer-amthor-wollte-ein-stueck-heimat",
-      "published": "Mon, 28 Sep 2026 13:02:55 -0000",
-      "published_display": "28.09.2026 · 13:02 Uhr"
     }
   ]
 }
