@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-28T19:57:06.016648+00:00",
+  "updated": "2026-09-28T20:17:57.691187+00:00",
   "items": [
+    {
+      "title": "Künstliche Intelligenz: Papst fordert breiten Dialog über KI",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/28/papst-fordert-breiten-dialog-ueber-ki-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/28/papst-fordert-breiten-dialog-ueber-ki",
+      "published": "Mon, 28 Sep 2026 20:14:42 -0000",
+      "published_display": "28.09.2026 · 20:14 Uhr"
+    },
+    {
+      "title": "Rauchgasvergiftungen: 20 Verletzte bei Brand in Produktionsstätte in Wittenberg",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/28/20-verletzte-bei-brand-in-produktionsstaette-in-wittenberg-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/28/20-verletzte-bei-brand-in-produktionsstaette-in-wittenberg",
+      "published": "Mon, 28 Sep 2026 20:14:28 -0000",
+      "published_display": "28.09.2026 · 20:14 Uhr"
+    },
+    {
+      "title": "ZEIT Verbrechen: »House of Block«: Trailer: House of Block",
+      "summary": "In diesem Podcast rekonstruieren wir, wie aus einem Sorgerechtsstreit ein internationaler Kriminalfall wurde. Die ersten drei Folgen erscheinen am 29. September 2026.",
+      "image": "https://img.zeit.de/podcasts/logos/house-of-block-logo/original__f66c4d__640x360",
+      "link": "https://www.zeit.de/gesellschaft/2026-09/fall-block-entfuehrung-sorgerechtsstreit-house-of-block-podcast-trailer",
+      "published": "Mon, 28 Sep 2026 19:59:43 -0000",
+      "published_display": "28.09.2026 · 19:59 Uhr"
+    },
     {
       "title": "Handball-Bundesliga: ThSV Eisenach bricht in der Schlussphase ein",
       "summary": "",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/27/sturm-an-us-ostkueste-ueberschwemmungen-und-stromausfaelle",
       "published": "Mon, 28 Sep 2026 17:50:49 -0000",
       "published_display": "28.09.2026 · 17:50 Uhr"
-    },
-    {
-      "title": "Hendrik Wüst: Was heißt Kanzlertausch auf Türkisch?",
-      "summary": "Hendrik Wüst lässt in der Kanzlerdebatte keine Zweifel an seinen Ambitionen aufkommen – und spricht sogar mit dem türkischen Staatschef über die CDU.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/hendrik-wuest-cdu-tuerkei-reise-recep-tayyip-erdogan-bild-2/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/hendrik-wuest-cdu-tuerkei-reise-recep-tayyip-erdogan",
-      "published": "Mon, 28 Sep 2026 17:47:18 -0000",
-      "published_display": "28.09.2026 · 17:47 Uhr"
-    },
-    {
-      "title": "Hitze und Dürre in Europa: EU geht von Milliardenschaden für Landwirte durch Hitzesommer aus",
-      "summary": "Hitze und Dürre haben zu schwachen Ernten in der EU geführt. EU-Agrarkommissar Christophe Hansen bezeichnet Landwirte als »die ersten Opfer des Klimawandels«.",
-      "image": "https://img.zeit.de/wirtschaft/2026-09/hitze-duerre-europa-landwirtschaft-klimawandel-eu-agrarpolitik-foto-1/original__640x360",
-      "link": "https://www.zeit.de/wirtschaft/2026-09/hitze-duerre-europa-landwirtschaft-klimawandel-eu-agrarpolitik",
-      "published": "Mon, 28 Sep 2026 17:46:55 -0000",
-      "published_display": "28.09.2026 · 17:46 Uhr"
-    },
-    {
-      "title": "Produktion in drei Ländern: VW vereinbart Milliardenpakt mit Batteriepartner aus China",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/28/vw-vereinbart-milliardenpakt-mit-batteriepartner-aus-china-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/28/vw-vereinbart-milliardenpakt-mit-batteriepartner-aus-china",
-      "published": "Mon, 28 Sep 2026 17:45:59 -0000",
-      "published_display": "28.09.2026 · 17:45 Uhr"
     }
   ]
 }
