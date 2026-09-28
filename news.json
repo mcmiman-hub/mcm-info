@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-28T18:39:09.788797+00:00",
+  "updated": "2026-09-28T18:59:50.823160+00:00",
   "items": [
+    {
+      "title": "Rentendebatte: Klingbeil: Selbstständige und Beamte in gesetzliche Rente",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/28/klingbeil-selbststaendige-und-beamte-in-gesetzliche-rente-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/28/klingbeil-selbststaendige-und-beamte-in-gesetzliche-rente",
+      "published": "Mon, 28 Sep 2026 18:56:30 -0000",
+      "published_display": "28.09.2026 · 18:56 Uhr"
+    },
+    {
+      "title": "Papst Leo in Metz: Dieser Papst liebt das anständige Europa",
+      "summary": "Papst Leo hält in Metz eine denkwürdige Rede. Wer Europa abschotten oder auf seine christlichen Wurzeln reduzieren will, wird sich auf ihn nicht berufen können.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/papst-leo-metz-frankreich-europa-rede-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/papst-leo-metz-frankreich-europa-rede",
+      "published": "Mon, 28 Sep 2026 18:50:12 -0000",
+      "published_display": "28.09.2026 · 18:50 Uhr"
+    },
+    {
+      "title": "Westjordanland: UN-Gesandter prangert beispiellose Siedlergewalt im Westjordanland an",
+      "summary": "Zwischen Juni und September hat es nach UN-Angaben mehr als 600 Siedlerangriffe auf Palästinenser gegeben. Viele Übergriffe fänden im Beisein israelischer Soldaten statt.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/israelische-siedler-westjordanland-ramiz-alakbarov-un-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/israelische-siedler-westjordanland-ramiz-alakbarov-un",
+      "published": "Mon, 28 Sep 2026 18:48:14 -0000",
+      "published_display": "28.09.2026 · 18:48 Uhr"
+    },
     {
       "title": "In der Lausitz: 365 Meter: Höchstes Windrad der Welt erreicht seine Höhe",
       "summary": "",
@@ -27,8 +51,8 @@
       "published_display": "28.09.2026 · 18:06 Uhr"
     },
     {
-      "title": "Den Haag: Johann Wadephul betont Handlungsfähigkeit der Bundesregierung",
-      "summary": "Der Außenminister räumt in Den Haag schwierige Reformdebatten ein. Nach außen sei man aber »voll handlungsfähig«. Mit Russland will Wadephul vorerst nicht mehr sprechen.",
+      "title": "Den Haag: Johann Wadephul will vorerst nicht mehr mit Russland sprechen",
+      "summary": "Auf einer Auslandsreise äußert sich der Außenminister zum Zustand der Regierung und seinem Gespräch mit Sergej Lawrow. Russischen Friedenswillen sieht er nicht.",
       "image": "https://img.zeit.de/politik/deutschland/2026-09/johann-wadephul-russland-gespraeche-friedrich-merz-wladimir-putin-sergej-lawrow-foto-1/original__640x360",
       "link": "https://www.zeit.de/politik/deutschland/2026-09/johann-wadephul-russland-gespraeche-friedrich-merz-wladimir-putin-sergej-lawrow",
       "published": "Mon, 28 Sep 2026 18:03:33 -0000",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/politik/deutschland/2026-09/philipp-amthor-strandkorb-kanzleramt-mecklenburg-vorpommern",
       "published": "Mon, 28 Sep 2026 17:39:03 -0000",
       "published_display": "28.09.2026 · 17:39 Uhr"
-    },
-    {
-      "title": "Pflegereform: So wird die Pflegereform noch zu Tode gepflegt",
-      "summary": "Die Pflege ist so unterfinanziert, dass Minister Linnenmann nun schnell Steuerzuschüsse auf den Weg bringen muss. Und erst dann sollte eine neue Expertenkommission ran.",
-      "image": "https://img.zeit.de/politik/2026-09/pflegereform-private-gesetzliche-pflegeversicherung-finanzierung-bild/original__640x360",
-      "link": "https://www.zeit.de/wirtschaft/2026-09/pflegereform-private-gesetzliche-pflegeversicherung-finanzierung",
-      "published": "Mon, 28 Sep 2026 17:34:08 -0000",
-      "published_display": "28.09.2026 · 17:34 Uhr"
-    },
-    {
-      "title": "Protest vor Wahlen: Tausende demonstrieren in Prag gegen Regierung",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/28/tausende-demonstrieren-in-prag-gegen-regierung-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/28/tausende-demonstrieren-in-prag-gegen-regierung",
-      "published": "Mon, 28 Sep 2026 17:29:32 -0000",
-      "published_display": "28.09.2026 · 17:29 Uhr"
-    },
-    {
-      "title": "Auf dem Oktoberfest: Söder und Krause lösen Olympia-Wette in Wiesn-Achterbahn ein",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/28/olympia-achterbahnfahrt-von-soeder-und-krause-termin-steht-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/28/olympia-achterbahnfahrt-von-soeder-und-krause-termin-steht",
-      "published": "Mon, 28 Sep 2026 17:24:52 -0000",
-      "published_display": "28.09.2026 · 17:24 Uhr"
     }
   ]
 }
