@@ -1,7 +1,71 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-28T06:52:23.130357+00:00",
+  "updated": "2026-09-28T07:20:34.365893+00:00",
   "items": [
+    {
+      "title": "Technische Störung: IT-Störung trifft Kommunalverwaltungen in Rheinland-Pfalz",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/28/it-stoerung-trifft-kommunalverwaltungen-in-rheinland-pfalz-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/28/it-stoerung-trifft-kommunalverwaltungen-in-rheinland-pfalz",
+      "published": "Mon, 28 Sep 2026 07:11:52 -0000",
+      "published_display": "28.09.2026 · 07:11 Uhr"
+    },
+    {
+      "title": "Trockenheit: Rhein erreicht Rekordtiefstand in Köln",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/28/rhein-erreicht-rekordtiefstand-in-koeln-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/28/rhein-erreicht-rekordtiefstand-in-koeln",
+      "published": "Mon, 28 Sep 2026 07:09:42 -0000",
+      "published_display": "28.09.2026 · 07:09 Uhr"
+    },
+    {
+      "title": "Mit Bäumen kollidiert: 19-Jähriger stirbt bei Autounfall",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/28/19-jaehriger-stirbt-bei-autounfall-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/28/19-jaehriger-stirbt-bei-autounfall",
+      "published": "Mon, 28 Sep 2026 07:06:35 -0000",
+      "published_display": "28.09.2026 · 07:06 Uhr"
+    },
+    {
+      "title": "Ermittlungen: Nach Wahlabend in Raunheim: Papier geschreddert aufgefunden",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/28/nach-wahlabend-in-raunheim-papier-geschreddert-aufgefunden-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/28/nach-wahlabend-in-raunheim-papier-geschreddert-aufgefunden",
+      "published": "Mon, 28 Sep 2026 07:05:54 -0000",
+      "published_display": "28.09.2026 · 07:05 Uhr"
+    },
+    {
+      "title": "Klima-Transformation: Das steckt hinter dem Umbau der Stahlindustrie",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/28/das-steckt-hinter-dem-umbau-der-stahlindustrie-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/28/das-steckt-hinter-dem-umbau-der-stahlindustrie",
+      "published": "Mon, 28 Sep 2026 07:05:02 -0000",
+      "published_display": "28.09.2026 · 07:05 Uhr"
+    },
+    {
+      "title": "Zahlen für 2025: Einwanderer in vielen Berufen unverzichtbar",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/28/einwanderer-in-vielen-berufen-unverzichtbar-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/28/einwanderer-in-vielen-berufen-unverzichtbar",
+      "published": "Mon, 28 Sep 2026 07:04:10 -0000",
+      "published_display": "28.09.2026 · 07:04 Uhr"
+    },
+    {
+      "title": "Koalition: SPD pocht auf «Signal der Gerechtigkeit» bei Pflegereform",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/28/spd-pocht-auf-signal-der-gerechtigkeit-bei-pflegereform-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/28/spd-pocht-auf-signal-der-gerechtigkeit-bei-pflegereform",
+      "published": "Mon, 28 Sep 2026 07:04:06 -0000",
+      "published_display": "28.09.2026 · 07:04 Uhr"
+    },
+    {
+      "title": "Historie der Auskunftei: Gutachten: Kein Missbrauch von Schufa-Daten in der NS-Zeit",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/28/gutachten-kein-missbrauch-von-schufa-daten-in-der-ns-zeit-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/28/gutachten-kein-missbrauch-von-schufa-daten-in-der-ns-zeit",
+      "published": "Mon, 28 Sep 2026 07:00:04 -0000",
+      "published_display": "28.09.2026 · 07:00 Uhr"
+    },
     {
       "title": "67 Jahre: Mit 67",
       "summary": "In unserer Kolumne nehmen wir uns jede Woche ein Lebensjahr vor. In diesem begann ein Mann in Oberbayern eine Ausbildung zum Metzger.",
@@ -20,7 +84,7 @@
     },
     {
       "title": "Fachkräftemangel: Einwanderer sind in Engpassberufen besonders stark vertreten",
-      "summary": "Wo Fachkräftemangel herrscht, arbeiten in Deutschland viele Beschäftigte mit Einwanderungsgeschichte. Besonders hoch sind die Werte in Gastronomie und im Nahverkehr.",
+      "summary": "Wo Fachkräftemangel herrscht, arbeiten in Deutschland viele Beschäftigte mit Einwanderungsgeschichte. Besonders hoch sind die Werte in der Gastronomie und dem Nahverkehr.",
       "image": "https://img.zeit.de/arbeit/2026-09/einwanderungsgeschichte-engpassberufe-beschaeftigte-arbeitsmarkt-deutschland-foto-1/original__640x360",
       "link": "https://www.zeit.de/arbeit/2026-09/einwanderungsgeschichte-engpassberufe-beschaeftigte-arbeitsmarkt-deutschland",
       "published": "Mon, 28 Sep 2026 06:44:43 -0000",
@@ -57,70 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/28/falscher-polizist-erbeutet-40-000-euro-von-seniorin",
       "published": "Mon, 28 Sep 2026 06:25:52 -0000",
       "published_display": "28.09.2026 · 06:25 Uhr"
-    },
-    {
-      "title": "Ifo Umfrage: Deutscher Arbeitsmarkt stabilisiert sich leicht",
-      "summary": "Positive Zeichen am Arbeitsmarkt: In einigen Wirtschaftsbereichen sollen weniger Stellen abgebaut werden. Auf Handel und Industrie trifft das laut ifo Institut nicht zu.",
-      "image": "https://img.zeit.de/arbeit/2026-09/ifo-beschaeftigungsbarometer-arbeitsmarkt-konjunktur-deutschland-foto-1/original__640x360",
-      "link": "https://www.zeit.de/arbeit/2026-09/ifo-beschaeftigungsbarometer-arbeitsmarkt-konjunktur-deutschland",
-      "published": "Mon, 28 Sep 2026 06:25:47 -0000",
-      "published_display": "28.09.2026 · 06:25 Uhr"
-    },
-    {
-      "title": "Zwei Generationen, eine Musik: Harmonie und Tiefgang auf Maffay-Oerding-Album «Nashville»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/28/harmonie-und-tiefgang-auf-maffay-oerding-album-nashville-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/28/harmonie-und-tiefgang-auf-maffay-oerding-album-nashville",
-      "published": "Mon, 28 Sep 2026 06:25:29 -0000",
-      "published_display": "28.09.2026 · 06:25 Uhr"
-    },
-    {
-      "title": "Fahrzeughalle ausgebrannt: Brand bei Feuerwehr verursacht Millionenschaden",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/28/brand-bei-feuerwehr-verursacht-millionenschaden-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/28/brand-bei-feuerwehr-verursacht-millionenschaden",
-      "published": "Mon, 28 Sep 2026 06:19:27 -0000",
-      "published_display": "28.09.2026 · 06:19 Uhr"
-    },
-    {
-      "title": "Wetteraussichten: Spätsommer in Hessen – Wetterumschwung ab Donnerstag",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/28/spaetsommer-in-hessen-wetterumschwung-ab-donnerstag-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/28/spaetsommer-in-hessen-wetterumschwung-ab-donnerstag",
-      "published": "Mon, 28 Sep 2026 06:19:24 -0000",
-      "published_display": "28.09.2026 · 06:19 Uhr"
-    },
-    {
-      "title": "Wetter: Wolkig, warm und vereinzelt Regen – Wochenstart im Norden",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/28/wolkig-warm-und-vereinzelt-regen-wochenstart-im-norden-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/28/wolkig-warm-und-vereinzelt-regen-wochenstart-im-norden",
-      "published": "Mon, 28 Sep 2026 06:13:49 -0000",
-      "published_display": "28.09.2026 · 06:13 Uhr"
-    },
-    {
-      "title": "Technische Störung: IT-Störung trifft Kommunalverwaltungen in Rheinland-Pfalz",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/28/it-stoerung-trifft-kommunalverwaltungen-in-rheinland-pfalz-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/28/it-stoerung-trifft-kommunalverwaltungen-in-rheinland-pfalz",
-      "published": "Mon, 28 Sep 2026 06:12:05 -0000",
-      "published_display": "28.09.2026 · 06:12 Uhr"
-    },
-    {
-      "title": "Wetteraussichten: Spätsommerwärme hält an – ab Donnerstag Umschwung",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/28/spaetsommerwaerme-haelt-an-ab-donnerstag-umschwung-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/28/spaetsommerwaerme-haelt-an-ab-donnerstag-umschwung",
-      "published": "Mon, 28 Sep 2026 06:10:28 -0000",
-      "published_display": "28.09.2026 · 06:10 Uhr"
-    },
-    {
-      "title": "Wetter: Wolken bei sommerlichen Temperaturen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/28/wolken-bei-sommerlichen-temperaturen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/28/wolken-bei-sommerlichen-temperaturen",
-      "published": "Mon, 28 Sep 2026 06:08:35 -0000",
-      "published_display": "28.09.2026 · 06:08 Uhr"
     }
   ]
 }
