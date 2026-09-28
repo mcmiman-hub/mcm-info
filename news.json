@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-28T04:49:48.892679+00:00",
+  "updated": "2026-09-28T04:59:32.591954+00:00",
   "items": [
+    {
+      "title": "Solarstrom: Solarstromproduktion übertrifft bereits jetzt Vorjahreswert",
+      "summary": "2026 wurde bereits mehr Solarstrom erzeugt als im gesamten vergangenen Jahr. Grund dafür sind unter anderem ungewöhnlich viele Sonnenstunden.",
+      "image": "https://img.zeit.de/wirtschaft/2026-09/solarstrom-deutschland-rekord-bsw-solarenergie-foto-1/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/2026-09/solarstrom-deutschland-rekord-bsw-solarenergie",
+      "published": "Mon, 28 Sep 2026 04:58:15 -0000",
+      "published_display": "28.09.2026 · 04:58 Uhr"
+    },
+    {
+      "title": "Zwei Bewohner verletzt: «Das war schon extrem» – Großbrand von Bauernhaus in Gutach",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/28/grossbrand-in-gutach-bahnstrecke-teils-gesperrt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/28/grossbrand-in-gutach-bahnstrecke-teils-gesperrt",
+      "published": "Mon, 28 Sep 2026 04:54:32 -0000",
+      "published_display": "28.09.2026 · 04:54 Uhr"
+    },
     {
       "title": "Bahnverkehr: Signalreparatur in Königs Wusterhausen bremst S-Bahn aus",
       "summary": "",
@@ -35,7 +51,7 @@
       "published_display": "28.09.2026 · 04:33 Uhr"
     },
     {
-      "title": "Caracas : Venezolanische Oppositionelle Macero in ihre Heimat zurückgekehrt",
+      "title": "Caracas: Venezolanische Oppositionelle Macero in ihre Heimat zurückgekehrt",
       "summary": "Claudia Macero gilt als die wichtigste Stellvertreterin von Oppositionsführerin María Corina Machado. Nach zwei Jahren im Exil konnte sie nach Venezuela zurückkehren.",
       "image": "https://img.zeit.de/politik/ausland/2026-09/claudia-macero-venezuela-marina-corina-machado-exil-opposition-bild/original__640x360",
       "link": "https://www.zeit.de/politik/ausland/2026-09/claudia-macero-venezuela-marina-corina-machado-exil-opposition",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/28/mann-in-berlin-moabit-aus-fahrzeug-angeschossen",
       "published": "Mon, 28 Sep 2026 04:02:57 -0000",
       "published_display": "28.09.2026 · 04:02 Uhr"
-    },
-    {
-      "title": "Fußball-Nationalmannschaft: Platz eins weit weg: Das droht Klopp in der Nations League",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/28/platz-eins-weit-weg-das-droht-klopp-in-der-nations-league-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/28/platz-eins-weit-weg-das-droht-klopp-in-der-nations-league",
-      "published": "Mon, 28 Sep 2026 04:02:04 -0000",
-      "published_display": "28.09.2026 · 04:02 Uhr"
-    },
-    {
-      "title": "Elbvertiefung: Der tägliche Newsletter aus Hamburg: Proteste gegen Einsparungen an der HafenCity Universität",
-      "summary": "Die Elbvertiefung am Montag – Mit »Red Storm Charlie«, freier Fahrt auf der A7 (aber nur südlich des Elbtunnels) und sehr viel Sparpolitik",
-      "image": "https://img.zeit.de/2026-09/foto-28-09-2026-6/original__640x360",
-      "link": "https://www.zeit.de/hamburg/2026-09/elbvertiefung-28-09-2026",
-      "published": "Mon, 28 Sep 2026 04:00:26 -0000",
-      "published_display": "28.09.2026 · 04:00 Uhr"
     }
   ]
 }
