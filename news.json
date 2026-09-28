@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-28T20:58:44.051469+00:00",
+  "updated": "2026-09-28T21:18:30.193369+00:00",
   "items": [
+    {
+      "title": "Hendrik Wüst: Was heißt Kanzlertausch auf Türkisch?",
+      "summary": "Hendrik Wüst lässt in der Kanzlerdebatte keine Zweifel an seinen Ambitionen aufkommen – und spricht sogar mit dem türkischen Staatschef über die Lage der CDU.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/hendrik-wuest-cdu-tuerkei-reise-recep-tayyip-erdogan-bild-2/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/hendrik-wuest-cdu-tuerkei-reise-recep-tayyip-erdogan",
+      "published": "Mon, 28 Sep 2026 21:11:26 -0000",
+      "published_display": "28.09.2026 · 21:11 Uhr"
+    },
+    {
+      "title": "Höhenwindturm: Weltweit größtes Windrad erreicht finale Höhe",
+      "summary": "Der Höhenwindturm in der Lausitz ist nun 365 Meter hoch. In Deutschland ist nur der Berliner Fernsehturm höher. Die Einweihung des Windrads ist für November geplant.",
+      "image": "https://img.zeit.de/wirtschaft/2026-09/gicon-hoehenwindturm-vor-dem-weltrekord-bild/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/2026-09/hoehenwindturm-windrad-lausitz-schipkau-hoehe",
+      "published": "Mon, 28 Sep 2026 21:07:02 -0000",
+      "published_display": "28.09.2026 · 21:07 Uhr"
+    },
     {
       "title": "Reality-TV: «Villa der Versuchung»: Sieg für Reality-Neuling Frenzy",
       "summary": "",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/politik/ausland/2026-09/serbien-aleksandar-vucic-ruecktritt-parlamentswahl",
       "published": "Mon, 28 Sep 2026 18:08:19 -0000",
       "published_display": "28.09.2026 · 18:08 Uhr"
-    },
-    {
-      "title": "Jens Spahn: Isch over, endgültig, oder?",
-      "summary": "Kaum zurück, stolpert Jens Spahn erneut über sein Privatleben. Offenbar hat er seinen Bedeutungsverlust unterschätzt. Doch noch immer gilt: Das muss nicht das Ende sein.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/jens-spahn-haushaltsausschuss-ruecktritt-bundestag-kritik-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/jens-spahn-haushaltsausschuss-ruecktritt-bundestag-kritik",
-      "published": "Mon, 28 Sep 2026 18:06:48 -0000",
-      "published_display": "28.09.2026 · 18:06 Uhr"
-    },
-    {
-      "title": "Den Haag: Johann Wadephul will vorerst nicht mehr mit Russland sprechen",
-      "summary": "Auf einer Auslandsreise äußert sich der Außenminister zum Zustand der Regierung und seinem Gespräch mit Sergej Lawrow. Russischen Friedenswillen sieht er nicht.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/johann-wadephul-russland-gespraeche-friedrich-merz-wladimir-putin-sergej-lawrow-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/johann-wadephul-russland-gespraeche-friedrich-merz-wladimir-putin-sergej-lawrow",
-      "published": "Mon, 28 Sep 2026 18:03:33 -0000",
-      "published_display": "28.09.2026 · 18:03 Uhr"
     }
   ]
 }
