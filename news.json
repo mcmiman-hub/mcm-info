@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-28T19:31:26.114721+00:00",
+  "updated": "2026-09-28T19:45:52.112283+00:00",
   "items": [
+    {
+      "title": "Handball-Bundesliga: ThSV Eisenach bricht in der Schlussphase ein",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/28/thsv-eisenach-bricht-in-der-schlussphase-ein-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/28/thsv-eisenach-bricht-in-der-schlussphase-ein",
+      "published": "Mon, 28 Sep 2026 19:39:01 -0000",
+      "published_display": "28.09.2026 · 19:39 Uhr"
+    },
     {
       "title": "Landkreis Altenkirchen: Auto überschlägt sich nach Unfall – Fahrerin schwer verletzt",
       "summary": "",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/28/vw-vereinbart-milliardenpakt-mit-batteriepartner-aus-china",
       "published": "Mon, 28 Sep 2026 17:45:59 -0000",
       "published_display": "28.09.2026 · 17:45 Uhr"
-    },
-    {
-      "title": "Festakt im Saarland: Über der Saar kommen Kohl und Mitterrand wieder zusammen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/28/kohl-und-mitterrand-vereint-ueber-der-saar-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/28/kohl-und-mitterrand-vereint-ueber-der-saar",
-      "published": "Mon, 28 Sep 2026 17:40:40 -0000",
-      "published_display": "28.09.2026 · 17:40 Uhr"
     }
   ]
 }
