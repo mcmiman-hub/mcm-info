@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-29T01:02:33.709621+00:00",
+  "updated": "2026-09-29T01:18:17.462615+00:00",
   "items": [
+    {
+      "title": "Künstliche Intelligenz: Nvidia-Rivale AMD kauft Start-up von KI-Vorreiterin",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/nvidia-rivale-amd-kauft-start-up-von-ki-vorreiterin-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/nvidia-rivale-amd-kauft-start-up-von-ki-vorreiterin",
+      "published": "Tue, 29 Sep 2026 01:15:32 -0000",
+      "published_display": "29.09.2026 · 01:15 Uhr"
+    },
+    {
+      "title": "Künstliche Intelligenz: OpenAI sagt Veröffentlichung von KI-Modell aus Sicherheitsgründen ab",
+      "summary": "Forschende sollen nach internen Tests Sicherheitsbedenken wegen des geplanten KI-Modells GPT-6.1 Astra geäußert haben. Es kommt nun vorerst doch nicht auf den Markt.",
+      "image": "https://img.zeit.de/digital/internet/2026-09/openai-gpt-6-1-astra-ki-modell-sicherheit-foto-1/original__640x360",
+      "link": "https://www.zeit.de/digital/internet/2026-09/openai-gpt-astra-ki-modell-sicherheit-tests",
+      "published": "Tue, 29 Sep 2026 01:12:56 -0000",
+      "published_display": "29.09.2026 · 01:12 Uhr"
+    },
+    {
+      "title": "Korea-Konflikt: Umfrage: Weniger Südkoreaner für Vereinigung mit Nordkorea",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/umfrage-weniger-suedkoreaner-fuer-vereinigung-mit-nordkorea-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/umfrage-weniger-suedkoreaner-fuer-vereinigung-mit-nordkorea",
+      "published": "Tue, 29 Sep 2026 01:08:08 -0000",
+      "published_display": "29.09.2026 · 01:08 Uhr"
+    },
     {
       "title": "Bundestag: Julia Klöckner droht Fraktionen von AfD und Linken mit Rauswurf",
       "summary": "Die Bundestagspräsidentin beschwert sich über das Verhalten von Abgeordneten der AfD und Linken. Die CDU-Politikerin kündigt ein striktes Vorgehen gegen Störer an.",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/29/us-waffenverkauf-an-china-trump-dementiert-angebot-an-xi",
       "published": "Mon, 28 Sep 2026 22:46:06 -0000",
       "published_display": "28.09.2026 · 22:46 Uhr"
-    },
-    {
-      "title": "Krieg gegen die Ukraine: Selenskyj warnt vor russischer Mobilmachung",
-      "summary": "Mehr Personal und mehr Geld: Russland plant offenbar, deutlich mehr in die Armee zu investieren. Wolodymyr Selenskyj warnt vor einer neuen Mobilmachung. Das Liveblog",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/president-donald-trump-attends-united-nations-general-assembly-in-new-york-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "published": "Mon, 28 Sep 2026 22:45:26 -0000",
-      "published_display": "28.09.2026 · 22:45 Uhr"
-    },
-    {
-      "title": "Ukraine-Krieg: Papst fordert Gespräche über Kriegsende in Ukraine",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/papst-fordert-gespraeche-ueber-kriegsende-in-ukraine-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/papst-fordert-gespraeche-ueber-kriegsende-in-ukraine",
-      "published": "Mon, 28 Sep 2026 22:39:04 -0000",
-      "published_display": "28.09.2026 · 22:39 Uhr"
-    },
-    {
-      "title": "Raumfahrt: Riesen-Rakete Starship schafft es erstmals in Erdumlaufbahn",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/riesen-rakete-starship-schafft-es-erstmals-in-erdumlaufbahn-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/riesen-rakete-starship-schafft-es-erstmals-in-erdumlaufbahn",
-      "published": "Mon, 28 Sep 2026 22:30:04 -0000",
-      "published_display": "28.09.2026 · 22:30 Uhr"
     }
   ]
 }
