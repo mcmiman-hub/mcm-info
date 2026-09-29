@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-29T04:19:17.939662+00:00",
+  "updated": "2026-09-29T04:33:56.404946+00:00",
   "items": [
+    {
+      "title": "Wetter: Mildes Herbstwetter im Norden erwartet",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/mildes-herbstwetter-im-norden-erwartet-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/mildes-herbstwetter-im-norden-erwartet",
+      "published": "Tue, 29 Sep 2026 04:25:10 -0000",
+      "published_display": "29.09.2026 · 04:25 Uhr"
+    },
     {
       "title": "Kinderkrankentage: SPD kritisiert Linnemanns Vorstoß zur Kürzung von Kinderkrankentagen",
       "summary": "Wer kranke Kinder versorge, brauche Unterstützung, keine Kürzungen. Die Pläne des Gesundheitsministers hält die SPD für eine Belastung für Familien.",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/29/explosion-bei-unfall-mit-gasflaschen-mann-schwer-verletzt",
       "published": "Tue, 29 Sep 2026 03:51:29 -0000",
       "published_display": "29.09.2026 · 03:51 Uhr"
-    },
-    {
-      "title": "Wohnungsnot in Madrid: Nach Zwangsräumung: Seniorin darf in Wohnung zurück",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/nach-zwangsraeumung-seniorin-darf-in-wohnung-zurueck-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/nach-zwangsraeumung-seniorin-darf-in-wohnung-zurueck",
-      "published": "Tue, 29 Sep 2026 03:22:06 -0000",
-      "published_display": "29.09.2026 · 03:22 Uhr"
     }
   ]
 }
