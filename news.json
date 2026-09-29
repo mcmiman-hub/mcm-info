@@ -1,7 +1,79 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-29T08:22:09.672493+00:00",
+  "updated": "2026-09-29T08:37:08.769816+00:00",
   "items": [
+    {
+      "title": "Krankheiten: Erkältung, Grippe und Co: Wie sieht es in Thüringen aus?",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/erkaeltung-grippe-und-co-wie-sieht-es-in-thueringen-aus-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/erkaeltung-grippe-und-co-wie-sieht-es-in-thueringen-aus",
+      "published": "Tue, 29 Sep 2026 08:34:46 -0000",
+      "published_display": "29.09.2026 · 08:34 Uhr"
+    },
+    {
+      "title": "Benjamin Netanjahu: Netanjahu-Büro bestätigt Besuch in den Vereinigten Arabischen Emiraten",
+      "summary": "Medienberichten zufolge soll Benjamin Netanjahu vor dem Angriff am 7. Oktober vom Präsidenten der VAE gewarnt worden sein. Diesen hat Netanjahu jetzt besucht.",
+      "image": "https://img.zeit.de/administratives/sharing/fallback-image-die-zeit/wide__1300x731",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/benjamin-netanjahu-vereinigte-arabische-emirate-mohammed-bin-sajid",
+      "published": "Tue, 29 Sep 2026 08:32:45 -0000",
+      "published_display": "29.09.2026 · 08:32 Uhr"
+    },
+    {
+      "title": "Otto Muehl: Was zählt am Ende mehr? Sein Werk oder seine Verbrechen?",
+      "summary": "Wien streitet über den Maler und verurteilten Sexualstraftäter Otto Muehl. Höchste Zeit, auch den Wiener Aktionismus insgesamt kritisch zu durchleuchten.",
+      "image": "https://img.zeit.de/2026/41/otto-muehl-ausstellung-wien-kunst-antisemitismus-bild/original__640x360",
+      "link": "https://www.zeit.de/2026/41/otto-muehl-ausstellung-wien-kunst-antisemitismus",
+      "published": "Tue, 29 Sep 2026 08:30:25 -0000",
+      "published_display": "29.09.2026 · 08:30 Uhr"
+    },
+    {
+      "title": "»Inside CDU«: Nein, sie merken es nicht",
+      "summary": "In einer ZDF-Doku sieht man der CDU beim Scheitern zu. Sieht Philipp Amthor im Strandkorb und eine Sportministerin bei einer lauen Fan-Diskussion. Warum macht das wütend?",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/insights-cdu-serie-zdf-friedrich-merz-philipp-amthor-casten-linnemann-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/inside-cdu-serie-zdf-friedrich-merz-philipp-amthor-carsten-linnemann",
+      "published": "Tue, 29 Sep 2026 08:28:13 -0000",
+      "published_display": "29.09.2026 · 08:28 Uhr"
+    },
+    {
+      "title": "EU-Finanzrahmen: Nettozahler-Länder lehnen Erhöhung des EU-Etats ab",
+      "summary": "Deutschland, Österreich, ⁠Schweden, Finnland, die Niederlande und ​Dänemark wollen keinen höheren EU‑Haushalt. Man habe mit den eigenen Etats Probleme.",
+      "image": "https://img.zeit.de/politik/2026-09/mehrjaehriger-eu-finanzrahmen-2028-friedrich-merz-oesterreich-schulden-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/2026-09/mehrjaehriger-eu-finanzrahmen-2028-friedrich-merz-oesterreich-schulden",
+      "published": "Tue, 29 Sep 2026 08:27:31 -0000",
+      "published_display": "29.09.2026 · 08:27 Uhr"
+    },
+    {
+      "title": "Holocaust-Gedenken: Yad-Vashem-Außenstelle in Leipzig soll 2027 in Betrieb gehen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/yad-vashem-aussenstelle-in-leipzig-soll-2027-in-betrieb-gehen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/yad-vashem-aussenstelle-in-leipzig-soll-2027-in-betrieb-gehen",
+      "published": "Tue, 29 Sep 2026 08:27:22 -0000",
+      "published_display": "29.09.2026 · 08:27 Uhr"
+    },
+    {
+      "title": "1.200 Anwohner betroffen: Volle Keller und kein Strom nach Rohrbruch in Spandau",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/volle-keller-und-kein-strom-nach-rohrbruch-in-spandau-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/volle-keller-und-kein-strom-nach-rohrbruch-in-spandau",
+      "published": "Tue, 29 Sep 2026 08:23:32 -0000",
+      "published_display": "29.09.2026 · 08:23 Uhr"
+    },
+    {
+      "title": "Ringbahnbrücke: Wegen Bauarbeiten: Neue Verkehrsführung am Dreieck Funkturm",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/wegen-bauarbeiten-neue-verkehrsfuehrung-am-dreieck-funkturm-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/wegen-bauarbeiten-neue-verkehrsfuehrung-am-dreieck-funkturm",
+      "published": "Tue, 29 Sep 2026 08:20:49 -0000",
+      "published_display": "29.09.2026 · 08:20 Uhr"
+    },
+    {
+      "title": "RBB-Skandal: Strafprozess gegen Ex-RBB-Intendantin Schlesinger",
+      "summary": "",
+      "image": "https://img.zeit.de/administratives/sharing/fallback-image-die-zeit/wide__1300x731",
+      "link": "https://www.zeit.de/news/2026-09/29/strafprozess-gegen-ex-rbb-intendantin-schlesinger",
+      "published": "Tue, 29 Sep 2026 08:20:00 -0000",
+      "published_display": "29.09.2026 · 08:20 Uhr"
+    },
     {
       "title": "Radsport: Start der Tour de France in Berlin? Linke will Kosten prüfen",
       "summary": "",
@@ -49,78 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/29/holiday-on-ice-michael-schulte-singt-bei-eisshow",
       "published": "Tue, 29 Sep 2026 08:03:13 -0000",
       "published_display": "29.09.2026 · 08:03 Uhr"
-    },
-    {
-      "title": "Folgen des Iran-Kriegs: Lufthansa-Chef erwartet noch höhere Kerosin-Kosten",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/lufthansa-chef-erwartet-noch-hoehere-kerosin-kosten-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/lufthansa-chef-erwartet-noch-hoehere-kerosin-kosten",
-      "published": "Tue, 29 Sep 2026 08:00:05 -0000",
-      "published_display": "29.09.2026 · 08:00 Uhr"
-    },
-    {
-      "title": "Landminen im Grenzgebiet: Südkorea wirft Nordkorea Verletzung des Waffenstillstands vor",
-      "summary": "Bei einer Explosion in der Grenzregion zum Norden sind Offiziere Südkoreas verletzt worden. Die südkoreanische Regierung macht Nordkorea für den Vorfall verantwortlich.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/landmine-nordkorea-suedkorea-grenze-waffenstillstandsabkommen-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/landmine-nordkorea-suedkorea-grenze-waffenstillstandsabkommen",
-      "published": "Tue, 29 Sep 2026 07:56:42 -0000",
-      "published_display": "29.09.2026 · 07:56 Uhr"
-    },
-    {
-      "title": "Deutschland: Deutsche Staatsschulden erneut gestiegen",
-      "summary": "Bund, Länder und Gemeinden nehmen immer mehr Schulden auf. Am meisten schuldet der Bund, der durch zwei Sondervermögen viel Geld geliehen hat.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/staatsschulden-deutschland-bund-laender-sondervermoegen-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/staatsschulden-deutschland-bund-laender-sondervermoegen",
-      "published": "Tue, 29 Sep 2026 07:47:29 -0000",
-      "published_display": "29.09.2026 · 07:47 Uhr"
-    },
-    {
-      "title": "Vermögensungleichheit: 95 Prozent des vererbten Vermögens entfällt auf Westdeutschland",
-      "summary": "Knapp jeder fünfte Deutsche lebt in den östlichen Bundesländern und Berlin. Doch bei Erbschaften und Schenkungen liegt der Anteil des Ostens bei nur fünf Prozent.",
-      "image": "https://img.zeit.de/wirtschaft/2026-09/erbschaften-schenkungen-westdeutschland-ostdeutschland-statistik-foto-1/original__640x360",
-      "link": "https://www.zeit.de/wirtschaft/2026-09/erbschaften-schenkungen-westdeutschland-ostdeutschland-statistik",
-      "published": "Tue, 29 Sep 2026 07:45:40 -0000",
-      "published_display": "29.09.2026 · 07:45 Uhr"
-    },
-    {
-      "title": "Flughafen München: Bericht zum Beinahe-Flugunfall: Bremsen beim Start betätigt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/bericht-zum-beinahe-flugunfall-bremsen-beim-start-betaetigt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/bericht-zum-beinahe-flugunfall-bremsen-beim-start-betaetigt",
-      "published": "Tue, 29 Sep 2026 07:44:54 -0000",
-      "published_display": "29.09.2026 · 07:44 Uhr"
-    },
-    {
-      "title": "Tod bei Klassenfahrt: Nach Tod eines Elfjährigen: Ermittlungen gegen Lehrkräfte",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/nach-tod-eines-elfjaehrigen-ermittlungen-gegen-lehrkraefte-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/nach-tod-eines-elfjaehrigen-ermittlungen-gegen-lehrkraefte",
-      "published": "Tue, 29 Sep 2026 07:43:56 -0000",
-      "published_display": "29.09.2026 · 07:43 Uhr"
-    },
-    {
-      "title": "Bahnstrecke: Waldbrandgefahr: Brockenbahn stellt um auf Diesel-Loks",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/waldbrandgefahr-brockenbahn-stellt-um-auf-diesel-loks-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/waldbrandgefahr-brockenbahn-stellt-um-auf-diesel-loks",
-      "published": "Tue, 29 Sep 2026 07:36:29 -0000",
-      "published_display": "29.09.2026 · 07:36 Uhr"
-    },
-    {
-      "title": "RTL-Fernsehshow: «Ninja Warrior Germany»: Neue Kräfte, alter Köppen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/ninja-warrior-germany-neue-kraefte-alter-koeppen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/ninja-warrior-germany-neue-kraefte-alter-koeppen",
-      "published": "Tue, 29 Sep 2026 07:30:48 -0000",
-      "published_display": "29.09.2026 · 07:30 Uhr"
-    },
-    {
-      "title": "Literaturnobelpreis: CDU-Kulturexperte schlägt Wolf Biermann für Nobelpreis vor",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/cdu-kulturexperte-schlaegt-wolf-biermann-fuer-nobelpreis-vor-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/cdu-kulturexperte-schlaegt-wolf-biermann-fuer-nobelpreis-vor",
-      "published": "Tue, 29 Sep 2026 07:30:28 -0000",
-      "published_display": "29.09.2026 · 07:30 Uhr"
     }
   ]
 }
