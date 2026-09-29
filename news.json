@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-29T04:47:29.583349+00:00",
+  "updated": "2026-09-29T04:58:06.121935+00:00",
   "items": [
+    {
+      "title": "Wettervorhersage: Noch einmal Sommerwärme in NRW – dann wird es regnerisch",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/noch-einmal-sommerwaerme-in-nrw-dann-wird-es-regnerisch-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/noch-einmal-sommerwaerme-in-nrw-dann-wird-es-regnerisch",
+      "published": "Tue, 29 Sep 2026 04:53:51 -0000",
+      "published_display": "29.09.2026 · 04:53 Uhr"
+    },
+    {
+      "title": "Sport und Brauchtum: Oktoberfest und Olympia - der Traum von König Ludwig I. lebt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/oktoberfest-und-olympia-der-traum-von-koenig-ludwig-i-lebt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/oktoberfest-und-olympia-der-traum-von-koenig-ludwig-i-lebt",
+      "published": "Tue, 29 Sep 2026 04:53:34 -0000",
+      "published_display": "29.09.2026 · 04:53 Uhr"
+    },
+    {
+      "title": "Wetter: Bis zu 28 Grad: Wo der Sommer im Herbst zurückkehrt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/bis-zu-28-grad-wo-der-sommer-im-herbst-zurueckkehrt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/bis-zu-28-grad-wo-der-sommer-im-herbst-zurueckkehrt",
+      "published": "Tue, 29 Sep 2026 04:51:08 -0000",
+      "published_display": "29.09.2026 · 04:51 Uhr"
+    },
     {
       "title": "Wettervorhersage: Bis zu 29 Grad: Spätsommerliche Tage in Hessen erwartet",
       "summary": "",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/politik/2026-09/spanien-proteste-mieterschutz-madrid-raeumung-nachrichtenpodcast",
       "published": "Tue, 29 Sep 2026 04:00:07 -0000",
       "published_display": "29.09.2026 · 04:00 Uhr"
-    },
-    {
-      "title": "RTL-Fernsehshow: «Ninja Warrior Germany»: Neue Kräfte, alter Köppen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/ninja-warrior-germany-neue-kraefte-alter-koeppen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/ninja-warrior-germany-neue-kraefte-alter-koeppen",
-      "published": "Tue, 29 Sep 2026 04:00:07 -0000",
-      "published_display": "29.09.2026 · 04:00 Uhr"
-    },
-    {
-      "title": "Hilfe gesucht: Kleiderkammern in MV suchen dringend Unterstützung",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/kleiderkammern-in-mv-suchen-dringend-unterstuetzung-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/kleiderkammern-in-mv-suchen-dringend-unterstuetzung",
-      "published": "Tue, 29 Sep 2026 04:00:05 -0000",
-      "published_display": "29.09.2026 · 04:00 Uhr"
-    },
-    {
-      "title": "Konflikte: Fast 50 Tote bei Luftangriff auf Markt in Myanmar",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/fast-50-tote-bei-luftangriff-auf-markt-in-myanmar-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/fast-50-tote-bei-luftangriff-auf-markt-in-myanmar",
-      "published": "Tue, 29 Sep 2026 03:55:24 -0000",
-      "published_display": "29.09.2026 · 03:55 Uhr"
     }
   ]
 }
