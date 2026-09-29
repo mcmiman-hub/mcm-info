@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-29T22:44:37.532692+00:00",
+  "updated": "2026-09-29T22:55:41.238281+00:00",
   "items": [
+    {
+      "title": "Die Linke: Jan van Aken kritisiert Debatte um Antisemitismus in der Linkspartei",
+      "summary": "Antisemiten müssten die Partei verlassen, sagt der frühere Parteivorsitzende. Er wirft CDU und Immobilienlobby vor, die Debatte zu instrumentalisieren.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/jan-van-aken-die-linke-antisemitismus-vorwuerfe-cdu-berlin-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/jan-van-aken-die-linke-antisemitismus-vorwuerfe-cdu-berlin",
+      "published": "Tue, 29 Sep 2026 22:52:21 -0000",
+      "published_display": "29.09.2026 · 22:52 Uhr"
+    },
+    {
+      "title": "Elterngeld: Bundesfamilienministerium erwägt Kehrtwende bei Elterngeldreform",
+      "summary": "Die Bezugsdauer soll laut der Familienministerin womöglich doch nicht von 14 auf zwölf Monate gekürzt werden. Karin Prien kritisiert Vorgaben aus dem Finanzministerium.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/elterngeld-kuerzung-karin-prien-familienleistungen-haushalt-cdu-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/elterngeld-kuerzung-karin-prien-familienministerium-haushalt-cdu-spd",
+      "published": "Tue, 29 Sep 2026 22:49:20 -0000",
+      "published_display": "29.09.2026 · 22:49 Uhr"
+    },
     {
       "title": "Sicherheit im Luftverkehr: Neues System zur Drohnenerkennung am Berliner Flughafen BER",
       "summary": "",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/29/tuchel-siegt-souveraen-mit-england-yamal-erzielt-doppelpack",
       "published": "Tue, 29 Sep 2026 20:43:03 -0000",
       "published_display": "29.09.2026 · 20:43 Uhr"
-    },
-    {
-      "title": "Wohnungsnot: Spaniens Regierung beschließt nach Protesten verbesserten Mieterschutz",
-      "summary": "Nach Protesten gegen Wohnungsnot hat die spanische Regierung ein Maßnahmenpaket beschlossen. Es soll schutzbedürftige Mieter gegenüber Investoren und Touristen stärken.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/proteste-madrid-maricarmen-abascal-mieten-wohnungsgesetz-spanien-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/proteste-madrid-maricarmen-abascal-mieten-wohnungsgesetz-spanien",
-      "published": "Tue, 29 Sep 2026 19:48:46 -0000",
-      "published_display": "29.09.2026 · 19:48 Uhr"
-    },
-    {
-      "title": "Milliardeninvestition: Geplanter Baustart für Dummerstorfer Rechenzentrum Ende 2027",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/geplanter-baustart-fuer-dummerstorfer-rechenzentrum-ende-2027-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/geplanter-baustart-fuer-dummerstorfer-rechenzentrum-ende-2027",
-      "published": "Tue, 29 Sep 2026 19:48:27 -0000",
-      "published_display": "29.09.2026 · 19:48 Uhr"
     }
   ]
 }
