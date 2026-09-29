@@ -1,7 +1,39 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-29T19:18:50.162172+00:00",
+  "updated": "2026-09-29T19:33:57.959148+00:00",
   "items": [
+    {
+      "title": "Unfall in der Stadt: Frau unter Straßenbahn eingeklemmt und schwer verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/frau-unter-strassenbahn-eingeklemmt-und-schwer-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/frau-unter-strassenbahn-eingeklemmt-und-schwer-verletzt",
+      "published": "Tue, 29 Sep 2026 19:28:49 -0000",
+      "published_display": "29.09.2026 · 19:28 Uhr"
+    },
+    {
+      "title": "Eurocup: Seawolves-Premiere endet mit klarer Niederlage",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/seawolves-premiere-endet-mit-klarer-niederlage-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/seawolves-premiere-endet-mit-klarer-niederlage",
+      "published": "Tue, 29 Sep 2026 19:27:13 -0000",
+      "published_display": "29.09.2026 · 19:27 Uhr"
+    },
+    {
+      "title": "Basketball-Eurocup: Niners Chemnitz verlieren Auftaktspiel in Bursa",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/niners-chemnitz-verlieren-auftaktspiel-in-bursa-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/niners-chemnitz-verlieren-auftaktspiel-in-bursa",
+      "published": "Tue, 29 Sep 2026 19:22:52 -0000",
+      "published_display": "29.09.2026 · 19:22 Uhr"
+    },
+    {
+      "title": "CDU-Landesparteitag: Hoppermann will «Land nicht den Extremen überlassen»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/thering-cdu-muss-fuehrungsrolle-selbstbewusst-wahrnehmen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/thering-cdu-muss-fuehrungsrolle-selbstbewusst-wahrnehmen",
+      "published": "Tue, 29 Sep 2026 19:22:24 -0000",
+      "published_display": "29.09.2026 · 19:22 Uhr"
+    },
     {
       "title": "Künstliche Intelligenz: OpenAI streicht neues Modell - und setzt auf KI-Agenten",
       "summary": "",
@@ -89,38 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/29/fuechse-berlin-verpassen-bei-club-wm-auch-spiel-um-platz-drei",
       "published": "Tue, 29 Sep 2026 18:50:05 -0000",
       "published_display": "29.09.2026 · 18:50 Uhr"
-    },
-    {
-      "title": "Ebola-Ausbruch im Ostkongo: Der Fluss und der Tod",
-      "summary": "Uganda versucht, sich vor dem Ebola-Ausbruch im Nachbarland Kongo zu schützen. Noch hält die geschlossene Grenze das Virus fern. Aber das Leid trifft die Menschen doch.",
-      "image": "https://img.zeit.de/2026/41/der-fluss-und-der-tod-bild-1/original__640x360",
-      "link": "https://www.zeit.de/2026/41/ebola-ausbruch-ostkongo-uganda-grenzschliessung",
-      "published": "Tue, 29 Sep 2026 18:49:53 -0000",
-      "published_display": "29.09.2026 · 18:49 Uhr"
-    },
-    {
-      "title": "Absolute Beginners: Sie ist 44 und hatte noch nie Sex",
-      "summary": "Geknutscht hat Lisa schon öfter, zu mehr kam es nie. Sie wünscht sich eine Beziehung – und versteckt sich zugleich davor. Nun gibt sie der Liebe eine letzte Chance.",
-      "image": "https://img.zeit.de/zeit-magazin/2026-08/beziehung-single-langzeit-bild/original__640x360",
-      "link": "https://www.zeit.de/zeit-magazin/leben/2026-09/absolute-beginners-jungfrau-erwachsene-sex-beziehungen",
-      "published": "Tue, 29 Sep 2026 18:37:51 -0000",
-      "published_display": "29.09.2026 · 18:37 Uhr"
-    },
-    {
-      "title": "Wohnungsnot: Spanische Regierung beschließt nach Protesten mehr Schutz für Mieter",
-      "summary": "Nach Protesten gegen Wohnungsnot hat die spanische Regierung ein Maßnahmenpaket beschlossen. Es soll schutzbedürftige Mieter gegenüber Investoren und Touristen stärken.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/proteste-madrid-maricarmen-abascal-mieten-wohnungsgesetz-spanien-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/proteste-madrid-maricarmen-abascal-mieten-wohnungsgesetz-spanien",
-      "published": "Tue, 29 Sep 2026 18:36:06 -0000",
-      "published_display": "29.09.2026 · 18:36 Uhr"
-    },
-    {
-      "title": "Erste Lesung: Landtag debattiert Finanzierung der Frauenhäuser",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/landtag-debattiert-finanzierung-der-frauenhaeuser-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/landtag-debattiert-finanzierung-der-frauenhaeuser",
-      "published": "Tue, 29 Sep 2026 18:35:13 -0000",
-      "published_display": "29.09.2026 · 18:35 Uhr"
     }
   ]
 }
