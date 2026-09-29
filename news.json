@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-29T23:28:39.151039+00:00",
+  "updated": "2026-09-29T23:43:26.443801+00:00",
   "items": [
+    {
+      "title": "Unfall: Mann in Hamburg überrollt und tödlich verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/30/mann-in-hamburg-ueberrollt-und-toedlich-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/30/mann-in-hamburg-ueberrollt-und-toedlich-verletzt",
+      "published": "Tue, 29 Sep 2026 23:39:46 -0000",
+      "published_display": "29.09.2026 · 23:39 Uhr"
+    },
+    {
+      "title": "Künstliche Intelligenz: Trump: KI-Firmen sollen sich selbst beaufsichtigen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/30/trump-ki-firmen-sollen-sich-selbst-beaufsichtigen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/30/trump-ki-firmen-sollen-sich-selbst-beaufsichtigen",
+      "published": "Tue, 29 Sep 2026 23:37:08 -0000",
+      "published_display": "29.09.2026 · 23:37 Uhr"
+    },
     {
       "title": "Bubsheim: Jugendlicher stürzt mit Motorrad und stirbt",
       "summary": "",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/politik/ausland/2026-09/ki-vereinbarung-usa-donald-trump-konzerne-technologie",
       "published": "Tue, 29 Sep 2026 21:26:38 -0000",
       "published_display": "29.09.2026 · 21:26 Uhr"
-    },
-    {
-      "title": "Frankreich: Hunderte Festnahmen bei Schülerprotesten in Frankreich",
-      "summary": "Bei Schülerprotesten wurden zahlreiche Minderjährige festgenommen, es gibt auch Verletzte. Der Bildungsminister spricht von »unsäglicher« Gewalt.",
-      "image": "https://img.zeit.de/politik/2026-09/france-politics-social-labour-unions-strike-demo-bild-2/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/schuelerproteste-frankreich-festnahmen-gewalt-verletzte-edouard-geffray",
-      "published": "Tue, 29 Sep 2026 21:18:05 -0000",
-      "published_display": "29.09.2026 · 21:18 Uhr"
-    },
-    {
-      "title": "Fraktionsvorsitzende der Linken: Heidi Reichinnek positioniert sich zu Antisemitismus und zur AfD",
-      "summary": "Für die Co-Vorsitzende der Linkenfraktion gibt es »kein freies Israel ohne ein freies Palästina«. Den Sieg der AfD in Sachsen-Anhalt bezeichnet sie als Armutszeugnis.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/heidi-reichinnek-die-linke-fraktionsvorsitzende-bundestag-bild-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/heidi-reichinnek-die-linke-fraktionsvorsitzende-bundestag",
-      "published": "Tue, 29 Sep 2026 20:55:18 -0000",
-      "published_display": "29.09.2026 · 20:55 Uhr"
     }
   ]
 }
