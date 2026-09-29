@@ -1,7 +1,87 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-29T06:23:52.784144+00:00",
+  "updated": "2026-09-29T06:51:32.922165+00:00",
   "items": [
+    {
+      "title": "Verkehr: Lkw-Brand auf A14: Vollsperrung Richtung Süden",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/lkw-brand-auf-a14-vollsperrung-richtung-sueden-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/lkw-brand-auf-a14-vollsperrung-richtung-sueden",
+      "published": "Tue, 29 Sep 2026 06:49:22 -0000",
+      "published_display": "29.09.2026 · 06:49 Uhr"
+    },
+    {
+      "title": "Schwerpunktprüfung des Zolls: Zoll: 60 Verdachtsfälle von Schwarzarbeit im Friseurgewerbe",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/zoll-60-verdachtsfaelle-von-schwarzarbeit-im-friseurgewerbe-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/zoll-60-verdachtsfaelle-von-schwarzarbeit-im-friseurgewerbe",
+      "published": "Tue, 29 Sep 2026 06:41:33 -0000",
+      "published_display": "29.09.2026 · 06:41 Uhr"
+    },
+    {
+      "title": "Kommunen: Hessens jüngster Oberbürgermeister startet in Hanau",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/hessens-juengster-oberbuergermeister-startet-in-hanau-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/hessens-juengster-oberbuergermeister-startet-in-hanau",
+      "published": "Tue, 29 Sep 2026 06:37:07 -0000",
+      "published_display": "29.09.2026 · 06:37 Uhr"
+    },
+    {
+      "title": "Polizei ermittelt: Zoll stoppt Berufsschüler mit Schreckschusspistole im Zug",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/zoll-stoppt-berufsschueler-mit-schreckschusspistole-im-zug-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/zoll-stoppt-berufsschueler-mit-schreckschusspistole-im-zug",
+      "published": "Tue, 29 Sep 2026 06:36:20 -0000",
+      "published_display": "29.09.2026 · 06:36 Uhr"
+    },
+    {
+      "title": "Letzter öffentlicher Badetag: Lilienthal: Habe nur positive Resonanz zum Volksbad bekommen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/lilienthal-habe-nur-positive-resonanz-zum-volksbad-bekommen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/lilienthal-habe-nur-positive-resonanz-zum-volksbad-bekommen",
+      "published": "Tue, 29 Sep 2026 06:29:27 -0000",
+      "published_display": "29.09.2026 · 06:29 Uhr"
+    },
+    {
+      "title": "Hornbach: Heißer Sommer führt zu Umsatzsteigerung bei Hornbach",
+      "summary": "Das erste Halbjahr endete für den Baumarkt-Konzern Hornbach mit einem Plus. Der heiße Sommer führte zu hoher Nachfrage nach Klimaanlagen und Bewässerungsanlagen.",
+      "image": "https://img.zeit.de/wirtschaft/2026-09/hornbach-umsatz-gewinne-expansion-hellweg-foto-1/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/2026-09/hornbach-umsatz-gewinne-expansion-hellweg",
+      "published": "Tue, 29 Sep 2026 06:29:08 -0000",
+      "published_display": "29.09.2026 · 06:29 Uhr"
+    },
+    {
+      "title": "Joana Mallwitz: »Banane ist nicht zu schlagen. Der perfekteste Snack, den es gibt«",
+      "summary": "Die Dirigentin Joana Mallwitz verrät, was sie gerne früher im Leben gewusst hätte. Zum Beispiel, wovon man sich nicht abhängig machen sollte.",
+      "image": "https://img.zeit.de/zeit-magazin/2026/41/banane-ist-nicht-zu-schlagen-der-perfekteste-snack-den-es-gibt-bild-1/original__640x360",
+      "link": "https://www.zeit.de/zeit-magazin/2026/41/joana-mallwitz-dirigentin-konzerthausorchester-berlin-ratschlaege-leben",
+      "published": "Tue, 29 Sep 2026 06:28:39 -0000",
+      "published_display": "29.09.2026 · 06:28 Uhr"
+    },
+    {
+      "title": "Bürgerkrieg in Myanmar: Zahlreiche Tote bei Luftangriff durch Militär in Myanmar",
+      "summary": "Das Militär greift in Myanmar eine seit dem Bürgerkrieg abgeschnittene Region an. Zeugen berichten von etwa 50 Toten und vielen Verletzten nach dem Abwurf von Bomben.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/myanmar-luftangriff-kyauktaw-arakan-army-rakhine-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/myanmar-luftangriff-kyauktaw-arakan-army-rakhine",
+      "published": "Tue, 29 Sep 2026 06:28:12 -0000",
+      "published_display": "29.09.2026 · 06:28 Uhr"
+    },
+    {
+      "title": "Gedenken an CSD-Attentat: Regenbogenbank im Tiergarten wieder beschädigt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/regenbogenbank-im-tiergarten-wieder-beschaedigt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/regenbogenbank-im-tiergarten-wieder-beschaedigt",
+      "published": "Tue, 29 Sep 2026 06:26:38 -0000",
+      "published_display": "29.09.2026 · 06:26 Uhr"
+    },
+    {
+      "title": "Mitarbeiteraktien: Vier Aktien zum Preis von drei? Gibt's nur für Mitarbeiter",
+      "summary": "Viele Firmen belohnen Beschäftigte mit günstigen Aktien. Für Angestellte lohnt sich der Rabatt – solange sie einen typischen Anlagefehler vermeiden.",
+      "image": "https://img.zeit.de/geld/2026-09/mitarbeiteraktien-arbeitgeber-beschaeftigte-unternehmen-firmenerfolg-bild/original__640x360",
+      "link": "https://www.zeit.de/geld/2026-09/mitarbeiteraktien-arbeitgeber-beschaeftigte-unternehmen-firmenerfolg",
+      "published": "Tue, 29 Sep 2026 06:26:21 -0000",
+      "published_display": "29.09.2026 · 06:26 Uhr"
+    },
     {
       "title": "Parlament: Landtags-Vize: AfD nicht von Stellvertreteramt ausschließen",
       "summary": "",
@@ -41,86 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/29/laumann-wuensche-der-spd-kosten-sehr-viel-geld",
       "published": "Tue, 29 Sep 2026 06:12:18 -0000",
       "published_display": "29.09.2026 · 06:12 Uhr"
-    },
-    {
-      "title": "Hamburger Hafen: Bundesregierung will offenbar Verkauf von Unternehmen an China stoppen",
-      "summary": "Die chinesische Containerreederei Cosco will ein deutsches Logistikunternehmen übernehmen. Laut einem Bericht droht dem Deal eine Blockade durch die Bundesregierung.",
-      "image": "https://img.zeit.de/wirtschaft/2026-09/zippel-cosco-china-logistikunternehmen-verkauf-bundesregierung-foto-1/original__640x360",
-      "link": "https://www.zeit.de/wirtschaft/2026-09/zippel-cosco-china-logistikunternehmen-verkauf-bundesregierung",
-      "published": "Tue, 29 Sep 2026 06:10:03 -0000",
-      "published_display": "29.09.2026 · 06:10 Uhr"
-    },
-    {
-      "title": "Bürgerkrieg in Myanmar: Zahlreiche Tote bei Luftangriff durch Militär in Myanmar",
-      "summary": "Das Militär greift in Myanmar eine seit dem Bürgerkrieg abgeschnittene Region an. Zeugen berichten von etwa 50 Toten und vielen Verletzten nach dem Abwurf von Bomben.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/myanmar-luftangriff-kyauktaw-arakan-army-rakhine-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/myanmar-luftangriff-kyauktaw-arakan-army-rakhine",
-      "published": "Tue, 29 Sep 2026 06:07:04 -0000",
-      "published_display": "29.09.2026 · 06:07 Uhr"
-    },
-    {
-      "title": "Wetter: Mildes Herbstwetter im Norden erwartet",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/mildes-herbstwetter-im-norden-erwartet-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/mildes-herbstwetter-im-norden-erwartet",
-      "published": "Tue, 29 Sep 2026 06:03:12 -0000",
-      "published_display": "29.09.2026 · 06:03 Uhr"
-    },
-    {
-      "title": "Unfall: Zu zweit auf dem E-Scooter - Duo bei Sturz schwer verletzt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/zu-zweit-auf-dem-e-scooter-duo-bei-sturz-schwer-verletzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/zu-zweit-auf-dem-e-scooter-duo-bei-sturz-schwer-verletzt",
-      "published": "Tue, 29 Sep 2026 06:02:31 -0000",
-      "published_display": "29.09.2026 · 06:02 Uhr"
-    },
-    {
-      "title": "Tochter mit Angelina Jolie: Drittes Kind von Brad Pitt legt Namen des Vaters ab",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/drittes-kind-von-brad-pitt-legt-namen-des-vaters-ab-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/drittes-kind-von-brad-pitt-legt-namen-des-vaters-ab",
-      "published": "Tue, 29 Sep 2026 05:44:58 -0000",
-      "published_display": "29.09.2026 · 05:44 Uhr"
-    },
-    {
-      "title": "Geld: Das liebe Geld und das Glück",
-      "summary": "So viel Geld gibt es allein in der Eurozone in bar, auf Giro- und Tagesgeldkonten. Eigentlich genug für alle. Aber stimmt es, dass Geld gar nicht glücklich macht?",
-      "image": "https://img.zeit.de/zeit-wissen/2026/05/das-liebe-geld-und-das-glueck-bild-1/original__640x360",
-      "link": "https://www.zeit.de/zeit-wissen/2026/05/geld-umgang-beziehung-verteilung-glueck-liebe",
-      "published": "Tue, 29 Sep 2026 05:44:02 -0000",
-      "published_display": "29.09.2026 · 05:44 Uhr"
-    },
-    {
-      "title": "Börsengang von Anthropic: Anthropic warnt offenbar mögliche Investoren vor Risiken von KI",
-      "summary": "Künstliche Intelligenz könne »existenzielle Risiken für die Menschheit« bergen, warnt Anthropic Investoren laut einem Medienbericht. Das KI-Unternehmen will an die Börse.",
-      "image": "https://img.zeit.de/wirtschaft/2026-09/anthropic-ipo-boersengang-ki-startup-dario-amodei-foto-1/original__640x360",
-      "link": "https://www.zeit.de/wirtschaft/2026-09/anthropic-ipo-boersengang-ki-startup-dario-amodei",
-      "published": "Tue, 29 Sep 2026 05:39:43 -0000",
-      "published_display": "29.09.2026 · 05:39 Uhr"
-    },
-    {
-      "title": "E-Mobilität: Auslastung von Ladesäulen für Elektroautos nimmt deutlich zu",
-      "summary": "Betreiber von Ladesäulen für E-Autos melden deutlich höhere Auslastungswerte als 2025. Sie begründen das mit mehr Neuzulassungen und hohen Treibstoffpreisen.",
-      "image": "https://img.zeit.de/mobilitaet/2026-09/e-auto-ladesaeulen-nutzung-auslastung-vattenfall-enbw-aral-foto-1/original__640x360",
-      "link": "https://www.zeit.de/mobilitaet/2026-09/e-auto-ladesaeulen-nutzung-auslastung-vattenfall-enbw-aral",
-      "published": "Tue, 29 Sep 2026 05:37:32 -0000",
-      "published_display": "29.09.2026 · 05:37 Uhr"
-    },
-    {
-      "title": "Spätsommer: Bis zu 30 Grad: Warme Tage in Rheinland-Pfalz und Saarland",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/bis-zu-30-grad-warme-tage-in-rheinland-pfalz-und-saarland-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/bis-zu-30-grad-warme-tage-in-rheinland-pfalz-und-saarland",
-      "published": "Tue, 29 Sep 2026 05:09:08 -0000",
-      "published_display": "29.09.2026 · 05:09 Uhr"
-    },
-    {
-      "title": "Unfall: Auto rammt Laterne - zwei Menschen verletzt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/auto-rammt-laterne-zwei-menschen-verletzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/auto-rammt-laterne-zwei-menschen-verletzt",
-      "published": "Tue, 29 Sep 2026 05:06:04 -0000",
-      "published_display": "29.09.2026 · 05:06 Uhr"
     }
   ]
 }
