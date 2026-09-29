@@ -1,7 +1,71 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-29T04:58:06.121935+00:00",
+  "updated": "2026-09-29T05:18:34.204614+00:00",
   "items": [
+    {
+      "title": "E-Mobilität: Auslastung von Ladesäulen für Elektroautos nimmt deutlich zu",
+      "summary": "Betreiber von Ladesäulen für E-Autos melden deutlich höhere Auslastungswerte als 2025. Sie begründen das mit mehr Neuzulassungen und hohen Treibstoffpreisen.",
+      "image": "https://img.zeit.de/mobilitaet/2026-09/e-auto-ladesaeulen-nutzung-auslastung-vattenfall-enbw-aral-foto-1/original__640x360",
+      "link": "https://www.zeit.de/mobilitaet/2026-09/e-auto-ladesaeulen-nutzung-auslastung-vattenfall-enbw-aral",
+      "published": "Tue, 29 Sep 2026 05:13:17 -0000",
+      "published_display": "29.09.2026 · 05:13 Uhr"
+    },
+    {
+      "title": "Spätsommer: Bis zu 30 Grad: Warme Tage in Rheinland-Pfalz und Saarland",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/bis-zu-30-grad-warme-tage-in-rheinland-pfalz-und-saarland-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/bis-zu-30-grad-warme-tage-in-rheinland-pfalz-und-saarland",
+      "published": "Tue, 29 Sep 2026 05:09:08 -0000",
+      "published_display": "29.09.2026 · 05:09 Uhr"
+    },
+    {
+      "title": "Unfall: Auto rammt Laterne - zwei Menschen verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/auto-rammt-laterne-zwei-menschen-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/auto-rammt-laterne-zwei-menschen-verletzt",
+      "published": "Tue, 29 Sep 2026 05:06:04 -0000",
+      "published_display": "29.09.2026 · 05:06 Uhr"
+    },
+    {
+      "title": "Wetter: Goldener Herbst mit sommerlichen Temperaturen bis 27 Grad",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/goldener-herbst-mit-sommerlichen-temperaturen-bis-27-grad-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/goldener-herbst-mit-sommerlichen-temperaturen-bis-27-grad",
+      "published": "Tue, 29 Sep 2026 05:02:43 -0000",
+      "published_display": "29.09.2026 · 05:02 Uhr"
+    },
+    {
+      "title": "Hamburger Hafen: Bundesregierung will offenbar Verkauf von Unternehmen an China stoppen",
+      "summary": "Die chinesische Containerreederei Cosco will ein deutsches Logistikunternehmen übernehmen. Laut einem Bericht droht dem Deal eine Blockade durch die Bundesregierung.",
+      "image": "https://img.zeit.de/wirtschaft/2026-09/zippel-cosco-china-logistikunternehmen-verkauf-bundesregierung-foto-1/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/2026-09/zippel-cosco-china-logistikunternehmen-verkauf-bundesregierung",
+      "published": "Tue, 29 Sep 2026 05:00:47 -0000",
+      "published_display": "29.09.2026 · 05:00 Uhr"
+    },
+    {
+      "title": "TV-Dauerbrenner: Eine Stadt wird zum Pulverfass - düsterer Odenthal-«Tatort»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/eine-stadt-wird-zum-pulverfass-duesterer-odenthal-tatort-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/eine-stadt-wird-zum-pulverfass-duesterer-odenthal-tatort",
+      "published": "Tue, 29 Sep 2026 05:00:06 -0000",
+      "published_display": "29.09.2026 · 05:00 Uhr"
+    },
+    {
+      "title": "Freunde in Social-Media-Zeiten: Sporadisch Café-Small-Talk: Sind wir nur noch Pseudofreunde?",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/sporadisch-caf-small-talk-sind-wir-nur-noch-pseudofreunde-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/sporadisch-caf-small-talk-sind-wir-nur-noch-pseudofreunde",
+      "published": "Tue, 29 Sep 2026 05:00:05 -0000",
+      "published_display": "29.09.2026 · 05:00 Uhr"
+    },
+    {
+      "title": "Unfälle: Ohne Helm und Zulassung: Schwerer Unfall mit E-Scooter",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/ohne-helm-und-zulassung-schwerer-unfall-mit-e-scooter-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/ohne-helm-und-zulassung-schwerer-unfall-mit-e-scooter",
+      "published": "Tue, 29 Sep 2026 04:57:22 -0000",
+      "published_display": "29.09.2026 · 04:57 Uhr"
+    },
     {
       "title": "Wettervorhersage: Noch einmal Sommerwärme in NRW – dann wird es regnerisch",
       "summary": "",
@@ -57,70 +121,6 @@
       "link": "https://www.zeit.de/wirtschaft/unternehmen/2026-09/boeing-737-max-10-software-fehler-faa-zulassung-airbus",
       "published": "Tue, 29 Sep 2026 04:15:38 -0000",
       "published_display": "29.09.2026 · 04:15 Uhr"
-    },
-    {
-      "title": "Wettervorhersage: Bis zu 26 Grad: Berlin und Brandenburg genießen Sommerwetter",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/bis-zu-26-grad-berlin-und-brandenburg-geniessen-sommerwetter-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/bis-zu-26-grad-berlin-und-brandenburg-geniessen-sommerwetter",
-      "published": "Tue, 29 Sep 2026 04:10:09 -0000",
-      "published_display": "29.09.2026 · 04:10 Uhr"
-    },
-    {
-      "title": "Fußball-Nationalmannschaft: Klopp droht gegen Serbien DFB-Negativrekord",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/klopp-droht-gegen-serbien-dfb-negativrekord-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/klopp-droht-gegen-serbien-dfb-negativrekord",
-      "published": "Tue, 29 Sep 2026 04:08:04 -0000",
-      "published_display": "29.09.2026 · 04:08 Uhr"
-    },
-    {
-      "title": "Unfälle: Radfahrerin bei Unfall mit Pkw in Herten tödlich verletzt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/radfahrerin-bei-unfall-mit-pkw-in-herten-toedlich-verletzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/radfahrerin-bei-unfall-mit-pkw-in-herten-toedlich-verletzt",
-      "published": "Tue, 29 Sep 2026 04:06:02 -0000",
-      "published_display": "29.09.2026 · 04:06 Uhr"
-    },
-    {
-      "title": "Aktien: Sollte jeder Aktien besitzen?",
-      "summary": "Wer langfristig sein Geld vermehren will, sollte auch in Aktien investieren. Hier erklären wir, warum das so ist – und wie ihr damit anfangt.",
-      "image": "https://img.zeit.de/geld/2026-09/geld-podcast-folge3/original__640x360",
-      "link": "https://www.zeit.de/wirtschaft/2026-09/aktien-geldanlage-investment-boerse-anfaenger",
-      "published": "Tue, 29 Sep 2026 04:05:07 -0000",
-      "published_display": "29.09.2026 · 04:05 Uhr"
-    },
-    {
-      "title": "Vorhersage für Bayern: Sonnige Tage in Bayern – ab Donnerstag kommt Regen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/sonnige-tage-in-bayern-ab-donnerstag-kommt-regen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/sonnige-tage-in-bayern-ab-donnerstag-kommt-regen",
-      "published": "Tue, 29 Sep 2026 04:01:30 -0000",
-      "published_display": "29.09.2026 · 04:01 Uhr"
-    },
-    {
-      "title": "KI und Klimaschutz: Warum dieser langjährige Klimaschützer jetzt auf KI setzt",
-      "summary": "KI verschlingt Energie, verschärft Ungleichheit – aber kann das Klima retten? Klimastratege Bernhard Lorentz sieht in grüner KI eine historische Chance.",
-      "image": "https://img.zeit.de/politik/2026-09/bundespressekonferenz-in-berlin-vorstllungen-des-berichts-parteien-im-klima-check-wie-viel-klimaneutralit-t-steckt-i-bild/original__640x360",
-      "link": "https://www.zeit.de/wissenschaft/2026-09/ki-klimaschutz-dekarbonisierung-krisenpodcast",
-      "published": "Tue, 29 Sep 2026 04:00:13 -0000",
-      "published_display": "29.09.2026 · 04:00 Uhr"
-    },
-    {
-      "title": "Elbvertiefung: Der tägliche Newsletter aus Hamburg: Ein Klimakongress als Wagenburg",
-      "summary": "Die Elbvertiefung am Dienstag – Mit platten Autos, blutlosen Konserven und Tipps für E-Mobilfahrende",
-      "image": "https://img.zeit.de/2026-09/foto-29-09-2026-4/original__640x360",
-      "link": "https://www.zeit.de/hamburg/2026-09/elbvertiefung-29-09-2026",
-      "published": "Tue, 29 Sep 2026 04:00:09 -0000",
-      "published_display": "29.09.2026 · 04:00 Uhr"
-    },
-    {
-      "title": "Spanien: Wie eine 87-Jährige zum Symbol für Spaniens Wohnungskrise wurde",
-      "summary": "Der Fall von Maricarmen Abascal löste Massenproteste aus. Jetzt reagiert die Regierung mit einem Dekret. Und: So laufen die Gespräche von AfD und BSW in Sachsen-Anhalt.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/maricarmen-abascal-87-year-spanish-old-woman-evicted-after-more-than-70-years-in-her-home-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/2026-09/spanien-proteste-mieterschutz-madrid-raeumung-nachrichtenpodcast",
-      "published": "Tue, 29 Sep 2026 04:00:07 -0000",
-      "published_display": "29.09.2026 · 04:00 Uhr"
     }
   ]
 }
