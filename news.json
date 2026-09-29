@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-29T05:18:34.204614+00:00",
+  "updated": "2026-09-29T05:32:43.059763+00:00",
   "items": [
+    {
+      "title": "Börsengang von Anthropic: Anthropic warnt offenbar mögliche Investoren vor Risiken von KI",
+      "summary": "Künstliche Intelligenz könne »existenzielle Risiken für die Menschheit« bergen, warnt Anthropic Investoren laut einem Medienbericht. Das KI-Unternehmen will an die Börse.",
+      "image": "https://img.zeit.de/wirtschaft/2026-09/anthropic-ipo-boersengang-ki-startup-dario-amodei-foto-1/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/2026-09/anthropic-ipo-boersengang-ki-startup-dario-amodei",
+      "published": "Tue, 29 Sep 2026 05:24:02 -0000",
+      "published_display": "29.09.2026 · 05:24 Uhr"
+    },
     {
       "title": "E-Mobilität: Auslastung von Ladesäulen für Elektroautos nimmt deutlich zu",
       "summary": "Betreiber von Ladesäulen für E-Autos melden deutlich höhere Auslastungswerte als 2025. Sie begründen das mit mehr Neuzulassungen und hohen Treibstoffpreisen.",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/politik/deutschland/2026-09/kinderkrankentage-carsten-linnemann-gesetz-kuerzung-spd",
       "published": "Tue, 29 Sep 2026 04:16:01 -0000",
       "published_display": "29.09.2026 · 04:16 Uhr"
-    },
-    {
-      "title": "Boeing 737 Max 10: Softwarepanne verzögert Zulassung von neuem Boeing-Modell weiter",
-      "summary": "Der US-Konzern Boeing will das größte Flugzeug der Serie 737 Max endlich auf den Markt bringen. Doch die US-Flugaufsicht ist wegen eines Softwarefehlers alarmiert.",
-      "image": "https://img.zeit.de/wirtschaft/unternehmen/2026-09/boeing-737-max-10-software-fehler-faa-zulassung-airbus-foto-1/original__640x360",
-      "link": "https://www.zeit.de/wirtschaft/unternehmen/2026-09/boeing-737-max-10-software-fehler-faa-zulassung-airbus",
-      "published": "Tue, 29 Sep 2026 04:15:38 -0000",
-      "published_display": "29.09.2026 · 04:15 Uhr"
     }
   ]
 }
