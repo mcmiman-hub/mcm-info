@@ -1,7 +1,71 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-29T16:37:31.528715+00:00",
+  "updated": "2026-09-29T16:58:54.477738+00:00",
   "items": [
+    {
+      "title": "Tarifabschluss: Einzelhandel in MV - Beschäftigte erhalten mehr Geld",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/einzelhandel-in-mv-beschaeftigte-erhalten-mehr-geld-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/einzelhandel-in-mv-beschaeftigte-erhalten-mehr-geld",
+      "published": "Tue, 29 Sep 2026 16:55:05 -0000",
+      "published_display": "29.09.2026 · 16:55 Uhr"
+    },
+    {
+      "title": "Neues Musical in Hamburg: Cast für Musical «Der Teufel trägt Prada» steht fest",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/cast-fuer-musical-der-teufel-traegt-prada-steht-fest-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/cast-fuer-musical-der-teufel-traegt-prada-steht-fest",
+      "published": "Tue, 29 Sep 2026 16:50:29 -0000",
+      "published_display": "29.09.2026 · 16:50 Uhr"
+    },
+    {
+      "title": "Krieg gegen die Ukraine: Merz sieht keine Bereitschaft Russlands für ernsthafte Gespräche",
+      "summary": "Der Bundeskanzler äußert sich zum Treffen zwischen Wadephul und Russlands Außenminister Lawrow. Ein Beauftragter Wladimir Putins führt Gespräche in den USA. Das Liveblog",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/ukraine-krieg-news-liveblog-merz-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "published": "Tue, 29 Sep 2026 16:48:43 -0000",
+      "published_display": "29.09.2026 · 16:48 Uhr"
+    },
+    {
+      "title": "Spionageverdacht: Anklage gegen mutmaßlichen Russland-Spion erhoben",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/anklage-gegen-mutmasslichen-russland-spion-erhoben-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/anklage-gegen-mutmasslichen-russland-spion-erhoben",
+      "published": "Tue, 29 Sep 2026 16:46:51 -0000",
+      "published_display": "29.09.2026 · 16:46 Uhr"
+    },
+    {
+      "title": "Übernahmeringen: Kreise: Bund will schnelle Zusagen von Orcel bei Commerzbank",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/bericht-unicredit-will-frueher-kontrolle-ueber-commerzbank-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/bericht-unicredit-will-frueher-kontrolle-ueber-commerzbank",
+      "published": "Tue, 29 Sep 2026 16:46:00 -0000",
+      "published_display": "29.09.2026 · 16:46 Uhr"
+    },
+    {
+      "title": "Sachsen-Anhalt: Ulrich Siegmund stellt sich im Dezember als Ministerpräsident zur Wahl",
+      "summary": "Der AfD-Politiker Ulrich Siegmund will sich zu Sachsen-Anhalts nächstem Regierungschef wählen lassen. Dabei ist er auf Stimmen einer anderen Fraktion angewiesen.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/ulrich-siegmund-will-sich-zur-wahl-als-ministerpraesident-stellen-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/ulrich-siegmund-will-sich-zur-wahl-als-ministerpraesident-stellen-gxe",
+      "published": "Tue, 29 Sep 2026 16:44:30 -0000",
+      "published_display": "29.09.2026 · 16:44 Uhr"
+    },
+    {
+      "title": "Neuer Job: Ex-Bundesliga-Trainer Gisdol übernimmt ZSKA Sofia",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/ex-bundesliga-trainer-gisdol-uebernimmt-zska-sofia-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/ex-bundesliga-trainer-gisdol-uebernimmt-zska-sofia",
+      "published": "Tue, 29 Sep 2026 16:40:57 -0000",
+      "published_display": "29.09.2026 · 16:40 Uhr"
+    },
+    {
+      "title": "Festnahmen: Kiloweise Drogen in Wohnungen in Halle gefunden",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/kiloweise-drogen-in-wohnungen-in-halle-gefunden-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/kiloweise-drogen-in-wohnungen-in-halle-gefunden",
+      "published": "Tue, 29 Sep 2026 16:35:38 -0000",
+      "published_display": "29.09.2026 · 16:35 Uhr"
+    },
     {
       "title": "Zoo Rostock: Seebär «Alfie» überraschend gestorben",
       "summary": "",
@@ -27,8 +91,8 @@
       "published_display": "29.09.2026 · 16:30 Uhr"
     },
     {
-      "title": "Bahnstrecke Berlin–Hannover: Bahnstrecke zwischen Hannover und Berlin wird für 14 Monate gesperrt",
-      "summary": "Sanierungsarbeiten an der Strecke Berlin-Hannover führen zu Einschränkungen, auch im Regionalverkehr. Teile der Strecke sollen laut Deutscher Bahn modernisiert werden.",
+      "title": "Deutsche Bahn: Bahnstrecke zwischen Hannover und Berlin wird für 14 Monate gesperrt",
+      "summary": "Sanierungsarbeiten an der Strecke Berlin-Hannover führen zu Einschränkungen, auch im Regionalverkehr. Die Bahn spricht von einer »Investition, die sich auszahlt«.",
       "image": "https://img.zeit.de/mobilitaet/2026-09/bahnstrecke-berlin-hannover-sperrung-sanierung-deutsche-bahn-foto-1/original__640x360",
       "link": "https://www.zeit.de/mobilitaet/2026-09/bahnstrecke-berlin-hannover-sperrung-sanierung-deutsche-bahn",
       "published": "Tue, 29 Sep 2026 16:29:02 -0000",
@@ -57,70 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/29/neuer-marinehafen-an-der-nordsee-emden-setzt-sich-durch",
       "published": "Tue, 29 Sep 2026 16:21:59 -0000",
       "published_display": "29.09.2026 · 16:21 Uhr"
-    },
-    {
-      "title": "Polizeieinsatz: Großfahndung in Augsburg: Polizei gibt Warnschuss ab",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/grossfahndung-in-augsburg-polizei-gibt-warnschuss-ab-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/grossfahndung-in-augsburg-polizei-gibt-warnschuss-ab",
-      "published": "Tue, 29 Sep 2026 16:13:58 -0000",
-      "published_display": "29.09.2026 · 16:13 Uhr"
-    },
-    {
-      "title": "Internet-Sprache: Trump sorgt für Boom bei slowenischen .si-Domains",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/trump-sorgt-fuer-boom-bei-slowenischen-si-domains-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/trump-sorgt-fuer-boom-bei-slowenischen-si-domains",
-      "published": "Tue, 29 Sep 2026 16:13:36 -0000",
-      "published_display": "29.09.2026 · 16:13 Uhr"
-    },
-    {
-      "title": "Verkehr: Reimportierte Simson-Mopeds dürfen jetzt auch 60 km/h fahren",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/reimportierte-simson-mopeds-duerfen-jetzt-auch-60-km-h-fahren-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/reimportierte-simson-mopeds-duerfen-jetzt-auch-60-km-h-fahren",
-      "published": "Tue, 29 Sep 2026 16:07:53 -0000",
-      "published_display": "29.09.2026 · 16:07 Uhr"
-    },
-    {
-      "title": "Tarifverhandlungen: Warnstreiks abgewendet: Busverkehr in vier Städten gesichert",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/einigung-im-tarifstreit-bei-stadtbussen-im-norden-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/einigung-im-tarifstreit-bei-stadtbussen-im-norden",
-      "published": "Tue, 29 Sep 2026 16:06:50 -0000",
-      "published_display": "29.09.2026 · 16:06 Uhr"
-    },
-    {
-      "title": "Prominenter Chauffeur: Helmut Kohls langjähriger Chauffeur Eckhard Seeber ist tot",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/helmut-kohls-langjaehriger-chauffeur-eckhard-seeber-ist-tot-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/helmut-kohls-langjaehriger-chauffeur-eckhard-seeber-ist-tot",
-      "published": "Tue, 29 Sep 2026 16:02:58 -0000",
-      "published_display": "29.09.2026 · 16:02 Uhr"
-    },
-    {
-      "title": "Weltaustellung: Expo 2035? Ministerin zweifelt an Verlässlichkeit in Berlin",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/expo-2035-ministerin-zweifelt-an-verlaesslichkeit-in-berlin-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/expo-2035-ministerin-zweifelt-an-verlaesslichkeit-in-berlin",
-      "published": "Tue, 29 Sep 2026 16:02:42 -0000",
-      "published_display": "29.09.2026 · 16:02 Uhr"
-    },
-    {
-      "title": "Sachsen-Anhalt: Siegmund will im Dezember erster AfD-Ministerpräsident sein",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/siegmund-will-im-dezember-regierungschef-werden-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/siegmund-will-im-dezember-regierungschef-werden",
-      "published": "Tue, 29 Sep 2026 16:02:24 -0000",
-      "published_display": "29.09.2026 · 16:02 Uhr"
-    },
-    {
-      "title": "Lasse Lund: Von den Eltern verlassen – in einem indischen Slum",
-      "summary": "Ein Norweger wird zum Internetstar, weil er berichtet, er habe als Kind ohne Eltern in den Straßen von Mumbai überlebt. Ist das zu verrückt, um wahr zu sein?",
-      "image": "https://img.zeit.de/familie/2026-09/lasse-lund-norwegen-indien-mumbai-slums-bild-01/original__640x360",
-      "link": "https://www.zeit.de/familie/2026-09/lasse-lund-norwegen-indien-mumbai-slums",
-      "published": "Tue, 29 Sep 2026 16:02:16 -0000",
-      "published_display": "29.09.2026 · 16:02 Uhr"
     }
   ]
 }
