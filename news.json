@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-29T01:45:26.302321+00:00",
+  "updated": "2026-09-29T01:56:46.029103+00:00",
   "items": [
+    {
+      "title": "Krieg gegen die Ukraine: Russland bombardiert erneut Kyjiw",
+      "summary": "In der Nacht gab es neue Raketenangriffe auf die ukrainische Hauptstadt. Russland plant eine Truppenaufstockung. Das Liveblog",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/russland-kyjiw-angriffe-ukraine-krieg-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "published": "Tue, 29 Sep 2026 01:52:34 -0000",
+      "published_display": "29.09.2026 · 01:52 Uhr"
+    },
     {
       "title": "Auto fährt in Lkw: Autofahrer stirbt bei Auffahrunfall auf A7",
       "summary": "",
@@ -9,14 +17,6 @@
       "link": "https://www.zeit.de/news/2026-09/29/autofahrer-stirbt-bei-auffahrunfall-auf-a7",
       "published": "Tue, 29 Sep 2026 01:39:20 -0000",
       "published_display": "29.09.2026 · 01:39 Uhr"
-    },
-    {
-      "title": "Krieg gegen die Ukraine: Russland bombardiert erneut Kyjiw",
-      "summary": "In der Nacht gab es neue Raketenangriffe auf die ukrainische Hauptstadt. Russland plant eine Truppenaufstockung. Das Liveblog",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/russland-kyjiw-angriffe-ukraine-krieg-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "published": "Tue, 29 Sep 2026 01:31:35 -0000",
-      "published_display": "29.09.2026 · 01:31 Uhr"
     },
     {
       "title": "Ebola im Kongo: Mehr als 8.000 Ebola-Fälle im Kongo - bald 4.000 Tote",
