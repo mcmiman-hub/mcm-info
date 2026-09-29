@@ -1,22 +1,30 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-29T05:32:43.059763+00:00",
+  "updated": "2026-09-29T05:46:30.734618+00:00",
   "items": [
+    {
+      "title": "Geld: Das liebe Geld und das Glück",
+      "summary": "So viel Geld gibt es allein in der Eurozone in bar, auf Giro- und Tagesgeldkonten. Eigentlich genug für alle. Aber stimmt es, dass Geld gar nicht glücklich macht?",
+      "image": "https://img.zeit.de/zeit-wissen/2026/05/das-liebe-geld-und-das-glueck-bild-1/original__640x360",
+      "link": "https://www.zeit.de/zeit-wissen/2026/05/geld-umgang-beziehung-verteilung-glueck-liebe",
+      "published": "Tue, 29 Sep 2026 05:44:02 -0000",
+      "published_display": "29.09.2026 · 05:44 Uhr"
+    },
     {
       "title": "Börsengang von Anthropic: Anthropic warnt offenbar mögliche Investoren vor Risiken von KI",
       "summary": "Künstliche Intelligenz könne »existenzielle Risiken für die Menschheit« bergen, warnt Anthropic Investoren laut einem Medienbericht. Das KI-Unternehmen will an die Börse.",
       "image": "https://img.zeit.de/wirtschaft/2026-09/anthropic-ipo-boersengang-ki-startup-dario-amodei-foto-1/original__640x360",
       "link": "https://www.zeit.de/wirtschaft/2026-09/anthropic-ipo-boersengang-ki-startup-dario-amodei",
-      "published": "Tue, 29 Sep 2026 05:24:02 -0000",
-      "published_display": "29.09.2026 · 05:24 Uhr"
+      "published": "Tue, 29 Sep 2026 05:39:43 -0000",
+      "published_display": "29.09.2026 · 05:39 Uhr"
     },
     {
       "title": "E-Mobilität: Auslastung von Ladesäulen für Elektroautos nimmt deutlich zu",
       "summary": "Betreiber von Ladesäulen für E-Autos melden deutlich höhere Auslastungswerte als 2025. Sie begründen das mit mehr Neuzulassungen und hohen Treibstoffpreisen.",
       "image": "https://img.zeit.de/mobilitaet/2026-09/e-auto-ladesaeulen-nutzung-auslastung-vattenfall-enbw-aral-foto-1/original__640x360",
       "link": "https://www.zeit.de/mobilitaet/2026-09/e-auto-ladesaeulen-nutzung-auslastung-vattenfall-enbw-aral",
-      "published": "Tue, 29 Sep 2026 05:13:17 -0000",
-      "published_display": "29.09.2026 · 05:13 Uhr"
+      "published": "Tue, 29 Sep 2026 05:37:32 -0000",
+      "published_display": "29.09.2026 · 05:37 Uhr"
     },
     {
       "title": "Spätsommer: Bis zu 30 Grad: Warme Tage in Rheinland-Pfalz und Saarland",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/29/mildes-herbstwetter-im-norden-erwartet",
       "published": "Tue, 29 Sep 2026 04:25:10 -0000",
       "published_display": "29.09.2026 · 04:25 Uhr"
-    },
-    {
-      "title": "Kinderkrankentage: SPD kritisiert Linnemanns Vorstoß zur Kürzung von Kinderkrankentagen",
-      "summary": "Wer kranke Kinder versorge, brauche Unterstützung, keine Kürzungen. Die Pläne des Gesundheitsministers hält die SPD für eine Belastung für Familien.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/kinderkrankentage-carsten-linnemann-gesetz-kuerzung-spd-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/kinderkrankentage-carsten-linnemann-gesetz-kuerzung-spd",
-      "published": "Tue, 29 Sep 2026 04:16:01 -0000",
-      "published_display": "29.09.2026 · 04:16 Uhr"
     }
   ]
 }
