@@ -1,7 +1,47 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-29T07:35:25.675747+00:00",
+  "updated": "2026-09-29T07:49:13.945165+00:00",
   "items": [
+    {
+      "title": "Deutschland: Deutsche Staatsschulden erneut gestiegen",
+      "summary": "Bund, Länder und Gemeinden nehmen immer mehr Schulden auf. Am meisten schuldet der Bund, der durch zwei Sondervermögen viel Geld geliehen hat.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/staatsschulden-deutschland-bund-laender-sondervermoegen-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/staatsschulden-deutschland-bund-laender-sondervermoegen",
+      "published": "Tue, 29 Sep 2026 07:47:29 -0000",
+      "published_display": "29.09.2026 · 07:47 Uhr"
+    },
+    {
+      "title": "Vermögensungleichheit: 95 Prozent des vererbten Vermögens entfällt auf Westdeutschland",
+      "summary": "Knapp jeder fünfte Deutsche lebt in den östlichen Bundesländern und Berlin. Doch bei Erbschaften und Schenkungen liegt der Anteil des Ostens bei nur fünf Prozent.",
+      "image": "https://img.zeit.de/wirtschaft/2026-09/erbschaften-schenkungen-westdeutschland-ostdeutschland-statistik-foto-1/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/2026-09/erbschaften-schenkungen-westdeutschland-ostdeutschland-statistik",
+      "published": "Tue, 29 Sep 2026 07:45:40 -0000",
+      "published_display": "29.09.2026 · 07:45 Uhr"
+    },
+    {
+      "title": "Flughafen München: Bericht zum Beinahe-Flugunfall: Bremsen beim Start betätigt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/bericht-zum-beinahe-flugunfall-bremsen-beim-start-betaetigt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/bericht-zum-beinahe-flugunfall-bremsen-beim-start-betaetigt",
+      "published": "Tue, 29 Sep 2026 07:44:54 -0000",
+      "published_display": "29.09.2026 · 07:44 Uhr"
+    },
+    {
+      "title": "Tod bei Klassenfahrt: Nach Tod eines Elfjährigen: Ermittlungen gegen Lehrkräfte",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/nach-tod-eines-elfjaehrigen-ermittlungen-gegen-lehrkraefte-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/nach-tod-eines-elfjaehrigen-ermittlungen-gegen-lehrkraefte",
+      "published": "Tue, 29 Sep 2026 07:43:56 -0000",
+      "published_display": "29.09.2026 · 07:43 Uhr"
+    },
+    {
+      "title": "Bahnstrecke: Waldbrandgefahr: Brockenbahn stellt um auf Diesel-Loks",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/waldbrandgefahr-brockenbahn-stellt-um-auf-diesel-loks-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/waldbrandgefahr-brockenbahn-stellt-um-auf-diesel-loks",
+      "published": "Tue, 29 Sep 2026 07:36:29 -0000",
+      "published_display": "29.09.2026 · 07:36 Uhr"
+    },
     {
       "title": "RTL-Fernsehshow: «Ninja Warrior Germany»: Neue Kräfte, alter Köppen",
       "summary": "",
@@ -67,14 +107,6 @@
       "published_display": "29.09.2026 · 07:15 Uhr"
     },
     {
-      "title": "Vermögensungleichheit: 95 Prozent des vererbten Vermögens entfällt auf Westdeutschland",
-      "summary": "Knapp jeder fünfte Deutsche lebt in den östlichen Bundesländern und Berlin. Doch bei Erbschaften und Schenkungen liegt der Anteil des Ostens bei nur fünf Prozent.",
-      "image": "https://img.zeit.de/wirtschaft/2026-09/erbschaften-schenkungen-westdeutschland-ostdeutschland-statistik-foto-1/original__640x360",
-      "link": "https://www.zeit.de/wirtschaft/2026-09/erbschaften-schenkungen-westdeutschland-ostdeutschland-statistik",
-      "published": "Tue, 29 Sep 2026 07:13:25 -0000",
-      "published_display": "29.09.2026 · 07:13 Uhr"
-    },
-    {
       "title": "Ukrainekarte aktuell: Ukrainische Truppen drängen Angreifer bei Orichiw zurück",
       "summary": "Südlich von Orichiw haben ukrainische Einheiten russische Truppen zurückgedrängt. Außerdem beschossen sie einen Stützpunkt im besetzten Teil der Region Saporischschja.",
       "image": "https://img.zeit.de/politik/ausland/2023-09/karte-ukraine-krieg-russland-frontverlauf-truppenbewegungen-teaserbild/original__640x360",
@@ -89,38 +121,6 @@
       "link": "https://www.zeit.de/politik/ausland/2026-09/donald-trump-xi-jinping-waffen-china-taiwan-david-perdue",
       "published": "Tue, 29 Sep 2026 07:01:58 -0000",
       "published_display": "29.09.2026 · 07:01 Uhr"
-    },
-    {
-      "title": "Gewaltkriminalität: Mann wird vor Polizeiwache angeschossen - Tat im Clan-Umfeld",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/mann-wird-vor-polizeiwache-angeschossen-tat-im-clan-umfeld-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/mann-wird-vor-polizeiwache-angeschossen-tat-im-clan-umfeld",
-      "published": "Tue, 29 Sep 2026 06:59:11 -0000",
-      "published_display": "29.09.2026 · 06:59 Uhr"
-    },
-    {
-      "title": "Unwetter: Hurrikan «Polo» trifft in Mexiko auf Land",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/hurrikan-polo-trifft-in-mexiko-auf-land-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/hurrikan-polo-trifft-in-mexiko-auf-land",
-      "published": "Tue, 29 Sep 2026 06:55:39 -0000",
-      "published_display": "29.09.2026 · 06:55 Uhr"
-    },
-    {
-      "title": "Hornbach: Heißer Sommer führt zu Umsatzsteigerung bei Hornbach",
-      "summary": "Das erste Halbjahr endete für den Baumarkt-Konzern Hornbach mit einem Plus. Der heiße Sommer führte zu hoher Nachfrage nach Klima- und Bewässerungsanlagen.",
-      "image": "https://img.zeit.de/wirtschaft/2026-09/hornbach-umsatz-gewinne-expansion-hellweg-foto-1/original__640x360",
-      "link": "https://www.zeit.de/wirtschaft/2026-09/hornbach-umsatz-gewinne-expansion-hellweg-gxe",
-      "published": "Tue, 29 Sep 2026 06:55:15 -0000",
-      "published_display": "29.09.2026 · 06:55 Uhr"
-    },
-    {
-      "title": "Verkehr: Lkw-Brand auf A14: Vollsperrung Richtung Süden",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/lkw-brand-auf-a14-vollsperrung-richtung-sueden-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/lkw-brand-auf-a14-vollsperrung-richtung-sueden",
-      "published": "Tue, 29 Sep 2026 06:49:22 -0000",
-      "published_display": "29.09.2026 · 06:49 Uhr"
     }
   ]
 }
