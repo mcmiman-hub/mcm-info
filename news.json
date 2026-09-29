@@ -1,7 +1,71 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-29T01:30:52.275362+00:00",
+  "updated": "2026-09-29T01:45:26.302321+00:00",
   "items": [
+    {
+      "title": "Auto fährt in Lkw: Autofahrer stirbt bei Auffahrunfall auf A7",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/autofahrer-stirbt-bei-auffahrunfall-auf-a7-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/autofahrer-stirbt-bei-auffahrunfall-auf-a7",
+      "published": "Tue, 29 Sep 2026 01:39:20 -0000",
+      "published_display": "29.09.2026 · 01:39 Uhr"
+    },
+    {
+      "title": "Krieg gegen die Ukraine: Russland bombardiert erneut Kyjiw",
+      "summary": "In der Nacht gab es neue Raketenangriffe auf die ukrainische Hauptstadt. Russland plant eine Truppenaufstockung. Das Liveblog",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/russland-kyjiw-angriffe-ukraine-krieg-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "published": "Tue, 29 Sep 2026 01:31:35 -0000",
+      "published_display": "29.09.2026 · 01:31 Uhr"
+    },
+    {
+      "title": "Ebola im Kongo: Mehr als 8.000 Ebola-Fälle im Kongo - bald 4.000 Tote",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/mehr-als-8-000-ebola-faelle-im-kongo-bald-4-000-tote-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/mehr-als-8-000-ebola-faelle-im-kongo-bald-4-000-tote",
+      "published": "Tue, 29 Sep 2026 01:30:10 -0000",
+      "published_display": "29.09.2026 · 01:30 Uhr"
+    },
+    {
+      "title": "Oberverwaltungsgericht: Richtungsweisendes Urteil zu Messerverbot erwartet",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/richtungsweisendes-urteil-zu-messerverbot-erwartet-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/richtungsweisendes-urteil-zu-messerverbot-erwartet",
+      "published": "Tue, 29 Sep 2026 01:30:09 -0000",
+      "published_display": "29.09.2026 · 01:30 Uhr"
+    },
+    {
+      "title": "Prozess nach Unfalltod: Schwestern sterben bei Unfall – Prozess gegen Fahrer startet",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/schwestern-sterben-bei-unfall-prozess-gegen-fahrer-startet-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/schwestern-sterben-bei-unfall-prozess-gegen-fahrer-startet",
+      "published": "Tue, 29 Sep 2026 01:30:08 -0000",
+      "published_display": "29.09.2026 · 01:30 Uhr"
+    },
+    {
+      "title": "Parlament: Abgeordnete beraten hessischen Landesetat 2027",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/abgeordnete-beraten-hessischen-landesetat-2027-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/abgeordnete-beraten-hessischen-landesetat-2027",
+      "published": "Tue, 29 Sep 2026 01:30:06 -0000",
+      "published_display": "29.09.2026 · 01:30 Uhr"
+    },
+    {
+      "title": "Raumfahrt: Krisengeplagter Starliner soll wieder ins All fliegen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/krisengeplagter-starliner-soll-wieder-ins-all-fliegen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/krisengeplagter-starliner-soll-wieder-ins-all-fliegen",
+      "published": "Tue, 29 Sep 2026 01:30:05 -0000",
+      "published_display": "29.09.2026 · 01:30 Uhr"
+    },
+    {
+      "title": "Reiseverkehr: Herbstferien in Hessen: Diese Stauzeiten sollten Sie meiden",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/herbstferien-in-hessen-diese-stauzeiten-sollten-sie-meiden-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/herbstferien-in-hessen-diese-stauzeiten-sollten-sie-meiden",
+      "published": "Tue, 29 Sep 2026 01:30:05 -0000",
+      "published_display": "29.09.2026 · 01:30 Uhr"
+    },
     {
       "title": "Künstliche Intelligenz: OpenAI streicht Veröffentlichung von neuem KI-Modell",
       "summary": "",
@@ -57,70 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/29/frau-durch-schuss-lebensgefaehrlich-verletzt-festnahme",
       "published": "Mon, 28 Sep 2026 23:45:02 -0000",
       "published_display": "28.09.2026 · 23:45 Uhr"
-    },
-    {
-      "title": "US-Flugzeugbauer: Software-Problem verzögert Zulassung neuer Boeing-Variante",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/software-problem-verzoegert-zulassung-neuer-boeing-variante-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/software-problem-verzoegert-zulassung-neuer-boeing-variante",
-      "published": "Mon, 28 Sep 2026 23:30:04 -0000",
-      "published_display": "28.09.2026 · 23:30 Uhr"
-    },
-    {
-      "title": "Pflegereform: Pflegerat fordert umfassende Überarbeitung der Reform",
-      "summary": "Vor dem Beschluss über die Pflegereform warnt der Deutsche Pflegerat vor höheren Hürden für Pflegebedürftige. Auch das Personalproblem drohe sich zu verschärfen.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/pflegereform-deutscher-pflegerat-carsten-linnemann-spd-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/pflegereform-deutscher-pflegerat-carsten-linnemann-spd",
-      "published": "Mon, 28 Sep 2026 23:28:01 -0000",
-      "published_display": "28.09.2026 · 23:28 Uhr"
-    },
-    {
-      "title": "Papst Leo XIV.: Sexueller Missbrauch laut Papst in erster Linie »menschliches Problem«",
-      "summary": "Papst Leo XIV. will nicht von einem systematischen Missbrauch in der katholischen Kirche sprechen. Zugleich betont er eine besondere Verantwortung gegenüber Betroffenen.",
-      "image": "https://img.zeit.de/gesellschaft/2026-09/papst-leo-xiv-sexueller-missbrauch-kirche-systematik-foto-1/original__640x360",
-      "link": "https://www.zeit.de/gesellschaft/2026-09/papst-leo-frankreich-sexueller-missbrauch-kirche-systematik",
-      "published": "Mon, 28 Sep 2026 23:22:54 -0000",
-      "published_display": "28.09.2026 · 23:22 Uhr"
-    },
-    {
-      "title": "Iran-Krieg: Sanktionserleichterungen für Iran? Trump dementiert Bericht",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/sanktionserleichterungen-fuer-iran-trump-dementiert-bericht-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/sanktionserleichterungen-fuer-iran-trump-dementiert-bericht",
-      "published": "Mon, 28 Sep 2026 23:21:13 -0000",
-      "published_display": "28.09.2026 · 23:21 Uhr"
-    },
-    {
-      "title": "Ernährungsratschläge: Bundestagspräsidentin skeptisch bei alkoholfreiem Wein",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/bundestagspraesidentin-skeptisch-bei-alkoholfreiem-wein-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/bundestagspraesidentin-skeptisch-bei-alkoholfreiem-wein",
-      "published": "Mon, 28 Sep 2026 23:00:05 -0000",
-      "published_display": "28.09.2026 · 23:00 Uhr"
-    },
-    {
-      "title": "Durban-Prozess der Vereinten Nationen: Deutschland bleibt umstrittenem UN-Treffen zu Rassismus fern",
-      "summary": "Deutschland kritisiert antisemitische Aussagen bei einem UN-Treffen gegen Rassismus. Israel hatte zuvor gegen die Teilnahme an der Veranstaltung in New York mobilisiert.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/durban-prozess-uno-rassismus-antisemitismus-new-york-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/durban-prozess-uno-rassismus-antisemitismus-new-york",
-      "published": "Mon, 28 Sep 2026 22:58:34 -0000",
-      "published_display": "28.09.2026 · 22:58 Uhr"
-    },
-    {
-      "title": "Wohnungsnot in Spanien: 87-jährige Spanierin darf nach Zwangsräumung in Wohnung zurückkehren",
-      "summary": "Nach Massenprotesten gegen Wohnungsmangel haben Behörden in Madrid eine Zwangsräumung rückgängig gemacht. Der Fall der Rentnerin setzt Spaniens Regierung unter Druck.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/zwangsraeumung-madrid-maricarmen-abascal-miete-proteste-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/zwangsraeumung-madrid-maricarmen-abascal-miete-proteste",
-      "published": "Mon, 28 Sep 2026 22:48:17 -0000",
-      "published_display": "28.09.2026 · 22:48 Uhr"
-    },
-    {
-      "title": "Diplomatie: US-Waffenverkauf an China? Trump dementiert Angebot an Xi",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/us-waffenverkauf-an-china-trump-dementiert-angebot-an-xi-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/us-waffenverkauf-an-china-trump-dementiert-angebot-an-xi",
-      "published": "Mon, 28 Sep 2026 22:46:06 -0000",
-      "published_display": "28.09.2026 · 22:46 Uhr"
     }
   ]
 }
