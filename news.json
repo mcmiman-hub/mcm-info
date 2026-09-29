@@ -1,7 +1,103 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-29T03:58:49.267579+00:00",
+  "updated": "2026-09-29T04:19:17.939662+00:00",
   "items": [
+    {
+      "title": "Kinderkrankentage: SPD kritisiert Linnemanns Vorstoß zur Kürzung von Kinderkrankentagen",
+      "summary": "Wer kranke Kinder versorge, brauche Unterstützung, keine Kürzungen. Die Pläne des Gesundheitsministers hält die SPD für eine Belastung für Familien.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/kinderkrankentage-carsten-linnemann-gesetz-kuerzung-spd-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/kinderkrankentage-carsten-linnemann-gesetz-kuerzung-spd",
+      "published": "Tue, 29 Sep 2026 04:16:01 -0000",
+      "published_display": "29.09.2026 · 04:16 Uhr"
+    },
+    {
+      "title": "Boeing 737 Max 10: Softwarepanne verzögert Zulassung von neuem Boeing-Modell weiter",
+      "summary": "Der US-Konzern Boeing will das größte Flugzeug der Serie 737 Max endlich auf den Markt bringen. Doch die US-Flugaufsicht ist wegen eines Softwarefehlers alarmiert.",
+      "image": "https://img.zeit.de/wirtschaft/unternehmen/2026-09/boeing-737-max-10-software-fehler-faa-zulassung-airbus-foto-1/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/unternehmen/2026-09/boeing-737-max-10-software-fehler-faa-zulassung-airbus",
+      "published": "Tue, 29 Sep 2026 04:15:38 -0000",
+      "published_display": "29.09.2026 · 04:15 Uhr"
+    },
+    {
+      "title": "Wettervorhersage: Bis zu 26 Grad: Berlin und Brandenburg genießen Sommerwetter",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/bis-zu-26-grad-berlin-und-brandenburg-geniessen-sommerwetter-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/bis-zu-26-grad-berlin-und-brandenburg-geniessen-sommerwetter",
+      "published": "Tue, 29 Sep 2026 04:10:09 -0000",
+      "published_display": "29.09.2026 · 04:10 Uhr"
+    },
+    {
+      "title": "Fußball-Nationalmannschaft: Klopp droht gegen Serbien DFB-Negativrekord",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/klopp-droht-gegen-serbien-dfb-negativrekord-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/klopp-droht-gegen-serbien-dfb-negativrekord",
+      "published": "Tue, 29 Sep 2026 04:08:04 -0000",
+      "published_display": "29.09.2026 · 04:08 Uhr"
+    },
+    {
+      "title": "Unfälle: Radfahrerin bei Unfall mit Pkw in Herten tödlich verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/radfahrerin-bei-unfall-mit-pkw-in-herten-toedlich-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/radfahrerin-bei-unfall-mit-pkw-in-herten-toedlich-verletzt",
+      "published": "Tue, 29 Sep 2026 04:06:02 -0000",
+      "published_display": "29.09.2026 · 04:06 Uhr"
+    },
+    {
+      "title": "Aktien: Sollte jeder Aktien besitzen?",
+      "summary": "Wer langfristig sein Geld vermehren will, sollte auch in Aktien investieren. Hier erklären wir, warum das so ist – und wie ihr damit anfangt.",
+      "image": "https://img.zeit.de/geld/2026-09/geld-podcast-folge3/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/2026-09/aktien-geldanlage-investment-boerse-anfaenger",
+      "published": "Tue, 29 Sep 2026 04:05:07 -0000",
+      "published_display": "29.09.2026 · 04:05 Uhr"
+    },
+    {
+      "title": "Vorhersage für Bayern: Sonnige Tage in Bayern – ab Donnerstag kommt Regen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/sonnige-tage-in-bayern-ab-donnerstag-kommt-regen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/sonnige-tage-in-bayern-ab-donnerstag-kommt-regen",
+      "published": "Tue, 29 Sep 2026 04:01:30 -0000",
+      "published_display": "29.09.2026 · 04:01 Uhr"
+    },
+    {
+      "title": "KI und Klimaschutz: Warum dieser langjährige Klimaschützer jetzt auf KI setzt",
+      "summary": "KI verschlingt Energie, verschärft Ungleichheit – aber kann das Klima retten? Klimastratege Bernhard Lorentz sieht in grüner KI eine historische Chance.",
+      "image": "https://img.zeit.de/politik/2026-09/bundespressekonferenz-in-berlin-vorstllungen-des-berichts-parteien-im-klima-check-wie-viel-klimaneutralit-t-steckt-i-bild/original__640x360",
+      "link": "https://www.zeit.de/wissenschaft/2026-09/ki-klimaschutz-dekarbonisierung-krisenpodcast",
+      "published": "Tue, 29 Sep 2026 04:00:13 -0000",
+      "published_display": "29.09.2026 · 04:00 Uhr"
+    },
+    {
+      "title": "Elbvertiefung: Der tägliche Newsletter aus Hamburg: Ein Klimakongress als Wagenburg",
+      "summary": "Die Elbvertiefung am Dienstag – Mit platten Autos, blutlosen Konserven und Tipps für E-Mobilfahrende",
+      "image": "https://img.zeit.de/2026-09/foto-29-09-2026-4/original__640x360",
+      "link": "https://www.zeit.de/hamburg/2026-09/elbvertiefung-29-09-2026",
+      "published": "Tue, 29 Sep 2026 04:00:09 -0000",
+      "published_display": "29.09.2026 · 04:00 Uhr"
+    },
+    {
+      "title": "Spanien: Wie eine 87-Jährige zum Symbol für Spaniens Wohnungskrise wurde",
+      "summary": "Der Fall von Maricarmen Abascal löste Massenproteste aus. Jetzt reagiert die Regierung mit einem Dekret. Und: So laufen die Gespräche von AfD und BSW in Sachsen-Anhalt.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/maricarmen-abascal-87-year-spanish-old-woman-evicted-after-more-than-70-years-in-her-home-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/2026-09/spanien-proteste-mieterschutz-madrid-raeumung-nachrichtenpodcast",
+      "published": "Tue, 29 Sep 2026 04:00:07 -0000",
+      "published_display": "29.09.2026 · 04:00 Uhr"
+    },
+    {
+      "title": "RTL-Fernsehshow: «Ninja Warrior Germany»: Neue Kräfte, alter Köppen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/ninja-warrior-germany-neue-kraefte-alter-koeppen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/ninja-warrior-germany-neue-kraefte-alter-koeppen",
+      "published": "Tue, 29 Sep 2026 04:00:07 -0000",
+      "published_display": "29.09.2026 · 04:00 Uhr"
+    },
+    {
+      "title": "Hilfe gesucht: Kleiderkammern in MV suchen dringend Unterstützung",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/kleiderkammern-in-mv-suchen-dringend-unterstuetzung-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/kleiderkammern-in-mv-suchen-dringend-unterstuetzung",
+      "published": "Tue, 29 Sep 2026 04:00:05 -0000",
+      "published_display": "29.09.2026 · 04:00 Uhr"
+    },
     {
       "title": "Konflikte: Fast 50 Tote bei Luftangriff auf Markt in Myanmar",
       "summary": "",
@@ -25,102 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/29/nach-zwangsraeumung-seniorin-darf-in-wohnung-zurueck",
       "published": "Tue, 29 Sep 2026 03:22:06 -0000",
       "published_display": "29.09.2026 · 03:22 Uhr"
-    },
-    {
-      "title": "Überschwemmungen in Thailand: Hochwasser in Bangkok beeinträchtigt Luftverkehr",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/hochwasser-in-bangkok-beeintraechtigt-luftverkehr-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/hochwasser-in-bangkok-beeintraechtigt-luftverkehr",
-      "published": "Tue, 29 Sep 2026 03:21:10 -0000",
-      "published_display": "29.09.2026 · 03:21 Uhr"
-    },
-    {
-      "title": "Fotografie: Bilder des Tages",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/bilder-des-tages-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/bilder-des-tages",
-      "published": "Tue, 29 Sep 2026 03:17:42 -0000",
-      "published_display": "29.09.2026 · 03:17 Uhr"
-    },
-    {
-      "title": "Künstliche Intelligenz: OpenAI streicht Veröffentlichung von neuem KI-Modell",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/openai-streicht-veroeffentlichung-von-neuem-ki-modell-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/openai-streicht-veroeffentlichung-von-neuem-ki-modell",
-      "published": "Tue, 29 Sep 2026 03:12:39 -0000",
-      "published_display": "29.09.2026 · 03:12 Uhr"
-    },
-    {
-      "title": "Union und Gerechtigkeit: Was ist Gerechtigkeit? Wir haben jeden CDU-Abgeordneten gefragt",
-      "summary": "In Deutschland müsse es gerecht zugehen, sagte der Kanzler vorige Woche. Und überraschte damit seine Fraktion. Kann die etwas mit dem Begriff anfangen? Lesen Sie selbst.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/union-gerechtigkeit-abgeordnete-private-krankenversicherung-friedrich-merz-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/union-gerechtigkeit-abgeordnete-private-krankenversicherung-friedrich-merz",
-      "published": "Tue, 29 Sep 2026 03:11:47 -0000",
-      "published_display": "29.09.2026 · 03:11 Uhr"
-    },
-    {
-      "title": "Mehr als 40 Tage Ausfallzeit: Folgen des Niedrigwassers: Rheinfähre meldet Kurzarbeit an",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/folgen-des-niedrigwassers-rheinfaehre-meldet-kurzarbeit-an-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/folgen-des-niedrigwassers-rheinfaehre-meldet-kurzarbeit-an",
-      "published": "Tue, 29 Sep 2026 03:00:14 -0000",
-      "published_display": "29.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Sechs Tote: Schüsse in Stade - Drei Monate Fassungslosigkeit und Fragen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/schuesse-in-stade-drei-monate-fassungslosigkeit-und-fragen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/schuesse-in-stade-drei-monate-fassungslosigkeit-und-fragen",
-      "published": "Tue, 29 Sep 2026 03:00:13 -0000",
-      "published_display": "29.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Lebensmitteleinkauf: Was Rabatt-Apps so beliebt macht – und was kritisiert wird",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/was-rabatt-apps-so-beliebt-macht-und-was-kritisiert-wird-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/was-rabatt-apps-so-beliebt-macht-und-was-kritisiert-wird",
-      "published": "Tue, 29 Sep 2026 03:00:11 -0000",
-      "published_display": "29.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Semesterbeginn: Das erwartet die neuen Studis in Berlin und Brandenburg",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/das-erwartet-die-neuen-studis-in-berlin-und-brandenburg-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/das-erwartet-die-neuen-studis-in-berlin-und-brandenburg",
-      "published": "Tue, 29 Sep 2026 03:00:10 -0000",
-      "published_display": "29.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Neue Untersuchung: Studie: Gerechtigkeitsempfinden in Bevölkerung schwach",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/studie-gerechtigkeitsempfinden-in-bevoelkerung-schwach-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/studie-gerechtigkeitsempfinden-in-bevoelkerung-schwach",
-      "published": "Tue, 29 Sep 2026 03:00:09 -0000",
-      "published_display": "29.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Inklusives Lernen: Förderschulen bleiben erhalten: Eltern sollen wählen können",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/foerderschulen-bleiben-erhalten-eltern-sollen-waehlen-koennen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/foerderschulen-bleiben-erhalten-eltern-sollen-waehlen-koennen",
-      "published": "Tue, 29 Sep 2026 03:00:08 -0000",
-      "published_display": "29.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Sport und Brauchtum: Oktoberfest und Olympia - der Traum von König Ludwig I. lebt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/oktoberfest-und-olympia-der-traum-von-koenig-ludwig-i-lebt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/oktoberfest-und-olympia-der-traum-von-koenig-ludwig-i-lebt",
-      "published": "Tue, 29 Sep 2026 03:00:07 -0000",
-      "published_display": "29.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Tiere: Wie es den Fischottern im Südwesten geht und was ihnen hilft",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/wie-es-den-fischottern-im-suedwesten-geht-und-was-ihnen-hilft-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/wie-es-den-fischottern-im-suedwesten-geht-und-was-ihnen-hilft",
-      "published": "Tue, 29 Sep 2026 03:00:05 -0000",
-      "published_display": "29.09.2026 · 03:00 Uhr"
     }
   ]
 }
