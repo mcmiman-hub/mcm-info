@@ -1,7 +1,55 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-29T08:37:08.769816+00:00",
+  "updated": "2026-09-29T08:51:10.064687+00:00",
   "items": [
+    {
+      "title": "Flughafen München: Bericht zum Beinahe-Flugunfall: Bremsen beim Start betätigt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/bericht-zum-beinahe-flugunfall-bremsen-beim-start-betaetigt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/bericht-zum-beinahe-flugunfall-bremsen-beim-start-betaetigt",
+      "published": "Tue, 29 Sep 2026 08:48:44 -0000",
+      "published_display": "29.09.2026 · 08:48 Uhr"
+    },
+    {
+      "title": "Folgen der Trockenheit: Frachtschiff steckt noch immer im Düsseldorfer Hafen fest",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/frachtschiff-steckt-noch-immer-im-duesseldorfer-hafen-fest-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/frachtschiff-steckt-noch-immer-im-duesseldorfer-hafen-fest",
+      "published": "Tue, 29 Sep 2026 08:45:58 -0000",
+      "published_display": "29.09.2026 · 08:45 Uhr"
+    },
+    {
+      "title": "Frühere RBB-Intendantin Schlesinger soll wegen Untreue vor Gericht",
+      "summary": "",
+      "image": "https://img.zeit.de/politik/2026-09/patricia-schlesinger-bild/original__640x360",
+      "link": "https://www.zeit.de/feuilleton/2026-09/fruehere-rbb-intendantin-schlesinger-soll-wegen-untreue-vor-gericht",
+      "published": "Tue, 29 Sep 2026 08:45:01 -0000",
+      "published_display": "29.09.2026 · 08:45 Uhr"
+    },
+    {
+      "title": "Schokolade: Heißer Sommer, hohe Preise: weniger Lindt-Schokolade gekauft",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/heisser-sommer-hohe-preise-weniger-lindt-schokolade-gekauft-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/heisser-sommer-hohe-preise-weniger-lindt-schokolade-gekauft",
+      "published": "Tue, 29 Sep 2026 08:42:33 -0000",
+      "published_display": "29.09.2026 · 08:42 Uhr"
+    },
+    {
+      "title": "EU-Finanzrahmen: Nettozahler-Länder lehnen Erhöhung des EU-Etats ab",
+      "summary": "Deutschland, Österreich, ⁠Schweden, Finnland, die Niederlande und ​Dänemark wollen keinen höheren EU‑Haushalt. Man habe mit den eigenen Etats Probleme.",
+      "image": "https://img.zeit.de/politik/2026-09/mehrjaehriger-eu-finanzrahmen-2028-friedrich-merz-oesterreich-schulden-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/2026-09/mehrjaehriger-eu-finanzrahmen-2028-friedrich-merz-oesterreich-schulden",
+      "published": "Tue, 29 Sep 2026 08:41:23 -0000",
+      "published_display": "29.09.2026 · 08:41 Uhr"
+    },
+    {
+      "title": "Fußball: Ex-Nationalspieler spielt künftig in 6. Liga",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/ehemaliger-bundesliga-profi-spielt-kuenftig-in-6-liga-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/ehemaliger-bundesliga-profi-spielt-kuenftig-in-6-liga",
+      "published": "Tue, 29 Sep 2026 08:39:23 -0000",
+      "published_display": "29.09.2026 · 08:39 Uhr"
+    },
     {
       "title": "Krankheiten: Erkältung, Grippe und Co: Wie sieht es in Thüringen aus?",
       "summary": "",
@@ -13,7 +61,7 @@
     {
       "title": "Benjamin Netanjahu: Netanjahu-Büro bestätigt Besuch in den Vereinigten Arabischen Emiraten",
       "summary": "Medienberichten zufolge soll Benjamin Netanjahu vor dem Angriff am 7. Oktober vom Präsidenten der VAE gewarnt worden sein. Diesen hat Netanjahu jetzt besucht.",
-      "image": "https://img.zeit.de/administratives/sharing/fallback-image-die-zeit/wide__1300x731",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/benjamin-netanjahu-vereinigte-arabische-emirate-mohammed-bin-sajid-foto-1/original__640x360",
       "link": "https://www.zeit.de/politik/ausland/2026-09/benjamin-netanjahu-vereinigte-arabische-emirate-mohammed-bin-sajid",
       "published": "Tue, 29 Sep 2026 08:32:45 -0000",
       "published_display": "29.09.2026 · 08:32 Uhr"
@@ -33,14 +81,6 @@
       "link": "https://www.zeit.de/politik/deutschland/2026-09/inside-cdu-serie-zdf-friedrich-merz-philipp-amthor-carsten-linnemann",
       "published": "Tue, 29 Sep 2026 08:28:13 -0000",
       "published_display": "29.09.2026 · 08:28 Uhr"
-    },
-    {
-      "title": "EU-Finanzrahmen: Nettozahler-Länder lehnen Erhöhung des EU-Etats ab",
-      "summary": "Deutschland, Österreich, ⁠Schweden, Finnland, die Niederlande und ​Dänemark wollen keinen höheren EU‑Haushalt. Man habe mit den eigenen Etats Probleme.",
-      "image": "https://img.zeit.de/politik/2026-09/mehrjaehriger-eu-finanzrahmen-2028-friedrich-merz-oesterreich-schulden-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/2026-09/mehrjaehriger-eu-finanzrahmen-2028-friedrich-merz-oesterreich-schulden",
-      "published": "Tue, 29 Sep 2026 08:27:31 -0000",
-      "published_display": "29.09.2026 · 08:27 Uhr"
     },
     {
       "title": "Holocaust-Gedenken: Yad-Vashem-Außenstelle in Leipzig soll 2027 in Betrieb gehen",
@@ -81,46 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/29/start-der-tour-de-france-in-berlin-linke-will-kosten-pruefen",
       "published": "Tue, 29 Sep 2026 08:19:16 -0000",
       "published_display": "29.09.2026 · 08:19 Uhr"
-    },
-    {
-      "title": "Betrugssystem: 300 Millionen Euro Schaden: Großrazzia wegen Mogel-Handys",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/300-millionen-euro-schaden-grossrazzia-wegen-mogel-handys-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/300-millionen-euro-schaden-grossrazzia-wegen-mogel-handys",
-      "published": "Tue, 29 Sep 2026 08:17:43 -0000",
-      "published_display": "29.09.2026 · 08:17 Uhr"
-    },
-    {
-      "title": "Fast-Fashion: Weltlage und Konsumsorgen drücken bei Shein aufs Geschäft",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/weltlage-und-konsumsorgen-druecken-bei-shein-aufs-geschaeft-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/weltlage-und-konsumsorgen-druecken-bei-shein-aufs-geschaeft",
-      "published": "Tue, 29 Sep 2026 08:14:14 -0000",
-      "published_display": "29.09.2026 · 08:14 Uhr"
-    },
-    {
-      "title": "Kriminalität: Europaweite Razzia wegen Millionenbetrugs mit Mogel-Handys",
-      "summary": "",
-      "image": "https://img.zeit.de/administratives/sharing/fallback-image-die-zeit/wide__1300x731",
-      "link": "https://www.zeit.de/news/2026-09/29/europaweite-razzia-wegen-millionenbetrugs-mit-mogel-handys",
-      "published": "Tue, 29 Sep 2026 08:09:54 -0000",
-      "published_display": "29.09.2026 · 08:09 Uhr"
-    },
-    {
-      "title": "Koalition: SPD-Gesundheitsexperte «guter Dinge» im Pflegestreit",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/pflegerat-fordert-umfassende-ueberarbeitung-der-reform-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/pflegerat-fordert-umfassende-ueberarbeitung-der-reform",
-      "published": "Tue, 29 Sep 2026 08:03:46 -0000",
-      "published_display": "29.09.2026 · 08:03 Uhr"
-    },
-    {
-      "title": "Eisshow: «Holiday on Ice»: Michael Schulte singt bei Eisshow",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/holiday-on-ice-michael-schulte-singt-bei-eisshow-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/holiday-on-ice-michael-schulte-singt-bei-eisshow",
-      "published": "Tue, 29 Sep 2026 08:03:13 -0000",
-      "published_display": "29.09.2026 · 08:03 Uhr"
     }
   ]
 }
