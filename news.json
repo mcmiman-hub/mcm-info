@@ -1,7 +1,79 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-29T10:35:30.413083+00:00",
+  "updated": "2026-09-29T10:50:02.655659+00:00",
   "items": [
+    {
+      "title": "Feuer auf Bauernhof: Millionenschaden nach Großbrand",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/millionenschaden-nach-grossbrand-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/millionenschaden-nach-grossbrand",
+      "published": "Tue, 29 Sep 2026 10:48:07 -0000",
+      "published_display": "29.09.2026 · 10:48 Uhr"
+    },
+    {
+      "title": "Toter Wolfsrüde: Toter Wolf am Schluchsee – war es ein sesshaftes Tier?",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/toter-wolf-am-schluchsee-war-es-ein-sesshaftes-tier-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/toter-wolf-am-schluchsee-war-es-ein-sesshaftes-tier",
+      "published": "Tue, 29 Sep 2026 10:46:58 -0000",
+      "published_display": "29.09.2026 · 10:46 Uhr"
+    },
+    {
+      "title": "Wetter: September war warm, sonnig und sehr trocken",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/september-war-warm-sonnig-und-sehr-trocken-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/september-war-warm-sonnig-und-sehr-trocken",
+      "published": "Tue, 29 Sep 2026 10:46:00 -0000",
+      "published_display": "29.09.2026 · 10:46 Uhr"
+    },
+    {
+      "title": "Sachsen-Anhalt: Jurist wegen rechtsextremer Vergangenheit für Referendariat gesperrt",
+      "summary": "Wegen Zweifeln an der Verfassungstreue darf ein Jurist vom Referendariat ausgeschlossen werden. In der Vergangenheit soll er rechtsextremen Gruppen nahegestanden haben.",
+      "image": "https://img.zeit.de/gesellschaft/2026-09/referendariat-sachsen-anhalt-verfassungstreue-rechtsextremismus-junge-alternative-bundeswehr-foto-1/original__640x360",
+      "link": "https://www.zeit.de/gesellschaft/2026-09/referendariat-sachsen-anhalt-verfassungstreue-rechtsextremismus-junge-alternative-bundeswehr",
+      "published": "Tue, 29 Sep 2026 10:41:59 -0000",
+      "published_display": "29.09.2026 · 10:41 Uhr"
+    },
+    {
+      "title": "Handball: Tagesform entscheidet: SCM will gegen Kiel Bock umstoßen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/tagesform-entscheidet-scm-will-gegen-kiel-bock-umstossen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/tagesform-entscheidet-scm-will-gegen-kiel-bock-umstossen",
+      "published": "Tue, 29 Sep 2026 10:41:32 -0000",
+      "published_display": "29.09.2026 · 10:41 Uhr"
+    },
+    {
+      "title": "Kriminalität: Durchsuchungen nach bewaffneten Angriffen in Dresden",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/durchsuchungen-nach-bewaffneten-angriffen-in-dresden-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/durchsuchungen-nach-bewaffneten-angriffen-in-dresden",
+      "published": "Tue, 29 Sep 2026 10:41:06 -0000",
+      "published_display": "29.09.2026 · 10:41 Uhr"
+    },
+    {
+      "title": "Cyberkriminalität: Hackerangriff auf LMU: Rund 600.000 Datensätze betroffen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/hackerangriff-auf-lmu-rund-600-000-datensaetze-betroffen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/hackerangriff-auf-lmu-rund-600-000-datensaetze-betroffen",
+      "published": "Tue, 29 Sep 2026 10:38:59 -0000",
+      "published_display": "29.09.2026 · 10:38 Uhr"
+    },
+    {
+      "title": "Kriminalität: Nach Raubüberfall mit 190 km/h vor Polizei geflohen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/nach-raubueberfall-mit-190-km-h-vor-polizei-geflohen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/nach-raubueberfall-mit-190-km-h-vor-polizei-geflohen",
+      "published": "Tue, 29 Sep 2026 10:38:33 -0000",
+      "published_display": "29.09.2026 · 10:38 Uhr"
+    },
+    {
+      "title": "Bau von Regionalflugzeugen: Neues Werk für Regionalflugzeuge am Flughafen Leipzig/Halle",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/neues-werk-fuer-regionalflugzeuge-am-flughafen-leipzig-halle-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/neues-werk-fuer-regionalflugzeuge-am-flughafen-leipzig-halle",
+      "published": "Tue, 29 Sep 2026 10:36:26 -0000",
+      "published_display": "29.09.2026 · 10:36 Uhr"
+    },
     {
       "title": "Prozess um Tod bei der Jagd: Staatsanwalt fordert Bewährungsstrafe nach Tod von Jäger",
       "summary": "",
@@ -49,78 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/29/eine-tote-nach-attacke-an-schule-in-der-slowakei",
       "published": "Tue, 29 Sep 2026 10:25:29 -0000",
       "published_display": "29.09.2026 · 10:25 Uhr"
-    },
-    {
-      "title": "Tiere: Hai verirrt sich in südkoreanischer Küstenstadt Busan",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/hai-verirrt-sich-in-suedkoreanischer-kuestenstadt-busan-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/hai-verirrt-sich-in-suedkoreanischer-kuestenstadt-busan",
-      "published": "Tue, 29 Sep 2026 10:24:49 -0000",
-      "published_display": "29.09.2026 · 10:24 Uhr"
-    },
-    {
-      "title": "Ukraine-Krieg: Selenskyj: Haben ballistische Raketen abgewehrt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/selenskyj-haben-ballistische-raketen-abgewehrt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/selenskyj-haben-ballistische-raketen-abgewehrt",
-      "published": "Tue, 29 Sep 2026 10:24:18 -0000",
-      "published_display": "29.09.2026 · 10:24 Uhr"
-    },
-    {
-      "title": "Schifffahrt: Fähre stößt gegen Tankschiff - Neckar gesperrt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/faehre-stoesst-gegen-tankschiff-neckar-gesperrt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/faehre-stoesst-gegen-tankschiff-neckar-gesperrt",
-      "published": "Tue, 29 Sep 2026 10:16:32 -0000",
-      "published_display": "29.09.2026 · 10:16 Uhr"
-    },
-    {
-      "title": "Ermittlungen: Brennende Bundeswehr-Lkw: Polizei prüft Brandstiftung",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/brennende-bundeswehr-lkw-polizei-prueft-brandstiftung-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/brennende-bundeswehr-lkw-polizei-prueft-brandstiftung",
-      "published": "Tue, 29 Sep 2026 10:15:57 -0000",
-      "published_display": "29.09.2026 · 10:15 Uhr"
-    },
-    {
-      "title": "Krankheiten: Erkältung, Grippe und Co: Wie sieht es in Thüringen aus?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/erkaeltung-grippe-und-co-wie-sieht-es-in-thueringen-aus-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/erkaeltung-grippe-und-co-wie-sieht-es-in-thueringen-aus",
-      "published": "Tue, 29 Sep 2026 10:14:49 -0000",
-      "published_display": "29.09.2026 · 10:14 Uhr"
-    },
-    {
-      "title": "Fotografie: Bilder des Tages",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/bilder-des-tages-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/bilder-des-tages",
-      "published": "Tue, 29 Sep 2026 10:13:44 -0000",
-      "published_display": "29.09.2026 · 10:13 Uhr"
-    },
-    {
-      "title": "Deutscher Schulpreis: 30.000 Euro für Schule - Jury lobt Praxisnähe",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/30-000-euro-fuer-schule-am-bodensee-jury-lobt-praxisnaehe-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/30-000-euro-fuer-schule-am-bodensee-jury-lobt-praxisnaehe",
-      "published": "Tue, 29 Sep 2026 10:13:12 -0000",
-      "published_display": "29.09.2026 · 10:13 Uhr"
-    },
-    {
-      "title": "Fehler bei Strafausspruch: Teilaufhebung von Urteil nach Gewalt bei Sex-Treffen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/teilaufhebung-von-urteil-nach-gewalt-bei-sex-treffen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/teilaufhebung-von-urteil-nach-gewalt-bei-sex-treffen",
-      "published": "Tue, 29 Sep 2026 10:11:55 -0000",
-      "published_display": "29.09.2026 · 10:11 Uhr"
-    },
-    {
-      "title": "Pflege: Mehr Diebstähle in Pflegeheimen - BSW fordert Schutz",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/mehr-diebstaehle-in-pflegeheimen-bsw-fordert-schutz-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/mehr-diebstaehle-in-pflegeheimen-bsw-fordert-schutz",
-      "published": "Tue, 29 Sep 2026 10:08:47 -0000",
-      "published_display": "29.09.2026 · 10:08 Uhr"
     }
   ]
 }
