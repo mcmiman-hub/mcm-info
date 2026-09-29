@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-29T03:48:31.935444+00:00",
+  "updated": "2026-09-29T03:58:49.267579+00:00",
   "items": [
+    {
+      "title": "Konflikte: Fast 50 Tote bei Luftangriff auf Markt in Myanmar",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/fast-50-tote-bei-luftangriff-auf-markt-in-myanmar-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/fast-50-tote-bei-luftangriff-auf-markt-in-myanmar",
+      "published": "Tue, 29 Sep 2026 03:55:24 -0000",
+      "published_display": "29.09.2026 · 03:55 Uhr"
+    },
+    {
+      "title": "Brände: Explosion bei Unfall mit Gasflaschen: Mann schwer verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/explosion-bei-unfall-mit-gasflaschen-mann-schwer-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/explosion-bei-unfall-mit-gasflaschen-mann-schwer-verletzt",
+      "published": "Tue, 29 Sep 2026 03:51:29 -0000",
+      "published_display": "29.09.2026 · 03:51 Uhr"
+    },
     {
       "title": "Wohnungsnot in Madrid: Nach Zwangsräumung: Seniorin darf in Wohnung zurück",
       "summary": "",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/29/wie-es-den-fischottern-im-suedwesten-geht-und-was-ihnen-hilft",
       "published": "Tue, 29 Sep 2026 03:00:05 -0000",
       "published_display": "29.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Nato: USA loben Deutschland für höhere Verteidigungsausgaben",
-      "summary": "Das US-Verteidigungsministerium hat Deutschland als Nato-Musterland gewürdigt. Grund: Die Bundesrepublik dürfte Rüstungszusagen schneller erfüllen als geplant.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/verteidigungsausgaben-nato-5-prozent-deutschland-usa-boris-pistorius-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/verteidigungsausgaben-nato-elbridge-colby-5-prozent-deutschland-usa-lob",
-      "published": "Tue, 29 Sep 2026 02:53:31 -0000",
-      "published_display": "29.09.2026 · 02:53 Uhr"
-    },
-    {
-      "title": "Bildung: Schulen im Land bekommen Finanzsoftware für Klassengelder",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/schulen-im-land-bekommen-finanzsoftware-fuer-klassengelder-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/schulen-im-land-bekommen-finanzsoftware-fuer-klassengelder",
-      "published": "Tue, 29 Sep 2026 02:45:04 -0000",
-      "published_display": "29.09.2026 · 02:45 Uhr"
     }
   ]
 }
