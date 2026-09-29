@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-29T04:33:56.404946+00:00",
+  "updated": "2026-09-29T04:47:29.583349+00:00",
   "items": [
+    {
+      "title": "Wettervorhersage: Bis zu 29 Grad: Spätsommerliche Tage in Hessen erwartet",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/bis-zu-29-grad-spaetsommerliche-tage-in-hessen-erwartet-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/bis-zu-29-grad-spaetsommerliche-tage-in-hessen-erwartet",
+      "published": "Tue, 29 Sep 2026 04:42:03 -0000",
+      "published_display": "29.09.2026 · 04:42 Uhr"
+    },
     {
       "title": "Wetter: Mildes Herbstwetter im Norden erwartet",
       "summary": "",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/29/fast-50-tote-bei-luftangriff-auf-markt-in-myanmar",
       "published": "Tue, 29 Sep 2026 03:55:24 -0000",
       "published_display": "29.09.2026 · 03:55 Uhr"
-    },
-    {
-      "title": "Brände: Explosion bei Unfall mit Gasflaschen: Mann schwer verletzt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/explosion-bei-unfall-mit-gasflaschen-mann-schwer-verletzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/explosion-bei-unfall-mit-gasflaschen-mann-schwer-verletzt",
-      "published": "Tue, 29 Sep 2026 03:51:29 -0000",
-      "published_display": "29.09.2026 · 03:51 Uhr"
     }
   ]
 }
