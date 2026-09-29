@@ -1,7 +1,39 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-29T06:51:32.922165+00:00",
+  "updated": "2026-09-29T07:03:15.285336+00:00",
   "items": [
+    {
+      "title": "USA: Donald Trump bestreitet Waffenangebot an China",
+      "summary": "Der US-Präsident hat laut einem Diplomaten Chinas Staatspräsidenten Xi Jinping US-Waffen angeboten. Trump sagt, er habe davon »noch nie gehört«. Gemeint sei wohl Taiwan.",
+      "image": "https://img.zeit.de/politik/2026-09/donald-trump-xi-jinping-waffen-china-taiwan-david-perdue-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/donald-trump-xi-jinping-waffen-china-taiwan-david-perdue",
+      "published": "Tue, 29 Sep 2026 07:01:58 -0000",
+      "published_display": "29.09.2026 · 07:01 Uhr"
+    },
+    {
+      "title": "Gewaltkriminalität: Mann wird vor Polizeiwache angeschossen - Tat im Clan-Umfeld",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/mann-wird-vor-polizeiwache-angeschossen-tat-im-clan-umfeld-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/mann-wird-vor-polizeiwache-angeschossen-tat-im-clan-umfeld",
+      "published": "Tue, 29 Sep 2026 06:59:11 -0000",
+      "published_display": "29.09.2026 · 06:59 Uhr"
+    },
+    {
+      "title": "Unwetter: Hurrikan «Polo» trifft in Mexiko auf Land",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/hurrikan-polo-trifft-in-mexiko-auf-land-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/hurrikan-polo-trifft-in-mexiko-auf-land",
+      "published": "Tue, 29 Sep 2026 06:55:39 -0000",
+      "published_display": "29.09.2026 · 06:55 Uhr"
+    },
+    {
+      "title": "Hornbach: Heißer Sommer führt zu Umsatzsteigerung bei Hornbach",
+      "summary": "Das erste Halbjahr endete für den Baumarkt-Konzern Hornbach mit einem Plus. Der heiße Sommer führte zu hoher Nachfrage nach Klimaanlagen und Bewässerungsanlagen.",
+      "image": "https://img.zeit.de/wirtschaft/2026-09/hornbach-umsatz-gewinne-expansion-hellweg-foto-1/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/2026-09/hornbach-umsatz-gewinne-expansion-hellweg",
+      "published": "Tue, 29 Sep 2026 06:55:15 -0000",
+      "published_display": "29.09.2026 · 06:55 Uhr"
+    },
     {
       "title": "Verkehr: Lkw-Brand auf A14: Vollsperrung Richtung Süden",
       "summary": "",
@@ -43,14 +75,6 @@
       "published_display": "29.09.2026 · 06:29 Uhr"
     },
     {
-      "title": "Hornbach: Heißer Sommer führt zu Umsatzsteigerung bei Hornbach",
-      "summary": "Das erste Halbjahr endete für den Baumarkt-Konzern Hornbach mit einem Plus. Der heiße Sommer führte zu hoher Nachfrage nach Klimaanlagen und Bewässerungsanlagen.",
-      "image": "https://img.zeit.de/wirtschaft/2026-09/hornbach-umsatz-gewinne-expansion-hellweg-foto-1/original__640x360",
-      "link": "https://www.zeit.de/wirtschaft/2026-09/hornbach-umsatz-gewinne-expansion-hellweg",
-      "published": "Tue, 29 Sep 2026 06:29:08 -0000",
-      "published_display": "29.09.2026 · 06:29 Uhr"
-    },
-    {
       "title": "Joana Mallwitz: »Banane ist nicht zu schlagen. Der perfekteste Snack, den es gibt«",
       "summary": "Die Dirigentin Joana Mallwitz verrät, was sie gerne früher im Leben gewusst hätte. Zum Beispiel, wovon man sich nicht abhängig machen sollte.",
       "image": "https://img.zeit.de/zeit-magazin/2026/41/banane-ist-nicht-zu-schlagen-der-perfekteste-snack-den-es-gibt-bild-1/original__640x360",
@@ -62,7 +86,7 @@
       "title": "Bürgerkrieg in Myanmar: Zahlreiche Tote bei Luftangriff durch Militär in Myanmar",
       "summary": "Das Militär greift in Myanmar eine seit dem Bürgerkrieg abgeschnittene Region an. Zeugen berichten von etwa 50 Toten und vielen Verletzten nach dem Abwurf von Bomben.",
       "image": "https://img.zeit.de/politik/ausland/2026-09/myanmar-luftangriff-kyauktaw-arakan-army-rakhine-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/myanmar-luftangriff-kyauktaw-arakan-army-rakhine",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/myanmar-luftangriff-kyauktaw-arakan-army-rakhine-gxe",
       "published": "Tue, 29 Sep 2026 06:28:12 -0000",
       "published_display": "29.09.2026 · 06:28 Uhr"
     },
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/politik/deutschland/2026-09/vermoegensteuer-plaene-die-gruenen-bundeshaushalt-steuerpolitik",
       "published": "Tue, 29 Sep 2026 06:13:43 -0000",
       "published_display": "29.09.2026 · 06:13 Uhr"
-    },
-    {
-      "title": "Pflegereform: Pflegerat fordert umfassende Überarbeitung der Reform",
-      "summary": "Vor dem Beschluss über die Pflegereform warnt der Deutsche Pflegerat vor höheren Hürden für Pflegebedürftige. Die SPD fordert eine Neuordnung anstatt reiner Kürzungen.",
-      "image": "https://img.zeit.de/politik/2026-09/pflegereform-deutscher-pflegerat-carsten-linnemann-spd-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/pflegereform-deutscher-pflegerat-carsten-linnemann-spd",
-      "published": "Tue, 29 Sep 2026 06:13:22 -0000",
-      "published_display": "29.09.2026 · 06:13 Uhr"
-    },
-    {
-      "title": "Pflegestreit: Laumann: «Wünsche der SPD kosten sehr viel Geld»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/pflegerat-fordert-umfassende-ueberarbeitung-der-reform-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/pflegerat-fordert-umfassende-ueberarbeitung-der-reform",
-      "published": "Tue, 29 Sep 2026 06:12:30 -0000",
-      "published_display": "29.09.2026 · 06:12 Uhr"
-    },
-    {
-      "title": "Pflegestreit: Laumann: «Wünsche der SPD kosten sehr viel Geld»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/laumann-wuensche-der-spd-kosten-sehr-viel-geld-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/laumann-wuensche-der-spd-kosten-sehr-viel-geld",
-      "published": "Tue, 29 Sep 2026 06:12:18 -0000",
-      "published_display": "29.09.2026 · 06:12 Uhr"
     }
   ]
 }
