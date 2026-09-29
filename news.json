@@ -1,7 +1,39 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-29T21:56:15.832456+00:00",
+  "updated": "2026-09-29T22:18:00.553034+00:00",
   "items": [
+    {
+      "title": "Bildungspolitik: Prien droht AfD mit Klagen und Rückforderung von Bundesgeld",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/30/prien-droht-afd-mit-klagen-und-rueckforderung-von-bundesgeld-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/30/prien-droht-afd-mit-klagen-und-rueckforderung-von-bundesgeld",
+      "published": "Tue, 29 Sep 2026 22:15:06 -0000",
+      "published_display": "29.09.2026 · 22:15 Uhr"
+    },
+    {
+      "title": "Pflege-Streit: Langes Ringen um geplante Pflegereform",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/30/langes-ringen-um-geplante-pflegereform-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/30/langes-ringen-um-geplante-pflegereform",
+      "published": "Tue, 29 Sep 2026 22:15:05 -0000",
+      "published_display": "29.09.2026 · 22:15 Uhr"
+    },
+    {
+      "title": "Unfall in der Stadt: Frau unter Straßenbahn eingeklemmt und schwer verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/frau-unter-strassenbahn-eingeklemmt-und-schwer-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/frau-unter-strassenbahn-eingeklemmt-und-schwer-verletzt",
+      "published": "Tue, 29 Sep 2026 22:07:10 -0000",
+      "published_display": "29.09.2026 · 22:07 Uhr"
+    },
+    {
+      "title": "Kalenderblatt: Was geschah am 30. September?",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/was-geschah-am-30-september-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/was-geschah-am-30-september",
+      "published": "Tue, 29 Sep 2026 21:55:04 -0000",
+      "published_display": "29.09.2026 · 21:55 Uhr"
+    },
     {
       "title": "Berlin: Zwei Männer durch Schüsse verletzt - Täter flüchtig",
       "summary": "",
@@ -89,38 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/29/auto-stoesst-mit-lkw-zusammen-fahrerin-stirbt",
       "published": "Tue, 29 Sep 2026 19:45:30 -0000",
       "published_display": "29.09.2026 · 19:45 Uhr"
-    },
-    {
-      "title": "Unwetter: Hurrikan «Polo» trifft in Mexiko zweimal auf Land",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/hurrikan-polo-trifft-in-mexiko-auf-land-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/hurrikan-polo-trifft-in-mexiko-auf-land",
-      "published": "Tue, 29 Sep 2026 19:37:32 -0000",
-      "published_display": "29.09.2026 · 19:37 Uhr"
-    },
-    {
-      "title": "Unfall in der Stadt: Frau unter Straßenbahn eingeklemmt und schwer verletzt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/frau-unter-strassenbahn-eingeklemmt-und-schwer-verletzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/frau-unter-strassenbahn-eingeklemmt-und-schwer-verletzt",
-      "published": "Tue, 29 Sep 2026 19:28:49 -0000",
-      "published_display": "29.09.2026 · 19:28 Uhr"
-    },
-    {
-      "title": "Eurocup: Seawolves-Premiere endet mit klarer Niederlage",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/seawolves-premiere-endet-mit-klarer-niederlage-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/seawolves-premiere-endet-mit-klarer-niederlage",
-      "published": "Tue, 29 Sep 2026 19:27:13 -0000",
-      "published_display": "29.09.2026 · 19:27 Uhr"
-    },
-    {
-      "title": "Basketball-Eurocup: Niners Chemnitz verlieren Auftaktspiel in Bursa",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/niners-chemnitz-verlieren-auftaktspiel-in-bursa-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/niners-chemnitz-verlieren-auftaktspiel-in-bursa",
-      "published": "Tue, 29 Sep 2026 19:22:52 -0000",
-      "published_display": "29.09.2026 · 19:22 Uhr"
     }
   ]
 }
