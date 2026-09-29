@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-29T21:32:05.508935+00:00",
+  "updated": "2026-09-29T21:45:06.901874+00:00",
   "items": [
+    {
+      "title": "Berlin: Zwei Männer durch Schüsse verletzt - Täter flüchtig",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/zwei-maenner-durch-schuesse-verletzt-taeter-fluechtig-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/zwei-maenner-durch-schuesse-verletzt-taeter-fluechtig",
+      "published": "Tue, 29 Sep 2026 21:40:28 -0000",
+      "published_display": "29.09.2026 · 21:40 Uhr"
+    },
+    {
+      "title": "US-Migrationspolitik: US-Regierung darf Migranten vorerst wieder in Drittstaaten abschieben",
+      "summary": "Der Oberste Gerichtshof setzte erlaubt der Regierung von Donald Trump, Menschen in Drittstaaten abzuschieben. Ein Urteil aus unterer Instanz wurde vorerst ausgesetzt.",
+      "image": "https://img.zeit.de/politik/2026-09/president-trump-makes-an-announcement-from-the-oval-office-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/oberster-gerichtshof-usa-abschiebung-migranten-drittstaaten",
+      "published": "Tue, 29 Sep 2026 21:37:51 -0000",
+      "published_display": "29.09.2026 · 21:37 Uhr"
+    },
     {
       "title": "Künstliche Intelligenz : KI-Konzerne vereinbaren laut Trump Abkommen zur Selbstkontrolle",
       "summary": "Nach einem Treffen mit der KI-Branche verkündet Donald Trump eine Einigung der Unternehmen. Sie werden sich künftig »selbst regulieren«, sagt der US-Präsident.",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/29/niners-chemnitz-verlieren-auftaktspiel-in-bursa",
       "published": "Tue, 29 Sep 2026 19:22:52 -0000",
       "published_display": "29.09.2026 · 19:22 Uhr"
-    },
-    {
-      "title": "CDU-Landesparteitag: Hoppermann will «Land nicht den Extremen überlassen»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/thering-cdu-muss-fuehrungsrolle-selbstbewusst-wahrnehmen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/thering-cdu-muss-fuehrungsrolle-selbstbewusst-wahrnehmen",
-      "published": "Tue, 29 Sep 2026 19:22:24 -0000",
-      "published_display": "29.09.2026 · 19:22 Uhr"
-    },
-    {
-      "title": "Künstliche Intelligenz: OpenAI streicht neues Modell - und setzt auf KI-Agenten",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/openai-streicht-veroeffentlichung-von-neuem-ki-modell-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/openai-streicht-veroeffentlichung-von-neuem-ki-modell",
-      "published": "Tue, 29 Sep 2026 19:15:49 -0000",
-      "published_display": "29.09.2026 · 19:15 Uhr"
     }
   ]
 }
