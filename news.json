@@ -1,7 +1,103 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-29T13:49:14.354498+00:00",
+  "updated": "2026-09-29T14:01:03.514618+00:00",
   "items": [
+    {
+      "title": "Europäischer Gerichtshof: EuGH lehnt Antrag auf Aussetzung des Mercosur-Abkommens ab",
+      "summary": "Das Handelsabkommmen zwischen der EU und den Mercosur-Staaten kann vorläufig in Kraft treten. Bedenken Polens wies der Europäische Gerichtshof zurück.",
+      "image": "https://img.zeit.de/wirtschaft/2026-09/eugh-mercosur-abkommen-polen-brazilien-argentinien-foto-1/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/2026-09/eugh-mercosur-abkommen-polen-brazilien-argentinien",
+      "published": "Tue, 29 Sep 2026 14:00:03 -0000",
+      "published_display": "29.09.2026 · 14:00 Uhr"
+    },
+    {
+      "title": "Folgen des Ukraine-Kriegs: Internationale Razzia wegen Autolieferungen nach Russland",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/internationale-razzia-wegen-autolieferungen-nach-russland-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/internationale-razzia-wegen-autolieferungen-nach-russland",
+      "published": "Tue, 29 Sep 2026 13:59:13 -0000",
+      "published_display": "29.09.2026 · 13:59 Uhr"
+    },
+    {
+      "title": "Waldbrand: Waldbrand bei Plauen - 50 Feuerwehrleute im Einsatz",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/waldbrand-bei-plauen-50-feuerwehrleute-im-einsatz-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/waldbrand-bei-plauen-50-feuerwehrleute-im-einsatz",
+      "published": "Tue, 29 Sep 2026 13:58:33 -0000",
+      "published_display": "29.09.2026 · 13:58 Uhr"
+    },
+    {
+      "title": "Islamischer Staat: Anklage gegen vier mutmaßliche IS-Kämpfer erhoben",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/anklage-gegen-vier-mutmassliche-is-kaempfer-erhoben-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/anklage-gegen-vier-mutmassliche-is-kaempfer-erhoben",
+      "published": "Tue, 29 Sep 2026 13:55:49 -0000",
+      "published_display": "29.09.2026 · 13:55 Uhr"
+    },
+    {
+      "title": "Skurriler Fund: Totes Krokodil? Alligatorenhaut sorgt für Rätsel in Bremen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/totes-krokodil-alligatorenhaut-sorgt-fuer-raetsel-in-bremen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/totes-krokodil-alligatorenhaut-sorgt-fuer-raetsel-in-bremen",
+      "published": "Tue, 29 Sep 2026 13:55:14 -0000",
+      "published_display": "29.09.2026 · 13:55 Uhr"
+    },
+    {
+      "title": "Verteidigung: Hunderte Soldaten für Übungen in Stendal",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/hunderte-soldaten-fuer-uebungen-in-stendal-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/hunderte-soldaten-fuer-uebungen-in-stendal",
+      "published": "Tue, 29 Sep 2026 13:54:53 -0000",
+      "published_display": "29.09.2026 · 13:54 Uhr"
+    },
+    {
+      "title": "Verteidigung: Nordkap bis Schwarzes Meer - Nato-Übung mit Ukraine-Infos",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/nordkap-bis-schwarzes-meer-nato-uebung-mit-ukraine-infos-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/nordkap-bis-schwarzes-meer-nato-uebung-mit-ukraine-infos",
+      "published": "Tue, 29 Sep 2026 13:53:33 -0000",
+      "published_display": "29.09.2026 · 13:53 Uhr"
+    },
+    {
+      "title": "Nach Oktoberfest-Besuch: Vorwurf der Vergewaltigung nach Wiesn-Besuch",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/bei-zaertlichkeiten-mit-bekanntschaft-dritter-belaestigt-frau-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/28/bei-zaertlichkeiten-mit-bekanntschaft-dritter-belaestigt-frau",
+      "published": "Tue, 29 Sep 2026 13:52:34 -0000",
+      "published_display": "29.09.2026 · 13:52 Uhr"
+    },
+    {
+      "title": "Schifffahrt: Bau der zweiten elektrischen Hadag-Fähre hat begonnen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/bau-der-zweiten-elektrischen-hadag-faehre-hat-begonnen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/bau-der-zweiten-elektrischen-hadag-faehre-hat-begonnen",
+      "published": "Tue, 29 Sep 2026 13:52:14 -0000",
+      "published_display": "29.09.2026 · 13:52 Uhr"
+    },
+    {
+      "title": "Airport München: Beinahe-Flugunfall: Beim Start gebremst - Ursache unklar",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/bericht-zum-beinahe-flugunfall-bremsen-beim-start-betaetigt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/bericht-zum-beinahe-flugunfall-bremsen-beim-start-betaetigt",
+      "published": "Tue, 29 Sep 2026 13:50:22 -0000",
+      "published_display": "29.09.2026 · 13:50 Uhr"
+    },
+    {
+      "title": "Kriminalität auf der Wiesn: Sexualdelikt auf dem Oktoberfest: 31-Jähriger in Haft",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/sexualdelikt-auf-dem-oktoberfest-31-jaehriger-in-haft-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/sexualdelikt-auf-dem-oktoberfest-31-jaehriger-in-haft",
+      "published": "Tue, 29 Sep 2026 13:50:21 -0000",
+      "published_display": "29.09.2026 · 13:50 Uhr"
+    },
+    {
+      "title": "Rekordsumme: Bremerhaven wird Nato-Drehscheibe - Milliardensumme fließt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/bremerhaven-wird-nato-drehscheibe-milliardensumme-fliesst-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/bremerhaven-wird-nato-drehscheibe-milliardensumme-fliesst",
+      "published": "Tue, 29 Sep 2026 13:48:02 -0000",
+      "published_display": "29.09.2026 · 13:48 Uhr"
+    },
     {
       "title": "Sachsen-Anhalt: Ulrich Siegmund stellt sich im Dezember als Ministerpräsident zur Wahl",
       "summary": "Der AfD-Politiker Ulrich Siegmund will sich zu Sachsen-Anhalts nächstem Regierungschef wählen lassen. Dabei ist er auf Stimmen einer anderen Fraktion angewiesen.",
@@ -25,102 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/29/erste-hinrichtung-von-frau-in-tennessee-seit-1819-geplant",
       "published": "Tue, 29 Sep 2026 13:46:02 -0000",
       "published_display": "29.09.2026 · 13:46 Uhr"
-    },
-    {
-      "title": "Familienmitglieder angeklagt: Jahrelange Folter in Salzgitter? – Prozess startet",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/jahrelange-folter-in-salzgitter-prozess-startet-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/jahrelange-folter-in-salzgitter-prozess-startet",
-      "published": "Tue, 29 Sep 2026 13:46:00 -0000",
-      "published_display": "29.09.2026 · 13:46 Uhr"
-    },
-    {
-      "title": "Unfall: Betrunkener fährt gegen Schulcontainer - mehrere Verletzte",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/betrunkener-faehrt-gegen-schulcontainer-sechs-verletzte-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/betrunkener-faehrt-gegen-schulcontainer-sechs-verletzte",
-      "published": "Tue, 29 Sep 2026 13:45:29 -0000",
-      "published_display": "29.09.2026 · 13:45 Uhr"
-    },
-    {
-      "title": "Fotografie: Bilder des Tages",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/bilder-des-tages-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/bilder-des-tages",
-      "published": "Tue, 29 Sep 2026 13:44:35 -0000",
-      "published_display": "29.09.2026 · 13:44 Uhr"
-    },
-    {
-      "title": "Verordnung: An MV-Küste nur noch ein Hecht pro Tag und Angler erlaubt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/an-mv-kueste-nur-noch-ein-hecht-pro-tag-und-angler-erlaubt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/an-mv-kueste-nur-noch-ein-hecht-pro-tag-und-angler-erlaubt",
-      "published": "Tue, 29 Sep 2026 13:44:25 -0000",
-      "published_display": "29.09.2026 · 13:44 Uhr"
-    },
-    {
-      "title": "Streit über Pflegereform: CDU: Umgangsstil der Bundesregierung noch nicht besser",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/cdu-umgangsstil-der-bundesregierung-noch-nicht-besser-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/cdu-umgangsstil-der-bundesregierung-noch-nicht-besser",
-      "published": "Tue, 29 Sep 2026 13:42:54 -0000",
-      "published_display": "29.09.2026 · 13:42 Uhr"
-    },
-    {
-      "title": "Tiere: Lama auf Abwegen im Erzgebirge - Suche läuft",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/lama-auf-abwegen-im-erzgebirge-suche-laeuft-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/lama-auf-abwegen-im-erzgebirge-suche-laeuft",
-      "published": "Tue, 29 Sep 2026 13:42:00 -0000",
-      "published_display": "29.09.2026 · 13:42 Uhr"
-    },
-    {
-      "title": "Der Block-Prozess: Viereinhalb Stunden sagt sie aus. Aber warum so viel Privates? (2/8)",
-      "summary": "Das Landgericht Hamburg wird zur Bühne für das Drama der Familie Block. Die Angeklagte Christina Block macht etwas Ungewöhnliches: Sie spricht ausführlich über ihre Ehe.",
-      "image": "https://img.zeit.de/gesellschaft/2026-09/block-prozess-landgericht-hamburg-house-of-block-podcast-bild/original__640x360",
-      "link": "https://www.zeit.de/gesellschaft/2026-09/block-prozess-landgericht-hamburg-house-of-block-podcast",
-      "published": "Tue, 29 Sep 2026 13:41:23 -0000",
-      "published_display": "29.09.2026 · 13:41 Uhr"
-    },
-    {
-      "title": "Sorgerechtsstreit: Privatdetektive und Kontakte mit Einfluss (3/8)",
-      "summary": "Mittlerweile leben drei der vier Kinder beim Vater in Dänemark. Die zwei jüngsten will Christina Block zurückbekommen, sie klagt dagegen und sucht nach Alternativen.",
-      "image": "https://img.zeit.de/gesellschaft/2026-09/sorgerechtsstreit-block-familie-prozess-house-of-block-podcast-bild-2/original__640x360",
-      "link": "https://www.zeit.de/gesellschaft/2026-09/sorgerechtsstreit-block-familie-prozess-house-of-block-podcast",
-      "published": "Tue, 29 Sep 2026 13:41:07 -0000",
-      "published_display": "29.09.2026 · 13:41 Uhr"
-    },
-    {
-      "title": "Der Fall Block: »Ich höre meinen Vater schreien. Kurz danach meinen Bruder« (1/8)",
-      "summary": "Hat Christina Block ihre Kinder entführen lassen? Sie bestreitet das. Hier erzählt Tochter Klara selbst von der Tat. Und: Wie konnte ein Sorgerechtsstreit so eskalieren?",
-      "image": "https://img.zeit.de/gesellschaft/2026-09/fall-block-entfuehrung-sorgerechtsstreit-house-of-block-podcast-bild/original__640x360",
-      "link": "https://www.zeit.de/gesellschaft/2026-09/fall-block-entfuehrung-sorgerechtsstreit-house-of-block-podcast",
-      "published": "Tue, 29 Sep 2026 13:40:33 -0000",
-      "published_display": "29.09.2026 · 13:40 Uhr"
-    },
-    {
-      "title": "Industrie: Schott-Chef geht - Nachfolger kommt von Autozulieferer",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/schott-chef-geht-nachfolger-kommt-von-autozulieferer-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/schott-chef-geht-nachfolger-kommt-von-autozulieferer",
-      "published": "Tue, 29 Sep 2026 13:39:47 -0000",
-      "published_display": "29.09.2026 · 13:39 Uhr"
-    },
-    {
-      "title": "Suche nach neuer Zentrale: AfD-Zentrale wird geräumt - Mitarbeiter im Homeoffice",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/afd-zentrale-wird-geraeumt-mitarbeiter-im-homeoffice-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/afd-zentrale-wird-geraeumt-mitarbeiter-im-homeoffice",
-      "published": "Tue, 29 Sep 2026 13:39:33 -0000",
-      "published_display": "29.09.2026 · 13:39 Uhr"
-    },
-    {
-      "title": "Betrug um Krebsmedikamente: Krebsarzt wegen Betrugs zu viereinhalb Jahren verurteilt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/krebsarzt-wegen-betrugs-zu-viereinhalb-jahren-verurteilt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/krebsarzt-wegen-betrugs-zu-viereinhalb-jahren-verurteilt",
-      "published": "Tue, 29 Sep 2026 13:35:07 -0000",
-      "published_display": "29.09.2026 · 13:35 Uhr"
     }
   ]
 }
