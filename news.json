@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-29T22:55:41.238281+00:00",
+  "updated": "2026-09-29T23:16:45.440753+00:00",
   "items": [
+    {
+      "title": "Bubsheim: Jugendlicher stürzt mit Motorrad und stirbt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/30/jugendlicher-stuerzt-mit-motorrad-und-stirbt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/30/jugendlicher-stuerzt-mit-motorrad-und-stirbt",
+      "published": "Tue, 29 Sep 2026 23:03:00 -0000",
+      "published_display": "29.09.2026 · 23:03 Uhr"
+    },
+    {
+      "title": "Bundesbildungsministerin: Prien warnt mögliche AfD-Regierung in Sachsen-Anhalt bezüglich Schulen",
+      "summary": "Karin Prien droht der AfD in Sachsen-Anhalt mit Klagen bei drastischen Änderungen in der Bildungspolitik. Auch für Schulabschlüsse könnte es Konsequenzen geben.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/karin-prien-afd-sachsen-anhalt-cdu-regierung-bildung-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/karin-prien-afd-sachsen-anhalt-cdu-regierung-bildung",
+      "published": "Tue, 29 Sep 2026 22:58:52 -0000",
+      "published_display": "29.09.2026 · 22:58 Uhr"
+    },
     {
       "title": "Die Linke: Jan van Aken kritisiert Debatte um Antisemitismus in der Linkspartei",
       "summary": "Antisemiten müssten die Partei verlassen, sagt der frühere Parteivorsitzende. Er wirft CDU und Immobilienlobby vor, die Debatte zu instrumentalisieren.",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/politik/deutschland/2026-09/heidi-reichinnek-die-linke-fraktionsvorsitzende-bundestag",
       "published": "Tue, 29 Sep 2026 20:55:18 -0000",
       "published_display": "29.09.2026 · 20:55 Uhr"
-    },
-    {
-      "title": "Künstliche Intelligenz: Trump: KI-Firmen sollen sich selbst beaufsichtigen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/trump-ki-firmen-sollen-sich-selbst-beaufsichtigen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/trump-ki-firmen-sollen-sich-selbst-beaufsichtigen",
-      "published": "Tue, 29 Sep 2026 20:50:24 -0000",
-      "published_display": "29.09.2026 · 20:50 Uhr"
-    },
-    {
-      "title": "Nations League: Tuchel siegt souverän mit England - Yamal erzielt Doppelpack",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/tuchel-siegt-souveraen-mit-england-yamal-erzielt-doppelpack-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/tuchel-siegt-souveraen-mit-england-yamal-erzielt-doppelpack",
-      "published": "Tue, 29 Sep 2026 20:43:03 -0000",
-      "published_display": "29.09.2026 · 20:43 Uhr"
     }
   ]
 }
