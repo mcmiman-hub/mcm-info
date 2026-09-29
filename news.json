@@ -1,7 +1,71 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-29T11:18:35.402761+00:00",
+  "updated": "2026-09-29T11:32:23.066252+00:00",
   "items": [
+    {
+      "title": "KI und Klimaschutz: Warum dieser langjährige Klimaschützer jetzt auf KI setzt",
+      "summary": "KI verschlingt Energie, verschärft Ungleichheit – aber kann das Klima retten? Klimastratege Bernhard Lorentz sieht in grüner KI eine historische Chance.",
+      "image": "https://img.zeit.de/politik/2026-09/bundespressekonferenz-in-berlin-vorstllungen-des-berichts-parteien-im-klima-check-wie-viel-klimaneutralit-t-steckt-i-bild/original__640x360",
+      "link": "https://www.zeit.de/wissenschaft/2026-09/ki-klimaschutz-dekarbonisierung-krisenpodcast",
+      "published": "Tue, 29 Sep 2026 11:26:03 -0000",
+      "published_display": "29.09.2026 · 11:26 Uhr"
+    },
+    {
+      "title": "Parteien: Özdemir in «permanenten Gesprächen» zu AfD-Verbotsverfahren",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/oezdemir-in-permanenten-gespraechen-zu-afd-verbotsverfahren-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/oezdemir-in-permanenten-gespraechen-zu-afd-verbotsverfahren",
+      "published": "Tue, 29 Sep 2026 11:24:14 -0000",
+      "published_display": "29.09.2026 · 11:24 Uhr"
+    },
+    {
+      "title": "Tödlicher Unfall: Autofahrer prallt gegen Baum und stirbt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/autofahrer-prallt-gegen-baum-und-stirbt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/autofahrer-prallt-gegen-baum-und-stirbt",
+      "published": "Tue, 29 Sep 2026 11:23:10 -0000",
+      "published_display": "29.09.2026 · 11:23 Uhr"
+    },
+    {
+      "title": "Traditionsbrauerei: 1627 gegründet: Brauerei Wolters wird geschlossen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/1627-gegruendet-brauerei-wolters-wird-geschlossen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/1627-gegruendet-brauerei-wolters-wird-geschlossen",
+      "published": "Tue, 29 Sep 2026 11:23:08 -0000",
+      "published_display": "29.09.2026 · 11:23 Uhr"
+    },
+    {
+      "title": "Vergesellschaftung von Wohnungen: Vergesellschaftung könnte Wohnungsmangel laut Studie vergrößern",
+      "summary": "Eine Studie im Auftrag von Berliner Wirtschaftsverbänden warnt vor Vergesellschaftung. Mit der Entschädigungssumme könnten demnach Zehntausende Wohnungen gebaut werden.",
+      "image": "https://img.zeit.de/wirtschaft/2026-09/vergesellschaftung-wohnungen-berlin-kiel-institut-fuer-weltwirtschaft-foto-1/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/2026-09/vergesellschaftung-wohnungen-berlin-kiel-institut-fuer-weltwirtschaft",
+      "published": "Tue, 29 Sep 2026 11:22:30 -0000",
+      "published_display": "29.09.2026 · 11:22 Uhr"
+    },
+    {
+      "title": "Gesundheit: Training für Krisen – Kliniken im Land sollen Ernstfall üben",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/training-fuer-krisen-kliniken-im-land-sollen-ernstfall-ueben-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/training-fuer-krisen-kliniken-im-land-sollen-ernstfall-ueben",
+      "published": "Tue, 29 Sep 2026 11:19:53 -0000",
+      "published_display": "29.09.2026 · 11:19 Uhr"
+    },
+    {
+      "title": "Wetterbilanz: Saarland erlebt große Wärme und Trockenheit im September",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/saarland-erlebt-grosse-waerme-und-trockenheit-im-september-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/saarland-erlebt-grosse-waerme-und-trockenheit-im-september",
+      "published": "Tue, 29 Sep 2026 11:19:23 -0000",
+      "published_display": "29.09.2026 · 11:19 Uhr"
+    },
+    {
+      "title": "Nations League: Mutig und aggressiv: Jeltsch will Klopp von sich überzeugen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/mutig-und-aggressiv-jeltsch-will-klopp-von-sich-ueberzeugen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/mutig-und-aggressiv-jeltsch-will-klopp-von-sich-ueberzeugen",
+      "published": "Tue, 29 Sep 2026 11:16:37 -0000",
+      "published_display": "29.09.2026 · 11:16 Uhr"
+    },
     {
       "title": "Spannungen im Baltikum: Nato verurteilt russische Gewaltandrohung «aufs Schärfste»",
       "summary": "",
@@ -57,70 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/28/mann-wird-auf-bundesstrasse-von-auto-erfasst-und-stirbt",
       "published": "Tue, 29 Sep 2026 11:10:40 -0000",
       "published_display": "29.09.2026 · 11:10 Uhr"
-    },
-    {
-      "title": "Bundeswehr: Bundeswehr plant Kauf von neuen Transportflugzeugen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/bundeswehr-plant-kauf-von-neuen-transportflugzeugen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/bundeswehr-plant-kauf-von-neuen-transportflugzeugen",
-      "published": "Tue, 29 Sep 2026 11:09:49 -0000",
-      "published_display": "29.09.2026 · 11:09 Uhr"
-    },
-    {
-      "title": "Lernen in Deutschland: Bildungsstudie: Fortschritt im System - und einige Schwächen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/bildungssystem-oecd-sieht-fortschritte-in-deutschland-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/bildungssystem-oecd-sieht-fortschritte-in-deutschland",
-      "published": "Tue, 29 Sep 2026 11:09:46 -0000",
-      "published_display": "29.09.2026 · 11:09 Uhr"
-    },
-    {
-      "title": "Schifffahrt: Tankschiff stößt gegen Fähre - Neckar gesperrt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/faehre-stoesst-gegen-tankschiff-neckar-gesperrt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/faehre-stoesst-gegen-tankschiff-neckar-gesperrt",
-      "published": "Tue, 29 Sep 2026 11:09:22 -0000",
-      "published_display": "29.09.2026 · 11:09 Uhr"
-    },
-    {
-      "title": "Ungewöhnliches Wetter: Sonne satt und extrem wenig Regen in Rheinland-Pfalz",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/sonne-satt-und-extrem-wenig-regen-in-rheinland-pfalz-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/sonne-satt-und-extrem-wenig-regen-in-rheinland-pfalz",
-      "published": "Tue, 29 Sep 2026 11:08:40 -0000",
-      "published_display": "29.09.2026 · 11:08 Uhr"
-    },
-    {
-      "title": "Fußball-Nationalmannschaft: Spätberufener Neuling Janelt: «Ich mache die Drecksarbeit»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/spaetberufener-neuling-janelt-ich-mache-die-drecksarbeit-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/spaetberufener-neuling-janelt-ich-mache-die-drecksarbeit",
-      "published": "Tue, 29 Sep 2026 11:08:19 -0000",
-      "published_display": "29.09.2026 · 11:08 Uhr"
-    },
-    {
-      "title": "Betriebsvereinbarung gekündigt: Mercedes-Benz will Beschäftigte an vier Tagen im Büro sehen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/mercedes-benz-will-beschaeftigte-an-vier-tagen-im-buero-sehen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/mercedes-benz-will-beschaeftigte-an-vier-tagen-im-buero-sehen",
-      "published": "Tue, 29 Sep 2026 11:04:53 -0000",
-      "published_display": "29.09.2026 · 11:04 Uhr"
-    },
-    {
-      "title": "Kriminalität: Durchsuchungen nach bewaffneten Angriffen in Dresden",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/durchsuchungen-nach-bewaffneten-angriffen-in-dresden-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/durchsuchungen-nach-bewaffneten-angriffen-in-dresden",
-      "published": "Tue, 29 Sep 2026 11:04:32 -0000",
-      "published_display": "29.09.2026 · 11:04 Uhr"
-    },
-    {
-      "title": "Fluggeräte: Mehr meldepflichtige Drohnensichtungen in MV registriert",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/mehr-meldepflichtige-drohnensichtungen-in-mv-registriert-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/mehr-meldepflichtige-drohnensichtungen-in-mv-registriert",
-      "published": "Tue, 29 Sep 2026 11:02:10 -0000",
-      "published_display": "29.09.2026 · 11:02 Uhr"
     }
   ]
 }
