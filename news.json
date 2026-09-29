@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-29T02:16:46.312331+00:00",
+  "updated": "2026-09-29T02:29:26.544305+00:00",
   "items": [
+    {
+      "title": "Literaturnobelpreis: CDU-Kulturexperte schlägt Wolf Biermann für Nobelpreis vor",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/cdu-kulturexperte-schlaegt-wolf-biermann-fuer-nobelpreis-vor-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/cdu-kulturexperte-schlaegt-wolf-biermann-fuer-nobelpreis-vor",
+      "published": "Tue, 29 Sep 2026 02:18:04 -0000",
+      "published_display": "29.09.2026 · 02:18 Uhr"
+    },
     {
       "title": "Streit um Falklandinseln: Argentinien setzt Großbritannien Frist für Ende von Falkland-Ölprojekt",
       "summary": "Argentiniens Präsident Javier Milei fordert von Großbritannien, ein geplantes Ölprojekt nahe der Inselgruppe aufzugeben. Er droht mit dem Internationalen Seegerichtshof.",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/29/rueckbaukosten-leerer-parzellen-belasten-kleingartenvereine",
       "published": "Tue, 29 Sep 2026 02:00:05 -0000",
       "published_display": "29.09.2026 · 02:00 Uhr"
-    },
-    {
-      "title": "Krieg gegen die Ukraine: Russland bombardiert erneut Kyjiw",
-      "summary": "In der Nacht gab es neue Raketenangriffe auf die ukrainische Hauptstadt. Russland plant eine Truppenaufstockung. Das Liveblog",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/russland-kyjiw-angriffe-ukraine-krieg-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "published": "Tue, 29 Sep 2026 01:52:34 -0000",
-      "published_display": "29.09.2026 · 01:52 Uhr"
     }
   ]
 }
