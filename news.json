@@ -1,7 +1,87 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-29T02:56:54.935812+00:00",
+  "updated": "2026-09-29T03:18:56.791799+00:00",
   "items": [
+    {
+      "title": "Künstliche Intelligenz: OpenAI streicht Veröffentlichung von neuem KI-Modell",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/openai-streicht-veroeffentlichung-von-neuem-ki-modell-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/openai-streicht-veroeffentlichung-von-neuem-ki-modell",
+      "published": "Tue, 29 Sep 2026 03:12:39 -0000",
+      "published_display": "29.09.2026 · 03:12 Uhr"
+    },
+    {
+      "title": "Union und Gerechtigkeit: Was ist Gerechtigkeit? Wir haben jeden CDU-Abgeordneten gefragt",
+      "summary": "In Deutschland müsse es gerecht zugehen, sagte der Kanzler vorige Woche. Und überraschte damit seine Fraktion. Kann die etwas mit dem Begriff anfangen? Lesen Sie selbst.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/union-gerechtigkeit-abgeordnete-private-krankenversicherung-friedrich-merz-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/union-gerechtigkeit-abgeordnete-private-krankenversicherung-friedrich-merz",
+      "published": "Tue, 29 Sep 2026 03:11:47 -0000",
+      "published_display": "29.09.2026 · 03:11 Uhr"
+    },
+    {
+      "title": "Mehr als 40 Tage Ausfallzeit: Folgen des Niedrigwassers: Rheinfähre meldet Kurzarbeit an",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/folgen-des-niedrigwassers-rheinfaehre-meldet-kurzarbeit-an-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/folgen-des-niedrigwassers-rheinfaehre-meldet-kurzarbeit-an",
+      "published": "Tue, 29 Sep 2026 03:00:14 -0000",
+      "published_display": "29.09.2026 · 03:00 Uhr"
+    },
+    {
+      "title": "Sechs Tote: Schüsse in Stade - Drei Monate Fassungslosigkeit und Fragen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/schuesse-in-stade-drei-monate-fassungslosigkeit-und-fragen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/schuesse-in-stade-drei-monate-fassungslosigkeit-und-fragen",
+      "published": "Tue, 29 Sep 2026 03:00:13 -0000",
+      "published_display": "29.09.2026 · 03:00 Uhr"
+    },
+    {
+      "title": "Lebensmitteleinkauf: Was Rabatt-Apps so beliebt macht – und was kritisiert wird",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/was-rabatt-apps-so-beliebt-macht-und-was-kritisiert-wird-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/was-rabatt-apps-so-beliebt-macht-und-was-kritisiert-wird",
+      "published": "Tue, 29 Sep 2026 03:00:11 -0000",
+      "published_display": "29.09.2026 · 03:00 Uhr"
+    },
+    {
+      "title": "Semesterbeginn: Das erwartet die neuen Studis in Berlin und Brandenburg",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/das-erwartet-die-neuen-studis-in-berlin-und-brandenburg-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/das-erwartet-die-neuen-studis-in-berlin-und-brandenburg",
+      "published": "Tue, 29 Sep 2026 03:00:10 -0000",
+      "published_display": "29.09.2026 · 03:00 Uhr"
+    },
+    {
+      "title": "Neue Untersuchung: Studie: Gerechtigkeitsempfinden in Bevölkerung schwach",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/studie-gerechtigkeitsempfinden-in-bevoelkerung-schwach-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/studie-gerechtigkeitsempfinden-in-bevoelkerung-schwach",
+      "published": "Tue, 29 Sep 2026 03:00:09 -0000",
+      "published_display": "29.09.2026 · 03:00 Uhr"
+    },
+    {
+      "title": "Inklusives Lernen: Förderschulen bleiben erhalten: Eltern sollen wählen können",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/foerderschulen-bleiben-erhalten-eltern-sollen-waehlen-koennen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/foerderschulen-bleiben-erhalten-eltern-sollen-waehlen-koennen",
+      "published": "Tue, 29 Sep 2026 03:00:08 -0000",
+      "published_display": "29.09.2026 · 03:00 Uhr"
+    },
+    {
+      "title": "Sport und Brauchtum: Oktoberfest und Olympia - der Traum von König Ludwig I. lebt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/oktoberfest-und-olympia-der-traum-von-koenig-ludwig-i-lebt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/oktoberfest-und-olympia-der-traum-von-koenig-ludwig-i-lebt",
+      "published": "Tue, 29 Sep 2026 03:00:07 -0000",
+      "published_display": "29.09.2026 · 03:00 Uhr"
+    },
+    {
+      "title": "Tiere: Wie es den Fischottern im Südwesten geht und was ihnen hilft",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/wie-es-den-fischottern-im-suedwesten-geht-und-was-ihnen-hilft-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/wie-es-den-fischottern-im-suedwesten-geht-und-was-ihnen-hilft",
+      "published": "Tue, 29 Sep 2026 03:00:05 -0000",
+      "published_display": "29.09.2026 · 03:00 Uhr"
+    },
     {
       "title": "Nato: USA loben Deutschland für höhere Verteidigungsausgaben",
       "summary": "Das US-Verteidigungsministerium hat Deutschland als Nato-Musterland gewürdigt. Grund: Die Bundesrepublik dürfte Rüstungszusagen schneller erfüllen als geplant.",
@@ -41,86 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/29/erkaeltung-grippe-und-co-wie-sieht-es-in-thueringen-aus",
       "published": "Tue, 29 Sep 2026 02:30:04 -0000",
       "published_display": "29.09.2026 · 02:30 Uhr"
-    },
-    {
-      "title": "Literaturnobelpreis: CDU-Kulturexperte schlägt Wolf Biermann für Nobelpreis vor",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/cdu-kulturexperte-schlaegt-wolf-biermann-fuer-nobelpreis-vor-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/cdu-kulturexperte-schlaegt-wolf-biermann-fuer-nobelpreis-vor",
-      "published": "Tue, 29 Sep 2026 02:18:04 -0000",
-      "published_display": "29.09.2026 · 02:18 Uhr"
-    },
-    {
-      "title": "Streit um Falklandinseln: Argentinien setzt Großbritannien Frist für Ende von Falkland-Ölprojekt",
-      "summary": "Argentiniens Präsident Javier Milei fordert von Großbritannien, ein geplantes Ölprojekt nahe der Inselgruppe aufzugeben. Er droht mit dem Internationalen Seegerichtshof.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/falklandinseln-argentinien-grossbritannien-oel-foerderung-sea-lion-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/falklandinseln-argentinien-grossbritannien-oel-milei-sea-lion",
-      "published": "Tue, 29 Sep 2026 02:12:29 -0000",
-      "published_display": "29.09.2026 · 02:12 Uhr"
-    },
-    {
-      "title": "Artenschutz: Unverzichtbar fürs Ökosystem - KI hilft bei Fledermausschutz",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/unverzichtbar-fuers-oekosystem-ki-hilft-bei-fledermausschutz-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/unverzichtbar-fuers-oekosystem-ki-hilft-bei-fledermausschutz",
-      "published": "Tue, 29 Sep 2026 02:00:28 -0000",
-      "published_display": "29.09.2026 · 02:00 Uhr"
-    },
-    {
-      "title": "Wegen Bauarbeiten: Schwarzwaldbahn streckenweise wochenlang gesperrt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/schwarzwaldbahn-streckenweise-wochenlang-gesperrt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/schwarzwaldbahn-streckenweise-wochenlang-gesperrt",
-      "published": "Tue, 29 Sep 2026 02:00:27 -0000",
-      "published_display": "29.09.2026 · 02:00 Uhr"
-    },
-    {
-      "title": "Labour tagt in Liverpool: Labour-Parteitag: Andy Burnhams großer Auftritt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/labour-parteitag-andy-burnhams-grosser-auftritt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/labour-parteitag-andy-burnhams-grosser-auftritt",
-      "published": "Tue, 29 Sep 2026 02:00:22 -0000",
-      "published_display": "29.09.2026 · 02:00 Uhr"
-    },
-    {
-      "title": "Regierungsbildung in Berlin: Unionsländer drohen Berlin bei Linksregierung mit Geldentzug",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/unionslaender-drohen-berlin-bei-linksregierung-mit-geldentzug-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/unionslaender-drohen-berlin-bei-linksregierung-mit-geldentzug",
-      "published": "Tue, 29 Sep 2026 02:00:21 -0000",
-      "published_display": "29.09.2026 · 02:00 Uhr"
-    },
-    {
-      "title": "Veränderte Rechtslage: Denkmalgeschützte Immobilien: Energieausweis ab 2027 Pflicht",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/denkmalgeschuetzte-immobilien-energieausweis-ab-2027-pflicht-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/denkmalgeschuetzte-immobilien-energieausweis-ab-2027-pflicht",
-      "published": "Tue, 29 Sep 2026 02:00:13 -0000",
-      "published_display": "29.09.2026 · 02:00 Uhr"
-    },
-    {
-      "title": "Tiere: Naturschützer: Fischotter brauchen mehr gesunde Gewässer",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/naturschuetzer-fischotter-brauchen-mehr-gesunde-gewaesser-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/naturschuetzer-fischotter-brauchen-mehr-gesunde-gewaesser",
-      "published": "Tue, 29 Sep 2026 02:00:12 -0000",
-      "published_display": "29.09.2026 · 02:00 Uhr"
-    },
-    {
-      "title": "Tarifkonflikt: Drei Tage Warnstreiks bei SWEG: Busse und Züge betroffen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/drei-tage-warnstreiks-bei-sweg-busse-und-zuege-betroffen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/drei-tage-warnstreiks-bei-sweg-busse-und-zuege-betroffen",
-      "published": "Tue, 29 Sep 2026 02:00:11 -0000",
-      "published_display": "29.09.2026 · 02:00 Uhr"
-    },
-    {
-      "title": "«Ein Mann seiner Klasse»: Warum Erfolgsautor Christian Baron Berlin den Rücken kehrt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/warum-erfolgsautor-christian-baron-berlin-den-ruecken-kehrt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/warum-erfolgsautor-christian-baron-berlin-den-ruecken-kehrt",
-      "published": "Tue, 29 Sep 2026 02:00:10 -0000",
-      "published_display": "29.09.2026 · 02:00 Uhr"
     }
   ]
 }
