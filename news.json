@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-29T20:48:19.453137+00:00",
+  "updated": "2026-09-29T20:57:44.137547+00:00",
   "items": [
+    {
+      "title": "Heidi Reichinnek: Reichinnek: »Es gibt kein freies Israel ohne ein freies Palästina«",
+      "summary": "Heidi Reichinnek positioniert sich klar zu Antisemitismus und zur AfD. Aber wie hoch eine faire Miete ist, weiß die Co-Vorsitzende der Linkenfraktion im Bundestag nicht.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/heidi-reichinnek-die-linke-fraktionsvorsitzende-bundestag-bild-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/heidi-reichinnek-die-linke-fraktionsvorsitzende-bundestag",
+      "published": "Tue, 29 Sep 2026 20:55:18 -0000",
+      "published_display": "29.09.2026 · 20:55 Uhr"
+    },
+    {
+      "title": "Künstliche Intelligenz: Trump: KI-Firmen sollen sich selbst beaufsichtigen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/trump-ki-firmen-sollen-sich-selbst-beaufsichtigen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/trump-ki-firmen-sollen-sich-selbst-beaufsichtigen",
+      "published": "Tue, 29 Sep 2026 20:50:24 -0000",
+      "published_display": "29.09.2026 · 20:50 Uhr"
+    },
     {
       "title": "Nations League: Tuchel siegt souverän mit England - Yamal erzielt Doppelpack",
       "summary": "",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/29/landtag-streitet-ueber-den-besten-buerokratieabbau",
       "published": "Tue, 29 Sep 2026 19:06:11 -0000",
       "published_display": "29.09.2026 · 19:06 Uhr"
-    },
-    {
-      "title": "Fußball-Nationalmannschaft: Klare Anzeichen: Bayern-Youngster Urbig vor DFB-Debüt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/klopp-trainiert-mit-komplettem-kader-fuer-serbien-spiel-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/klopp-trainiert-mit-komplettem-kader-fuer-serbien-spiel",
-      "published": "Tue, 29 Sep 2026 19:04:58 -0000",
-      "published_display": "29.09.2026 · 19:04 Uhr"
-    },
-    {
-      "title": "CDU-Landesparteitag: CDU-Generalsekretärin: «Land nicht den Extremen überlassen»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/cdu-generalsekretaerin-land-nicht-den-extremen-ueberlassen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/cdu-generalsekretaerin-land-nicht-den-extremen-ueberlassen",
-      "published": "Tue, 29 Sep 2026 19:04:38 -0000",
-      "published_display": "29.09.2026 · 19:04 Uhr"
     }
   ]
 }
