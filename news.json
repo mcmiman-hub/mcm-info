@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-29T03:18:56.791799+00:00",
+  "updated": "2026-09-29T03:34:37.854057+00:00",
   "items": [
+    {
+      "title": "Wohnungsnot in Madrid: Nach Zwangsräumung: Seniorin darf in Wohnung zurück",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/nach-zwangsraeumung-seniorin-darf-in-wohnung-zurueck-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/nach-zwangsraeumung-seniorin-darf-in-wohnung-zurueck",
+      "published": "Tue, 29 Sep 2026 03:22:06 -0000",
+      "published_display": "29.09.2026 · 03:22 Uhr"
+    },
+    {
+      "title": "Überschwemmungen in Thailand: Hochwasser in Bangkok beeinträchtigt Luftverkehr",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/hochwasser-in-bangkok-beeintraechtigt-luftverkehr-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/hochwasser-in-bangkok-beeintraechtigt-luftverkehr",
+      "published": "Tue, 29 Sep 2026 03:21:10 -0000",
+      "published_display": "29.09.2026 · 03:21 Uhr"
+    },
+    {
+      "title": "Fotografie: Bilder des Tages",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/bilder-des-tages-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/bilder-des-tages",
+      "published": "Tue, 29 Sep 2026 03:17:42 -0000",
+      "published_display": "29.09.2026 · 03:17 Uhr"
+    },
     {
       "title": "Künstliche Intelligenz: OpenAI streicht Veröffentlichung von neuem KI-Modell",
       "summary": "",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/29/schulen-im-land-bekommen-finanzsoftware-fuer-klassengelder",
       "published": "Tue, 29 Sep 2026 02:45:04 -0000",
       "published_display": "29.09.2026 · 02:45 Uhr"
-    },
-    {
-      "title": "Billiger tanken: Was man zum Start des neuen Tankrabatts wissen muss",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/was-man-zum-start-des-neuen-tankrabatts-wissen-muss-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/was-man-zum-start-des-neuen-tankrabatts-wissen-muss",
-      "published": "Tue, 29 Sep 2026 02:30:06 -0000",
-      "published_display": "29.09.2026 · 02:30 Uhr"
-    },
-    {
-      "title": "Vorhersage für den Südwesten: Sommergefühle - Ein letztes Mal knapp 30 Grad dieses Jahr?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/sommergefuehle-ein-letztes-mal-knapp-30-grad-dieses-jahr-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/sommergefuehle-ein-letztes-mal-knapp-30-grad-dieses-jahr",
-      "published": "Tue, 29 Sep 2026 02:30:05 -0000",
-      "published_display": "29.09.2026 · 02:30 Uhr"
-    },
-    {
-      "title": "Krankheiten: Erkältung, Grippe und Co: Wie sieht es in Thüringen aus?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/erkaeltung-grippe-und-co-wie-sieht-es-in-thueringen-aus-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/erkaeltung-grippe-und-co-wie-sieht-es-in-thueringen-aus",
-      "published": "Tue, 29 Sep 2026 02:30:04 -0000",
-      "published_display": "29.09.2026 · 02:30 Uhr"
     }
   ]
 }
