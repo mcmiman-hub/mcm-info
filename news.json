@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-29T17:46:57.148380+00:00",
+  "updated": "2026-09-29T17:58:55.241818+00:00",
   "items": [
+    {
+      "title": "Künstliche Intelligenz: Dots: OpenAI stellt KI-Agenten für den Alltag vor",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/29/dots-openai-stellt-ki-agenten-fuer-den-alltag-vor-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/29/dots-openai-stellt-ki-agenten-fuer-den-alltag-vor",
+      "published": "Tue, 29 Sep 2026 17:55:10 -0000",
+      "published_display": "29.09.2026 · 17:55 Uhr"
+    },
     {
       "title": "Pflegereform: Lars Klingbeil hofft auf schnelle Einigung im Pflegestreit",
       "summary": "Die Koalition ringt auch kurz vor einer Kabinettssitzung noch immer um zentrale Punkte der geplanten Pflegereform. SPD-Chef Lars Klingbeil setzt auf eine rasche Einigung.",
@@ -36,7 +44,7 @@
     },
     {
       "title": "Eckhard Seeber: Langjähriger Chauffeur Helmut Kohls ist tot",
-      "summary": "Vier Jahrzehnte lang fuhr Eckhardt Seeber den früheren Kanzler Helmut Kohl zu Terminen und war oft an dessen Seite zu sehen. Nun ist er gestorben.",
+      "summary": "Vier Jahrzehnte lang fuhr Eckhard Seeber den früheren Kanzler Helmut Kohl zu Terminen und war oft an dessen Seite zu sehen. Nun ist er gestorben.",
       "image": "https://img.zeit.de/gesellschaft/2026-09/eckhard-seeber-chauffeur-helmut-kohl-tod-foto-1/original__640x360",
       "link": "https://www.zeit.de/gesellschaft/2026-09/eckhard-seeber-chauffeur-helmut-kohl-tod",
       "published": "Tue, 29 Sep 2026 17:33:49 -0000",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/feuilleton/2026-09/attiya-waris-vereinte-nationen-steuerabkommen-digitalkonzerne",
       "published": "Tue, 29 Sep 2026 17:03:05 -0000",
       "published_display": "29.09.2026 · 17:03 Uhr"
-    },
-    {
-      "title": "Vergesellschaftung großer Wohnungsunternehmen: Wie der Bund Elif Eralp doch noch aufhalten will",
-      "summary": "Die Linke will Wohneigentum sozialisieren. Die Bundesregierung will das mit einem neuen Gesetz verhindern. Aber darf sie das überhaupt? Daran gibt es berechtigte Zweifel.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/vergesellschaftung-grosser-wohnungsunternehmen-verhinderung-umsetzung-berlin-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/vergesellschaftung-grosser-wohnungsunternehmen-verhinderung-umsetzung-berlin",
-      "published": "Tue, 29 Sep 2026 17:02:25 -0000",
-      "published_display": "29.09.2026 · 17:02 Uhr"
     }
   ]
 }
