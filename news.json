@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-30T22:47:39.170533+00:00",
+  "updated": "2026-09-30T22:57:32.356735+00:00",
   "items": [
+    {
+      "title": "Kritik an Pflegereform: DAK-Chef kritisiert höhere Beitragssätze für Kinderlose",
+      "summary": "Die vom Kabinett beschlossenen höheren Pflegeversicherungssätze für Kinderlose hält Andreas Storm für bedenklich. Er warnte vor einer weiteren Spreizung der Beiträge.",
+      "image": "https://img.zeit.de/politik/2026-09/pflege-reform-kritik/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/pflegereform-kritik-kinderlose-dak-andreas-storm",
+      "published": "Wed, 30 Sep 2026 22:51:35 -0000",
+      "published_display": "30.09.2026 · 22:51 Uhr"
+    },
     {
       "title": "US-Verteidigung: Kürzungen und neue Rolle für Musk: Veränderungen im Pentagon",
       "summary": "",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/30/3-0-in-lissabon-buehl-erloest-bayern-frauen",
       "published": "Wed, 30 Sep 2026 20:56:24 -0000",
       "published_display": "30.09.2026 · 20:56 Uhr"
-    },
-    {
-      "title": "AfD-Verbot: Hape Kerkeling fordert Beginn eines AfD-Verbotsverfahrens",
-      "summary": "Hape Kerkeling wirft der AfD Verfassungsfeindlichkeit vor. Er verlangt von den Parteien bei einer Rede im Thüringer Landtag, »endlich« ein Verbotsverfahren anzustoßen.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/hape-kerkeling-afd-nationalsozialismus-verfassungsfeindlichkeit-thueringen-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/hape-kerkeling-afd-nationalsozialismus-verfassungsfeindlichkeit-thueringen",
-      "published": "Wed, 30 Sep 2026 20:46:37 -0000",
-      "published_display": "30.09.2026 · 20:46 Uhr"
     }
   ]
 }
