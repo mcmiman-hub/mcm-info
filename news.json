@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-30T22:34:07.808240+00:00",
+  "updated": "2026-09-30T22:47:39.170533+00:00",
   "items": [
+    {
+      "title": "US-Verteidigung: Kürzungen und neue Rolle für Musk: Veränderungen im Pentagon",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/kuerzungen-und-neue-rolle-fuer-musk-veraenderungen-im-pentagon-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/kuerzungen-und-neue-rolle-fuer-musk-veraenderungen-im-pentagon",
+      "published": "Wed, 30 Sep 2026 22:41:24 -0000",
+      "published_display": "30.09.2026 · 22:41 Uhr"
+    },
+    {
+      "title": "Queerfeindlichkeit in der Türkei: Türkei sperrt unabhängige Nachrichtenseite »T24«",
+      "summary": "Eine der größten unabhängigen Medien der Türkei ist blockiert. Die Regierung wirft der Seite »LGBT-Propaganda« vor. Die Opposition warnt vor einer Verleumdungskampagne.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/t24-nachrichtenportal-sperrung-tuerkei-x-account-pressefreiheit-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/t24-nachrichtenportal-sperrung-tuerkei-x-account-pressefreiheit",
+      "published": "Wed, 30 Sep 2026 22:38:00 -0000",
+      "published_display": "30.09.2026 · 22:38 Uhr"
+    },
+    {
+      "title": "US-Verteidigungsministerium: Elon Musk soll Berater im Verteidigungsministerium werden",
+      "summary": "Für das »Projekt Meridian« soll Elon Musk das US-Verteidigungsministerium beraten. Dabei geht es auch um autonome Waffensysteme und Künstliche Intelligenz.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/pentagon-pete-hegseth-projekt-meridian-elon-musk-armee-usa-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/pentagon-pete-hegseth-projekt-meridian-elon-musk-armee-usa",
+      "published": "Wed, 30 Sep 2026 22:35:07 -0000",
+      "published_display": "30.09.2026 · 22:35 Uhr"
+    },
     {
       "title": "Fernsehen: Evelyn Burdecki singt in einem Alienkostüm – und fliegt auf",
       "summary": "",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/politik/deutschland/2026-09/hape-kerkeling-afd-nationalsozialismus-verfassungsfeindlichkeit-thueringen",
       "published": "Wed, 30 Sep 2026 20:46:37 -0000",
       "published_display": "30.09.2026 · 20:46 Uhr"
-    },
-    {
-      "title": "Feuerwerk zum Jubiläum: Feier auf der Elbe: 100 Jahre Rainer Abicht Elbreederei",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/30/feier-auf-der-elbe-100-jahre-rainer-abicht-elbreederei-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/30/feier-auf-der-elbe-100-jahre-rainer-abicht-elbreederei",
-      "published": "Wed, 30 Sep 2026 20:11:10 -0000",
-      "published_display": "30.09.2026 · 20:11 Uhr"
-    },
-    {
-      "title": "Feuerwehreinsatz: Brand auf Schrottplatz in Mannheim - zwei Verletzte",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/30/brand-auf-schrottplatz-rauch-ueber-mannheim-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/30/brand-auf-schrottplatz-rauch-ueber-mannheim",
-      "published": "Wed, 30 Sep 2026 19:33:52 -0000",
-      "published_display": "30.09.2026 · 19:33 Uhr"
-    },
-    {
-      "title": "Notlandung von Flydubai: Was zur Notlandung des Flydubai-Flugs bekannt ist",
-      "summary": "Israel spricht nach der Notlandung eines Flugzeugs auf dem Weg nach Tel Aviv von einem versuchten Anschlag. Die Passagiere sind inzwischen in Israel angekommen.",
-      "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-09/flydubai-notlandung-saudi-arabien-pilot-cockpit-messer-foto-1/original__640x360",
-      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-09/flydubai-notlandung-saudi-arabien-pilot-cockpit-messer",
-      "published": "Wed, 30 Sep 2026 19:33:13 -0000",
-      "published_display": "30.09.2026 · 19:33 Uhr"
     }
   ]
 }
