@@ -1,13 +1,37 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-30T03:35:11.164673+00:00",
+  "updated": "2026-09-30T03:49:09.483745+00:00",
   "items": [
+    {
+      "title": "Luftqualität: Drittel der Weltbevölkerung in 2026 extremer Ozonbelastung ausgesetzt",
+      "summary": "Brände und Hitze haben die Luftqualität laut einem Copernicus-Bericht weltweit verschlechtert. Vor allem Asien ist betroffen, auch in Europa wurden Werte überschritten.",
+      "image": "https://img.zeit.de/wissenschaft/umwelt/2026-09/luftqualitaet-2026-copernicus-ozon-waldbraende-foto-1/original__640x360",
+      "link": "https://www.zeit.de/wissenschaft/umwelt/2026-09/luftqualitaet-2026-copernicus-ozon-waldbraende",
+      "published": "Wed, 30 Sep 2026 03:44:32 -0000",
+      "published_display": "30.09.2026 · 03:44 Uhr"
+    },
+    {
+      "title": "Cornell University: Neue Untersuchung wegen Vergewaltigungsvorwürfen an US-Eliteuni",
+      "summary": "Eine Studentin gibt an, 2024 von sieben Verbindungsmitgliedern sexuell missbraucht worden zu sein. Die Staatsanwaltschaft hat die Ermittlungen wieder aufgenommen.",
+      "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-09/cornell-university-chi-phi-gruppenvergewaltigung-ermittlungen-kathy-hochul-foto-1/original__640x360",
+      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-09/cornell-university-chi-phi-ermittlungen-vergewaltigung",
+      "published": "Wed, 30 Sep 2026 03:40:38 -0000",
+      "published_display": "30.09.2026 · 03:40 Uhr"
+    },
     {
       "title": "Pharmakonzern: Warum BioNTech jetzt durchstarten kann",
       "summary": "Der einstige Pharmastar schließt drei Werke, die Gründer suchen das Weite. Das ist zwar bitter für die Beschäftigten, könnte aber der Firma neue Durchbrüche ermöglichen.",
       "image": "https://img.zeit.de/wirtschaft/2026-09/biontech-drei-standorte-schliessung-ugur-sahin-oezlem-tuereci-arife-bild/original__640x360",
       "link": "https://www.zeit.de/wirtschaft/unternehmen/2026-09/biontech-drei-standorte-schliessung-ugur-sahin-oezlem-tuereci-arife",
       "published": "Wed, 30 Sep 2026 03:34:05 -0000",
+      "published_display": "30.09.2026 · 03:34 Uhr"
+    },
+    {
+      "title": "Musik-Fund: Unbekanntes Werk von Humperdinck entdeckt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/30/unbekanntes-werk-von-humperdinck-entdeckt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/30/unbekanntes-werk-von-humperdinck-entdeckt",
+      "published": "Wed, 30 Sep 2026 03:34:04 -0000",
       "published_display": "30.09.2026 · 03:34 Uhr"
     },
     {
@@ -96,30 +120,6 @@
       "image": "https://img.zeit.de/news/2026-09/30/bahn-bruecke-zwischen-koeln-und-wuppertal-vorerst-repariert-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-09/30/bahn-bruecke-zwischen-koeln-und-wuppertal-vorerst-repariert",
       "published": "Wed, 30 Sep 2026 03:00:07 -0000",
-      "published_display": "30.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Fröndenberg: Brand in Haftkrankenhaus: Zigarette im Bett als Auslöser?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/30/brand-in-haftkrankenhaus-zigarette-im-bett-als-ausloeser-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/30/brand-in-haftkrankenhaus-zigarette-im-bett-als-ausloeser",
-      "published": "Wed, 30 Sep 2026 03:00:06 -0000",
-      "published_display": "30.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Nahverkehr: SPD drängt auf klare Vorgaben zur Mobilitätsgarantie",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/30/spd-draengt-auf-klare-vorgaben-zur-mobilitaetsgarantie-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/30/spd-draengt-auf-klare-vorgaben-zur-mobilitaetsgarantie",
-      "published": "Wed, 30 Sep 2026 03:00:05 -0000",
-      "published_display": "30.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Teure Autos, teure Reparaturen: Neue Typklassen in der Versicherung für MiIlionen Autofahrer",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/30/neue-typklassen-in-der-versicherung-fuer-miilionen-autofahrer-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/30/neue-typklassen-in-der-versicherung-fuer-miilionen-autofahrer",
-      "published": "Wed, 30 Sep 2026 03:00:04 -0000",
       "published_display": "30.09.2026 · 03:00 Uhr"
     }
   ]
