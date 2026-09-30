@@ -1,7 +1,71 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-30T11:47:03.459407+00:00",
+  "updated": "2026-09-30T11:58:25.236155+00:00",
   "items": [
+    {
+      "title": "Razzia gegen Hater: Razzia gegen «Hater-Community» nach Hetzjagd auf 44-Jährigen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/30/razzia-gegen-hater-community-nach-hetzjagd-auf-44-jaehrigen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/30/razzia-gegen-hater-community-nach-hetzjagd-auf-44-jaehrigen",
+      "published": "Wed, 30 Sep 2026 11:55:18 -0000",
+      "published_display": "30.09.2026 · 11:55 Uhr"
+    },
+    {
+      "title": "Edeka und Tegut: Monopolkommission warnt vor Konzentration im Lebensmitteleinzelhandel",
+      "summary": "Das Bundeskartellamt hat der Übernahme von 178 Tegut-Märkten durch Edeka zwar zugestimmt. Die Monopolkommission sieht Folgen für den Wettbewerb im Handel.",
+      "image": "https://img.zeit.de/wirtschaft/2026-09/edeka-tegut-uebernahme-supermarkt-bundeskartellamt-monopolkommission-foto-1/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/2026-09/edeka-tegut-uebernahme-supermarkt-bundeskartellamt-monopolkommission",
+      "published": "Wed, 30 Sep 2026 11:53:49 -0000",
+      "published_display": "30.09.2026 · 11:53 Uhr"
+    },
+    {
+      "title": "Verkehrssicherheit: Mit 80 km/h auf E-Scooter: Polizei stoppt Jugendlichen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/30/mit-80-km-h-auf-e-scooter-polizei-stoppt-jugendlichen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/30/mit-80-km-h-auf-e-scooter-polizei-stoppt-jugendlichen",
+      "published": "Wed, 30 Sep 2026 11:52:24 -0000",
+      "published_display": "30.09.2026 · 11:52 Uhr"
+    },
+    {
+      "title": "Erzbistum: Sondereffekt: Paderborn meldet hohe Kirchensteuereinnahmen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/30/sondereffekt-paderborn-meldet-hohe-kirchensteuereinnahmen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/30/sondereffekt-paderborn-meldet-hohe-kirchensteuereinnahmen",
+      "published": "Wed, 30 Sep 2026 11:51:41 -0000",
+      "published_display": "30.09.2026 · 11:51 Uhr"
+    },
+    {
+      "title": "Europäisches Musikprojekt: «Europasinfonie»: Komponisten kommen aus Polen und Italien",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/30/europasinfonie-komponisten-kommen-aus-polen-und-italien-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/30/europasinfonie-komponisten-kommen-aus-polen-und-italien",
+      "published": "Wed, 30 Sep 2026 11:50:34 -0000",
+      "published_display": "30.09.2026 · 11:50 Uhr"
+    },
+    {
+      "title": "Landtag: Hessen will Sozialbetrug gezielter bekämpfen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/30/hessen-will-sozialbetrug-gezielter-bekaempfen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/30/hessen-will-sozialbetrug-gezielter-bekaempfen",
+      "published": "Wed, 30 Sep 2026 11:50:09 -0000",
+      "published_display": "30.09.2026 · 11:50 Uhr"
+    },
+    {
+      "title": "Milliardenbetrug: Wirecard: Verteidiger wollen Prozess vor Ende noch aushebeln",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/30/wirecard-verteidiger-wollen-prozess-vor-ende-noch-aushebeln-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/30/wirecard-verteidiger-wollen-prozess-vor-ende-noch-aushebeln",
+      "published": "Wed, 30 Sep 2026 11:48:49 -0000",
+      "published_display": "30.09.2026 · 11:48 Uhr"
+    },
+    {
+      "title": "Hamburg-Moorfleet: Motorradfahrer flüchtet mit bis zu 230 km/h vor Polizei",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/30/motorradfahrer-fluechtet-mit-bis-zu-230-km-h-vor-polizei-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/30/motorradfahrer-fluechtet-mit-bis-zu-230-km-h-vor-polizei",
+      "published": "Wed, 30 Sep 2026 11:48:18 -0000",
+      "published_display": "30.09.2026 · 11:48 Uhr"
+    },
     {
       "title": "Wegen Sparplänen: Arbeitnehmer: VW «will reihenweise Tarifverträge kündigen»",
       "summary": "",
@@ -57,70 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/30/thueringer-afd-will-guetesiegel-der-verfassungsmaessigkeit",
       "published": "Wed, 30 Sep 2026 11:35:33 -0000",
       "published_display": "30.09.2026 · 11:35 Uhr"
-    },
-    {
-      "title": "Flydubai: Israel prüft nach Notlandung von Flydubai-Maschine Terrorverdacht",
-      "summary": "Eine Flydubai-Maschine soll wegen eines Kampfs zwischen den Piloten vom Kurs abgekommen sein. Laut Berichten soll könnte von ihnen einen Terroranschlag geplant haben.",
-      "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-09/flugzeug-umleitung-saudi-arabien-co-pilot-terrorangriff-foto-1/original__640x360",
-      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-09/flugzeug-umleitung-saudi-arabien-co-pilot-terrorangriff",
-      "published": "Wed, 30 Sep 2026 11:34:43 -0000",
-      "published_display": "30.09.2026 · 11:34 Uhr"
-    },
-    {
-      "title": "Inflation: Teuerung in Berlin und Brandenburg stark angezogen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/30/teuerung-in-berlin-und-brandenburg-stark-angezogen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/30/teuerung-in-berlin-und-brandenburg-stark-angezogen",
-      "published": "Wed, 30 Sep 2026 11:34:16 -0000",
-      "published_display": "30.09.2026 · 11:34 Uhr"
-    },
-    {
-      "title": "Petition: Tausende Unterschriften für AfD-Verbotsverfahren",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/30/tausende-unterschriften-fuer-afd-verbotsverfahren-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/30/tausende-unterschriften-fuer-afd-verbotsverfahren",
-      "published": "Wed, 30 Sep 2026 11:33:49 -0000",
-      "published_display": "30.09.2026 · 11:33 Uhr"
-    },
-    {
-      "title": "Fußball-Nationalmannschaft: Die Zukunft beginnt: Neuers Bayern-Ziehsohn im DFB-Tor",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/30/die-zukunft-beginnt-neuers-bayern-ziehsohn-im-dfb-tor-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/30/die-zukunft-beginnt-neuers-bayern-ziehsohn-im-dfb-tor",
-      "published": "Wed, 30 Sep 2026 11:33:14 -0000",
-      "published_display": "30.09.2026 · 11:33 Uhr"
-    },
-    {
-      "title": "Fußball-Nationalmannschaft: Nächste Fußverletzung: Klopp bangt um Schlotterbeck",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/30/klopp-trainiert-mit-komplettem-kader-fuer-serbien-spiel-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/30/klopp-trainiert-mit-komplettem-kader-fuer-serbien-spiel",
-      "published": "Wed, 30 Sep 2026 11:31:51 -0000",
-      "published_display": "30.09.2026 · 11:31 Uhr"
-    },
-    {
-      "title": "Verkehr: Nächste Woche mehr Verkehrskontrollen in Sachsen-Anhalt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/30/naechste-woche-mehr-verkehrskontrollen-in-sachsen-anhalt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/30/naechste-woche-mehr-verkehrskontrollen-in-sachsen-anhalt",
-      "published": "Wed, 30 Sep 2026 11:31:06 -0000",
-      "published_display": "30.09.2026 · 11:31 Uhr"
-    },
-    {
-      "title": "Autobauer: Mercedes-Benz reaktiviert Abfindungsprogramm in Deutschland",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/30/mercedes-benz-reaktiviert-abfindungsprogramm-in-deutschland-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/30/mercedes-benz-reaktiviert-abfindungsprogramm-in-deutschland",
-      "published": "Wed, 30 Sep 2026 11:30:55 -0000",
-      "published_display": "30.09.2026 · 11:30 Uhr"
-    },
-    {
-      "title": "Fußball-Bundesliga: Werder löst Vertrag mit Stürmer Kownacki auf",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/30/werder-loest-vertrag-mit-stuermer-kownacki-auf-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/30/werder-loest-vertrag-mit-stuermer-kownacki-auf",
-      "published": "Wed, 30 Sep 2026 11:29:09 -0000",
-      "published_display": "30.09.2026 · 11:29 Uhr"
     }
   ]
 }
