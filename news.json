@@ -1,7 +1,39 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-30T19:01:33.146498+00:00",
+  "updated": "2026-09-30T19:19:31.274751+00:00",
   "items": [
+    {
+      "title": "Anhörung im Thüringer Landtag: AfD verbieten? Was Juristen und Kerkeling dazu sagen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/30/afd-verbieten-was-juristen-und-experten-dazu-sagen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/30/afd-verbieten-was-juristen-und-experten-dazu-sagen",
+      "published": "Wed, 30 Sep 2026 19:07:34 -0000",
+      "published_display": "30.09.2026 · 19:07 Uhr"
+    },
+    {
+      "title": "Dresden-Prohlis: Schüsse bei Verhaftung: 51-Jähriger schwer verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/30/schuesse-bei-verhaftung-51-jaehriger-schwer-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/30/schuesse-bei-verhaftung-51-jaehriger-schwer-verletzt",
+      "published": "Wed, 30 Sep 2026 19:03:13 -0000",
+      "published_display": "30.09.2026 · 19:03 Uhr"
+    },
+    {
+      "title": "UBS-Bankenregulierung in der Schweiz: Das Ende einer Liebesbeziehung",
+      "summary": "Die Schweiz will ihre letzte Großbank stärker regulieren – und die UBS droht mit Wegzug. Selbst bürgerliche Politiker reagieren gelassen. Was ist da passiert?",
+      "image": "https://img.zeit.de/2026/42/noch-einmal-retten-wir-euch-nicht-bild-1/original__640x360",
+      "link": "https://www.zeit.de/2026/42/ubs-bankenregulierung-schweiz-eigenkapital-lex",
+      "published": "Wed, 30 Sep 2026 19:03:07 -0000",
+      "published_display": "30.09.2026 · 19:03 Uhr"
+    },
+    {
+      "title": "Anhörung Thüringer Landtag: Kerkeling: «Wir dulden keinen Faschismus in Deutschland»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/30/kerkeling-wir-dulden-keinen-faschismus-in-deutschland-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/30/kerkeling-wir-dulden-keinen-faschismus-in-deutschland",
+      "published": "Wed, 30 Sep 2026 19:01:49 -0000",
+      "published_display": "30.09.2026 · 19:01 Uhr"
+    },
     {
       "title": "Emotionen: Wie man seine Gefühle besser erkennt",
       "summary": "Wie man mit seinen Gefühlen umgeht, ist entscheidend für die Psyche. Bloß: Dafür muss man wissen, was man fühlt. Das fällt vielen schwer. Psychologen wissen, was hilft.",
@@ -89,38 +121,6 @@
       "link": "https://www.zeit.de/arbeit/2026-09/ableismus-arbeitsmarkt-behinderung-ausbildung-social-media",
       "published": "Wed, 30 Sep 2026 18:31:25 -0000",
       "published_display": "30.09.2026 · 18:31 Uhr"
-    },
-    {
-      "title": "Strafvollzug: Gablingen-Prozess gegen Justizbeamte beginnt im Januar",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/30/gefangene-misshandelt-prozess-gegen-justizbeamte-angesetzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/30/gefangene-misshandelt-prozess-gegen-justizbeamte-angesetzt",
-      "published": "Wed, 30 Sep 2026 18:28:40 -0000",
-      "published_display": "30.09.2026 · 18:28 Uhr"
-    },
-    {
-      "title": "Anhörung im Thüringer Landtag: AfD verbieten? Was Juristen und Experten dazu sagen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/30/afd-verbieten-was-juristen-und-experten-dazu-sagen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/30/afd-verbieten-was-juristen-und-experten-dazu-sagen",
-      "published": "Wed, 30 Sep 2026 18:27:37 -0000",
-      "published_display": "30.09.2026 · 18:27 Uhr"
-    },
-    {
-      "title": "Darmstadt: Waldbrand in Eberstadt: Feuerwehrkraft verletzt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/30/waldbrand-in-eberstadt-feuerwehrkraft-verletzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/30/waldbrand-in-eberstadt-feuerwehrkraft-verletzt",
-      "published": "Wed, 30 Sep 2026 18:24:51 -0000",
-      "published_display": "30.09.2026 · 18:24 Uhr"
-    },
-    {
-      "title": "Deutsche Marine: Vizeadmiral Abry ist neuer Marineinspekteur",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/30/vizeadmiral-abry-ist-neuer-marineinspekteur-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/30/vizeadmiral-abry-ist-neuer-marineinspekteur",
-      "published": "Wed, 30 Sep 2026 18:20:51 -0000",
-      "published_display": "30.09.2026 · 18:20 Uhr"
     }
   ]
 }
