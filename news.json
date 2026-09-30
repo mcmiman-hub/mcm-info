@@ -1,7 +1,39 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-30T15:49:46.988810+00:00",
+  "updated": "2026-09-30T16:01:46.682815+00:00",
   "items": [
+    {
+      "title": "Tarife: Verdi: Mehr Geld für 124.000 Beschäftigte im Handel",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/30/verdi-mehr-geld-fuer-124-000-beschaeftigte-im-handel-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/30/verdi-mehr-geld-fuer-124-000-beschaeftigte-im-handel",
+      "published": "Wed, 30 Sep 2026 15:59:42 -0000",
+      "published_display": "30.09.2026 · 15:59 Uhr"
+    },
+    {
+      "title": "Nahost: Israel: Versuchter Anschlag auf Flydubai-Flug nach Tel Aviv",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/30/gewaltvorfall-im-cockpit-flydubai-flieger-notgelandet-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/30/gewaltvorfall-im-cockpit-flydubai-flieger-notgelandet",
+      "published": "Wed, 30 Sep 2026 15:57:10 -0000",
+      "published_display": "30.09.2026 · 15:57 Uhr"
+    },
+    {
+      "title": "Lichtverschmutzung: Tierschutz und Sparen - Leipzig schaltet Straßenlaternen ab",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/30/tierschutz-und-sparen-leipzig-schaltet-strassenlaternen-ab-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/30/tierschutz-und-sparen-leipzig-schaltet-strassenlaternen-ab",
+      "published": "Wed, 30 Sep 2026 15:55:35 -0000",
+      "published_display": "30.09.2026 · 15:55 Uhr"
+    },
+    {
+      "title": "Arbeiten für Offshore-Windpark: Mega-Arbeitsschiff «Pioneering Spirit» im Ostsee-Einsatz",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/30/mega-arbeitsschiff-pioneering-spirit-im-ostsee-einsatz-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/30/mega-arbeitsschiff-pioneering-spirit-im-ostsee-einsatz",
+      "published": "Wed, 30 Sep 2026 15:53:08 -0000",
+      "published_display": "30.09.2026 · 15:53 Uhr"
+    },
     {
       "title": "Ex-Ballettintendant: Demis Volpi: «Ich wurde als Monster dargestellt»",
       "summary": "",
@@ -89,38 +121,6 @@
       "link": "https://www.zeit.de/2026/42/ferat-kocak-firas-rammo-chat-linke-bundestag",
       "published": "Wed, 30 Sep 2026 15:31:30 -0000",
       "published_display": "30.09.2026 · 15:31 Uhr"
-    },
-    {
-      "title": "Bahnverkehr: «Wunderline» zwischen Leer und Groningen wird eröffnet",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/30/wunderline-zwischen-leer-und-groningen-wird-eroeffnet-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/30/wunderline-zwischen-leer-und-groningen-wird-eroeffnet",
-      "published": "Wed, 30 Sep 2026 15:30:06 -0000",
-      "published_display": "30.09.2026 · 15:30 Uhr"
-    },
-    {
-      "title": "Fälle aus NRW: Schwarzbuch: Bund der Steuerzahler sieht Verschwendung",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/30/schwarzbuch-bund-der-steuerzahler-sieht-verschwendung-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/30/schwarzbuch-bund-der-steuerzahler-sieht-verschwendung",
-      "published": "Wed, 30 Sep 2026 15:30:04 -0000",
-      "published_display": "30.09.2026 · 15:30 Uhr"
-    },
-    {
-      "title": "Todesstrafe in den USA: Kurz vor knapp: Historische Hinrichtung in den USA gestoppt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/30/historische-hinrichtung-in-tennessee-steht-kurz-bevor-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/30/historische-hinrichtung-in-tennessee-steht-kurz-bevor",
-      "published": "Wed, 30 Sep 2026 15:26:34 -0000",
-      "published_display": "30.09.2026 · 15:26 Uhr"
-    },
-    {
-      "title": "Sperrzone wird eingerichtet: Abriss der Südbrücke in Waren - Sprengung am 1. November",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/30/abriss-der-suedbruecke-in-waren-sprengung-am-1-november-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/30/abriss-der-suedbruecke-in-waren-sprengung-am-1-november",
-      "published": "Wed, 30 Sep 2026 15:25:32 -0000",
-      "published_display": "30.09.2026 · 15:25 Uhr"
     }
   ]
 }
