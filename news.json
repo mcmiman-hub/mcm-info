@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-30T20:47:01.081344+00:00",
+  "updated": "2026-09-30T20:56:31.964115+00:00",
   "items": [
+    {
+      "title": "AfD-Verbot: Hape Kerkeling fordert Beginn eines AfD-Verbotsverfahrens",
+      "summary": "Hape Kerkeling wirft der AfD Verfassungsfeindlichkeit vor. Er verlangte von den Parteien bei einer Rede im Thüringer Landtag, »endlich« ein Verbotsverfahren anzustoßen.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/hape-kerkeling-afd-nationalsozialismus-verfassungsfeindlichkeit-thueringen-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/hape-kerkeling-afd-nationalsozialismus-verfassungsfeindlichkeit-thueringen",
+      "published": "Wed, 30 Sep 2026 20:46:37 -0000",
+      "published_display": "30.09.2026 · 20:46 Uhr"
+    },
     {
       "title": "Feuerwerk zum Jubiläum: Feier auf der Elbe: 100 Jahre Rainer Abicht Elbreederei",
       "summary": "",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/politik/deutschland/2026-09/wolfram-weimer-deutscher-buchhandlungspreis-ausschluss-linke-buchhandlungen",
       "published": "Wed, 30 Sep 2026 18:50:48 -0000",
       "published_display": "30.09.2026 · 18:50 Uhr"
-    },
-    {
-      "title": "Krise bei Volkswagen: VW kündigt Tarifverträge: Was heißt das für Beschäftigte?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/30/vw-kuendigt-tarifvertraege-was-heisst-das-fuer-beschaeftigte-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/30/vw-kuendigt-tarifvertraege-was-heisst-das-fuer-beschaeftigte",
-      "published": "Wed, 30 Sep 2026 18:49:52 -0000",
-      "published_display": "30.09.2026 · 18:49 Uhr"
     }
   ]
 }
