@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-30T02:46:38.232698+00:00",
+  "updated": "2026-09-30T02:57:38.277922+00:00",
   "items": [
+    {
+      "title": "Fatima Ezzahra el-Mansouri: Marokko ernennt erstmals Frau zur Regierungschefin",
+      "summary": "Nach dem Wahlsieg ihrer Partei ist Fatima Ezzahra el-Mansouri zur Ministerpräsidentin Marokkos ernannt worden. Die Juristin muss nun eine Koalition bilden.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/fatima-ezzahra-el-mansouri-marokko-regierungschefin-koenig-mohammed-vi-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/fatima-ezzahra-el-mansouri-marokko-regierungschefin-koenig-mohammed-vi",
+      "published": "Wed, 30 Sep 2026 02:50:29 -0000",
+      "published_display": "30.09.2026 · 02:50 Uhr"
+    },
+    {
+      "title": "Unfall: Mann in Hamburg von Bus überrollt und tödlich verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/30/mann-in-hamburg-ueberrollt-und-toedlich-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/30/mann-in-hamburg-ueberrollt-und-toedlich-verletzt",
+      "published": "Wed, 30 Sep 2026 02:45:28 -0000",
+      "published_display": "30.09.2026 · 02:45 Uhr"
+    },
+    {
+      "title": "Fest in Bremen: Von A bis Z - Wissenswertes zum Tag der Deutschen Einheit",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/30/von-a-bis-z-wissenswertes-zum-tag-der-deutschen-einheit-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/30/von-a-bis-z-wissenswertes-zum-tag-der-deutschen-einheit",
+      "published": "Wed, 30 Sep 2026 02:45:06 -0000",
+      "published_display": "30.09.2026 · 02:45 Uhr"
+    },
     {
       "title": "Vorfall bei US-Militärbasis: Berichte: Terrorverdächtiger hat selbst die Polizei gerufen",
       "summary": "",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/30/tankrabatt-und-spritpreiskrise-in-7-rechnungen-und-zahlen",
       "published": "Wed, 30 Sep 2026 02:15:04 -0000",
       "published_display": "30.09.2026 · 02:15 Uhr"
-    },
-    {
-      "title": "Amtseinführung am Sonntag: Eichstätts neuer Bischof sieht sich als «Teamplayer»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/30/eichstaetts-neuer-bischof-sieht-sich-als-teamplayer-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/30/eichstaetts-neuer-bischof-sieht-sich-als-teamplayer",
-      "published": "Wed, 30 Sep 2026 02:10:05 -0000",
-      "published_display": "30.09.2026 · 02:10 Uhr"
-    },
-    {
-      "title": "Gewässer: Niedrigwasser erhöht Schadstoffkonzentration in Gewässern",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/30/niedrigwasser-erhoeht-schadstoffkonzentration-in-gewaessern-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/30/niedrigwasser-erhoeht-schadstoffkonzentration-in-gewaessern",
-      "published": "Wed, 30 Sep 2026 02:00:43 -0000",
-      "published_display": "30.09.2026 · 02:00 Uhr"
-    },
-    {
-      "title": "Was passiert diesen Monat?: Von dicken Kürbissen bis zu Büchern: Das steht im Oktober an",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/30/von-dicken-kuerbissen-bis-zu-buechern-das-steht-im-oktober-an-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/30/von-dicken-kuerbissen-bis-zu-buechern-das-steht-im-oktober-an",
-      "published": "Wed, 30 Sep 2026 02:00:42 -0000",
-      "published_display": "30.09.2026 · 02:00 Uhr"
     }
   ]
 }
