@@ -1,7 +1,39 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-30T04:49:43.162099+00:00",
+  "updated": "2026-09-30T04:59:49.456211+00:00",
   "items": [
+    {
+      "title": "Urteil in Münster: Polizei begrüßt Urteil zu Messerverboten in NRW",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/30/polizei-begruesst-urteil-zu-messerverboten-in-nrw-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/30/polizei-begruesst-urteil-zu-messerverboten-in-nrw",
+      "published": "Wed, 30 Sep 2026 04:56:41 -0000",
+      "published_display": "30.09.2026 · 04:56 Uhr"
+    },
+    {
+      "title": "US-Luftwaffenbasis : Terrorverdächtiger in Großbritannien soll selbst Polizei gerufen haben",
+      "summary": "Offenbar hat einer der Verdächtigen eines mutmaßlichen Anschlagsversuchs in Großbritannien selbst die Polizei gerufen. Einsatzkräfte warteten schon beim US-Stützpunkt.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/us-luftwaffenbasis-grossbritannien-terrorverdacht-notruf-raf-fairford-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/us-luftwaffenbasis-grossbritannien-terrorverdacht-notruf-raf-fairford",
+      "published": "Wed, 30 Sep 2026 04:54:50 -0000",
+      "published_display": "30.09.2026 · 04:54 Uhr"
+    },
+    {
+      "title": "Schmierereien mit Drohung: Anschlagsdrohung an Schule – Polizei bleibt vor Ort",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/30/anschlagsdrohung-an-schule-polizei-bleibt-vor-ort-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/30/anschlagsdrohung-an-schule-polizei-bleibt-vor-ort",
+      "published": "Wed, 30 Sep 2026 04:54:46 -0000",
+      "published_display": "30.09.2026 · 04:54 Uhr"
+    },
+    {
+      "title": "Wetter: Nach sommerlicher Hitze kommt der Regen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/30/nach-sommerlicher-hitze-kommt-der-regen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/30/nach-sommerlicher-hitze-kommt-der-regen",
+      "published": "Wed, 30 Sep 2026 04:50:25 -0000",
+      "published_display": "30.09.2026 · 04:50 Uhr"
+    },
     {
       "title": "Handelskonflikt: China droht EU im Handelsstreit mit Gegenmaßnahmen",
       "summary": "China warnt die EU vor einer »entschlossenen Reaktion«, sollte sie handelspolitische Maßnahmen durchsetzen. Hintergrund ist ein Vorstoß aus Deutschland und Frankreich.",
@@ -89,38 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/30/ersatz-fuer-kapitaen-kimmich-vier-kandidaten-fuer-klopp",
       "published": "Wed, 30 Sep 2026 04:04:04 -0000",
       "published_display": "30.09.2026 · 04:04 Uhr"
-    },
-    {
-      "title": "Unfälle: Motorradfahrer bei Unfall mit Feldhäcksler schwer verletzt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/30/motorradfahrer-bei-unfall-mit-feldhaecksler-schwer-verletzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/30/motorradfahrer-bei-unfall-mit-feldhaecksler-schwer-verletzt",
-      "published": "Wed, 30 Sep 2026 04:02:52 -0000",
-      "published_display": "30.09.2026 · 04:02 Uhr"
-    },
-    {
-      "title": "Neu im Kino: Bildgewaltige Romanverfilmung: «Corpus Delicti»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/30/bildgewaltige-romanverfilmung-corpus-delicti-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/30/bildgewaltige-romanverfilmung-corpus-delicti",
-      "published": "Wed, 30 Sep 2026 04:01:04 -0000",
-      "published_display": "30.09.2026 · 04:01 Uhr"
-    },
-    {
-      "title": "Politische Präferenz: Umfrage sieht AfD vorn - Kritischer Blick nach Berlin",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/30/umfrage-sieht-afd-vorn-kritischer-blick-nach-berlin-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/30/umfrage-sieht-afd-vorn-kritischer-blick-nach-berlin",
-      "published": "Wed, 30 Sep 2026 04:00:14 -0000",
-      "published_display": "30.09.2026 · 04:00 Uhr"
-    },
-    {
-      "title": "Verpackungssteuer kommt: Potsdam macht ab Oktober «to go» teurer",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/30/potsdam-macht-ab-oktober-to-go-teurer-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/30/potsdam-macht-ab-oktober-to-go-teurer",
-      "published": "Wed, 30 Sep 2026 04:00:13 -0000",
-      "published_display": "30.09.2026 · 04:00 Uhr"
     }
   ]
 }
