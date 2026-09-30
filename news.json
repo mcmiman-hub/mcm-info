@@ -1,7 +1,39 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-30T21:59:01.555423+00:00",
+  "updated": "2026-09-30T22:19:21.149613+00:00",
   "items": [
+    {
+      "title": "Fernsehen: Evelyn Burdecki singt in einem Alienkostüm – und fliegt auf",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/evelyn-burdecki-singt-in-einem-alienkostuem-und-fliegt-auf-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/evelyn-burdecki-singt-in-einem-alienkostuem-und-fliegt-auf",
+      "published": "Wed, 30 Sep 2026 22:15:04 -0000",
+      "published_display": "30.09.2026 · 22:15 Uhr"
+    },
+    {
+      "title": "Nach Berlin-Wahl: SPD-Bezirksbürgermeister Hikel fordert Mitgliedervotum",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/spd-bezirksbuergermeister-hikel-fordert-mitgliedervotum-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/spd-bezirksbuergermeister-hikel-fordert-mitgliedervotum",
+      "published": "Wed, 30 Sep 2026 22:01:06 -0000",
+      "published_display": "30.09.2026 · 22:01 Uhr"
+    },
+    {
+      "title": "Mobilitätskosten: Tankrabatt gestartet",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/tankrabatt-gestartet-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/tankrabatt-gestartet",
+      "published": "Wed, 30 Sep 2026 22:01:05 -0000",
+      "published_display": "30.09.2026 · 22:01 Uhr"
+    },
+    {
+      "title": "Altersvorsorgedepot: Trotz staatlicher Zulagen: Viele wollen kein Depot eröffnen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/trotz-staatlicher-zulagen-viele-wollen-kein-depot-eroeffnen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/trotz-staatlicher-zulagen-viele-wollen-kein-depot-eroeffnen",
+      "published": "Wed, 30 Sep 2026 22:01:04 -0000",
+      "published_display": "30.09.2026 · 22:01 Uhr"
+    },
     {
       "title": "Kalenderblatt: Was geschah am 1. Oktober?",
       "summary": "",
@@ -89,38 +121,6 @@
       "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-09/flydubai-notlandung-saudi-arabien-pilot-cockpit-messer",
       "published": "Wed, 30 Sep 2026 19:33:13 -0000",
       "published_display": "30.09.2026 · 19:33 Uhr"
-    },
-    {
-      "title": "Regierung: Söder: Friedrich Merz ist Kanzler und bleibt Kanzler",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/30/soeder-friedrich-merz-ist-kanzler-und-bleibt-kanzler-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/30/soeder-friedrich-merz-ist-kanzler-und-bleibt-kanzler",
-      "published": "Wed, 30 Sep 2026 19:24:34 -0000",
-      "published_display": "30.09.2026 · 19:24 Uhr"
-    },
-    {
-      "title": "Regierung: Söder: Regierung ist aus Schockstarre erwacht",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/30/soeder-regierung-ist-aus-schockstarre-erwacht-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/30/soeder-regierung-ist-aus-schockstarre-erwacht",
-      "published": "Wed, 30 Sep 2026 19:22:29 -0000",
-      "published_display": "30.09.2026 · 19:22 Uhr"
-    },
-    {
-      "title": "Investitionsinitiative »Made for Germany«: Klingt zumindest gut",
-      "summary": "Dutzende Unternehmen versprachen 2025 Milliarden für Deutschland, nun soll noch mehr Geld fließen. Der Kanzler ist entzückt – kritische Fragen aber sind nicht erlaubt.",
-      "image": "https://img.zeit.de/wirtschaft/2026-09/investitionsinitiative-made-for-germany-wirtschaft-friedrich-merz-lars-klingbeil-bild/original__640x360",
-      "link": "https://www.zeit.de/wirtschaft/2026-09/investitionsinitiative-made-for-germany-wirtschaft-friedrich-merz-lars-klingbeil",
-      "published": "Wed, 30 Sep 2026 19:21:09 -0000",
-      "published_display": "30.09.2026 · 19:21 Uhr"
-    },
-    {
-      "title": "Dresden-Prohlis: Schüsse bei Verhaftung: 51-Jähriger schwer verletzt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/30/schuesse-bei-verhaftung-51-jaehriger-schwer-verletzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/30/schuesse-bei-verhaftung-51-jaehriger-schwer-verletzt",
-      "published": "Wed, 30 Sep 2026 19:03:13 -0000",
-      "published_display": "30.09.2026 · 19:03 Uhr"
     }
   ]
 }
