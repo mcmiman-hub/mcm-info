@@ -1,126 +1,126 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-30T11:58:25.236155+00:00",
+  "updated": "2026-09-30T12:27:52.320080+00:00",
   "items": [
+    {
+      "title": "Arbeitsmarkt: Flaue Herbstbelebung: Knapp unter drei Millionen Arbeitslose",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/30/zahl-der-arbeitslosen-sinkt-unter-drei-millionen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/30/zahl-der-arbeitslosen-sinkt-unter-drei-millionen",
+      "published": "Wed, 30 Sep 2026 12:25:24 -0000",
+      "published_display": "30.09.2026 · 12:25 Uhr"
+    },
+    {
+      "title": "Bandenbetrug: Masche mit Goldankauf - Polizei nimmt fünf Verdächtige fest",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/30/masche-mit-goldankauf-polizei-nimmt-fuenf-verdaechtige-fest-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/30/masche-mit-goldankauf-polizei-nimmt-fuenf-verdaechtige-fest",
+      "published": "Wed, 30 Sep 2026 12:23:02 -0000",
+      "published_display": "30.09.2026 · 12:23 Uhr"
+    },
+    {
+      "title": "Polizei: 222 neue Kommissarinnen und Kommissare ernannt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/30/222-neue-kommissarinnen-und-kommissare-ernannt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/30/222-neue-kommissarinnen-und-kommissare-ernannt",
+      "published": "Wed, 30 Sep 2026 12:22:55 -0000",
+      "published_display": "30.09.2026 · 12:22 Uhr"
+    },
+    {
+      "title": "Geheimes Waffenarsenal: Remscheider Waffenfund: Hauptangeklagter will gestehen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/30/remscheider-waffenfund-hauptangeklagter-will-gestehen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/30/remscheider-waffenfund-hauptangeklagter-will-gestehen",
+      "published": "Wed, 30 Sep 2026 12:22:09 -0000",
+      "published_display": "30.09.2026 · 12:22 Uhr"
+    },
+    {
+      "title": "Flydubai: Israel prüft nach Notlandung von Flydubai-Maschine Terrorverdacht",
+      "summary": "Eine Flydubai-Maschine soll wegen eines Kampfs zwischen den Piloten vom Kurs abgekommen sein. Laut Berichten könnte einer von ihnen einen Terroranschlag geplant haben.",
+      "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-09/flugzeug-umleitung-saudi-arabien-co-pilot-terrorangriff-foto-1/original__640x360",
+      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-09/flugzeug-umleitung-saudi-arabien-co-pilot-terrorangriff",
+      "published": "Wed, 30 Sep 2026 12:19:56 -0000",
+      "published_display": "30.09.2026 · 12:19 Uhr"
+    },
+    {
+      "title": "Internationale Kontakte: Bayern setzt fest auf Öl aus Kasachstan",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/30/bayern-setzt-fest-auf-oel-aus-kasachstan-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/30/bayern-setzt-fest-auf-oel-aus-kasachstan",
+      "published": "Wed, 30 Sep 2026 12:18:52 -0000",
+      "published_display": "30.09.2026 · 12:18 Uhr"
+    },
+    {
+      "title": "Nahost: Gewaltvorfall im Cockpit – Flydubai-Flieger notgelandet",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/30/gewaltvorfall-im-cockpit-flydubai-flieger-notgelandet-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/30/gewaltvorfall-im-cockpit-flydubai-flieger-notgelandet",
+      "published": "Wed, 30 Sep 2026 12:16:51 -0000",
+      "published_display": "30.09.2026 · 12:16 Uhr"
+    },
+    {
+      "title": "Gleichgeschlechtliche Ehe: Mehr Frauen- als Männerpaare sagten 2025 «Ja»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/30/mehr-frauen-als-maennerpaare-sagten-2025-ja-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/30/mehr-frauen-als-maennerpaare-sagten-2025-ja",
+      "published": "Wed, 30 Sep 2026 12:14:55 -0000",
+      "published_display": "30.09.2026 · 12:14 Uhr"
+    },
+    {
+      "title": "Energie treibt Teuerung: Inflation steigt erstmals seit Ende 2023 über drei Prozent",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/30/inflation-steigt-erstmals-seit-ende-2023-ueber-drei-prozent-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/30/inflation-steigt-erstmals-seit-ende-2023-ueber-drei-prozent",
+      "published": "Wed, 30 Sep 2026 12:14:08 -0000",
+      "published_display": "30.09.2026 · 12:14 Uhr"
+    },
     {
       "title": "Razzia gegen Hater: Razzia gegen «Hater-Community» nach Hetzjagd auf 44-Jährigen",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-09/30/razzia-gegen-hater-community-nach-hetzjagd-auf-44-jaehrigen-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-09/30/razzia-gegen-hater-community-nach-hetzjagd-auf-44-jaehrigen",
-      "published": "Wed, 30 Sep 2026 11:55:18 -0000",
-      "published_display": "30.09.2026 · 11:55 Uhr"
+      "published": "Wed, 30 Sep 2026 12:13:16 -0000",
+      "published_display": "30.09.2026 · 12:13 Uhr"
     },
     {
-      "title": "Edeka und Tegut: Monopolkommission warnt vor Konzentration im Lebensmitteleinzelhandel",
-      "summary": "Das Bundeskartellamt hat der Übernahme von 178 Tegut-Märkten durch Edeka zwar zugestimmt. Die Monopolkommission sieht Folgen für den Wettbewerb im Handel.",
-      "image": "https://img.zeit.de/wirtschaft/2026-09/edeka-tegut-uebernahme-supermarkt-bundeskartellamt-monopolkommission-foto-1/original__640x360",
-      "link": "https://www.zeit.de/wirtschaft/2026-09/edeka-tegut-uebernahme-supermarkt-bundeskartellamt-monopolkommission",
-      "published": "Wed, 30 Sep 2026 11:53:49 -0000",
-      "published_display": "30.09.2026 · 11:53 Uhr"
-    },
-    {
-      "title": "Verkehrssicherheit: Mit 80 km/h auf E-Scooter: Polizei stoppt Jugendlichen",
+      "title": "Versunken: 74-Jährige steckt bis zum Bauch in Bodensee-Schlamm",
       "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/30/mit-80-km-h-auf-e-scooter-polizei-stoppt-jugendlichen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/30/mit-80-km-h-auf-e-scooter-polizei-stoppt-jugendlichen",
-      "published": "Wed, 30 Sep 2026 11:52:24 -0000",
-      "published_display": "30.09.2026 · 11:52 Uhr"
+      "image": "https://img.zeit.de/news/2026-09/30/74-jaehrige-steckt-bis-zum-bauch-in-bodensee-schlamm-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/30/74-jaehrige-steckt-bis-zum-bauch-in-bodensee-schlamm",
+      "published": "Wed, 30 Sep 2026 12:12:41 -0000",
+      "published_display": "30.09.2026 · 12:12 Uhr"
     },
     {
-      "title": "Erzbistum: Sondereffekt: Paderborn meldet hohe Kirchensteuereinnahmen",
+      "title": "Gefäßchirurgie: Minister: Todesfall und Stationsschließung ohne Zusammenhang",
       "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/30/sondereffekt-paderborn-meldet-hohe-kirchensteuereinnahmen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/30/sondereffekt-paderborn-meldet-hohe-kirchensteuereinnahmen",
-      "published": "Wed, 30 Sep 2026 11:51:41 -0000",
-      "published_display": "30.09.2026 · 11:51 Uhr"
+      "image": "https://img.zeit.de/news/2026-09/30/minister-todesfall-und-stationsschliessung-ohne-zusammenhang-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/30/minister-todesfall-und-stationsschliessung-ohne-zusammenhang",
+      "published": "Wed, 30 Sep 2026 12:10:13 -0000",
+      "published_display": "30.09.2026 · 12:10 Uhr"
     },
     {
-      "title": "Europäisches Musikprojekt: «Europasinfonie»: Komponisten kommen aus Polen und Italien",
+      "title": "Finanzkriminalität: Razzia wegen Geldwäsche-Netzwerk um «Hells Angels»",
       "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/30/europasinfonie-komponisten-kommen-aus-polen-und-italien-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/30/europasinfonie-komponisten-kommen-aus-polen-und-italien",
-      "published": "Wed, 30 Sep 2026 11:50:34 -0000",
-      "published_display": "30.09.2026 · 11:50 Uhr"
+      "image": "https://img.zeit.de/news/2026-09/30/razzia-wegen-geldwaesche-netzwerk-um-hells-angels-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/30/razzia-wegen-geldwaesche-netzwerk-um-hells-angels",
+      "published": "Wed, 30 Sep 2026 12:05:27 -0000",
+      "published_display": "30.09.2026 · 12:05 Uhr"
     },
     {
-      "title": "Landtag: Hessen will Sozialbetrug gezielter bekämpfen",
+      "title": "Staatsschutz ermittelte: Anschläge gegen Parteibüros - Anklage gegen 40-Jährigen",
       "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/30/hessen-will-sozialbetrug-gezielter-bekaempfen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/30/hessen-will-sozialbetrug-gezielter-bekaempfen",
-      "published": "Wed, 30 Sep 2026 11:50:09 -0000",
-      "published_display": "30.09.2026 · 11:50 Uhr"
-    },
-    {
-      "title": "Milliardenbetrug: Wirecard: Verteidiger wollen Prozess vor Ende noch aushebeln",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/30/wirecard-verteidiger-wollen-prozess-vor-ende-noch-aushebeln-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/30/wirecard-verteidiger-wollen-prozess-vor-ende-noch-aushebeln",
-      "published": "Wed, 30 Sep 2026 11:48:49 -0000",
-      "published_display": "30.09.2026 · 11:48 Uhr"
-    },
-    {
-      "title": "Hamburg-Moorfleet: Motorradfahrer flüchtet mit bis zu 230 km/h vor Polizei",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/30/motorradfahrer-fluechtet-mit-bis-zu-230-km-h-vor-polizei-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/30/motorradfahrer-fluechtet-mit-bis-zu-230-km-h-vor-polizei",
-      "published": "Wed, 30 Sep 2026 11:48:18 -0000",
-      "published_display": "30.09.2026 · 11:48 Uhr"
-    },
-    {
-      "title": "Wegen Sparplänen: Arbeitnehmer: VW «will reihenweise Tarifverträge kündigen»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/30/arbeitnehmer-vw-will-reihenweise-tarifvertraege-kuendigen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/30/arbeitnehmer-vw-will-reihenweise-tarifvertraege-kuendigen",
-      "published": "Wed, 30 Sep 2026 11:42:29 -0000",
-      "published_display": "30.09.2026 · 11:42 Uhr"
-    },
-    {
-      "title": "Berliner Wohnungsmarkt: Mieterhöhungen bei Landeseigenen - Linke empört",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/30/mehr-miete-fuer-zehntausende-haushalte-bei-den-landeseigenen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/30/mehr-miete-fuer-zehntausende-haushalte-bei-den-landeseigenen",
-      "published": "Wed, 30 Sep 2026 11:40:46 -0000",
-      "published_display": "30.09.2026 · 11:40 Uhr"
-    },
-    {
-      "title": "Flug FZ1073: Was wir zur Flydubai-Notlandung wissen – und was nicht",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/30/was-wir-zur-flydubai-notlandung-wissen-und-was-nicht-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/30/was-wir-zur-flydubai-notlandung-wissen-und-was-nicht",
-      "published": "Wed, 30 Sep 2026 11:39:15 -0000",
-      "published_display": "30.09.2026 · 11:39 Uhr"
-    },
-    {
-      "title": "78. Verhandlungstag: Delling im Block-Prozess: «Noch nie so viele Tränen gesehen»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/30/delling-im-block-prozess-noch-nie-so-viele-traenen-gesehen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/30/delling-im-block-prozess-noch-nie-so-viele-traenen-gesehen",
-      "published": "Wed, 30 Sep 2026 11:37:29 -0000",
-      "published_display": "30.09.2026 · 11:37 Uhr"
-    },
-    {
-      "title": "Türkei-Reise: Wüst würdigt Visaerleichterung für türkische Geschäftsleute",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/30/wuest-wuerdigt-visaerleichterung-fuer-tuerkische-geschaeftsleute-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/30/wuest-wuerdigt-visaerleichterung-fuer-tuerkische-geschaeftsleute",
-      "published": "Wed, 30 Sep 2026 11:37:16 -0000",
-      "published_display": "30.09.2026 · 11:37 Uhr"
+      "image": "https://img.zeit.de/news/2026-09/30/anschlaege-gegen-parteibueros-anklage-gegen-40-jaehrigen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/30/anschlaege-gegen-parteibueros-anklage-gegen-40-jaehrigen",
+      "published": "Wed, 30 Sep 2026 12:05:23 -0000",
+      "published_display": "30.09.2026 · 12:05 Uhr"
     },
     {
       "title": "Sachsen-Anhalt: CDU-Politiker Borchert soll Vizepräsident im Landtag werden",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-09/30/cdu-politiker-borchert-soll-vizepraesident-im-landtag-werden-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-09/30/cdu-politiker-borchert-soll-vizepraesident-im-landtag-werden",
-      "published": "Wed, 30 Sep 2026 11:35:48 -0000",
-      "published_display": "30.09.2026 · 11:35 Uhr"
-    },
-    {
-      "title": "Debatte über Verbotsverfahren: Thüringer AfD will «Gütesiegel» der Verfassungsmäßigkeit",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/30/thueringer-afd-will-guetesiegel-der-verfassungsmaessigkeit-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/30/thueringer-afd-will-guetesiegel-der-verfassungsmaessigkeit",
-      "published": "Wed, 30 Sep 2026 11:35:33 -0000",
-      "published_display": "30.09.2026 · 11:35 Uhr"
+      "published": "Wed, 30 Sep 2026 12:04:48 -0000",
+      "published_display": "30.09.2026 · 12:04 Uhr"
     }
   ]
 }
