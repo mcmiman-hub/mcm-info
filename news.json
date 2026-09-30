@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-30T01:46:39.993833+00:00",
+  "updated": "2026-09-30T01:58:07.939218+00:00",
   "items": [
+    {
+      "title": "Autoindustrie: BMW streicht beim neuen 3er den Diesel",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/30/bmw-streicht-beim-neuen-3er-den-diesel-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/30/bmw-streicht-beim-neuen-3er-den-diesel",
+      "published": "Wed, 30 Sep 2026 01:45:04 -0000",
+      "published_display": "30.09.2026 · 01:45 Uhr"
+    },
     {
       "title": "Plenardebatte: Landtag berät über Strategien gegen Sozialkriminalität",
       "summary": "",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/30/jugendlicher-stuerzt-mit-motorrad-und-stirbt",
       "published": "Tue, 29 Sep 2026 23:03:00 -0000",
       "published_display": "29.09.2026 · 23:03 Uhr"
-    },
-    {
-      "title": "Bundesbildungsministerin: Prien warnt mögliche AfD-Regierung in Sachsen-Anhalt bezüglich Schulen",
-      "summary": "Karin Prien droht der AfD in Sachsen-Anhalt mit Klagen bei drastischen Änderungen in der Bildungspolitik. Auch für Schulabschlüsse könnte es Konsequenzen geben.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/karin-prien-afd-sachsen-anhalt-cdu-regierung-bildung-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/karin-prien-afd-sachsen-anhalt-cdu-regierung-bildung",
-      "published": "Tue, 29 Sep 2026 22:58:52 -0000",
-      "published_display": "29.09.2026 · 22:58 Uhr"
     }
   ]
 }
