@@ -1,7 +1,79 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-30T08:38:18.798696+00:00",
+  "updated": "2026-09-30T08:58:27.570458+00:00",
   "items": [
+    {
+      "title": "Teure Autos, teure Reparaturen: Neue Typklassen in der Kfz-Versicherung",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/30/neue-typklassen-in-der-versicherung-fuer-miilionen-autofahrer-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/30/neue-typklassen-in-der-versicherung-fuer-miilionen-autofahrer",
+      "published": "Wed, 30 Sep 2026 08:51:20 -0000",
+      "published_display": "30.09.2026 · 08:51 Uhr"
+    },
+    {
+      "title": "Gilgeori-Toast: Süße Grüße aus Seoul",
+      "summary": "In Korea sind herzhaft und süß nie sehr weit voneinander entfernt. Für dieses Streetfoodsandwich wird ein deftiges Omelett gezuckert, bevor es aufs Brot kommt!",
+      "image": "https://img.zeit.de/zeit-magazin/wochenmarkt/2026-09/gilgeori-toast-bild/original__640x360",
+      "link": "https://www.zeit.de/zeit-magazin/wochenmarkt/2026-09/gilgeori-toast-seoul-suedkorea-strassenkueche-rezept",
+      "published": "Wed, 30 Sep 2026 08:49:53 -0000",
+      "published_display": "30.09.2026 · 08:49 Uhr"
+    },
+    {
+      "title": "Krankenkassenreport: DAK: Mehr ADHS-Neudiagnosen bei Kindern und Jugendlichen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/30/dak-mehr-adhs-neudiagnosen-bei-kindern-und-jugendlichen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/30/dak-mehr-adhs-neudiagnosen-bei-kindern-und-jugendlichen",
+      "published": "Wed, 30 Sep 2026 08:45:16 -0000",
+      "published_display": "30.09.2026 · 08:45 Uhr"
+    },
+    {
+      "title": "Urzeit-Tiere: Urzeitlicher Pflanzenfresser aus Tansania beschrieben",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/30/neuer-dinosaurier-aus-tansania-beschrieben-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/24/neuer-dinosaurier-aus-tansania-beschrieben",
+      "published": "Wed, 30 Sep 2026 08:44:23 -0000",
+      "published_display": "30.09.2026 · 08:44 Uhr"
+    },
+    {
+      "title": "Bundesanwaltschaft: Mutmaßlicher IS-Kämpfer in Hessen festgenommen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/30/mutmasslicher-is-kaempfer-in-hessen-festgenommen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/30/mutmasslicher-is-kaempfer-in-hessen-festgenommen",
+      "published": "Wed, 30 Sep 2026 08:43:15 -0000",
+      "published_display": "30.09.2026 · 08:43 Uhr"
+    },
+    {
+      "title": "US-Militär in Nahost: Eine neue Balance: US-Truppen ziehen aus dem Irak ab",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/30/eine-neue-balance-us-truppen-ziehen-aus-dem-irak-ab-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/30/eine-neue-balance-us-truppen-ziehen-aus-dem-irak-ab",
+      "published": "Wed, 30 Sep 2026 08:39:52 -0000",
+      "published_display": "30.09.2026 · 08:39 Uhr"
+    },
+    {
+      "title": "Studentenwohnreport 2026: Mieten von Studierenden weiter angestiegen",
+      "summary": "Studentisches Wohnen wird deutschlandweit teurer. Studierende zahlten laut einer Auswertung im ersten Halbjahr 2026 um 2,6 Prozent mehr Miete als im Jahr zuvor.",
+      "image": "https://img.zeit.de/wirtschaft/2026-09/studentenwohnreport-2026-mlp-institut-der-deutschen-wirtschaft-mieten-foto-1/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/2026-09/studentenwohnreport-2026-mlp-institut-der-deutschen-wirtschaft-mieten",
+      "published": "Wed, 30 Sep 2026 08:39:21 -0000",
+      "published_display": "30.09.2026 · 08:39 Uhr"
+    },
+    {
+      "title": "Bundesanwaltschaft: Kriegsverbrechen in Syrien? Mann in Rheinland-Pfalz gefasst",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/30/kriegsverbrechen-in-syrien-mann-in-rheinland-pfalz-gefasst-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/30/kriegsverbrechen-in-syrien-mann-in-rheinland-pfalz-gefasst",
+      "published": "Wed, 30 Sep 2026 08:37:22 -0000",
+      "published_display": "30.09.2026 · 08:37 Uhr"
+    },
+    {
+      "title": "Verkehr: Notarzteinsatz am Münchner Ostbahnhof - S-Bahn betroffen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/30/notarzteinsatz-am-muenchner-ostbahnhof-s-bahn-betroffen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/30/notarzteinsatz-am-muenchner-ostbahnhof-s-bahn-betroffen",
+      "published": "Wed, 30 Sep 2026 08:37:12 -0000",
+      "published_display": "30.09.2026 · 08:37 Uhr"
+    },
     {
       "title": "Kriminalität: Jugendliche verletzen obdachlose Frau mit Feuerwerkskörpern",
       "summary": "",
@@ -49,78 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/30/abrechnungsbetrug-millionenschaden-fuer-die-kkh",
       "published": "Wed, 30 Sep 2026 08:30:05 -0000",
       "published_display": "30.09.2026 · 08:30 Uhr"
-    },
-    {
-      "title": "Irak: Alle US-Soldaten aus dem Irak abgezogen",
-      "summary": "Der Einsatz der USA im Irak ist offiziell beendet, alle Soldaten der US-Armee sind abgezogen. Zwei Tage nach dem Irak bestätigte das nun auch die US‑Regierung.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/abzug-us-truppen-irak-militaer-soldaten-saddam-hussein-islamischer-staat-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/abzug-us-truppen-irak-militaer-soldaten-saddam-hussein-islamischer-staat",
-      "published": "Wed, 30 Sep 2026 08:25:08 -0000",
-      "published_display": "30.09.2026 · 08:25 Uhr"
-    },
-    {
-      "title": "Koalition: Koalition bringt Pflegereform ins Kabinett",
-      "summary": "",
-      "image": "https://img.zeit.de/administratives/sharing/fallback-image-die-zeit/wide__1300x731",
-      "link": "https://www.zeit.de/news/2026-09/30/koalition-bringt-pflegereform-ins-kabinett",
-      "published": "Wed, 30 Sep 2026 08:23:37 -0000",
-      "published_display": "30.09.2026 · 08:23 Uhr"
-    },
-    {
-      "title": "Unglücksfall: Senior stirbt nach Unfall mit Mülllaster",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/30/senior-stirbt-nach-unfall-mit-muelllaster-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/30/senior-stirbt-nach-unfall-mit-muelllaster",
-      "published": "Wed, 30 Sep 2026 08:21:22 -0000",
-      "published_display": "30.09.2026 · 08:21 Uhr"
-    },
-    {
-      "title": "Teure Energie: Importpreise steigen so stark wie seit Ende 2022 nicht mehr",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/30/importpreise-steigen-so-stark-wie-seit-ende-2022-nicht-mehr-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/30/importpreise-steigen-so-stark-wie-seit-ende-2022-nicht-mehr",
-      "published": "Wed, 30 Sep 2026 08:17:42 -0000",
-      "published_display": "30.09.2026 · 08:17 Uhr"
-    },
-    {
-      "title": "Arbeitsmarkt: So viele Arbeitslose wie seit 20 Jahren nicht mehr",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/30/zahl-der-arbeitslosen-sinkt-im-september-leicht-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/30/zahl-der-arbeitslosen-sinkt-im-september-leicht",
-      "published": "Wed, 30 Sep 2026 08:16:36 -0000",
-      "published_display": "30.09.2026 · 08:16 Uhr"
-    },
-    {
-      "title": "Ungarn: Berufungsgericht verringert Strafe für Maja T. auf sieben Jahre",
-      "summary": "Maja T. stand in Ungarn wegen tätlicher Angriffe auf mutmaßliche Rechtsextremisten vor Gericht. Ihre Haftstrafe wurde von acht auf sieben Jahre verringert.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/berufungsgericht-verringert-strafe-fuer-maja-t-auf-sieben-jahre-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/berufungsgericht-verringert-strafe-fuer-maja-t-auf-sieben-jahre",
-      "published": "Wed, 30 Sep 2026 08:10:53 -0000",
-      "published_display": "30.09.2026 · 08:10 Uhr"
-    },
-    {
-      "title": "Geschäftsklima: Optimistische Stimmung in der ostdeutschen Wirtschaft",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/30/optimistische-stimmung-in-der-ostdeutschen-wirtschaft-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/30/optimistische-stimmung-in-der-ostdeutschen-wirtschaft",
-      "published": "Wed, 30 Sep 2026 08:10:12 -0000",
-      "published_display": "30.09.2026 · 08:10 Uhr"
-    },
-    {
-      "title": "Mieten: Studieren wird teurer – und die Wohnungsnot bleibt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/30/studieren-wird-teurer-und-die-wohnungsnot-bleibt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/30/studieren-wird-teurer-und-die-wohnungsnot-bleibt",
-      "published": "Wed, 30 Sep 2026 08:10:05 -0000",
-      "published_display": "30.09.2026 · 08:10 Uhr"
-    },
-    {
-      "title": "Arbeitsmarkt: Zahl der Arbeitslosen sinkt unter drei Millionen",
-      "summary": "Im September waren 2,994 Millionen Menschen in Deutschland arbeitslos. Trotz eines leichten Rückgangs bleibt die Zahl höher als vor einem Jahr.",
-      "image": "https://img.zeit.de/arbeit/2026-09/arbeitslosigkeit-deutschland-arbeitslosenzahlen-arbeitslosenquote-bundesagentur-fuer-arbeit-andrea-nahles-foto-1/original__640x360",
-      "link": "https://www.zeit.de/arbeit/2026-09/arbeitslosigkeit-deutschland-arbeitslosenzahlen-arbeitslosenquote-bundesagentur-fuer-arbeit-andrea-nahles",
-      "published": "Wed, 30 Sep 2026 08:09:51 -0000",
-      "published_display": "30.09.2026 · 08:09 Uhr"
     }
   ]
 }
