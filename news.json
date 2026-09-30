@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-30T00:52:38.717153+00:00",
+  "updated": "2026-09-30T01:19:04.948406+00:00",
   "items": [
+    {
+      "title": "Entmilitarisierte Zone: Nordkorea weist Verantwortung für Explosion in Grenzgebiet zurück",
+      "summary": "Die nordkoreanische Regierung will nicht für die Explosion mit drei Verletzten verantwortlich sein. Die Schwester Kim Jong Uns droht Südkorea mit Vergeltung.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/nordkorea-suedkorea-minenexplosion-grenze-kim-yo-jong-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/nordkorea-suedkorea-minenexplosion-grenze-kim-yo-jong",
+      "published": "Wed, 30 Sep 2026 01:13:11 -0000",
+      "published_display": "30.09.2026 · 01:13 Uhr"
+    },
+    {
+      "title": "Unfall: Mann in Hamburg überrollt und tödlich verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/30/mann-in-hamburg-ueberrollt-und-toedlich-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/30/mann-in-hamburg-ueberrollt-und-toedlich-verletzt",
+      "published": "Wed, 30 Sep 2026 00:53:21 -0000",
+      "published_display": "30.09.2026 · 00:53 Uhr"
+    },
     {
       "title": "Zohran Mamdani: New Yorks Bürgermeister Mamdani stellt Plan gegen Antisemitismus vor",
       "summary": "In New York nahmen antisemitische Straftaten zuletzt stark zu. Der Bürgermeister will mehr Geld für die Sicherheit von Synagogen und Informationskampagnen bereitstellen.",
@@ -59,14 +75,6 @@
       "published_display": "29.09.2026 · 23:54 Uhr"
     },
     {
-      "title": "Unfall: Mann in Hamburg überrollt und tödlich verletzt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/30/mann-in-hamburg-ueberrollt-und-toedlich-verletzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/30/mann-in-hamburg-ueberrollt-und-toedlich-verletzt",
-      "published": "Tue, 29 Sep 2026 23:39:46 -0000",
-      "published_display": "29.09.2026 · 23:39 Uhr"
-    },
-    {
       "title": "Künstliche Intelligenz: Trump: KI-Firmen sollen sich selbst beaufsichtigen",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-09/30/trump-ki-firmen-sollen-sich-selbst-beaufsichtigen-image-group/original__640x360",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/30/ostbeauftragte-fordert-ausgleich-bei-erbschaftsteuer",
       "published": "Tue, 29 Sep 2026 22:30:04 -0000",
       "published_display": "29.09.2026 · 22:30 Uhr"
-    },
-    {
-      "title": "Bildungspolitik: Prien droht AfD mit Klagen und Rückforderung von Bundesgeld",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/30/prien-droht-afd-mit-klagen-und-rueckforderung-von-bundesgeld-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/30/prien-droht-afd-mit-klagen-und-rueckforderung-von-bundesgeld",
-      "published": "Tue, 29 Sep 2026 22:15:06 -0000",
-      "published_display": "29.09.2026 · 22:15 Uhr"
     }
   ]
 }
