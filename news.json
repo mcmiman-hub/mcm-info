@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-30T00:26:48.873909+00:00",
+  "updated": "2026-09-30T00:52:38.717153+00:00",
   "items": [
+    {
+      "title": "Zohran Mamdani: New Yorks Bürgermeister Mamdani stellt Plan gegen Antisemitismus vor",
+      "summary": "In New York nahmen antisemitische Straftaten zuletzt stark zu. Der Bürgermeister will mehr Geld für die Sicherheit von Synagogen und Informationskampagnen bereitstellen.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/zohran-mamdani-antisemitismus-new-york-schutz-juden-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/zohran-mamdani-antisemitismus-new-york-schutz-juden",
+      "published": "Wed, 30 Sep 2026 00:49:47 -0000",
+      "published_display": "30.09.2026 · 00:49 Uhr"
+    },
+    {
+      "title": "Sicherheit im Luftverkehr: Neues System zur Drohnenerkennung am Berliner Flughafen BER",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/30/neues-system-zur-drohnenerkennung-am-berliner-flughafen-ber-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/30/neues-system-zur-drohnenerkennung-am-berliner-flughafen-ber",
+      "published": "Wed, 30 Sep 2026 00:44:53 -0000",
+      "published_display": "30.09.2026 · 00:44 Uhr"
+    },
+    {
+      "title": "Zusammenstoß mit Lkw: Tödlicher Unfall bei Sondershausen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/30/toedlicher-unfall-bei-sondershausen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/30/toedlicher-unfall-bei-sondershausen",
+      "published": "Wed, 30 Sep 2026 00:37:18 -0000",
+      "published_display": "30.09.2026 · 00:37 Uhr"
+    },
     {
       "title": "Korea-Konflikt: Nach Minenexplosion: Nordkorea streitet Verantwortung ab",
       "summary": "",
@@ -83,14 +107,6 @@
       "published_display": "29.09.2026 · 22:49 Uhr"
     },
     {
-      "title": "Sicherheit im Luftverkehr: Neues System zur Drohnenerkennung am Berliner Flughafen BER",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/30/neues-system-zur-drohnenerkennung-am-berliner-flughafen-ber-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/30/neues-system-zur-drohnenerkennung-am-berliner-flughafen-ber",
-      "published": "Tue, 29 Sep 2026 22:30:17 -0000",
-      "published_display": "29.09.2026 · 22:30 Uhr"
-    },
-    {
       "title": "Finanzen: Ostbeauftragte fordert Ausgleich bei Erbschaftsteuer",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-09/30/ostbeauftragte-fordert-ausgleich-bei-erbschaftsteuer-image-group/original__640x360",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/30/prien-droht-afd-mit-klagen-und-rueckforderung-von-bundesgeld",
       "published": "Tue, 29 Sep 2026 22:15:06 -0000",
       "published_display": "29.09.2026 · 22:15 Uhr"
-    },
-    {
-      "title": "Pflege-Streit: Langes Ringen um geplante Pflegereform",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/30/langes-ringen-um-geplante-pflegereform-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/30/langes-ringen-um-geplante-pflegereform",
-      "published": "Tue, 29 Sep 2026 22:15:05 -0000",
-      "published_display": "29.09.2026 · 22:15 Uhr"
-    },
-    {
-      "title": "Unfall in der Stadt: Frau unter Straßenbahn eingeklemmt und schwer verletzt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/frau-unter-strassenbahn-eingeklemmt-und-schwer-verletzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/frau-unter-strassenbahn-eingeklemmt-und-schwer-verletzt",
-      "published": "Tue, 29 Sep 2026 22:07:10 -0000",
-      "published_display": "29.09.2026 · 22:07 Uhr"
     }
   ]
 }
