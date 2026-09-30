@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-30T21:48:33.799271+00:00",
+  "updated": "2026-09-30T21:59:01.555423+00:00",
   "items": [
+    {
+      "title": "Kalenderblatt: Was geschah am 1. Oktober?",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/30/was-geschah-am-1-oktober-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/30/was-geschah-am-1-oktober",
+      "published": "Wed, 30 Sep 2026 21:55:04 -0000",
+      "published_display": "30.09.2026 · 21:55 Uhr"
+    },
+    {
+      "title": "Filmindustrie: US-Richterin billigt Übernahme von Warner Bros. durch Paramount",
+      "summary": "Der Übernahme von Warner Bros. durch Paramount steht nichts mehr im Weg. Die zuständige Richterin billigt den Vergleich zwischen Paramount und zwölf US‑Bundesstaaten.",
+      "image": "https://img.zeit.de/wirtschaft/2026-09/warner-bros-discovery-uebernahme-paramount-skydance-araceli-martinez-olguin-foto-1/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/2026-09/warner-bros-discovery-uebernahme-paramount-skydance-araceli-martinez-olguin",
+      "published": "Wed, 30 Sep 2026 21:53:50 -0000",
+      "published_display": "30.09.2026 · 21:53 Uhr"
+    },
+    {
+      "title": "Feuerwehreinsatz: Brand in Entsorgungsbetrieb - starke Rauchentwicklung",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/30/brand-in-entsorgungsbetrieb-starke-rauchentwicklung-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/30/brand-in-entsorgungsbetrieb-starke-rauchentwicklung",
+      "published": "Wed, 30 Sep 2026 21:46:01 -0000",
+      "published_display": "30.09.2026 · 21:46 Uhr"
+    },
     {
       "title": "Anhörung im Thüringer Landtag: Maaßen und Höcke treffen sich zum Mittagessen",
       "summary": "",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/30/schuesse-bei-verhaftung-51-jaehriger-schwer-verletzt",
       "published": "Wed, 30 Sep 2026 19:03:13 -0000",
       "published_display": "30.09.2026 · 19:03 Uhr"
-    },
-    {
-      "title": "UBS-Bankenregulierung in der Schweiz: Das Ende einer Liebesbeziehung",
-      "summary": "Die Schweiz will ihre letzte Großbank stärker regulieren – und die UBS droht mit Wegzug. Selbst bürgerliche Politiker reagieren gelassen. Was ist da passiert?",
-      "image": "https://img.zeit.de/2026/42/noch-einmal-retten-wir-euch-nicht-bild-1/original__640x360",
-      "link": "https://www.zeit.de/2026/42/ubs-bankenregulierung-schweiz-eigenkapital-lex",
-      "published": "Wed, 30 Sep 2026 19:03:07 -0000",
-      "published_display": "30.09.2026 · 19:03 Uhr"
-    },
-    {
-      "title": "Anhörung Thüringer Landtag: Kerkeling: «Wir dulden keinen Faschismus in Deutschland»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/30/kerkeling-wir-dulden-keinen-faschismus-in-deutschland-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/30/kerkeling-wir-dulden-keinen-faschismus-in-deutschland",
-      "published": "Wed, 30 Sep 2026 19:01:49 -0000",
-      "published_display": "30.09.2026 · 19:01 Uhr"
-    },
-    {
-      "title": "Emotionen: Wie man seine Gefühle besser erkennt",
-      "summary": "Wie man mit seinen Gefühlen umgeht, ist entscheidend für die Psyche. Bloß: Dafür muss man wissen, was man fühlt. Das fällt vielen schwer. Psychologen wissen, was hilft.",
-      "image": "https://img.zeit.de/gesundheit/2026-09/emotionen-umgang-gefuehle-zugang-regulierung-bild/original__640x360",
-      "link": "https://www.zeit.de/gesundheit/2026-09/emotionen-umgang-gefuehle-zugang-regulierung",
-      "published": "Wed, 30 Sep 2026 18:57:42 -0000",
-      "published_display": "30.09.2026 · 18:57 Uhr"
     }
   ]
 }
