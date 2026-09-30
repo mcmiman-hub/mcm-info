@@ -1,12 +1,20 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-30T01:32:47.796312+00:00",
+  "updated": "2026-09-30T01:46:39.993833+00:00",
   "items": [
     {
       "title": "Plenardebatte: Landtag berät über Strategien gegen Sozialkriminalität",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-09/30/landtag-beraet-ueber-strategien-gegen-sozialkriminalitaet-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-09/30/landtag-beraet-ueber-strategien-gegen-sozialkriminalitaet",
+      "published": "Wed, 30 Sep 2026 01:30:05 -0000",
+      "published_display": "30.09.2026 · 01:30 Uhr"
+    },
+    {
+      "title": "Türkei-Reise: Wüst beendet Türkei-Reise mit Wirtschaftskonferenz",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/30/wuest-beendet-tuerkei-reise-mit-wirtschaftskonferenz-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/30/wuest-beendet-tuerkei-reise-mit-wirtschaftskonferenz",
       "published": "Wed, 30 Sep 2026 01:30:05 -0000",
       "published_display": "30.09.2026 · 01:30 Uhr"
     },
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/politik/deutschland/2026-09/karin-prien-afd-sachsen-anhalt-cdu-regierung-bildung",
       "published": "Tue, 29 Sep 2026 22:58:52 -0000",
       "published_display": "29.09.2026 · 22:58 Uhr"
-    },
-    {
-      "title": "Die Linke: Jan van Aken kritisiert Debatte über Antisemitismus in der Linkspartei",
-      "summary": "Antisemiten müssten die Partei verlassen, sagt der frühere Parteivorsitzende. Er wirft CDU und Immobilienlobby vor, die Debatte zu instrumentalisieren.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/jan-van-aken-die-linke-antisemitismus-vorwuerfe-cdu-berlin-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/jan-van-aken-die-linke-antisemitismus-vorwuerfe-cdu-berlin",
-      "published": "Tue, 29 Sep 2026 22:52:21 -0000",
-      "published_display": "29.09.2026 · 22:52 Uhr"
     }
   ]
 }
