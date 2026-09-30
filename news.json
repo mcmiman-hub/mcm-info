@@ -1,7 +1,63 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-30T18:39:11.674660+00:00",
+  "updated": "2026-09-30T19:01:33.146498+00:00",
   "items": [
+    {
+      "title": "Emotionen: Wie man seine Gefühle besser erkennt",
+      "summary": "Wie man mit seinen Gefühlen umgeht, ist entscheidend für die Psyche. Bloß: Dafür muss man wissen, was man fühlt. Das fällt vielen schwer. Psychologen wissen, was hilft.",
+      "image": "https://img.zeit.de/gesundheit/2026-09/emotionen-umgang-gefuehle-zugang-regulierung-bild/original__640x360",
+      "link": "https://www.zeit.de/gesundheit/2026-09/emotionen-umgang-gefuehle-zugang-regulierung",
+      "published": "Wed, 30 Sep 2026 18:57:42 -0000",
+      "published_display": "30.09.2026 · 18:57 Uhr"
+    },
+    {
+      "title": "Made for Germany: Friedrich Merz verspricht Investoren grundlegende Reformen",
+      "summary": "Gegenüber Wirtschaftsvertretern kündigt Merz an, Reformen weiter umzusetzen. Schon nächste Woche soll der Koalitionsausschuss über einen flexibleren Arbeitsmarkt beraten.",
+      "image": "https://img.zeit.de/wirtschaft/2026-09/friedrich-merz-strukturreformen-arbeitsmarkt-eu-binnenmarkt-rentenreform-foto-1/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/2026-09/friedrich-merz-strukturreformen-arbeitsmarkt-eu-binnenmarkt-rentenreform",
+      "published": "Wed, 30 Sep 2026 18:57:28 -0000",
+      "published_display": "30.09.2026 · 18:57 Uhr"
+    },
+    {
+      "title": "Pflegereform: Reformieren – sie können es ja doch!",
+      "summary": "Es wurde gerungen, aber am Ende haben Union und SPD es geschafft. Die Pflegereform sucht die Balance zwischen verkraftbaren Zumutungen und nötigen Strukturveränderungen.",
+      "image": "https://img.zeit.de/wirtschaft/2026-09/pflegereform-koalition-kabinett-gesundheitswesen-einigung-bild/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/2026-09/pflegereform-koalition-kabinett-gesundheitswesen-einigung",
+      "published": "Wed, 30 Sep 2026 18:51:26 -0000",
+      "published_display": "30.09.2026 · 18:51 Uhr"
+    },
+    {
+      "title": "Buchhandlungspreis: Bericht widerspricht Weimer-Darstellung zu Ausschluss von Buchläden",
+      "summary": "Nach Aussagen von Kulturstaatsminister Weimer führten Hinweise von Beamten zur Überprüfung linker Buchhandlungen. Interne Dokumente wecken einem Bericht zufolge Zweifel.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/wolfram-weimer-deutscher-buchhandlungspreis-ausschluss-linke-buchhandlungen-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/wolfram-weimer-deutscher-buchhandlungspreis-ausschluss-linke-buchhandlungen",
+      "published": "Wed, 30 Sep 2026 18:50:48 -0000",
+      "published_display": "30.09.2026 · 18:50 Uhr"
+    },
+    {
+      "title": "Krise bei Volkswagen: VW kündigt Tarifverträge: Was heißt das für Beschäftigte?",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/30/vw-kuendigt-tarifvertraege-was-heisst-das-fuer-beschaeftigte-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/30/vw-kuendigt-tarifvertraege-was-heisst-das-fuer-beschaeftigte",
+      "published": "Wed, 30 Sep 2026 18:49:52 -0000",
+      "published_display": "30.09.2026 · 18:49 Uhr"
+    },
+    {
+      "title": "Handball: DHB-Pokal: Thüringer HC wirft Meister Blomberg raus",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/30/thueringer-hc-wirft-meister-blomberg-raus-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/30/thueringer-hc-wirft-meister-blomberg-raus",
+      "published": "Wed, 30 Sep 2026 18:41:13 -0000",
+      "published_display": "30.09.2026 · 18:41 Uhr"
+    },
+    {
+      "title": "Europa Cup der Frauen: Europa-Cup-Quali sicher: Wolfsburg siegt auch in Graz",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/30/europa-cup-quali-sicher-wolfsburg-siegt-auch-in-graz-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/30/europa-cup-quali-sicher-wolfsburg-siegt-auch-in-graz",
+      "published": "Wed, 30 Sep 2026 18:38:36 -0000",
+      "published_display": "30.09.2026 · 18:38 Uhr"
+    },
     {
       "title": "Fußball-Nationalmannschaft: Klopp reagiert auf Rassismus gegen DFB-Spieler im Netz",
       "summary": "",
@@ -65,62 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/30/vizeadmiral-abry-ist-neuer-marineinspekteur",
       "published": "Wed, 30 Sep 2026 18:20:51 -0000",
       "published_display": "30.09.2026 · 18:20 Uhr"
-    },
-    {
-      "title": "Nach Clan-Kontakt: Berliner Linke-Politiker Koçak verlässt Bundestagsausschuss",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/30/linke-politiker-ko-ak-gibt-sitz-in-bundestagsausschuss-auf-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/30/linke-politiker-ko-ak-gibt-sitz-in-bundestagsausschuss-auf",
-      "published": "Wed, 30 Sep 2026 18:17:07 -0000",
-      "published_display": "30.09.2026 · 18:17 Uhr"
-    },
-    {
-      "title": "Unfälle: Auto landet in Havariebecken einer Biogasanlage",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/30/auto-landet-in-havariebecken-einer-biogasanlage-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/30/auto-landet-in-havariebecken-einer-biogasanlage",
-      "published": "Wed, 30 Sep 2026 18:12:38 -0000",
-      "published_display": "30.09.2026 · 18:12 Uhr"
-    },
-    {
-      "title": "Kanzlerdebatte: Wüst als Kanzler? Liminski rückt in NRW ins Rampenlicht",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/30/wuest-als-kanzler-liminski-rueckt-in-nrw-ins-rampenlicht-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/30/wuest-als-kanzler-liminski-rueckt-in-nrw-ins-rampenlicht",
-      "published": "Wed, 30 Sep 2026 18:05:39 -0000",
-      "published_display": "30.09.2026 · 18:05 Uhr"
-    },
-    {
-      "title": "Made for Germany: Friedrich Merz verspricht Investoren grundlegende Reformen",
-      "summary": "Gegenüber Wirtschaftsvertretern kündigt Merz an, Reformen weiter umzusetzen. Schon nächste Woche soll der Koalitionsausschuss über einen flexibleren Arbeitsmarkt beraten.",
-      "image": "https://img.zeit.de/wirtschaft/2026-09/friedrich-merz-strukturreformen-arbeitsmarkt-eu-binnenmarkt-rentenreform-foto-1/original__640x360",
-      "link": "https://www.zeit.de/wirtschaft/2026-09/friedrich-merz-strukturreformen-arbeitsmarkt-eu-binnenmarkt-rentenreform",
-      "published": "Wed, 30 Sep 2026 18:05:23 -0000",
-      "published_display": "30.09.2026 · 18:05 Uhr"
-    },
-    {
-      "title": "Arbeiten für Offshore-Windpark: Mega-Arbeitsschiff «Pioneering Spirit» im Ostsee-Einsatz",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/30/mega-arbeitsschiff-pioneering-spirit-im-ostsee-einsatz-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/30/mega-arbeitsschiff-pioneering-spirit-im-ostsee-einsatz",
-      "published": "Wed, 30 Sep 2026 18:03:08 -0000",
-      "published_display": "30.09.2026 · 18:03 Uhr"
-    },
-    {
-      "title": "Pflegereform: Linnemann weist SPD-Forderungen nach Kostendeckel in der Pflege zurück",
-      "summary": "Der Bundesgesundheitsminister hält Kostendeckel beim Eigenanteil in der Pflege für »hochgradig gefährlich«. Einen anderen Wunsch der SPD will Linnemann beraten lassen.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/pflege-eigenanteile-carsten-linnemann-cdu-spd-deckel-pflegeversicherung-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/pflege-eigenanteile-carsten-linnemann-cdu-spd-deckel-pflegeversicherung",
-      "published": "Wed, 30 Sep 2026 18:01:10 -0000",
-      "published_display": "30.09.2026 · 18:01 Uhr"
-    },
-    {
-      "title": "Deutschlandticket: Für diesen Preisanstieg will niemand verantwortlich sein",
-      "summary": "Während Autofahrer mit Milliarden entlastet werden, steigt der Preis für das Deutschlandticket zum Jahreswechsel erneut. Dafür gibt es eine einfache Erklärung.",
-      "image": "https://img.zeit.de/mobilitaet/2026-09/deutschlandticket-preis-erhoehung/original__640x360",
-      "link": "https://www.zeit.de/mobilitaet/2026-09/deutschlandticket-preis-erhoehung-nahverkehr-auto-mobilitaet",
-      "published": "Wed, 30 Sep 2026 17:57:29 -0000",
-      "published_display": "30.09.2026 · 17:57 Uhr"
     }
   ]
 }
