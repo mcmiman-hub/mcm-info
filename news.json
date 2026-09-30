@@ -1,11 +1,35 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-29T23:55:27.330312+00:00",
+  "updated": "2026-09-30T00:26:48.873909+00:00",
   "items": [
     {
-      "title": "Künstliche Intelligenz : KI-Konzerne vereinbaren laut Trump Abkommen zur Selbstkontrolle",
+      "title": "Korea-Konflikt: Nach Minenexplosion: Nordkorea streitet Verantwortung ab",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/30/nach-minenexplosion-nordkorea-streitet-verantwortung-ab-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/30/nach-minenexplosion-nordkorea-streitet-verantwortung-ab",
+      "published": "Wed, 30 Sep 2026 00:23:32 -0000",
+      "published_display": "30.09.2026 · 00:23 Uhr"
+    },
+    {
+      "title": "USA und Nordkorea: Trump zu Nordkoreas Atomwaffen: Kim ist mein Freund",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/30/trump-zu-nordkoreas-atomwaffen-kim-ist-mein-freund-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/30/trump-zu-nordkoreas-atomwaffen-kim-ist-mein-freund",
+      "published": "Wed, 30 Sep 2026 00:09:08 -0000",
+      "published_display": "30.09.2026 · 00:09 Uhr"
+    },
+    {
+      "title": "Berliner Flughafen: Flughafen BER führt System zur Drohnenerkennung ein",
+      "summary": "Drohnen stören vermehrt den Betrieb an deutschen Flughäfen. Der Berliner Flughafen BER ist besonders betroffen. Ein neues System soll Drohnen nun schneller erkennen.",
+      "image": "https://img.zeit.de/mobilitaet/2026-09/drohnen-flughafen-ber-berlin-dfs-sicherheit-foto-1/original__640x360",
+      "link": "https://www.zeit.de/mobilitaet/2026-09/drohnen-flughafen-ber-berlin-dfs-sicherheit",
+      "published": "Wed, 30 Sep 2026 00:04:13 -0000",
+      "published_display": "30.09.2026 · 00:04 Uhr"
+    },
+    {
+      "title": "Künstliche Intelligenz: KI-Konzerne vereinbaren laut Trump Abkommen zur Selbstkontrolle",
       "summary": "Nach einem Treffen mit der KI-Branche verkündet Donald Trump eine Einigung der Unternehmen. Sie werden sich künftig »selbst regulieren«, sagt der US-Präsident.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/ki-vereinbarung-usa-donald-trump-konzerne-technologie-foto-1/original__640x360",
+      "image": "https://img.zeit.de/politik/2026-09/donald-trump-ki-weisses-hause/original__640x360",
       "link": "https://www.zeit.de/politik/ausland/2026-09/ki-vereinbarung-usa-donald-trump-konzerne-technologie",
       "published": "Tue, 29 Sep 2026 23:54:19 -0000",
       "published_display": "29.09.2026 · 23:54 Uhr"
@@ -43,7 +67,7 @@
       "published_display": "29.09.2026 · 22:58 Uhr"
     },
     {
-      "title": "Die Linke: Jan van Aken kritisiert Debatte um Antisemitismus in der Linkspartei",
+      "title": "Die Linke: Jan van Aken kritisiert Debatte über Antisemitismus in der Linkspartei",
       "summary": "Antisemiten müssten die Partei verlassen, sagt der frühere Parteivorsitzende. Er wirft CDU und Immobilienlobby vor, die Debatte zu instrumentalisieren.",
       "image": "https://img.zeit.de/politik/deutschland/2026-09/jan-van-aken-die-linke-antisemitismus-vorwuerfe-cdu-berlin-foto-1/original__640x360",
       "link": "https://www.zeit.de/politik/deutschland/2026-09/jan-van-aken-die-linke-antisemitismus-vorwuerfe-cdu-berlin",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/29/frau-unter-strassenbahn-eingeklemmt-und-schwer-verletzt",
       "published": "Tue, 29 Sep 2026 22:07:10 -0000",
       "published_display": "29.09.2026 · 22:07 Uhr"
-    },
-    {
-      "title": "Kalenderblatt: Was geschah am 30. September?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/was-geschah-am-30-september-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/was-geschah-am-30-september",
-      "published": "Tue, 29 Sep 2026 21:55:04 -0000",
-      "published_display": "29.09.2026 · 21:55 Uhr"
-    },
-    {
-      "title": "Berlin: Zwei Männer durch Schüsse verletzt - Täter flüchtig",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/29/zwei-maenner-durch-schuesse-verletzt-taeter-fluechtig-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/29/zwei-maenner-durch-schuesse-verletzt-taeter-fluechtig",
-      "published": "Tue, 29 Sep 2026 21:40:28 -0000",
-      "published_display": "29.09.2026 · 21:40 Uhr"
-    },
-    {
-      "title": "US-Migrationspolitik: US-Regierung darf Migranten vorerst wieder in Drittstaaten abschieben",
-      "summary": "Der Oberste Gerichtshof erlaubt der Regierung von Donald Trump, Menschen in Drittstaaten abzuschieben. Ein Urteil aus unterer Instanz wurde vorerst ausgesetzt.",
-      "image": "https://img.zeit.de/politik/2026-09/president-trump-makes-an-announcement-from-the-oval-office-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/oberster-gerichtshof-usa-abschiebung-migranten-drittstaaten",
-      "published": "Tue, 29 Sep 2026 21:37:51 -0000",
-      "published_display": "29.09.2026 · 21:37 Uhr"
     }
   ]
 }
