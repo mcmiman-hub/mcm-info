@@ -1,10 +1,26 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-30T01:19:04.948406+00:00",
+  "updated": "2026-09-30T01:32:47.796312+00:00",
   "items": [
     {
+      "title": "Plenardebatte: Landtag berät über Strategien gegen Sozialkriminalität",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/30/landtag-beraet-ueber-strategien-gegen-sozialkriminalitaet-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/30/landtag-beraet-ueber-strategien-gegen-sozialkriminalitaet",
+      "published": "Wed, 30 Sep 2026 01:30:05 -0000",
+      "published_display": "30.09.2026 · 01:30 Uhr"
+    },
+    {
+      "title": "Alte Weltkriegsmunition: Munitionsentschärfung in Potsdam - Sperrkreis ab 9.30 Uhr",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/30/munitionsentschaerfung-in-potsdam-sperrkreis-ab-9-30-uhr-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/30/munitionsentschaerfung-in-potsdam-sperrkreis-ab-9-30-uhr",
+      "published": "Wed, 30 Sep 2026 01:30:04 -0000",
+      "published_display": "30.09.2026 · 01:30 Uhr"
+    },
+    {
       "title": "Entmilitarisierte Zone: Nordkorea weist Verantwortung für Explosion in Grenzgebiet zurück",
-      "summary": "Die nordkoreanische Regierung will nicht für die Explosion mit drei Verletzten verantwortlich sein. Die Schwester Kim Jong Uns droht Südkorea mit Vergeltung.",
+      "summary": "Die nordkoreanische Regierung will nicht für die Explosion mit drei Verletzten verantwortlich sein. Die Schwester Kim Jong-uns droht Südkorea mit Vergeltung.",
       "image": "https://img.zeit.de/politik/ausland/2026-09/nordkorea-suedkorea-minenexplosion-grenze-kim-yo-jong-foto-1/original__640x360",
       "link": "https://www.zeit.de/politik/ausland/2026-09/nordkorea-suedkorea-minenexplosion-grenze-kim-yo-jong",
       "published": "Wed, 30 Sep 2026 01:13:11 -0000",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/politik/deutschland/2026-09/jan-van-aken-die-linke-antisemitismus-vorwuerfe-cdu-berlin",
       "published": "Tue, 29 Sep 2026 22:52:21 -0000",
       "published_display": "29.09.2026 · 22:52 Uhr"
-    },
-    {
-      "title": "Elterngeld: Bundesfamilienministerium erwägt Kehrtwende bei Elterngeldreform",
-      "summary": "Die Bezugsdauer soll laut der Familienministerin womöglich doch nicht von 14 auf zwölf Monate gekürzt werden. Karin Prien kritisiert Vorgaben aus dem Finanzministerium.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/elterngeld-kuerzung-karin-prien-familienleistungen-haushalt-cdu-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/elterngeld-kuerzung-karin-prien-familienministerium-haushalt-cdu-spd",
-      "published": "Tue, 29 Sep 2026 22:49:20 -0000",
-      "published_display": "29.09.2026 · 22:49 Uhr"
-    },
-    {
-      "title": "Finanzen: Ostbeauftragte fordert Ausgleich bei Erbschaftsteuer",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/30/ostbeauftragte-fordert-ausgleich-bei-erbschaftsteuer-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/30/ostbeauftragte-fordert-ausgleich-bei-erbschaftsteuer",
-      "published": "Tue, 29 Sep 2026 22:30:04 -0000",
-      "published_display": "29.09.2026 · 22:30 Uhr"
     }
   ]
 }
