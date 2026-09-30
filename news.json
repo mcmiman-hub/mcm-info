@@ -1,7 +1,39 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-30T05:48:19.820452+00:00",
+  "updated": "2026-09-30T05:58:39.190801+00:00",
   "items": [
+    {
+      "title": "Brände: 50 Strohballen im Wartburgkreis in Flammen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/30/50-strohballen-im-wartburgkreis-in-flammen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/30/50-strohballen-im-wartburgkreis-in-flammen",
+      "published": "Wed, 30 Sep 2026 05:51:52 -0000",
+      "published_display": "30.09.2026 · 05:51 Uhr"
+    },
+    {
+      "title": "Polizei im neuen Look: Das macht die neuen Polizeiuniformen so besonders",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/30/das-macht-die-neuen-polizeiuniformen-so-besonders-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/30/das-macht-die-neuen-polizeiuniformen-so-besonders",
+      "published": "Wed, 30 Sep 2026 05:50:45 -0000",
+      "published_display": "30.09.2026 · 05:50 Uhr"
+    },
+    {
+      "title": "Organisierte Kriminalität: Mehr als 1.000 Polizisten bei Razzia gegen Hells Angels",
+      "summary": "In vier Ländern gehen Einsatzkräfte gleichzeitig gegen ein mutmaßliches Geldwäsche-Netzwerk um die Hells-Angels-Rocker vor. Dabei soll es auch Verhaftungen gegeben haben.",
+      "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-09/razzia-hells-angels-geldwaesche-duisburg-nrw-foto-1/original__640x360",
+      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-09/razzia-hells-angels-geldwaesche-duisburg-nrw",
+      "published": "Wed, 30 Sep 2026 05:49:05 -0000",
+      "published_display": "30.09.2026 · 05:49 Uhr"
+    },
+    {
+      "title": "Schusswaffengewalt: Wieder Schüsse in Berlin - Polizei sucht Täter",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/30/wieder-schuesse-in-berlin-polizei-sucht-taeter-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/30/wieder-schuesse-in-berlin-polizei-sucht-taeter",
+      "published": "Wed, 30 Sep 2026 05:45:49 -0000",
+      "published_display": "30.09.2026 · 05:45 Uhr"
+    },
     {
       "title": "Kommunen: Bürgermeister stirbt nach Zusammenbruch im Rathaus",
       "summary": "",
@@ -89,38 +121,6 @@
       "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-09/right-livelihood-award-alternativer-nobelpreis-jalila-haider-timnit-gebru",
       "published": "Wed, 30 Sep 2026 05:12:14 -0000",
       "published_display": "30.09.2026 · 05:12 Uhr"
-    },
-    {
-      "title": "Wetterumschwung: Regen in Sicht",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/30/regen-in-sicht-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/30/regen-in-sicht",
-      "published": "Wed, 30 Sep 2026 05:03:50 -0000",
-      "published_display": "30.09.2026 · 05:03 Uhr"
-    },
-    {
-      "title": "Wettervorhersage: Der letzte Spätsommertag? – Gewitter am Donnerstag erwartet",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/30/der-letzte-spaetsommertag-gewitter-am-donnerstag-erwartet-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/30/der-letzte-spaetsommertag-gewitter-am-donnerstag-erwartet",
-      "published": "Wed, 30 Sep 2026 04:59:18 -0000",
-      "published_display": "30.09.2026 · 04:59 Uhr"
-    },
-    {
-      "title": "Urteil in Münster: Polizei begrüßt Urteil zu Messerverboten in NRW",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/30/polizei-begruesst-urteil-zu-messerverboten-in-nrw-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/30/polizei-begruesst-urteil-zu-messerverboten-in-nrw",
-      "published": "Wed, 30 Sep 2026 04:56:41 -0000",
-      "published_display": "30.09.2026 · 04:56 Uhr"
-    },
-    {
-      "title": "US-Luftwaffenbasis: Terrorverdächtiger in Großbritannien soll selbst Polizei gerufen haben",
-      "summary": "Offenbar hat einer der Verdächtigen eines mutmaßlichen Anschlagsversuchs in Großbritannien selbst die Polizei gerufen. Einsatzkräfte warteten schon beim US-Stützpunkt.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/us-luftwaffenbasis-grossbritannien-terrorverdacht-notruf-raf-fairford-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/us-luftwaffenbasis-grossbritannien-terrorverdacht-notruf-raf-fairford",
-      "published": "Wed, 30 Sep 2026 04:54:50 -0000",
-      "published_display": "30.09.2026 · 04:54 Uhr"
     }
   ]
 }
