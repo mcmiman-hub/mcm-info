@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-30T03:49:09.483745+00:00",
+  "updated": "2026-09-30T03:59:24.140042+00:00",
   "items": [
+    {
+      "title": "Vergesellschaftung von Wohnungskonzernen: Wie die Union Vergesellschaftungen in Berlin verhindern will",
+      "summary": "Die Linke will Berliner Wohnungskonzerne vergesellschaften, Friedrich Merz will genau das verhindern. Darf das der Bund? Und: Warum OpenAI sein neues Modell zurückhält.",
+      "image": "https://img.zeit.de/politik/2026-09/vergesellschaftung-wohnungskonzerne-bundesregierung-nachrichtenpodcast-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/2026-09/vergesellschaftung-wohnungskonzerne-bundesregierung-nachrichtenpodcast",
+      "published": "Wed, 30 Sep 2026 03:58:46 -0000",
+      "published_display": "30.09.2026 · 03:58 Uhr"
+    },
     {
       "title": "Luftqualität: Drittel der Weltbevölkerung in 2026 extremer Ozonbelastung ausgesetzt",
       "summary": "Brände und Hitze haben die Luftqualität laut einem Copernicus-Bericht weltweit verschlechtert. Vor allem Asien ist betroffen, auch in Europa wurden Werte überschritten.",
@@ -112,14 +120,6 @@
       "image": "https://img.zeit.de/news/2026-09/30/eine-neue-balance-us-truppen-ziehen-aus-dem-irak-ab-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-09/30/eine-neue-balance-us-truppen-ziehen-aus-dem-irak-ab",
       "published": "Wed, 30 Sep 2026 03:00:09 -0000",
-      "published_display": "30.09.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Marode Brücke: Bahn-Brücke zwischen Köln und Wuppertal vorerst repariert",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/30/bahn-bruecke-zwischen-koeln-und-wuppertal-vorerst-repariert-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/30/bahn-bruecke-zwischen-koeln-und-wuppertal-vorerst-repariert",
-      "published": "Wed, 30 Sep 2026 03:00:07 -0000",
       "published_display": "30.09.2026 · 03:00 Uhr"
     }
   ]
