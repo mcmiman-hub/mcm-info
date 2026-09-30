@@ -1,14 +1,70 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-30T17:57:34.504879+00:00",
+  "updated": "2026-09-30T18:21:24.514920+00:00",
   "items": [
+    {
+      "title": "Nach Clan-Kontakt: Berliner Linke-Politiker Koçak verlässt Bundestagsausschuss",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/30/linke-politiker-ko-ak-gibt-sitz-in-bundestagsausschuss-auf-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/30/linke-politiker-ko-ak-gibt-sitz-in-bundestagsausschuss-auf",
+      "published": "Wed, 30 Sep 2026 18:17:07 -0000",
+      "published_display": "30.09.2026 · 18:17 Uhr"
+    },
+    {
+      "title": "Unfälle: Auto landet in Havariebecken einer Biogasanlage",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/30/auto-landet-in-havariebecken-einer-biogasanlage-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/30/auto-landet-in-havariebecken-einer-biogasanlage",
+      "published": "Wed, 30 Sep 2026 18:12:38 -0000",
+      "published_display": "30.09.2026 · 18:12 Uhr"
+    },
+    {
+      "title": "Strafvollzug: Gefangene misshandelt? Prozess gegen Justizbeamte angesetzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/30/gefangene-misshandelt-prozess-gegen-justizbeamte-angesetzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/30/gefangene-misshandelt-prozess-gegen-justizbeamte-angesetzt",
+      "published": "Wed, 30 Sep 2026 18:11:17 -0000",
+      "published_display": "30.09.2026 · 18:11 Uhr"
+    },
+    {
+      "title": "Kanzlerdebatte: Wüst als Kanzler? Liminski rückt in NRW ins Rampenlicht",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/30/wuest-als-kanzler-liminski-rueckt-in-nrw-ins-rampenlicht-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/30/wuest-als-kanzler-liminski-rueckt-in-nrw-ins-rampenlicht",
+      "published": "Wed, 30 Sep 2026 18:05:39 -0000",
+      "published_display": "30.09.2026 · 18:05 Uhr"
+    },
+    {
+      "title": "Made for Germany: Friedrich Merz verspricht Investoren grundlegende Reformen",
+      "summary": "Gegenüber Wirtschaftsvertretern kündigt Merz an, Reformen weiter umzusetzen. Schon nächste Woche soll der Koalitionsausschuss über einen flexibleren Arbeitsmarkt beraten.",
+      "image": "https://img.zeit.de/wirtschaft/2026-09/friedrich-merz-strukturreformen-arbeitsmarkt-eu-binnenmarkt-rentenreform-foto-1/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/2026-09/friedrich-merz-strukturreformen-arbeitsmarkt-eu-binnenmarkt-rentenreform",
+      "published": "Wed, 30 Sep 2026 18:05:23 -0000",
+      "published_display": "30.09.2026 · 18:05 Uhr"
+    },
+    {
+      "title": "Arbeiten für Offshore-Windpark: Mega-Arbeitsschiff «Pioneering Spirit» im Ostsee-Einsatz",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/30/mega-arbeitsschiff-pioneering-spirit-im-ostsee-einsatz-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/30/mega-arbeitsschiff-pioneering-spirit-im-ostsee-einsatz",
+      "published": "Wed, 30 Sep 2026 18:03:08 -0000",
+      "published_display": "30.09.2026 · 18:03 Uhr"
+    },
+    {
+      "title": "Pflegereform: Linnemann weist SPD-Forderungen nach Kostendeckel in der Pflege zurück",
+      "summary": "Der Bundesgesundheitsminister hält Kostendeckel beim Eigenanteil in der Pflege für »hochgradig gefährlich«. Einen anderen Wunsch der SPD will Linnemann beraten lassen.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/pflege-eigenanteile-carsten-linnemann-cdu-spd-deckel-pflegeversicherung-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/pflege-eigenanteile-carsten-linnemann-cdu-spd-deckel-pflegeversicherung",
+      "published": "Wed, 30 Sep 2026 18:01:10 -0000",
+      "published_display": "30.09.2026 · 18:01 Uhr"
+    },
     {
       "title": "Deutschlandticket: Für diesen Preisanstieg will niemand verantwortlich sein",
       "summary": "Während Autofahrer mit Milliarden entlastet werden, steigt der Preis für das Deutschlandticket zum Jahreswechsel erneut. Dafür gibt es eine einfache Erklärung.",
       "image": "https://img.zeit.de/mobilitaet/2026-09/deutschlandticket-preis-erhoehung/original__640x360",
       "link": "https://www.zeit.de/mobilitaet/2026-09/deutschlandticket-preis-erhoehung-nahverkehr-auto-mobilitaet",
-      "published": "Wed, 30 Sep 2026 17:52:43 -0000",
-      "published_display": "30.09.2026 · 17:52 Uhr"
+      "published": "Wed, 30 Sep 2026 17:57:29 -0000",
+      "published_display": "30.09.2026 · 17:57 Uhr"
     },
     {
       "title": "Rekordwert: Spätester heißer Tag in NRW: 30,9 Grad in Lippstadt",
@@ -17,14 +73,6 @@
       "link": "https://www.zeit.de/news/2026-09/30/spaetester-heisser-tag-in-nrw-30-9-grad-in-lippstadt",
       "published": "Wed, 30 Sep 2026 17:52:31 -0000",
       "published_display": "30.09.2026 · 17:52 Uhr"
-    },
-    {
-      "title": "Pflegereform: Linnemann weist SPD-Forderungen nach Kostendeckel in der Pflege zurück",
-      "summary": "Der Bundesgesundheitsminister hält Kostendeckel beim Eigenanteil in der Pflege für »hochgradig gefährlich«. Einen anderen Wunsch der SPD will Linnemann beraten lassen.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/pflege-eigenanteile-carsten-linnemann-cdu-spd-deckel-pflegeversicherung-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/pflege-eigenanteile-carsten-linnemann-cdu-spd-deckel-pflegeversicherung",
-      "published": "Wed, 30 Sep 2026 17:51:12 -0000",
-      "published_display": "30.09.2026 · 17:51 Uhr"
     },
     {
       "title": "Berufungsprozess gegen Maja T.: Kommt Maja T. zurück?",
@@ -73,54 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/30/schulkrawalle-in-frankreich-weiten-sich-aus-625-festnahmen",
       "published": "Wed, 30 Sep 2026 17:32:50 -0000",
       "published_display": "30.09.2026 · 17:32 Uhr"
-    },
-    {
-      "title": "Reformen und Koalitionskrise: Wie lange geht das noch gut?",
-      "summary": "Mit viel Mühe hat sich die Koalition auf eine Pflegereform geeinigt, doch es droht schon die nächste Krise. Am Haushalt könnte die Regierung scheitern.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/reformen-koalition-krise-rente-cdu-spd-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/2026-09/reformen-koalition-krise-rente-cdu-spd",
-      "published": "Wed, 30 Sep 2026 17:32:30 -0000",
-      "published_display": "30.09.2026 · 17:32 Uhr"
-    },
-    {
-      "title": "Nahost: Israel: Versuchter Anschlag auf Flydubai-Flug nach Tel Aviv",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/30/gewaltvorfall-im-cockpit-flydubai-flieger-notgelandet-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/30/gewaltvorfall-im-cockpit-flydubai-flieger-notgelandet",
-      "published": "Wed, 30 Sep 2026 17:31:13 -0000",
-      "published_display": "30.09.2026 · 17:31 Uhr"
-    },
-    {
-      "title": "Tarife: Verdi: Mehr Geld für 124.000 Beschäftigte im Handel",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/30/verdi-mehr-geld-fuer-124-000-beschaeftigte-im-handel-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/30/verdi-mehr-geld-fuer-124-000-beschaeftigte-im-handel",
-      "published": "Wed, 30 Sep 2026 17:20:39 -0000",
-      "published_display": "30.09.2026 · 17:20 Uhr"
-    },
-    {
-      "title": "Klopp und Wolf als DFB-Stützen: Sammer: Mertesacker «muss sich gnadenlos durchsetzen»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/30/sammer-mertesacker-muss-sich-gnadenlos-durchsetzen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/30/sammer-mertesacker-muss-sich-gnadenlos-durchsetzen",
-      "published": "Wed, 30 Sep 2026 17:19:22 -0000",
-      "published_display": "30.09.2026 · 17:19 Uhr"
-    },
-    {
-      "title": "Pflege: SPD-Fraktion fordert Nachbesserung in Reform-Entwurf",
-      "summary": "Eine kurzfristige Stabilisierung der Pflegeversicherung sei noch keine Reform, kritisiert SPD-Fraktionsvizin Dagmar Schmidt. Sie forderte strukturelle Veränderungen.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/pflegereform-spd-pflegeversicherung-finanzausgleich-pflegedeckel-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/pflegereform-spd-pflegeversicherung-finanzausgleich-pflegedeckel-gxe",
-      "published": "Wed, 30 Sep 2026 17:13:16 -0000",
-      "published_display": "30.09.2026 · 17:13 Uhr"
-    },
-    {
-      "title": "Fußball-Nationalmannschaft: Die Zukunft beginnt: Neuers Bayern-Ziehsohn im DFB-Tor",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/30/die-zukunft-beginnt-neuers-bayern-ziehsohn-im-dfb-tor-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/30/die-zukunft-beginnt-neuers-bayern-ziehsohn-im-dfb-tor",
-      "published": "Wed, 30 Sep 2026 17:13:06 -0000",
-      "published_display": "30.09.2026 · 17:13 Uhr"
     }
   ]
 }
