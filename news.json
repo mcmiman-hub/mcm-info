@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-30T19:33:35.076961+00:00",
+  "updated": "2026-09-30T19:46:17.016505+00:00",
   "items": [
+    {
+      "title": "Feuerwehreinsatz: Brand auf Schrottplatz in Mannheim - zwei Verletzte",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/30/brand-auf-schrottplatz-rauch-ueber-mannheim-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/30/brand-auf-schrottplatz-rauch-ueber-mannheim",
+      "published": "Wed, 30 Sep 2026 19:33:52 -0000",
+      "published_display": "30.09.2026 · 19:33 Uhr"
+    },
+    {
+      "title": "Notlandung von Flydubai: Was zur Notlandung des Flydubai-Flugs bekannt ist",
+      "summary": "Israel spricht nach der Notlandung eines Flugzeugs auf dem Weg nach Tel Aviv von einem versuchten Anschlag. Die Passagiere sind inzwischen in Israel angekommen.",
+      "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-09/flydubai-notlandung-saudi-arabien-pilot-cockpit-messer-foto-1/original__640x360",
+      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-09/flydubai-notlandung-saudi-arabien-pilot-cockpit-messer",
+      "published": "Wed, 30 Sep 2026 19:33:13 -0000",
+      "published_display": "30.09.2026 · 19:33 Uhr"
+    },
     {
       "title": "Regierung: Söder: Friedrich Merz ist Kanzler und bleibt Kanzler",
       "summary": "",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/30/thueringer-hc-wirft-meister-blomberg-raus",
       "published": "Wed, 30 Sep 2026 18:41:13 -0000",
       "published_display": "30.09.2026 · 18:41 Uhr"
-    },
-    {
-      "title": "Europa Cup der Frauen: Europa-Cup-Quali sicher: Wolfsburg siegt auch in Graz",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/30/europa-cup-quali-sicher-wolfsburg-siegt-auch-in-graz-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/30/europa-cup-quali-sicher-wolfsburg-siegt-auch-in-graz",
-      "published": "Wed, 30 Sep 2026 18:38:36 -0000",
-      "published_display": "30.09.2026 · 18:38 Uhr"
-    },
-    {
-      "title": "Fußball-Nationalmannschaft: Klopp reagiert auf Rassismus gegen DFB-Spieler im Netz",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/30/klopp-reagiert-auf-rassismus-gegen-dfb-spieler-im-netz-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/30/klopp-reagiert-auf-rassismus-gegen-dfb-spieler-im-netz",
-      "published": "Wed, 30 Sep 2026 18:36:49 -0000",
-      "published_display": "30.09.2026 · 18:36 Uhr"
     }
   ]
 }
