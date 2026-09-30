@@ -1,7 +1,95 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-30T15:04:37.980506+00:00",
+  "updated": "2026-09-30T15:24:53.644439+00:00",
   "items": [
+    {
+      "title": "Kritik nach Wahlsieg: Berlins Linke geht gegen Sachsens Innenminister vor",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/30/berlins-linke-geht-gegen-sachsens-innenminister-vor-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/30/berlins-linke-geht-gegen-sachsens-innenminister-vor",
+      "published": "Wed, 30 Sep 2026 15:21:28 -0000",
+      "published_display": "30.09.2026 · 15:21 Uhr"
+    },
+    {
+      "title": "Kriminalität: Schwarzarbeit und Menschenhandel? Festnahmen und Razzien",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/30/schwarzarbeit-und-menschenhandel-bundesweite-durchsuchung-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/30/schwarzarbeit-und-menschenhandel-bundesweite-durchsuchung",
+      "published": "Wed, 30 Sep 2026 15:21:12 -0000",
+      "published_display": "30.09.2026 · 15:21 Uhr"
+    },
+    {
+      "title": "AfD-Verbotsverfahren: Thüringens Innenminister sieht Chancen für AfD-Verbot gestiegen",
+      "summary": "Georg Maier erwartet, dass eine Arbeitsgruppe zur Prüfung eines AfD-Verbotsverfahrens noch in diesem Jahr zustande kommt. Die Voraussetzungen dafür sieht er gegeben.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/afd-verbot-georg-maier-spd-thueringen-bundesrat-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/afd-verbot-georg-maier-spd-thueringen-bundesrat",
+      "published": "Wed, 30 Sep 2026 15:17:37 -0000",
+      "published_display": "30.09.2026 · 15:17 Uhr"
+    },
+    {
+      "title": "Feuerwehreinsatz: Brand in Entsorgungsbetrieb - starke Rauchentwicklung",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/30/brand-in-entsorgungsbetrieb-starke-rauchentwicklung-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/30/brand-in-entsorgungsbetrieb-starke-rauchentwicklung",
+      "published": "Wed, 30 Sep 2026 15:16:18 -0000",
+      "published_display": "30.09.2026 · 15:16 Uhr"
+    },
+    {
+      "title": "Deutsche Marine: Vizeadmiral Abry ist neuer Inspekteur der Marine",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/30/vizeadmiral-abry-ist-neuer-inspekteur-der-marine-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/30/vizeadmiral-abry-ist-neuer-inspekteur-der-marine",
+      "published": "Wed, 30 Sep 2026 15:16:14 -0000",
+      "published_display": "30.09.2026 · 15:16 Uhr"
+    },
+    {
+      "title": "Wasserrohrbrüche: Trinkwasserversorgung in Teilen Hamburgs gestört",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/30/trinkwasserversorgung-in-teilen-hamburgs-gestoert-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/30/trinkwasserversorgung-in-teilen-hamburgs-gestoert",
+      "published": "Wed, 30 Sep 2026 15:14:06 -0000",
+      "published_display": "30.09.2026 · 15:14 Uhr"
+    },
+    {
+      "title": "Sondierungsgespräche in Berlin: Rote Hilfe, rote Linie?",
+      "summary": "Vor den Sondierungen in Berlin wird die Linke Elif Eralp für eine frühere Mitgliedschaft in einem linksextremen Verein kritisiert. Und: Einigung bei der Pflegereform",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/sondierungsgespraeche-berlin-elif-eralp-die-linke-nachrichtenpodcast-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/2026-09/sondierungsgespraeche-berlin-elif-eralp-die-linke-nachrichtenpodcast",
+      "published": "Wed, 30 Sep 2026 15:12:49 -0000",
+      "published_display": "30.09.2026 · 15:12 Uhr"
+    },
+    {
+      "title": "Zeugen gesucht: 13 Schafe in Augsburg gestohlen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/30/13-schafe-in-augsburg-gestohlen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/30/13-schafe-in-augsburg-gestohlen",
+      "published": "Wed, 30 Sep 2026 15:11:40 -0000",
+      "published_display": "30.09.2026 · 15:11 Uhr"
+    },
+    {
+      "title": "Grafing bei München: Trauer um Bürgermeister - Tod nach Zusammenbruch im Rathaus",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/30/buergermeister-stirbt-nach-zusammenbruch-im-rathaus-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/30/buergermeister-stirbt-nach-zusammenbruch-im-rathaus",
+      "published": "Wed, 30 Sep 2026 15:07:52 -0000",
+      "published_display": "30.09.2026 · 15:07 Uhr"
+    },
+    {
+      "title": "Pflege: SPD-Fraktion fordert Nachbesserung in Reform-Entwurf",
+      "summary": "Eine kurzfristige Stabilisierung der Pflegeversicherung sei noch keine Reform, kritisiert SPD-Fraktionsvizin Dagmar Schmidt. Sie forderte strukturelle Veränderungen.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/pflegereform-spd-pflegeversicherung-finanzausgleich-pflegedeckel-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/pflegereform-spd-pflegeversicherung-finanzausgleich-pflegedeckel-gxe",
+      "published": "Wed, 30 Sep 2026 15:05:30 -0000",
+      "published_display": "30.09.2026 · 15:05 Uhr"
+    },
+    {
+      "title": "Polizeieinsatz: Raubüberfall in Augsburg: Haftbefehl gegen 20-Jährigen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-09/30/raubueberfall-in-augsburg-haftbefehl-gegen-20-jaehrigen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-09/30/raubueberfall-in-augsburg-haftbefehl-gegen-20-jaehrigen",
+      "published": "Wed, 30 Sep 2026 15:04:34 -0000",
+      "published_display": "30.09.2026 · 15:04 Uhr"
+    },
     {
       "title": "Hinrichtung in Tennessee: Gericht stoppt Hinrichtung von Frau im US-Staat Tennessee",
       "summary": "Weil sie im Alter von 18 Jahren eine Klassenkameradin ermordet hatte, sollte Christa Pike in den USA hingerichtet werden. Ein Gericht stoppte dies kurz vor dem Termin.",
@@ -33,94 +121,6 @@
       "link": "https://www.zeit.de/news/2026-09/30/afd-anwalt-verbotsverfahren-waere-schaedlich",
       "published": "Wed, 30 Sep 2026 14:57:50 -0000",
       "published_display": "30.09.2026 · 14:57 Uhr"
-    },
-    {
-      "title": "Pharma: Boehringer bleibt unabhängig – kein Börsengang geplant",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/30/boehringer-bleibt-unabhaengig-kein-boersengang-geplant-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/30/boehringer-bleibt-unabhaengig-kein-boersengang-geplant",
-      "published": "Wed, 30 Sep 2026 14:52:55 -0000",
-      "published_display": "30.09.2026 · 14:52 Uhr"
-    },
-    {
-      "title": "Tag der Deutschen Einheit: Zum Geburtstag: Viel Glück!",
-      "summary": "Der Tag der Deutschen Einheit war früher ein Jubeldatum für unseren Autor- Heute erscheint er ihm wie ein alter Freund, der einem fremd geworden ist.",
-      "image": "https://img.zeit.de/2026/42/zum-geburtstag-viel-glueck-bild-1/original__640x360",
-      "link": "https://www.zeit.de/2026/42/tag-der-deutschen-einheit-3-oktober-wiedervereinigung-ost-west",
-      "published": "Wed, 30 Sep 2026 14:51:50 -0000",
-      "published_display": "30.09.2026 · 14:51 Uhr"
-    },
-    {
-      "title": "3. Liga: Früherer Bundesliga-Profi wird Sportdirektor in Düsseldorf",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/30/frueherer-bundesliga-profi-wird-sportdirektor-in-duesseldorf-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/30/frueherer-bundesliga-profi-wird-sportdirektor-in-duesseldorf",
-      "published": "Wed, 30 Sep 2026 14:50:11 -0000",
-      "published_display": "30.09.2026 · 14:50 Uhr"
-    },
-    {
-      "title": "Großrazzia gegen Rocker: Die «Hells Angels» und die Spur des schmutzigen Geldes",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/30/rocker-razzia-auch-polizist-und-stadt-mitarbeiter-im-visier-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/30/rocker-razzia-auch-polizist-und-stadt-mitarbeiter-im-visier",
-      "published": "Wed, 30 Sep 2026 14:49:58 -0000",
-      "published_display": "30.09.2026 · 14:49 Uhr"
-    },
-    {
-      "title": "Kritik an der Linken: Berliner Linke fordert Unterlassung von CDU-Minister Poseck",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/30/berliner-linke-fordert-unterlassung-von-cdu-minister-poseck-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/30/berliner-linke-fordert-unterlassung-von-cdu-minister-poseck",
-      "published": "Wed, 30 Sep 2026 14:48:58 -0000",
-      "published_display": "30.09.2026 · 14:48 Uhr"
-    },
-    {
-      "title": "Gasspeicher: Ein Schritt, den Katherina Reiche unbedingt vermeiden wollte",
-      "summary": "Lange hat sich die Ministerin gewehrt, angesichts leerer Gasspeicher in den Markt einzugreifen. Nun ordnet sie das Einspeichern an. Doch die Erleichterung bleibt aus.",
-      "image": "https://img.zeit.de/wirtschaft/2026-09/imago0867891481h-bild/original__640x360",
-      "link": "https://www.zeit.de/wirtschaft/2026-09/gasspeicher-katherina-reiche-cdu-wirtschaft-energieversorgung-fuellstaende",
-      "published": "Wed, 30 Sep 2026 14:48:10 -0000",
-      "published_display": "30.09.2026 · 14:48 Uhr"
-    },
-    {
-      "title": "AfD-Verbotsverfahren: Thüringens Innenminister sieht Chancen für AfD-Verbot gestiegen",
-      "summary": "Georg Maier erwartet, dass eine Arbeitsgruppe zur Prüfung eines AfD-Verbotsverfahrens noch in diesem Jahr zustande kommt. Die Voraussetzungen dafür sieht er gegeben.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/afd-verbot-georg-maier-spd-thueringen-bundesrat-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-09/afd-verbot-georg-maier-spd-thueringen-bundesrat",
-      "published": "Wed, 30 Sep 2026 14:47:55 -0000",
-      "published_display": "30.09.2026 · 14:47 Uhr"
-    },
-    {
-      "title": "Alltag bereichern: »Und dann müssen wir drei mitten in der Kirche laut lachen«",
-      "summary": "Dinge, die ein Leben lebenswert machen, sind mal klein, mal allumfassend. Jede Woche präsentieren wir eine Auswahl stimmungsaufhellender Einsendungen unserer Leserschaft.",
-      "image": "https://img.zeit.de/2024/53/was-mein-leben-reicher-macht-teaserbild/original__640x360",
-      "link": "https://www.zeit.de/2026/42/alltag-bereichern-leben-kleine-freude-leser-aufruf",
-      "published": "Wed, 30 Sep 2026 14:47:37 -0000",
-      "published_display": "30.09.2026 · 14:47 Uhr"
-    },
-    {
-      "title": "Bayerischer Landtag: Spaenle kehrt wieder einmal in den Landtag zurück",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/30/spaenle-kehrt-wieder-einmal-in-den-landtag-zurueck-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/30/spaenle-kehrt-wieder-einmal-in-den-landtag-zurueck",
-      "published": "Wed, 30 Sep 2026 14:47:37 -0000",
-      "published_display": "30.09.2026 · 14:47 Uhr"
-    },
-    {
-      "title": "Schach: Schachbretträtsel",
-      "summary": "Wie konnte Weiß am Zug gewinnen?",
-      "image": "https://img.zeit.de/spiele/spiele-schach-teaser-neu/original__640x360",
-      "link": "https://www.zeit.de/zeit-magazin/2026/42/schach",
-      "published": "Wed, 30 Sep 2026 14:47:35 -0000",
-      "published_display": "30.09.2026 · 14:47 Uhr"
-    },
-    {
-      "title": "Kölner Oper: Kölle, et is jot jejange",
-      "summary": "Mit elf Jahren Verspätung eröffnet die Kölner Oper wieder. Der Bau ist prächtig, die Gastro muss noch üben – und was ist mit der Kunst los?",
-      "image": "https://img.zeit.de/2026/42/koelle-et-is-jot-jejange-bild-1/original__640x360",
-      "link": "https://www.zeit.de/2026/42/koelner-oper-sanierung-eroeffnung-kosten-architektur",
-      "published": "Wed, 30 Sep 2026 14:47:33 -0000",
-      "published_display": "30.09.2026 · 14:47 Uhr"
     }
   ]
 }
