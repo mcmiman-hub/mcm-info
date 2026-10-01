@@ -1,14 +1,78 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-01T06:52:57.577081+00:00",
+  "updated": "2026-10-01T07:21:25.097872+00:00",
   "items": [
+    {
+      "title": "Verkehr: A9 Richtung München nach tödlichem Unfall gesperrt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/a9-richtung-muenchen-nach-toedlichem-unfall-gesperrt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/a9-richtung-muenchen-nach-toedlichem-unfall-gesperrt",
+      "published": "Thu, 01 Oct 2026 07:15:12 -0000",
+      "published_display": "01.10.2026 · 07:15 Uhr"
+    },
+    {
+      "title": "Berufsverkehr: Unfall auf A81: Querstehender Lastwagen sorgt für Sperrung",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/unfall-auf-a81-fahrbahn-richtung-stuttgart-gesperrt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/unfall-auf-a81-fahrbahn-richtung-stuttgart-gesperrt",
+      "published": "Thu, 01 Oct 2026 07:12:37 -0000",
+      "published_display": "01.10.2026 · 07:12 Uhr"
+    },
     {
       "title": "Ifo-Institut: Geschäftsklima in der deutschen Elektroindustrie steigt deutlich",
       "summary": "Die Stimmung in der deutschen Elektroindustrie ist so gut wie seit Jahren nicht mehr. Ein Grund dafür ist, dass die Unternehmen deutlich mehr Neuaufträge verbuchen.",
       "image": "https://img.zeit.de/wirtschaft/2026-10/elektroindustrie-geschaeftsklima-ifo-institut-klaus-wohlrabe-foto-1/original__640x360",
       "link": "https://www.zeit.de/wirtschaft/2026-10/elektroindustrie-geschaeftsklima-ifo-institut-klaus-wohlrabe",
-      "published": "Thu, 01 Oct 2026 06:50:41 -0000",
-      "published_display": "01.10.2026 · 06:50 Uhr"
+      "published": "Thu, 01 Oct 2026 07:08:19 -0000",
+      "published_display": "01.10.2026 · 07:08 Uhr"
+    },
+    {
+      "title": "Mobilitätskosten: Tankrabatt startet mit schnell fallenden Preisen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/tankrabatt-startet-mit-schnell-fallenden-preisen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/tankrabatt-startet-mit-schnell-fallenden-preisen",
+      "published": "Thu, 01 Oct 2026 07:07:43 -0000",
+      "published_display": "01.10.2026 · 07:07 Uhr"
+    },
+    {
+      "title": "Wetter: Trockenheit: Dorf im Spessart muss Wasser sparen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/trockenheit-dorf-im-spessart-muss-wasser-sparen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/trockenheit-dorf-im-spessart-muss-wasser-sparen",
+      "published": "Thu, 01 Oct 2026 07:07:10 -0000",
+      "published_display": "01.10.2026 · 07:07 Uhr"
+    },
+    {
+      "title": "Badeunfälle: Suche nach vermisster Frau in Dresdner Kiesgrube geht weiter",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/suche-nach-vermisster-frau-in-dresdner-kiesgrube-geht-weiter-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/suche-nach-vermisster-frau-in-dresdner-kiesgrube-geht-weiter",
+      "published": "Thu, 01 Oct 2026 07:05:46 -0000",
+      "published_display": "01.10.2026 · 07:05 Uhr"
+    },
+    {
+      "title": "Benzin- und Dieselproduktion: Deutsche Raffinerien steigern Produktion von Benzin und Diesel",
+      "summary": "Im ersten Halbjahr ist der Import von Kraftstoffen um ein Viertel eingebrochen. Der Zuwachs bei der heimischen Produktion übersteigt jedoch die ausbleibenden Importe.",
+      "image": "https://img.zeit.de/wirtschaft/2026-10/benzin-diesel-produktion-raffinerien-importe-statistisches-bundesamt-foto-1/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/2026-10/benzin-diesel-produktion-raffinerien-importe-statistisches-bundesamt",
+      "published": "Thu, 01 Oct 2026 07:05:40 -0000",
+      "published_display": "01.10.2026 · 07:05 Uhr"
+    },
+    {
+      "title": "Notfälle: Brennendes Dachgeschoss - Bewohner retten sich selbst",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/brennendes-dachgeschoss-bewohner-retten-sich-selbst-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/brennendes-dachgeschoss-bewohner-retten-sich-selbst",
+      "published": "Thu, 01 Oct 2026 06:58:52 -0000",
+      "published_display": "01.10.2026 · 06:58 Uhr"
+    },
+    {
+      "title": "Brände: Mehr als ein Dutzend Pferde vor Feuer gerettet",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/mehr-als-ein-dutzend-pferde-vor-feuer-gerettet-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/mehr-als-ein-dutzend-pferde-vor-feuer-gerettet",
+      "published": "Thu, 01 Oct 2026 06:53:59 -0000",
+      "published_display": "01.10.2026 · 06:53 Uhr"
     },
     {
       "title": "Benzin und Diesel: Mehr heimischer Kraftstoff: Raffinerien steigern Produktion",
@@ -57,70 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/01/rapper-macklemore-free-palestine-tour-ist-ausverkauft",
       "published": "Thu, 01 Oct 2026 06:36:23 -0000",
       "published_display": "01.10.2026 · 06:36 Uhr"
-    },
-    {
-      "title": "Notfälle: Rohrbrüche in Hamburg: Anwohner teils weiterhin ohne Wasser",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/rohrbrueche-in-hamburg-anwohner-teils-weiterhin-ohne-wasser-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/rohrbrueche-in-hamburg-anwohner-teils-weiterhin-ohne-wasser",
-      "published": "Thu, 01 Oct 2026 06:35:52 -0000",
-      "published_display": "01.10.2026 · 06:35 Uhr"
-    },
-    {
-      "title": "Bündnis Soziale Gerechtigkeit und Wirtschaftliche Vernunft: BSW legt Namen von Parteigründerin Wagenknecht ab",
-      "summary": "BSW-Gründerin Sahra Wagenknecht ist ab heute nicht mehr namensgebend für ihre Partei. Die Umbenennung war für die Zeit nach den jüngsten Landtagswahlen angesetzt.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-10/bsw-partei-namensaenderung-buendnis-sahra-wagenknecht-soziale-gerechtigkeit-wirtschaftliche-vernunft-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-10/bsw-partei-namensaenderung-buendnis-sahra-wagenknecht-soziale-gerechtigkeit-wirtschaftliche-vernunft",
-      "published": "Thu, 01 Oct 2026 06:32:09 -0000",
-      "published_display": "01.10.2026 · 06:32 Uhr"
-    },
-    {
-      "title": "Klima und Natur: Hitzesommer: Wieder verheerendes Jahr für Alpengletscher",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/hitzesommer-wieder-verheerendes-jahr-fuer-alpengletscher-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/hitzesommer-wieder-verheerendes-jahr-fuer-alpengletscher",
-      "published": "Thu, 01 Oct 2026 06:31:45 -0000",
-      "published_display": "01.10.2026 · 06:31 Uhr"
-    },
-    {
-      "title": "Soziale Frage: Nicht jede persönliche soziale Frage ist DIE soziale Frage",
-      "summary": "Über Jahrzehnte ersparte das Wirtschaftswachstum dem Land viele Verteilungskämpfe. Und nun? Müsste der Kanzler den Bürgern erklären, dass nicht jeder alles haben kann.",
-      "image": "https://img.zeit.de/2026/42/ach-diese-entsetzliche-luecke-bild-2/original__640x360",
-      "link": "https://www.zeit.de/2026/42/soziale-frage-sozialstaat-gerechtigkeitsluecke-deindustrialisierung",
-      "published": "Thu, 01 Oct 2026 06:29:21 -0000",
-      "published_display": "01.10.2026 · 06:29 Uhr"
-    },
-    {
-      "title": "Demis Volpi: »Es fühlte sich an wie Verrat«",
-      "summary": "Demis Volpi war gerade mal neun Monate Chef des weltberühmten Hamburg Balletts, dann musste er gehen. Hier spricht er zum ersten Mal über die Vorwürfe seiner Tänzer.",
-      "image": "https://img.zeit.de/feuilleton/2026-09/demis-volpi-hamburg-ballett-intendant-kuendigung-alexandr-trusch-bild-4/original__640x360",
-      "link": "https://www.zeit.de/2026/42/demis-volpi-hamburg-ballett-intendant-vorwuerfe-alexandr-trusch",
-      "published": "Thu, 01 Oct 2026 06:26:41 -0000",
-      "published_display": "01.10.2026 · 06:26 Uhr"
-    },
-    {
-      "title": "Dax-Konzern: Fresenius schluckt Biopharma-Tochter mAbxience komplett",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/fresenius-schluckt-biopharma-tochter-mabxience-komplett-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/fresenius-schluckt-biopharma-tochter-mabxience-komplett",
-      "published": "Thu, 01 Oct 2026 06:22:10 -0000",
-      "published_display": "01.10.2026 · 06:22 Uhr"
-    },
-    {
-      "title": "Geschäftsklima: Ifo: Elektroindustrie wird zur «Konjunkturlokomotive»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/ifo-elektroindustrie-wird-zur-konjunkturlokomotive-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/ifo-elektroindustrie-wird-zur-konjunkturlokomotive",
-      "published": "Thu, 01 Oct 2026 06:21:37 -0000",
-      "published_display": "01.10.2026 · 06:21 Uhr"
-    },
-    {
-      "title": "Verkehr: Bamberg will historischen Bahnhof modernisieren lassen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/bamberg-will-historischen-bahnhof-modernisieren-lassen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/bamberg-will-historischen-bahnhof-modernisieren-lassen",
-      "published": "Thu, 01 Oct 2026 06:21:32 -0000",
-      "published_display": "01.10.2026 · 06:21 Uhr"
     }
   ]
 }
