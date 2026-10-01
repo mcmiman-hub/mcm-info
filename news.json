@@ -1,7 +1,103 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-01T10:50:41.927313+00:00",
+  "updated": "2026-10-01T11:00:58.305880+00:00",
   "items": [
+    {
+      "title": "Tankrabatt: So wirkt der neue Tankrabatt bei Ihnen",
+      "summary": "Um knapp 17 Cent soll der Preis für Benzin und Diesel sinken. Aber geben Tankstellen die Steuersenkung wirklich weiter? Wo Sie jetzt am günstigsten und teuersten tanken.",
+      "image": "https://img.zeit.de/wirtschaft/2026-03/benzinpreise-deutschland-preisentwicklung-karte-bild/original__640x360",
+      "link": "https://www.zeit.de/mobilitaet/2026-10/tankrabatt-start-tankstellen-spritpreis-benzin-diesel",
+      "published": "Thu, 01 Oct 2026 10:57:38 -0000",
+      "published_display": "01.10.2026 · 10:57 Uhr"
+    },
+    {
+      "title": "Sportpolitik: «Nicht mehr die Kraft»: DOSB-Chef Weikert tritt ab",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/dosb-praesident-weikert-verzichtet-auf-erneute-kandidatur-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/dosb-praesident-weikert-verzichtet-auf-erneute-kandidatur",
+      "published": "Thu, 01 Oct 2026 10:57:16 -0000",
+      "published_display": "01.10.2026 · 10:57 Uhr"
+    },
+    {
+      "title": "Autoindustrie: BMW startet Serienproduktion im Batteriewerk in Niederbayern",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/bmw-startet-serienproduktion-im-batteriewerk-in-niederbayern-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/bmw-startet-serienproduktion-im-batteriewerk-in-niederbayern",
+      "published": "Thu, 01 Oct 2026 10:56:03 -0000",
+      "published_display": "01.10.2026 · 10:56 Uhr"
+    },
+    {
+      "title": "Statistik: Thüringer am drittältesten in Deutschland",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/thueringer-am-drittaeltesten-in-deutschland-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/thueringer-am-drittaeltesten-in-deutschland",
+      "published": "Thu, 01 Oct 2026 10:55:48 -0000",
+      "published_display": "01.10.2026 · 10:55 Uhr"
+    },
+    {
+      "title": "Verdächtige Wahrnehmung: Größerer Polizeieinsatz in Freiburg",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/groesserer-polizeieinsatz-in-freiburg-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/groesserer-polizeieinsatz-in-freiburg",
+      "published": "Thu, 01 Oct 2026 10:54:54 -0000",
+      "published_display": "01.10.2026 · 10:54 Uhr"
+    },
+    {
+      "title": "Lars Klingbeil: Kanzleramt stoppt Gesetzesentwurf zur Zuckersteuer",
+      "summary": "Den Vorstoß von Lars Klingbeil zur Zuckersteuer lehnt das Kanzleramt ab. Der Entwurf weiche vom Vorschlag der Finanzkommission Gesundheit ab, heißt es als Begründung.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-10/zuckersteuer-kanzleramt-lars-klingbeil-finanzministerium-gesetz-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-10/kanzleramt-stoppt-gesetzesentwurf-zur-zuckersteuer",
+      "published": "Thu, 01 Oct 2026 10:54:35 -0000",
+      "published_display": "01.10.2026 · 10:54 Uhr"
+    },
+    {
+      "title": "»Die Ängste der Deutschen«: Geldsorgen belasten Deutsche mehr als Angst vor Krieg und Extremismus",
+      "summary": "Die deutsche Bevölkerung fürchtet sich laut einer Umfrage vor allem vor Inflation und hohen Steuern. Existenzsorgen scheinen gegenüber 2025 leicht zugenommen zu haben.",
+      "image": "https://img.zeit.de/gesellschaft/2026-10/rv-studie-aengste-deutschen-lebenshaltungskosten-foto-1/original__640x360",
+      "link": "https://www.zeit.de/gesellschaft/2026-10/rv-studie-aengste-deutschen-lebenshaltungskosten",
+      "published": "Thu, 01 Oct 2026 10:54:28 -0000",
+      "published_display": "01.10.2026 · 10:54 Uhr"
+    },
+    {
+      "title": "Energiewende: Bundesnetzagentur erleichtert Stromhandel mit Heimspeichern",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/bundesnetzagentur-erleichtert-stromhandel-mit-heimspeichern-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/bundesnetzagentur-erleichtert-stromhandel-mit-heimspeichern",
+      "published": "Thu, 01 Oct 2026 10:54:20 -0000",
+      "published_display": "01.10.2026 · 10:54 Uhr"
+    },
+    {
+      "title": "28.000 Besucher erwartet: Filmpark Babelsberg senkt Kontingent für Horrornächte",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/filmpark-babelsberg-senkt-kontingent-fuer-horrornaechte-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/filmpark-babelsberg-senkt-kontingent-fuer-horrornaechte",
+      "published": "Thu, 01 Oct 2026 10:52:25 -0000",
+      "published_display": "01.10.2026 · 10:52 Uhr"
+    },
+    {
+      "title": "Repräsentative Befragung: Angst vor höheren Lebenshaltungskosten deutlich gestiegen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/steigende-kosten-erneut-groesste-angst-der-deutschen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/steigende-kosten-erneut-groesste-angst-der-deutschen",
+      "published": "Thu, 01 Oct 2026 10:51:27 -0000",
+      "published_display": "01.10.2026 · 10:51 Uhr"
+    },
+    {
+      "title": "500er-Turnier in China: Tennisstar Zverev auch in Peking mit Auftaktsieg",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/tennisstar-zverev-auch-in-peking-mit-auftaktsieg-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/tennisstar-zverev-auch-in-peking-mit-auftaktsieg",
+      "published": "Thu, 01 Oct 2026 10:50:53 -0000",
+      "published_display": "01.10.2026 · 10:50 Uhr"
+    },
+    {
+      "title": "Rasche Entwarnung: Feueralarmübung löst Polizeieinsatz an Potsdamer Schule aus",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/feueralarmuebung-loest-polizeieinsatz-an-potsdamer-schule-aus-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/feueralarmuebung-loest-polizeieinsatz-an-potsdamer-schule-aus",
+      "published": "Thu, 01 Oct 2026 10:49:50 -0000",
+      "published_display": "01.10.2026 · 10:49 Uhr"
+    },
     {
       "title": "Alternde Bevölkerung: Sachsen-Anhalt wird immer älter - doch nicht überall gleich",
       "summary": "",
@@ -25,102 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/01/wiesn-zwist-und-ohrfeige-in-stadtratsboxe-ob-entzieht-tisch",
       "published": "Thu, 01 Oct 2026 10:45:10 -0000",
       "published_display": "01.10.2026 · 10:45 Uhr"
-    },
-    {
-      "title": "Bundesverfassungsgericht: Höhere Beamtenbesoldung hat in Brandenburg Hürde genommen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/hoehere-beamtenbesoldung-hat-in-brandenburg-huerde-genommen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/hoehere-beamtenbesoldung-hat-in-brandenburg-huerde-genommen",
-      "published": "Thu, 01 Oct 2026 10:41:25 -0000",
-      "published_display": "01.10.2026 · 10:41 Uhr"
-    },
-    {
-      "title": "IS-Sympathisant: Jugendlicher wegen Terrorvorwürfen verurteilt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/jugendlicher-wegen-terrorvorwuerfen-verurteilt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/jugendlicher-wegen-terrorvorwuerfen-verurteilt",
-      "published": "Thu, 01 Oct 2026 10:40:57 -0000",
-      "published_display": "01.10.2026 · 10:40 Uhr"
-    },
-    {
-      "title": "Euskirchen: Vermisste Frau - Polizei sucht Spuren in Recyclinghof",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/vermisste-frau-polizei-sucht-spuren-in-recyclinghof-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/vermisste-frau-polizei-sucht-spuren-in-recyclinghof",
-      "published": "Thu, 01 Oct 2026 10:39:52 -0000",
-      "published_display": "01.10.2026 · 10:39 Uhr"
-    },
-    {
-      "title": "Lars Klingbeil: Kanzleramt stoppt Gesetzesentwurf zur Zuckersteuer",
-      "summary": "Den Vorstoß von Lars Klingbeil zur Zuckersteuer lehnt das Kanzleramt ab. Der Entwurf weiche vom Vorschlag der Finanzkommission Gesundheit ab, heißt es als Begründung.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-10/zuckersteuer-kanzleramt-lars-klingbeil-finanzministerium-gesetz-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-10/kanzleramt-stoppt-gesetzesentwurf-zur-zuckersteuer",
-      "published": "Thu, 01 Oct 2026 10:38:30 -0000",
-      "published_display": "01.10.2026 · 10:38 Uhr"
-    },
-    {
-      "title": "Finanzen: Steuerverschwendung? Neun Fälle aus dem Land im Schwarzbuch",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/steuerverschwendung-neun-faelle-aus-dem-land-im-schwarzbuch-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/steuerverschwendung-neun-faelle-aus-dem-land-im-schwarzbuch",
-      "published": "Thu, 01 Oct 2026 10:38:21 -0000",
-      "published_display": "01.10.2026 · 10:38 Uhr"
-    },
-    {
-      "title": "Verkehr: A9 nach tödlichem Unfall wieder frei",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/a9-richtung-muenchen-nach-toedlichem-unfall-gesperrt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/a9-richtung-muenchen-nach-toedlichem-unfall-gesperrt",
-      "published": "Thu, 01 Oct 2026 10:37:57 -0000",
-      "published_display": "01.10.2026 · 10:37 Uhr"
-    },
-    {
-      "title": "Notfälle: Wasserrohrbrüche legen Verkehr lahm - wie geht es weiter?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/wasserrohrbrueche-legen-verkehr-lahm-wie-geht-es-weiter-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/wasserrohrbrueche-legen-verkehr-lahm-wie-geht-es-weiter",
-      "published": "Thu, 01 Oct 2026 10:36:37 -0000",
-      "published_display": "01.10.2026 · 10:36 Uhr"
-    },
-    {
-      "title": "Kampfmittel: Gleich drei Weltkriegsbomben in Braunsbedra entschärft",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/weltkriegsbomben-in-braunsbedra-werden-entschaerft-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/weltkriegsbomben-in-braunsbedra-werden-entschaerft",
-      "published": "Thu, 01 Oct 2026 10:33:53 -0000",
-      "published_display": "01.10.2026 · 10:33 Uhr"
-    },
-    {
-      "title": "Kriminalität: Gegenstände aus Fenster geworfen - 57-Jähriger festgenommen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/gegenstaende-aus-fenster-geworfen-57-jaehriger-festgenommen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/gegenstaende-aus-fenster-geworfen-57-jaehriger-festgenommen",
-      "published": "Thu, 01 Oct 2026 10:30:10 -0000",
-      "published_display": "01.10.2026 · 10:30 Uhr"
-    },
-    {
-      "title": "Autoindustrie: BMW startet Serienproduktion im Batteriewerk in Niederbayern",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/bmw-startet-serienproduktion-im-batteriewerk-in-niederbayern-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/bmw-startet-serienproduktion-im-batteriewerk-in-niederbayern",
-      "published": "Thu, 01 Oct 2026 10:30:04 -0000",
-      "published_display": "01.10.2026 · 10:30 Uhr"
-    },
-    {
-      "title": "Unglück in Linkskurve: 16-Jährige kommt von Straße ab – lebensgefährlich verletzt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/16-jaehrige-kommt-von-strasse-ab-lebensgefaehrlich-verletzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/16-jaehrige-kommt-von-strasse-ab-lebensgefaehrlich-verletzt",
-      "published": "Thu, 01 Oct 2026 10:28:20 -0000",
-      "published_display": "01.10.2026 · 10:28 Uhr"
-    },
-    {
-      "title": "79. Verhandlungstag: Anwalt im Fall Block: «Hätten Sie nicht ebenso gehandelt?»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/anwalt-im-fall-block-haetten-sie-nicht-ebenso-gehandelt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/anwalt-im-fall-block-haetten-sie-nicht-ebenso-gehandelt",
-      "published": "Thu, 01 Oct 2026 10:26:24 -0000",
-      "published_display": "01.10.2026 · 10:26 Uhr"
     }
   ]
 }
