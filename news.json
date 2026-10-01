@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-01T22:45:51.230404+00:00",
+  "updated": "2026-10-01T22:56:48.896280+00:00",
   "items": [
+    {
+      "title": "Wahlkampf-Event: Trump: Machen guten Job, aber schlechte PR",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/trump-machen-guten-job-aber-schlechte-pr-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/trump-machen-guten-job-aber-schlechte-pr",
+      "published": "Thu, 01 Oct 2026 22:52:50 -0000",
+      "published_display": "01.10.2026 · 22:52 Uhr"
+    },
+    {
+      "title": "Fußball-Nationalmannschaft: «Klopp atmet auf»: Pressestimmen zum DFB-Sieg gegen Serbien",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/klopp-atmet-auf-pressestimmen-zum-dfb-sieg-gegen-serbien-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/klopp-atmet-auf-pressestimmen-zum-dfb-sieg-gegen-serbien",
+      "published": "Thu, 01 Oct 2026 22:51:28 -0000",
+      "published_display": "01.10.2026 · 22:51 Uhr"
+    },
     {
       "title": "Klimaphänomen: Blütenpracht in Chiles Atacama-Wüste",
       "summary": "",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/01/risse-im-gemaeuer-feuerwehr-evakuiert-haus-in-st-georg",
       "published": "Thu, 01 Oct 2026 20:14:42 -0000",
       "published_display": "01.10.2026 · 20:14 Uhr"
-    },
-    {
-      "title": "Bildung: Knapp 2.000 Festnahmen bei Schulprotesten in Frankreich",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/knapp-2-000-festnahmen-bei-schulprotesten-in-frankreich-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/knapp-2-000-festnahmen-bei-schulprotesten-in-frankreich",
-      "published": "Thu, 01 Oct 2026 20:03:02 -0000",
-      "published_display": "01.10.2026 · 20:03 Uhr"
-    },
-    {
-      "title": "Nach Havarie: Landratsamt warnt nach Havarie vor Wasserkontakt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/landratsamt-warnt-nach-havarie-vor-wasserkontakt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/landratsamt-warnt-nach-havarie-vor-wasserkontakt",
-      "published": "Thu, 01 Oct 2026 19:45:25 -0000",
-      "published_display": "01.10.2026 · 19:45 Uhr"
     }
   ]
 }
