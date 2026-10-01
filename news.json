@@ -1,7 +1,39 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-01T03:36:28.449339+00:00",
+  "updated": "2026-10-01T03:51:27.866185+00:00",
   "items": [
+    {
+      "title": "Wetterprognose: Regen und Gewitter in NRW – danach freundliches Wochenende",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/regen-und-gewitter-in-nrw-danach-freundliches-wochenende-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/regen-und-gewitter-in-nrw-danach-freundliches-wochenende",
+      "published": "Thu, 01 Oct 2026 03:49:17 -0000",
+      "published_display": "01.10.2026 · 03:49 Uhr"
+    },
+    {
+      "title": "Kritik an Pflegereform: CDU-Wirtschaftrat weist Anhebung der Beitragsbemessungsgrenze zurück",
+      "summary": "Nach der SPD-Fraktion kritisiert auch der CDU-Wirtschaftrat die vom Kabinett beschlossene Pflegereform. Dem Sozialverband gehen die Vorschläge hingegen nicht weit genug.",
+      "image": "https://img.zeit.de/politik/2026-09/pflege-reform-kritik/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/pflegereform-kritik-kinderlose-dak-andreas-storm",
+      "published": "Thu, 01 Oct 2026 03:45:26 -0000",
+      "published_display": "01.10.2026 · 03:45 Uhr"
+    },
+    {
+      "title": "Mobilitätskosten: Tankrabatt startet mit schnell fallenden Preisen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/tankrabatt-startet-mit-schnell-fallenden-preisen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/tankrabatt-startet-mit-schnell-fallenden-preisen",
+      "published": "Thu, 01 Oct 2026 03:43:36 -0000",
+      "published_display": "01.10.2026 · 03:43 Uhr"
+    },
+    {
+      "title": "Korea-Konflikt: Südkorea setzt trotz Minenvorfall auf Dialog mit Nordkorea",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/suedkorea-setzt-trotz-minenvorfall-auf-dialog-mit-nordkorea-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/suedkorea-setzt-trotz-minenvorfall-auf-dialog-mit-nordkorea",
+      "published": "Thu, 01 Oct 2026 03:42:20 -0000",
+      "published_display": "01.10.2026 · 03:42 Uhr"
+    },
     {
       "title": "Todesstrafe in den USA: Anwälte: Christa Pike lebt nach zwei Giftspritzen noch",
       "summary": "",
@@ -88,38 +120,6 @@
       "image": "https://img.zeit.de/news/2026-10/01/linke-gruene-und-spd-in-berlin-reden-ueber-antisemitismus-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-10/01/linke-gruene-und-spd-in-berlin-reden-ueber-antisemitismus",
       "published": "Thu, 01 Oct 2026 03:00:21 -0000",
-      "published_display": "01.10.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Bäder-Event: «Feuer und Eis» am Wannsee - Prinzenbad im Oktober geöffnet",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/feuer-und-eis-am-wannsee-prinzenbad-im-oktober-geoeffnet-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/feuer-und-eis-am-wannsee-prinzenbad-im-oktober-geoeffnet",
-      "published": "Thu, 01 Oct 2026 03:00:20 -0000",
-      "published_display": "01.10.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Digitale Gewalt: Collien Fernandes redet im NRW-Landtag über digitale Gewalt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/collien-fernandes-redet-im-nrw-landtag-ueber-digitale-gewalt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/collien-fernandes-redet-im-nrw-landtag-ueber-digitale-gewalt",
-      "published": "Thu, 01 Oct 2026 03:00:15 -0000",
-      "published_display": "01.10.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "3. Oktober: Warum feiern wir den Tag der Deutschen Einheit?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/warum-feiern-wir-den-tag-der-deutschen-einheit-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/warum-feiern-wir-den-tag-der-deutschen-einheit",
-      "published": "Thu, 01 Oct 2026 03:00:10 -0000",
-      "published_display": "01.10.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "HP-Studie: Deutschland bei KI-Agenten weltweit in der Spitzengruppe",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/deutschland-bei-ki-agenten-weltweit-in-der-spitzengruppe-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/deutschland-bei-ki-agenten-weltweit-in-der-spitzengruppe",
-      "published": "Thu, 01 Oct 2026 03:00:09 -0000",
       "published_display": "01.10.2026 · 03:00 Uhr"
     }
   ]
