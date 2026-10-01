@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-01T23:29:11.038149+00:00",
+  "updated": "2026-10-01T23:44:51.285838+00:00",
   "items": [
+    {
+      "title": "Iran-Krieg: Bericht: Erneut Schiff in Straße von Hormus unter Beschuss",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/bericht-erneut-schiff-in-strasse-von-hormus-unter-beschuss-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/bericht-erneut-schiff-in-strasse-von-hormus-unter-beschuss",
+      "published": "Thu, 01 Oct 2026 23:39:04 -0000",
+      "published_display": "01.10.2026 · 23:39 Uhr"
+    },
     {
       "title": "Schulproteste in Frankreich: Fast 2.000 Festnahmen bei Schülerprotesten in Frankreich",
       "summary": "In teils gewalttätigen Protesten wurden in Frankreich 305 Einsatzkräfte verletzt. Auch Lehrer und Schüler kamen zu Schaden. Am Freitag bleiben 400 Schulen geschlossen.",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-10/christa-gail-pike-hinrichtung-tennessee-todesstrafe-giftspritze",
       "published": "Thu, 01 Oct 2026 20:44:05 -0000",
       "published_display": "01.10.2026 · 20:44 Uhr"
-    },
-    {
-      "title": "Verkehrsunfall: Drei Menschen bei Unfall auf B54 schwer verletzt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/drei-menschen-bei-unfall-auf-b54-schwer-verletzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/drei-menschen-bei-unfall-auf-b54-schwer-verletzt",
-      "published": "Thu, 01 Oct 2026 20:37:50 -0000",
-      "published_display": "01.10.2026 · 20:37 Uhr"
     }
   ]
 }
