@@ -1,7 +1,71 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-01T10:20:53.220630+00:00",
+  "updated": "2026-10-01T10:36:20.023379+00:00",
   "items": [
+    {
+      "title": "Kampfmittel: Gleich drei Weltkriegsbomben in Braunsbedra entschärft",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/weltkriegsbomben-in-braunsbedra-werden-entschaerft-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/weltkriegsbomben-in-braunsbedra-werden-entschaerft",
+      "published": "Thu, 01 Oct 2026 10:33:53 -0000",
+      "published_display": "01.10.2026 · 10:33 Uhr"
+    },
+    {
+      "title": "Kriminalität: Gegenstände aus Fenster geworfen - 57-Jähriger festgenommen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/gegenstaende-aus-fenster-geworfen-57-jaehriger-festgenommen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/gegenstaende-aus-fenster-geworfen-57-jaehriger-festgenommen",
+      "published": "Thu, 01 Oct 2026 10:30:10 -0000",
+      "published_display": "01.10.2026 · 10:30 Uhr"
+    },
+    {
+      "title": "Autoindustrie: BMW startet Serienproduktion im Batteriewerk in Niederbayern",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/bmw-startet-serienproduktion-im-batteriewerk-in-niederbayern-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/bmw-startet-serienproduktion-im-batteriewerk-in-niederbayern",
+      "published": "Thu, 01 Oct 2026 10:30:04 -0000",
+      "published_display": "01.10.2026 · 10:30 Uhr"
+    },
+    {
+      "title": "Unglück in Linkskurve: 16-Jährige kommt von Straße ab – lebensgefährlich verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/16-jaehrige-kommt-von-strasse-ab-lebensgefaehrlich-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/16-jaehrige-kommt-von-strasse-ab-lebensgefaehrlich-verletzt",
+      "published": "Thu, 01 Oct 2026 10:28:20 -0000",
+      "published_display": "01.10.2026 · 10:28 Uhr"
+    },
+    {
+      "title": "79. Verhandlungstag: Anwalt im Fall Block: «Hätten Sie nicht ebenso gehandelt?»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/anwalt-im-fall-block-haetten-sie-nicht-ebenso-gehandelt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/anwalt-im-fall-block-haetten-sie-nicht-ebenso-gehandelt",
+      "published": "Thu, 01 Oct 2026 10:26:24 -0000",
+      "published_display": "01.10.2026 · 10:26 Uhr"
+    },
+    {
+      "title": "Heidenau: Zwölf Steine, ein Skandal",
+      "summary": "Mit ihrem Verein wollte Anne Nitschke in Heidenau Stolpersteine verlegen lassen. Doch CDU und AfD verhinderten das durch einen gemeinsamen Beschluss. Warum?",
+      "image": "https://img.zeit.de/2026/42/zwoelf-steine-ein-skandal-bild-1/original__640x360",
+      "link": "https://www.zeit.de/2026/42/heidenau-stolpersteine-cdu-afd-juedische-opfer",
+      "published": "Thu, 01 Oct 2026 10:24:40 -0000",
+      "published_display": "01.10.2026 · 10:24 Uhr"
+    },
+    {
+      "title": "Lars Klingbeil: Kanzleramt stoppt Gesetzesentwurf zur Zuckersteuer",
+      "summary": "Den Vorstoß von Lars Klingbeil zur Zuckersteuer lehnt das Kanzleramt ab. Der Entwurf weiche vom Vorschlag der Finanzkommission Gesundheit ab, heißt es als Begründung.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-10/zuckersteuer-kanzleramt-lars-klingbeil-finanzministerium-gesetz-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-10/kanzleramt-stoppt-gesetzesentwurf-zur-zuckersteuer",
+      "published": "Thu, 01 Oct 2026 10:22:30 -0000",
+      "published_display": "01.10.2026 · 10:22 Uhr"
+    },
+    {
+      "title": "Social Media: Bundestag ist jetzt auch bei TikTok aktiv",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/bundestag-ist-jetzt-auch-bei-tiktok-aktiv-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/bundestag-ist-jetzt-auch-bei-tiktok-aktiv",
+      "published": "Thu, 01 Oct 2026 10:21:42 -0000",
+      "published_display": "01.10.2026 · 10:21 Uhr"
+    },
     {
       "title": "Gesundheit: Pflegelöhne steigen – weiter Debatte über Reform",
       "summary": "",
@@ -43,14 +107,6 @@
       "published_display": "01.10.2026 · 10:12 Uhr"
     },
     {
-      "title": "Kanzleramt stoppt Gesetzesentwurf zur Zuckersteuer",
-      "summary": "",
-      "image": "https://img.zeit.de/administratives/eilmeldung/fallback-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-10/kanzleramt-stoppt-gesetzesentwurf-zur-zuckersteuer",
-      "published": "Thu, 01 Oct 2026 10:11:47 -0000",
-      "published_display": "01.10.2026 · 10:11 Uhr"
-    },
-    {
       "title": "»Die Ängste der Deutschen«: Geldsorgen belasten Deutsche mehr als Angst vor Krieg und Extremismus",
       "summary": "Die deutsche Bevölkerung fürchtet sich laut einer Umfrage vor allem vor Inflation und hohen Steuern. Existenzsorgen scheinen gegenüber 2025 leicht zugenommen zu haben.",
       "image": "https://img.zeit.de/gesellschaft/2026-10/rv-studie-aengste-deutschen-lebenshaltungskosten-foto-1/original__640x360",
@@ -65,62 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/01/tod-kurz-vor-fertigstellung-zdf-zeigt-serie-mit-luna-jordan",
       "published": "Thu, 01 Oct 2026 10:11:01 -0000",
       "published_display": "01.10.2026 · 10:11 Uhr"
-    },
-    {
-      "title": "Steuern: Kanzleramt stoppt vorerst Klingbeils Zuckersteuer",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/kanzleramt-stoppt-vorerst-klingbeils-zuckersteuer-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/kanzleramt-stoppt-vorerst-klingbeils-zuckersteuer",
-      "published": "Thu, 01 Oct 2026 10:10:44 -0000",
-      "published_display": "01.10.2026 · 10:10 Uhr"
-    },
-    {
-      "title": "Handel: Umwelthilfe: Weiter hohe Verpackungsquote in Supermärkten",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/umwelthilfe-weiter-hohe-verpackungsquote-in-supermaerkten-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/umwelthilfe-weiter-hohe-verpackungsquote-in-supermaerkten",
-      "published": "Thu, 01 Oct 2026 10:10:32 -0000",
-      "published_display": "01.10.2026 · 10:10 Uhr"
-    },
-    {
-      "title": "500er-Turnier in China: Tennisstar Zverev auch in Peking mit Auftaktsieg",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/tennisstar-zverev-auch-in-peking-mit-auftaktsieg-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/tennisstar-zverev-auch-in-peking-mit-auftaktsieg",
-      "published": "Thu, 01 Oct 2026 10:09:19 -0000",
-      "published_display": "01.10.2026 · 10:09 Uhr"
-    },
-    {
-      "title": "Bund der Steuerzahler: Schwarzbuch kritisiert «Fahrradweg-Schilda» im Saarland",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/schwarzbuch-kritisiert-fahrradweg-schilda-im-saarland-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/schwarzbuch-kritisiert-fahrradweg-schilda-im-saarland",
-      "published": "Thu, 01 Oct 2026 10:08:42 -0000",
-      "published_display": "01.10.2026 · 10:08 Uhr"
-    },
-    {
-      "title": "Untersee betroffen: Bodensee-Schiffsverkehr teils eingestellt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/bodensee-schiffsverkehr-teils-eingestellt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/bodensee-schiffsverkehr-teils-eingestellt",
-      "published": "Thu, 01 Oct 2026 10:08:39 -0000",
-      "published_display": "01.10.2026 · 10:08 Uhr"
-    },
-    {
-      "title": "Künstliche Intelligenz: Zeigt den Tech-Bros, was wir draufhaben",
-      "summary": "Rainer Esser plädiert dafür, den mächtigen KI-Konzernen aus den USA mit guten Ideen, einer Digitalsteuer und mehr Selbstbewusstsein zu begegnen.",
-      "image": "https://img.zeit.de/wirtschaft/2026-09/kuenstliche-intelligenz-konzerne-digital-steuer-usa-u-26-bild/original__640x360",
-      "link": "https://www.zeit.de/zeit-fuer-unternehmer/2026/03/kuenstliche-intelligenz-konzerne-digital-steuer-usa",
-      "published": "Thu, 01 Oct 2026 10:07:15 -0000",
-      "published_display": "01.10.2026 · 10:07 Uhr"
-    },
-    {
-      "title": "Filmreife Flucht: Schüsse auf SEK - Erhöhte Sicherheit beim Prozess",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/schuesse-auf-sek-erhoehte-sicherheit-beim-prozess-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/schuesse-auf-sek-erhoehte-sicherheit-beim-prozess",
-      "published": "Thu, 01 Oct 2026 10:04:10 -0000",
-      "published_display": "01.10.2026 · 10:04 Uhr"
     }
   ]
 }
