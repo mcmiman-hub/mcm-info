@@ -1,7 +1,103 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-01T06:26:09.374463+00:00",
+  "updated": "2026-10-01T06:52:57.577081+00:00",
   "items": [
+    {
+      "title": "Ifo-Institut: Geschäftsklima in der deutschen Elektroindustrie steigt deutlich",
+      "summary": "Die Stimmung in der deutschen Elektroindustrie ist so gut wie seit Jahren nicht mehr. Ein Grund dafür ist, dass die Unternehmen deutlich mehr Neuaufträge verbuchen.",
+      "image": "https://img.zeit.de/wirtschaft/2026-10/elektroindustrie-geschaeftsklima-ifo-institut-klaus-wohlrabe-foto-1/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/2026-10/elektroindustrie-geschaeftsklima-ifo-institut-klaus-wohlrabe",
+      "published": "Thu, 01 Oct 2026 06:50:41 -0000",
+      "published_display": "01.10.2026 · 06:50 Uhr"
+    },
+    {
+      "title": "Benzin und Diesel: Mehr heimischer Kraftstoff: Raffinerien steigern Produktion",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/mehr-heimischer-kraftstoff-raffinerien-steigern-produktion-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/mehr-heimischer-kraftstoff-raffinerien-steigern-produktion",
+      "published": "Thu, 01 Oct 2026 06:45:55 -0000",
+      "published_display": "01.10.2026 · 06:45 Uhr"
+    },
+    {
+      "title": "Kampfmittel: Weltkriegsbomben in Braunsbedra werden entschärft",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/weltkriegsbomben-in-braunsbedra-werden-entschaerft-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/weltkriegsbomben-in-braunsbedra-werden-entschaerft",
+      "published": "Thu, 01 Oct 2026 06:45:12 -0000",
+      "published_display": "01.10.2026 · 06:45 Uhr"
+    },
+    {
+      "title": "Brände: Wohnung in Halle (Saale) ausgebrannt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/wohnung-in-halle-saale-ausgebrannt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/wohnung-in-halle-saale-ausgebrannt",
+      "published": "Thu, 01 Oct 2026 06:41:13 -0000",
+      "published_display": "01.10.2026 · 06:41 Uhr"
+    },
+    {
+      "title": "Gaza: Leben in Gaza ist für den Großteil der Menschen nicht bezahlbar",
+      "summary": "Die Lebensmittelpreise sind in Gaza laut Welthungerhilfe extrem gestiegen. Viele Menschen seien deshalb komplett abhängig von Nahrungsmittelhilfe von außen. Das Liveblog",
+      "image": "https://img.zeit.de/politik/ausland/2026-10/krieg-gaza-israel-hamas-liveblog-teuerung-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2025-10/krieg-gaza-israel-hamas-liveblog",
+      "published": "Thu, 01 Oct 2026 06:40:54 -0000",
+      "published_display": "01.10.2026 · 06:40 Uhr"
+    },
+    {
+      "title": "Berlin: Gespräche zur Regierungsbildung in Berlin beginnen",
+      "summary": "Linke, Grüne und SPD starten Gespräche über eine Regierungsbildung in Berlin. Sie wollen sich bei Themen wie Antisemitismus, Rassismus und Kriminalität verständigen.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-10/koalitionsgespraeche-berlin-linke-gruene-spd-antisemitismus-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-10/koalitionsgespraeche-berlin-linke-gruene-spd-antisemitismus",
+      "published": "Thu, 01 Oct 2026 06:37:27 -0000",
+      "published_display": "01.10.2026 · 06:37 Uhr"
+    },
+    {
+      "title": "Leute: Rapper Macklemore: «Free Palestine Tour» ist ausverkauft",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/rapper-macklemore-free-palestine-tour-ist-ausverkauft-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/rapper-macklemore-free-palestine-tour-ist-ausverkauft",
+      "published": "Thu, 01 Oct 2026 06:36:23 -0000",
+      "published_display": "01.10.2026 · 06:36 Uhr"
+    },
+    {
+      "title": "Notfälle: Rohrbrüche in Hamburg: Anwohner teils weiterhin ohne Wasser",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/rohrbrueche-in-hamburg-anwohner-teils-weiterhin-ohne-wasser-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/rohrbrueche-in-hamburg-anwohner-teils-weiterhin-ohne-wasser",
+      "published": "Thu, 01 Oct 2026 06:35:52 -0000",
+      "published_display": "01.10.2026 · 06:35 Uhr"
+    },
+    {
+      "title": "Bündnis Soziale Gerechtigkeit und Wirtschaftliche Vernunft: BSW legt Namen von Parteigründerin Wagenknecht ab",
+      "summary": "BSW-Gründerin Sahra Wagenknecht ist ab heute nicht mehr namensgebend für ihre Partei. Die Umbenennung war für die Zeit nach den jüngsten Landtagswahlen angesetzt.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-10/bsw-partei-namensaenderung-buendnis-sahra-wagenknecht-soziale-gerechtigkeit-wirtschaftliche-vernunft-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-10/bsw-partei-namensaenderung-buendnis-sahra-wagenknecht-soziale-gerechtigkeit-wirtschaftliche-vernunft",
+      "published": "Thu, 01 Oct 2026 06:32:09 -0000",
+      "published_display": "01.10.2026 · 06:32 Uhr"
+    },
+    {
+      "title": "Klima und Natur: Hitzesommer: Wieder verheerendes Jahr für Alpengletscher",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/hitzesommer-wieder-verheerendes-jahr-fuer-alpengletscher-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/hitzesommer-wieder-verheerendes-jahr-fuer-alpengletscher",
+      "published": "Thu, 01 Oct 2026 06:31:45 -0000",
+      "published_display": "01.10.2026 · 06:31 Uhr"
+    },
+    {
+      "title": "Soziale Frage: Nicht jede persönliche soziale Frage ist DIE soziale Frage",
+      "summary": "Über Jahrzehnte ersparte das Wirtschaftswachstum dem Land viele Verteilungskämpfe. Und nun? Müsste der Kanzler den Bürgern erklären, dass nicht jeder alles haben kann.",
+      "image": "https://img.zeit.de/2026/42/ach-diese-entsetzliche-luecke-bild-2/original__640x360",
+      "link": "https://www.zeit.de/2026/42/soziale-frage-sozialstaat-gerechtigkeitsluecke-deindustrialisierung",
+      "published": "Thu, 01 Oct 2026 06:29:21 -0000",
+      "published_display": "01.10.2026 · 06:29 Uhr"
+    },
+    {
+      "title": "Demis Volpi: »Es fühlte sich an wie Verrat«",
+      "summary": "Demis Volpi war gerade mal neun Monate Chef des weltberühmten Hamburg Balletts, dann musste er gehen. Hier spricht er zum ersten Mal über die Vorwürfe seiner Tänzer.",
+      "image": "https://img.zeit.de/feuilleton/2026-09/demis-volpi-hamburg-ballett-intendant-kuendigung-alexandr-trusch-bild-4/original__640x360",
+      "link": "https://www.zeit.de/2026/42/demis-volpi-hamburg-ballett-intendant-vorwuerfe-alexandr-trusch",
+      "published": "Thu, 01 Oct 2026 06:26:41 -0000",
+      "published_display": "01.10.2026 · 06:26 Uhr"
+    },
     {
       "title": "Dax-Konzern: Fresenius schluckt Biopharma-Tochter mAbxience komplett",
       "summary": "",
@@ -25,102 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/01/bamberg-will-historischen-bahnhof-modernisieren-lassen",
       "published": "Thu, 01 Oct 2026 06:21:32 -0000",
       "published_display": "01.10.2026 · 06:21 Uhr"
-    },
-    {
-      "title": "Nach der Heim-WM: Was bleibt vom Hype? Frauen-Basketball sucht Anschluss",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/was-bleibt-vom-hype-frauen-basketball-sucht-anschluss-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/was-bleibt-vom-hype-frauen-basketball-sucht-anschluss",
-      "published": "Thu, 01 Oct 2026 06:20:05 -0000",
-      "published_display": "01.10.2026 · 06:20 Uhr"
-    },
-    {
-      "title": "Ermittlungen gegen OB: Preißler meldet sich erstmals nach Randalevorfall zu Wort",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/preissler-meldet-sich-erstmals-nach-randalevorfall-zu-wort-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/preissler-meldet-sich-erstmals-nach-randalevorfall-zu-wort",
-      "published": "Thu, 01 Oct 2026 06:16:32 -0000",
-      "published_display": "01.10.2026 · 06:16 Uhr"
-    },
-    {
-      "title": "Unfall: 63-Jähriger von Straßenbahn erfasst und schwer verletzt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/63-jaehriger-von-strassenbahn-erfasst-und-schwer-verletzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/63-jaehriger-von-strassenbahn-erfasst-und-schwer-verletzt",
-      "published": "Thu, 01 Oct 2026 06:14:57 -0000",
-      "published_display": "01.10.2026 · 06:14 Uhr"
-    },
-    {
-      "title": "Fußball: Rakete trifft Spieler – Pokalspiel in Halle abgebrochen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/rakete-trifft-spieler-pokalspiel-in-halle-abgebrochen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/rakete-trifft-spieler-pokalspiel-in-halle-abgebrochen",
-      "published": "Thu, 01 Oct 2026 06:13:12 -0000",
-      "published_display": "01.10.2026 · 06:13 Uhr"
-    },
-    {
-      "title": "USA: Zum Tode verurteilte Frau überlebt Hinrichtung in Tennessee",
-      "summary": "Eigentlich hätte Christa Pike wegen eines Mordes, der 30 Jahre zurückliegt, hingerichtet werden sollen. Doch es gab offenbar Probleme mit der Giftspritze.",
-      "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-10/tennessee-hinrichtung-todesstrafe-frau-giftspritze-foto-1/original__640x360",
-      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-10/tennessee-hinrichtung-todesstrafe-frau-giftspritze",
-      "published": "Thu, 01 Oct 2026 06:12:36 -0000",
-      "published_display": "01.10.2026 · 06:12 Uhr"
-    },
-    {
-      "title": "Bündnis Soziale Gerechtigkeit und Wirtschaftliche Vernunft: BSW legt Namen von Parteigründerin Wagenknecht ab",
-      "summary": "BSW-Gründerin Sahra Wagenknecht ist ab heute nicht mehr namensgebend für ihre Partei. Die Umbenennung war für die Zeit nach den jüngsten Landtagswahlen angesetzt.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-10/bsw-partei-namensaenderung-buendnis-sahra-wagenknecht-soziale-gerechtigkeit-wirtschaftliche-vernunft-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-10/bsw-partei-namensaenderung-buendnis-sahra-wagenknecht-soziale-gerechtigkeit-wirtschaftliche-vernunft",
-      "published": "Thu, 01 Oct 2026 06:10:15 -0000",
-      "published_display": "01.10.2026 · 06:10 Uhr"
-    },
-    {
-      "title": "Nations League: Nach dem Ronaldo-Eklat: Das Ende in der Nationalmannschaft?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/nach-dem-ronaldo-eklat-das-ende-in-der-nationalmannschaft-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/nach-dem-ronaldo-eklat-das-ende-in-der-nationalmannschaft",
-      "published": "Thu, 01 Oct 2026 06:04:49 -0000",
-      "published_display": "01.10.2026 · 06:04 Uhr"
-    },
-    {
-      "title": "Polizisten verletzt: Junger Mann ohne Führerschein kollidiert mit Streifenwagen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/junger-mann-ohne-fuehrerschein-kollidiert-mit-streifenwagen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/junger-mann-ohne-fuehrerschein-kollidiert-mit-streifenwagen",
-      "published": "Thu, 01 Oct 2026 06:03:03 -0000",
-      "published_display": "01.10.2026 · 06:03 Uhr"
-    },
-    {
-      "title": "Fernsehen: So landete Axel Schulz bei «Promi Big Brother»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/so-landete-axel-schulz-bei-promi-big-brother-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/so-landete-axel-schulz-bei-promi-big-brother",
-      "published": "Thu, 01 Oct 2026 05:45:51 -0000",
-      "published_display": "01.10.2026 · 05:45 Uhr"
-    },
-    {
-      "title": "Industriearbeitsplätze: Produktionsstopp in Speyer - «Ein bitterer Tag»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/produktionsstopp-in-speyer-ein-bitterer-tag-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/produktionsstopp-in-speyer-ein-bitterer-tag",
-      "published": "Thu, 01 Oct 2026 05:44:59 -0000",
-      "published_display": "01.10.2026 · 05:44 Uhr"
-    },
-    {
-      "title": "Unfall: Auto überschlägt sich bei Ausweichmanöver: Zwei Verletzte",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/auto-ueberschlaegt-sich-bei-ausweichmanoever-zwei-verletzte-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/auto-ueberschlaegt-sich-bei-ausweichmanoever-zwei-verletzte",
-      "published": "Thu, 01 Oct 2026 05:44:05 -0000",
-      "published_display": "01.10.2026 · 05:44 Uhr"
-    },
-    {
-      "title": "Leute: Jim Carrey hat erneut geheiratet",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/jim-carrey-hat-erneut-geheiratet-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/jim-carrey-hat-erneut-geheiratet",
-      "published": "Thu, 01 Oct 2026 05:41:37 -0000",
-      "published_display": "01.10.2026 · 05:41 Uhr"
     }
   ]
 }
