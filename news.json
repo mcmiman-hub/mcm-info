@@ -1,7 +1,103 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-01T02:58:59.145615+00:00",
+  "updated": "2026-10-01T03:20:09.813612+00:00",
   "items": [
+    {
+      "title": "Volkswagen: VW-Softwaretochter Cariad steht offenbar vor weiterem Stellenabbau",
+      "summary": "Volkswagen will bei seiner Softwaresparte wohl rund 1.000 Stellen kürzen. Berichten zufolge wurden die Beschäftigten auf einer Betriebsversammlung bereits informiert.",
+      "image": "https://img.zeit.de/wirtschaft/unternehmen/2026-10/vw-cariad-softwaretochter-stellenabbau-foto-1/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/unternehmen/2026-10/vw-cariad-softwaretochter-stellenabbau",
+      "published": "Thu, 01 Oct 2026 03:16:23 -0000",
+      "published_display": "01.10.2026 · 03:16 Uhr"
+    },
+    {
+      "title": "Erneuter Prozess in Frankfurt: Urteil im Prozess gegen Narkosearzt erwartet",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/urteil-im-prozess-gegen-narkosearzt-erwartet-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/urteil-im-prozess-gegen-narkosearzt-erwartet",
+      "published": "Thu, 01 Oct 2026 03:09:50 -0000",
+      "published_display": "01.10.2026 · 03:09 Uhr"
+    },
+    {
+      "title": "Migration: Flüchtlingsunterkunft Hasenheide öffnet mit gut 900 Plätzen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/fluechtlingsunterkunft-hasenheide-oeffnet-mit-gut-900-plaetzen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/fluechtlingsunterkunft-hasenheide-oeffnet-mit-gut-900-plaetzen",
+      "published": "Thu, 01 Oct 2026 03:05:05 -0000",
+      "published_display": "01.10.2026 · 03:05 Uhr"
+    },
+    {
+      "title": "Finanzkriminalität: Bilanz zur Rocker-Razzia - Stadt-Mitarbeiter geschmiert?",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/bilanz-zur-rocker-razzia-stadt-mitarbeiter-geschmiert-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/bilanz-zur-rocker-razzia-stadt-mitarbeiter-geschmiert",
+      "published": "Thu, 01 Oct 2026 03:00:23 -0000",
+      "published_display": "01.10.2026 · 03:00 Uhr"
+    },
+    {
+      "title": "Nach der Berlin-Wahl: Linke, Grüne und SPD in Berlin reden über Antisemitismus",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/linke-gruene-und-spd-in-berlin-reden-ueber-antisemitismus-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/linke-gruene-und-spd-in-berlin-reden-ueber-antisemitismus",
+      "published": "Thu, 01 Oct 2026 03:00:21 -0000",
+      "published_display": "01.10.2026 · 03:00 Uhr"
+    },
+    {
+      "title": "Bäder-Event: «Feuer und Eis» am Wannsee - Prinzenbad im Oktober geöffnet",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/feuer-und-eis-am-wannsee-prinzenbad-im-oktober-geoeffnet-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/feuer-und-eis-am-wannsee-prinzenbad-im-oktober-geoeffnet",
+      "published": "Thu, 01 Oct 2026 03:00:20 -0000",
+      "published_display": "01.10.2026 · 03:00 Uhr"
+    },
+    {
+      "title": "Digitale Gewalt: Collien Fernandes redet im NRW-Landtag über digitale Gewalt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/collien-fernandes-redet-im-nrw-landtag-ueber-digitale-gewalt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/collien-fernandes-redet-im-nrw-landtag-ueber-digitale-gewalt",
+      "published": "Thu, 01 Oct 2026 03:00:15 -0000",
+      "published_display": "01.10.2026 · 03:00 Uhr"
+    },
+    {
+      "title": "3. Oktober: Warum feiern wir den Tag der Deutschen Einheit?",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/warum-feiern-wir-den-tag-der-deutschen-einheit-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/warum-feiern-wir-den-tag-der-deutschen-einheit",
+      "published": "Thu, 01 Oct 2026 03:00:10 -0000",
+      "published_display": "01.10.2026 · 03:00 Uhr"
+    },
+    {
+      "title": "HP-Studie: Deutschland bei KI-Agenten weltweit in der Spitzengruppe",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/deutschland-bei-ki-agenten-weltweit-in-der-spitzengruppe-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/deutschland-bei-ki-agenten-weltweit-in-der-spitzengruppe",
+      "published": "Thu, 01 Oct 2026 03:00:09 -0000",
+      "published_display": "01.10.2026 · 03:00 Uhr"
+    },
+    {
+      "title": "Weltweite Untersuchung: Studie: Drei- und Vierjährige laufen 18.000 Schritte am Tag",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/studie-drei-und-vierjaehrige-laufen-18-000-schritte-am-tag-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/studie-drei-und-vierjaehrige-laufen-18-000-schritte-am-tag",
+      "published": "Thu, 01 Oct 2026 03:00:07 -0000",
+      "published_display": "01.10.2026 · 03:00 Uhr"
+    },
+    {
+      "title": "Klamme Kassen: Milliardenlücke: Landesrechnungshof fordert Sparmaßnahmen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/milliardenluecke-landesrechnungshof-fordert-sparmassnahmen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/milliardenluecke-landesrechnungshof-fordert-sparmassnahmen",
+      "published": "Thu, 01 Oct 2026 03:00:05 -0000",
+      "published_display": "01.10.2026 · 03:00 Uhr"
+    },
+    {
+      "title": "Ermittlungen in Köln: Justiz ermittelt gegen Wachtmeister wegen Medikamentenhandel",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/justiz-ermittelt-gegen-wachtmeister-wegen-medikamentenhandel-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/justiz-ermittelt-gegen-wachtmeister-wegen-medikamentenhandel",
+      "published": "Thu, 01 Oct 2026 03:00:04 -0000",
+      "published_display": "01.10.2026 · 03:00 Uhr"
+    },
     {
       "title": "2. Fußball-Bundesliga: Nürnbergs Sportvorstand über Kloses nächsten Karriereschritt",
       "summary": "",
@@ -25,102 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/01/schlaege-und-demuetigungen-krippen-erzieherin-angeklagt",
       "published": "Thu, 01 Oct 2026 02:45:05 -0000",
       "published_display": "01.10.2026 · 02:45 Uhr"
-    },
-    {
-      "title": "Deutschlandticket: Grünenchef Banaszak fordert Preisbremse für Deutschlandticket",
-      "summary": "Einen Preisanstieg auf knapp 67 Euro hält Banaszak für zu viel. Mit den Kosten für den Tankrabatt hätte sich auch das Deutschlandticket preisstabil halten lassen.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-10/deutschlandticket-preis-preiserhoehung-felix-banaszak-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-10/deutschlandticket-preis-preiserhoehung-felix-banaszak",
-      "published": "Thu, 01 Oct 2026 02:40:31 -0000",
-      "published_display": "01.10.2026 · 02:40 Uhr"
-    },
-    {
-      "title": "Pflege: Linke im Bundestag fordert Reduzierung der Eigenanteile im Pflegeheim",
-      "summary": "Linkenfraktionschef Sören Pellmann wirft der Regierung Kürzungen zulasten Pflegebedürftiger vor. Privatversicherte und Kapitaleinkünfte sollten mehr einbezogen werden.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-10/pflegereform-bundesregierung-die-linke-soeren-pellmann-pflegeversicherung-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-10/pflegereform-bundesregierung-die-linke-soeren-pellmann-pflegeversicherung",
-      "published": "Thu, 01 Oct 2026 02:32:53 -0000",
-      "published_display": "01.10.2026 · 02:32 Uhr"
-    },
-    {
-      "title": "Vizekanzler auf Werbetour: Wie die Regierung die positive Erzählung sucht",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/wie-die-regierung-die-positive-erzaehlung-sucht-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/wie-die-regierung-die-positive-erzaehlung-sucht",
-      "published": "Thu, 01 Oct 2026 02:30:16 -0000",
-      "published_display": "01.10.2026 · 02:30 Uhr"
-    },
-    {
-      "title": "Erneuerbare Energien: Ökostrom-Rekord: Anteil von 61 Prozent",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/oekostrom-rekord-anteil-von-61-prozent-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/oekostrom-rekord-anteil-von-61-prozent",
-      "published": "Thu, 01 Oct 2026 02:30:14 -0000",
-      "published_display": "01.10.2026 · 02:30 Uhr"
-    },
-    {
-      "title": "Vorhersage für Bayern: Erst Sonne, dann Regen - und zum Wiesn-Ende freundlich",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/erst-sonne-dann-regen-und-zum-wiesn-ende-freundlich-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/erst-sonne-dann-regen-und-zum-wiesn-ende-freundlich",
-      "published": "Thu, 01 Oct 2026 02:30:10 -0000",
-      "published_display": "01.10.2026 · 02:30 Uhr"
-    },
-    {
-      "title": "Rätsel um Flugpionierin: Neue Spur zu Pilotin Amelia Earhart – Suche im Südpazifik",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/neue-spur-zu-pilotin-amelia-earhart-suche-im-suedpazifik-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/neue-spur-zu-pilotin-amelia-earhart-suche-im-suedpazifik",
-      "published": "Thu, 01 Oct 2026 02:30:10 -0000",
-      "published_display": "01.10.2026 · 02:30 Uhr"
-    },
-    {
-      "title": "Verpackungssteuer in Kraft: Potsdam startet mit umstrittener Verpackungssteuer",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/potsdam-startet-mit-umstrittener-verpackungssteuer-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/potsdam-startet-mit-umstrittener-verpackungssteuer",
-      "published": "Thu, 01 Oct 2026 02:30:09 -0000",
-      "published_display": "01.10.2026 · 02:30 Uhr"
-    },
-    {
-      "title": "Recyclter Kunststoff: Recycling-Anteil von Plastik-Pfandflaschen steigt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/recycling-anteil-von-plastik-pfandflaschen-steigt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/recycling-anteil-von-plastik-pfandflaschen-steigt",
-      "published": "Thu, 01 Oct 2026 02:30:08 -0000",
-      "published_display": "01.10.2026 · 02:30 Uhr"
-    },
-    {
-      "title": "Millionenförderung: Exzellente Unis im Norden? Wer eine Chance auf den Titel hat",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/exzellente-unis-im-norden-wer-eine-chance-auf-den-titel-hat-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/exzellente-unis-im-norden-wer-eine-chance-auf-den-titel-hat",
-      "published": "Thu, 01 Oct 2026 02:30:07 -0000",
-      "published_display": "01.10.2026 · 02:30 Uhr"
-    },
-    {
-      "title": "KI im Militär: Hegseth: Musk soll «Zukunft der Kriegsführung» miterforschen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/kuerzungen-und-neue-rolle-fuer-musk-veraenderungen-im-pentagon-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/kuerzungen-und-neue-rolle-fuer-musk-veraenderungen-im-pentagon",
-      "published": "Thu, 01 Oct 2026 02:22:51 -0000",
-      "published_display": "01.10.2026 · 02:22 Uhr"
-    },
-    {
-      "title": "Gewalttat im Flugzeug: Netanjahu würdigt angegriffenen Piloten: «ein wahrer Held»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/netanjahu-wuerdigt-angegriffenen-piloten-ein-wahrer-held-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/netanjahu-wuerdigt-angegriffenen-piloten-ein-wahrer-held",
-      "published": "Thu, 01 Oct 2026 02:15:31 -0000",
-      "published_display": "01.10.2026 · 02:15 Uhr"
-    },
-    {
-      "title": "Tag der Deutschen Einheit: Viel los am 3. Oktober in Mödlareuth",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/viel-los-am-3-oktober-in-moedlareuth-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/viel-los-am-3-oktober-in-moedlareuth",
-      "published": "Thu, 01 Oct 2026 02:15:06 -0000",
-      "published_display": "01.10.2026 · 02:15 Uhr"
     }
   ]
 }
