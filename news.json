@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-01T16:34:16.848085+00:00",
+  "updated": "2026-10-01T16:47:48.956317+00:00",
   "items": [
+    {
+      "title": "Nach Berichten über Eralp: Linksfraktionschef Pellmann jetzt Mitglied der Roten Hilfe",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/linksfraktionschef-pellmann-jetzt-mitglied-der-roten-hilfe-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/linksfraktionschef-pellmann-jetzt-mitglied-der-roten-hilfe",
+      "published": "Thu, 01 Oct 2026 16:40:23 -0000",
+      "published_display": "01.10.2026 · 16:40 Uhr"
+    },
+    {
+      "title": "Raumfahrt: Vier Astronauten zur ISS gestartet",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/vier-astronauten-zur-iss-gestartet-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/vier-astronauten-zur-iss-gestartet",
+      "published": "Thu, 01 Oct 2026 16:38:20 -0000",
+      "published_display": "01.10.2026 · 16:38 Uhr"
+    },
     {
       "title": "Fußball in Spanien: UEFA prüft Real-Beschwerde im Schiedsrichterstreit mit Barça",
       "summary": "",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/feuilleton/literatur/2026-10/ingeborg-bachmann-preis-jury-literatur-identitaetspolitik-insa-wilke",
       "published": "Thu, 01 Oct 2026 15:48:28 -0000",
       "published_display": "01.10.2026 · 15:48 Uhr"
-    },
-    {
-      "title": "Digitale Gewalt: Fernandes kritisiert mangelnden Schutz gegen Deepfakes",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/collien-fernandes-prangert-schutzluecken-bei-deepfakes-an-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/collien-fernandes-prangert-schutzluecken-bei-deepfakes-an",
-      "published": "Thu, 01 Oct 2026 15:47:50 -0000",
-      "published_display": "01.10.2026 · 15:47 Uhr"
-    },
-    {
-      "title": "Wasser: Hamburg Wasser: Versorgung bis Freitag wiederherstellen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/hamburg-wasser-versorgung-bis-freitag-wiederherstellen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/hamburg-wasser-versorgung-bis-freitag-wiederherstellen",
-      "published": "Thu, 01 Oct 2026 15:45:26 -0000",
-      "published_display": "01.10.2026 · 15:45 Uhr"
     }
   ]
 }
