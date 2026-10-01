@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-01T23:15:43.818118+00:00",
+  "updated": "2026-10-01T23:29:11.038149+00:00",
   "items": [
+    {
+      "title": "Schulproteste in Frankreich: Fast 2.000 Festnahmen bei Schülerprotesten in Frankreich",
+      "summary": "In teils gewalttätigen Protesten wurden in Frankreich 305 Einsatzkräfte verletzt. Auch Lehrer und Schüler kamen zu Schaden. Am Freitag bleiben 400 Schulen geschlossen.",
+      "image": "https://img.zeit.de/bildung/2026-10/schulproteste-frankreich-schueler-polizei-schulschliessungen-foto-1/original__640x360",
+      "link": "https://www.zeit.de/bildung/2026-10/schulproteste-frankreich-schueler-polizei-schulschliessungen",
+      "published": "Thu, 01 Oct 2026 23:22:23 -0000",
+      "published_display": "01.10.2026 · 23:22 Uhr"
+    },
+    {
+      "title": "Konflikt in Äthiopien: Äthiopien und Eritrea brechen diplomatische Beziehungen ab",
+      "summary": "In Äthiopien flammt ein Bürgerkrieg wieder auf. Die Regierung wirft Eritrea die Unterstützung bewaffneter Gruppen vor. Die Nachbarländer führten selbst lange Krieg.",
+      "image": "https://img.zeit.de/politik/ausland/2026-10/aethiopien-eritrea-diplomatische-beziehungen-abbruch-tplf-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/aethiopien-eritrea-diplomatische-beziehungen-abbruch-tplf",
+      "published": "Thu, 01 Oct 2026 23:18:20 -0000",
+      "published_display": "01.10.2026 · 23:18 Uhr"
+    },
     {
       "title": "Wahlkampf-Event: Trump: Machen guten Job, aber schlechte PR",
       "summary": "",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/01/drei-menschen-bei-unfall-auf-b54-schwer-verletzt",
       "published": "Thu, 01 Oct 2026 20:37:50 -0000",
       "published_display": "01.10.2026 · 20:37 Uhr"
-    },
-    {
-      "title": "Nations League: Die deutsche Fußball-Nationalmannschaft in der Einzelkritik",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/die-deutsche-fussball-nationalmannschaft-in-der-einzelkritik-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/die-deutsche-fussball-nationalmannschaft-in-der-einzelkritik",
-      "published": "Thu, 01 Oct 2026 20:35:14 -0000",
-      "published_display": "01.10.2026 · 20:35 Uhr"
-    },
-    {
-      "title": "Feuerwehreinsatz: Risse im Gemäuer: Haus in St. Georg laut Bezirksamt sicher",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/risse-im-gemaeuer-feuerwehr-evakuiert-haus-in-st-georg-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/risse-im-gemaeuer-feuerwehr-evakuiert-haus-in-st-georg",
-      "published": "Thu, 01 Oct 2026 20:14:42 -0000",
-      "published_display": "01.10.2026 · 20:14 Uhr"
     }
   ]
 }
