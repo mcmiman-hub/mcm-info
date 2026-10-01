@@ -1,7 +1,71 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-01T05:19:25.536651+00:00",
+  "updated": "2026-10-01T05:34:27.553735+00:00",
   "items": [
+    {
+      "title": "Unfälle: Auto brennt nach Auffahrunfall auf der A1 aus",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/auto-brennt-nach-auffahrunfall-auf-der-a1-aus-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/auto-brennt-nach-auffahrunfall-auf-der-a1-aus",
+      "published": "Thu, 01 Oct 2026 05:30:18 -0000",
+      "published_display": "01.10.2026 · 05:30 Uhr"
+    },
+    {
+      "title": "Brände: Mehr als ein Dutzend Pferde vor Feuer gerettet",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/mehr-als-ein-dutzend-pferde-vor-feuer-gerettet-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/mehr-als-ein-dutzend-pferde-vor-feuer-gerettet",
+      "published": "Thu, 01 Oct 2026 05:22:26 -0000",
+      "published_display": "01.10.2026 · 05:22 Uhr"
+    },
+    {
+      "title": "Gerhard Zeiler: Da kommt keiner mehr heil heraus",
+      "summary": "Der Wiener Medienmanager Gerhard Zeiler will Andreas Babler als SPÖ-Chef entthronen. Aber kann er das auch?",
+      "image": "https://img.zeit.de/2026/42/da-kommt-keiner-mehr-heil-heraus-bild-3/original__640x360",
+      "link": "https://www.zeit.de/2026/42/gerhard-zeiler-spoe-andreas-babler",
+      "published": "Thu, 01 Oct 2026 05:22:25 -0000",
+      "published_display": "01.10.2026 · 05:22 Uhr"
+    },
+    {
+      "title": "Ella Langley: Texas gewinnt gegen Weihnachten",
+      "summary": "Seit 24 (!) Wochen steht ein Countrysong an der Spitze der Charts. Und hat den historischen Rekord von Mariah Carey gebrochen. Was ist da los?",
+      "image": "https://img.zeit.de/2026/42/das-ist-der-hit-bild-1/original__640x360",
+      "link": "https://www.zeit.de/2026/42/ella-langley-choosin-texas-country-billboard-hot-100-mariah-carey",
+      "published": "Thu, 01 Oct 2026 05:22:01 -0000",
+      "published_display": "01.10.2026 · 05:22 Uhr"
+    },
+    {
+      "title": "Chipindustrie: Infineon eröffnet Fabrik in Thailand",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/infineon-eroeffnet-fabrik-in-thailand-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/infineon-eroeffnet-fabrik-in-thailand",
+      "published": "Thu, 01 Oct 2026 05:21:47 -0000",
+      "published_display": "01.10.2026 · 05:21 Uhr"
+    },
+    {
+      "title": "Taliban: Pakistan fliegt neue Luftangriffe auf Afghanistan",
+      "summary": "Pakistan spricht von Luftangriffen auf zwei afghanische Terrorlager. Nach Angaben der Taliban wurden neun Zivilisten getötet.",
+      "image": "https://img.zeit.de/politik/ausland/2026-10/pakistan-afghanistan-luftangriff-bombardierung-taliban-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/pakistan-afghanistan-luftangriff-bombardierung-taliban",
+      "published": "Thu, 01 Oct 2026 05:21:28 -0000",
+      "published_display": "01.10.2026 · 05:21 Uhr"
+    },
+    {
+      "title": "Ofenhuhn mit Trauben: Goldenes Herbsthuhn",
+      "summary": "So einfach wie Ofengemüse: Saftiges Huhn gart mit Weintrauben und Schalotten auf einem Blech. Dazu gibt’s besonderen griechischen Käse, der Feta den Rang ablaufen könnte.",
+      "image": "https://img.zeit.de/zeit-magazin/wochenmarkt/2026/11/koch-das-cover-bild-1/original__640x360",
+      "link": "https://www.zeit.de/zeit-magazin/wochenmarkt/2026/11/ofenhuhn-trauben-manouri-kaese-rezept-wochenmarkt",
+      "published": "Thu, 01 Oct 2026 05:20:58 -0000",
+      "published_display": "01.10.2026 · 05:20 Uhr"
+    },
+    {
+      "title": "Zwischenwahlen in den USA: Trump, die Midterms und das Problem der Republikaner",
+      "summary": "Einen Monat vor den Midterms sind die Aussichten für die Republikaner schlecht. Im US-Podcast analysieren wir die Gründe. Und: der Axel Springer Award für Peter Thiel",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/zwischenwahlen-usa-republikaner-ok-america-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/zwischenwahlen-usa-republikaner-ok-america",
+      "published": "Thu, 01 Oct 2026 05:19:59 -0000",
+      "published_display": "01.10.2026 · 05:19 Uhr"
+    },
     {
       "title": "Auswandern mit Kind : »Ein Kind da mit reinzuziehen, das ist einfach eine andere Nummer«",
       "summary": "Ein Paar macht seinen Traum wahr und wandert nach Portugal aus – mit Teenager-Tochter. Doch der wird dort alles viel. Viel zu viel. Die Eltern müssen sich entscheiden.",
@@ -17,14 +81,6 @@
       "link": "https://www.zeit.de/news/2026-10/01/anwohner-in-klinik-nach-dachstuhlbrand-von-mehrfamilienhaus",
       "published": "Thu, 01 Oct 2026 05:12:39 -0000",
       "published_display": "01.10.2026 · 05:12 Uhr"
-    },
-    {
-      "title": "Taliban: Pakistan fliegt neue Luftangriffe auf Afghanistan",
-      "summary": "Pakistan spricht von Luftangriffen auf zwei afghanische Terrorlager. Nach Angaben der Taliban wurden neun Zivilisten getötet.",
-      "image": "https://img.zeit.de/politik/ausland/2026-10/pakistan-afghanistan-luftangriff-bombardierung-taliban-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/pakistan-afghanistan-luftangriff-bombardierung-taliban",
-      "published": "Thu, 01 Oct 2026 05:11:16 -0000",
-      "published_display": "01.10.2026 · 05:11 Uhr"
     },
     {
       "title": "Notfälle: Brand in Wohnung? Feuerwehr findet nur angebranntes Essen",
@@ -65,62 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/01/regen-ab-freitag-nochmal-sonne-tanken-in-sachsen-anhalt",
       "published": "Thu, 01 Oct 2026 04:50:31 -0000",
       "published_display": "01.10.2026 · 04:50 Uhr"
-    },
-    {
-      "title": "Berufsverkehr: Unfall auf A81: Fahrbahn Richtung Stuttgart gesperrt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/unfall-auf-a81-fahrbahn-richtung-stuttgart-gesperrt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/unfall-auf-a81-fahrbahn-richtung-stuttgart-gesperrt",
-      "published": "Thu, 01 Oct 2026 04:43:49 -0000",
-      "published_display": "01.10.2026 · 04:43 Uhr"
-    },
-    {
-      "title": "Wetter: Bis zu 26 Grad – danach Regen in Thüringen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/bis-zu-26-grad-danach-regen-in-thueringen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/bis-zu-26-grad-danach-regen-in-thueringen",
-      "published": "Thu, 01 Oct 2026 04:40:58 -0000",
-      "published_display": "01.10.2026 · 04:40 Uhr"
-    },
-    {
-      "title": "Wetter: Warme Herbsttage bis zum Ende der Woche erwartet",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/warme-herbsttage-bis-zum-ende-der-woche-erwartet-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/warme-herbsttage-bis-zum-ende-der-woche-erwartet",
-      "published": "Thu, 01 Oct 2026 04:37:20 -0000",
-      "published_display": "01.10.2026 · 04:37 Uhr"
-    },
-    {
-      "title": "Energiewende: Erneuerbare Energien decken mehr als 60 Prozent des Stromverbrauchs",
-      "summary": "Ökostromanlagen erzeugen laut einer Berechnung so viel Strom wie nie zuvor. Zuletzt stieg unter anderem die Nutzung von Windenergie an Land und auf See.",
-      "image": "https://img.zeit.de/wirtschaft/2026-10/erneuerbare-energien-oekostrom-stromverbrauch-anteil-zsw-bdew-foto-1/original__640x360",
-      "link": "https://www.zeit.de/wirtschaft/2026-10/erneuerbare-energien-oekostrom-stromverbrauch-anteil-zsw-bdew",
-      "published": "Thu, 01 Oct 2026 04:33:34 -0000",
-      "published_display": "01.10.2026 · 04:33 Uhr"
-    },
-    {
-      "title": "Fußball-Nationalmannschaft: Klopps Ballett-Vergleich für eine bessere Zukunft",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/klopps-ballett-vergleich-fuer-eine-bessere-zukunft-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/klopps-ballett-vergleich-fuer-eine-bessere-zukunft",
-      "published": "Thu, 01 Oct 2026 04:27:04 -0000",
-      "published_display": "01.10.2026 · 04:27 Uhr"
-    },
-    {
-      "title": "Ermittlungen: Polizist schießt bei Festnahme in Dresden auf 51-Jährigen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/polizist-schiesst-bei-festnahme-in-dresden-auf-51-jaehrigen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/polizist-schiesst-bei-festnahme-in-dresden-auf-51-jaehrigen",
-      "published": "Thu, 01 Oct 2026 04:26:42 -0000",
-      "published_display": "01.10.2026 · 04:26 Uhr"
-    },
-    {
-      "title": "Gewalttat im Flugzeug: Netanjahu und Modi würdigen angegriffenen Piloten als Helden",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/netanjahu-wuerdigt-angegriffenen-piloten-ein-wahrer-held-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/netanjahu-wuerdigt-angegriffenen-piloten-ein-wahrer-held",
-      "published": "Thu, 01 Oct 2026 04:22:52 -0000",
-      "published_display": "01.10.2026 · 04:22 Uhr"
     }
   ]
 }
