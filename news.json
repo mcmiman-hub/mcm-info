@@ -1,14 +1,38 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-09-30T23:56:17.190627+00:00",
+  "updated": "2026-10-01T00:28:17.197617+00:00",
   "items": [
     {
       "title": "Todesstrafe in den USA: Oberstes US-Gericht: Tennessee darf Christa Pike hinrichten",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-10/01/oberstes-us-gericht-tennessee-darf-christa-pike-hinrichten-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-10/01/oberstes-us-gericht-tennessee-darf-christa-pike-hinrichten",
-      "published": "Wed, 30 Sep 2026 23:28:03 -0000",
-      "published_display": "30.09.2026 · 23:28 Uhr"
+      "published": "Thu, 01 Oct 2026 00:23:58 -0000",
+      "published_display": "01.10.2026 · 00:23 Uhr"
+    },
+    {
+      "title": "Todesstrafe: Oberstes US-Gericht erlaubt Hinrichtung von Frau in Tennessee",
+      "summary": "Als erste Frau seit mehr als 200 Jahren sollte Christa Pike in Tennessee hingerichtet werden. Nun hob der Supreme Court den Vollstreckungsstopp auf.",
+      "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-10/hinrichtung-frau-tennessee-oberster-gerichtshof-usa-foto-1/original__640x360",
+      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-10/hinrichtung-frau-tennessee-oberster-gerichtshof-usa",
+      "published": "Thu, 01 Oct 2026 00:15:10 -0000",
+      "published_display": "01.10.2026 · 00:15 Uhr"
+    },
+    {
+      "title": "Gletscherschmelze: Schweiz verzeichnet zweitstärksten Gletscherschwund seit Messbeginn",
+      "summary": "Gletscher in der Schweiz haben in diesem Jahr rund fünf Prozent ihrer Eismassen verloren. Die Schneedecke war wegen der Hitze teils bereits im Juni geschmolzen.",
+      "image": "https://img.zeit.de/wissenschaft/umwelt/2026-10/gletscherschmelze-schweiz-gletscher-alpen-glamos-foto-1/original__640x360",
+      "link": "https://www.zeit.de/wissenschaft/umwelt/2026-10/gletscherschmelze-schweiz-gletscher-alpen-glamos",
+      "published": "Thu, 01 Oct 2026 00:14:46 -0000",
+      "published_display": "01.10.2026 · 00:14 Uhr"
+    },
+    {
+      "title": "Koalitionsgespräche in Berlin: Gespräche zur Regierungsbildung in Berlin beginnen",
+      "summary": "Linke, Grüne und SPD starten Gespräche über eine Regierungsbildung in Berlin. Sie wollen sich bei Themen wie Antisemitismus, Rassismus und Kriminalität verständigen.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-10/koalitionsgespraeche-berlin-linke-gruene-spd-antisemitismus-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-10/koalitionsgespraeche-berlin-linke-gruene-spd-antisemitismus",
+      "published": "Thu, 01 Oct 2026 00:13:43 -0000",
+      "published_display": "01.10.2026 · 00:13 Uhr"
     },
     {
       "title": "Reh auf der Fahrbahn: Wildunfall: Motorradfahrerin stürzt - schwer verletzt",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/01/trotz-staatlicher-zulagen-viele-wollen-kein-depot-eroeffnen",
       "published": "Wed, 30 Sep 2026 22:01:04 -0000",
       "published_display": "30.09.2026 · 22:01 Uhr"
-    },
-    {
-      "title": "Kalenderblatt: Was geschah am 1. Oktober?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/30/was-geschah-am-1-oktober-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/30/was-geschah-am-1-oktober",
-      "published": "Wed, 30 Sep 2026 21:55:04 -0000",
-      "published_display": "30.09.2026 · 21:55 Uhr"
-    },
-    {
-      "title": "Filmindustrie: US-Richterin billigt Übernahme von Warner Bros. durch Paramount",
-      "summary": "Der Übernahme von Warner Bros. durch Paramount steht nichts mehr im Weg. Die zuständige Richterin billigt den Vergleich zwischen Paramount und zwölf US‑Bundesstaaten.",
-      "image": "https://img.zeit.de/wirtschaft/2026-09/warner-bros-discovery-uebernahme-paramount-skydance-araceli-martinez-olguin-foto-1/original__640x360",
-      "link": "https://www.zeit.de/wirtschaft/2026-09/warner-bros-discovery-uebernahme-paramount-skydance-araceli-martinez-olguin",
-      "published": "Wed, 30 Sep 2026 21:53:50 -0000",
-      "published_display": "30.09.2026 · 21:53 Uhr"
-    },
-    {
-      "title": "Feuerwehreinsatz: Brand in Entsorgungsbetrieb - starke Rauchentwicklung",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-09/30/brand-in-entsorgungsbetrieb-starke-rauchentwicklung-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-09/30/brand-in-entsorgungsbetrieb-starke-rauchentwicklung",
-      "published": "Wed, 30 Sep 2026 21:46:01 -0000",
-      "published_display": "30.09.2026 · 21:46 Uhr"
     }
   ]
 }
