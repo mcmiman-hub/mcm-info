@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-01T19:56:34.859792+00:00",
+  "updated": "2026-10-01T20:19:09.593014+00:00",
   "items": [
+    {
+      "title": "Feuerwehreinsatz: Risse im Gemäuer: Haus in St. Georg laut Bezirksamt sicher",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/risse-im-gemaeuer-feuerwehr-evakuiert-haus-in-st-georg-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/risse-im-gemaeuer-feuerwehr-evakuiert-haus-in-st-georg",
+      "published": "Thu, 01 Oct 2026 20:14:42 -0000",
+      "published_display": "01.10.2026 · 20:14 Uhr"
+    },
+    {
+      "title": "Bildung: Knapp 2.000 Festnahmen bei Schulprotesten in Frankreich",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/knapp-2-000-festnahmen-bei-schulprotesten-in-frankreich-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/knapp-2-000-festnahmen-bei-schulprotesten-in-frankreich",
+      "published": "Thu, 01 Oct 2026 20:03:02 -0000",
+      "published_display": "01.10.2026 · 20:03 Uhr"
+    },
     {
       "title": "Nach Havarie: Landratsamt warnt nach Havarie vor Wasserkontakt",
       "summary": "",
@@ -44,8 +60,8 @@
     },
     {
       "title": "Flydubai-Notlandung: Saudi-Arabien überstellt Flydubai-Piloten in Emirate",
-      "summary": "Saudi-Arabien liefert den festgenommenen Copiloten an die Vereinigten Arabischen Emirate aus. Auf einem Flug nach Tel Aviv hatte er einen Kollegen im Cockpit angegriffen.",
-      "image": "https://img.zeit.de/administratives/sharing/fallback-image-die-zeit/wide__1300x731",
+      "summary": "Der festgenommene Copilot des Flydubai-Flugs wurde in die Vereinigten Arabischen Emirate gebracht. Auch der verletzte Kapitän soll mittlerweile dort sein.",
+      "image": "https://img.zeit.de/politik/2026-10/flugvorfall-im-nahen-osten-bild/original__640x360",
       "link": "https://www.zeit.de/politik/ausland/2026-10/flydubai-zwischenfall-copilot-messerangriff-boeing-tel-aviv",
       "published": "Thu, 01 Oct 2026 19:25:41 -0000",
       "published_display": "01.10.2026 · 19:25 Uhr"
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/01/thsv-eisenach-kassiert-klare-heimniederlage",
       "published": "Thu, 01 Oct 2026 18:53:05 -0000",
       "published_display": "01.10.2026 · 18:53 Uhr"
-    },
-    {
-      "title": "Bundesliga: Fünfte Saisonniederlage für Hamburgs Handballer",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/fuenfte-saisonniederlage-fuer-hamburgs-handballer-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/fuenfte-saisonniederlage-fuer-hamburgs-handballer",
-      "published": "Thu, 01 Oct 2026 18:49:04 -0000",
-      "published_display": "01.10.2026 · 18:49 Uhr"
-    },
-    {
-      "title": "Lateinamerika: Tödlicher Angriff auf Schule in Mexiko – Vizeleiterin stirbt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/toedlicher-angriff-auf-schule-in-mexiko-vizeleiterin-stirbt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/toedlicher-angriff-auf-schule-in-mexiko-vizeleiterin-stirbt",
-      "published": "Thu, 01 Oct 2026 18:47:08 -0000",
-      "published_display": "01.10.2026 · 18:47 Uhr"
     }
   ]
 }
