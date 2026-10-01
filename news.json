@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-01T02:48:16.104500+00:00",
+  "updated": "2026-10-01T02:58:59.145615+00:00",
   "items": [
+    {
+      "title": "2. Fußball-Bundesliga: Nürnbergs Sportvorstand über Kloses nächsten Karriereschritt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/nuernbergs-sportvorstand-ueber-kloses-naechsten-karriereschritt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/nuernbergs-sportvorstand-ueber-kloses-naechsten-karriereschritt",
+      "published": "Thu, 01 Oct 2026 02:55:04 -0000",
+      "published_display": "01.10.2026 · 02:55 Uhr"
+    },
+    {
+      "title": "Bundesliga: «Kicker»: FC Bayern an Baumann-Verpflichtung interessiert",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/kicker-fc-bayern-an-baumann-verpflichtung-interessiert-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/kicker-fc-bayern-an-baumann-verpflichtung-interessiert",
+      "published": "Thu, 01 Oct 2026 02:54:04 -0000",
+      "published_display": "01.10.2026 · 02:54 Uhr"
+    },
     {
       "title": "Kriminalität: Schläge und Demütigungen: Krippen-Erzieherin angeklagt",
       "summary": "",
@@ -11,7 +27,7 @@
       "published_display": "01.10.2026 · 02:45 Uhr"
     },
     {
-      "title": "Deutschlandticket: Grünen-Chef Banaszak fordert Preisbremse für Deutschlandticket",
+      "title": "Deutschlandticket: Grünenchef Banaszak fordert Preisbremse für Deutschlandticket",
       "summary": "Einen Preisanstieg auf knapp 67 Euro hält Banaszak für zu viel. Mit den Kosten für den Tankrabatt hätte sich auch das Deutschlandticket preisstabil halten lassen.",
       "image": "https://img.zeit.de/politik/deutschland/2026-10/deutschlandticket-preis-preiserhoehung-felix-banaszak-foto-1/original__640x360",
       "link": "https://www.zeit.de/politik/deutschland/2026-10/deutschlandticket-preis-preiserhoehung-felix-banaszak",
@@ -20,7 +36,7 @@
     },
     {
       "title": "Pflege: Linke im Bundestag fordert Reduzierung der Eigenanteile im Pflegeheim",
-      "summary": "Linken-Fraktionschef Sören Pellmann wirft der Regierung Kürzungen zulasten Pflegebedürftiger vor. Privatversicherte und Kapitaleinkünfte sollten mehr einbezogen werden.",
+      "summary": "Linkenfraktionschef Sören Pellmann wirft der Regierung Kürzungen zulasten Pflegebedürftiger vor. Privatversicherte und Kapitaleinkünfte sollten mehr einbezogen werden.",
       "image": "https://img.zeit.de/politik/deutschland/2026-10/pflegereform-bundesregierung-die-linke-soeren-pellmann-pflegeversicherung-foto-1/original__640x360",
       "link": "https://www.zeit.de/politik/deutschland/2026-10/pflegereform-bundesregierung-die-linke-soeren-pellmann-pflegeversicherung",
       "published": "Thu, 01 Oct 2026 02:32:53 -0000",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/01/viel-los-am-3-oktober-in-moedlareuth",
       "published": "Thu, 01 Oct 2026 02:15:06 -0000",
       "published_display": "01.10.2026 · 02:15 Uhr"
-    },
-    {
-      "title": "Ifo und DIW: Wirtschaftsinstitute halten Tankrabatt für falsch",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/wirtschaftsinstitute-halten-tankrabatt-fuer-falsch-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/wirtschaftsinstitute-halten-tankrabatt-fuer-falsch",
-      "published": "Thu, 01 Oct 2026 02:15:04 -0000",
-      "published_display": "01.10.2026 · 02:15 Uhr"
-    },
-    {
-      "title": "Neckar-Odenwald-Kreis: Toter bei Zusammenstoß zwischen Fahrrad und Auto",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/toter-bei-zusammenstoss-zwischen-fahrrad-und-auto-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/toter-bei-zusammenstoss-zwischen-fahrrad-und-auto",
-      "published": "Thu, 01 Oct 2026 02:07:28 -0000",
-      "published_display": "01.10.2026 · 02:07 Uhr"
     }
   ]
 }
