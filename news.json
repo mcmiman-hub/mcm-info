@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-01T19:47:07.020669+00:00",
+  "updated": "2026-10-01T19:56:34.859792+00:00",
   "items": [
+    {
+      "title": "Nach Havarie: Landratsamt warnt nach Havarie vor Wasserkontakt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/landratsamt-warnt-nach-havarie-vor-wasserkontakt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/landratsamt-warnt-nach-havarie-vor-wasserkontakt",
+      "published": "Thu, 01 Oct 2026 19:45:25 -0000",
+      "published_display": "01.10.2026 · 19:45 Uhr"
+    },
     {
       "title": "Gewalttat im Flugzeug: Flydubai-Vorfall: Hintergründe weiter unklar",
       "summary": "",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/01/toedlicher-angriff-auf-schule-in-mexiko-vizeleiterin-stirbt",
       "published": "Thu, 01 Oct 2026 18:47:08 -0000",
       "published_display": "01.10.2026 · 18:47 Uhr"
-    },
-    {
-      "title": "Unruhe in der Abschiebehaft: Polizeieinsatz in Pforzheimer Abschiebehafteinrichtung",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/polizeieinsatz-in-pforzheimer-abschiebehafteinrichtung-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/polizeieinsatz-in-pforzheimer-abschiebehafteinrichtung",
-      "published": "Thu, 01 Oct 2026 18:44:36 -0000",
-      "published_display": "01.10.2026 · 18:44 Uhr"
     }
   ]
 }
