@@ -1,7 +1,63 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-01T18:00:26.938217+00:00",
+  "updated": "2026-10-01T18:23:52.865237+00:00",
   "items": [
+    {
+      "title": "Pflegeversicherung: Regierung plant weiteres Millionen-Darlehen für Pflegekassen",
+      "summary": "Das Bundesfinanzministerium will den Pflegekassen 700 Millionen Euro als Darlehen zur Verfügung stellen. Das Geld soll für Herbst erwartete Finanzierungslücken decken.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-10/pflegeversicherung-bundesdarlehen-defizit-pflegereform-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-10/pflegeversicherung-bundesdarlehen-defizit-pflegereform",
+      "published": "Thu, 01 Oct 2026 18:20:54 -0000",
+      "published_display": "01.10.2026 · 18:20 Uhr"
+    },
+    {
+      "title": "Gewalttat im Flugzeug: Flydubai-Vorfall: Hintergründe weiter unklar",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/netanjahu-wuerdigt-angegriffenen-piloten-ein-wahrer-held-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/netanjahu-wuerdigt-angegriffenen-piloten-ein-wahrer-held",
+      "published": "Thu, 01 Oct 2026 18:20:49 -0000",
+      "published_display": "01.10.2026 · 18:20 Uhr"
+    },
+    {
+      "title": "ARD-»Deutschlandtrend«: Nur noch jeder Zehnte ist mit Friedrich Merz zufrieden",
+      "summary": "Friedrich Merz erreicht im ARD-»Deutschlandtrend« so niedrige Zustimmungswerte wie kein anderer Kanzler seit Beginn der Erhebung. Auch die Union büßt an Zuspruch ein.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-10/ard-deutschlandtrend-friedrich-merz-kanzler-afd-cdu-umfrage-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-10/ard-deutschlandtrend-friedrich-merz-kanzler-afd-cdu-umfrage",
+      "published": "Thu, 01 Oct 2026 18:16:05 -0000",
+      "published_display": "01.10.2026 · 18:16 Uhr"
+    },
+    {
+      "title": "Tödlicher Unfall: 56-Jährige fährt mit Auto gegen Hauswand und stirbt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/56-jaehrige-faehrt-mit-auto-gegen-hauswand-und-stirbt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/56-jaehrige-faehrt-mit-auto-gegen-hauswand-und-stirbt",
+      "published": "Thu, 01 Oct 2026 18:15:17 -0000",
+      "published_display": "01.10.2026 · 18:15 Uhr"
+    },
+    {
+      "title": "Bewerbung um Olympische Spiele: Die Alpen sind wieder bereit für Olympia",
+      "summary": "München will sie haben, die Schweiz auch: Woher kommt die neue Lust auf Olympia und wie stehen die Chancen? Außerdem: Die Hallo-fizierung des Alpenraums.",
+      "image": "https://img.zeit.de/video/2026-08/servus-gruezi-hallo-bymarzenaskubatz-61a5746-1-bild-3/original__640x360",
+      "link": "https://www.zeit.de/video/2026-10/https-www-zeit-de-gesellschaft-2026-10-bewerbung-olympische-spiele-schweiz-muenchen-alpenpodcast-videopodcast",
+      "published": "Thu, 01 Oct 2026 18:10:27 -0000",
+      "published_display": "01.10.2026 · 18:10 Uhr"
+    },
+    {
+      "title": "Zuckersteuer: Das Cola-Chaos",
+      "summary": "Der Streit um die Zuckersteuer zeigt, dass selbst einfachste Gesetze die Koalition überfordern. Nicht nur das: Die Autorität von Friedrich Merz schwindet weiter.",
+      "image": "https://img.zeit.de/politik/ausland/2026-10/zuckersteuer-lars-klingbeil-koalition-kanzleramt-bild-2/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-10/zuckersteuer-lars-klingbeil-koalition-kanzleramt",
+      "published": "Thu, 01 Oct 2026 18:08:03 -0000",
+      "published_display": "01.10.2026 · 18:08 Uhr"
+    },
+    {
+      "title": "Schiffbau: Fassmer Werft tauft erstes Patrouillenschiff für Singapur",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/fassmer-werft-tauft-erstes-patrouillenschiff-fuer-singapur-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/fassmer-werft-tauft-erstes-patrouillenschiff-fuer-singapur",
+      "published": "Thu, 01 Oct 2026 18:03:00 -0000",
+      "published_display": "01.10.2026 · 18:03 Uhr"
+    },
     {
       "title": "Lissabon: »Hunderte tanzen gemeinsam in den Sonnenuntergang«",
       "summary": "Feierabendwein am Praça das Flores, Techno-Partys am Atlantik und Wohnen in der 8er-WG: Eine Studentin erzählt von ihrem Leben in Lissabon.",
@@ -65,62 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/01/autorin-haratischwili-bekommt-heine-preis",
       "published": "Thu, 01 Oct 2026 17:43:28 -0000",
       "published_display": "01.10.2026 · 17:43 Uhr"
-    },
-    {
-      "title": "Vogelschutz: Bauernverband dringt auf Schutz vor Schäden durch Zugvögel",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/bauernverband-dringt-auf-schutz-vor-schaeden-durch-zugvoegel-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/bauernverband-dringt-auf-schutz-vor-schaeden-durch-zugvoegel",
-      "published": "Thu, 01 Oct 2026 17:42:21 -0000",
-      "published_display": "01.10.2026 · 17:42 Uhr"
-    },
-    {
-      "title": "Christa Pike: Ein qualvolles System",
-      "summary": "Zwei Giftspritzen wurden der Amerikanerin Christa Pike verabreicht, doch sie überlebte. Was nun passiert, ist unklar. Denn diese Situation ist im Gesetz nicht vorgesehen.",
-      "image": "https://img.zeit.de/politik/ausland/2026-10/christa-pike-hinrichtung-tennessee-todesstrafe-usa-bild-5/original__640x360",
-      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-10/christa-pike-hinrichtung-tennessee-todesstrafe-usa",
-      "published": "Thu, 01 Oct 2026 17:41:37 -0000",
-      "published_display": "01.10.2026 · 17:41 Uhr"
-    },
-    {
-      "title": "Stationärer Einzelhandel: Kodi schließt 43 Filialen, 100 Standorte bleiben",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/kodi-schliesst-43-filialen-100-standorte-bleiben-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/kodi-schliesst-43-filialen-100-standorte-bleiben",
-      "published": "Thu, 01 Oct 2026 17:34:54 -0000",
-      "published_display": "01.10.2026 · 17:34 Uhr"
-    },
-    {
-      "title": "Finanzen: Regierung plant 700-Millionen-Finanzspritze für Pflegekassen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/regierung-plant-700-millionen-finanzspritze-fuer-pflegekassen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/regierung-plant-700-millionen-finanzspritze-fuer-pflegekassen",
-      "published": "Thu, 01 Oct 2026 17:33:00 -0000",
-      "published_display": "01.10.2026 · 17:33 Uhr"
-    },
-    {
-      "title": "Schiffbau: Fassmer Werft tauft erstes Patrouillenschiff für Singapur",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/fassmer-werft-tauft-erstes-patrouillenschiff-fuer-singapur-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/fassmer-werft-tauft-erstes-patrouillenschiff-fuer-singapur",
-      "published": "Thu, 01 Oct 2026 17:30:05 -0000",
-      "published_display": "01.10.2026 · 17:30 Uhr"
-    },
-    {
-      "title": "ARD-«Deutschlandtrend»: Merz im Rekordtief – Nur 10 Prozent zufrieden mit Kanzler",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/merz-im-rekordtief-nur-10-prozent-zufrieden-mit-kanzler-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/merz-im-rekordtief-nur-10-prozent-zufrieden-mit-kanzler",
-      "published": "Thu, 01 Oct 2026 17:24:04 -0000",
-      "published_display": "01.10.2026 · 17:24 Uhr"
-    },
-    {
-      "title": "München: Linke Jugend soll sich auf Oktoberfest israelfeindlich geäußert haben",
-      "summary": "Mitglieder der Jugendorganisation der Linken haben laut Berichten auf dem Oktoberfest israelfeindliche Lieder gesungen. Ein FDP-Politiker wurde demnach geohrfeigt.",
-      "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-10/joerg-hoffmann-oktoberfest-fdp-linke-jugend-antisemitismus-foto-1/original__640x360",
-      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-10/oktoberfest-linke-jugend-israelfeindliche-parolen-fdp",
-      "published": "Thu, 01 Oct 2026 17:22:44 -0000",
-      "published_display": "01.10.2026 · 17:22 Uhr"
     }
   ]
 }
