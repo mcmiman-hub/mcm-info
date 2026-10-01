@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-01T19:00:27.396251+00:00",
+  "updated": "2026-10-01T19:19:34.881388+00:00",
   "items": [
+    {
+      "title": "Einsatz: Spezialeinsatzkommando in Wasserburg im Einsatz",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/spezialeinsatzkommando-in-wasserburg-im-einsatz-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/spezialeinsatzkommando-in-wasserburg-im-einsatz",
+      "published": "Thu, 01 Oct 2026 19:13:42 -0000",
+      "published_display": "01.10.2026 · 19:13 Uhr"
+    },
+    {
+      "title": "Auszeichnungen: Angela Merkel mit Hermann-Ehlers-Preis ausgezeichnet",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/angela-merkel-mit-hermann-ehlers-preis-ausgezeichnet-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/angela-merkel-mit-hermann-ehlers-preis-ausgezeichnet",
+      "published": "Thu, 01 Oct 2026 19:05:04 -0000",
+      "published_display": "01.10.2026 · 19:05 Uhr"
+    },
     {
       "title": "Christa Pike: Zum Tode verurteilte Pike erhält »lebensrettende Maßnahmen«",
       "summary": "Zwei Giftspritzen wurden der zum Tode verurteilten Amerikanerin Christa Pike verabreicht. Doch sie überlebte und wird nach Angaben ihres Anwalts im Krankenhaus behandelt.",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/01/drei-maenner-nach-nachrichtendienst-hinweis-festgenommen",
       "published": "Thu, 01 Oct 2026 18:29:57 -0000",
       "published_display": "01.10.2026 · 18:29 Uhr"
-    },
-    {
-      "title": "Tötungsdelikt: Vermisste aus NRW: Leiche gefunden - Ehemann festgenommen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/vermisste-aus-nrw-leiche-gefunden-ehemann-festgenommen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/vermisste-aus-nrw-leiche-gefunden-ehemann-festgenommen",
-      "published": "Thu, 01 Oct 2026 18:24:04 -0000",
-      "published_display": "01.10.2026 · 18:24 Uhr"
-    },
-    {
-      "title": "Gewalttat im Flugzeug: Flydubai-Vorfall: Hintergründe weiter unklar",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/netanjahu-wuerdigt-angegriffenen-piloten-ein-wahrer-held-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/netanjahu-wuerdigt-angegriffenen-piloten-ein-wahrer-held",
-      "published": "Thu, 01 Oct 2026 18:20:49 -0000",
-      "published_display": "01.10.2026 · 18:20 Uhr"
     }
   ]
 }
