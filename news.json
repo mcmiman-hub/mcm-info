@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-01T21:48:14.101933+00:00",
+  "updated": "2026-10-01T21:58:34.947987+00:00",
   "items": [
+    {
+      "title": "Kalenderblatt: Was geschah am 2. Oktober?",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/was-geschah-am-2-oktober-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/was-geschah-am-2-oktober",
+      "published": "Thu, 01 Oct 2026 21:55:04 -0000",
+      "published_display": "01.10.2026 · 21:55 Uhr"
+    },
     {
       "title": "Sportartikel-Konzern: Nike verschärft Sparprogramm",
       "summary": "",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/01/netanjahu-wuerdigt-angegriffenen-piloten-ein-wahrer-held",
       "published": "Thu, 01 Oct 2026 19:41:34 -0000",
       "published_display": "01.10.2026 · 19:41 Uhr"
-    },
-    {
-      "title": "Lichtkunst: Hafen in goldenem Licht - «König der Löwen» feiert Jubiläum",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/hafen-in-goldenem-licht-koenig-der-loewen-feiert-jubilaeum-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/hafen-in-goldenem-licht-koenig-der-loewen-feiert-jubilaeum",
-      "published": "Thu, 01 Oct 2026 19:38:46 -0000",
-      "published_display": "01.10.2026 · 19:38 Uhr"
     }
   ]
 }
