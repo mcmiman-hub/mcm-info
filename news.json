@@ -1,13 +1,101 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-01T11:19:05.403664+00:00",
+  "updated": "2026-10-01T11:34:03.963500+00:00",
   "items": [
+    {
+      "title": "CDU: Thomas Bareiß zieht sich aus Haushaltsausschuss des Bundestags zurück",
+      "summary": "Der CDU-Politiker Thomas Bareiß hat nach Ermittlungen wegen eines Autounfalls den Bundestags-Haushaltsausschuss verlassen. Er wolle künftig andere Aufgaben übernehmen.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-10/thomas-bareiss-cdu-haushaltsausschuss-ermittlungen-unfall-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-10/thomas-bareiss-cdu-haushaltsausschuss-ermittlungen-unfall",
+      "published": "Thu, 01 Oct 2026 11:33:27 -0000",
+      "published_display": "01.10.2026 · 11:33 Uhr"
+    },
+    {
+      "title": "Fotografie: Bilder des Tages",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/bilder-des-tages-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/bilder-des-tages",
+      "published": "Thu, 01 Oct 2026 11:32:00 -0000",
+      "published_display": "01.10.2026 · 11:32 Uhr"
+    },
+    {
+      "title": "«Hells Angels»: Polizeipräsident: Frühere Rocker-Razzien offenbar verraten",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/polizeipraesident-fruehere-rocker-razzien-offenbar-verraten-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/polizeipraesident-fruehere-rocker-razzien-offenbar-verraten",
+      "published": "Thu, 01 Oct 2026 11:28:48 -0000",
+      "published_display": "01.10.2026 · 11:28 Uhr"
+    },
+    {
+      "title": "Bahnverkehr: Bahnstrecke Leipzig-Chemnitz: Südteil kostet 600 Millionen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/bahnstrecke-leipzig-chemnitz-suedteil-kostet-600-millionen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/bahnstrecke-leipzig-chemnitz-suedteil-kostet-600-millionen",
+      "published": "Thu, 01 Oct 2026 11:28:33 -0000",
+      "published_display": "01.10.2026 · 11:28 Uhr"
+    },
+    {
+      "title": "Berlin: Erstes Treffen nach Abgeordnetenhauswahl in Berlin begonnen",
+      "summary": "Linke, Grüne und SPD in Berlin sprechen über Themen wie den Umgang mit Antisemitismus. Von dem Ergebnis dürfte abhängen, ob es zu Sondierungen kommt.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-10/koalitionsgespraeche-berlin-linke-spd-gruene-rot-gruen-rot-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-10/koalitionsgespraeche-berlin-linke-spd-gruene-rot-gruen-rot",
+      "published": "Thu, 01 Oct 2026 11:27:06 -0000",
+      "published_display": "01.10.2026 · 11:27 Uhr"
+    },
+    {
+      "title": "Messe: Länder werben auf Münchner Immobilienmesse um Investoren",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/laender-werben-auf-muenchner-immobilienmesse-um-investoren-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/laender-werben-auf-muenchner-immobilienmesse-um-investoren",
+      "published": "Thu, 01 Oct 2026 11:26:28 -0000",
+      "published_display": "01.10.2026 · 11:26 Uhr"
+    },
+    {
+      "title": "Vorfall im Landkreis Kassel: Unbekannte Flüssigkeit verschüttet - Zehn Personen verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/unbekannte-fluessigkeit-verschuettet-zehn-personen-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/unbekannte-fluessigkeit-verschuettet-zehn-personen-verletzt",
+      "published": "Thu, 01 Oct 2026 11:22:50 -0000",
+      "published_display": "01.10.2026 · 11:22 Uhr"
+    },
+    {
+      "title": "Angriff auf Israel 7.10.2023: Gedenken an Hamas-Terror - Aufruf zu extremistischer Demo",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/gedenken-an-hamas-terror-aufruf-zu-extremistischer-demo-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/gedenken-an-hamas-terror-aufruf-zu-extremistischer-demo",
+      "published": "Thu, 01 Oct 2026 11:22:27 -0000",
+      "published_display": "01.10.2026 · 11:22 Uhr"
+    },
+    {
+      "title": "Verschwendung von Steuergeld: Exklusive Fahrradgarage und Stadtlogo landen im Schwarzbuch",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/exklusive-fahrradgarage-und-stadtlogo-landen-im-schwarzbuch-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/exklusive-fahrradgarage-und-stadtlogo-landen-im-schwarzbuch",
+      "published": "Thu, 01 Oct 2026 11:21:39 -0000",
+      "published_display": "01.10.2026 · 11:21 Uhr"
+    },
+    {
+      "title": "Getränke: Letztes Bier bei Brauerei Eichbaum nach fast 350 Jahren",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/letztes-bier-bei-brauerei-eichbaum-nach-fast-350-jahren-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/letztes-bier-bei-brauerei-eichbaum-nach-fast-350-jahren",
+      "published": "Thu, 01 Oct 2026 11:19:38 -0000",
+      "published_display": "01.10.2026 · 11:19 Uhr"
+    },
     {
       "title": "Krieg gegen die Ukraine: Kyjiw sperrt wichtige Brücke über den Dnipro nach Drohnenangriff",
       "summary": "Der Straßen- und Bahnverkehr über den Dnipro ist wegen eines russischen Angriffs gestoppt worden. Russland weist ungarische Diplomaten aus. Das Liveblog",
       "image": "https://img.zeit.de/politik/ausland/2026-10/ukraine-russia-conflict-war-bild/original__640x360",
       "link": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
       "published": "Thu, 01 Oct 2026 11:18:19 -0000",
+      "published_display": "01.10.2026 · 11:18 Uhr"
+    },
+    {
+      "title": "Kriminalität: Rocker-Razzia: Geldzählmaschinen und Autos beschlagnahmt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/rocker-razzia-geldzaehlmaschinen-und-autos-beschlagnahmt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/rocker-razzia-geldzaehlmaschinen-und-autos-beschlagnahmt",
+      "published": "Thu, 01 Oct 2026 11:18:14 -0000",
       "published_display": "01.10.2026 · 11:18 Uhr"
     },
     {
@@ -19,108 +107,20 @@
       "published_display": "01.10.2026 · 11:17 Uhr"
     },
     {
-      "title": "Goldraub: Prozess um Goldketten-Raub bei Rap-Konzert in München",
+      "title": "Lobbyverband: Steuerzahlerbund kritisiert sorglosen Umgang mit Steuergeld",
       "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/prozess-um-goldketten-raub-bei-rap-konzert-in-muenchen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/prozess-um-goldketten-raub-bei-rap-konzert-in-muenchen",
-      "published": "Thu, 01 Oct 2026 11:16:20 -0000",
+      "image": "https://img.zeit.de/news/2026-10/01/steuerzahlerbund-kritisiert-sorglosen-umgang-mit-steuergeld-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/steuerzahlerbund-kritisiert-sorglosen-umgang-mit-steuergeld",
+      "published": "Thu, 01 Oct 2026 11:17:17 -0000",
+      "published_display": "01.10.2026 · 11:17 Uhr"
+    },
+    {
+      "title": "Unfall: Seniorin stürzt rückwärts ins U-Bahn-Gleis",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/seniorin-stuerzt-rueckwaerts-ins-u-bahn-gleis-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/seniorin-stuerzt-rueckwaerts-ins-u-bahn-gleis",
+      "published": "Thu, 01 Oct 2026 11:16:47 -0000",
       "published_display": "01.10.2026 · 11:16 Uhr"
-    },
-    {
-      "title": "Tötungsdelikt: 42-Jähriger soll eigene Mutter getötet haben",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/42-jaehriger-soll-eigene-mutter-getoetet-haben-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/42-jaehriger-soll-eigene-mutter-getoetet-haben",
-      "published": "Thu, 01 Oct 2026 11:14:34 -0000",
-      "published_display": "01.10.2026 · 11:14 Uhr"
-    },
-    {
-      "title": "Mythos Drache: In Darmstadt sind die Drachen los - neue Ausstellung",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/in-darmstadt-sind-die-drachen-los-neue-ausstellung-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/in-darmstadt-sind-die-drachen-los-neue-ausstellung",
-      "published": "Thu, 01 Oct 2026 11:11:56 -0000",
-      "published_display": "01.10.2026 · 11:11 Uhr"
-    },
-    {
-      "title": "Todesstrafe in den USA: Beispiellos: Entsetzen nach gescheiterter Hinrichtung",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/oberstes-us-gericht-tennessee-darf-christa-pike-hinrichten-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/oberstes-us-gericht-tennessee-darf-christa-pike-hinrichten",
-      "published": "Thu, 01 Oct 2026 11:09:35 -0000",
-      "published_display": "01.10.2026 · 11:09 Uhr"
-    },
-    {
-      "title": "Landgericht Frankfurt: Nach Tod von Kind: Mehr als 13 Jahre Haft für Narkosearzt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/nach-tod-von-kind-mehr-als-13-jahre-haft-fuer-narkosearzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/nach-tod-von-kind-mehr-als-13-jahre-haft-fuer-narkosearzt",
-      "published": "Thu, 01 Oct 2026 11:09:05 -0000",
-      "published_display": "01.10.2026 · 11:09 Uhr"
-    },
-    {
-      "title": "Steuerverschwendung: Bund der Steuerzahler kritisiert wenig genutztes Parkhaus",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/bund-der-steuerzahler-kritisiert-wenig-genutztes-parkhaus-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/bund-der-steuerzahler-kritisiert-wenig-genutztes-parkhaus",
-      "published": "Thu, 01 Oct 2026 11:07:05 -0000",
-      "published_display": "01.10.2026 · 11:07 Uhr"
-    },
-    {
-      "title": "Getränke: Letztes Bier bei Eichbaum - 181 Jobs betroffen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/letztes-bier-bei-eichbaum-181-jobs-betroffen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/letztes-bier-bei-eichbaum-181-jobs-betroffen",
-      "published": "Thu, 01 Oct 2026 11:06:27 -0000",
-      "published_display": "01.10.2026 · 11:06 Uhr"
-    },
-    {
-      "title": "Berlin: Erstes Treffen nach Abgeordnetenhauswahl in Berlin begonnen",
-      "summary": "Linke, Grüne und SPD in Berlin sprechen über Themen wie den Umgang mit Antisemitismus. Von dem Ergebnis dürfte abhängen, ob es zu Sondierungen kommt.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-10/koalitionsgespraeche-berlin-linke-spd-gruene-rot-gruen-rot-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-10/koalitionsgespraeche-berlin-linke-spd-gruene-rot-gruen-rot",
-      "published": "Thu, 01 Oct 2026 11:05:52 -0000",
-      "published_display": "01.10.2026 · 11:05 Uhr"
-    },
-    {
-      "title": "Deutsche Eishockey Liga: Nürnberg Ice Tigers befördern Ustorf zum Geschäftsführer",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/nuernberg-ice-tigers-befoerdern-ustorf-zum-geschaeftsfuehrer-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/nuernberg-ice-tigers-befoerdern-ustorf-zum-geschaeftsfuehrer",
-      "published": "Thu, 01 Oct 2026 11:05:18 -0000",
-      "published_display": "01.10.2026 · 11:05 Uhr"
-    },
-    {
-      "title": "Kriminalität: Schwarzarbeit bei Reinigungsfirmen? Verdächtige in Haft",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/schwarzarbeit-bei-reinigungsfirmen-verdaechtige-in-haft-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/schwarzarbeit-bei-reinigungsfirmen-verdaechtige-in-haft",
-      "published": "Thu, 01 Oct 2026 11:05:16 -0000",
-      "published_display": "01.10.2026 · 11:05 Uhr"
-    },
-    {
-      "title": "Finanzkriminalität: Geldwäsche-Ermittlungen gegen hochrangige «Hells Angels»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/geldwaesche-ermittlungen-gegen-hochrangige-hells-angels-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/geldwaesche-ermittlungen-gegen-hochrangige-hells-angels",
-      "published": "Thu, 01 Oct 2026 11:04:09 -0000",
-      "published_display": "01.10.2026 · 11:04 Uhr"
-    },
-    {
-      "title": "Festnahme: Mann zündet großen Plüschaffen in Freizeitcenter an",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/mann-zuendet-grossen-plueschaffen-in-freizeitcenter-an-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/mann-zuendet-grossen-plueschaffen-in-freizeitcenter-an",
-      "published": "Thu, 01 Oct 2026 11:03:11 -0000",
-      "published_display": "01.10.2026 · 11:03 Uhr"
-    },
-    {
-      "title": "Kriminalität: Westernstiefel im Wert von 50.000 Euro in Erfurt gestohlen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/westernstiefel-im-wert-von-50-000-euro-in-erfurt-gestohlen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/westernstiefel-im-wert-von-50-000-euro-in-erfurt-gestohlen",
-      "published": "Thu, 01 Oct 2026 11:01:12 -0000",
-      "published_display": "01.10.2026 · 11:01 Uhr"
     }
   ]
 }
