@@ -1,14 +1,94 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-01T15:36:59.791897+00:00",
+  "updated": "2026-10-01T15:52:02.443530+00:00",
   "items": [
+    {
+      "title": "Meta und OpenAI: Die Agenten kommen. Sind wir vorbereitet?",
+      "summary": "Während im Weißen Haus und anderswo noch über die Sicherheit von KI‑Agenten diskutiert wird, bringen Meta und OpenAI ihre Privatagenten auf den Markt. Der KI-Newsletter",
+      "image": "https://img.zeit.de/digital/2026-10/meta-openai-ki-agenten-newsletter-kuenstliche-intelligenz-bild-2/original__640x360",
+      "link": "https://www.zeit.de/digital/2026-10/meta-openai-ki-agenten-newsletter-kuenstliche-intelligenz",
+      "published": "Thu, 01 Oct 2026 15:49:53 -0000",
+      "published_display": "01.10.2026 · 15:49 Uhr"
+    },
+    {
+      "title": "Ingeborg-Bachmann-Preis: Ist das ein Literaturskandal?",
+      "summary": "Oder eine viel größere, jahrtausendealte Diskussion über gute Texte? Anmerkungen zum Eklat in der Jury des Ingeborg-Bachmann-Preises",
+      "image": "https://img.zeit.de/feuilleton/literatur/2026-10/ingeborg-bachmann-preis-jury-literatur-identitaetspolitik-insa-wilke-bilder/49-tage-der-deutschsprachigen-literatur-bild/original__640x360",
+      "link": "https://www.zeit.de/feuilleton/literatur/2026-10/ingeborg-bachmann-preis-jury-literatur-identitaetspolitik-insa-wilke",
+      "published": "Thu, 01 Oct 2026 15:48:28 -0000",
+      "published_display": "01.10.2026 · 15:48 Uhr"
+    },
+    {
+      "title": "Digitale Gewalt: Fernandes kritisiert mangelnden Schutz gegen Deepfakes",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/collien-fernandes-prangert-schutzluecken-bei-deepfakes-an-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/collien-fernandes-prangert-schutzluecken-bei-deepfakes-an",
+      "published": "Thu, 01 Oct 2026 15:47:50 -0000",
+      "published_display": "01.10.2026 · 15:47 Uhr"
+    },
+    {
+      "title": "Rede bei Friedenspreis: Merz: Wenn Deutschland wankt, dann wankt die Ukraine",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/merz-warnt-vor-nachlassender-ukraine-hilfe-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/merz-warnt-vor-nachlassender-ukraine-hilfe",
+      "published": "Thu, 01 Oct 2026 15:45:41 -0000",
+      "published_display": "01.10.2026 · 15:45 Uhr"
+    },
+    {
+      "title": "Drohnen: Bundeswehr bekommt eigenes Drohnenregiment",
+      "summary": "Verteidigungsminister Boris Pistorius hat den Aufbau eines Drohnenregiments bei der Bundeswehr angekündigt. Der Verband soll aus 600 Männern und Frauen bestehen.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-10/drohnenregiment-bundeswehr-unbemannte-systeme-boris-pistorius-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-10/drohnenregiment-bundeswehr-unbemannte-systeme-boris-pistorius",
+      "published": "Thu, 01 Oct 2026 15:45:33 -0000",
+      "published_display": "01.10.2026 · 15:45 Uhr"
+    },
+    {
+      "title": "Wasser: Hamburg Wasser: Versorgung bis Freitag wiederherstellen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/hamburg-wasser-versorgung-bis-freitag-wiederherstellen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/hamburg-wasser-versorgung-bis-freitag-wiederherstellen",
+      "published": "Thu, 01 Oct 2026 15:45:26 -0000",
+      "published_display": "01.10.2026 · 15:45 Uhr"
+    },
+    {
+      "title": "Nach der Berlin-Wahl: Bei Dreiergesprächen noch keine Einigung über Antisemitismus",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/berlin-linke-gruene-und-spd-sprechen-ueber-heikle-themen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/berlin-linke-gruene-und-spd-sprechen-ueber-heikle-themen",
+      "published": "Thu, 01 Oct 2026 15:40:11 -0000",
+      "published_display": "01.10.2026 · 15:40 Uhr"
+    },
+    {
+      "title": "Badeunfälle: Suche nach vermisster Frau in Dresdner Kiesgrube geht weiter",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/suche-nach-vermisster-frau-in-dresdner-kiesgrube-geht-weiter-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/suche-nach-vermisster-frau-in-dresdner-kiesgrube-geht-weiter",
+      "published": "Thu, 01 Oct 2026 15:39:57 -0000",
+      "published_display": "01.10.2026 · 15:39 Uhr"
+    },
+    {
+      "title": "Verteidigung: Unbemannte Waffensysteme: Bundeswehr bekommt Drohnenregiment",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/unbemannte-waffensysteme-bundeswehr-bekommt-drohnenregiment-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/unbemannte-waffensysteme-bundeswehr-bekommt-drohnenregiment",
+      "published": "Thu, 01 Oct 2026 15:39:35 -0000",
+      "published_display": "01.10.2026 · 15:39 Uhr"
+    },
+    {
+      "title": "Vorwurf Steuerverschwendung: Schwarzbuch im Nordwesten: prominente Fälle und ein Dorfcafé",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/schwarzbuch-im-nordwesten-prominente-faelle-und-ein-dorfcaf-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/schwarzbuch-im-nordwesten-prominente-faelle-und-ein-dorfcaf",
+      "published": "Thu, 01 Oct 2026 15:37:51 -0000",
+      "published_display": "01.10.2026 · 15:37 Uhr"
+    },
     {
       "title": "Westfälischer Friedenspreis: Merz betont Einigkeit der Nato als Grundlage europäischer Sicherheit",
       "summary": "Die Nato hat den Westfälischen Friedenspreis bekommen. In seiner Laudatio beschwört der Kanzler ihren Zusammenhalt. Der Ukrainekrieg dürfe Europa nicht spalten.",
       "image": "https://img.zeit.de/politik/ausland/2026-10/friedrich-merz-russland-ukraine-krieg-verhandlungen-foto-1/original__640x360",
       "link": "https://www.zeit.de/politik/ausland/2026-10/friedrich-merz-russland-ukraine-nato-friedenspreis-krieg",
-      "published": "Thu, 01 Oct 2026 15:34:57 -0000",
-      "published_display": "01.10.2026 · 15:34 Uhr"
+      "published": "Thu, 01 Oct 2026 15:37:16 -0000",
+      "published_display": "01.10.2026 · 15:37 Uhr"
     },
     {
       "title": "Mobilitätskosten: Tankrabatt: An der Zapfsäule purzeln die Preise",
@@ -41,86 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/01/steuerzahlerbund-kritisiert-kunstinstallation-und-loewenlogo",
       "published": "Thu, 01 Oct 2026 15:30:35 -0000",
       "published_display": "01.10.2026 · 15:30 Uhr"
-    },
-    {
-      "title": "Verteidigung: Pistorius lässt Drohnenregiment aufstellen",
-      "summary": "",
-      "image": "https://img.zeit.de/administratives/sharing/fallback-image-die-zeit/wide__1300x731",
-      "link": "https://www.zeit.de/news/2026-10/01/pistorius-laesst-drohnenregiment-aufstellen",
-      "published": "Thu, 01 Oct 2026 15:28:43 -0000",
-      "published_display": "01.10.2026 · 15:28 Uhr"
-    },
-    {
-      "title": "Thüringen: Mutmaßliches IS-Mitglied in Eisenach festgenommen",
-      "summary": "Im thüringischen Eisenach ist ein Mann festgenommen worden, der als Militärpolizist für die Terrormiliz IS gearbeitet haben soll. Er sitzt in Untersuchungshaft.",
-      "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-10/is-eisenach-thueringen-festnahme-generalbundesanwalt-bka-foto-1/original__640x360",
-      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-10/thueringen-eisenach-festnahme-mutmassliches-is-mitglied-gxe",
-      "published": "Thu, 01 Oct 2026 15:27:33 -0000",
-      "published_display": "01.10.2026 · 15:27 Uhr"
-    },
-    {
-      "title": "Messerangriff im Cockpit: Was geschah an Bord des Flydubai-Flugs?",
-      "summary": "Nach einem Messerangriff im Cockpit musste ein Flugzeug unterwegs nach Israel notlanden. Was ist an Bord passiert? Und: Nato erhält Westfälischen Friedenspreis",
-      "image": "https://img.zeit.de/politik/2026-10/messerangriff-cockpit-flugzeug-saudi-arabien-tel-aviv-nachrichtenpodcast-bild-2/original__640x360",
-      "link": "https://www.zeit.de/politik/2026-10/messerangriff-cockpit-flugzeug-saudi-arabien-tel-aviv-nachrichtenpodcast",
-      "published": "Thu, 01 Oct 2026 15:24:43 -0000",
-      "published_display": "01.10.2026 · 15:24 Uhr"
-    },
-    {
-      "title": "Auszeichnung: Friedenspreis an Nato und «socioMovens»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/friedenspreis-an-nato-und-sociomovens-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/friedenspreis-an-nato-und-sociomovens",
-      "published": "Thu, 01 Oct 2026 15:23:14 -0000",
-      "published_display": "01.10.2026 · 15:23 Uhr"
-    },
-    {
-      "title": "Ukraine-Krieg: Merz warnt vor nachlassender Ukraine-Hilfe",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/merz-warnt-vor-nachlassender-ukraine-hilfe-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/merz-warnt-vor-nachlassender-ukraine-hilfe",
-      "published": "Thu, 01 Oct 2026 15:22:48 -0000",
-      "published_display": "01.10.2026 · 15:22 Uhr"
-    },
-    {
-      "title": "Heizkosten: Hier zahlen die Menschen am meisten fürs Heizen",
-      "summary": "Eine neue Auswertung zeigt den rasanten Anstieg der Heizkosten in den vergangenen Jahren. Wer mit Strom heizt, kommt noch glimpflich davon.",
-      "image": "https://img.zeit.de/wirtschaft/2026-10/heizkosten-fernwaerme-strom-waermepumpe-erdgas-bild-1/original__640x360",
-      "link": "https://www.zeit.de/wirtschaft/2026-10/heizkosten-fernwaerme-strom-waermepumpe-erdgas",
-      "published": "Thu, 01 Oct 2026 15:21:59 -0000",
-      "published_display": "01.10.2026 · 15:21 Uhr"
-    },
-    {
-      "title": "Digitale Gewalt: Collien Fernandes prangert Schutzlücken bei Deepfakes an",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/collien-fernandes-prangert-schutzluecken-bei-deepfakes-an-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/collien-fernandes-prangert-schutzluecken-bei-deepfakes-an",
-      "published": "Thu, 01 Oct 2026 15:20:06 -0000",
-      "published_display": "01.10.2026 · 15:20 Uhr"
-    },
-    {
-      "title": "Deutsche Bischofskonferenz: Trierer Bischof ist Beauftragter für Flucht und Migration",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/trierer-bischof-ist-beauftragter-fuer-flucht-und-migration-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/trierer-bischof-ist-beauftragter-fuer-flucht-und-migration",
-      "published": "Thu, 01 Oct 2026 15:18:54 -0000",
-      "published_display": "01.10.2026 · 15:18 Uhr"
-    },
-    {
-      "title": "Justiz: AfD-Verbotsaufruf: Justiz-Erlass entfacht Streit in Hessen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/afd-verbotsaufruf-justiz-erlass-entfacht-streit-in-hessen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/afd-verbotsaufruf-justiz-erlass-entfacht-streit-in-hessen",
-      "published": "Thu, 01 Oct 2026 15:18:44 -0000",
-      "published_display": "01.10.2026 · 15:18 Uhr"
-    },
-    {
-      "title": "Görlitzer Park: Görlitzer Park in Berlin muss nachts weiter geöffnet bleiben",
-      "summary": "Der Berliner Senat muss im Streit um die nächtliche Schließung des Görlitzer Parks eine weitere Niederlage hinnehmen. Das Areal bleibt nachts vorerst weiterhin offen.",
-      "image": "https://img.zeit.de/gesellschaft/2026-10/goerlitzer-park-berlin-nachtliche-schliessung-oeffnungszeiten-gericht-foto-1/original__640x360",
-      "link": "https://www.zeit.de/gesellschaft/2026-10/goerlitzer-park-berlin-nachtliche-schliessung-oeffnungszeiten-gericht",
-      "published": "Thu, 01 Oct 2026 15:13:44 -0000",
-      "published_display": "01.10.2026 · 15:13 Uhr"
     }
   ]
 }
