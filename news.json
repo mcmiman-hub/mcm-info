@@ -1,7 +1,55 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-01T04:59:06.039782+00:00",
+  "updated": "2026-10-01T05:19:25.536651+00:00",
   "items": [
+    {
+      "title": "Auswandern mit Kind : »Ein Kind da mit reinzuziehen, das ist einfach eine andere Nummer«",
+      "summary": "Ein Paar macht seinen Traum wahr und wandert nach Portugal aus – mit Teenager-Tochter. Doch der wird dort alles viel. Viel zu viel. Die Eltern müssen sich entscheiden.",
+      "image": "https://img.zeit.de/familie/2026-09/auswandern-kind-eltern-alltag-stress/original__640x360",
+      "link": "https://www.zeit.de/familie/2026-10/auswandern-kind-eltern-alltag-stress-portugal",
+      "published": "Thu, 01 Oct 2026 05:18:24 -0000",
+      "published_display": "01.10.2026 · 05:18 Uhr"
+    },
+    {
+      "title": "Nächtliche Flammen: Anwohner in Klinik nach Dachstuhlbrand von Mehrfamilienhaus",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/anwohner-in-klinik-nach-dachstuhlbrand-von-mehrfamilienhaus-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/anwohner-in-klinik-nach-dachstuhlbrand-von-mehrfamilienhaus",
+      "published": "Thu, 01 Oct 2026 05:12:39 -0000",
+      "published_display": "01.10.2026 · 05:12 Uhr"
+    },
+    {
+      "title": "Taliban: Pakistan fliegt neue Luftangriffe auf Afghanistan",
+      "summary": "Pakistan spricht von Luftangriffen auf zwei afghanische Terrorlager. Nach Angaben der Taliban wurden neun Zivilisten getötet.",
+      "image": "https://img.zeit.de/politik/ausland/2026-10/pakistan-afghanistan-luftangriff-bombardierung-taliban-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/pakistan-afghanistan-luftangriff-bombardierung-taliban",
+      "published": "Thu, 01 Oct 2026 05:11:16 -0000",
+      "published_display": "01.10.2026 · 05:11 Uhr"
+    },
+    {
+      "title": "Notfälle: Brand in Wohnung? Feuerwehr findet nur angebranntes Essen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/brand-in-wohnung-feuerwehr-findet-nur-angebranntes-essen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/brand-in-wohnung-feuerwehr-findet-nur-angebranntes-essen",
+      "published": "Thu, 01 Oct 2026 05:09:11 -0000",
+      "published_display": "01.10.2026 · 05:09 Uhr"
+    },
+    {
+      "title": "Neuer Wehrdienst: Bundeswehr-Rückkehr in die Kurpfalz-Kaserne nimmt Gestalt an",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/bundeswehr-rueckkehr-in-die-kurpfalz-kaserne-nimmt-gestalt-an-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/bundeswehr-rueckkehr-in-die-kurpfalz-kaserne-nimmt-gestalt-an",
+      "published": "Thu, 01 Oct 2026 05:06:49 -0000",
+      "published_display": "01.10.2026 · 05:06 Uhr"
+    },
+    {
+      "title": "Mit großer Mehrheit gewählt: Hamburger Michel hat einen neuen Pastor",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/hamburger-michel-hat-einen-neuen-pastor-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/hamburger-michel-hat-einen-neuen-pastor",
+      "published": "Thu, 01 Oct 2026 05:00:39 -0000",
+      "published_display": "01.10.2026 · 05:00 Uhr"
+    },
     {
       "title": "Wetter: 25 Grad im Oktober in Sachsen",
       "summary": "",
@@ -9,14 +57,6 @@
       "link": "https://www.zeit.de/news/2026-10/01/25-grad-im-oktober-in-sachsen",
       "published": "Thu, 01 Oct 2026 04:56:40 -0000",
       "published_display": "01.10.2026 · 04:56 Uhr"
-    },
-    {
-      "title": "Nächtliche Flammen: Anwohner in Klinik nach Dachstuhlbrand von Mehrfamilienhaus",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/anwohner-in-klinik-nach-dachstuhlbrand-von-mehrfamilienhaus-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/anwohner-in-klinik-nach-dachstuhlbrand-von-mehrfamilienhaus",
-      "published": "Thu, 01 Oct 2026 04:52:05 -0000",
-      "published_display": "01.10.2026 · 04:52 Uhr"
     },
     {
       "title": "Wetter: Regen ab Freitag – nochmal Sonne tanken in Sachsen-Anhalt",
@@ -51,7 +91,7 @@
       "published_display": "01.10.2026 · 04:37 Uhr"
     },
     {
-      "title": "Energiewende: Erneuerbare Energien decken mehr als 60 Prozent des Stromverbrauchs ab",
+      "title": "Energiewende: Erneuerbare Energien decken mehr als 60 Prozent des Stromverbrauchs",
       "summary": "Ökostromanlagen erzeugen laut einer Berechnung so viel Strom wie nie zuvor. Zuletzt stieg unter anderem die Nutzung von Windenergie an Land und auf See.",
       "image": "https://img.zeit.de/wirtschaft/2026-10/erneuerbare-energien-oekostrom-stromverbrauch-anteil-zsw-bdew-foto-1/original__640x360",
       "link": "https://www.zeit.de/wirtschaft/2026-10/erneuerbare-energien-oekostrom-stromverbrauch-anteil-zsw-bdew",
@@ -81,46 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/01/netanjahu-wuerdigt-angegriffenen-piloten-ein-wahrer-held",
       "published": "Thu, 01 Oct 2026 04:22:52 -0000",
       "published_display": "01.10.2026 · 04:22 Uhr"
-    },
-    {
-      "title": "Wetterprognose: Das Wetter in Hessen - Regen und Gewitter",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/das-wetter-in-hessen-regen-und-gewitter-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/das-wetter-in-hessen-regen-und-gewitter",
-      "published": "Thu, 01 Oct 2026 04:17:20 -0000",
-      "published_display": "01.10.2026 · 04:17 Uhr"
-    },
-    {
-      "title": "Marode Brücke: Wieder normaler Zugverkehr zwischen Köln und Wuppertal",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/wieder-normaler-zugverkehr-zwischen-koeln-und-wuppertal-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/wieder-normaler-zugverkehr-zwischen-koeln-und-wuppertal",
-      "published": "Thu, 01 Oct 2026 04:16:36 -0000",
-      "published_display": "01.10.2026 · 04:16 Uhr"
-    },
-    {
-      "title": "Literatur: Christoph Kramer, der neue Roman und die Sache mit dem Glück",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/christoph-kramer-der-neue-roman-und-die-sache-mit-dem-glueck-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/christoph-kramer-der-neue-roman-und-die-sache-mit-dem-glueck",
-      "published": "Thu, 01 Oct 2026 04:15:05 -0000",
-      "published_display": "01.10.2026 · 04:15 Uhr"
-    },
-    {
-      "title": "Unfälle: Vier Leichtverletzte nach Zusammenstoß mit Rettungswagen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/vier-leichtverletzte-nach-zusammenstoss-mit-rettungswagen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/vier-leichtverletzte-nach-zusammenstoss-mit-rettungswagen",
-      "published": "Thu, 01 Oct 2026 04:08:37 -0000",
-      "published_display": "01.10.2026 · 04:08 Uhr"
-    },
-    {
-      "title": "Zwischenwahlen in den USA: Trump, die Midterms und das Problem der Republikaner",
-      "summary": "Einen Monat vor den Midterms sind die Aussichten für die Republikaner schlecht. Im US-Podcast analysieren wir die Gründe. Und: der Axel Springer Award für Peter Thiel",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/zwischenwahlen-usa-republikaner-ok-america-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/zwischenwahlen-usa-republikaner-ok-america",
-      "published": "Thu, 01 Oct 2026 04:05:07 -0000",
-      "published_display": "01.10.2026 · 04:05 Uhr"
     }
   ]
 }
