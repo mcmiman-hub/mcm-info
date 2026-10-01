@@ -1,14 +1,38 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-01T20:59:00.207071+00:00",
+  "updated": "2026-10-01T21:18:34.320003+00:00",
   "items": [
+    {
+      "title": "Sperrung: A8 bei Stuttgart voll gesperrt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/a8-bei-stuttgart-voll-gesperrt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/a8-bei-stuttgart-voll-gesperrt",
+      "published": "Thu, 01 Oct 2026 21:11:34 -0000",
+      "published_display": "01.10.2026 · 21:11 Uhr"
+    },
     {
       "title": "Fußball-Nationalmannschaft: Neue Namen, neues Tempo: Klopp feiert seine Siegpremiere",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-10/01/keidel-nicht-im-spieltagskader-laeuft-s-wie-bei-cont-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-10/01/keidel-nicht-im-spieltagskader-laeuft-s-wie-bei-cont",
-      "published": "Thu, 01 Oct 2026 20:51:53 -0000",
-      "published_display": "01.10.2026 · 20:51 Uhr"
+      "published": "Thu, 01 Oct 2026 21:09:24 -0000",
+      "published_display": "01.10.2026 · 21:09 Uhr"
+    },
+    {
+      "title": "Nations League, 3. Spieltag: Deutschland gewinnt gegen Serbien",
+      "summary": "Jürgen Klopp feiert in München seinen ersten Sieg als Fußballbundestrainer. Im zweiten Heimspiel der Nations League setzte sich die Nationalmannschaft souverän durch.",
+      "image": "https://img.zeit.de/sport/2026-10/nations-league-deutschland-serbien-drittes-spiel-foto-1/original__640x360",
+      "link": "https://www.zeit.de/sport/2026-10/nations-league-deutschland-serbien-drittes-spiel",
+      "published": "Thu, 01 Oct 2026 21:01:51 -0000",
+      "published_display": "01.10.2026 · 21:01 Uhr"
+    },
+    {
+      "title": "Fußball-Nationalmannschaft: Mika Baur ist der 1000. deutsche Nationalspieler",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/mika-baur-ist-der-1000-deutsche-nationalspieler-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/mika-baur-ist-der-1000-deutsche-nationalspieler",
+      "published": "Thu, 01 Oct 2026 20:59:41 -0000",
+      "published_display": "01.10.2026 · 20:59 Uhr"
     },
     {
       "title": "Freiburg: Waffenalarm im Zug – Spezialkräfte nehmen 21-Jährigen fest",
@@ -49,14 +73,6 @@
       "link": "https://www.zeit.de/news/2026-10/01/die-deutsche-fussball-nationalmannschaft-in-der-einzelkritik",
       "published": "Thu, 01 Oct 2026 20:35:14 -0000",
       "published_display": "01.10.2026 · 20:35 Uhr"
-    },
-    {
-      "title": "Fußball-Nationalmannschaft: Mika Baur ist der 1000. deutsche Nationalspieler",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/mika-baur-ist-der-1000-deutsche-nationalspieler-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/mika-baur-ist-der-1000-deutsche-nationalspieler",
-      "published": "Thu, 01 Oct 2026 20:26:23 -0000",
-      "published_display": "01.10.2026 · 20:26 Uhr"
     },
     {
       "title": "Feuerwehreinsatz: Risse im Gemäuer: Haus in St. Georg laut Bezirksamt sicher",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/01/vom-velodrom-ins-eheglueck-bahnrad-paar-hat-geheiratet",
       "published": "Thu, 01 Oct 2026 19:29:35 -0000",
       "published_display": "01.10.2026 · 19:29 Uhr"
-    },
-    {
-      "title": "Mutmaßliche Tötung: Küchenmesser-Attacke - Opfer stirbt im Krankenhaus",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/kuechenmesser-attacke-opfer-stirbt-im-krankenhaus-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/kuechenmesser-attacke-opfer-stirbt-im-krankenhaus",
-      "published": "Thu, 01 Oct 2026 19:28:27 -0000",
-      "published_display": "01.10.2026 · 19:28 Uhr"
-    },
-    {
-      "title": "Flydubai-Notlandung: Saudi-Arabien überstellt Flydubai-Piloten in Emirate",
-      "summary": "Der festgenommene Copilot des Flydubai-Flugs wurde in die Vereinigten Arabischen Emirate gebracht. Auch der verletzte Kapitän soll mittlerweile dort sein.",
-      "image": "https://img.zeit.de/politik/2026-10/flugvorfall-im-nahen-osten-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/flydubai-zwischenfall-copilot-messerangriff-boeing-tel-aviv",
-      "published": "Thu, 01 Oct 2026 19:25:41 -0000",
-      "published_display": "01.10.2026 · 19:25 Uhr"
     }
   ]
 }
