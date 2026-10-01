@@ -1,12 +1,36 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-01T16:01:27.385340+00:00",
+  "updated": "2026-10-01T16:19:29.261135+00:00",
   "items": [
+    {
+      "title": "Drohnen: Bundeswehr bekommt eigenes Drohnenregiment",
+      "summary": "Verteidigungsminister Boris Pistorius hat den Aufbau eines Drohnenregiments bei der Bundeswehr angekündigt. Der Verband soll aus 600 Männern und Frauen bestehen.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-10/drohnenregiment-bundeswehr-unbemannte-systeme-boris-pistorius-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-10/drohnenregiment-bundeswehr-unbemannte-systeme-boris-pistorius",
+      "published": "Thu, 01 Oct 2026 16:12:27 -0000",
+      "published_display": "01.10.2026 · 16:12 Uhr"
+    },
+    {
+      "title": "Nachruf: Sänger vom ersten «Benjamin Blümchen»-Titellied gestorben",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/saenger-vom-ersten-benjamin-bluemchen-titellied-gestorben-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/saenger-vom-ersten-benjamin-bluemchen-titellied-gestorben",
+      "published": "Thu, 01 Oct 2026 16:10:13 -0000",
+      "published_display": "01.10.2026 · 16:10 Uhr"
+    },
+    {
+      "title": "Bau- und Planungsrecht: Kein Rechtsmittel mehr: Krematorium darf gebaut werden",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/kein-rechtsmittel-mehr-krematorium-darf-gebaut-werden-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/kein-rechtsmittel-mehr-krematorium-darf-gebaut-werden",
+      "published": "Thu, 01 Oct 2026 16:03:06 -0000",
+      "published_display": "01.10.2026 · 16:03 Uhr"
+    },
     {
       "title": "Westfälischer Friedenspreis: Merz betont Einigkeit der Nato als Grundlage europäischer Sicherheit",
       "summary": "Die Nato hat den Westfälischen Friedenspreis bekommen. In seiner Laudatio beschwört der Kanzler ihren Zusammenhalt. Der Ukrainekrieg dürfe Europa nicht spalten.",
       "image": "https://img.zeit.de/politik/ausland/2026-10/friedrich-merz-russland-ukraine-krieg-verhandlungen-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/friedrich-merz-russland-ukraine-nato-friedenspreis-krieg",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/friedrich-merz-russland-ukraine-nato-friedenspreis-krieg-gxe",
       "published": "Thu, 01 Oct 2026 15:58:56 -0000",
       "published_display": "01.10.2026 · 15:58 Uhr"
     },
@@ -67,14 +91,6 @@
       "published_display": "01.10.2026 · 15:45 Uhr"
     },
     {
-      "title": "Drohnen: Bundeswehr bekommt eigenes Drohnenregiment",
-      "summary": "Verteidigungsminister Boris Pistorius hat den Aufbau eines Drohnenregiments bei der Bundeswehr angekündigt. Der Verband soll aus 600 Männern und Frauen bestehen.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-10/drohnenregiment-bundeswehr-unbemannte-systeme-boris-pistorius-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-10/drohnenregiment-bundeswehr-unbemannte-systeme-boris-pistorius",
-      "published": "Thu, 01 Oct 2026 15:45:33 -0000",
-      "published_display": "01.10.2026 · 15:45 Uhr"
-    },
-    {
       "title": "Wasser: Hamburg Wasser: Versorgung bis Freitag wiederherstellen",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-10/01/hamburg-wasser-versorgung-bis-freitag-wiederherstellen-image-group/original__640x360",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/01/unbemannte-waffensysteme-bundeswehr-bekommt-drohnenregiment",
       "published": "Thu, 01 Oct 2026 15:39:35 -0000",
       "published_display": "01.10.2026 · 15:39 Uhr"
-    },
-    {
-      "title": "Vorwurf Steuerverschwendung: Schwarzbuch im Nordwesten: prominente Fälle und ein Dorfcafé",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/schwarzbuch-im-nordwesten-prominente-faelle-und-ein-dorfcaf-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/schwarzbuch-im-nordwesten-prominente-faelle-und-ein-dorfcaf",
-      "published": "Thu, 01 Oct 2026 15:37:51 -0000",
-      "published_display": "01.10.2026 · 15:37 Uhr"
-    },
-    {
-      "title": "Mobilitätskosten: Tankrabatt: An der Zapfsäule purzeln die Preise",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/tankrabatt-gestartet-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/tankrabatt-gestartet",
-      "published": "Thu, 01 Oct 2026 15:34:14 -0000",
-      "published_display": "01.10.2026 · 15:34 Uhr"
     }
   ]
 }
