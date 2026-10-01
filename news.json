@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-01T05:48:14.030267+00:00",
+  "updated": "2026-10-01T06:00:07.430307+00:00",
   "items": [
+    {
+      "title": "USA: Zum Tode verurteilte Frau überlebt Hinrichtung in Tennessee",
+      "summary": "Eigentlich hätte Christa Pike wegen eines Mordes, der 30 Jahre zurückliegt, hingerichtet werden sollen. Doch es gab offenbar Probleme mit der Giftspritze.",
+      "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-10/tennessee-hinrichtung-todesstrafe-frau-giftspritze-foto-1/original__640x360",
+      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-10/tennessee-hinrichtung-todesstrafe-frau-giftspritze",
+      "published": "Thu, 01 Oct 2026 05:51:54 -0000",
+      "published_display": "01.10.2026 · 05:51 Uhr"
+    },
     {
       "title": "Fernsehen: So landete Axel Schulz bei «Promi Big Brother»",
       "summary": "",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/politik/ausland/2026-09/zwischenwahlen-usa-republikaner-ok-america",
       "published": "Thu, 01 Oct 2026 05:19:59 -0000",
       "published_display": "01.10.2026 · 05:19 Uhr"
-    },
-    {
-      "title": "Auswandern mit Kind : »Ein Kind da mit reinzuziehen, das ist einfach eine andere Nummer«",
-      "summary": "Ein Paar macht seinen Traum wahr und wandert nach Portugal aus – mit Teenager-Tochter. Doch der wird dort alles viel. Viel zu viel. Die Eltern müssen sich entscheiden.",
-      "image": "https://img.zeit.de/familie/2026-09/auswandern-kind-eltern-alltag-stress/original__640x360",
-      "link": "https://www.zeit.de/familie/2026-10/auswandern-kind-eltern-alltag-stress-portugal",
-      "published": "Thu, 01 Oct 2026 05:18:24 -0000",
-      "published_display": "01.10.2026 · 05:18 Uhr"
     }
   ]
 }
