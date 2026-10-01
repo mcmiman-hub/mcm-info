@@ -1,7 +1,87 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-01T07:21:25.097872+00:00",
+  "updated": "2026-10-01T07:37:16.113079+00:00",
   "items": [
+    {
+      "title": "Verschärfte Vorschriften: Drohnen-Verbotszone rund um Flughafen München missachtet",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/drohnen-verbotszone-rund-um-flughafen-muenchen-missachtet-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/drohnen-verbotszone-rund-um-flughafen-muenchen-missachtet",
+      "published": "Thu, 01 Oct 2026 07:35:05 -0000",
+      "published_display": "01.10.2026 · 07:35 Uhr"
+    },
+    {
+      "title": "Vorfall in Friedrichshafen: Flugzeug kollidiert am Flughafen mit Feuerwehrfahrzeug",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/flugzeug-kollidiert-am-flughafen-mit-feuerwehrfahrzeug-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/flugzeug-kollidiert-am-flughafen-mit-feuerwehrfahrzeug",
+      "published": "Thu, 01 Oct 2026 07:32:27 -0000",
+      "published_display": "01.10.2026 · 07:32 Uhr"
+    },
+    {
+      "title": "Erinnerungsort zum Kolonialismus: Noch’n Mahnmal",
+      "summary": "Lange tat sich Kulturstaatsminister Wolfram Weimer schwer, einen Ort für das Gedenken an den Kolonialismus zu finden. Nun könnte es Bremen werden. Keine schlechte Wahl.",
+      "image": "https://img.zeit.de/2026/42/noch-n-mahnmal-bild-2/original__640x360",
+      "link": "https://www.zeit.de/2026/42/erinnerungsort-deutscher-kolonialismus-bremen-wolfram-weimer",
+      "published": "Thu, 01 Oct 2026 07:27:48 -0000",
+      "published_display": "01.10.2026 · 07:27 Uhr"
+    },
+    {
+      "title": "Koalition in Berlin: Ist die Linke zu radikal zum Regieren?",
+      "summary": "Die Partei darf in Berlin nicht an die Macht kommen, weil sie jüdisches Leben gefährdet, sagt der Moderator Jörg Thadeusz. SPD-Politikerin Cansel Kiziltepe widerspricht.",
+      "image": "https://img.zeit.de/2026/42/ist-die-linke-zu-radikal-zum-regieren-bild-3/original__640x360",
+      "link": "https://www.zeit.de/2026/42/koalition-berlin-spd-cansel-kiziltepe-joerg-thadeusz-linke-antisemitismus",
+      "published": "Thu, 01 Oct 2026 07:25:59 -0000",
+      "published_display": "01.10.2026 · 07:25 Uhr"
+    },
+    {
+      "title": "Mann schwer verletzt: Blutspur bis zur Klinik – Mordkommission ermittelt in Hamm",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/blutspur-bis-zur-klinik-mordkommission-ermittelt-in-hamm-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/blutspur-bis-zur-klinik-mordkommission-ermittelt-in-hamm",
+      "published": "Thu, 01 Oct 2026 07:22:41 -0000",
+      "published_display": "01.10.2026 · 07:22 Uhr"
+    },
+    {
+      "title": "Fußball-Nationalmannschaft: Keidel nicht im Spieltagskader: Läuft's wie bei Conté?",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/keidel-nicht-im-spieltagskader-laeuft-s-wie-bei-cont-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/keidel-nicht-im-spieltagskader-laeuft-s-wie-bei-cont",
+      "published": "Thu, 01 Oct 2026 07:22:25 -0000",
+      "published_display": "01.10.2026 · 07:22 Uhr"
+    },
+    {
+      "title": "Sachsen-Anhalt: Etat-Lücke 2027 - Finanzminister warnt vor harter Zeit",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/etat-luecke-2027-finanzminister-warnt-vor-harter-zeit-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/etat-luecke-2027-finanzminister-warnt-vor-harter-zeit",
+      "published": "Thu, 01 Oct 2026 07:22:22 -0000",
+      "published_display": "01.10.2026 · 07:22 Uhr"
+    },
+    {
+      "title": "Mobilitätskosten: Tankrabatt startet mit schnell fallenden Preisen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/tankrabatt-startet-mit-schnell-fallenden-preisen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/tankrabatt-startet-mit-schnell-fallenden-preisen",
+      "published": "Thu, 01 Oct 2026 07:22:02 -0000",
+      "published_display": "01.10.2026 · 07:22 Uhr"
+    },
+    {
+      "title": "Alternde Bevölkerung: Sachsen sind zwei Jahre älter als im deutschen Schnitt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/sachsen-sind-zwei-jahre-aelter-als-im-deutschen-schnitt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/sachsen-sind-zwei-jahre-aelter-als-im-deutschen-schnitt",
+      "published": "Thu, 01 Oct 2026 07:22:01 -0000",
+      "published_display": "01.10.2026 · 07:22 Uhr"
+    },
+    {
+      "title": "Coach von Newcastle: Deutscher Fußballtrainer Jaissle: Tumor mit fünf Jahren",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/deutscher-fussballtrainer-jaissle-tumor-mit-fuenf-jahren-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/deutscher-fussballtrainer-jaissle-tumor-mit-fuenf-jahren",
+      "published": "Thu, 01 Oct 2026 07:20:42 -0000",
+      "published_display": "01.10.2026 · 07:20 Uhr"
+    },
     {
       "title": "Verkehr: A9 Richtung München nach tödlichem Unfall gesperrt",
       "summary": "",
@@ -19,20 +99,12 @@
       "published_display": "01.10.2026 · 07:12 Uhr"
     },
     {
-      "title": "Ifo-Institut: Geschäftsklima in der deutschen Elektroindustrie steigt deutlich",
+      "title": "ifo Institut: Geschäftsklima in der deutschen Elektroindustrie steigt deutlich",
       "summary": "Die Stimmung in der deutschen Elektroindustrie ist so gut wie seit Jahren nicht mehr. Ein Grund dafür ist, dass die Unternehmen deutlich mehr Neuaufträge verbuchen.",
       "image": "https://img.zeit.de/wirtschaft/2026-10/elektroindustrie-geschaeftsklima-ifo-institut-klaus-wohlrabe-foto-1/original__640x360",
-      "link": "https://www.zeit.de/wirtschaft/2026-10/elektroindustrie-geschaeftsklima-ifo-institut-klaus-wohlrabe",
+      "link": "https://www.zeit.de/wirtschaft/2026-10/elektroindustrie-geschaeftsklima-ifo-institut-klaus-wohlrabe-gxe",
       "published": "Thu, 01 Oct 2026 07:08:19 -0000",
       "published_display": "01.10.2026 · 07:08 Uhr"
-    },
-    {
-      "title": "Mobilitätskosten: Tankrabatt startet mit schnell fallenden Preisen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/tankrabatt-startet-mit-schnell-fallenden-preisen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/tankrabatt-startet-mit-schnell-fallenden-preisen",
-      "published": "Thu, 01 Oct 2026 07:07:43 -0000",
-      "published_display": "01.10.2026 · 07:07 Uhr"
     },
     {
       "title": "Wetter: Trockenheit: Dorf im Spessart muss Wasser sparen",
@@ -49,78 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/01/suche-nach-vermisster-frau-in-dresdner-kiesgrube-geht-weiter",
       "published": "Thu, 01 Oct 2026 07:05:46 -0000",
       "published_display": "01.10.2026 · 07:05 Uhr"
-    },
-    {
-      "title": "Benzin- und Dieselproduktion: Deutsche Raffinerien steigern Produktion von Benzin und Diesel",
-      "summary": "Im ersten Halbjahr ist der Import von Kraftstoffen um ein Viertel eingebrochen. Der Zuwachs bei der heimischen Produktion übersteigt jedoch die ausbleibenden Importe.",
-      "image": "https://img.zeit.de/wirtschaft/2026-10/benzin-diesel-produktion-raffinerien-importe-statistisches-bundesamt-foto-1/original__640x360",
-      "link": "https://www.zeit.de/wirtschaft/2026-10/benzin-diesel-produktion-raffinerien-importe-statistisches-bundesamt",
-      "published": "Thu, 01 Oct 2026 07:05:40 -0000",
-      "published_display": "01.10.2026 · 07:05 Uhr"
-    },
-    {
-      "title": "Notfälle: Brennendes Dachgeschoss - Bewohner retten sich selbst",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/brennendes-dachgeschoss-bewohner-retten-sich-selbst-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/brennendes-dachgeschoss-bewohner-retten-sich-selbst",
-      "published": "Thu, 01 Oct 2026 06:58:52 -0000",
-      "published_display": "01.10.2026 · 06:58 Uhr"
-    },
-    {
-      "title": "Brände: Mehr als ein Dutzend Pferde vor Feuer gerettet",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/mehr-als-ein-dutzend-pferde-vor-feuer-gerettet-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/mehr-als-ein-dutzend-pferde-vor-feuer-gerettet",
-      "published": "Thu, 01 Oct 2026 06:53:59 -0000",
-      "published_display": "01.10.2026 · 06:53 Uhr"
-    },
-    {
-      "title": "Benzin und Diesel: Mehr heimischer Kraftstoff: Raffinerien steigern Produktion",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/mehr-heimischer-kraftstoff-raffinerien-steigern-produktion-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/mehr-heimischer-kraftstoff-raffinerien-steigern-produktion",
-      "published": "Thu, 01 Oct 2026 06:45:55 -0000",
-      "published_display": "01.10.2026 · 06:45 Uhr"
-    },
-    {
-      "title": "Kampfmittel: Weltkriegsbomben in Braunsbedra werden entschärft",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/weltkriegsbomben-in-braunsbedra-werden-entschaerft-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/weltkriegsbomben-in-braunsbedra-werden-entschaerft",
-      "published": "Thu, 01 Oct 2026 06:45:12 -0000",
-      "published_display": "01.10.2026 · 06:45 Uhr"
-    },
-    {
-      "title": "Brände: Wohnung in Halle (Saale) ausgebrannt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/wohnung-in-halle-saale-ausgebrannt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/wohnung-in-halle-saale-ausgebrannt",
-      "published": "Thu, 01 Oct 2026 06:41:13 -0000",
-      "published_display": "01.10.2026 · 06:41 Uhr"
-    },
-    {
-      "title": "Gaza: Leben in Gaza ist für den Großteil der Menschen nicht bezahlbar",
-      "summary": "Die Lebensmittelpreise sind in Gaza laut Welthungerhilfe extrem gestiegen. Viele Menschen seien deshalb komplett abhängig von Nahrungsmittelhilfe von außen. Das Liveblog",
-      "image": "https://img.zeit.de/politik/ausland/2026-10/krieg-gaza-israel-hamas-liveblog-teuerung-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2025-10/krieg-gaza-israel-hamas-liveblog",
-      "published": "Thu, 01 Oct 2026 06:40:54 -0000",
-      "published_display": "01.10.2026 · 06:40 Uhr"
-    },
-    {
-      "title": "Berlin: Gespräche zur Regierungsbildung in Berlin beginnen",
-      "summary": "Linke, Grüne und SPD starten Gespräche über eine Regierungsbildung in Berlin. Sie wollen sich bei Themen wie Antisemitismus, Rassismus und Kriminalität verständigen.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-10/koalitionsgespraeche-berlin-linke-gruene-spd-antisemitismus-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-10/koalitionsgespraeche-berlin-linke-gruene-spd-antisemitismus",
-      "published": "Thu, 01 Oct 2026 06:37:27 -0000",
-      "published_display": "01.10.2026 · 06:37 Uhr"
-    },
-    {
-      "title": "Leute: Rapper Macklemore: «Free Palestine Tour» ist ausverkauft",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/rapper-macklemore-free-palestine-tour-ist-ausverkauft-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/rapper-macklemore-free-palestine-tour-ist-ausverkauft",
-      "published": "Thu, 01 Oct 2026 06:36:23 -0000",
-      "published_display": "01.10.2026 · 06:36 Uhr"
     }
   ]
 }
