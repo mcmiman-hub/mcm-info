@@ -1,7 +1,71 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-01T03:51:27.866185+00:00",
+  "updated": "2026-10-01T04:01:24.143399+00:00",
   "items": [
+    {
+      "title": "Mobilität: Warum Tanken günstiger und Bahnfahren teurer wird",
+      "summary": "Autofahren wird günstiger, das Deutschlandticket wohl teurer. Was bedeutet das für die Mobilität? Und: Droht Äthiopien ein neuer Krieg?",
+      "image": "https://img.zeit.de/politik/2026-09/mobilitaet-tankrabatt-energiepreis-deutschlandticket-fernverkehr-nachrichtenpodcast-2/original__640x360",
+      "link": "https://www.zeit.de/politik/2026-09/mobilitaet-tankrabatt-energiepreis-deutschlandticket-fernverkehr-nachrichtenpodcast",
+      "published": "Thu, 01 Oct 2026 04:00:10 -0000",
+      "published_display": "01.10.2026 · 04:00 Uhr"
+    },
+    {
+      "title": "Elbvertiefung: Der tägliche Newsletter aus Hamburg: Ein Abend in der JazzHall: Nicht nur Musik, eine demokratische Utopie!",
+      "summary": "Die Elbvertiefung am Donnerstag – mit der Abhängigkeit des Hafens von China, zwei gravierenden Wasserrohrbrüchen und einer CDU, die sich die Atomkraft zurückwünscht",
+      "image": "https://img.zeit.de/2026-09/foto-01-10-2026/original__640x360",
+      "link": "https://www.zeit.de/hamburg/2026-09/elbvertiefung-01-09-2026",
+      "published": "Thu, 01 Oct 2026 04:00:07 -0000",
+      "published_display": "01.10.2026 · 04:00 Uhr"
+    },
+    {
+      "title": "Verkehr: A9 Richtung München nach tödlichem Unfall gesperrt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/a9-richtung-muenchen-nach-toedlichem-unfall-gesperrt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/a9-richtung-muenchen-nach-toedlichem-unfall-gesperrt",
+      "published": "Thu, 01 Oct 2026 03:59:36 -0000",
+      "published_display": "01.10.2026 · 03:59 Uhr"
+    },
+    {
+      "title": "AfD-Verbotsverfahren: »Dieses Land hat erfahren, wie eine Demokratie sich selbst abschafft«",
+      "summary": "In einer öffentlichen Anhörung im Thüringer Landtag setzt sich der Entertainer Hape Kerkeling für ein AfD-Verbot ein. Gewicht hat das nur, wenn daraus etwas folgt.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/afd-verbotsverfahren-thueringer-landtag-hape-kerkeling-hans-georg-maassen-foto/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/afd-verbotsverfahren-thueringer-landtag-hape-kerkeling-hans-georg-maassen",
+      "published": "Thu, 01 Oct 2026 03:58:12 -0000",
+      "published_display": "01.10.2026 · 03:58 Uhr"
+    },
+    {
+      "title": "Franziskus-Jahr: Italien feiert Franz von Assisi - samt neuem Feiertag",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/italien-feiert-franz-von-assisi-samt-neuem-feiertag-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/italien-feiert-franz-von-assisi-samt-neuem-feiertag",
+      "published": "Thu, 01 Oct 2026 03:56:05 -0000",
+      "published_display": "01.10.2026 · 03:56 Uhr"
+    },
+    {
+      "title": "Fußball-Nationalmannschaft: Gündoğan über Klopp: «Hat mir mal einen Einlauf verpasst»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/guendo-an-ueber-klopp-hat-mir-mal-einen-einlauf-verpasst-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/guendo-an-ueber-klopp-hat-mir-mal-einen-einlauf-verpasst",
+      "published": "Thu, 01 Oct 2026 03:55:06 -0000",
+      "published_display": "01.10.2026 · 03:55 Uhr"
+    },
+    {
+      "title": "Ukraine-Krieg: Nachts auf dem Hügel: Warum ist Kiew so schwer zu schützen?",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/nachts-auf-dem-huegel-warum-ist-kiew-so-schwer-zu-schuetzen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/nachts-auf-dem-huegel-warum-ist-kiew-so-schwer-zu-schuetzen",
+      "published": "Thu, 01 Oct 2026 03:55:05 -0000",
+      "published_display": "01.10.2026 · 03:55 Uhr"
+    },
+    {
+      "title": "Wetterprognose: Gewitter in Rheinland-Pfalz und dem Saarland erwartet",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/gewitter-in-rheinland-pfalz-und-dem-saarland-erwartet-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/gewitter-in-rheinland-pfalz-und-dem-saarland-erwartet",
+      "published": "Thu, 01 Oct 2026 03:52:56 -0000",
+      "published_display": "01.10.2026 · 03:52 Uhr"
+    },
     {
       "title": "Wetterprognose: Regen und Gewitter in NRW – danach freundliches Wochenende",
       "summary": "",
@@ -11,8 +75,8 @@
       "published_display": "01.10.2026 · 03:49 Uhr"
     },
     {
-      "title": "Kritik an Pflegereform: CDU-Wirtschaftrat weist Anhebung der Beitragsbemessungsgrenze zurück",
-      "summary": "Nach der SPD-Fraktion kritisiert auch der CDU-Wirtschaftrat die vom Kabinett beschlossene Pflegereform. Dem Sozialverband gehen die Vorschläge hingegen nicht weit genug.",
+      "title": "Kritik an Pflegereform: CDU-Wirtschaftsrat weist Anhebung der Beitragsbemessungsgrenze zurück",
+      "summary": "Nach der SPD-Fraktion kritisiert auch der CDU-Wirtschafstrat die vom Kabinett beschlossene Pflegereform. Dem Sozialverband gehen die Vorschläge hingegen nicht weit genug.",
       "image": "https://img.zeit.de/politik/2026-09/pflege-reform-kritik/original__640x360",
       "link": "https://www.zeit.de/politik/deutschland/2026-09/pflegereform-kritik-kinderlose-dak-andreas-storm",
       "published": "Thu, 01 Oct 2026 03:45:26 -0000",
@@ -57,70 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/01/nach-gewalttat-mit-zwei-toten-tatverdaechtiger-sagt-nichts",
       "published": "Thu, 01 Oct 2026 03:30:05 -0000",
       "published_display": "01.10.2026 · 03:30 Uhr"
-    },
-    {
-      "title": "Wetterbericht: Der Herbst rauscht herein: Wo Unwetter mit Starkregen drohen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/der-herbst-rauscht-herein-wo-unwetter-mit-starkregen-drohen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/der-herbst-rauscht-herein-wo-unwetter-mit-starkregen-drohen",
-      "published": "Thu, 01 Oct 2026 03:30:04 -0000",
-      "published_display": "01.10.2026 · 03:30 Uhr"
-    },
-    {
-      "title": "Hendrik Wüst: Dass es das noch gibt: eine positive Erzählung über Migration",
-      "summary": "Hendrik Wüst stellt den Respekt für Deutschtürken ins Zentrum seiner Reise nach Ankara und Istanbul. Das hat mit Überzeugung zu tun – und mit Taktik.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-09/hendrik-wuest-tuerkei-reise-deutschtuerken-cdu-teaser-bild/original__640x360",
-      "link": "https://www.zeit.de/2026-09/hendrik-wuest-tuerkei-reise-deutschtuerken-cdu",
-      "published": "Thu, 01 Oct 2026 03:29:36 -0000",
-      "published_display": "01.10.2026 · 03:29 Uhr"
-    },
-    {
-      "title": "Fotografie: Bilder des Tages",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/bilder-des-tages-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/bilder-des-tages",
-      "published": "Thu, 01 Oct 2026 03:17:41 -0000",
-      "published_display": "01.10.2026 · 03:17 Uhr"
-    },
-    {
-      "title": "Volkswagen: VW-Softwaretochter Cariad steht offenbar vor weiterem Stellenabbau",
-      "summary": "Volkswagen will bei seiner Softwaresparte wohl rund 1.000 Stellen kürzen. Berichten zufolge wurden die Beschäftigten auf einer Betriebsversammlung bereits informiert.",
-      "image": "https://img.zeit.de/wirtschaft/unternehmen/2026-10/vw-cariad-softwaretochter-stellenabbau-foto-1/original__640x360",
-      "link": "https://www.zeit.de/wirtschaft/unternehmen/2026-10/vw-cariad-softwaretochter-stellenabbau",
-      "published": "Thu, 01 Oct 2026 03:16:23 -0000",
-      "published_display": "01.10.2026 · 03:16 Uhr"
-    },
-    {
-      "title": "Erneuter Prozess in Frankfurt: Urteil im Prozess gegen Narkosearzt erwartet",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/urteil-im-prozess-gegen-narkosearzt-erwartet-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/urteil-im-prozess-gegen-narkosearzt-erwartet",
-      "published": "Thu, 01 Oct 2026 03:09:50 -0000",
-      "published_display": "01.10.2026 · 03:09 Uhr"
-    },
-    {
-      "title": "Migration: Flüchtlingsunterkunft Hasenheide öffnet mit gut 900 Plätzen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/fluechtlingsunterkunft-hasenheide-oeffnet-mit-gut-900-plaetzen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/fluechtlingsunterkunft-hasenheide-oeffnet-mit-gut-900-plaetzen",
-      "published": "Thu, 01 Oct 2026 03:05:05 -0000",
-      "published_display": "01.10.2026 · 03:05 Uhr"
-    },
-    {
-      "title": "Finanzkriminalität: Bilanz zur Rocker-Razzia - Stadt-Mitarbeiter geschmiert?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/bilanz-zur-rocker-razzia-stadt-mitarbeiter-geschmiert-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/bilanz-zur-rocker-razzia-stadt-mitarbeiter-geschmiert",
-      "published": "Thu, 01 Oct 2026 03:00:23 -0000",
-      "published_display": "01.10.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Nach der Berlin-Wahl: Linke, Grüne und SPD in Berlin reden über Antisemitismus",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/linke-gruene-und-spd-in-berlin-reden-ueber-antisemitismus-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/linke-gruene-und-spd-in-berlin-reden-ueber-antisemitismus",
-      "published": "Thu, 01 Oct 2026 03:00:21 -0000",
-      "published_display": "01.10.2026 · 03:00 Uhr"
     }
   ]
 }
