@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-01T00:28:17.197617+00:00",
+  "updated": "2026-10-01T00:52:45.593138+00:00",
   "items": [
+    {
+      "title": "Ennepe-Ruhr-Kreis: Zwei Arbeiter bei Gasaustritt verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/zwei-arbeiter-bei-gasaustritt-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/zwei-arbeiter-bei-gasaustritt-verletzt",
+      "published": "Thu, 01 Oct 2026 00:40:49 -0000",
+      "published_display": "01.10.2026 · 00:40 Uhr"
+    },
     {
       "title": "Todesstrafe in den USA: Oberstes US-Gericht: Tennessee darf Christa Pike hinrichten",
       "summary": "",
@@ -112,14 +120,6 @@
       "image": "https://img.zeit.de/news/2026-10/01/tankrabatt-gestartet-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-10/01/tankrabatt-gestartet",
       "published": "Wed, 30 Sep 2026 22:01:05 -0000",
-      "published_display": "30.09.2026 · 22:01 Uhr"
-    },
-    {
-      "title": "Altersvorsorgedepot: Trotz staatlicher Zulagen: Viele wollen kein Depot eröffnen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/trotz-staatlicher-zulagen-viele-wollen-kein-depot-eroeffnen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/trotz-staatlicher-zulagen-viele-wollen-kein-depot-eroeffnen",
-      "published": "Wed, 30 Sep 2026 22:01:04 -0000",
       "published_display": "30.09.2026 · 22:01 Uhr"
     }
   ]
