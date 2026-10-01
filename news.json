@@ -1,7 +1,47 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-01T17:49:16.408610+00:00",
+  "updated": "2026-10-01T18:00:26.938217+00:00",
   "items": [
+    {
+      "title": "Lissabon: »Hunderte tanzen gemeinsam in den Sonnenuntergang«",
+      "summary": "Feierabendwein am Praça das Flores, Techno-Partys am Atlantik und Wohnen in der 8er-WG: Eine Studentin erzählt von ihrem Leben in Lissabon.",
+      "image": "https://img.zeit.de/campus/2026/04/ab-nach-lissabon-bild-1/original__640x360",
+      "link": "https://www.zeit.de/campus/2026/04/lissabon-portugal-praktikum-studium-erasmus",
+      "published": "Thu, 01 Oct 2026 17:59:45 -0000",
+      "published_display": "01.10.2026 · 17:59 Uhr"
+    },
+    {
+      "title": "Fußball-Nationalmannschaft: Gnabry führt DFB-Elf mit Neulingen Scherhant und Urbig an",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/keidel-nicht-im-spieltagskader-laeuft-s-wie-bei-cont-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/keidel-nicht-im-spieltagskader-laeuft-s-wie-bei-cont",
+      "published": "Thu, 01 Oct 2026 17:55:29 -0000",
+      "published_display": "01.10.2026 · 17:55 Uhr"
+    },
+    {
+      "title": "Wiesn: Israel-Debatte und Ohrfeige in Stadtratsboxe: OB handelt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/wiesn-zwist-und-ohrfeige-in-stadtratsboxe-ob-entzieht-tisch-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/wiesn-zwist-und-ohrfeige-in-stadtratsboxe-ob-entzieht-tisch",
+      "published": "Thu, 01 Oct 2026 17:51:57 -0000",
+      "published_display": "01.10.2026 · 17:51 Uhr"
+    },
+    {
+      "title": "Brand: Lagerhalle im Saalekreis steht in Flammen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/lagerhalle-im-saalekreis-steht-in-flammen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/lagerhalle-im-saalekreis-steht-in-flammen",
+      "published": "Thu, 01 Oct 2026 17:51:32 -0000",
+      "published_display": "01.10.2026 · 17:51 Uhr"
+    },
+    {
+      "title": "Unruhe in der Abschiebehaft: Polizeieinsatz in Pforzheimer Abschiebehafteinrichtung",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/polizeieinsatz-in-pforzheimer-abschiebehafteinrichtung-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/polizeieinsatz-in-pforzheimer-abschiebehafteinrichtung",
+      "published": "Thu, 01 Oct 2026 17:48:32 -0000",
+      "published_display": "01.10.2026 · 17:48 Uhr"
+    },
     {
       "title": "Schülerproteste in Frankreich: Zut alors, die Schule brennt",
       "summary": "An französischen Gymnasien randalieren Schüler gegen das Bildungssystem, die Polizei kloppt zurück. Woran entzündet sich die Wut? Es geht auch um ein Kuchenrezept.",
@@ -81,46 +121,6 @@
       "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-10/oktoberfest-linke-jugend-israelfeindliche-parolen-fdp",
       "published": "Thu, 01 Oct 2026 17:22:44 -0000",
       "published_display": "01.10.2026 · 17:22 Uhr"
-    },
-    {
-      "title": "Fußball: Undav knipst: Fürth verliert Test gegen Stuttgart deutlich",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/undav-knipst-fuerth-verliert-test-gegen-stuttgart-deutlich-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/undav-knipst-fuerth-verliert-test-gegen-stuttgart-deutlich",
-      "published": "Thu, 01 Oct 2026 17:22:33 -0000",
-      "published_display": "01.10.2026 · 17:22 Uhr"
-    },
-    {
-      "title": "Justiz: Verdacht: Häftling hatte Affäre mit Justizangestellten",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/verdacht-haeftling-hatte-affaere-mit-justizangestellten-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/verdacht-haeftling-hatte-affaere-mit-justizangestellten",
-      "published": "Thu, 01 Oct 2026 17:20:39 -0000",
-      "published_display": "01.10.2026 · 17:20 Uhr"
-    },
-    {
-      "title": "Fußball: Gelungener VfB-Test: Undav knipst, Seimen ist zurück",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/gelungener-vfb-test-undav-knipst-seimen-ist-zurueck-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/gelungener-vfb-test-undav-knipst-seimen-ist-zurueck",
-      "published": "Thu, 01 Oct 2026 17:20:37 -0000",
-      "published_display": "01.10.2026 · 17:20 Uhr"
-    },
-    {
-      "title": "Wasserrohrbruch in Hamburg: Und plötzlich: ein Krater im Asphalt",
-      "summary": "Ein Loch in einem Wasserrohr stört gerade den Hamburger Verkehr erheblich – und die Reparatur könnte noch Monate dauern. Überraschend ist das nicht.",
-      "image": "https://img.zeit.de/hamburg/2026-10/wasserrohrbruch-hamburg-infrastruktur-verkehr-reparatur-bild/original__640x360",
-      "link": "https://www.zeit.de/hamburg/2026-10/wasserrohrbruch-hamburg-infrastruktur-verkehr-reparatur",
-      "published": "Thu, 01 Oct 2026 17:18:05 -0000",
-      "published_display": "01.10.2026 · 17:18 Uhr"
-    },
-    {
-      "title": "Abzug der Bundeswehr: Letzte Bundeswehrsoldaten aus Nordirak zurückgekehrt",
-      "summary": "Nach mehr als einem Jahrzehnt im Irak ist das letzte Bundeswehrkontingent wieder in Deutschland. Zugleich soll es auch künftig eine militärische Kooperation geben.",
-      "image": "https://img.zeit.de/politik/ausland/2026-10/bundeswehr-abzug-irak-kurdistan-peschmerga-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/bundeswehr-abzug-irak-kurdistan-peschmerga",
-      "published": "Thu, 01 Oct 2026 17:17:13 -0000",
-      "published_display": "01.10.2026 · 17:17 Uhr"
     }
   ]
 }
