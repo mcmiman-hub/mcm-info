@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-01T19:19:34.881388+00:00",
+  "updated": "2026-10-01T19:34:24.129974+00:00",
   "items": [
+    {
+      "title": "Liebesglück im Sport: Vom Velodrom ins Eheglück: Bahnrad-Paar hat geheiratet",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/vom-velodrom-ins-eheglueck-bahnrad-paar-hat-geheiratet-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/vom-velodrom-ins-eheglueck-bahnrad-paar-hat-geheiratet",
+      "published": "Thu, 01 Oct 2026 19:29:35 -0000",
+      "published_display": "01.10.2026 · 19:29 Uhr"
+    },
+    {
+      "title": "Mutmaßliche Tötung: Küchenmesser-Attacke - Opfer stirbt im Krankenhaus",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/kuechenmesser-attacke-opfer-stirbt-im-krankenhaus-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/kuechenmesser-attacke-opfer-stirbt-im-krankenhaus",
+      "published": "Thu, 01 Oct 2026 19:28:27 -0000",
+      "published_display": "01.10.2026 · 19:28 Uhr"
+    },
+    {
+      "title": "Flydubai-Notlandung: Saudi-Arabien überstellt Flydubai-Piloten in Emirate",
+      "summary": "Saudi-Arabien liefert den festgenommenen Copiloten an die Vereinigten Arabischen Emirate aus. Auf einem Flug nach Tel Aviv hatte er einen Kollegen im Cockpit angegriffen.",
+      "image": "https://img.zeit.de/administratives/sharing/fallback-image-die-zeit/wide__1300x731",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/flydubai-zwischenfall-copilot-messerangriff-boeing-tel-aviv",
+      "published": "Thu, 01 Oct 2026 19:25:41 -0000",
+      "published_display": "01.10.2026 · 19:25 Uhr"
+    },
     {
       "title": "Einsatz: Spezialeinsatzkommando in Wasserburg im Einsatz",
       "summary": "",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/politik/deutschland/2026-10/pflegeversicherung-bundesdarlehen-defizit-pflegereform",
       "published": "Thu, 01 Oct 2026 18:38:04 -0000",
       "published_display": "01.10.2026 · 18:38 Uhr"
-    },
-    {
-      "title": "Liveticker: Nations League: Live: Deutschland gegen Serbien",
-      "summary": "Drittes Spiel unter Bundestrainer Jürgen Klopp, erster Sieg? In München trifft die deutsche Nationalmannschaft auf Serbien. Die Nations League im Liveticker",
-      "image": "https://img.zeit.de/sport/2026-09/bild-nations-league-deutschland-serbien-wirtz/original__640x360",
-      "link": "https://www.zeit.de/sport/2026-09/nations-league-uefa-fussball-2026-liveticker",
-      "published": "Thu, 01 Oct 2026 18:37:39 -0000",
-      "published_display": "01.10.2026 · 18:37 Uhr"
-    },
-    {
-      "title": "Westfälischer Friedenspreis : »Wanken wir in Deutschland, dann wankt Europa«",
-      "summary": "Deutlicher denn je benennt Friedrich Merz Russland als Gegner und imperialistischen Aggressor. Ein Signal an Putin – und die Menschen in Deutschland.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-10/westfaelischer-friedenspreis-nato-friedrich-merz-rede-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-10/westfaelischer-friedenspreis-nato-friedrich-merz-rede",
-      "published": "Thu, 01 Oct 2026 18:37:09 -0000",
-      "published_display": "01.10.2026 · 18:37 Uhr"
-    },
-    {
-      "title": "Staatsgefährdende Straftat: Drei Männer nach Nachrichtendienst-Hinweis festgenommen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/drei-maenner-nach-nachrichtendienst-hinweis-festgenommen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/drei-maenner-nach-nachrichtendienst-hinweis-festgenommen",
-      "published": "Thu, 01 Oct 2026 18:29:57 -0000",
-      "published_display": "01.10.2026 · 18:29 Uhr"
     }
   ]
 }
