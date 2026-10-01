@@ -1,14 +1,94 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-01T06:00:07.430307+00:00",
+  "updated": "2026-10-01T06:26:09.374463+00:00",
   "items": [
+    {
+      "title": "Dax-Konzern: Fresenius schluckt Biopharma-Tochter mAbxience komplett",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/fresenius-schluckt-biopharma-tochter-mabxience-komplett-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/fresenius-schluckt-biopharma-tochter-mabxience-komplett",
+      "published": "Thu, 01 Oct 2026 06:22:10 -0000",
+      "published_display": "01.10.2026 · 06:22 Uhr"
+    },
+    {
+      "title": "Geschäftsklima: Ifo: Elektroindustrie wird zur «Konjunkturlokomotive»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/ifo-elektroindustrie-wird-zur-konjunkturlokomotive-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/ifo-elektroindustrie-wird-zur-konjunkturlokomotive",
+      "published": "Thu, 01 Oct 2026 06:21:37 -0000",
+      "published_display": "01.10.2026 · 06:21 Uhr"
+    },
+    {
+      "title": "Verkehr: Bamberg will historischen Bahnhof modernisieren lassen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/bamberg-will-historischen-bahnhof-modernisieren-lassen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/bamberg-will-historischen-bahnhof-modernisieren-lassen",
+      "published": "Thu, 01 Oct 2026 06:21:32 -0000",
+      "published_display": "01.10.2026 · 06:21 Uhr"
+    },
+    {
+      "title": "Nach der Heim-WM: Was bleibt vom Hype? Frauen-Basketball sucht Anschluss",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/was-bleibt-vom-hype-frauen-basketball-sucht-anschluss-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/was-bleibt-vom-hype-frauen-basketball-sucht-anschluss",
+      "published": "Thu, 01 Oct 2026 06:20:05 -0000",
+      "published_display": "01.10.2026 · 06:20 Uhr"
+    },
+    {
+      "title": "Ermittlungen gegen OB: Preißler meldet sich erstmals nach Randalevorfall zu Wort",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/preissler-meldet-sich-erstmals-nach-randalevorfall-zu-wort-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/preissler-meldet-sich-erstmals-nach-randalevorfall-zu-wort",
+      "published": "Thu, 01 Oct 2026 06:16:32 -0000",
+      "published_display": "01.10.2026 · 06:16 Uhr"
+    },
+    {
+      "title": "Unfall: 63-Jähriger von Straßenbahn erfasst und schwer verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/63-jaehriger-von-strassenbahn-erfasst-und-schwer-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/63-jaehriger-von-strassenbahn-erfasst-und-schwer-verletzt",
+      "published": "Thu, 01 Oct 2026 06:14:57 -0000",
+      "published_display": "01.10.2026 · 06:14 Uhr"
+    },
+    {
+      "title": "Fußball: Rakete trifft Spieler – Pokalspiel in Halle abgebrochen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/rakete-trifft-spieler-pokalspiel-in-halle-abgebrochen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/rakete-trifft-spieler-pokalspiel-in-halle-abgebrochen",
+      "published": "Thu, 01 Oct 2026 06:13:12 -0000",
+      "published_display": "01.10.2026 · 06:13 Uhr"
+    },
     {
       "title": "USA: Zum Tode verurteilte Frau überlebt Hinrichtung in Tennessee",
       "summary": "Eigentlich hätte Christa Pike wegen eines Mordes, der 30 Jahre zurückliegt, hingerichtet werden sollen. Doch es gab offenbar Probleme mit der Giftspritze.",
       "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-10/tennessee-hinrichtung-todesstrafe-frau-giftspritze-foto-1/original__640x360",
       "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-10/tennessee-hinrichtung-todesstrafe-frau-giftspritze",
-      "published": "Thu, 01 Oct 2026 05:51:54 -0000",
-      "published_display": "01.10.2026 · 05:51 Uhr"
+      "published": "Thu, 01 Oct 2026 06:12:36 -0000",
+      "published_display": "01.10.2026 · 06:12 Uhr"
+    },
+    {
+      "title": "Bündnis Soziale Gerechtigkeit und Wirtschaftliche Vernunft: BSW legt Namen von Parteigründerin Wagenknecht ab",
+      "summary": "BSW-Gründerin Sahra Wagenknecht ist ab heute nicht mehr namensgebend für ihre Partei. Die Umbenennung war für die Zeit nach den jüngsten Landtagswahlen angesetzt.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-10/bsw-partei-namensaenderung-buendnis-sahra-wagenknecht-soziale-gerechtigkeit-wirtschaftliche-vernunft-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-10/bsw-partei-namensaenderung-buendnis-sahra-wagenknecht-soziale-gerechtigkeit-wirtschaftliche-vernunft",
+      "published": "Thu, 01 Oct 2026 06:10:15 -0000",
+      "published_display": "01.10.2026 · 06:10 Uhr"
+    },
+    {
+      "title": "Nations League: Nach dem Ronaldo-Eklat: Das Ende in der Nationalmannschaft?",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/nach-dem-ronaldo-eklat-das-ende-in-der-nationalmannschaft-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/nach-dem-ronaldo-eklat-das-ende-in-der-nationalmannschaft",
+      "published": "Thu, 01 Oct 2026 06:04:49 -0000",
+      "published_display": "01.10.2026 · 06:04 Uhr"
+    },
+    {
+      "title": "Polizisten verletzt: Junger Mann ohne Führerschein kollidiert mit Streifenwagen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/junger-mann-ohne-fuehrerschein-kollidiert-mit-streifenwagen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/junger-mann-ohne-fuehrerschein-kollidiert-mit-streifenwagen",
+      "published": "Thu, 01 Oct 2026 06:03:03 -0000",
+      "published_display": "01.10.2026 · 06:03 Uhr"
     },
     {
       "title": "Fernsehen: So landete Axel Schulz bei «Promi Big Brother»",
@@ -41,86 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/01/jim-carrey-hat-erneut-geheiratet",
       "published": "Thu, 01 Oct 2026 05:41:37 -0000",
       "published_display": "01.10.2026 · 05:41 Uhr"
-    },
-    {
-      "title": "Feuerwehreinsatz: Feuer im Mannheimer Hafen gelöscht – Entwarnung für Anwohner",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/feuer-im-mannheimer-hafen-geloescht-entwarnung-fuer-anwohner-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/feuer-im-mannheimer-hafen-geloescht-entwarnung-fuer-anwohner",
-      "published": "Thu, 01 Oct 2026 05:37:54 -0000",
-      "published_display": "01.10.2026 · 05:37 Uhr"
-    },
-    {
-      "title": "Energiepreise: Nochmal Tankrabatt - Was Sie wissen müssen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/wirtschaftsinstitute-halten-tankrabatt-fuer-falsch-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/wirtschaftsinstitute-halten-tankrabatt-fuer-falsch",
-      "published": "Thu, 01 Oct 2026 05:35:43 -0000",
-      "published_display": "01.10.2026 · 05:35 Uhr"
-    },
-    {
-      "title": "Unfälle: Auto brennt nach Auffahrunfall auf der A1 aus",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/auto-brennt-nach-auffahrunfall-auf-der-a1-aus-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/auto-brennt-nach-auffahrunfall-auf-der-a1-aus",
-      "published": "Thu, 01 Oct 2026 05:30:18 -0000",
-      "published_display": "01.10.2026 · 05:30 Uhr"
-    },
-    {
-      "title": "Brände: Mehr als ein Dutzend Pferde vor Feuer gerettet",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/mehr-als-ein-dutzend-pferde-vor-feuer-gerettet-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/mehr-als-ein-dutzend-pferde-vor-feuer-gerettet",
-      "published": "Thu, 01 Oct 2026 05:22:26 -0000",
-      "published_display": "01.10.2026 · 05:22 Uhr"
-    },
-    {
-      "title": "Gerhard Zeiler: Da kommt keiner mehr heil heraus",
-      "summary": "Der Wiener Medienmanager Gerhard Zeiler will Andreas Babler als SPÖ-Chef entthronen. Aber kann er das auch?",
-      "image": "https://img.zeit.de/2026/42/da-kommt-keiner-mehr-heil-heraus-bild-3/original__640x360",
-      "link": "https://www.zeit.de/2026/42/gerhard-zeiler-spoe-andreas-babler",
-      "published": "Thu, 01 Oct 2026 05:22:25 -0000",
-      "published_display": "01.10.2026 · 05:22 Uhr"
-    },
-    {
-      "title": "Ella Langley: Texas gewinnt gegen Weihnachten",
-      "summary": "Seit 24 (!) Wochen steht ein Countrysong an der Spitze der Charts. Und hat den historischen Rekord von Mariah Carey gebrochen. Was ist da los?",
-      "image": "https://img.zeit.de/2026/42/das-ist-der-hit-bild-1/original__640x360",
-      "link": "https://www.zeit.de/2026/42/ella-langley-choosin-texas-country-billboard-hot-100-mariah-carey",
-      "published": "Thu, 01 Oct 2026 05:22:01 -0000",
-      "published_display": "01.10.2026 · 05:22 Uhr"
-    },
-    {
-      "title": "Chipindustrie: Infineon eröffnet Fabrik in Thailand",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/infineon-eroeffnet-fabrik-in-thailand-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/infineon-eroeffnet-fabrik-in-thailand",
-      "published": "Thu, 01 Oct 2026 05:21:47 -0000",
-      "published_display": "01.10.2026 · 05:21 Uhr"
-    },
-    {
-      "title": "Taliban: Pakistan fliegt neue Luftangriffe auf Afghanistan",
-      "summary": "Pakistan spricht von Luftangriffen auf zwei afghanische Terrorlager. Nach Angaben der Taliban wurden neun Zivilisten getötet.",
-      "image": "https://img.zeit.de/politik/ausland/2026-10/pakistan-afghanistan-luftangriff-bombardierung-taliban-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/pakistan-afghanistan-luftangriff-bombardierung-taliban",
-      "published": "Thu, 01 Oct 2026 05:21:28 -0000",
-      "published_display": "01.10.2026 · 05:21 Uhr"
-    },
-    {
-      "title": "Ofenhuhn mit Trauben: Goldenes Herbsthuhn",
-      "summary": "So einfach wie Ofengemüse: Saftiges Huhn gart mit Weintrauben und Schalotten auf einem Blech. Dazu gibt’s besonderen griechischen Käse, der Feta den Rang ablaufen könnte.",
-      "image": "https://img.zeit.de/zeit-magazin/wochenmarkt/2026/11/koch-das-cover-bild-1/original__640x360",
-      "link": "https://www.zeit.de/zeit-magazin/wochenmarkt/2026/11/ofenhuhn-trauben-manouri-kaese-rezept-wochenmarkt",
-      "published": "Thu, 01 Oct 2026 05:20:58 -0000",
-      "published_display": "01.10.2026 · 05:20 Uhr"
-    },
-    {
-      "title": "Zwischenwahlen in den USA: Trump, die Midterms und das Problem der Republikaner",
-      "summary": "Einen Monat vor den Midterms sind die Aussichten für die Republikaner schlecht. Im US-Podcast analysieren wir die Gründe. Und: der Axel Springer Award für Peter Thiel",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/zwischenwahlen-usa-republikaner-ok-america-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/zwischenwahlen-usa-republikaner-ok-america",
-      "published": "Thu, 01 Oct 2026 05:19:59 -0000",
-      "published_display": "01.10.2026 · 05:19 Uhr"
     }
   ]
 }
