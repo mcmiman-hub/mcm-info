@@ -1,7 +1,63 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-01T17:19:26.031752+00:00",
+  "updated": "2026-10-01T17:34:38.713385+00:00",
   "items": [
+    {
+      "title": "Finanzen: Regierung plant 700-Millionen-Finanzspritze für Pflegekassen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/regierung-plant-700-millionen-finanzspritze-fuer-pflegekassen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/regierung-plant-700-millionen-finanzspritze-fuer-pflegekassen",
+      "published": "Thu, 01 Oct 2026 17:33:00 -0000",
+      "published_display": "01.10.2026 · 17:33 Uhr"
+    },
+    {
+      "title": "Schiffbau: Fassmer Werft tauft erstes Patrouillenschiff für Singapur",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/fassmer-werft-tauft-erstes-patrouillenschiff-fuer-singapur-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/fassmer-werft-tauft-erstes-patrouillenschiff-fuer-singapur",
+      "published": "Thu, 01 Oct 2026 17:30:05 -0000",
+      "published_display": "01.10.2026 · 17:30 Uhr"
+    },
+    {
+      "title": "ARD-«Deutschlandtrend»: Merz im Rekordtief – Nur 10 Prozent zufrieden mit Kanzler",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/merz-im-rekordtief-nur-10-prozent-zufrieden-mit-kanzler-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/merz-im-rekordtief-nur-10-prozent-zufrieden-mit-kanzler",
+      "published": "Thu, 01 Oct 2026 17:24:04 -0000",
+      "published_display": "01.10.2026 · 17:24 Uhr"
+    },
+    {
+      "title": "München: Linke Jugend soll sich auf Oktoberfest israelfeindlich geäußert haben",
+      "summary": "Mitglieder der Jugendorganisation der Linken haben laut Berichten auf dem Oktoberfest israelfeindliche Lieder gesungen. Ein FDP-Politiker wurde demnach geohrfeigt.",
+      "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-10/joerg-hoffmann-oktoberfest-fdp-linke-jugend-antisemitismus-foto-1/original__640x360",
+      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-10/oktoberfest-linke-jugend-israelfeindliche-parolen-fdp",
+      "published": "Thu, 01 Oct 2026 17:22:44 -0000",
+      "published_display": "01.10.2026 · 17:22 Uhr"
+    },
+    {
+      "title": "Fußball: Undav knipst: Fürth verliert Test gegen Stuttgart deutlich",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/undav-knipst-fuerth-verliert-test-gegen-stuttgart-deutlich-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/undav-knipst-fuerth-verliert-test-gegen-stuttgart-deutlich",
+      "published": "Thu, 01 Oct 2026 17:22:33 -0000",
+      "published_display": "01.10.2026 · 17:22 Uhr"
+    },
+    {
+      "title": "Justiz: Verdacht: Häftling hatte Affäre mit Justizangestellten",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/verdacht-haeftling-hatte-affaere-mit-justizangestellten-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/verdacht-haeftling-hatte-affaere-mit-justizangestellten",
+      "published": "Thu, 01 Oct 2026 17:20:39 -0000",
+      "published_display": "01.10.2026 · 17:20 Uhr"
+    },
+    {
+      "title": "Fußball: Gelungener VfB-Test: Undav knipst, Seimen ist zurück",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/gelungener-vfb-test-undav-knipst-seimen-ist-zurueck-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/gelungener-vfb-test-undav-knipst-seimen-ist-zurueck",
+      "published": "Thu, 01 Oct 2026 17:20:37 -0000",
+      "published_display": "01.10.2026 · 17:20 Uhr"
+    },
     {
       "title": "Wasserrohrbruch in Hamburg: Und plötzlich: ein Krater im Asphalt",
       "summary": "Ein Loch in einem Wasserrohr stört gerade den Hamburger Verkehr erheblich – und die Reparatur könnte noch Monate dauern. Überraschend ist das nicht.",
@@ -17,14 +73,6 @@
       "link": "https://www.zeit.de/politik/ausland/2026-10/bundeswehr-abzug-irak-kurdistan-peschmerga",
       "published": "Thu, 01 Oct 2026 17:17:13 -0000",
       "published_display": "01.10.2026 · 17:17 Uhr"
-    },
-    {
-      "title": "München: Linke Jugend soll sich auf Oktoberfest israelfeindlich geäußert haben",
-      "summary": "Mitglieder der Jugendorganisation der Linken haben laut Berichten auf dem Oktoberfest israelfeindliche Lieder gesungen. Ein FDP-Politiker wurde demnach geohrfeigt.",
-      "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-10/joerg-hoffmann-oktoberfest-fdp-linke-jugend-antisemitismus-foto-1/original__640x360",
-      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-10/oktoberfest-linke-jugend-israelfeindliche-parolen-fdp",
-      "published": "Thu, 01 Oct 2026 17:01:52 -0000",
-      "published_display": "01.10.2026 · 17:01 Uhr"
     },
     {
       "title": "Fußball-Nationalmannschaft: Klopps scherzhafte und auch ernste Botschaft an Kimmich",
@@ -73,54 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/01/aeltere-fachkraefte-mit-schwierigkeiten-auf-dem-arbeitsmarkt",
       "published": "Thu, 01 Oct 2026 16:53:05 -0000",
       "published_display": "01.10.2026 · 16:53 Uhr"
-    },
-    {
-      "title": "Schuss auf Flüchtigen: SEK stoppt bewaffneten Mann mit Schuss in die Beine",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/sek-stoppt-bewaffneten-mann-mit-schuss-in-die-beine-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/sek-stoppt-bewaffneten-mann-mit-schuss-in-die-beine",
-      "published": "Thu, 01 Oct 2026 16:52:58 -0000",
-      "published_display": "01.10.2026 · 16:52 Uhr"
-    },
-    {
-      "title": "Nach der Wahl in Berlin: Herrmann: Eralp nicht geeignet für Bürgermeisteramt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/herrmann-eralp-nicht-geeignet-fuer-buergermeisteramt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/herrmann-eralp-nicht-geeignet-fuer-buergermeisteramt",
-      "published": "Thu, 01 Oct 2026 16:50:55 -0000",
-      "published_display": "01.10.2026 · 16:50 Uhr"
-    },
-    {
-      "title": "Nach Berichten über Eralp: Linksfraktionschef Pellmann jetzt Mitglied der Roten Hilfe",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/linksfraktionschef-pellmann-jetzt-mitglied-der-roten-hilfe-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/linksfraktionschef-pellmann-jetzt-mitglied-der-roten-hilfe",
-      "published": "Thu, 01 Oct 2026 16:40:23 -0000",
-      "published_display": "01.10.2026 · 16:40 Uhr"
-    },
-    {
-      "title": "Raumfahrt: Vier Astronauten zur ISS gestartet",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/vier-astronauten-zur-iss-gestartet-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/vier-astronauten-zur-iss-gestartet",
-      "published": "Thu, 01 Oct 2026 16:38:20 -0000",
-      "published_display": "01.10.2026 · 16:38 Uhr"
-    },
-    {
-      "title": "Fußball in Spanien: UEFA prüft Real-Beschwerde im Schiedsrichterstreit mit Barça",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/uefa-prueft-real-beschwerde-im-schiedsrichterstreit-mit-bar-a-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/uefa-prueft-real-beschwerde-im-schiedsrichterstreit-mit-bar-a",
-      "published": "Thu, 01 Oct 2026 16:30:14 -0000",
-      "published_display": "01.10.2026 · 16:30 Uhr"
-    },
-    {
-      "title": "Neues Programm: Überfüllte Gefängnisse: Briten entlassen wieder Häftlinge",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/ueberfuellte-gefaengnisse-briten-entlassen-wieder-haeftlinge-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/ueberfuellte-gefaengnisse-briten-entlassen-wieder-haeftlinge",
-      "published": "Thu, 01 Oct 2026 16:29:52 -0000",
-      "published_display": "01.10.2026 · 16:29 Uhr"
     }
   ]
 }
