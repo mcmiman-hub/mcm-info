@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-02T07:36:08.100973+00:00",
+  "updated": "2026-10-02T07:50:19.734309+00:00",
   "items": [
+    {
+      "title": "Herbstferien: Staus und viele Fluggäste zum Ferienstart in Hessen erwartet",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/staus-und-viele-fluggaeste-zum-ferienstart-in-hessen-erwartet-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/staus-und-viele-fluggaeste-zum-ferienstart-in-hessen-erwartet",
+      "published": "Fri, 02 Oct 2026 07:47:49 -0000",
+      "published_display": "02.10.2026 · 07:47 Uhr"
+    },
+    {
+      "title": "Datenleak: Kontaktdaten des BND-Vizepräsidenten im Internet auffindbar",
+      "summary": "Laut einer Recherche sind Handynummer, Mailadressen und Anschrift des BND-Vizepräsidenten Dag Baehr online einsehbar. Sie sind Teil eines Datenleaks aus dem Jahr 2020.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-10/bnd-vizepraesident-dag-baehr-leak-handy-daten-ausland-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-10/bnd-vizepraesident-dag-baehr-leak-handy-daten-ausland",
+      "published": "Fri, 02 Oct 2026 07:46:53 -0000",
+      "published_display": "02.10.2026 · 07:46 Uhr"
+    },
     {
       "title": "Bildung: Drei Prozent mehr Hochschulabschlüsse im Prüfungsjahr 2025",
       "summary": "Gut eine halbe Million Menschen hat im Prüfungsjahr 2025 einen Abschluss an einer deutschen Hochschule erworben. Das waren drei Prozent mehr Absolvierende als im Vorjahr.",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/2026/39/drachen-mythologie-popkultur-ausstellung-darmstadt",
       "published": "Fri, 02 Oct 2026 07:13:54 -0000",
       "published_display": "02.10.2026 · 07:13 Uhr"
-    },
-    {
-      "title": "Nahost: El Al verschiebt Rückholflüge für Flydubai-Passagiere",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/el-al-verschiebt-rueckholfluege-fuer-flydubai-passagiere-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/el-al-verschiebt-rueckholfluege-fuer-flydubai-passagiere",
-      "published": "Fri, 02 Oct 2026 07:12:08 -0000",
-      "published_display": "02.10.2026 · 07:12 Uhr"
-    },
-    {
-      "title": "Sachsen: Neue Kampagne soll Impfquoten bei Tieren steigern",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/neue-kampagne-soll-impfquoten-bei-tieren-steigern-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/neue-kampagne-soll-impfquoten-bei-tieren-steigern",
-      "published": "Fri, 02 Oct 2026 07:11:22 -0000",
-      "published_display": "02.10.2026 · 07:11 Uhr"
     }
   ]
 }
