@@ -1,9 +1,57 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-02T03:49:45.876905+00:00",
+  "updated": "2026-10-02T03:59:47.831828+00:00",
   "items": [
     {
-      "title": "US-Zwischenwahlen : Donald Trump startet Wahlkampfoffensive in Texas",
+      "title": "Deutschlands Sieg gegen Serbien: Erstmals zeigt sich, wie mitreißend Klopps Fußball sein kann",
+      "summary": "Im dritten Spiel unter Jürgen Klopp gelingt der deutschen Elf der erste Sieg. Beim 2:0 gegen Serbien feiert das Publikum. Doch der größte Fan steht an der Seitenlinie.",
+      "image": "https://img.zeit.de/sport/2026-10/deutschland-serbien-laenderspiel-juergen-klopp-florian-wirtz-bild/original__640x360",
+      "link": "https://www.zeit.de/sport/2026-10/deutschland-serbien-laenderspiel-juergen-klopp-florian-wirtz",
+      "published": "Fri, 02 Oct 2026 03:57:42 -0000",
+      "published_display": "02.10.2026 · 03:57 Uhr"
+    },
+    {
+      "title": "Wetter: Warum es in diesem Jahr weniger Tornados gab",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/warum-es-in-diesem-jahr-weniger-tornados-gab-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/warum-es-in-diesem-jahr-weniger-tornados-gab",
+      "published": "Fri, 02 Oct 2026 03:56:05 -0000",
+      "published_display": "02.10.2026 · 03:56 Uhr"
+    },
+    {
+      "title": "Unwetter: Wieso es in diesem Jahr wenig Tornados gab",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/wieso-es-in-diesem-jahr-wenig-tornados-gab-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/wieso-es-in-diesem-jahr-wenig-tornados-gab",
+      "published": "Fri, 02 Oct 2026 03:56:04 -0000",
+      "published_display": "02.10.2026 · 03:56 Uhr"
+    },
+    {
+      "title": "Verkehr: Auto gerät in Gegenverkehr - Zwei Schwerverletzte",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/auto-geraet-in-gegenverkehr-zwei-schwerverletzte-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/auto-geraet-in-gegenverkehr-zwei-schwerverletzte",
+      "published": "Fri, 02 Oct 2026 03:54:16 -0000",
+      "published_display": "02.10.2026 · 03:54 Uhr"
+    },
+    {
+      "title": "Brände: 100 Kälber sterben bei Großbrand – Schaden in Millionenhöhe",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/100-kaelber-sterben-bei-grossbrand-schaden-in-millionenhoehe-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/100-kaelber-sterben-bei-grossbrand-schaden-in-millionenhoehe",
+      "published": "Fri, 02 Oct 2026 03:50:55 -0000",
+      "published_display": "02.10.2026 · 03:50 Uhr"
+    },
+    {
+      "title": "Fußball-Nationalmannschaft: Auch ohne Bier: Fünf Gründe für Klopp, happy zu sein",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/auch-ohne-bier-fuenf-gruende-fuer-klopp-happy-zu-sein-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/auch-ohne-bier-fuenf-gruende-fuer-klopp-happy-zu-sein",
+      "published": "Fri, 02 Oct 2026 03:50:04 -0000",
+      "published_display": "02.10.2026 · 03:50 Uhr"
+    },
+    {
+      "title": "US-Zwischenwahlen : Donald Trump sieht schlechte Beliebtheitswerte als PR-Problem",
       "summary": "Der US-Präsident erlaubt sich zum Auftakt seiner Wahlkampftour Selbstkritik. Seine Arbeit sei gut, aber man verkaufe sie schlecht. Von Texas reist Trump nach Oklahoma.",
       "image": "https://img.zeit.de/politik/ausland/2026-10/donald-trump-wahlkampftour-midterms-usa-ken-paxton-foto-1/original__640x360",
       "link": "https://www.zeit.de/politik/ausland/2026-10/donald-trump-wahlkampftour-midterms-usa-ken-paxton",
@@ -73,54 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/02/medien-usa-schicken-weiteren-flugzeugtraeger-nach-nahost",
       "published": "Fri, 02 Oct 2026 03:27:00 -0000",
       "published_display": "02.10.2026 · 03:27 Uhr"
-    },
-    {
-      "title": "Deutsche Bahn: So wird die Bahn zur Zumutung",
-      "summary": "Die Deutsche Bahn sperrt die ICE‑Strecke Berlin – Hannover für mehr als ein Jahr. Und zeigt damit: Der Konzern hat die Kontrolle über die Korridorsanierungen verloren.",
-      "image": "https://img.zeit.de/mobilitaet/2026-10/bahnstrecke-berlin-hannover-deutsche-bahn-korridorsanierung-bild/original__640x360",
-      "link": "https://www.zeit.de/mobilitaet/2026-10/bahnstrecke-berlin-hannover-deutsche-bahn-korridorsanierung",
-      "published": "Fri, 02 Oct 2026 03:24:57 -0000",
-      "published_display": "02.10.2026 · 03:24 Uhr"
-    },
-    {
-      "title": "Bahn-Generalsanierung: Bahnstrecke Hannover-Berlin seit dem Morgen gesperrt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/bahnstrecke-hannover-berlin-seit-dem-morgen-gesperrt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/bahnstrecke-hannover-berlin-seit-dem-morgen-gesperrt",
-      "published": "Fri, 02 Oct 2026 03:15:06 -0000",
-      "published_display": "02.10.2026 · 03:15 Uhr"
-    },
-    {
-      "title": "Literarische Amerika-Reise: Heiner Lauterbach glaubt an amerikanische Demokratie",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/heiner-lauterbach-glaubt-an-amerikanische-demokratie-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/heiner-lauterbach-glaubt-an-amerikanische-demokratie",
-      "published": "Fri, 02 Oct 2026 03:13:04 -0000",
-      "published_display": "02.10.2026 · 03:13 Uhr"
-    },
-    {
-      "title": "Volksfest in Oldenburg: Von Klassikern und Premieren - Wissenswertes zum Kramermarkt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/von-klassikern-und-premieren-wissenswertes-zum-kramermarkt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/von-klassikern-und-premieren-wissenswertes-zum-kramermarkt",
-      "published": "Fri, 02 Oct 2026 03:00:12 -0000",
-      "published_display": "02.10.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Hamburger Trinkwasser: Verbraucherzentrale: Trinkwasserqualität gut bis sehr gut",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/verbraucherzentrale-trinkwasserqualitaet-gut-bis-sehr-gut-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/verbraucherzentrale-trinkwasserqualitaet-gut-bis-sehr-gut",
-      "published": "Fri, 02 Oct 2026 03:00:07 -0000",
-      "published_display": "02.10.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Wettbewerb: Bayerische Wirtschaft für Zölle gegen China",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/bayerische-wirtschaft-fuer-zoelle-gegen-china-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/bayerische-wirtschaft-fuer-zoelle-gegen-china",
-      "published": "Fri, 02 Oct 2026 03:00:06 -0000",
-      "published_display": "02.10.2026 · 03:00 Uhr"
     }
   ]
 }
