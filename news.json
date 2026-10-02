@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-02T03:35:36.857115+00:00",
+  "updated": "2026-10-02T03:49:45.876905+00:00",
   "items": [
+    {
+      "title": "US-Zwischenwahlen : Donald Trump startet Wahlkampfoffensive in Texas",
+      "summary": "Der US-Präsident erlaubt sich zum Auftakt seiner Wahlkampftour Selbstkritik. Seine Arbeit sei gut, aber man verkaufe sie schlecht. Von Texas reist Trump nach Oklahoma.",
+      "image": "https://img.zeit.de/politik/ausland/2026-10/donald-trump-wahlkampftour-midterms-usa-ken-paxton-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/donald-trump-wahlkampftour-midterms-usa-ken-paxton",
+      "published": "Fri, 02 Oct 2026 03:47:17 -0000",
+      "published_display": "02.10.2026 · 03:47 Uhr"
+    },
     {
       "title": "Fußball-Nationalmannschaft: Die Befreiung: Wirtz belohnt sich für «brettharte» Arbeit",
       "summary": "",
@@ -112,14 +120,6 @@
       "image": "https://img.zeit.de/news/2026-10/02/bayerische-wirtschaft-fuer-zoelle-gegen-china-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-10/02/bayerische-wirtschaft-fuer-zoelle-gegen-china",
       "published": "Fri, 02 Oct 2026 03:00:06 -0000",
-      "published_display": "02.10.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Wie sicher sind die Deiche?: Sturmflutsaison beginnt – Küstenschützer im Bau-Endspurt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/sturmflutsaison-beginnt-kuestenschuetzer-im-bau-endspurt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/sturmflutsaison-beginnt-kuestenschuetzer-im-bau-endspurt",
-      "published": "Fri, 02 Oct 2026 03:00:05 -0000",
       "published_display": "02.10.2026 · 03:00 Uhr"
     }
   ]
