@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-02T21:46:58.160981+00:00",
+  "updated": "2026-10-02T21:56:30.327532+00:00",
   "items": [
+    {
+      "title": "US-Küstenwache: Schiff mit Treibstoff für Kuba von US-Küstenwache gestoppt",
+      "summary": "Die US-Küstenwache hat im September ein Schiff mit einer Treibstofflieferung für Kuba abgefangen. Auf der Insel verschärft sich die Energiekrise.",
+      "image": "https://img.zeit.de/politik/2026-10/coast-guard-patrol-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/us-kuestenwache-schiff-grace-kuba-mexiko-treibstofflieferung",
+      "published": "Fri, 02 Oct 2026 21:53:44 -0000",
+      "published_display": "02.10.2026 · 21:53 Uhr"
+    },
     {
       "title": "Christa Pike: Zum Tode verurteilte Frau nach gescheiterter Hinrichtung bewusstlos",
       "summary": "Die 50-jährige Christa Pike befindet sich nach dem gescheiterten Hinrichtungsversuch in Tennessee weiter in kritischem Zustand. Sie hat zuvor zwei Giftspritzen überlebt.",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/02/361-liter-regen-unwetter-trifft-aegaeis-mit-voller-wucht",
       "published": "Fri, 02 Oct 2026 18:49:25 -0000",
       "published_display": "02.10.2026 · 18:49 Uhr"
-    },
-    {
-      "title": "Testspiel: Pleite und Flutlicht-Ausfall: Dresden verliert in Teplice",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/pleite-und-flutlicht-ausfall-dresden-verliert-in-teplice-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/pleite-und-flutlicht-ausfall-dresden-verliert-in-teplice",
-      "published": "Fri, 02 Oct 2026 18:35:19 -0000",
-      "published_display": "02.10.2026 · 18:35 Uhr"
     }
   ]
 }
