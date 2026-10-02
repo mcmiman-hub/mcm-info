@@ -1,14 +1,110 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-02T09:20:20.110561+00:00",
+  "updated": "2026-10-02T09:36:33.996302+00:00",
   "items": [
     {
       "title": "Fall in Euskirchen: Frauenleiche gefunden - Staatsanwalt prüft Haftbefehl",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-10/02/frauenleiche-gefunden-staatsanwalt-prueft-haftbefehl-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-10/02/frauenleiche-gefunden-staatsanwalt-prueft-haftbefehl",
-      "published": "Fri, 02 Oct 2026 09:16:37 -0000",
-      "published_display": "02.10.2026 · 09:16 Uhr"
+      "published": "Fri, 02 Oct 2026 09:34:13 -0000",
+      "published_display": "02.10.2026 · 09:34 Uhr"
+    },
+    {
+      "title": "Kundgebung in Fürstenwalde: AfD-Politiker Höcke und Protest am Einheits-Tag erwartet",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/afd-politiker-hoecke-und-protest-am-einheits-tag-erwartet-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/afd-politiker-hoecke-und-protest-am-einheits-tag-erwartet",
+      "published": "Fri, 02 Oct 2026 09:33:20 -0000",
+      "published_display": "02.10.2026 · 09:33 Uhr"
+    },
+    {
+      "title": "Auftreten der Polizei: Tattoos und Turban: Welche Regeln für Polizisten gelten",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/tattoos-und-turban-welche-regeln-fuer-polizisten-gelten-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/tattoos-und-turban-welche-regeln-fuer-polizisten-gelten",
+      "published": "Fri, 02 Oct 2026 09:31:28 -0000",
+      "published_display": "02.10.2026 · 09:31 Uhr"
+    },
+    {
+      "title": "Regionaler Zugverkehr: Sachsen vor Einschnitten im regionalen Bahnverkehr",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/sachsen-vor-einschnitten-im-regionalen-bahnverkehr-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/sachsen-vor-einschnitten-im-regionalen-bahnverkehr",
+      "published": "Fri, 02 Oct 2026 09:29:12 -0000",
+      "published_display": "02.10.2026 · 09:29 Uhr"
+    },
+    {
+      "title": "«EZB wird Zinsen anheben»: Iran-Krieg treibt Inflation im Euroraum auf Drei-Jahres-Hoch",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/iran-krieg-treibt-inflation-im-euroraum-auf-drei-jahres-hoch-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/iran-krieg-treibt-inflation-im-euroraum-auf-drei-jahres-hoch",
+      "published": "Fri, 02 Oct 2026 09:29:09 -0000",
+      "published_display": "02.10.2026 · 09:29 Uhr"
+    },
+    {
+      "title": "Fußball-Nationalmannschaft: Endlich «Heavy Metal»: Was der erste Sieg für Klopp bedeutet",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/auch-ohne-bier-fuenf-gruende-fuer-klopp-happy-zu-sein-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/auch-ohne-bier-fuenf-gruende-fuer-klopp-happy-zu-sein",
+      "published": "Fri, 02 Oct 2026 09:28:34 -0000",
+      "published_display": "02.10.2026 · 09:28 Uhr"
+    },
+    {
+      "title": "Oktoberfest: Upskirting auf der Wiesn - die Probleme für Ermittler",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/upskirting-auf-der-wiesn-die-probleme-fuer-ermittler-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/upskirting-auf-der-wiesn-die-probleme-fuer-ermittler",
+      "published": "Fri, 02 Oct 2026 09:28:28 -0000",
+      "published_display": "02.10.2026 · 09:28 Uhr"
+    },
+    {
+      "title": "Keine Erlaubnis: Ermittlungen nach illegaler Einfuhr von Feuerwerkskörpern",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/ermittlungen-nach-illegaler-einfuhr-von-feuerwerkskoerpern-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/ermittlungen-nach-illegaler-einfuhr-von-feuerwerkskoerpern",
+      "published": "Fri, 02 Oct 2026 09:25:16 -0000",
+      "published_display": "02.10.2026 · 09:25 Uhr"
+    },
+    {
+      "title": "Landwirtschaft: Kartoffelernte in Bayern fällt schlecht aus",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/kartoffelernte-in-bayern-faellt-schlecht-aus-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/kartoffelernte-in-bayern-faellt-schlecht-aus",
+      "published": "Fri, 02 Oct 2026 09:24:20 -0000",
+      "published_display": "02.10.2026 · 09:24 Uhr"
+    },
+    {
+      "title": "Grundstückpreise: 155.000 Euro für einen Quadratmeter Boden? War schon mal schlimmer.",
+      "summary": "Jahrelang schossen die Grundstückspreise in die Höhe. Jetzt fallen die Bodenrichtwerte, zum Beispiel im teuren München. Sinken damit auch die Kaufpreise und Mieten?",
+      "image": "https://img.zeit.de/geld/2026-10/grundstueckpreise-bodenrichtwerte-immobilienpreise-kaufen-miete-bild/original__640x360",
+      "link": "https://www.zeit.de/geld/2026-09/grundstueckpreise-bodenrichtwerte-immobilienpreise-kaufen-miete",
+      "published": "Fri, 02 Oct 2026 09:23:57 -0000",
+      "published_display": "02.10.2026 · 09:23 Uhr"
+    },
+    {
+      "title": "Zugriff in NRW: Terrorverdacht: Drei Männer weiter in Gewahrsam",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/terrorverdacht-drei-maenner-weiter-in-gewahrsam-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/terrorverdacht-drei-maenner-weiter-in-gewahrsam",
+      "published": "Fri, 02 Oct 2026 09:23:33 -0000",
+      "published_display": "02.10.2026 · 09:23 Uhr"
+    },
+    {
+      "title": "Fußball-Nationalmannschaft: Bischof, Pavlovic, Wirtz: Klopps «Krawall»-Trio macht Spaß",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/die-befreiung-wirtz-belohnt-sich-fuer-brettharte-arbeit-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/die-befreiung-wirtz-belohnt-sich-fuer-brettharte-arbeit",
+      "published": "Fri, 02 Oct 2026 09:21:18 -0000",
+      "published_display": "02.10.2026 · 09:21 Uhr"
+    },
+    {
+      "title": "AfD: Staatsanwaltschaft Gera stellt Verfahren gegen Björn Höcke ein",
+      "summary": "Gegen den Thüringer AfD-Chef Björn Höcke ist wegen Verdachts der Verunglimpfung des Staates ermittelt worden. Die Staatsanwaltschaft Gera hat das Verfahren eingestellt.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-10/staatsanwaltschaft-gera-bjoern-hoecke-afd-verfahren-einstellung-sa-parole-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-10/staatsanwaltschaft-gera-bjoern-hoecke-afd-verfahren-einstellung-sa-parole",
+      "published": "Fri, 02 Oct 2026 09:20:59 -0000",
+      "published_display": "02.10.2026 · 09:20 Uhr"
     },
     {
       "title": "Bratwurst und Sauerkraut: Kasperls Großmutter weiß, was gut ist",
@@ -25,102 +121,6 @@
       "link": "https://www.zeit.de/zeit-magazin/wochenmarkt/2025-11/knollensellerie-linsen-gratin-rezept-wochenmarkt",
       "published": "Fri, 02 Oct 2026 09:15:32 -0000",
       "published_display": "02.10.2026 · 09:15 Uhr"
-    },
-    {
-      "title": "Jahrestag des Hamas-Massakers: Israel-Reise: Wegner gedenkt Hamas-Opfern",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/israel-reise-wegner-gedenkt-hamas-opfern-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/israel-reise-wegner-gedenkt-hamas-opfern",
-      "published": "Fri, 02 Oct 2026 09:14:48 -0000",
-      "published_display": "02.10.2026 · 09:14 Uhr"
-    },
-    {
-      "title": "Tim Blanks: Tim Blanks bleibt zu Hause und trägt sein Pet-Shop-Boys-Shirt",
-      "summary": "Im Wochenendpodcast schwärmt Tim Blanks von seinen Techno-Nächten im London der Neunziger. Und erzählt von einer Begegnung mit Andy Warhol.",
-      "image": "https://img.zeit.de/entdecken/2026-10/tim-blanks-london-techno-andy-warhol-wochenende-tipps-podcast-bild/original__640x360",
-      "link": "https://www.zeit.de/entdecken/2026-10/tim-blanks-london-techno-andy-warhol-wochenende-tipps-podcast",
-      "published": "Fri, 02 Oct 2026 09:12:40 -0000",
-      "published_display": "02.10.2026 · 09:12 Uhr"
-    },
-    {
-      "title": "Kriminalität: Einbruch in Waffengeschäft: Polizei warnt vor Tätern",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/polizei-warnt-vor-fluechtigen-einbrechern-im-raum-mittenwald-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/polizei-warnt-vor-fluechtigen-einbrechern-im-raum-mittenwald",
-      "published": "Fri, 02 Oct 2026 09:10:04 -0000",
-      "published_display": "02.10.2026 · 09:10 Uhr"
-    },
-    {
-      "title": "Cristiano Ronaldo: Er will doch bloß weiterspielen",
-      "summary": "Cristiano Ronaldo ist aus Portugals Nationalmannschaft geflogen – im Privatjet. Häme verbietet sich jedoch: Der geniale Fußballer ist ein Opfer seiner eigenen Longevity.",
-      "image": "https://img.zeit.de/feuilleton/2026-10/pflichtverteidigung-cristiano-ronaldo-bild/original__640x360",
-      "link": "https://www.zeit.de/feuilleton/2026-10/cristiano-ronaldo-cr7-karriere-portugal-fussball",
-      "published": "Fri, 02 Oct 2026 09:09:47 -0000",
-      "published_display": "02.10.2026 · 09:09 Uhr"
-    },
-    {
-      "title": "Eishockey: Reindl neuer Präsident des Eishockey-Weltverbandes",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/reindl-neuer-praesident-des-eishockey-weltverbandes-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/reindl-neuer-praesident-des-eishockey-weltverbandes",
-      "published": "Fri, 02 Oct 2026 09:09:31 -0000",
-      "published_display": "02.10.2026 · 09:09 Uhr"
-    },
-    {
-      "title": "Kundgebung in Fürstenwalde: AfD-Politiker Höcke und Protest am Einheits-Tag erwartet",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/afd-politiker-hoecke-und-protest-am-einheits-tag-erwartet-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/afd-politiker-hoecke-und-protest-am-einheits-tag-erwartet",
-      "published": "Fri, 02 Oct 2026 09:06:18 -0000",
-      "published_display": "02.10.2026 · 09:06 Uhr"
-    },
-    {
-      "title": "Trockenheit: Wegen Hitze - deutlich weniger Äpfel, Kirschen & Co.",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/wegen-hitze-deutlich-weniger-aepfel-kirschen-co-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/wegen-hitze-deutlich-weniger-aepfel-kirschen-co",
-      "published": "Fri, 02 Oct 2026 09:04:56 -0000",
-      "published_display": "02.10.2026 · 09:04 Uhr"
-    },
-    {
-      "title": "Verfassungsgericht: Volksentscheid zum Grundeinkommen wird nicht wiederholt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/volksentscheid-zum-grundeinkommen-wird-nicht-wiederholt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/volksentscheid-zum-grundeinkommen-wird-nicht-wiederholt",
-      "published": "Fri, 02 Oct 2026 09:03:51 -0000",
-      "published_display": "02.10.2026 · 09:03 Uhr"
-    },
-    {
-      "title": "Erstaunliche Parallelen: Von Walmüttern und Elefantenherden: Können Tiere trauern?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/von-walmuettern-und-elefantenherden-koennen-tiere-trauern-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/von-walmuettern-und-elefantenherden-koennen-tiere-trauern",
-      "published": "Fri, 02 Oct 2026 09:01:31 -0000",
-      "published_display": "02.10.2026 · 09:01 Uhr"
-    },
-    {
-      "title": "Kommunal-Gipfel: Brandenburgs Kommunen rechnen mit Zuspitzung der Finanzlage",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/brandenburgs-kommunen-rechnen-mit-zuspitzung-der-finanzlage-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/brandenburgs-kommunen-rechnen-mit-zuspitzung-der-finanzlage",
-      "published": "Fri, 02 Oct 2026 08:58:54 -0000",
-      "published_display": "02.10.2026 · 08:58 Uhr"
-    },
-    {
-      "title": "Angriff bei Flug nach Tel Aviv: Verletzter Flydubai-Pilot schildert Angriff im Cockpit",
-      "summary": "Der Pilot, dessen Flydubai-Maschine zur Notlandung gezwungen wurde, hat von dem Messerangriff des Copiloten berichtet. Indiens Premier Modi lobte den Mut des Piloten.",
-      "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-10/messerangriff-copilot-flydubai-boeing-737-smit-machchhar-foto-1/original__640x360",
-      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-10/messerangriff-copilot-flydubai-boeing-737-smit-machchhar",
-      "published": "Fri, 02 Oct 2026 08:58:19 -0000",
-      "published_display": "02.10.2026 · 08:58 Uhr"
-    },
-    {
-      "title": "Einzelhandel: Galeria stellt abermals Insolvenzantrag",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/galeria-stellt-erneut-insolvenzantrag-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/galeria-stellt-erneut-insolvenzantrag",
-      "published": "Fri, 02 Oct 2026 08:54:48 -0000",
-      "published_display": "02.10.2026 · 08:54 Uhr"
     }
   ]
 }
