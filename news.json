@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-02T00:26:59.007507+00:00",
+  "updated": "2026-10-02T00:51:14.469314+00:00",
   "items": [
+    {
+      "title": "Wahlkampf-Events: Gut einen Monat vor Midterms: Trump startet Wahlkampftour",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/trump-machen-guten-job-aber-schlechte-pr-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/trump-machen-guten-job-aber-schlechte-pr",
+      "published": "Fri, 02 Oct 2026 00:35:34 -0000",
+      "published_display": "02.10.2026 · 00:35 Uhr"
+    },
     {
       "title": "Mutmaßlicher Anschlagsversuch: Was über den Einsatz an einer britischen Militärbasis bekannt ist",
       "summary": "In England wurde offenbar ein Anschlag auf den von den USA genutzten Luftwaffenstützpunkt Fairford vereitelt. Sechs Verdächtige werden verhört. Was bislang bekannt ist",
@@ -12,7 +20,7 @@
     },
     {
       "title": "Mutmaßlicher Anschlagsversuch: Weitere Festnahme nach Vorfall an britischer Militärbasis",
-      "summary": "Fünf Männer sollen am Luftwaffenstützpunkt Fairfield in England einen Terroranschlag vorbereitet haben. Nun hat die Polizei einen weiteren Verdächtigen festgenommen.",
+      "summary": "Fünf Männer sollen am Luftwaffenstützpunkt Fairford in England einen Terroranschlag vorbereitet haben. Nun hat die Polizei einen weiteren Verdächtigen festgenommen.",
       "image": "https://img.zeit.de/politik/ausland/2026-10/raf-stuetzpunkt-fairford-festnahme-terror-iran-grossbritannien-foto-1/original__640x360",
       "link": "https://www.zeit.de/politik/ausland/2026-10/raf-stuetzpunkt-fairford-festnahme-terror-iran-grossbritannien",
       "published": "Fri, 02 Oct 2026 00:24:48 -0000",
@@ -49,14 +57,6 @@
       "link": "https://www.zeit.de/politik/ausland/2026-10/aethiopien-eritrea-diplomatische-beziehungen-abbruch-tplf",
       "published": "Thu, 01 Oct 2026 23:18:20 -0000",
       "published_display": "01.10.2026 · 23:18 Uhr"
-    },
-    {
-      "title": "Wahlkampf-Event: Trump: Machen guten Job, aber schlechte PR",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/trump-machen-guten-job-aber-schlechte-pr-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/trump-machen-guten-job-aber-schlechte-pr",
-      "published": "Thu, 01 Oct 2026 22:52:50 -0000",
-      "published_display": "01.10.2026 · 22:52 Uhr"
     },
     {
       "title": "Fußball-Nationalmannschaft: «Klopp atmet auf»: Pressestimmen zum DFB-Sieg gegen Serbien",
