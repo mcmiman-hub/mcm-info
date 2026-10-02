@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-02T19:01:14.713239+00:00",
+  "updated": "2026-10-02T19:18:46.520598+00:00",
   "items": [
+    {
+      "title": "Motorprobleme: Pilot bei Notlandung von Propellerflugzeug leicht verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/pilot-bei-notlandung-von-propellerflugzeug-leicht-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/pilot-bei-notlandung-von-propellerflugzeug-leicht-verletzt",
+      "published": "Fri, 02 Oct 2026 19:08:47 -0000",
+      "published_display": "02.10.2026 · 19:08 Uhr"
+    },
+    {
+      "title": "Niederlande: Niederländisches Königshaus hat sich lange an Kolonialismus bereichert",
+      "summary": "Laut einer Studie hat das niederländische Königshaus umgerechnet 500 Millionen Euro am Kolonialismus verdient. Der König nannte das Fazit »schmerzvoll und aufwühlend«.",
+      "image": "https://img.zeit.de/politik/ausland/2026-10/niederlaendisches-koenigshaus-kolonialismus-sklaverei-willem-alexander-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/niederlaendisches-koenigshaus-kolonialismus-sklaverei-willem-alexander",
+      "published": "Fri, 02 Oct 2026 19:07:32 -0000",
+      "published_display": "02.10.2026 · 19:07 Uhr"
+    },
+    {
+      "title": "Einzelhandel: Warenhauskette Galeria stellt abermals Insolvenzantrag",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/galeria-stellt-erneut-insolvenzantrag-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/galeria-stellt-erneut-insolvenzantrag",
+      "published": "Fri, 02 Oct 2026 19:06:24 -0000",
+      "published_display": "02.10.2026 · 19:06 Uhr"
+    },
     {
       "title": "Wetter: Unwetter trifft Ägäis mit voller Wucht: Blitz tötet Deutsche",
       "summary": "",
@@ -9,14 +33,6 @@
       "link": "https://www.zeit.de/news/2026-10/02/361-liter-regen-unwetter-trifft-aegaeis-mit-voller-wucht",
       "published": "Fri, 02 Oct 2026 18:49:25 -0000",
       "published_display": "02.10.2026 · 18:49 Uhr"
-    },
-    {
-      "title": "Niederlande: Niederländisches Königshaus hat sich lange an Kolonialismus bereichert",
-      "summary": "Laut einer Studie hat das niederländische Königshaus umgerechnet 500 Millionen Euro am Kolonialismus verdient. Der König nannte das Fazit »schmerzvoll und aufwühlend«.",
-      "image": "https://img.zeit.de/politik/ausland/2026-10/niederlaendisches-koenigshaus-kolonialismus-sklaverei-willem-alexander-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/niederlaendisches-koenigshaus-kolonialismus-sklaverei-willem-alexander",
-      "published": "Fri, 02 Oct 2026 18:39:55 -0000",
-      "published_display": "02.10.2026 · 18:39 Uhr"
     },
     {
       "title": "Testspiel: Pleite und Flutlicht-Ausfall: Dresden verliert in Teplice",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/politik/deutschland/2026-10/schwarz-rote-koalition-bundesregierung-konflikte-spd-union-ampelkoalition",
       "published": "Fri, 02 Oct 2026 18:01:20 -0000",
       "published_display": "02.10.2026 · 18:01 Uhr"
-    },
-    {
-      "title": "Großbrand im Saalekreis: Brennende Lagerhalle - Löscharbeiten beendet",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/brennende-lagerhalle-im-saalekreis-loescharbeiten-dauern-an-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/brennende-lagerhalle-im-saalekreis-loescharbeiten-dauern-an",
-      "published": "Fri, 02 Oct 2026 17:34:11 -0000",
-      "published_display": "02.10.2026 · 17:34 Uhr"
-    },
-    {
-      "title": "Energiekrise: G7 wollen bis zu 100 Millionen Barrel Diesel und Rohöl freigeben",
-      "summary": "Um die hohen Energiepreise zu senken, haben die G7 beschlossen, strategische Reserven freizugeben. Außerdem sollen Produktionsbedingungen flexibler werden.",
-      "image": "https://img.zeit.de/politik/ausland/2026-10/g7-wollen-bis-zu-100-millionen-barrel-diesel-und-rohoel-freigeben-bild/original__640x360",
-      "link": "https://www.zeit.de/wirtschaft/2026-10/g7-wollen-bis-zu-100-millionen-barrel-diesel-und-rohoel-freigeben",
-      "published": "Fri, 02 Oct 2026 17:31:27 -0000",
-      "published_display": "02.10.2026 · 17:31 Uhr"
     }
   ]
 }
