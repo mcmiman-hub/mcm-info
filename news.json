@@ -1,7 +1,103 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-02T15:21:04.671658+00:00",
+  "updated": "2026-10-02T15:37:53.934297+00:00",
   "items": [
+    {
+      "title": "E-Mopeds in Österreich: Nichts wie weg",
+      "summary": "Seit dem 1. Oktober sind E-Mopeds in Österreich verboten. Das freut viele Verkehrsteilnehmer. Aber was macht das mit denen, die damit Pizzen und Bowls ausliefern?",
+      "image": "https://img.zeit.de/2026/42/nichts-wie-weg-bild-1/original__640x360",
+      "link": "https://www.zeit.de/2026/42/e-mopeds-oesterreich-radwege-essenszusteller-verbot",
+      "published": "Fri, 02 Oct 2026 15:36:37 -0000",
+      "published_display": "02.10.2026 · 15:36 Uhr"
+    },
+    {
+      "title": "Bäuerinnen in der Schweiz: Kein Land für Bäuerinnen",
+      "summary": "Viele Bauernhöfe würden ohne Frauen nicht funktionieren: Sie melken, ernten, machen die Buchhaltung. Warum aber werden nur so wenige Betriebe von ihnen geführt?",
+      "image": "https://img.zeit.de/2026/42/kein-land-fuer-baeuerinnen-bild-3/original__640x360",
+      "link": "https://www.zeit.de/2026/42/baeuerinnen-schweiz-landwirtschaft-hoeefe-nachfolge",
+      "published": "Fri, 02 Oct 2026 15:36:08 -0000",
+      "published_display": "02.10.2026 · 15:36 Uhr"
+    },
+    {
+      "title": "Russland: Schröder in Aufsichtsrat bei Supermarktkette in Russland gewählt",
+      "summary": "Gerhard Schröder sitzt nun im Aufsichtsrat des russischen Ablegers der deutschen Supermarktkette Globus. Er soll die strategische Entwicklung der Firma unterstützen. ​",
+      "image": "https://img.zeit.de/politik/ausland/2026-10/gerhard-schroeder-aufsichtsrat-hyperglobus-russland-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/gerhard-schroeder-aufsichtsrat-hyperglobus-russland-gxe",
+      "published": "Fri, 02 Oct 2026 15:32:53 -0000",
+      "published_display": "02.10.2026 · 15:32 Uhr"
+    },
+    {
+      "title": "Kuba in der Krise: »Sollen wir etwa mit offenem Mund auf den Tod warten?«",
+      "summary": "In Kubas bislang schwerster Krise packen junge Menschen ihre Koffer. Warum ein Gitarrist mit dem Abschied ringt – und wie ein DJ für Wandel kämpft.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/kuba-krise-sanktionen-usa-auswanderung-junge-generation-havanna-bild-3/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/kuba-krise-sanktionen-usa-auswanderung-junge-generation-havanna-gxe",
+      "published": "Fri, 02 Oct 2026 15:32:11 -0000",
+      "published_display": "02.10.2026 · 15:32 Uhr"
+    },
+    {
+      "title": "Flugverkehr: Flydubai kündigt Untersuchung nach mutmaßlichem Angriff im Cockpit an",
+      "summary": "Nach dem gewaltsamen Zwischenfall im Cockpit eines Flydubai-Fliegers wird weiter nach dem Motiv gesucht. Israel will den festgenommenen Copiloten befragen.",
+      "image": "https://img.zeit.de/administratives/sharing/fallback-image-die-zeit/wide__1300x731",
+      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-10/flydubai-vorfall-copilot-anwar-gargasch-smith-machchhar",
+      "published": "Fri, 02 Oct 2026 15:31:49 -0000",
+      "published_display": "02.10.2026 · 15:31 Uhr"
+    },
+    {
+      "title": "Hochschulen: Uni-Präsident über Exzellenzstatus: «Das ist atemberaubend»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/uni-praesident-ueber-exzellenzstatus-das-ist-atemberaubend-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/uni-praesident-ueber-exzellenzstatus-das-ist-atemberaubend",
+      "published": "Fri, 02 Oct 2026 15:30:00 -0000",
+      "published_display": "02.10.2026 · 15:30 Uhr"
+    },
+    {
+      "title": "Wohnungspolitik: Spaniens Regierung schlittert wegen Wohnungsnot in die Krise",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/spaniens-regierung-schlittert-wegen-wohnungsnot-in-die-krise-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/spaniens-regierung-schlittert-wegen-wohnungsnot-in-die-krise",
+      "published": "Fri, 02 Oct 2026 15:29:58 -0000",
+      "published_display": "02.10.2026 · 15:29 Uhr"
+    },
+    {
+      "title": "Zuckersteuer: Ampelparallelen bei Schwarz-Rot?",
+      "summary": "Zwischen Kanzleramt und Bundesfinanzministerium sind sich bei der Zuckersteuer uneinig. Der Zeitpunkt ist besonders heikel. Und: Massenproteste an Frankreichs Schulen",
+      "image": "https://img.zeit.de/politik/2026-10/zuckersteuer-konflikt-spd-union-nachrichtenpodcast-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/2026-10/zuckersteuer-konflikt-spd-union-nachrichtenpodcast",
+      "published": "Fri, 02 Oct 2026 15:29:35 -0000",
+      "published_display": "02.10.2026 · 15:29 Uhr"
+    },
+    {
+      "title": "Bahnverkehr unterbrochen: Bagger bleibt in Schranke hängen und reißt sie ab",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/bagger-bleibt-in-schranke-haengen-und-reisst-sie-ab-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/bagger-bleibt-in-schranke-haengen-und-reisst-sie-ab",
+      "published": "Fri, 02 Oct 2026 15:29:07 -0000",
+      "published_display": "02.10.2026 · 15:29 Uhr"
+    },
+    {
+      "title": "Hochschulen: Millionenförderung für neue Exzellenz-Unis",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/millionenfoerderung-fuer-neue-exzellenz-unis-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/millionenfoerderung-fuer-neue-exzellenz-unis",
+      "published": "Fri, 02 Oct 2026 15:27:14 -0000",
+      "published_display": "02.10.2026 · 15:27 Uhr"
+    },
+    {
+      "title": "Rote Hilfe: Verein Rote Hilfe meldet regen Zulauf",
+      "summary": "Die Debatte um Elif Eralp hat der Roten Hilfe erhöhte Aufmerksamkeit verschafft. Viele Menschen treten dem vom Verfassungsschutz als linksextrem eingestuften Verein bei.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-10/rote-hilfe-linksextremismus-elif-eralp-soeren-pellmann-verfassungsschutz-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-10/rote-hilfe-linksextremismus-elif-eralp-soeren-pellmann-verfassungsschutz",
+      "published": "Fri, 02 Oct 2026 15:24:36 -0000",
+      "published_display": "02.10.2026 · 15:24 Uhr"
+    },
+    {
+      "title": "Nach der Wahl in Berlin: Wahlleiter: Das Berliner Parlament wird kleiner",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/wahlkreisergebnis-geaendert-afd-holt-direktmandat-statt-cdu-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/wahlkreisergebnis-geaendert-afd-holt-direktmandat-statt-cdu",
+      "published": "Fri, 02 Oct 2026 15:20:58 -0000",
+      "published_display": "02.10.2026 · 15:20 Uhr"
+    },
     {
       "title": "Exzellente Forschung: Johannes Gutenberg-Universität Mainz bekommt Exzellenz-Titel",
       "summary": "",
@@ -19,108 +115,12 @@
       "published_display": "02.10.2026 · 15:18 Uhr"
     },
     {
-      "title": "Zuckersteuer: Ampelparallelen bei Schwarz-Rot?",
-      "summary": "Zwischen Kanzleramt und Bundesfinanzministerium sind sich bei der Zuckersteuer uneinig. Der Zeitpunkt ist besonders heikel. Und: Massenproteste an Frankreichs Schulen",
-      "image": "https://img.zeit.de/politik/2026-10/zuckersteuer-konflikt-spd-union-nachrichtenpodcast-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/2026-10/zuckersteuer-konflikt-spd-union-nachrichtenpodcast",
-      "published": "Fri, 02 Oct 2026 15:18:47 -0000",
-      "published_display": "02.10.2026 · 15:18 Uhr"
-    },
-    {
-      "title": "Rote Hilfe: Verein Rote Hilfe meldet regen Zulauf",
-      "summary": "Die Debatte um Elif Eralp hat der Roten Hilfe erhöhte Aufmerksamkeit verschafft. Viele Menschen treten dem vom Verfassungsschutz als linksextrem eingestuften Verein bei.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-10/rote-hilfe-linksextremismus-elif-eralp-soeren-pellmann-verfassungsschutz-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-10/rote-hilfe-linksextremismus-elif-eralp-soeren-pellmann-verfassungsschutz",
-      "published": "Fri, 02 Oct 2026 15:16:35 -0000",
-      "published_display": "02.10.2026 · 15:16 Uhr"
-    },
-    {
       "title": "Fest in Bremen: Tag der Deutschen Einheit - Festauftakt mit Überraschung",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-10/02/deutschland-zu-gast-in-bremen-fest-zur-einheit-beginnt-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-10/02/deutschland-zu-gast-in-bremen-fest-zur-einheit-beginnt",
       "published": "Fri, 02 Oct 2026 15:14:57 -0000",
       "published_display": "02.10.2026 · 15:14 Uhr"
-    },
-    {
-      "title": "Debatte über Schwarz-Rot-Gold: Innenminister lässt Deutschlandflagge dauerhaft hissen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/tag-der-einheit-innenminister-ordnet-dauerbeflaggung-an-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/tag-der-einheit-innenminister-ordnet-dauerbeflaggung-an",
-      "published": "Fri, 02 Oct 2026 15:14:02 -0000",
-      "published_display": "02.10.2026 · 15:14 Uhr"
-    },
-    {
-      "title": "Spitzenforschung: Landespolitik freut sich über Exzellenz-Status für Uni Jena",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/universitaet-jena-wird-exzellenzuniversitaet-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/universitaet-jena-wird-exzellenzuniversitaet",
-      "published": "Fri, 02 Oct 2026 15:09:50 -0000",
-      "published_display": "02.10.2026 · 15:09 Uhr"
-    },
-    {
-      "title": "Exzellente Forschung: Rhein-Main-Unis bekommen Exzellenz-Titel",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/rhein-main-unis-bekommen-exzellenz-titel-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/rhein-main-unis-bekommen-exzellenz-titel",
-      "published": "Fri, 02 Oct 2026 15:09:38 -0000",
-      "published_display": "02.10.2026 · 15:09 Uhr"
-    },
-    {
-      "title": "Geflüchtet: Unfall mit sieben Fahrzeugen auf A 7 - ein Fahrer flüchtet",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/unfall-mit-sieben-fahrzeugen-auf-a-7-ein-fahrer-fluechtet-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/unfall-mit-sieben-fahrzeugen-auf-a-7-ein-fahrer-fluechtet",
-      "published": "Fri, 02 Oct 2026 15:07:54 -0000",
-      "published_display": "02.10.2026 · 15:07 Uhr"
-    },
-    {
-      "title": "Flugverkehr: Flydubai kündigt Untersuchung nach mutmaßlichem Angriff im Cockpit an",
-      "summary": "Nach dem gewaltsamen Zwischenfall im Cockpit eines Flydubai-Fliegers wird weiter nach dem Motiv gesucht. Israel will den festgenommenen Copiloten befragen.",
-      "image": "https://img.zeit.de/administratives/sharing/fallback-image-die-zeit/wide__1300x731",
-      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-10/flydubai-vorfall-copilot-anwar-gargasch-smith-machchhar",
-      "published": "Fri, 02 Oct 2026 15:00:16 -0000",
-      "published_display": "02.10.2026 · 15:00 Uhr"
-    },
-    {
-      "title": "Tag der Deutschen Einheit: Weimer besorgt über Verklärung der SED-Diktatur",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/weimer-besorgt-ueber-verklaerung-der-sed-diktatur-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/weimer-besorgt-ueber-verklaerung-der-sed-diktatur",
-      "published": "Fri, 02 Oct 2026 15:00:04 -0000",
-      "published_display": "02.10.2026 · 15:00 Uhr"
-    },
-    {
-      "title": "Sperrung: Nach Unfall - Lkw aus Waldstück neben Autobahn geborgen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/nach-unfall-lkw-aus-waldstueck-neben-autobahn-geborgen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/nach-unfall-lkw-aus-waldstueck-neben-autobahn-geborgen",
-      "published": "Fri, 02 Oct 2026 14:52:47 -0000",
-      "published_display": "02.10.2026 · 14:52 Uhr"
-    },
-    {
-      "title": "Wetter: Unwetter trifft Ägäis mit voller Wucht -Blitz tötet Deutsche",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/361-liter-regen-unwetter-trifft-aegaeis-mit-voller-wucht-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/361-liter-regen-unwetter-trifft-aegaeis-mit-voller-wucht",
-      "published": "Fri, 02 Oct 2026 14:49:57 -0000",
-      "published_display": "02.10.2026 · 14:49 Uhr"
-    },
-    {
-      "title": "Kriminalität: Polizei sucht nach Angriff auf Kippa-Träger zwei Verdächtige",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/polizei-sucht-nach-angriff-auf-kippa-traeger-zwei-verdaechtige-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/polizei-sucht-nach-angriff-auf-kippa-traeger-zwei-verdaechtige",
-      "published": "Fri, 02 Oct 2026 14:49:47 -0000",
-      "published_display": "02.10.2026 · 14:49 Uhr"
-    },
-    {
-      "title": "Hochschulen: Exzellenz-Status für Uni Jena - Landespolitik jubelt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/exzellenz-status-fuer-uni-jena-landespolitik-jubelt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/exzellenz-status-fuer-uni-jena-landespolitik-jubelt",
-      "published": "Fri, 02 Oct 2026 14:48:51 -0000",
-      "published_display": "02.10.2026 · 14:48 Uhr"
     }
   ]
 }
