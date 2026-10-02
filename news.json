@@ -1,7 +1,71 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-02T07:50:19.734309+00:00",
+  "updated": "2026-10-02T08:00:42.792423+00:00",
   "items": [
+    {
+      "title": "Hybrider Angriff auf Deutschland: »Kalt und rational – das ist die einzige Sprache, die Putin versteht«",
+      "summary": "Russland befinde sich längst im Krieg mit der Nato, sagt die Politologin Margarita Šešelgytė. Deutschland müsse das endlich anerkennen und härter gegen Putin vorgehen.",
+      "image": "https://img.zeit.de/feuilleton/2026-10/hybrider-angriff-deutschland-aussenpolitik/original__640x360",
+      "link": "https://www.zeit.de/feuilleton/2026-10/hybrider-angriff-deutschland-aussenpolitik-wladimir-putin",
+      "published": "Fri, 02 Oct 2026 08:00:08 -0000",
+      "published_display": "02.10.2026 · 08:00 Uhr"
+    },
+    {
+      "title": "Metro in Russland: In Putins Händen",
+      "summary": "Im Kampf mit dem Westen greift Russland nach dem größten deutschen Unternehmen im Land. Ein deutscher Manager hilft dabei. Und ein Konkurrent hofft auf Gerhard Schröder.",
+      "image": "https://img.zeit.de/politik/ausland/2026-10/metro-russland-enteignung-regierung-johannes-tholey-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/metro-russland-enteignung-regierung-johannes-tholey",
+      "published": "Fri, 02 Oct 2026 07:59:34 -0000",
+      "published_display": "02.10.2026 · 07:59 Uhr"
+    },
+    {
+      "title": "Handball: Von der Club-WM nach Bietigheim: Keine Pause für die Füchse",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/von-der-club-wm-nach-bietigheim-keine-pause-fuer-die-fuechse-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/von-der-club-wm-nach-bietigheim-keine-pause-fuer-die-fuechse",
+      "published": "Fri, 02 Oct 2026 07:57:54 -0000",
+      "published_display": "02.10.2026 · 07:57 Uhr"
+    },
+    {
+      "title": "Zugriff in NRW: Terrorverdacht: Drei Männer weiter in Gewahrsam",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/terrorverdacht-drei-maenner-weiter-in-gewahrsam-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/terrorverdacht-drei-maenner-weiter-in-gewahrsam",
+      "published": "Fri, 02 Oct 2026 07:57:48 -0000",
+      "published_display": "02.10.2026 · 07:57 Uhr"
+    },
+    {
+      "title": "Vermögensvergleich: Diese Lücke der Wiedervereinigung wird zu oft übersehen",
+      "summary": "Private Vermögen sind zwischen Ost und West sehr ungleich verteilt. Die Kluft droht weiter zu wachsen. Es sei denn, die Politik ändert etwas Grundlegendes.",
+      "image": "https://img.zeit.de/wirtschaft/2026-10/vermoegensvergleich-ostdeutschland-westdeutschland-einkommen-sozialstaat-bild-1/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/2026-10/vermoegensvergleich-ostdeutschland-westdeutschland-einkommen-sozialstaat",
+      "published": "Fri, 02 Oct 2026 07:54:17 -0000",
+      "published_display": "02.10.2026 · 07:54 Uhr"
+    },
+    {
+      "title": "Ermittlungen: Staatsanwaltschaft Gera stellt Verfahren gegen Höcke ein",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/staatsanwaltschaft-gera-stellt-verfahren-gegen-hoecke-ein-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/staatsanwaltschaft-gera-stellt-verfahren-gegen-hoecke-ein",
+      "published": "Fri, 02 Oct 2026 07:53:35 -0000",
+      "published_display": "02.10.2026 · 07:53 Uhr"
+    },
+    {
+      "title": "«Bittere Bilanz» in Hobart: Walschutzgebiet im Südatlantik scheitert erneut an Blockade",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/walschutzgebiet-im-suedatlantik-scheitert-erneut-an-blockade-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/walschutzgebiet-im-suedatlantik-scheitert-erneut-an-blockade",
+      "published": "Fri, 02 Oct 2026 07:53:01 -0000",
+      "published_display": "02.10.2026 · 07:53 Uhr"
+    },
+    {
+      "title": "Nahost: El Al verschiebt Rückholflüge für Flydubai-Passagiere",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/el-al-verschiebt-rueckholfluege-fuer-flydubai-passagiere-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/el-al-verschiebt-rueckholfluege-fuer-flydubai-passagiere",
+      "published": "Fri, 02 Oct 2026 07:51:47 -0000",
+      "published_display": "02.10.2026 · 07:51 Uhr"
+    },
     {
       "title": "Herbstferien: Staus und viele Fluggäste zum Ferienstart in Hessen erwartet",
       "summary": "",
@@ -57,70 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/02/polizei-nimmt-sechs-verdaechtige-bei-drogenrazzia-fest",
       "published": "Fri, 02 Oct 2026 07:27:35 -0000",
       "published_display": "02.10.2026 · 07:27 Uhr"
-    },
-    {
-      "title": "Kriminalität: Polizei warnt vor flüchtigen Einbrechern im Raum Mittenwald",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/polizei-warnt-vor-fluechtigen-einbrechern-im-raum-mittenwald-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/polizei-warnt-vor-fluechtigen-einbrechern-im-raum-mittenwald",
-      "published": "Fri, 02 Oct 2026 07:25:07 -0000",
-      "published_display": "02.10.2026 · 07:25 Uhr"
-    },
-    {
-      "title": "Grundwasserverhältnisse: So niedrig sind die Grundwasserstände im Südwesten",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/so-niedrig-sind-die-grundwasserstaende-im-suedwesten-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/so-niedrig-sind-die-grundwasserstaende-im-suedwesten",
-      "published": "Fri, 02 Oct 2026 07:24:33 -0000",
-      "published_display": "02.10.2026 · 07:24 Uhr"
-    },
-    {
-      "title": "Auto kracht in Mauer: 18-Jähriger baut betrunken Unfall - drei Schwerverletzte",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/18-jaehriger-baut-betrunken-unfall-drei-schwerverletzte-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/18-jaehriger-baut-betrunken-unfall-drei-schwerverletzte",
-      "published": "Fri, 02 Oct 2026 07:24:22 -0000",
-      "published_display": "02.10.2026 · 07:24 Uhr"
-    },
-    {
-      "title": "Sturzbetrunken im Hauptbahnhof: Bundespolizei nimmt Betrunkenen in Gewahrsam - 4.04 Promille",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/bundespolizei-nimmt-betrunkenen-in-gewahrsam-4-04-promille-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/bundespolizei-nimmt-betrunkenen-in-gewahrsam-4-04-promille",
-      "published": "Fri, 02 Oct 2026 07:21:14 -0000",
-      "published_display": "02.10.2026 · 07:21 Uhr"
-    },
-    {
-      "title": "Fußball-Nationalmannschaft: Darum ist ein Sieg gegen Griechenland so wichtig",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/darum-ist-ein-sieg-gegen-griechenland-so-wichtig-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/darum-ist-ein-sieg-gegen-griechenland-so-wichtig",
-      "published": "Fri, 02 Oct 2026 07:19:59 -0000",
-      "published_display": "02.10.2026 · 07:19 Uhr"
-    },
-    {
-      "title": "Dresdner DJ: Purple Disco Machine kündigt neues Album an",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/purple-disco-machine-kuendigt-neues-album-an-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/purple-disco-machine-kuendigt-neues-album-an",
-      "published": "Fri, 02 Oct 2026 07:19:51 -0000",
-      "published_display": "02.10.2026 · 07:19 Uhr"
-    },
-    {
-      "title": "Raub: Mann überfällt Kasino in Pirna - Frau mit Revolver bedroht",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/mann-ueberfaellt-kasino-in-pirna-frau-mit-revolver-bedroht-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/mann-ueberfaellt-kasino-in-pirna-frau-mit-revolver-bedroht",
-      "published": "Fri, 02 Oct 2026 07:14:52 -0000",
-      "published_display": "02.10.2026 · 07:14 Uhr"
-    },
-    {
-      "title": "Drachen: Sie sind wie wir",
-      "summary": "Große Gefahr, noch größere Wunder: Ohne Drachen ist die Geschichte des Menschen nicht zu denken. Eine Würdigung der vielseitigen Kreaturen.",
-      "image": "https://img.zeit.de/2026/39/sie-sind-wie-wir-bild-2/original__640x360",
-      "link": "https://www.zeit.de/2026/39/drachen-mythologie-popkultur-ausstellung-darmstadt",
-      "published": "Fri, 02 Oct 2026 07:13:54 -0000",
-      "published_display": "02.10.2026 · 07:13 Uhr"
     }
   ]
 }
