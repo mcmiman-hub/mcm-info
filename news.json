@@ -1,7 +1,111 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-02T06:52:32.816124+00:00",
+  "updated": "2026-10-02T07:20:28.585034+00:00",
   "items": [
+    {
+      "title": "Raub: Mann überfällt Kasino in Pirna - Frau mit Revolver bedroht",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/mann-ueberfaellt-kasino-in-pirna-frau-mit-revolver-bedroht-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/mann-ueberfaellt-kasino-in-pirna-frau-mit-revolver-bedroht",
+      "published": "Fri, 02 Oct 2026 07:14:52 -0000",
+      "published_display": "02.10.2026 · 07:14 Uhr"
+    },
+    {
+      "title": "Drachen: Sie sind wie wir",
+      "summary": "Große Gefahr, noch größere Wunder: Ohne Drachen ist die Geschichte des Menschen nicht zu denken. Eine Würdigung der vielseitigen Kreaturen.",
+      "image": "https://img.zeit.de/2026/39/sie-sind-wie-wir-bild-2/original__640x360",
+      "link": "https://www.zeit.de/2026/39/drachen-mythologie-popkultur-ausstellung-darmstadt",
+      "published": "Fri, 02 Oct 2026 07:13:54 -0000",
+      "published_display": "02.10.2026 · 07:13 Uhr"
+    },
+    {
+      "title": "Nahost: El Al verschiebt Rückholflüge für Flydubai-Passagiere",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/el-al-verschiebt-rueckholfluege-fuer-flydubai-passagiere-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/el-al-verschiebt-rueckholfluege-fuer-flydubai-passagiere",
+      "published": "Fri, 02 Oct 2026 07:12:08 -0000",
+      "published_display": "02.10.2026 · 07:12 Uhr"
+    },
+    {
+      "title": "Sachsen: Neue Kampagne soll Impfquoten bei Tieren steigern",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/neue-kampagne-soll-impfquoten-bei-tieren-steigern-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/neue-kampagne-soll-impfquoten-bei-tieren-steigern",
+      "published": "Fri, 02 Oct 2026 07:11:22 -0000",
+      "published_display": "02.10.2026 · 07:11 Uhr"
+    },
+    {
+      "title": "Rüstungsprojekte: Fregatten-Streit: Werft will Milliarden von Deutschland",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/fregatten-streit-werft-will-milliarden-von-deutschland-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/fregatten-streit-werft-will-milliarden-von-deutschland",
+      "published": "Fri, 02 Oct 2026 07:10:08 -0000",
+      "published_display": "02.10.2026 · 07:10 Uhr"
+    },
+    {
+      "title": "»Broder« von Dörte Hansen: Fatalismus ist ihr Erfolgsrezept",
+      "summary": "Mit dem Roman »Broder« ist Dörte Hansen wieder ein riesiger Verkaufsschlager geglückt. Was fasziniert das Publikum an den traurigen Figuren auf traurigen Bauernhöfen?",
+      "image": "https://img.zeit.de/2026/42/fatalismus-ist-ihr-erfolgsrezept-bild-1/original__640x360",
+      "link": "https://www.zeit.de/2026/42/broder-doerte-hansen-roman-bestseller-laendliche-dorfkultur",
+      "published": "Fri, 02 Oct 2026 07:05:58 -0000",
+      "published_display": "02.10.2026 · 07:05 Uhr"
+    },
+    {
+      "title": "Nach Berlin-Wahl: Evers sieht in der Linken «Sicherheitsrisiko»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/evers-sieht-in-der-linken-sicherheitsrisiko-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/evers-sieht-in-der-linken-sicherheitsrisiko",
+      "published": "Fri, 02 Oct 2026 07:05:34 -0000",
+      "published_display": "02.10.2026 · 07:05 Uhr"
+    },
+    {
+      "title": "Statistisches Bundesamt: Haushaltsdefizit von Bund, Ländern und Kommunen höher als 2025",
+      "summary": "Die Staatsschulden sind im ersten Halbjahr 2026 um knapp 99 Milliarden Euro gestiegen. Die Ausgaben stiegen um 6 Prozent, die Einnahmen dagegen nur um 2 Prozent.",
+      "image": "https://img.zeit.de/wirtschaft/2026-10/defizit-oeffentliche-haushalte-deutschland-bund-kommunen-foto-1/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/2026-10/defizit-oeffentliche-haushalte-deutschland-bund-kommunen",
+      "published": "Fri, 02 Oct 2026 07:02:11 -0000",
+      "published_display": "02.10.2026 · 07:02 Uhr"
+    },
+    {
+      "title": "Autobauer: IG Metall: VW-Führung handelt respekt- und verantwortungslos",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/ig-metall-vw-fuehrung-handelt-respekt-und-verantwortungslos-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/ig-metall-vw-fuehrung-handelt-respekt-und-verantwortungslos",
+      "published": "Fri, 02 Oct 2026 07:01:21 -0000",
+      "published_display": "02.10.2026 · 07:01 Uhr"
+    },
+    {
+      "title": "Konjunktur: Ifo: Geschäftsklima in Chemiebranche hellt sich deutlich auf",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/ifo-geschaeftsklima-in-chemiebranche-hellt-sich-deutlich-auf-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/ifo-geschaeftsklima-in-chemiebranche-hellt-sich-deutlich-auf",
+      "published": "Fri, 02 Oct 2026 06:59:38 -0000",
+      "published_display": "02.10.2026 · 06:59 Uhr"
+    },
+    {
+      "title": "Sperrung: A8 bei Stuttgart nach Unfall wieder frei",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/01/a8-bei-stuttgart-voll-gesperrt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/01/a8-bei-stuttgart-voll-gesperrt",
+      "published": "Fri, 02 Oct 2026 06:59:23 -0000",
+      "published_display": "02.10.2026 · 06:59 Uhr"
+    },
+    {
+      "title": "Verkehr: Zwei Leichtverletzte bei Unfall auf A4",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/zwei-leichtverletzte-bei-unfall-auf-a4-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/zwei-leichtverletzte-bei-unfall-auf-a4",
+      "published": "Fri, 02 Oct 2026 06:56:46 -0000",
+      "published_display": "02.10.2026 · 06:56 Uhr"
+    },
+    {
+      "title": "Kampf gegen Rechtsextremismus: Polizeiaktion gegen Nazi-Musik - 33.000 Tonträger gefunden",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/polizeiaktion-gegen-nazi-musik-33-000-tontraeger-gefunden-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/polizeiaktion-gegen-nazi-musik-33-000-tontraeger-gefunden",
+      "published": "Fri, 02 Oct 2026 06:54:40 -0000",
+      "published_display": "02.10.2026 · 06:54 Uhr"
+    },
     {
       "title": "Körperverletzung: Streit mit Messer – Mann schwer verletzt",
       "summary": "",
@@ -17,110 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/02/zoll-stellt-fast-900-liter-e-zigaretten-fluessigkeit-sicher",
       "published": "Fri, 02 Oct 2026 06:45:05 -0000",
       "published_display": "02.10.2026 · 06:45 Uhr"
-    },
-    {
-      "title": "Kriminalität: Polizei warnt vor flüchtigen Einbrechern im Raum Mittenwald",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/polizei-warnt-vor-fluechtigen-einbrechern-im-raum-mittenwald-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/polizei-warnt-vor-fluechtigen-einbrechern-im-raum-mittenwald",
-      "published": "Fri, 02 Oct 2026 06:40:44 -0000",
-      "published_display": "02.10.2026 · 06:40 Uhr"
-    },
-    {
-      "title": "Tarifverträge bei Volkswagen: IG Metall wirft VW-Führung Respekt- und Verantwortungslosigkeit vor",
-      "summary": "IG-Metall-Bezirksleiter Thorsten Gröger kritisiert die Kündigung von VW-Tarifverträgen. Dies sei respektlos gegenüber den Mitarbeitern und löse weitere Konflikte aus.",
-      "image": "https://img.zeit.de/wirtschaft/unternehmen/2026-10/vw-tarifvertraege-kuendigung-ig-metall-thorsten-groeger-manteltarifvertrag-foto-1/original__640x360",
-      "link": "https://www.zeit.de/wirtschaft/unternehmen/2026-10/vw-tarifvertraege-kuendigung-ig-metall-thorsten-groeger-manteltarifvertrag",
-      "published": "Fri, 02 Oct 2026 06:38:49 -0000",
-      "published_display": "02.10.2026 · 06:38 Uhr"
-    },
-    {
-      "title": "Wenig Wasser floss ins Meer: Flüsse führten so wenig Wasser wie seit 30 Jahren nicht",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/niedrigste-abflussmengen-in-fluessen-seit-gut-30-jahren-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/niedrigste-abflussmengen-in-fluessen-seit-gut-30-jahren",
-      "published": "Fri, 02 Oct 2026 06:36:32 -0000",
-      "published_display": "02.10.2026 · 06:36 Uhr"
-    },
-    {
-      "title": "Verkehr: 59-Jährige stirbt nach schwerem Unfall in Ahlen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/59-jaehrige-stirbt-nach-schwerem-unfall-in-ahlen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/59-jaehrige-stirbt-nach-schwerem-unfall-in-ahlen",
-      "published": "Fri, 02 Oct 2026 06:36:10 -0000",
-      "published_display": "02.10.2026 · 06:36 Uhr"
-    },
-    {
-      "title": "Sperrung: A8 bei Stuttgart teilweise gesperrt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/a8-bei-stuttgart-voll-gesperrt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/a8-bei-stuttgart-voll-gesperrt",
-      "published": "Fri, 02 Oct 2026 06:34:58 -0000",
-      "published_display": "02.10.2026 · 06:34 Uhr"
-    },
-    {
-      "title": "Sachsen-Anhalt: Robra: Unter AfD wird später alles in sich zusammenbrechen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/robra-unter-afd-wird-spaeter-alles-in-sich-zusammenbrechen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/robra-unter-afd-wird-spaeter-alles-in-sich-zusammenbrechen",
-      "published": "Fri, 02 Oct 2026 06:25:28 -0000",
-      "published_display": "02.10.2026 · 06:25 Uhr"
-    },
-    {
-      "title": "Kriminalität: Durchsuchung nach Verdacht auf Sexualdelikt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/durchsuchung-nach-verdacht-auf-sexualdelikt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/durchsuchung-nach-verdacht-auf-sexualdelikt",
-      "published": "Fri, 02 Oct 2026 06:24:31 -0000",
-      "published_display": "02.10.2026 · 06:24 Uhr"
-    },
-    {
-      "title": "Obdachlosigkeit: Neues Straßenkinderhaus in Berlin öffnet seine Türen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/neues-strassenkinderhaus-in-berlin-oeffnet-seine-tueren-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/neues-strassenkinderhaus-in-berlin-oeffnet-seine-tueren",
-      "published": "Fri, 02 Oct 2026 06:13:39 -0000",
-      "published_display": "02.10.2026 · 06:13 Uhr"
-    },
-    {
-      "title": "Beladen mit Mercedes-Sprintern: Nach Sandbank-Malheur: Frachtschiff wagt zweiten Versuch",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/nach-sandbank-malheur-frachtschiff-wagt-zweiten-versuch-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/nach-sandbank-malheur-frachtschiff-wagt-zweiten-versuch",
-      "published": "Fri, 02 Oct 2026 06:13:16 -0000",
-      "published_display": "02.10.2026 · 06:13 Uhr"
-    },
-    {
-      "title": "Autobauer: IG Metall: VW-Führung handelt respekt- und verantwortungslos",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/ig-metall-vw-fuehrung-handelt-respekt-und-verantwortungslos-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/ig-metall-vw-fuehrung-handelt-respekt-und-verantwortungslos",
-      "published": "Fri, 02 Oct 2026 06:10:29 -0000",
-      "published_display": "02.10.2026 · 06:10 Uhr"
-    },
-    {
-      "title": "Benzinpreise: Polen führt Übergewinnsteuer für Mineralölkonzerne ein",
-      "summary": "Mit einer Übergewinnsteuer für Mineralölkonzerne will Polen die Preise für Benzin und Diesel senken. Präsident Nawrocki unterschrieb unter öffentlichem Druck das Gesetz.",
-      "image": "https://img.zeit.de/politik/ausland/2026-10/uebergewinnsteuer-polen-mineraloelkonzerne-benzinpreise-donald-tusk-karol-nawrocki-bild-2/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/uebergewinnsteuer-polen-mineraloelkonzerne-benzinpreise-donald-tusk-karol-nawrocki",
-      "published": "Fri, 02 Oct 2026 06:08:52 -0000",
-      "published_display": "02.10.2026 · 06:08 Uhr"
-    },
-    {
-      "title": "Großbrand: Brennende Lagerhalle im Saalekreis - Löscharbeiten dauern an",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/brennende-lagerhalle-im-saalekreis-loescharbeiten-dauern-an-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/brennende-lagerhalle-im-saalekreis-loescharbeiten-dauern-an",
-      "published": "Fri, 02 Oct 2026 06:02:18 -0000",
-      "published_display": "02.10.2026 · 06:02 Uhr"
-    },
-    {
-      "title": "CDU: Hat die CDU eine Zukunft? Und wenn ja: Sieht sie so aus?",
-      "summary": "Es ist allerhöchste Zeit, die Partei zu retten. Der Chef der Jungen Union, Johannes Winkel, traut sich das Unmögliche zu. Einen Plan hat er auch schon.",
-      "image": "https://img.zeit.de/2026/42/hat-die-cdu-eine-zukunft-und-wenn-ja-sieht-sie-so-aus-bild-2/original__640x360",
-      "link": "https://www.zeit.de/2026/42/cdu-junge-union-johannes-winkel-afd",
-      "published": "Fri, 02 Oct 2026 06:01:24 -0000",
-      "published_display": "02.10.2026 · 06:01 Uhr"
     }
   ]
 }
