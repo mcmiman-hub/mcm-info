@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-02T04:49:52.976209+00:00",
+  "updated": "2026-10-02T04:59:35.625231+00:00",
   "items": [
+    {
+      "title": "EU-Klimadienst Copernicus: Sommer in Westeuropa war so heiß wie nie zuvor",
+      "summary": "Hitze, Dürre, niedrige Wasserstände: Europa hat einen Rekordsommer erlebt. Besonders drastisch sind die Daten für den Westen des Kontinents.",
+      "image": "https://img.zeit.de/wissenschaft/umwelt/2026-10/sommer-2023-europa-hitze-trockenheit-niedrigwasser-rekord-foto-1/original__640x360",
+      "link": "https://www.zeit.de/wissenschaft/umwelt/2026-10/copernicus-sommer-2026-europa-hitze-trockenheit-niedrigwasser",
+      "published": "Fri, 02 Oct 2026 04:52:20 -0000",
+      "published_display": "02.10.2026 · 04:52 Uhr"
+    },
+    {
+      "title": "Künstliche Intelligenz: OpenAI feuert drei Mitarbeiter nach KI-Enthüllungen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/openai-feuert-drei-mitarbeiter-nach-ki-enthuellungen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/openai-feuert-drei-mitarbeiter-nach-ki-enthuellungen",
+      "published": "Fri, 02 Oct 2026 04:52:16 -0000",
+      "published_display": "02.10.2026 · 04:52 Uhr"
+    },
     {
       "title": "Wetterprognose: Mildes Wochenende in Hessen mit Sonne und einzelnen Schauern",
       "summary": "",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/gesellschaft/2026-10/petra-kelly-gruene-friedensbewegung-bibelpodcast",
       "published": "Fri, 02 Oct 2026 04:05:07 -0000",
       "published_display": "02.10.2026 · 04:05 Uhr"
-    },
-    {
-      "title": "Japanische Arbeitskultur: Plötzlich gibt es in Tokio sogar die Viertagewoche",
-      "summary": "Das Büro vor dem Chef zu verlassen, gilt in Japan als unhöflich. Alle Urlaubstage zu nehmen, ist verpönt. Diese Arbeitskultur wird mittlerweile aber öfter hinterfragt.",
-      "image": "https://img.zeit.de/arbeit/2026-09/japanische-arbeitskultur-arbeitsplatz-premierministerin-sanae-takaichi-bild/original__640x360",
-      "link": "https://www.zeit.de/arbeit/2026-09/japanische-arbeitskultur-arbeitsplatz-premierministerin-sanae-takaichi",
-      "published": "Fri, 02 Oct 2026 04:00:55 -0000",
-      "published_display": "02.10.2026 · 04:00 Uhr"
-    },
-    {
-      "title": "Grundsatzrede von Friedrich Merz: Warum Merz Deutschlands Schicksal gerade jetzt an die Ukraine knüpft",
-      "summary": "Friedrich Merz wird in seiner Rede zum Friedenspreis grundsätzlich – gerade gegenüber Russland. Warum gerade jetzt? Und: Wie eine Hinrichtung in den USA scheitern konnte",
-      "image": "https://img.zeit.de/politik/deutschland/2026-10/grundsatzrede-friedrich-merz-aussenpolitik-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/2026-10/grundsatzrede-friedrich-merz-aussenpolitik-westfaelischer-friedenspreis",
-      "published": "Fri, 02 Oct 2026 04:00:17 -0000",
-      "published_display": "02.10.2026 · 04:00 Uhr"
     }
   ]
 }
