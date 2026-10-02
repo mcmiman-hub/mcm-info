@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-01T23:55:55.411740+00:00",
+  "updated": "2026-10-02T00:26:59.007507+00:00",
   "items": [
+    {
+      "title": "Mutmaßlicher Anschlagsversuch: Was über den Einsatz an einer britischen Militärbasis bekannt ist",
+      "summary": "In England wurde offenbar ein Anschlag auf den von den USA genutzten Luftwaffenstützpunkt Fairford vereitelt. Sechs Verdächtige werden verhört. Was bislang bekannt ist",
+      "image": "https://img.zeit.de/politik/2026-09/grossbritannien-luftwaffe-stuetzpunk-fairford-usa-iran-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/grossbritannien-luftwaffe-stuetzpunk-fairford-usa-iran",
+      "published": "Fri, 02 Oct 2026 00:25:13 -0000",
+      "published_display": "02.10.2026 · 00:25 Uhr"
+    },
+    {
+      "title": "Mutmaßlicher Anschlagsversuch: Weitere Festnahme nach Vorfall an britischer Militärbasis",
+      "summary": "Fünf Männer sollen am Luftwaffenstützpunkt Fairfield in England einen Terroranschlag vorbereitet haben. Nun hat die Polizei einen weiteren Verdächtigen festgenommen.",
+      "image": "https://img.zeit.de/politik/ausland/2026-10/raf-stuetzpunkt-fairford-festnahme-terror-iran-grossbritannien-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/raf-stuetzpunkt-fairford-festnahme-terror-iran-grossbritannien",
+      "published": "Fri, 02 Oct 2026 00:24:48 -0000",
+      "published_display": "02.10.2026 · 00:24 Uhr"
+    },
+    {
+      "title": "ISS-Mission: Astronautenteam erreicht ISS in Rekordzeit",
+      "summary": "Jessica Watkins fliegt in acht Stunden in der Dragon-Raumkapsel von SpaceX zur Internationalen Raumstation. Mit ihren drei Kollegen soll sie sechs Monate im All bleiben.",
+      "image": "https://img.zeit.de/wissenschaft/2026-10/iss-mission-jessica-watkins-spacex-dragon-foto-1/original__640x360",
+      "link": "https://www.zeit.de/wissenschaft/2026-10/iss-mission-jessica-watkins-spacex-dragon",
+      "published": "Fri, 02 Oct 2026 00:21:12 -0000",
+      "published_display": "02.10.2026 · 00:21 Uhr"
+    },
     {
       "title": "Iran-Krieg: Bericht: Erneut Schiff in Straße von Hormus unter Beschuss",
       "summary": "",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/01/mika-baur-ist-der-1000-deutsche-nationalspieler",
       "published": "Thu, 01 Oct 2026 20:59:41 -0000",
       "published_display": "01.10.2026 · 20:59 Uhr"
-    },
-    {
-      "title": "Freiburg: Waffenalarm im Zug – Spezialkräfte nehmen 21-Jährigen fest",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/groesserer-polizeieinsatz-in-freiburg-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/groesserer-polizeieinsatz-in-freiburg",
-      "published": "Thu, 01 Oct 2026 20:51:32 -0000",
-      "published_display": "01.10.2026 · 20:51 Uhr"
-    },
-    {
-      "title": "Unruhe in der Abschiebehaft: Polizeieinsatz in Pforzheimer Abschiebehafteinrichtung",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/polizeieinsatz-in-pforzheimer-abschiebehafteinrichtung-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/polizeieinsatz-in-pforzheimer-abschiebehafteinrichtung",
-      "published": "Thu, 01 Oct 2026 20:45:33 -0000",
-      "published_display": "01.10.2026 · 20:45 Uhr"
-    },
-    {
-      "title": "Christa Pike: Zum Tode verurteilte Pike erhält »lebensrettende Behandlung«",
-      "summary": "Nach dem gescheiterten Hinrichtungsversuch in den USA befindet sich Christa Pike in einem kritischen Zustand. Ihre Anwälte berichten von schwerwiegenden Pannen.",
-      "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-10/christa-gail-pike-hinrichtung-tennessee-todesstrafe-giftspritze-foto-1/original__640x360",
-      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-10/christa-gail-pike-hinrichtung-tennessee-todesstrafe-giftspritze",
-      "published": "Thu, 01 Oct 2026 20:44:05 -0000",
-      "published_display": "01.10.2026 · 20:44 Uhr"
     }
   ]
 }
