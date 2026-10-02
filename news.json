@@ -1,7 +1,95 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-02T07:20:28.585034+00:00",
+  "updated": "2026-10-02T07:36:08.100973+00:00",
   "items": [
+    {
+      "title": "Bildung: Drei Prozent mehr Hochschulabschlüsse im Prüfungsjahr 2025",
+      "summary": "Gut eine halbe Million Menschen hat im Prüfungsjahr 2025 einen Abschluss an einer deutschen Hochschule erworben. Das waren drei Prozent mehr Absolvierende als im Vorjahr.",
+      "image": "https://img.zeit.de/bildung/2026-10/hochschulabschluesse-deutschland-absolventen-statistisches-bundesamt-2025-foto-1/original__640x360",
+      "link": "https://www.zeit.de/bildung/2026-10/hochschulabschluesse-deutschland-absolventen-statistisches-bundesamt-2025",
+      "published": "Fri, 02 Oct 2026 07:34:14 -0000",
+      "published_display": "02.10.2026 · 07:34 Uhr"
+    },
+    {
+      "title": "Krankenhausreform: Weniger Kliniken für komplexe Eingriffe",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/weniger-kliniken-fuer-komplexe-eingriffe-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/weniger-kliniken-fuer-komplexe-eingriffe",
+      "published": "Fri, 02 Oct 2026 07:33:37 -0000",
+      "published_display": "02.10.2026 · 07:33 Uhr"
+    },
+    {
+      "title": "Wohnungspolitik: Sánchez droht schwere Niederlage in Spaniens Wohnungskrise",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/s-nchez-droht-schwere-niederlage-in-spaniens-wohnungskrise-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/s-nchez-droht-schwere-niederlage-in-spaniens-wohnungskrise",
+      "published": "Fri, 02 Oct 2026 07:32:09 -0000",
+      "published_display": "02.10.2026 · 07:32 Uhr"
+    },
+    {
+      "title": "Brände: Mann von explodierender Gasflasche leicht verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/mann-von-explodierender-gasflasche-leicht-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/mann-von-explodierender-gasflasche-leicht-verletzt",
+      "published": "Fri, 02 Oct 2026 07:30:21 -0000",
+      "published_display": "02.10.2026 · 07:30 Uhr"
+    },
+    {
+      "title": "Kriminalität: Polizei nimmt sechs Verdächtige bei Drogenrazzia fest",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/polizei-nimmt-sechs-verdaechtige-bei-drogenrazzia-fest-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/polizei-nimmt-sechs-verdaechtige-bei-drogenrazzia-fest",
+      "published": "Fri, 02 Oct 2026 07:27:35 -0000",
+      "published_display": "02.10.2026 · 07:27 Uhr"
+    },
+    {
+      "title": "Kriminalität: Polizei warnt vor flüchtigen Einbrechern im Raum Mittenwald",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/polizei-warnt-vor-fluechtigen-einbrechern-im-raum-mittenwald-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/polizei-warnt-vor-fluechtigen-einbrechern-im-raum-mittenwald",
+      "published": "Fri, 02 Oct 2026 07:25:07 -0000",
+      "published_display": "02.10.2026 · 07:25 Uhr"
+    },
+    {
+      "title": "Grundwasserverhältnisse: So niedrig sind die Grundwasserstände im Südwesten",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/so-niedrig-sind-die-grundwasserstaende-im-suedwesten-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/so-niedrig-sind-die-grundwasserstaende-im-suedwesten",
+      "published": "Fri, 02 Oct 2026 07:24:33 -0000",
+      "published_display": "02.10.2026 · 07:24 Uhr"
+    },
+    {
+      "title": "Auto kracht in Mauer: 18-Jähriger baut betrunken Unfall - drei Schwerverletzte",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/18-jaehriger-baut-betrunken-unfall-drei-schwerverletzte-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/18-jaehriger-baut-betrunken-unfall-drei-schwerverletzte",
+      "published": "Fri, 02 Oct 2026 07:24:22 -0000",
+      "published_display": "02.10.2026 · 07:24 Uhr"
+    },
+    {
+      "title": "Sturzbetrunken im Hauptbahnhof: Bundespolizei nimmt Betrunkenen in Gewahrsam - 4.04 Promille",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/bundespolizei-nimmt-betrunkenen-in-gewahrsam-4-04-promille-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/bundespolizei-nimmt-betrunkenen-in-gewahrsam-4-04-promille",
+      "published": "Fri, 02 Oct 2026 07:21:14 -0000",
+      "published_display": "02.10.2026 · 07:21 Uhr"
+    },
+    {
+      "title": "Fußball-Nationalmannschaft: Darum ist ein Sieg gegen Griechenland so wichtig",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/darum-ist-ein-sieg-gegen-griechenland-so-wichtig-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/darum-ist-ein-sieg-gegen-griechenland-so-wichtig",
+      "published": "Fri, 02 Oct 2026 07:19:59 -0000",
+      "published_display": "02.10.2026 · 07:19 Uhr"
+    },
+    {
+      "title": "Dresdner DJ: Purple Disco Machine kündigt neues Album an",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/purple-disco-machine-kuendigt-neues-album-an-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/purple-disco-machine-kuendigt-neues-album-an",
+      "published": "Fri, 02 Oct 2026 07:19:51 -0000",
+      "published_display": "02.10.2026 · 07:19 Uhr"
+    },
     {
       "title": "Raub: Mann überfällt Kasino in Pirna - Frau mit Revolver bedroht",
       "summary": "",
@@ -33,94 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/02/neue-kampagne-soll-impfquoten-bei-tieren-steigern",
       "published": "Fri, 02 Oct 2026 07:11:22 -0000",
       "published_display": "02.10.2026 · 07:11 Uhr"
-    },
-    {
-      "title": "Rüstungsprojekte: Fregatten-Streit: Werft will Milliarden von Deutschland",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/fregatten-streit-werft-will-milliarden-von-deutschland-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/fregatten-streit-werft-will-milliarden-von-deutschland",
-      "published": "Fri, 02 Oct 2026 07:10:08 -0000",
-      "published_display": "02.10.2026 · 07:10 Uhr"
-    },
-    {
-      "title": "»Broder« von Dörte Hansen: Fatalismus ist ihr Erfolgsrezept",
-      "summary": "Mit dem Roman »Broder« ist Dörte Hansen wieder ein riesiger Verkaufsschlager geglückt. Was fasziniert das Publikum an den traurigen Figuren auf traurigen Bauernhöfen?",
-      "image": "https://img.zeit.de/2026/42/fatalismus-ist-ihr-erfolgsrezept-bild-1/original__640x360",
-      "link": "https://www.zeit.de/2026/42/broder-doerte-hansen-roman-bestseller-laendliche-dorfkultur",
-      "published": "Fri, 02 Oct 2026 07:05:58 -0000",
-      "published_display": "02.10.2026 · 07:05 Uhr"
-    },
-    {
-      "title": "Nach Berlin-Wahl: Evers sieht in der Linken «Sicherheitsrisiko»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/evers-sieht-in-der-linken-sicherheitsrisiko-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/evers-sieht-in-der-linken-sicherheitsrisiko",
-      "published": "Fri, 02 Oct 2026 07:05:34 -0000",
-      "published_display": "02.10.2026 · 07:05 Uhr"
-    },
-    {
-      "title": "Statistisches Bundesamt: Haushaltsdefizit von Bund, Ländern und Kommunen höher als 2025",
-      "summary": "Die Staatsschulden sind im ersten Halbjahr 2026 um knapp 99 Milliarden Euro gestiegen. Die Ausgaben stiegen um 6 Prozent, die Einnahmen dagegen nur um 2 Prozent.",
-      "image": "https://img.zeit.de/wirtschaft/2026-10/defizit-oeffentliche-haushalte-deutschland-bund-kommunen-foto-1/original__640x360",
-      "link": "https://www.zeit.de/wirtschaft/2026-10/defizit-oeffentliche-haushalte-deutschland-bund-kommunen",
-      "published": "Fri, 02 Oct 2026 07:02:11 -0000",
-      "published_display": "02.10.2026 · 07:02 Uhr"
-    },
-    {
-      "title": "Autobauer: IG Metall: VW-Führung handelt respekt- und verantwortungslos",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/ig-metall-vw-fuehrung-handelt-respekt-und-verantwortungslos-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/ig-metall-vw-fuehrung-handelt-respekt-und-verantwortungslos",
-      "published": "Fri, 02 Oct 2026 07:01:21 -0000",
-      "published_display": "02.10.2026 · 07:01 Uhr"
-    },
-    {
-      "title": "Konjunktur: Ifo: Geschäftsklima in Chemiebranche hellt sich deutlich auf",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/ifo-geschaeftsklima-in-chemiebranche-hellt-sich-deutlich-auf-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/ifo-geschaeftsklima-in-chemiebranche-hellt-sich-deutlich-auf",
-      "published": "Fri, 02 Oct 2026 06:59:38 -0000",
-      "published_display": "02.10.2026 · 06:59 Uhr"
-    },
-    {
-      "title": "Sperrung: A8 bei Stuttgart nach Unfall wieder frei",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/a8-bei-stuttgart-voll-gesperrt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/a8-bei-stuttgart-voll-gesperrt",
-      "published": "Fri, 02 Oct 2026 06:59:23 -0000",
-      "published_display": "02.10.2026 · 06:59 Uhr"
-    },
-    {
-      "title": "Verkehr: Zwei Leichtverletzte bei Unfall auf A4",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/zwei-leichtverletzte-bei-unfall-auf-a4-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/zwei-leichtverletzte-bei-unfall-auf-a4",
-      "published": "Fri, 02 Oct 2026 06:56:46 -0000",
-      "published_display": "02.10.2026 · 06:56 Uhr"
-    },
-    {
-      "title": "Kampf gegen Rechtsextremismus: Polizeiaktion gegen Nazi-Musik - 33.000 Tonträger gefunden",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/polizeiaktion-gegen-nazi-musik-33-000-tontraeger-gefunden-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/polizeiaktion-gegen-nazi-musik-33-000-tontraeger-gefunden",
-      "published": "Fri, 02 Oct 2026 06:54:40 -0000",
-      "published_display": "02.10.2026 · 06:54 Uhr"
-    },
-    {
-      "title": "Körperverletzung: Streit mit Messer – Mann schwer verletzt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/streit-mit-messer-mann-schwer-verletzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/streit-mit-messer-mann-schwer-verletzt",
-      "published": "Fri, 02 Oct 2026 06:48:53 -0000",
-      "published_display": "02.10.2026 · 06:48 Uhr"
-    },
-    {
-      "title": "Kriminalität: Zoll stellt fast 900 Liter E-Zigaretten-Flüssigkeit sicher",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/zoll-stellt-fast-900-liter-e-zigaretten-fluessigkeit-sicher-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/zoll-stellt-fast-900-liter-e-zigaretten-fluessigkeit-sicher",
-      "published": "Fri, 02 Oct 2026 06:45:05 -0000",
-      "published_display": "02.10.2026 · 06:45 Uhr"
     }
   ]
 }
