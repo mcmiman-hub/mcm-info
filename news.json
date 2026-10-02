@@ -1,7 +1,55 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-02T08:21:43.366773+00:00",
+  "updated": "2026-10-02T08:36:53.935698+00:00",
   "items": [
+    {
+      "title": "Das Strafmaß ist noch offen: Tod eines Babys – Urteil gegen Hebamme verzögert sich",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/tod-eines-babys-urteil-gegen-hebamme-verzoegert-sich-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/tod-eines-babys-urteil-gegen-hebamme-verzoegert-sich",
+      "published": "Fri, 02 Oct 2026 08:30:46 -0000",
+      "published_display": "02.10.2026 · 08:30 Uhr"
+    },
+    {
+      "title": "Kolumne: Machowecz: Warum ich über den Remmo-Clan staune",
+      "summary": "Der Remmo-Clan raubt filmreif und will mit der Linken feiern: Leider dient das alles am Ende nur der AfD.",
+      "image": "https://img.zeit.de/zeit-magazin/2026/42/warum-ich-ueber-den-remmo-clan-staune-teaserbild/original__640x360",
+      "link": "https://www.zeit.de/zeit-magazin/2026/42/remmo-clan-issa-remmo-berlin-linke-partei",
+      "published": "Fri, 02 Oct 2026 08:29:49 -0000",
+      "published_display": "02.10.2026 · 08:29 Uhr"
+    },
+    {
+      "title": "Kriminalität: Drogenfund in Kaiserslautern: Polizei nimmt zwei Männer fest",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/drogenfund-in-kaiserslautern-polizei-nimmt-zwei-maenner-fest-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/drogenfund-in-kaiserslautern-polizei-nimmt-zwei-maenner-fest",
+      "published": "Fri, 02 Oct 2026 08:27:42 -0000",
+      "published_display": "02.10.2026 · 08:27 Uhr"
+    },
+    {
+      "title": "Handelsketten: Metro gibt Kasachstan-Geschäft auf",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/metro-gibt-kasachstan-geschaeft-auf-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/metro-gibt-kasachstan-geschaeft-auf",
+      "published": "Fri, 02 Oct 2026 08:25:42 -0000",
+      "published_display": "02.10.2026 · 08:25 Uhr"
+    },
+    {
+      "title": "Bayerischer Fußball-Verband: 2014er Weltmeister Lahm unterstützt Aktion für mehr Respekt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/2014er-weltmeister-lahm-unterstuetzt-aktion-fuer-mehr-respekt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/2014er-weltmeister-lahm-unterstuetzt-aktion-fuer-mehr-respekt",
+      "published": "Fri, 02 Oct 2026 08:25:25 -0000",
+      "published_display": "02.10.2026 · 08:25 Uhr"
+    },
+    {
+      "title": "Petra Kelly: Petra Kelly – Die Erfinderin der Grünen",
+      "summary": "Petra Kelly war eine Ikone der Friedensbewegung, der Frauenbewegung, der Umweltbewegung. Und zuletzt war sie ein Mordopfer.",
+      "image": "https://img.zeit.de/gesellschaft/2026-10/petra-kelly-gruene-friedensbewegung-bibelpodcast-bild/original__640x360",
+      "link": "https://www.zeit.de/gesellschaft/2026-10/petra-kelly-gruene-friedensbewegung-bibelpodcast",
+      "published": "Fri, 02 Oct 2026 08:22:11 -0000",
+      "published_display": "02.10.2026 · 08:22 Uhr"
+    },
     {
       "title": "Was sollen wir lesen?: »Und wenn es plötzlich aus ist, werde ich sagen: Danke. War schön.«",
       "summary": "ZEIT-Literaturkritiker Volker Weidermann empfiehlt Bücher, die unbedingt lesenswert sind. Mit Elke Heidenreich spricht er über Gedichte, das Altern und Denis Scheck.",
@@ -9,6 +57,14 @@
       "link": "https://www.zeit.de/video/2026-10/literatur-buch-heidenreich-saunders-weidermann",
       "published": "Fri, 02 Oct 2026 08:20:26 -0000",
       "published_display": "02.10.2026 · 08:20 Uhr"
+    },
+    {
+      "title": "Fahndung: Noch keine Spur von flüchtigem Häftling aus Maßregelvollzug",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/noch-keine-spur-von-fluechtigem-haeftling-aus-massregelvollzug-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/noch-keine-spur-von-fluechtigem-haeftling-aus-massregelvollzug",
+      "published": "Fri, 02 Oct 2026 08:19:59 -0000",
+      "published_display": "02.10.2026 · 08:19 Uhr"
     },
     {
       "title": "Ärger beim Erstliga-Absteiger: Wolfsburgs Kapitän Arnold schiebt Frust: «0,0 zufrieden»",
@@ -60,67 +116,11 @@
     },
     {
       "title": "Kaufhauskette Galeria: Galeria stellt erneut Insolvenzantrag",
-      "summary": "Die Warenhauskette Galeria hat beim Amtsgericht Düsseldorf erneut einen Insolvenzantrag gestellt. Der Geschäftsbetrieb in den Filialen soll vorerst weiterlaufen.",
+      "summary": "Die Warenhauskette Galeria hat zum vierten Mal in sechs Jahren einen Insolvenzantrag gestellt. Der Geschäftsbetrieb in den Filialen soll vorerst weiterlaufen.",
       "image": "https://img.zeit.de/wirtschaft/2026-10/imago0859907599h-bild/original__640x360",
       "link": "https://www.zeit.de/wirtschaft/unternehmen/2026-10/galeria-stellt-erneut-insolvenzantrag",
       "published": "Fri, 02 Oct 2026 08:07:29 -0000",
       "published_display": "02.10.2026 · 08:07 Uhr"
-    },
-    {
-      "title": "Unbemannte Systeme: Freuding: Drohnenregiment soll 2029 voll einsatzbereit sein",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/freuding-drohnenregiment-soll-2029-voll-einsatzbereit-sein-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/freuding-drohnenregiment-soll-2029-voll-einsatzbereit-sein",
-      "published": "Fri, 02 Oct 2026 08:06:45 -0000",
-      "published_display": "02.10.2026 · 08:06 Uhr"
-    },
-    {
-      "title": "Außenhandel: Unsichere Maschinen aus China: VDMA fordert Importverbote",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/unsichere-maschinen-aus-china-vdma-fordert-importverbote-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/unsichere-maschinen-aus-china-vdma-fordert-importverbote",
-      "published": "Fri, 02 Oct 2026 08:06:20 -0000",
-      "published_display": "02.10.2026 · 08:06 Uhr"
-    },
-    {
-      "title": "Topspiel gegen Frankfurt: Bayern-Fußballerinnen länger ohne Damnjanovic und Gilles",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/bayern-fussballerinnen-laenger-ohne-damnjanovic-und-gilles-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/bayern-fussballerinnen-laenger-ohne-damnjanovic-und-gilles",
-      "published": "Fri, 02 Oct 2026 08:04:44 -0000",
-      "published_display": "02.10.2026 · 08:04 Uhr"
-    },
-    {
-      "title": "Einzelhandel: Galeria stellt abermals Insolvenzantrag",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/galeria-stellt-erneut-insolvenzantrag-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/galeria-stellt-erneut-insolvenzantrag",
-      "published": "Fri, 02 Oct 2026 08:01:53 -0000",
-      "published_display": "02.10.2026 · 08:01 Uhr"
-    },
-    {
-      "title": "Demonstrationen: Frankreichs Schulprotest hält an – Regierung sucht Ausweg",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/frankreichs-schulprotest-haelt-an-regierung-sucht-ausweg-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/frankreichs-schulprotest-haelt-an-regierung-sucht-ausweg",
-      "published": "Fri, 02 Oct 2026 08:01:26 -0000",
-      "published_display": "02.10.2026 · 08:01 Uhr"
-    },
-    {
-      "title": "Hybrider Angriff auf Deutschland: »Kalt und rational – das ist die einzige Sprache, die Putin versteht«",
-      "summary": "Russland befinde sich längst im Krieg mit der Nato, sagt die Politologin Margarita Šešelgytė. Deutschland müsse das endlich anerkennen und härter gegen Putin vorgehen.",
-      "image": "https://img.zeit.de/feuilleton/2026-10/hybrider-angriff-deutschland-aussenpolitik/original__640x360",
-      "link": "https://www.zeit.de/feuilleton/2026-10/hybrider-angriff-deutschland-aussenpolitik-wladimir-putin",
-      "published": "Fri, 02 Oct 2026 08:00:08 -0000",
-      "published_display": "02.10.2026 · 08:00 Uhr"
-    },
-    {
-      "title": "Metro in Russland: In Putins Händen",
-      "summary": "Im Kampf mit dem Westen greift Russland nach dem größten deutschen Unternehmen im Land. Ein deutscher Manager hilft dabei. Und ein Konkurrent hofft auf Gerhard Schröder.",
-      "image": "https://img.zeit.de/politik/ausland/2026-10/metro-russland-enteignung-regierung-johannes-tholey-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/metro-russland-enteignung-regierung-johannes-tholey",
-      "published": "Fri, 02 Oct 2026 07:59:34 -0000",
-      "published_display": "02.10.2026 · 07:59 Uhr"
     }
   ]
 }
