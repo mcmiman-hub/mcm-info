@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-02T02:18:14.272729+00:00",
+  "updated": "2026-10-02T02:31:37.626010+00:00",
   "items": [
+    {
+      "title": "Fotografie: Bilder des Tages",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/bilder-des-tages-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/bilder-des-tages",
+      "published": "Fri, 02 Oct 2026 02:24:13 -0000",
+      "published_display": "02.10.2026 · 02:24 Uhr"
+    },
+    {
+      "title": "Wahlkampf-Events: Gut einen Monat vor Midterms: Trump startet Wahlkampftour",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/trump-machen-guten-job-aber-schlechte-pr-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/trump-machen-guten-job-aber-schlechte-pr",
+      "published": "Fri, 02 Oct 2026 02:16:54 -0000",
+      "published_display": "02.10.2026 · 02:16 Uhr"
+    },
     {
       "title": "Fall an Elite-Uni: Gruppenvergewaltigung? New York ernennt Sonderermittlerin",
       "summary": "",
@@ -104,22 +120,6 @@
       "image": "https://img.zeit.de/news/2026-10/02/50-cent-pro-stimme-so-zahlt-sich-das-wahlergebnis-aus-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-10/02/50-cent-pro-stimme-so-zahlt-sich-das-wahlergebnis-aus",
       "published": "Fri, 02 Oct 2026 02:00:17 -0000",
-      "published_display": "02.10.2026 · 02:00 Uhr"
-    },
-    {
-      "title": "Wissenschaft: Spannende Entscheidung: Wird die Uni Würzburg Exzellenzuni?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/spannende-entscheidung-wird-die-uni-wuerzburg-exzellenzuni-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/spannende-entscheidung-wird-die-uni-wuerzburg-exzellenzuni",
-      "published": "Fri, 02 Oct 2026 02:00:17 -0000",
-      "published_display": "02.10.2026 · 02:00 Uhr"
-    },
-    {
-      "title": "Auto-Geschichte: Die Trabi-Erben: Internationales Trabant-Register wird 30",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/die-trabi-erben-internationales-trabant-register-wird-30-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/die-trabi-erben-internationales-trabant-register-wird-30",
-      "published": "Fri, 02 Oct 2026 02:00:16 -0000",
       "published_display": "02.10.2026 · 02:00 Uhr"
     }
   ]
