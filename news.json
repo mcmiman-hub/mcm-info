@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-02T19:48:23.750461+00:00",
+  "updated": "2026-10-02T19:58:31.260536+00:00",
   "items": [
+    {
+      "title": "G7-Staaten: Reiche sieht Energiereserve auch nach G7-Freigabe ausreichend gedeckt",
+      "summary": "Um die Energiepreise zu senken, haben die G7 beschlossen, strategische Reserven freizugeben. Für die Energieversorgung bestehe kein Risiko, versichert Katherina Reiche.",
+      "image": "https://img.zeit.de/politik/2026-10/weekly-government-cabinet-meeting-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/g7-oelreserven-diesel-iea-katharina-reiche",
+      "published": "Fri, 02 Oct 2026 19:56:50 -0000",
+      "published_display": "02.10.2026 · 19:56 Uhr"
+    },
+    {
+      "title": "Schulproteste in Frankreich: Schülervertreter in Frankreich distanzieren sich von Gewalt",
+      "summary": "Nach einem Treffen mit dem Bildungsminister distanzieren sich Vertreter der Schulproteste von Gewalt. Schüler und Gewerkschaften wollen die Proteste weiterführen.",
+      "image": "https://img.zeit.de/politik/2026-10/topshot-france-politics-education-demo-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/schulproteste-frankreich-ausschreitungen-renouveau-lyceen-nathanael-combray-edouard-geffray",
+      "published": "Fri, 02 Oct 2026 19:56:41 -0000",
+      "published_display": "02.10.2026 · 19:56 Uhr"
+    },
+    {
+      "title": "Demonstrationen: Mehr als 5.000 Festnahmen bei Schülerprotesten in Frankreich",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/frankreichs-schulprotest-haelt-an-regierung-sucht-ausweg-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/frankreichs-schulprotest-haelt-an-regierung-sucht-ausweg",
+      "published": "Fri, 02 Oct 2026 19:48:58 -0000",
+      "published_display": "02.10.2026 · 19:48 Uhr"
+    },
     {
       "title": "Investitionen im Ausland: Bayer will über 2 Milliarden Dollar in US-Werk investieren",
       "summary": "",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/02/coldmirror-hat-keine-liebe-mehr-fuer-harry-potter",
       "published": "Fri, 02 Oct 2026 18:18:52 -0000",
       "published_display": "02.10.2026 · 18:18 Uhr"
-    },
-    {
-      "title": "Grusel-Frühstart: «Halloween-Haus»in Mettmann eröffnet",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/halloween-haus-in-mettmann-eroeffnet-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/halloween-haus-in-mettmann-eroeffnet",
-      "published": "Fri, 02 Oct 2026 18:16:10 -0000",
-      "published_display": "02.10.2026 · 18:16 Uhr"
-    },
-    {
-      "title": "Einheitsfeier in Bremen: Hunderte bei Antifa-Demo vor Tag der Deutschen Einheit",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/hunderte-bei-antifa-demo-vor-tag-der-deutschen-einheit-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/hunderte-bei-antifa-demo-vor-tag-der-deutschen-einheit",
-      "published": "Fri, 02 Oct 2026 18:13:47 -0000",
-      "published_display": "02.10.2026 · 18:13 Uhr"
-    },
-    {
-      "title": "Jordan Bardella: Das Medium, das Frankreichs Wahlkampf verändern könnte",
-      "summary": "Marine Le Pens Nachfolger Jordan Bardella soll sich antisemitisch geäußert haben. Er dementiert trotz klarer Belege. Das Magazin »Mediapart« kündigt neue Enthüllungen an.",
-      "image": "https://img.zeit.de/feuilleton/2026-10/marine-le-pen-jordan-bardella-rassemblement-national/original__640x360",
-      "link": "https://www.zeit.de/feuilleton/2026-10/jordan-bardella-rassemblent-national-antisemitismus-vorwuerfe-marine-le-pen",
-      "published": "Fri, 02 Oct 2026 18:01:54 -0000",
-      "published_display": "02.10.2026 · 18:01 Uhr"
     }
   ]
 }
