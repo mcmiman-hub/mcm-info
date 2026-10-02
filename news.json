@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-02T05:18:40.381680+00:00",
+  "updated": "2026-10-02T05:33:16.585694+00:00",
   "items": [
+    {
+      "title": "Ermittlungen im Fall der Cornell University : New Yorks Gouverneurin ernennt Sonderermittlerin im Cornell-Fall",
+      "summary": "Eine Sonderermittlerin ist mit den Untersuchungen im Fall Cornell beauftragt worden. Eine Frau wirft sieben Studenten sexuellen Missbrauch vor. Es kam nie zur Anklage.",
+      "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-10/kathy-hochul-cornell-university-mutmassliche-vergewaltigung-letitia-james-foto-1/original__640x360",
+      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-10/kathy-hochul-cornell-university-mutmassliche-vergewaltigung-letitia-james",
+      "published": "Fri, 02 Oct 2026 05:31:35 -0000",
+      "published_display": "02.10.2026 · 05:31 Uhr"
+    },
+    {
+      "title": "Wetter: Bis zu 21 Grad: Überwiegend freundliches Wochenende erwartet",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/bis-zu-21-grad-ueberwiegend-freundliches-wochenende-erwartet-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/bis-zu-21-grad-ueberwiegend-freundliches-wochenende-erwartet",
+      "published": "Fri, 02 Oct 2026 05:17:50 -0000",
+      "published_display": "02.10.2026 · 05:17 Uhr"
+    },
     {
       "title": "Unfälle: Radfahrerin stirbt auf A66 – Ermittlungen laufen",
       "summary": "",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/politik/ausland/2026-05/iran-krieg-donald-trump-hormus-live",
       "published": "Fri, 02 Oct 2026 04:43:29 -0000",
       "published_display": "02.10.2026 · 04:43 Uhr"
-    },
-    {
-      "title": "Seit dem Morgen: Nach Brand: U2 fährt wieder durchgehend",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/nach-brand-u2-faehrt-wieder-durchgehend-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/nach-brand-u2-faehrt-wieder-durchgehend",
-      "published": "Fri, 02 Oct 2026 04:39:56 -0000",
-      "published_display": "02.10.2026 · 04:39 Uhr"
-    },
-    {
-      "title": "Wetterprognose: Mildes Wochenende in NRW – Sonne und Nebel wechseln sich ab",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/mildes-wochenende-in-nrw-sonne-und-nebel-wechseln-sich-ab-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/mildes-wochenende-in-nrw-sonne-und-nebel-wechseln-sich-ab",
-      "published": "Fri, 02 Oct 2026 04:30:55 -0000",
-      "published_display": "02.10.2026 · 04:30 Uhr"
     }
   ]
 }
