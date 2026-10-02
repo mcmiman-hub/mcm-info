@@ -1,7 +1,63 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-02T10:48:19.650456+00:00",
+  "updated": "2026-10-02T10:58:40.446444+00:00",
   "items": [
+    {
+      "title": "Großeinsatz am Jungfernstieg: Vergebliche Suche nach Schwimmer in Binnenalster",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/vergebliche-suche-nach-schwimmer-in-binnenalster-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/vergebliche-suche-nach-schwimmer-in-binnenalster",
+      "published": "Fri, 02 Oct 2026 10:55:29 -0000",
+      "published_display": "02.10.2026 · 10:55 Uhr"
+    },
+    {
+      "title": "Obdachlosigkeit: Neues Straßenkinderhaus öffnet in Berlin",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/neues-strassenkinderhaus-in-berlin-oeffnet-seine-tueren-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/neues-strassenkinderhaus-in-berlin-oeffnet-seine-tueren",
+      "published": "Fri, 02 Oct 2026 10:53:52 -0000",
+      "published_display": "02.10.2026 · 10:53 Uhr"
+    },
+    {
+      "title": "Wetter: Bis zu 24 Grad am Tag der Deutschen Einheit",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/bis-zu-24-grad-am-tag-der-deutschen-einheit-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/bis-zu-24-grad-am-tag-der-deutschen-einheit",
+      "published": "Fri, 02 Oct 2026 10:48:19 -0000",
+      "published_display": "02.10.2026 · 10:48 Uhr"
+    },
+    {
+      "title": "Jungtiere erkunden Außenanlage: Tiger-Drillinge im Tierpark Ströhen geboren",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/tiger-drillinge-im-tierpark-stroehen-geboren-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/tiger-drillinge-im-tierpark-stroehen-geboren",
+      "published": "Fri, 02 Oct 2026 10:48:10 -0000",
+      "published_display": "02.10.2026 · 10:48 Uhr"
+    },
+    {
+      "title": "Brand- und Katastrophenschutz: Feuerwehren besonders häufig wegen Großbränden alarmiert",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/feuerwehren-besonders-haeufig-wegen-grossbraenden-alarmiert-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/feuerwehren-besonders-haeufig-wegen-grossbraenden-alarmiert",
+      "published": "Fri, 02 Oct 2026 10:47:40 -0000",
+      "published_display": "02.10.2026 · 10:47 Uhr"
+    },
+    {
+      "title": "Mehrere beteiligte Fahrzeuge: Vollsperrung auf A8 – kilometerlanger Stau",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/vollsperrung-auf-a8-kilometerlanger-stau-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/vollsperrung-auf-a8-kilometerlanger-stau",
+      "published": "Fri, 02 Oct 2026 10:46:46 -0000",
+      "published_display": "02.10.2026 · 10:46 Uhr"
+    },
+    {
+      "title": "Von Mücken übertragen: Experte zu Sindbis-Fieber: Geringes Risiko in Deutschland",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/experte-zu-sindbis-fieber-geringes-risiko-in-deutschland-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/experte-zu-sindbis-fieber-geringes-risiko-in-deutschland",
+      "published": "Fri, 02 Oct 2026 10:46:43 -0000",
+      "published_display": "02.10.2026 · 10:46 Uhr"
+    },
     {
       "title": "Übernahmepoker: Hugo-Boss-Chef bleibt gelassen trotz Frasers-Beteiligung",
       "summary": "",
@@ -65,62 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/02/hessens-kommunen-warnen-vor-finanzluecken-im-rettungsdienst",
       "published": "Fri, 02 Oct 2026 10:33:21 -0000",
       "published_display": "02.10.2026 · 10:33 Uhr"
-    },
-    {
-      "title": "Öl: Erneut Bohrplattform in Sichtweite Usedoms im Einsatz",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/erneut-bohrplattform-in-sichtweite-usedoms-im-einsatz-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/erneut-bohrplattform-in-sichtweite-usedoms-im-einsatz",
-      "published": "Fri, 02 Oct 2026 10:30:13 -0000",
-      "published_display": "02.10.2026 · 10:30 Uhr"
-    },
-    {
-      "title": "Deutsche Bahn: Bahn beginnt mit Bauarbeiten zwischen Berlin und Hannover",
-      "summary": "Seit dem frühen Morgen ist die Strecke zwischen Berlin und Hannover für 14 Monate gesperrt. Züge werden umgeleitet, Fahrgäste müssen mehr Zeit einplanen.",
-      "image": "https://img.zeit.de/mobilitaet/2026-10/bahn-sanierung-strecke-berlin-lehrte-sperrung-fernverkehr-foto-1/original__640x360",
-      "link": "https://www.zeit.de/mobilitaet/2026-10/deutsche-bahn-sanierung-strecke-berlin-hannover-sperrung-fernverkehr",
-      "published": "Fri, 02 Oct 2026 10:29:16 -0000",
-      "published_display": "02.10.2026 · 10:29 Uhr"
-    },
-    {
-      "title": "Innenministerkonferenz: AfD-Innenminister würde bei der IMK keinen Anschluss finden",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/afd-innenminister-wuerde-bei-der-imk-keinen-anschluss-finden-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/afd-innenminister-wuerde-bei-der-imk-keinen-anschluss-finden",
-      "published": "Fri, 02 Oct 2026 10:26:51 -0000",
-      "published_display": "02.10.2026 · 10:26 Uhr"
-    },
-    {
-      "title": "Zwei Unfälle an einem Tag: E-Scooter-Unfälle in Berlin: 18-Jähriger in Lebensgefahr",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/e-scooter-unfaelle-in-berlin-18-jaehriger-in-lebensgefahr-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/e-scooter-unfaelle-in-berlin-18-jaehriger-in-lebensgefahr",
-      "published": "Fri, 02 Oct 2026 10:24:50 -0000",
-      "published_display": "02.10.2026 · 10:24 Uhr"
-    },
-    {
-      "title": "Protestaktion: Gericht: Kein Platzverweis für Proteste im Voraus",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/gericht-kein-platzverweis-fuer-proteste-im-voraus-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/gericht-kein-platzverweis-fuer-proteste-im-voraus",
-      "published": "Fri, 02 Oct 2026 10:21:23 -0000",
-      "published_display": "02.10.2026 · 10:21 Uhr"
-    },
-    {
-      "title": "Kriminalität: Juwelier in Hamburg ausgeraubt – Polizei sucht mehrere Täter",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/juwelier-in-hamburg-ausgeraubt-polizei-sucht-mehrere-taeter-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/juwelier-in-hamburg-ausgeraubt-polizei-sucht-mehrere-taeter",
-      "published": "Fri, 02 Oct 2026 10:19:04 -0000",
-      "published_display": "02.10.2026 · 10:19 Uhr"
-    },
-    {
-      "title": "Berlin-Wahl: Nachzählung führt zu neuer Zusammensetzung des Abgeordnetenhauses",
-      "summary": "Wegen eines Fehlers bei der Ergebnisübermittlung wurde in einem Wahlkreis in Berlin nachgezählt. Weil AfD statt CDU gewann, muss die Zahl der Sitze neu berechnet werden.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-10/neuauszaehlung-berlin-spandau-wahlkreis-afd-tommy-tabor-cdu-bettina-meissner-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-10/neuauszaehlung-berlin-spandau-wahlkreis-afd-tommy-tabor-cdu-bettina-meissner",
-      "published": "Fri, 02 Oct 2026 10:18:40 -0000",
-      "published_display": "02.10.2026 · 10:18 Uhr"
     }
   ]
 }
