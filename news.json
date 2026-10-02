@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-02T00:51:14.469314+00:00",
+  "updated": "2026-10-02T01:02:40.864979+00:00",
   "items": [
+    {
+      "title": "Festival für Kinderfilm: Premierenfieber zum Auftakt des «Schlingel»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/premierenfieber-zum-auftakt-des-schlingel-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/premierenfieber-zum-auftakt-des-schlingel",
+      "published": "Fri, 02 Oct 2026 01:00:07 -0000",
+      "published_display": "02.10.2026 · 01:00 Uhr"
+    },
     {
       "title": "Wahlkampf-Events: Gut einen Monat vor Midterms: Trump startet Wahlkampftour",
       "summary": "",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/sport/2026-10/nations-league-deutschland-serbien-drittes-spiel",
       "published": "Thu, 01 Oct 2026 21:01:51 -0000",
       "published_display": "01.10.2026 · 21:01 Uhr"
-    },
-    {
-      "title": "Fußball-Nationalmannschaft: Mika Baur ist der 1000. deutsche Nationalspieler",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/01/mika-baur-ist-der-1000-deutsche-nationalspieler-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/01/mika-baur-ist-der-1000-deutsche-nationalspieler",
-      "published": "Thu, 01 Oct 2026 20:59:41 -0000",
-      "published_display": "01.10.2026 · 20:59 Uhr"
     }
   ]
 }
