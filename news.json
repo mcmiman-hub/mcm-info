@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-02T20:58:28.755595+00:00",
+  "updated": "2026-10-02T21:18:23.891846+00:00",
   "items": [
+    {
+      "title": "Christa Pike: Zum Tode verurteilte Frau nach gescheiterter Hinrichtung bewusstlos",
+      "summary": "Die 50-jährige Christa Pike befindet sich nach dem gescheiterten Hinrichtungsversuch in Tennessee weiter in kritischem Zustand. Sie hat zuvor zwei Giftspritzen überlebt.",
+      "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-10/christa-pike-hinrichtung-tennessee-todesstrafe-foto-1/original__640x360",
+      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-10/christa-pike-hinrichtung-tennessee-todesstrafe",
+      "published": "Fri, 02 Oct 2026 21:01:34 -0000",
+      "published_display": "02.10.2026 · 21:01 Uhr"
+    },
+    {
+      "title": "Unfall: Frau erfasst Ehemann beim Parken - lebensgefährlich verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/frau-erfasst-ehemann-beim-parken-lebensgefaehrlich-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/frau-erfasst-ehemann-beim-parken-lebensgefaehrlich-verletzt",
+      "published": "Fri, 02 Oct 2026 21:01:04 -0000",
+      "published_display": "02.10.2026 · 21:01 Uhr"
+    },
     {
       "title": "Botsuana: Tierschützer kritisieren Regierung Botsuanas für Tötung von Elefanten",
       "summary": "Die botsuanische Regierung hat anlässlich der Feier des 60. Jahrestag der Unabhängigkeit des Landes die Tötung von 23 Elefanten erlaubt. Von Tierschützern kam Kritik.",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/02/pleite-und-flutlicht-ausfall-dresden-verliert-in-teplice",
       "published": "Fri, 02 Oct 2026 18:35:19 -0000",
       "published_display": "02.10.2026 · 18:35 Uhr"
-    },
-    {
-      "title": "Fotografie: Bilder des Tages",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/bilder-des-tages-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/bilder-des-tages",
-      "published": "Fri, 02 Oct 2026 18:31:06 -0000",
-      "published_display": "02.10.2026 · 18:31 Uhr"
-    },
-    {
-      "title": "Ministerpräsident in Kroatien: Flugzeug zeigte Fehler an - Söder-Rückreise verzögerte sich",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/flugzeug-zeigt-fehler-an-soeder-rueckreise-verzoegert-sich-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/flugzeug-zeigt-fehler-an-soeder-rueckreise-verzoegert-sich",
-      "published": "Fri, 02 Oct 2026 18:25:55 -0000",
-      "published_display": "02.10.2026 · 18:25 Uhr"
     }
   ]
 }
