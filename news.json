@@ -1,7 +1,55 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-02T16:37:01.758495+00:00",
+  "updated": "2026-10-02T16:51:32.105151+00:00",
   "items": [
+    {
+      "title": "Badeunfälle: Suche nach Frau in Dresdner Kiesgrube fortgesetzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/suche-nach-frau-in-dresdner-kiesgrube-fortgesetzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/suche-nach-frau-in-dresdner-kiesgrube-fortgesetzt",
+      "published": "Fri, 02 Oct 2026 16:47:34 -0000",
+      "published_display": "02.10.2026 · 16:47 Uhr"
+    },
+    {
+      "title": "Nahost-Konflikt: Warnung vor Demo am Jahrestag des Hamas-Überfalls",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/warnung-vor-demo-am-jahrestag-des-hamas-ueberfalls-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/warnung-vor-demo-am-jahrestag-des-hamas-ueberfalls",
+      "published": "Fri, 02 Oct 2026 16:43:36 -0000",
+      "published_display": "02.10.2026 · 16:43 Uhr"
+    },
+    {
+      "title": "Nach der Wahl in Berlin: Wahlleiter: Das Berliner Parlament wird kleiner",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/wahlkreisergebnis-geaendert-afd-holt-direktmandat-statt-cdu-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/wahlkreisergebnis-geaendert-afd-holt-direktmandat-statt-cdu",
+      "published": "Fri, 02 Oct 2026 16:43:08 -0000",
+      "published_display": "02.10.2026 · 16:43 Uhr"
+    },
+    {
+      "title": "Offshore-Windkraft: Ölkonzerne wollten Mega-Windparks im Meer bauen. Nun blockieren sie",
+      "summary": "Auf hoher See entstehen kaum noch neue Windräder – auch weil BP und TotalEnergies sich verzockt haben und ihre Pläne brachliegen. Es drohen jahrelange Verzögerungen.",
+      "image": "https://img.zeit.de/wirtschaft/2026-09/offshore-windkraft-wirtschaft-gesetzvorhaben-krise-bild/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/2026-09/offshore-windkraft-wirtschaft-gesetzvorhaben-krise",
+      "published": "Fri, 02 Oct 2026 16:42:17 -0000",
+      "published_display": "02.10.2026 · 16:42 Uhr"
+    },
+    {
+      "title": "Lage in der Ukraine: Wenn Drohnen Nahrung bringen müssen",
+      "summary": "In der blockierten Frontstadt Oleschky leiden Tausende an Hunger. Nicht nur dort wird sichtbar, wie der Krieg sich zunehmend gegen Zivilisten richtet. Der Wochenrückblick",
+      "image": "https://img.zeit.de/politik/ausland/2026-10/ukraine-lage-oleschky-humanitaere-notlage-woche/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/ukraine-lage-oleschky-humanitaere-notlage-fp7-rakete-woche",
+      "published": "Fri, 02 Oct 2026 16:40:53 -0000",
+      "published_display": "02.10.2026 · 16:40 Uhr"
+    },
+    {
+      "title": "Exzellenzuniversitäten: Mehrere Hochschulen zu Exzellenzuniversitäten gekürt",
+      "summary": "Acht weitere Hochschulen in Deutschland rücken in die Riege der sogenannten Exzellenzuniversitäten auf. Sie kommen in den Genuss von Fördergeldern in Millionenhöhe.",
+      "image": "https://img.zeit.de/bildung/2026-10/exzellenzuniversitaeten-exzellenzstrategie-foerderung-cluster-foto-1/original__640x360",
+      "link": "https://www.zeit.de/bildung/2026-10/exzellenzuniversitaeten-exzellenzstrategie-foerderung-cluster",
+      "published": "Fri, 02 Oct 2026 16:39:33 -0000",
+      "published_display": "02.10.2026 · 16:39 Uhr"
+    },
     {
       "title": "Fußball-Nationalmannschaft: Klopp reist ohne Kapitän Gnabry nach Griechenland",
       "summary": "",
@@ -33,14 +81,6 @@
       "link": "https://www.zeit.de/news/2026-10/02/niedersachsen-geht-bei-auswahl-der-exzellenz-unis-leer-aus",
       "published": "Fri, 02 Oct 2026 16:29:21 -0000",
       "published_display": "02.10.2026 · 16:29 Uhr"
-    },
-    {
-      "title": "Exzellenzuniversitäten: Mehrere Hochschulen zu Exzellenzuniversitäten gekürt",
-      "summary": "Acht weitere Hochschulen in Deutschland rücken in die Riege der sogenannten Exzellenzuniversitäten auf. Sie kommen sie in den Genuss von Fördergeldern in Millionenhöhe.",
-      "image": "https://img.zeit.de/bildung/2026-10/exzellenzuniversitaeten-exzellenzstrategie-foerderung-cluster-foto-1/original__640x360",
-      "link": "https://www.zeit.de/bildung/2026-10/exzellenzuniversitaeten-exzellenzstrategie-foerderung-cluster",
-      "published": "Fri, 02 Oct 2026 16:26:19 -0000",
-      "published_display": "02.10.2026 · 16:26 Uhr"
     },
     {
       "title": "Einzelhandel: Warenhauskette Galeria stellt abermals Insolvenzantrag",
@@ -81,46 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/02/premierenfieber-zum-auftakt-des-schlingel",
       "published": "Fri, 02 Oct 2026 16:14:45 -0000",
       "published_display": "02.10.2026 · 16:14 Uhr"
-    },
-    {
-      "title": "Insolvenzverfahren beantragt: Galeria-Betriebsrat will um Arbeitsplätze kämpfen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/galeria-betriebsrat-will-um-arbeitsplaetze-kaempfen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/galeria-betriebsrat-will-um-arbeitsplaetze-kaempfen",
-      "published": "Fri, 02 Oct 2026 16:13:34 -0000",
-      "published_display": "02.10.2026 · 16:13 Uhr"
-    },
-    {
-      "title": "Kriminalität: Männer sollen Schüsse mit «Kriegswaffen» geplant haben",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/maenner-sollen-schuesse-mit-kriegswaffen-geplant-haben-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/maenner-sollen-schuesse-mit-kriegswaffen-geplant-haben",
-      "published": "Fri, 02 Oct 2026 16:12:23 -0000",
-      "published_display": "02.10.2026 · 16:12 Uhr"
-    },
-    {
-      "title": "Bahn-Generalsanierung: Umleitungsstrecke bei Magdeburg war vorübergehend gesperrt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/umleitungsstrecke-bei-magdeburg-war-voruebergehend-gesperrt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/umleitungsstrecke-bei-magdeburg-war-voruebergehend-gesperrt",
-      "published": "Fri, 02 Oct 2026 16:01:08 -0000",
-      "published_display": "02.10.2026 · 16:01 Uhr"
-    },
-    {
-      "title": "Wer? Wie? Warum?: Streit um Buchhandlungspreis: Weimer präsentiert Chronologie",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/buchhandlungspreis-abgeordneter-will-aufklaerung-von-weimer-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/buchhandlungspreis-abgeordneter-will-aufklaerung-von-weimer",
-      "published": "Fri, 02 Oct 2026 16:01:00 -0000",
-      "published_display": "02.10.2026 · 16:01 Uhr"
-    },
-    {
-      "title": "Ministerpräsident in Kroatien: Flugzeug zeigt Fehler an - Söder-Rückreise verzögert sich",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/flugzeug-zeigt-fehler-an-soeder-rueckreise-verzoegert-sich-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/flugzeug-zeigt-fehler-an-soeder-rueckreise-verzoegert-sich",
-      "published": "Fri, 02 Oct 2026 15:59:41 -0000",
-      "published_display": "02.10.2026 · 15:59 Uhr"
     }
   ]
 }
