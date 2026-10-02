@@ -1,22 +1,70 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-02T17:57:34.108879+00:00",
+  "updated": "2026-10-02T18:22:59.503782+00:00",
   "items": [
-    {
-      "title": "Deutscher Buchhandlungspreis: Weimer legt in Streit um Buchhandlungspreis Entscheidungsprozess offen",
-      "summary": "Ein Medienbericht weckt Zweifel an Wolfram Weimers Erklärung für den Ausschluss dreier linker Buchläden vom Buchhandlungspreis. Nun legt sein Haus die Abläufe offen.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-10/deutscher-buchhandlungspreis-wolfram-weimer-linke-buchlaeden-verfassungsschutz-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-10/deutscher-buchhandlungspreis-wolfram-weimer-linke-buchlaeden-verfassungsschutz",
-      "published": "Fri, 02 Oct 2026 17:52:05 -0000",
-      "published_display": "02.10.2026 · 17:52 Uhr"
-    },
     {
       "title": "Bundesrechnungshof: Rentenzahlungen verbrauchen immer mehr Steuereinnahmen",
       "summary": "Laut dem Bundesrechnungshof fließen im Jahr 2040 36,7 Prozent der Steuern in die Rentenkasse. Durch das Rentenreformpaket könnten es demnach sogar fast 46 Prozent werden.",
       "image": "https://img.zeit.de/wirtschaft/2026-10/bundesrechnungshof-rentenversicherung-zahlungen-bundeshaushalt-2040-foto-1/original__640x360",
       "link": "https://www.zeit.de/wirtschaft/2026-10/bundesrechnungshof-rentenversicherung-zahlungen-bundeshaushalt-2040",
-      "published": "Fri, 02 Oct 2026 17:51:29 -0000",
-      "published_display": "02.10.2026 · 17:51 Uhr"
+      "published": "Fri, 02 Oct 2026 18:20:02 -0000",
+      "published_display": "02.10.2026 · 18:20 Uhr"
+    },
+    {
+      "title": "Deutscher Buchhandlungspreis: Weimer legt in Streit um Buchhandlungspreis Entscheidungsprozess offen",
+      "summary": "Ein Medienbericht weckt Zweifel an Wolfram Weimers Erklärung für den Ausschluss dreier linker Buchläden vom Buchhandlungspreis. Nun legt sein Haus die Abläufe offen.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-10/deutscher-buchhandlungspreis-wolfram-weimer-linke-buchlaeden-verfassungsschutz-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-10/deutscher-buchhandlungspreis-wolfram-weimer-linke-buchlaeden-verfassungsschutz",
+      "published": "Fri, 02 Oct 2026 18:19:42 -0000",
+      "published_display": "02.10.2026 · 18:19 Uhr"
+    },
+    {
+      "title": "Wasserball: Debakel im Supercup: Spandau unterliegt Waspo deutlich",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/debakel-im-supercup-spandau-unterliegt-waspo-deutlich-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/debakel-im-supercup-spandau-unterliegt-waspo-deutlich",
+      "published": "Fri, 02 Oct 2026 18:19:08 -0000",
+      "published_display": "02.10.2026 · 18:19 Uhr"
+    },
+    {
+      "title": "YouTuberin: Coldmirror hat «keine Liebe mehr» für Harry Potter",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/coldmirror-hat-keine-liebe-mehr-fuer-harry-potter-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/coldmirror-hat-keine-liebe-mehr-fuer-harry-potter",
+      "published": "Fri, 02 Oct 2026 18:18:52 -0000",
+      "published_display": "02.10.2026 · 18:18 Uhr"
+    },
+    {
+      "title": "Grusel-Frühstart: «Halloween-Haus»in Mettmann eröffnet",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/halloween-haus-in-mettmann-eroeffnet-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/halloween-haus-in-mettmann-eroeffnet",
+      "published": "Fri, 02 Oct 2026 18:16:10 -0000",
+      "published_display": "02.10.2026 · 18:16 Uhr"
+    },
+    {
+      "title": "Einheitsfeier in Bremen: Hunderte bei Antifa-Demo vor Tag der Deutschen Einheit",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/hunderte-bei-antifa-demo-vor-tag-der-deutschen-einheit-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/hunderte-bei-antifa-demo-vor-tag-der-deutschen-einheit",
+      "published": "Fri, 02 Oct 2026 18:13:47 -0000",
+      "published_display": "02.10.2026 · 18:13 Uhr"
+    },
+    {
+      "title": "Jordan Bardella: Das Medium, das Frankreichs Wahlkampf verändern könnte",
+      "summary": "Marine Le Pens Nachfolger Jordan Bardella soll sich antisemitisch geäußert haben. Er dementiert trotz klarer Belege. Das Magazin »Mediapart« kündigt neue Enthüllungen an.",
+      "image": "https://img.zeit.de/feuilleton/2026-10/marine-le-pen-jordan-bardella-rassemblement-national/original__640x360",
+      "link": "https://www.zeit.de/feuilleton/2026-10/jordan-bardella-rassemblent-national-antisemitismus-vorwuerfe-marine-le-pen",
+      "published": "Fri, 02 Oct 2026 18:01:54 -0000",
+      "published_display": "02.10.2026 · 18:01 Uhr"
+    },
+    {
+      "title": "Schwarz-rote Koalition: Wie damals bei der Ampel",
+      "summary": "Der Streit über die Zuckersteuer zeigt: Union und SPD haben das Vertrauen verloren, dass es dem anderen um die Sache gehen könnte. Erst das Land, dann die Partei? Vorbei.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-10/schwarz-rote-koalition-bundesregierung-konflikte-spd-union-ampelkoalition-bild-2/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-10/schwarz-rote-koalition-bundesregierung-konflikte-spd-union-ampelkoalition",
+      "published": "Fri, 02 Oct 2026 18:01:20 -0000",
+      "published_display": "02.10.2026 · 18:01 Uhr"
     },
     {
       "title": "Großbrand im Saalekreis: Brennende Lagerhalle - Löscharbeiten beendet",
@@ -73,54 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/02/testspiel-debakel-fuer-werder-in-enschede",
       "published": "Fri, 02 Oct 2026 17:01:54 -0000",
       "published_display": "02.10.2026 · 17:01 Uhr"
-    },
-    {
-      "title": "Frontaler Zusammenstoß: Motorradfahrer bei Unfall in der Eifel schwer verletzt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/motorradfahrer-bei-unfall-in-der-eifel-schwer-verletzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/motorradfahrer-bei-unfall-in-der-eifel-schwer-verletzt",
-      "published": "Fri, 02 Oct 2026 17:01:30 -0000",
-      "published_display": "02.10.2026 · 17:01 Uhr"
-    },
-    {
-      "title": "Brandstiftung in Frankreich: Sie zündeln trotz erhöhter Waldbrandgefahr",
-      "summary": "Im Extremhitzesommer brannte es in mehreren Teilen Frankreichs. Nun stehen die Verursacher der Großbrände vor Gericht. Viele eint ihre Faszination für die Flammen.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/brandstiftung-frankreich-feuer-waldbraende-prozess-bild-3/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/brandstiftung-frankreich-feuer-waldbraende-prozess",
-      "published": "Fri, 02 Oct 2026 16:54:33 -0000",
-      "published_display": "02.10.2026 · 16:54 Uhr"
-    },
-    {
-      "title": "Badeunfälle: Suche nach Frau in Dresdner Kiesgrube fortgesetzt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/suche-nach-frau-in-dresdner-kiesgrube-fortgesetzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/suche-nach-frau-in-dresdner-kiesgrube-fortgesetzt",
-      "published": "Fri, 02 Oct 2026 16:47:34 -0000",
-      "published_display": "02.10.2026 · 16:47 Uhr"
-    },
-    {
-      "title": "Nahost-Konflikt: Warnung vor Demo am Jahrestag des Hamas-Überfalls",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/warnung-vor-demo-am-jahrestag-des-hamas-ueberfalls-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/warnung-vor-demo-am-jahrestag-des-hamas-ueberfalls",
-      "published": "Fri, 02 Oct 2026 16:43:36 -0000",
-      "published_display": "02.10.2026 · 16:43 Uhr"
-    },
-    {
-      "title": "Nach der Wahl in Berlin: Wahlleiter: Das Berliner Parlament wird kleiner",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/wahlkreisergebnis-geaendert-afd-holt-direktmandat-statt-cdu-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/wahlkreisergebnis-geaendert-afd-holt-direktmandat-statt-cdu",
-      "published": "Fri, 02 Oct 2026 16:43:08 -0000",
-      "published_display": "02.10.2026 · 16:43 Uhr"
-    },
-    {
-      "title": "Offshore-Windkraft: Ölkonzerne wollten Mega-Windparks im Meer bauen. Nun blockieren sie",
-      "summary": "Auf hoher See entstehen kaum noch neue Windräder – auch weil BP und TotalEnergies sich verzockt haben und ihre Pläne brachliegen. Es drohen jahrelange Verzögerungen.",
-      "image": "https://img.zeit.de/wirtschaft/2026-09/offshore-windkraft-wirtschaft-gesetzvorhaben-krise-bild/original__640x360",
-      "link": "https://www.zeit.de/wirtschaft/2026-09/offshore-windkraft-wirtschaft-gesetzvorhaben-krise",
-      "published": "Fri, 02 Oct 2026 16:42:17 -0000",
-      "published_display": "02.10.2026 · 16:42 Uhr"
     }
   ]
 }
