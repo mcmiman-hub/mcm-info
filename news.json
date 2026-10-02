@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-02T18:49:52.969880+00:00",
+  "updated": "2026-10-02T19:01:14.713239+00:00",
   "items": [
+    {
+      "title": "Wetter: Unwetter trifft Ägäis mit voller Wucht: Blitz tötet Deutsche",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/361-liter-regen-unwetter-trifft-aegaeis-mit-voller-wucht-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/361-liter-regen-unwetter-trifft-aegaeis-mit-voller-wucht",
+      "published": "Fri, 02 Oct 2026 18:49:25 -0000",
+      "published_display": "02.10.2026 · 18:49 Uhr"
+    },
     {
       "title": "Niederlande: Niederländisches Königshaus hat sich lange an Kolonialismus bereichert",
       "summary": "Laut einer Studie hat das niederländische Königshaus umgerechnet 500 Millionen Euro am Kolonialismus verdient. Der König nannte das Fazit »schmerzvoll und aufwühlend«.",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/wirtschaft/2026-10/g7-wollen-bis-zu-100-millionen-barrel-diesel-und-rohoel-freigeben",
       "published": "Fri, 02 Oct 2026 17:31:27 -0000",
       "published_display": "02.10.2026 · 17:31 Uhr"
-    },
-    {
-      "title": "Krieg gegen die Ukraine: Südbrücke in Kyjiw erneut von russischer Drohne getroffen",
-      "summary": "Erneut hat eine russische Drohne die Südbrücke über den Dnipro in Kyjiw attackiert. Bürgermeister Klitschko sagt, die Lage in der Hauptstadt sei kritisch. Das Liveblog",
-      "image": "https://img.zeit.de/politik/ausland/2026-10/ukraine-krieg-news-liveblog-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "published": "Fri, 02 Oct 2026 17:28:34 -0000",
-      "published_display": "02.10.2026 · 17:28 Uhr"
     }
   ]
 }
