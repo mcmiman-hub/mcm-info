@@ -1,7 +1,71 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-02T09:50:43.827600+00:00",
+  "updated": "2026-10-02T09:59:30.257088+00:00",
   "items": [
+    {
+      "title": "Alexander Schweitzer: »Die härteste Konkurrenz für die SPD ist Unklarheit«",
+      "summary": "SPD-Vize Alexander Schweitzer kritisiert die Reformen der Bundesregierung und sieht bei der Union Kompromissbereitschaft. Seine Partei solle von der Labour-Partei lernen.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/imago0823349747h-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-09/alexander-schweitzer-spd-reform-bundesregierung-friedrich-merz",
+      "published": "Fri, 02 Oct 2026 09:56:29 -0000",
+      "published_display": "02.10.2026 · 09:56 Uhr"
+    },
+    {
+      "title": "Kriminalität: Zwei Festnahmen nach Einbruch in Waffengeschäft",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/polizei-warnt-vor-fluechtigen-einbrechern-im-raum-mittenwald-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/polizei-warnt-vor-fluechtigen-einbrechern-im-raum-mittenwald",
+      "published": "Fri, 02 Oct 2026 09:54:37 -0000",
+      "published_display": "02.10.2026 · 09:54 Uhr"
+    },
+    {
+      "title": "Sachsen-Anhalt: SPD schlägt Willingmann als Vizepräsidenten im Landtag vor",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/spd-schlaegt-willingmann-als-vizepraesidenten-im-landtag-vor-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/spd-schlaegt-willingmann-als-vizepraesidenten-im-landtag-vor",
+      "published": "Fri, 02 Oct 2026 09:51:45 -0000",
+      "published_display": "02.10.2026 · 09:51 Uhr"
+    },
+    {
+      "title": "Tödliche Schüsse in Oldenburg: Gericht bestellt Polizeipsychologen im Fall Lorenz",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/gericht-bestellt-polizeipsychologen-im-fall-lorenz-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/gericht-bestellt-polizeipsychologen-im-fall-lorenz",
+      "published": "Fri, 02 Oct 2026 09:50:56 -0000",
+      "published_display": "02.10.2026 · 09:50 Uhr"
+    },
+    {
+      "title": "Logistik: Zu wenig Wasser: Häfen schlagen weniger Güter um",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/zu-wenig-wasser-haefen-schlagen-weniger-gueter-um-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/zu-wenig-wasser-haefen-schlagen-weniger-gueter-um",
+      "published": "Fri, 02 Oct 2026 09:50:08 -0000",
+      "published_display": "02.10.2026 · 09:50 Uhr"
+    },
+    {
+      "title": "«EZB wird Zinsen anheben»: Iran-Krieg treibt Inflation im Euroraum auf Drei-Jahres-Hoch",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/iran-krieg-treibt-inflation-im-euroraum-auf-drei-jahres-hoch-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/iran-krieg-treibt-inflation-im-euroraum-auf-drei-jahres-hoch",
+      "published": "Fri, 02 Oct 2026 09:49:01 -0000",
+      "published_display": "02.10.2026 · 09:49 Uhr"
+    },
+    {
+      "title": "Ermittlungen abgeschlossen: Tod auf dem Spielplatz: Mordanklage nach Angriff auf Ehefrau",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/tod-auf-dem-spielplatz-mordanklage-nach-angriff-auf-ehefrau-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/tod-auf-dem-spielplatz-mordanklage-nach-angriff-auf-ehefrau",
+      "published": "Fri, 02 Oct 2026 09:49:01 -0000",
+      "published_display": "02.10.2026 · 09:49 Uhr"
+    },
+    {
+      "title": "Große Nachfrage: Harry Styles kündigt weitere Zusatzshow in Berlin an",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/harry-styles-kuendigt-weitere-zusatzshow-in-berlin-an-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/harry-styles-kuendigt-weitere-zusatzshow-in-berlin-an",
+      "published": "Fri, 02 Oct 2026 09:48:20 -0000",
+      "published_display": "02.10.2026 · 09:48 Uhr"
+    },
     {
       "title": "Spritpreise: Polen führt Übergewinnsteuer für Mineralölkonzerne ein",
       "summary": "",
@@ -43,14 +107,6 @@
       "published_display": "02.10.2026 · 09:42 Uhr"
     },
     {
-      "title": "Große Nachfrage: Harry Styles kündigt weitere Zusatzshow in Berlin an",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/harry-styles-kuendigt-weitere-zusatzshow-in-berlin-an-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/harry-styles-kuendigt-weitere-zusatzshow-in-berlin-an",
-      "published": "Fri, 02 Oct 2026 09:42:30 -0000",
-      "published_display": "02.10.2026 · 09:42 Uhr"
-    },
-    {
       "title": "Nach der Wahl in Berlin: Wahlkreisergebnis geändert - AfD holt Direktmandat statt CDU",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-10/02/wahlkreisergebnis-geaendert-afd-holt-direktmandat-statt-cdu-image-group/original__640x360",
@@ -65,62 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/02/ns-relikte-bei-durchsuchungen-in-unterfranken-entdeckt",
       "published": "Fri, 02 Oct 2026 09:37:10 -0000",
       "published_display": "02.10.2026 · 09:37 Uhr"
-    },
-    {
-      "title": "Fall in Euskirchen: Frauenleiche gefunden - Staatsanwalt prüft Haftbefehl",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/frauenleiche-gefunden-staatsanwalt-prueft-haftbefehl-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/frauenleiche-gefunden-staatsanwalt-prueft-haftbefehl",
-      "published": "Fri, 02 Oct 2026 09:34:13 -0000",
-      "published_display": "02.10.2026 · 09:34 Uhr"
-    },
-    {
-      "title": "Kundgebung in Fürstenwalde: AfD-Politiker Höcke und Protest am Einheits-Tag erwartet",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/afd-politiker-hoecke-und-protest-am-einheits-tag-erwartet-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/afd-politiker-hoecke-und-protest-am-einheits-tag-erwartet",
-      "published": "Fri, 02 Oct 2026 09:33:20 -0000",
-      "published_display": "02.10.2026 · 09:33 Uhr"
-    },
-    {
-      "title": "Auftreten der Polizei: Tattoos und Turban: Welche Regeln für Polizisten gelten",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/tattoos-und-turban-welche-regeln-fuer-polizisten-gelten-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/tattoos-und-turban-welche-regeln-fuer-polizisten-gelten",
-      "published": "Fri, 02 Oct 2026 09:31:28 -0000",
-      "published_display": "02.10.2026 · 09:31 Uhr"
-    },
-    {
-      "title": "Regionaler Zugverkehr: Sachsen vor Einschnitten im regionalen Bahnverkehr",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/sachsen-vor-einschnitten-im-regionalen-bahnverkehr-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/sachsen-vor-einschnitten-im-regionalen-bahnverkehr",
-      "published": "Fri, 02 Oct 2026 09:29:12 -0000",
-      "published_display": "02.10.2026 · 09:29 Uhr"
-    },
-    {
-      "title": "«EZB wird Zinsen anheben»: Iran-Krieg treibt Inflation im Euroraum auf Drei-Jahres-Hoch",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/iran-krieg-treibt-inflation-im-euroraum-auf-drei-jahres-hoch-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/iran-krieg-treibt-inflation-im-euroraum-auf-drei-jahres-hoch",
-      "published": "Fri, 02 Oct 2026 09:29:09 -0000",
-      "published_display": "02.10.2026 · 09:29 Uhr"
-    },
-    {
-      "title": "Fußball-Nationalmannschaft: Endlich «Heavy Metal»: Was der erste Sieg für Klopp bedeutet",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/auch-ohne-bier-fuenf-gruende-fuer-klopp-happy-zu-sein-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/auch-ohne-bier-fuenf-gruende-fuer-klopp-happy-zu-sein",
-      "published": "Fri, 02 Oct 2026 09:28:34 -0000",
-      "published_display": "02.10.2026 · 09:28 Uhr"
-    },
-    {
-      "title": "Oktoberfest: Upskirting auf der Wiesn - die Probleme für Ermittler",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/upskirting-auf-der-wiesn-die-probleme-fuer-ermittler-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/upskirting-auf-der-wiesn-die-probleme-fuer-ermittler",
-      "published": "Fri, 02 Oct 2026 09:28:28 -0000",
-      "published_display": "02.10.2026 · 09:28 Uhr"
     }
   ]
 }
