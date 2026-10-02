@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-02T17:33:52.623870+00:00",
+  "updated": "2026-10-02T17:47:10.302363+00:00",
   "items": [
+    {
+      "title": "Großbrand im Saalekreis: Brennende Lagerhalle - Löscharbeiten beendet",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/brennende-lagerhalle-im-saalekreis-loescharbeiten-dauern-an-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/brennende-lagerhalle-im-saalekreis-loescharbeiten-dauern-an",
+      "published": "Fri, 02 Oct 2026 17:34:11 -0000",
+      "published_display": "02.10.2026 · 17:34 Uhr"
+    },
+    {
+      "title": "Deutscher Buchhandlungspreis: Weimer legt in Streit um Buchhandlungspreis Entscheidungsprozess offen",
+      "summary": "Ein Medienbericht weckt Zweifel an Wolfram Weimers Erklärung für den Ausschluss dreier linker Buchläden vom Buchhandlungspreis. Nun legt sein Haus die Abläufe offen.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-10/deutscher-buchhandlungspreis-wolfram-weimer-linke-buchlaeden-verfassungsschutz-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-10/deutscher-buchhandlungspreis-wolfram-weimer-linke-buchlaeden-verfassungsschutz",
+      "published": "Fri, 02 Oct 2026 17:33:54 -0000",
+      "published_display": "02.10.2026 · 17:33 Uhr"
+    },
     {
       "title": "Energiekrise: G7 wollen bis zu 100 Millionen Barrel Diesel und Rohöl freigeben",
       "summary": "Um die hohen Energiepreise zu senken, haben die G7 beschlossen, strategische Reserven freizugeben. Außerdem sollen Produktionsbedingungen flexibler werden.",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/wirtschaft/2026-09/offshore-windkraft-wirtschaft-gesetzvorhaben-krise",
       "published": "Fri, 02 Oct 2026 16:42:17 -0000",
       "published_display": "02.10.2026 · 16:42 Uhr"
-    },
-    {
-      "title": "Lage in der Ukraine: Wenn Drohnen Nahrung bringen müssen",
-      "summary": "In der blockierten Frontstadt Oleschky leiden Tausende an Hunger. Nicht nur dort wird sichtbar, wie der Krieg sich zunehmend gegen Zivilisten richtet. Der Wochenrückblick",
-      "image": "https://img.zeit.de/politik/ausland/2026-10/ukraine-lage-oleschky-humanitaere-notlage-woche/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/ukraine-lage-oleschky-humanitaere-notlage-fp7-rakete-woche",
-      "published": "Fri, 02 Oct 2026 16:40:53 -0000",
-      "published_display": "02.10.2026 · 16:40 Uhr"
-    },
-    {
-      "title": "Exzellenzuniversitäten: Mehrere Hochschulen zu Exzellenzuniversitäten gekürt",
-      "summary": "Acht weitere Hochschulen in Deutschland rücken in die Riege der sogenannten Exzellenzuniversitäten auf. Sie kommen in den Genuss von Fördergeldern in Millionenhöhe.",
-      "image": "https://img.zeit.de/bildung/2026-10/exzellenzuniversitaeten-exzellenzstrategie-foerderung-cluster-foto-1/original__640x360",
-      "link": "https://www.zeit.de/bildung/2026-10/exzellenzuniversitaeten-exzellenzstrategie-foerderung-cluster",
-      "published": "Fri, 02 Oct 2026 16:39:33 -0000",
-      "published_display": "02.10.2026 · 16:39 Uhr"
     }
   ]
 }
