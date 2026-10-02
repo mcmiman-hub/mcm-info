@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-02T20:47:19.431665+00:00",
+  "updated": "2026-10-02T20:58:28.755595+00:00",
   "items": [
+    {
+      "title": "Botsuana: Tierschützer kritisieren Regierung Botsuanas für Tötung von Elefanten",
+      "summary": "Die botsuanische Regierung hat anlässlich der Feier des 60. Jahrestag der Unabhängigkeit des Landes die Tötung von 23 Elefanten erlaubt. Von Tierschützern kam Kritik.",
+      "image": "https://img.zeit.de/wissenschaft/2026-10/botswana-conservation-elephant-bild/original__640x360",
+      "link": "https://www.zeit.de/wissenschaft/umwelt/2026-10/botsuana-elefanten-abschuss-tierschuetzer-unabhaengigkeit",
+      "published": "Fri, 02 Oct 2026 20:57:24 -0000",
+      "published_display": "02.10.2026 · 20:57 Uhr"
+    },
+    {
+      "title": "Nations League: Ein Volksheld tritt ab: Emotionaler Dzeko-Abschied",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/ein-volksheld-tritt-ab-emotionaler-dzeko-abschied-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/ein-volksheld-tritt-ab-emotionaler-dzeko-abschied",
+      "published": "Fri, 02 Oct 2026 20:48:08 -0000",
+      "published_display": "02.10.2026 · 20:48 Uhr"
+    },
     {
       "title": "Karibik: US-Küstenwache stoppt Schiff mit Treibstoff für Kuba",
       "summary": "",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/02/flugzeug-zeigt-fehler-an-soeder-rueckreise-verzoegert-sich",
       "published": "Fri, 02 Oct 2026 18:25:55 -0000",
       "published_display": "02.10.2026 · 18:25 Uhr"
-    },
-    {
-      "title": "Bundesrechnungshof: Rentenzahlungen verbrauchen immer mehr Steuereinnahmen",
-      "summary": "Laut dem Bundesrechnungshof fließen im Jahr 2040 36,7 Prozent der Steuern in die Rentenkasse. Durch das Rentenreformpaket könnten es demnach sogar fast 46 Prozent werden.",
-      "image": "https://img.zeit.de/wirtschaft/2026-10/bundesrechnungshof-rentenversicherung-zahlungen-bundeshaushalt-2040-foto-1/original__640x360",
-      "link": "https://www.zeit.de/wirtschaft/2026-10/bundesrechnungshof-rentenversicherung-zahlungen-bundeshaushalt-2040",
-      "published": "Fri, 02 Oct 2026 18:20:02 -0000",
-      "published_display": "02.10.2026 · 18:20 Uhr"
-    },
-    {
-      "title": "Deutscher Buchhandlungspreis: Weimer legt in Streit um Buchhandlungspreis Entscheidungsprozess offen",
-      "summary": "Ein Medienbericht weckt Zweifel an Wolfram Weimers Erklärung für den Ausschluss dreier linker Buchläden vom Buchhandlungspreis. Nun legt sein Haus die Abläufe offen.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-10/deutscher-buchhandlungspreis-wolfram-weimer-linke-buchlaeden-verfassungsschutz-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-10/deutscher-buchhandlungspreis-wolfram-weimer-linke-buchlaeden-verfassungsschutz",
-      "published": "Fri, 02 Oct 2026 18:19:42 -0000",
-      "published_display": "02.10.2026 · 18:19 Uhr"
     }
   ]
 }
