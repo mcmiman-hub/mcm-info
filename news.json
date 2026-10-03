@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-03T00:24:59.501025+00:00",
+  "updated": "2026-10-03T00:51:07.711362+00:00",
   "items": [
+    {
+      "title": "Wiedervereinigung: Kluft zwischen Einkommen in Ost- und Westdeutschland nimmt weiter zu",
+      "summary": "Im Osten haben Haushalte rund 7.000 Euro weniger netto zur Verfügung als im Westen des Landes. Laut einer Studie stockt auch die Angleichung der ostdeutschen Wirtschaft.",
+      "image": "https://img.zeit.de/wirtschaft/2026-10/einkommensunterschied-ost-westdeutschland-berlin-einkommen-statistisches-bundesamt-foto-1/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/2026-10/einkommensunterschied-ost-westdeutschland-berlin-einkommen-statistisches-bundesamt",
+      "published": "Sat, 03 Oct 2026 00:37:46 -0000",
+      "published_display": "03.10.2026 · 00:37 Uhr"
+    },
+    {
+      "title": "Iran-Krieg: Rohöltanker vor der Küste des Oman angegriffen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/03/rohoeltanker-vor-der-kueste-des-oman-angegriffen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/03/rohoeltanker-vor-der-kueste-des-oman-angegriffen",
+      "published": "Sat, 03 Oct 2026 00:26:53 -0000",
+      "published_display": "03.10.2026 · 00:26 Uhr"
+    },
+    {
+      "title": "Brexit-Politiker als Ziel: Mordfall Widdecombe: Auch Anschlag auf Farage geplant?",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/03/mordfall-widdecombe-auch-anschlag-auf-farage-geplant-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/03/mordfall-widdecombe-auch-anschlag-auf-farage-geplant",
+      "published": "Sat, 03 Oct 2026 00:23:52 -0000",
+      "published_display": "03.10.2026 · 00:23 Uhr"
+    },
     {
       "title": "Spezialkräfte im Einsatz: Verdacht auf «schwere Straftat» - 20-Jähriger festgenommen",
       "summary": "",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/wissenschaft/umwelt/2026-10/botsuana-elefanten-abschuss-tierschuetzer-unabhaengigkeit",
       "published": "Fri, 02 Oct 2026 20:57:24 -0000",
       "published_display": "02.10.2026 · 20:57 Uhr"
-    },
-    {
-      "title": "Nations League: Ein Volksheld tritt ab: Emotionaler Dzeko-Abschied",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/ein-volksheld-tritt-ab-emotionaler-dzeko-abschied-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/ein-volksheld-tritt-ab-emotionaler-dzeko-abschied",
-      "published": "Fri, 02 Oct 2026 20:48:08 -0000",
-      "published_display": "02.10.2026 · 20:48 Uhr"
-    },
-    {
-      "title": "Karibik: US-Küstenwache stoppt Schiff mit Treibstoff für Kuba",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/bericht-erneut-schiff-in-strasse-von-hormus-unter-beschuss-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/bericht-erneut-schiff-in-strasse-von-hormus-unter-beschuss",
-      "published": "Fri, 02 Oct 2026 20:44:12 -0000",
-      "published_display": "02.10.2026 · 20:44 Uhr"
-    },
-    {
-      "title": "Schulproteste in Frankreich: Schülervertreter in Frankreich distanzieren sich von Gewalt",
-      "summary": "Nach einem Treffen mit dem Bildungsminister distanzieren sich Vertreter der Schulproteste von Gewalt. Schüler und Gewerkschaften wollen die Proteste weiterführen.",
-      "image": "https://img.zeit.de/politik/2026-10/topshot-france-politics-education-demo-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/schulproteste-frankreich-ausschreitungen-renouveau-lyceen-nathanael-combray-edouard-geffray",
-      "published": "Fri, 02 Oct 2026 20:20:08 -0000",
-      "published_display": "02.10.2026 · 20:20 Uhr"
     }
   ]
 }
