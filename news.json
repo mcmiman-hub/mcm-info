@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-03T04:57:22.551072+00:00",
+  "updated": "2026-10-03T05:17:33.000642+00:00",
   "items": [
+    {
+      "title": "Von der Justiz gepfändet: Warum dieser Luxus-Lamborghini nun unter den Hammer kommt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/03/warum-luxus-lamborghinis-nun-unter-den-hammer-kommen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/03/warum-luxus-lamborghinis-nun-unter-den-hammer-kommen",
+      "published": "Sat, 03 Oct 2026 05:05:29 -0000",
+      "published_display": "03.10.2026 · 05:05 Uhr"
+    },
+    {
+      "title": "Wohnungspolitik: Städtebund will Wohnungsnot mit Konzept für Landleben bekämpfen",
+      "summary": "In Ballungsräumen steigen die Mieten, aber auf dem Land stehen Hunderttausende Wohnungen leer: Der Städte- und Gemeindebund fordert die Politik zum Handeln auf.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-10/wohnungsnot-deutscher-staedte-und-gemeindebund-laendliche-regionen-mieten-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-10/wohnungsnot-deutscher-staedte-und-gemeindebund-laendliche-regionen-konzept",
+      "published": "Sat, 03 Oct 2026 05:00:23 -0000",
+      "published_display": "03.10.2026 · 05:00 Uhr"
+    },
+    {
+      "title": "Touristisches und Gesundheit: Superfrucht Sanddorn? Vom Feld ins Glas und auf die Haut",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/03/superfrucht-sanddorn-vom-feld-ins-glas-und-auf-die-haut-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/03/superfrucht-sanddorn-vom-feld-ins-glas-und-auf-die-haut",
+      "published": "Sat, 03 Oct 2026 05:00:06 -0000",
+      "published_display": "03.10.2026 · 05:00 Uhr"
+    },
     {
       "title": "Die Linke: Sachsens Innenministerium löscht Posting zur Berliner Linken",
       "summary": "Der Wahlsieg der Linken war für Armin Schuster ein »Schlag ins Gesicht rechtschaffener Bürger«. Der Partei schaden wollte er nach eigenen Angaben mit der Aussage nicht.",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/03/unfall-bei-wendemanoever-auf-bundesstrasse-vier-verletzte",
       "published": "Sat, 03 Oct 2026 03:41:33 -0000",
       "published_display": "03.10.2026 · 03:41 Uhr"
-    },
-    {
-      "title": "Familiennachwuchs: Götz Otto freut sich über erstes Enkelkind",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/03/goetz-otto-freut-sich-ueber-erstes-enkelkind-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/03/goetz-otto-freut-sich-ueber-erstes-enkelkind",
-      "published": "Sat, 03 Oct 2026 03:30:09 -0000",
-      "published_display": "03.10.2026 · 03:30 Uhr"
-    },
-    {
-      "title": "Konzerthaus an der Elbe: Kein Ansturm auf letzte Gratis-Tickets der Elbphilharmonie",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/03/kein-ansturm-auf-letzte-gratis-tickets-der-elbphilharmonie-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/03/kein-ansturm-auf-letzte-gratis-tickets-der-elbphilharmonie",
-      "published": "Sat, 03 Oct 2026 03:30:08 -0000",
-      "published_display": "03.10.2026 · 03:30 Uhr"
-    },
-    {
-      "title": "Camping: Camping-Boom in Niedersachsen: Südsee-Camp im Herbst gefragt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/03/camping-boom-in-niedersachsen-suedsee-camp-im-herbst-gefragt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/03/camping-boom-in-niedersachsen-suedsee-camp-im-herbst-gefragt",
-      "published": "Sat, 03 Oct 2026 03:30:07 -0000",
-      "published_display": "03.10.2026 · 03:30 Uhr"
     }
   ]
 }
