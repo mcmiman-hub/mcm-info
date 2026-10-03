@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-03T05:40:44.917909+00:00",
+  "updated": "2026-10-03T06:04:01.363870+00:00",
   "items": [
+    {
+      "title": "Bildungspolitik: Bayern führt wegen Pisa-Studie zusätzlichen Grundschulunterricht ein",
+      "summary": "Mathe, Deutsch, Sport und Musik: Grundschüler in Bayern müssen bald länger pauken. Sechs Zusatzstunden sollen helfen, den Pisa-Schock zu überwinden.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-10/bayern-grundschule-unterricht-pisa-ergebnisse-mathematik-deutsch-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-10/bayern-grundschule-unterricht-pisa-ergebnisse-mathematik-deutsch",
+      "published": "Sat, 03 Oct 2026 05:57:36 -0000",
+      "published_display": "03.10.2026 · 05:57 Uhr"
+    },
+    {
+      "title": "Formel 1: Antonelli macht Ernst: Bestzeit vor dem Qualifying",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/03/antonelli-macht-ernst-bestzeit-vor-dem-qualifying-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/03/antonelli-macht-ernst-bestzeit-vor-dem-qualifying",
+      "published": "Sat, 03 Oct 2026 05:40:52 -0000",
+      "published_display": "03.10.2026 · 05:40 Uhr"
+    },
+    {
+      "title": "USA: Zum Tode verurteilte Frau nach gescheiterter Hinrichtung bewusstlos",
+      "summary": "Die 50-jährige Christa Pike befindet sich nach dem gescheiterten Hinrichtungsversuch in Tennessee weiter in kritischem Zustand. Sie hat zuvor zwei Giftspritzen überlebt.",
+      "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-10/christa-pike-hinrichtung-tennessee-todesstrafe-bild/original__640x360",
+      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-10/christa-pike-hinrichtung-tennessee-todesstrafe",
+      "published": "Sat, 03 Oct 2026 05:40:35 -0000",
+      "published_display": "03.10.2026 · 05:40 Uhr"
+    },
     {
       "title": "Energiekrise: USA haben Diesel-Exportstopp laut Donald Trump nie ernsthaft geplant",
       "summary": "Nach dem G7-Beschluss zur Freigabe strategischer Ölreserven hat der US-Präsident Drohungen gegen die EU widerrufen. Er habe nie vorgehabt, Dieselexporte zu stoppen.",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/politik/2026-10/ice-abschiebung-usa-ghana-migrantinnen-nachrichtenpodcast",
       "published": "Sat, 03 Oct 2026 04:00:09 -0000",
       "published_display": "03.10.2026 · 04:00 Uhr"
-    },
-    {
-      "title": "Abschiebung in den USA: Mama, wo bist du?",
-      "summary": "Seit 30 Jahren lebt Rabbiatu in den USA. Eines Tages wird sie bei einem Termin mit der Einwanderungsbehörde ICE festgenommen. Für ihren Sohn beginnt ein langer Kampf.",
-      "image": "https://img.zeit.de/politik/2026-10/abschiebung-usa-ice-einwanderungsbehoerde-maryland-nachrichtenpodcast-bild-1/original__640x360",
-      "link": "https://www.zeit.de/politik/2026-10/abschiebung-usa-ice-einwanderungsbehoerde-maryland-nachrichtenpodcast",
-      "published": "Sat, 03 Oct 2026 04:00:06 -0000",
-      "published_display": "03.10.2026 · 04:00 Uhr"
-    },
-    {
-      "title": "Wetteraussichten: Oktoberfest-Finale: Wolken, Sonne und milde Temperaturen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/03/oktoberfest-finale-wolken-sonne-und-milde-temperaturen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/03/oktoberfest-finale-wolken-sonne-und-milde-temperaturen",
-      "published": "Sat, 03 Oct 2026 04:00:05 -0000",
-      "published_display": "03.10.2026 · 04:00 Uhr"
-    },
-    {
-      "title": "Nordkorea: Nordkorea feuert weitere ballistische Rakete ab",
-      "summary": "Das nordkoreanische Militär hat nach Angaben aus Südkorea ein weiteres Geschoss ins Meer gefeuert. Die USA sehen keine Gefahr für Verbündete und eigenes Personal.",
-      "image": "https://img.zeit.de/politik/ausland/2026-10/nordkorea-rakete-ballistische-waffe-japanisches-meer-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/nordkorea-rakete-ballistische-waffe-japanisches-meer",
-      "published": "Sat, 03 Oct 2026 03:51:52 -0000",
-      "published_display": "03.10.2026 · 03:51 Uhr"
     }
   ]
 }
