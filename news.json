@@ -1,7 +1,39 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-03T09:20:11.120423+00:00",
+  "updated": "2026-10-03T09:34:33.884139+00:00",
   "items": [
+    {
+      "title": "Flucht über die Grenze: Einbruch in Waffengeschäft - Fahndung läuft weiter",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/03/einbruch-in-waffengeschaeft-fahndung-laeuft-weiter-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/03/einbruch-in-waffengeschaeft-fahndung-laeuft-weiter",
+      "published": "Sat, 03 Oct 2026 09:31:16 -0000",
+      "published_display": "03.10.2026 · 09:31 Uhr"
+    },
+    {
+      "title": "Kämpfe in Tigray: Tigray-Konflikt in Äthiopien flammt wieder auf",
+      "summary": "Wenige Jahre nach dem Bürgerkrieg in Tigray droht die Lage erneut zu eskalieren. Eine regierungsnahe Miliz soll in die Hauptstadt der äthiopischen Region vorgerückt sein.",
+      "image": "https://img.zeit.de/politik/ausland/2026-10/aethiopien-mekelle-tigray-peace-forces-tplf-miliz-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/aethiopien-mekelle-tigray-peace-forces-tplf-miliz",
+      "published": "Sat, 03 Oct 2026 09:30:56 -0000",
+      "published_display": "03.10.2026 · 09:30 Uhr"
+    },
+    {
+      "title": "Entsetzen über Kostüm: Ähnelte KZ-Kleidung: Zara zieht Kostüm zurück",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/03/aehnelte-kz-kleidung-zara-zieht-kostuem-zurueck-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/03/aehnelte-kz-kleidung-zara-zieht-kostuem-zurueck",
+      "published": "Sat, 03 Oct 2026 09:20:16 -0000",
+      "published_display": "03.10.2026 · 09:20 Uhr"
+    },
+    {
+      "title": "Notfälle: Vermisster 78-Jähriger unterkühlt an Bachlauf gefunden",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/03/vermisster-78-jaehriger-unterkuehlt-an-bachlauf-gefunden-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/03/vermisster-78-jaehriger-unterkuehlt-an-bachlauf-gefunden",
+      "published": "Sat, 03 Oct 2026 09:18:58 -0000",
+      "published_display": "03.10.2026 · 09:18 Uhr"
+    },
     {
       "title": "Handball-Bundesliga: Nils Lichtlein vor Comeback bei den Füchsen",
       "summary": "",
@@ -89,38 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/03/mildes-herbstwochenende-in-hessen",
       "published": "Sat, 03 Oct 2026 08:45:16 -0000",
       "published_display": "03.10.2026 · 08:45 Uhr"
-    },
-    {
-      "title": "Kriminalität: Schüsse in Hamburg - Schütze schießt sich selbst an",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/03/schuesse-in-hamburg-schuetze-schiesst-sich-selbst-an-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/03/schuesse-in-hamburg-schuetze-schiesst-sich-selbst-an",
-      "published": "Sat, 03 Oct 2026 08:42:34 -0000",
-      "published_display": "03.10.2026 · 08:42 Uhr"
-    },
-    {
-      "title": "Nahost: Bericht: Tote bei israelischem Luftangriff auf Gaza",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/03/bericht-tote-bei-israelischem-luftangriff-auf-gaza-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/03/bericht-tote-bei-israelischem-luftangriff-auf-gaza",
-      "published": "Sat, 03 Oct 2026 08:41:22 -0000",
-      "published_display": "03.10.2026 · 08:41 Uhr"
-    },
-    {
-      "title": "Feuerwehreinsatz: Garagenbrand greift auf Häuser über - zwei Leichtverletzte",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/03/garagenbrand-greift-auf-haeuser-ueber-zwei-leichtverletzte-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/03/garagenbrand-greift-auf-haeuser-ueber-zwei-leichtverletzte",
-      "published": "Sat, 03 Oct 2026 08:40:24 -0000",
-      "published_display": "03.10.2026 · 08:40 Uhr"
-    },
-    {
-      "title": "Kurioser Diebstahl: 30 junge Tannen gestohlen – Polizei sucht Hinweise",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/03/30-junge-tannen-gestohlen-polizei-sucht-hinweise-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/03/30-junge-tannen-gestohlen-polizei-sucht-hinweise",
-      "published": "Sat, 03 Oct 2026 08:37:09 -0000",
-      "published_display": "03.10.2026 · 08:37 Uhr"
     }
   ]
 }
