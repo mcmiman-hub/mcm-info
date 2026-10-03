@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-03T05:17:33.000642+00:00",
+  "updated": "2026-10-03T05:40:44.917909+00:00",
   "items": [
+    {
+      "title": "Energiekrise: USA haben Diesel-Exportstopp laut Donald Trump nie ernsthaft geplant",
+      "summary": "Nach dem G7-Beschluss zur Freigabe strategischer Ölreserven hat der US-Präsident Drohungen gegen die EU widerrufen. Er habe nie vorgehabt, Dieselexporte zu stoppen.",
+      "image": "https://img.zeit.de/politik/ausland/2026-10/usa-diesel-exportstopp-donald-trump-g7-europa-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/usa-diesel-exportstopp-donald-trump-g7-europa",
+      "published": "Sat, 03 Oct 2026 05:27:43 -0000",
+      "published_display": "03.10.2026 · 05:27 Uhr"
+    },
+    {
+      "title": "Die Linke: Sachsens Innenministerium löscht Posting zur Berliner Linken",
+      "summary": "Der Wahlsieg der Linken war für Armin Schuster ein »Schlag ins Gesicht rechtschaffener Bürger«. Der Partei schaden wollte er nach eigenen Angaben mit der Aussage nicht.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-10/drone-possibly-armed-with-explosive-discovered-at-leipzig-airport-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-10/armin-schuster-instagram-x-innenministerium-sachsen-die-linke",
+      "published": "Sat, 03 Oct 2026 05:24:58 -0000",
+      "published_display": "03.10.2026 · 05:24 Uhr"
+    },
     {
       "title": "Von der Justiz gepfändet: Warum dieser Luxus-Lamborghini nun unter den Hammer kommt",
       "summary": "",
@@ -25,14 +41,6 @@
       "link": "https://www.zeit.de/news/2026-10/03/superfrucht-sanddorn-vom-feld-ins-glas-und-auf-die-haut",
       "published": "Sat, 03 Oct 2026 05:00:06 -0000",
       "published_display": "03.10.2026 · 05:00 Uhr"
-    },
-    {
-      "title": "Die Linke: Sachsens Innenministerium löscht Posting zur Berliner Linken",
-      "summary": "Der Wahlsieg der Linken war für Armin Schuster ein »Schlag ins Gesicht rechtschaffener Bürger«. Der Partei schaden wollte er nach eigenen Angaben mit der Aussage nicht.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-10/drone-possibly-armed-with-explosive-discovered-at-leipzig-airport-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-10/armin-schuster-instagram-x-innenministerium-sachsen-die-linke",
-      "published": "Sat, 03 Oct 2026 04:54:24 -0000",
-      "published_display": "03.10.2026 · 04:54 Uhr"
     },
     {
       "title": "Verfolgungsfahrt in Innenstadt: Betrunkener Autofahrer flieht mit Tempo 130 vor Polizei",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/politik/ausland/2026-10/nordkorea-rakete-ballistische-waffe-japanisches-meer",
       "published": "Sat, 03 Oct 2026 03:51:52 -0000",
       "published_display": "03.10.2026 · 03:51 Uhr"
-    },
-    {
-      "title": "Verkehr: Unfall bei Wendemanöver auf Bundesstraße - Vier Verletzte",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/03/unfall-bei-wendemanoever-auf-bundesstrasse-vier-verletzte-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/03/unfall-bei-wendemanoever-auf-bundesstrasse-vier-verletzte",
-      "published": "Sat, 03 Oct 2026 03:41:33 -0000",
-      "published_display": "03.10.2026 · 03:41 Uhr"
     }
   ]
 }
