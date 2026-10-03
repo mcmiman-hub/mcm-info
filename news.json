@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-03T01:17:57.403451+00:00",
+  "updated": "2026-10-03T01:31:56.757354+00:00",
   "items": [
+    {
+      "title": "Elisabeth Kaiser: Ostbeauftragte schlägt ostdeutsche Frau als Staatsoberhaupt vor",
+      "summary": "Warum sollte die nächste Bundespräsidentin nicht »eine kluge Frau aus Ostdeutschland« sein, fragt die Ostbeauftragte der Bundesregierung. Sie hält die Zeit für reif.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-10/ostdeutschland-elisabeth-kaiser-spd-bundespraesidentin-repraesentation-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-10/ostdeutschland-elisabeth-kaiser-spd-bundespraesidentin-wiedervereinigung-politik-ungleichheit-tag-der-deutschen-einheit",
+      "published": "Sat, 03 Oct 2026 01:21:39 -0000",
+      "published_display": "03.10.2026 · 01:21 Uhr"
+    },
     {
       "title": "Konflikte: Nordkorea feuert erneut ballistische Rakete ab",
       "summary": "",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/02/was-geschah-am-3-oktober",
       "published": "Fri, 02 Oct 2026 21:55:04 -0000",
       "published_display": "02.10.2026 · 21:55 Uhr"
-    },
-    {
-      "title": "US-Küstenwache: Schiff mit Treibstoff für Kuba von US-Küstenwache gestoppt",
-      "summary": "Die US-Küstenwache hat im September ein Schiff mit einer Treibstofflieferung für Kuba abgefangen. Auf der Insel verschärft sich die Energiekrise.",
-      "image": "https://img.zeit.de/politik/2026-10/coast-guard-patrol-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/us-kuestenwache-schiff-grace-kuba-mexiko-treibstofflieferung",
-      "published": "Fri, 02 Oct 2026 21:53:44 -0000",
-      "published_display": "02.10.2026 · 21:53 Uhr"
     }
   ]
 }
