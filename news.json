@@ -1,12 +1,28 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-03T08:51:12.185691+00:00",
+  "updated": "2026-10-03T09:02:37.933536+00:00",
   "items": [
+    {
+      "title": "Fest in Bremen: Gottesdienst zur Einheit: Bremer Stadtmusikanten als Vorbild",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/03/spitzenpolitik-und-trubel-einheitsfest-in-bremen-startet-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/03/spitzenpolitik-und-trubel-einheitsfest-in-bremen-startet",
+      "published": "Sat, 03 Oct 2026 08:55:09 -0000",
+      "published_display": "03.10.2026 · 08:55 Uhr"
+    },
+    {
+      "title": "Angriff: Unbekannter verletzt 15-Jährigen schwer mit Messer",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/03/unbekannter-verletzt-15-jaehrigen-schwer-mit-messer-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/03/unbekannter-verletzt-15-jaehrigen-schwer-mit-messer",
+      "published": "Sat, 03 Oct 2026 08:51:26 -0000",
+      "published_display": "03.10.2026 · 08:51 Uhr"
+    },
     {
       "title": "Demonstrationen in Frankreich: Tausende Festnahmen bei Schülerprotesten in Frankreich",
       "summary": "Mehr als 5.000 Menschen sind bei den Protesten in Frankreich festgenommen worden. Es soll Ausschreitungen rund um 158 Schulen gegeben haben.",
       "image": "https://img.zeit.de/bildung/2026-10/frankreich-schuelerproteste-polizei-festnahmen-laurent-nunez-edouard-geffray-foto-1/original__640x360",
-      "link": "https://www.zeit.de/bildung/2026-10/frankreich-schuelerproteste-polizei-festnahmen-laurent-nunez-edouard-geffray",
+      "link": "https://www.zeit.de/bildung/2026-10/frankreich-schuelerproteste-polizei-festnahmen-laurent-nunez-edouard-geffray-gxe",
       "published": "Sat, 03 Oct 2026 08:49:19 -0000",
       "published_display": "03.10.2026 · 08:49 Uhr"
     },
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/03/camping-boom-in-niedersachsen-suedsee-camp-im-herbst-gefragt",
       "published": "Sat, 03 Oct 2026 08:13:50 -0000",
       "published_display": "03.10.2026 · 08:13 Uhr"
-    },
-    {
-      "title": "Formel-1-Saisonfinale: Formel 1 will Finale trotz Irankriegs in Abu Dhabi austragen",
-      "summary": "Trotz des Irankriegs bleibt es bei der Austragung der letzten Formel-1-Rennen in Katar und Abu Dhabi. Damit ist Imola als mögliche Ersatzlösung vom Tisch.",
-      "image": "https://img.zeit.de/sport/2026-10/formel-1-saisonfinale-abu-dhabi-katar-iran-stephano-domenicali-foto-1/original__640x360",
-      "link": "https://www.zeit.de/sport/2026-10/formel-1-saisonfinale-abu-dhabi-katar-iran-stephano-domenicali-gxe",
-      "published": "Sat, 03 Oct 2026 08:06:41 -0000",
-      "published_display": "03.10.2026 · 08:06 Uhr"
-    },
-    {
-      "title": "Hoffen auf den Regen: Was Hitze und Trockenheit für Pilzsammler bedeuten",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/03/was-hitze-und-trockenheit-fuer-pilzsammler-bedeuten-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/03/was-hitze-und-trockenheit-fuer-pilzsammler-bedeuten",
-      "published": "Sat, 03 Oct 2026 08:06:24 -0000",
-      "published_display": "03.10.2026 · 08:06 Uhr"
     }
   ]
 }
