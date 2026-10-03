@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-03T08:20:01.616115+00:00",
+  "updated": "2026-10-03T08:34:43.031668+00:00",
   "items": [
+    {
+      "title": "Sechs Personen verletzt: Pfefferspray und Schläge: Streit in Kneipe eskaliert",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/03/pfefferspray-und-schlaege-streit-in-kneipe-eskaliert-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/03/pfefferspray-und-schlaege-streit-in-kneipe-eskaliert",
+      "published": "Sat, 03 Oct 2026 08:24:11 -0000",
+      "published_display": "03.10.2026 · 08:24 Uhr"
+    },
+    {
+      "title": "Nach der Berlin-Wahl: Dreiergespräche zwischen Linke, Grüne und SPD gehen weiter",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/03/dreiergespraeche-zwischen-linke-gruene-und-spd-gehen-weiter-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/03/dreiergespraeche-zwischen-linke-gruene-und-spd-gehen-weiter",
+      "published": "Sat, 03 Oct 2026 08:22:01 -0000",
+      "published_display": "03.10.2026 · 08:22 Uhr"
+    },
+    {
+      "title": "Unfälle: Firmenwagen nach Betriebsfeier zu Schrott gefahren",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/03/firmenwagen-nach-betriebsfeier-zu-schrott-gefahren-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/03/firmenwagen-nach-betriebsfeier-zu-schrott-gefahren",
+      "published": "Sat, 03 Oct 2026 08:21:17 -0000",
+      "published_display": "03.10.2026 · 08:21 Uhr"
+    },
     {
       "title": "Demonstrationen in Frankreich: Tausende Festnahmen bei Schülerprotesten in Frankreich",
       "summary": "Bei den französischen Protesten sind nach Angaben der Regierung mehr als 5.000 Menschen festgenommen worden. Es soll Ausschreitungen rund um 158 Schulen gegeben haben.",
@@ -30,7 +54,7 @@
       "title": "Formel-1-Saisonfinale: Formel 1 will Finale trotz Irankriegs in Abu Dhabi austragen",
       "summary": "Trotz des Irankriegs bleibt es bei der Austragung der letzten Formel-1-Rennen in Katar und Abu Dhabi. Damit ist Imola als mögliche Ersatzlösung vom Tisch.",
       "image": "https://img.zeit.de/sport/2026-10/formel-1-saisonfinale-abu-dhabi-katar-iran-stephano-domenicali-foto-1/original__640x360",
-      "link": "https://www.zeit.de/sport/2026-10/formel-1-saisonfinale-abu-dhabi-katar-iran-stephano-domenicali",
+      "link": "https://www.zeit.de/sport/2026-10/formel-1-saisonfinale-abu-dhabi-katar-iran-stephano-domenicali-gxe",
       "published": "Sat, 03 Oct 2026 08:06:41 -0000",
       "published_display": "03.10.2026 · 08:06 Uhr"
     },
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/digital/internet/2026-10/kommentare-social-media-verbot-oeffentlich-rechtlich-word-internekolumne",
       "published": "Sat, 03 Oct 2026 07:48:19 -0000",
       "published_display": "03.10.2026 · 07:48 Uhr"
-    },
-    {
-      "title": "Beinahe-Katastrophe: Medien: Flydubai-Copilot galt zuvor als Sicherheitsrisiko",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/03/medien-flydubai-copilot-galt-zuvor-als-sicherheitsrisiko-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/03/medien-flydubai-copilot-galt-zuvor-als-sicherheitsrisiko",
-      "published": "Sat, 03 Oct 2026 07:45:43 -0000",
-      "published_display": "03.10.2026 · 07:45 Uhr"
-    },
-    {
-      "title": "Autounfall: Unfall beim Einparken - 25-Jährige kracht in Hausmauer",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/03/unfall-beim-einparken-25-jaehrige-kracht-in-hausmauer-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/03/unfall-beim-einparken-25-jaehrige-kracht-in-hausmauer",
-      "published": "Sat, 03 Oct 2026 07:44:40 -0000",
-      "published_display": "03.10.2026 · 07:44 Uhr"
-    },
-    {
-      "title": "Proteste in Indien: »Der Teeverkäufer ist ein Dieb«",
-      "summary": "Die junge Kakerlaken-Bewegung hat die indische Demokratie wiederbelebt. Nun geht die Gen Z erneut auf die Straßen – und wird zum echten Problem für die Regierung.",
-      "image": "https://img.zeit.de/politik/ausland/2026-10/proteste-indien-demonstrationen-kakerlaken-bewegung-studenten-bild-01/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/proteste-indien-demonstrationen-kakerlaken-bewegung-studenten",
-      "published": "Sat, 03 Oct 2026 07:43:19 -0000",
-      "published_display": "03.10.2026 · 07:43 Uhr"
     }
   ]
 }
