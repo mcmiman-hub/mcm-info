@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-03T04:05:58.034421+00:00",
+  "updated": "2026-10-03T04:22:51.546176+00:00",
   "items": [
+    {
+      "title": "Verfolgungsfahrt in Innenstadt: Betrunkener Autofahrer flieht mit Tempo 130 vor Polizei",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/03/betrunkener-autofahrer-flieht-mit-tempo-130-vor-polizei-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/03/betrunkener-autofahrer-flieht-mit-tempo-130-vor-polizei",
+      "published": "Sat, 03 Oct 2026 04:14:10 -0000",
+      "published_display": "03.10.2026 · 04:14 Uhr"
+    },
+    {
+      "title": "Zugbegleiter: Was Zugbegleiter wirklich über uns denken",
+      "summary": "Woran sie Schwarzfahrer erkennen, wann sie über Regeln hinwegsehen und wer in der Not hilft: 73 Dinge, die das Bahnpersonal beim Betrachten der Fahrgäste gelernt hat.",
+      "image": "https://img.zeit.de/2026/42/73-dinge-die-zugbegleiter-ueber-menschen-gelernt-haben-bild-3/original__640x360",
+      "link": "https://www.zeit.de/2026/42/zugbegleiter-deutsche-bahn-ticketkontrolle-alltag-deutschlandticket-serkan-calar",
+      "published": "Sat, 03 Oct 2026 04:08:20 -0000",
+      "published_display": "03.10.2026 · 04:08 Uhr"
+    },
     {
       "title": "Flucht aus Sierra Leone: Ein anderes Leben",
       "summary": "Rabbiatu flieht aus Sierra Leone in ein anderes Land in Westafrika. Sie ist allein, verlässt kaum das Haus. Mohamed kämpft dafür, sie zurückzuholen in ihr altes Leben.",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/03/wo-wolken-und-gewitter-das-herbstwochenende-trueben-koennen",
       "published": "Sat, 03 Oct 2026 03:30:04 -0000",
       "published_display": "03.10.2026 · 03:30 Uhr"
-    },
-    {
-      "title": "USA: Zum Tode verurteilte Frau nach gescheiterter Hinrichtung bewusstlos",
-      "summary": "Die 50-jährige Christa Pike befindet sich nach dem gescheiterten Hinrichtungsversuch in Tennessee weiter in kritischem Zustand. Sie hat zuvor zwei Giftspritzen überlebt.",
-      "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-10/christa-pike-hinrichtung-tennessee-todesstrafe-foto-1/original__640x360",
-      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-10/christa-pike-hinrichtung-tennessee-todesstrafe",
-      "published": "Sat, 03 Oct 2026 03:17:43 -0000",
-      "published_display": "03.10.2026 · 03:17 Uhr"
-    },
-    {
-      "title": "Angriff bei Flug nach Tel Aviv: Flydubai-Co-Pilot war offenbar wegen extremistischer Ansichten bekannt",
-      "summary": "Der festgenommene Co-Pilot hat einen früheren Job bei einer Fluggesellschaft wegen Sicherheitsbedenken verloren. Medien zufolge war er mit einem Flugverbot belegt worden.",
-      "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-10/flydubai-copilot-pilot-tel-aviv-oman-air-foto-1/original__640x360",
-      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-10/flydubai-copilot-extremismus-tel-aviv-oman-air",
-      "published": "Sat, 03 Oct 2026 03:15:51 -0000",
-      "published_display": "03.10.2026 · 03:15 Uhr"
     }
   ]
 }
