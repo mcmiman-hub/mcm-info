@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-03T07:19:35.906200+00:00",
+  "updated": "2026-10-03T07:36:53.908857+00:00",
   "items": [
+    {
+      "title": "Hinrichtung im Iran: Iran vollstreckt weiteres Todesurteil nach Massenprotesten",
+      "summary": "Siavasch Jamschidi soll bei Protesten angeblich auf iranische Polizisten geschossen haben. Wegen »Verschwörung gegen die Sicherheit des Landes« wurde er hingerichtet.",
+      "image": "https://img.zeit.de/administratives/sharing/fallback-image-die-zeit/wide__1300x731",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/hinrichtung-iran-massenproteste-siavasch-jamschidi-todesstrafe",
+      "published": "Sat, 03 Oct 2026 07:30:01 -0000",
+      "published_display": "03.10.2026 · 07:30 Uhr"
+    },
+    {
+      "title": "Unfälle: Motorräder prallen zusammen - 54-Jähriger schwer verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/03/motorraeder-prallen-zusammen-54-jaehriger-schwer-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/03/motorraeder-prallen-zusammen-54-jaehriger-schwer-verletzt",
+      "published": "Sat, 03 Oct 2026 07:22:57 -0000",
+      "published_display": "03.10.2026 · 07:22 Uhr"
+    },
     {
       "title": "Asyl in Deutschland: Zahl der Asylanträge im September leicht gestiegen",
       "summary": "Im vergangenen Monat haben etwas mehr Menschen Asyl in Deutschland beantragt als im Monat davor. Grundsätzlich ist der Zahl der Asylsuchenden aber weiter rückläufig.",
@@ -14,7 +30,7 @@
       "title": "Angriff bei Flug nach Tel Aviv: Flydubai-Co-Pilot soll Terroranschlag geplant haben",
       "summary": "Mit einem Beil soll der festgenommene Flydubai-Co-Pilot den Piloten angegriffen haben. Die Vereinigten Arabischen Emirate sprechen von einem versuchten Terroranschlag.",
       "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-10/flydubai-co-pilot-terroranschlag-axt-foto-1/original__640x360",
-      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-10/flydubai-co-pilot-terroranschlag-axt",
+      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-10/flydubai-co-pilot-terroranschlag-axt-gxe",
       "published": "Sat, 03 Oct 2026 07:09:55 -0000",
       "published_display": "03.10.2026 · 07:09 Uhr"
     },
@@ -94,7 +110,7 @@
       "title": "Parlamentswahl in Lettland: Lettinnen und Letten wählen ein neues Parlament",
       "summary": "Die Wahl in Lettland wird bestimmt vom Ukrainekrieg. Ein Drohnenvorfall sorgte zuletzt für Verunsicherung. In den Umfragen führt eine Mitte-rechts-Partei.",
       "image": "https://img.zeit.de/politik/ausland/2026-10/parlamentswahl-lettland-andris-kulbergs-vereinte-liste-populisten-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/parlamentswahl-lettland-andris-kulbergs-vereinte-liste-populisten",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/parlamentswahl-lettland-andris-kulbergs-vereinte-liste-populisten-gxe",
       "published": "Sat, 03 Oct 2026 06:28:26 -0000",
       "published_display": "03.10.2026 · 06:28 Uhr"
     },
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/politik/ausland/2026-10/flug-dubai-tel-aviv-co-pilot-israel",
       "published": "Sat, 03 Oct 2026 06:26:00 -0000",
       "published_display": "03.10.2026 · 06:26 Uhr"
-    },
-    {
-      "title": "Gastronomie: Gut und günstig kochen – wie schafft man das?",
-      "summary": "Lange arbeitete Frederik Pavlik in Spitzenrestaurants weltweit. Dann bewarb er sich in der Kantine einer Hamburger Hochschule – und entwickelt nun Gerichte für 4,50 Euro.",
-      "image": "https://img.zeit.de/hamburg/2026-08/gastronomie-koch-hamburg-sternekueche-kantine-frederik-pavlik-bild-2/original__640x360",
-      "link": "https://www.zeit.de/hamburg/2026-08/gastronomie-koch-hamburg-sternekueche-kantine-frederik-pavlik",
-      "published": "Sat, 03 Oct 2026 06:25:14 -0000",
-      "published_display": "03.10.2026 · 06:25 Uhr"
-    },
-    {
-      "title": "Kein Heimspiel für Antonelli: Formel-1-Chef: Finale trotz Iran-Kriegs in Abu Dhabi",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/03/formel-1-chef-finale-trotz-iran-kriegs-in-abu-dhabi-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/03/formel-1-chef-finale-trotz-iran-kriegs-in-abu-dhabi",
-      "published": "Sat, 03 Oct 2026 06:05:49 -0000",
-      "published_display": "03.10.2026 · 06:05 Uhr"
     }
   ]
 }
