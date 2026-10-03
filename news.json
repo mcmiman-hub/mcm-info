@@ -1,21 +1,85 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-03T09:56:18.424935+00:00",
+  "updated": "2026-10-03T10:17:07.180718+00:00",
   "items": [
     {
-      "title": "Unfälle: 71-Jähriger stürzt mit Motorrad - schwer verletzt",
+      "title": "Links-Rechts-Spaltung: »Ein absolutes Spiel mit dem Feuer«",
+      "summary": "Die Parteien der Mitte werden immer schwächer. Sprengt die neue Links-Rechts-Spaltung das politische System – oder rettet sie die Demokratie?",
+      "image": "https://img.zeit.de/2026/41/von-gestern-bild-1/original__640x360",
+      "link": "https://www.zeit.de/politik/2026-10/links-rechts-spaltung-politische-mitte-parteien-demokratie",
+      "published": "Sat, 03 Oct 2026 10:15:42 -0000",
+      "published_display": "03.10.2026 · 10:15 Uhr"
+    },
+    {
+      "title": "Fußball: Schiedsrichter-Chef in der Türkei in Untersuchungshaft",
+      "summary": "Der türkische Schiedsrichter-Chef Ferhat Gündoğdu ist in Untersuchungshaft genommen worden. Es geht laut türkischen Medienberichten um den Verdacht der Manipulation.",
+      "image": "https://img.zeit.de/sport/2026-10/ferhat-guendogdu-schiedsrichter-tuerkei-korruption-haft-foto/original__640x360",
+      "link": "https://www.zeit.de/sport/2026-10/ferhat-guendogdu-schiedsrichter-tuerkei-korruption-haft",
+      "published": "Sat, 03 Oct 2026 10:15:24 -0000",
+      "published_display": "03.10.2026 · 10:15 Uhr"
+    },
+    {
+      "title": "Laurie Santos: Wie wird man glücklich, Laurie Santos?",
+      "summary": "Laurie Santos konzipierte das beliebteste Seminar in der Geschichte Yales. Sie lehrt, was glücklich macht. Den Deutschen empfiehlt sie mehr Freude im Job, ausgerechnet.",
+      "image": "https://img.zeit.de/arbeit/2026-09/laurie-santos-glueck-psychologie-arbeitsplatz-bild/original__640x360",
+      "link": "https://www.zeit.de/arbeit/2026-09/laurie-santos-glueck-psychologie-arbeitsplatz",
+      "published": "Sat, 03 Oct 2026 10:14:00 -0000",
+      "published_display": "03.10.2026 · 10:14 Uhr"
+    },
+    {
+      "title": "Niedrigwasser: Nach Sandbank-Malheur: Frachtschiff schafft es auf den Rhein",
       "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/03/71-jaehriger-stuerzt-mit-motorrad-schwer-verletzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/03/71-jaehriger-stuerzt-mit-motorrad-schwer-verletzt",
-      "published": "Sat, 03 Oct 2026 09:54:24 -0000",
-      "published_display": "03.10.2026 · 09:54 Uhr"
+      "image": "https://img.zeit.de/news/2026-10/03/nach-sandbank-malheur-frachtschiff-schafft-es-auf-den-rhein-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/03/nach-sandbank-malheur-frachtschiff-schafft-es-auf-den-rhein",
+      "published": "Sat, 03 Oct 2026 10:13:52 -0000",
+      "published_display": "03.10.2026 · 10:13 Uhr"
+    },
+    {
+      "title": "OpenAI: Los, opfer dich jetzt!, sagt ein KI-Agent zu einem anderen",
+      "summary": "Der Angriff schreckte die Welt auf: KI-Agenten bilden eine Armee mit Anführern und Märtyrern. Wie sie dabei vorgingen, zeigen ihre Gedankenströme. Eine Rekonstruktion",
+      "image": "https://img.zeit.de/2026/42/los-opfer-dich-jetzt-sagt-ein-ki-agent-zu-einem-anderen-bild-1/original__640x360",
+      "link": "https://www.zeit.de/2026/42/openai-ki-agenten-hugging-face-cyberangriff",
+      "published": "Sat, 03 Oct 2026 10:11:15 -0000",
+      "published_display": "03.10.2026 · 10:11 Uhr"
+    },
+    {
+      "title": "Uwe Steimle: Und dann entfesselt Uwe Steimle die Wut",
+      "summary": "DDR-Hymne und Gewaltfantasien gegen eine ZDF-Moderatorin: Nach 36 Jahren kann die deutsche Einheit auch aussehen wie in Uwe Steimles Kabarett in Sachsen-Anhalt.",
+      "image": "https://img.zeit.de/feuilleton/2026-07/uwe-steimler-afd-diskursverchiebung-bild/original__640x360",
+      "link": "https://www.zeit.de/feuilleton/2026-10/uwe-steimle-kabarett-ddr-hymne-zdf-sachsen-anhalt",
+      "published": "Sat, 03 Oct 2026 10:06:26 -0000",
+      "published_display": "03.10.2026 · 10:06 Uhr"
+    },
+    {
+      "title": "Feuerwehreinsatz: Feuerwehr rettet zwei Personen aus verrauchtem Treppenhaus",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/03/feuerwehr-rettet-zwei-personen-aus-verrauchtem-treppenhaus-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/03/feuerwehr-rettet-zwei-personen-aus-verrauchtem-treppenhaus",
+      "published": "Sat, 03 Oct 2026 10:05:17 -0000",
+      "published_display": "03.10.2026 · 10:05 Uhr"
     },
     {
       "title": "Kämpfe in Tigray: Tigray-Konflikt in Äthiopien flammt wieder auf",
       "summary": "Wenige Jahre nach dem Bürgerkrieg in Tigray droht die Lage erneut zu eskalieren. Eine regierungsnahe Miliz soll in die Hauptstadt der äthiopischen Region vorgerückt sein.",
       "image": "https://img.zeit.de/politik/ausland/2026-10/aethiopien-mekelle-tigray-peace-forces-tplf-miliz-foto-1/original__640x360",
       "link": "https://www.zeit.de/politik/ausland/2026-10/aethiopien-mekelle-tigray-peace-forces-tplf-miliz",
-      "published": "Sat, 03 Oct 2026 09:54:15 -0000",
+      "published": "Sat, 03 Oct 2026 10:04:36 -0000",
+      "published_display": "03.10.2026 · 10:04 Uhr"
+    },
+    {
+      "title": "Angriff bei Flug nach Tel Aviv: Flydubai-Co-Pilot soll Terroranschlag geplant haben",
+      "summary": "Mit einem Beil soll der festgenommene Flydubai-Co-Pilot den Piloten angegriffen haben. Die Vereinigten Arabischen Emirate sprechen von einem versuchten Terroranschlag.",
+      "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-10/flydubai-co-pilot-terroranschlag-axt-foto-1/original__640x360",
+      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-10/flydubai-co-pilot-terroranschlag-axt-gxe",
+      "published": "Sat, 03 Oct 2026 09:59:32 -0000",
+      "published_display": "03.10.2026 · 09:59 Uhr"
+    },
+    {
+      "title": "Unfälle: 71-Jähriger stürzt mit Motorrad - schwer verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/03/71-jaehriger-stuerzt-mit-motorrad-schwer-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/03/71-jaehriger-stuerzt-mit-motorrad-schwer-verletzt",
+      "published": "Sat, 03 Oct 2026 09:54:24 -0000",
       "published_display": "03.10.2026 · 09:54 Uhr"
     },
     {
@@ -57,70 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/03/drei-maenner-mit-messern-verletzt-notoperationen",
       "published": "Sat, 03 Oct 2026 09:49:07 -0000",
       "published_display": "03.10.2026 · 09:49 Uhr"
-    },
-    {
-      "title": "Tag der Deutschen Einheit: Thomas de Maizière: «Deutsche Einheit bleibt ein Wunder»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/03/thomas-de-maizi-re-deutsche-einheit-bleibt-ein-wunder-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/03/thomas-de-maizi-re-deutsche-einheit-bleibt-ein-wunder",
-      "published": "Sat, 03 Oct 2026 09:48:13 -0000",
-      "published_display": "03.10.2026 · 09:48 Uhr"
-    },
-    {
-      "title": "Fußball-Nationalmannschaft: Klopps klarer Auftrag: Revanche im griechischen Spätsommer",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/03/kompletter-kader-nach-griechenland-naechster-torwarttausch-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/03/kompletter-kader-nach-griechenland-naechster-torwarttausch",
-      "published": "Sat, 03 Oct 2026 09:47:08 -0000",
-      "published_display": "03.10.2026 · 09:47 Uhr"
-    },
-    {
-      "title": "Matthias Sammer: »Coach, mein Land gibt es nicht mehr«",
-      "summary": "Matthias Sammer war es, der auf dem Platz einst westdeutsche Überlegenheitsgefühle widerlegte. Unser Kolumnist erinnert an Calmunds Geld und wilde Zeiten der Wendemonate.",
-      "image": "https://img.zeit.de/sport/2026-10/matthias-sammer-reiner-calmund-go-west-doku-gruenflaeche-bild/original__640x360",
-      "link": "https://www.zeit.de/sport/2026-10/matthias-sammer-reiner-calmund-go-west-doku-gruenflaeche",
-      "published": "Sat, 03 Oct 2026 09:45:44 -0000",
-      "published_display": "03.10.2026 · 09:45 Uhr"
-    },
-    {
-      "title": "Fotografie: Bilder des Tages",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/03/bilder-des-tages-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/03/bilder-des-tages",
-      "published": "Sat, 03 Oct 2026 09:45:03 -0000",
-      "published_display": "03.10.2026 · 09:45 Uhr"
-    },
-    {
-      "title": "Formel 1: «Fantastisch»: Verstappens erste Saison-Pole - Mercedes lahm",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/03/antonelli-macht-ernst-bestzeit-vor-dem-qualifying-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/03/antonelli-macht-ernst-bestzeit-vor-dem-qualifying",
-      "published": "Sat, 03 Oct 2026 09:42:45 -0000",
-      "published_display": "03.10.2026 · 09:42 Uhr"
-    },
-    {
-      "title": "Fußball: Schiedsrichter-Chef in der Türkei in Untersuchungshaft",
-      "summary": "Der türkische Schiedsrichter-Chef Ferhat Gündoğdu ist in Untersuchungshaft genommen worden. Es geht laut türkischen Medienberichten um den Verdacht der Manipulation.",
-      "image": "https://img.zeit.de/sport/2026-10/ferhat-guendogdu-schiedsrichter-tuerkei-korruption-haft-foto-1/original__640x360",
-      "link": "https://www.zeit.de/sport/2026-10/ferhat-guendogdu-schiedsrichter-tuerkei-korruption-haft",
-      "published": "Sat, 03 Oct 2026 09:41:51 -0000",
-      "published_display": "03.10.2026 · 09:41 Uhr"
-    },
-    {
-      "title": "Wurst- und Weißmehlverzicht: Warum Harald Schmidt in Thüringen eine Ausnahme macht",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/03/warum-harald-schmidt-in-thueringen-eine-ausnahme-macht-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/03/warum-harald-schmidt-in-thueringen-eine-ausnahme-macht",
-      "published": "Sat, 03 Oct 2026 09:40:27 -0000",
-      "published_display": "03.10.2026 · 09:40 Uhr"
-    },
-    {
-      "title": "Feuerwehreinsatz: Defekter Aufzug: Gäste saßen auf Funkturm fest",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/03/defekter-aufzug-gaeste-sassen-auf-funkturm-fest-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/03/defekter-aufzug-gaeste-sassen-auf-funkturm-fest",
-      "published": "Sat, 03 Oct 2026 09:39:08 -0000",
-      "published_display": "03.10.2026 · 09:39 Uhr"
     }
   ]
 }
