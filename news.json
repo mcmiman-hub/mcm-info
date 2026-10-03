@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-03T01:31:56.757354+00:00",
+  "updated": "2026-10-03T01:45:53.075562+00:00",
   "items": [
+    {
+      "title": "Fotografie: Bilder des Tages",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/03/bilder-des-tages-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/03/bilder-des-tages",
+      "published": "Sat, 03 Oct 2026 01:34:57 -0000",
+      "published_display": "03.10.2026 · 01:34 Uhr"
+    },
+    {
+      "title": "Einheitsfeier in Bremen: Hunderte bei Antifa-Demo vor Tag der Deutschen Einheit",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/02/hunderte-bei-antifa-demo-vor-tag-der-deutschen-einheit-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/02/hunderte-bei-antifa-demo-vor-tag-der-deutschen-einheit",
+      "published": "Sat, 03 Oct 2026 01:30:52 -0000",
+      "published_display": "03.10.2026 · 01:30 Uhr"
+    },
+    {
+      "title": "Vorbild Großbritannien: Schweitzer: SPD kann von Burnham lernen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/03/schweitzer-spd-kann-von-burnham-lernen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/03/schweitzer-spd-kann-von-burnham-lernen",
+      "published": "Sat, 03 Oct 2026 01:30:05 -0000",
+      "published_display": "03.10.2026 · 01:30 Uhr"
+    },
     {
       "title": "Elisabeth Kaiser: Ostbeauftragte schlägt ostdeutsche Frau als Staatsoberhaupt vor",
       "summary": "Warum sollte die nächste Bundespräsidentin nicht »eine kluge Frau aus Ostdeutschland« sein, fragt die Ostbeauftragte der Bundesregierung. Sie hält die Zeit für reif.",
@@ -59,14 +83,6 @@
       "published_display": "02.10.2026 · 23:32 Uhr"
     },
     {
-      "title": "Einheitsfeier in Bremen: Hunderte bei Antifa-Demo vor Tag der Deutschen Einheit",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/hunderte-bei-antifa-demo-vor-tag-der-deutschen-einheit-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/hunderte-bei-antifa-demo-vor-tag-der-deutschen-einheit",
-      "published": "Fri, 02 Oct 2026 23:27:42 -0000",
-      "published_display": "02.10.2026 · 23:27 Uhr"
-    },
-    {
       "title": "USA: Zum Tode verurteilte Frau nach gescheiterter Hinrichtung bewusstlos",
       "summary": "Die 50-jährige Christa Pike befindet sich nach dem gescheiterten Hinrichtungsversuch in Tennessee weiter in kritischem Zustand. Sie hat zuvor zwei Giftspritzen überlebt.",
       "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-10/christa-pike-hinrichtung-tennessee-todesstrafe-foto-1/original__640x360",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/03/gerichtsantrag-enthuellt-details-zu-gescheiterter-hinrichtung",
       "published": "Fri, 02 Oct 2026 22:30:30 -0000",
       "published_display": "02.10.2026 · 22:30 Uhr"
-    },
-    {
-      "title": "Post auf Ministerium-Account: Sächsisches Innenministerium löscht Post zu Berliner Linken",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/03/saechsisches-innenministerium-loescht-post-zu-berliner-linken-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/03/saechsisches-innenministerium-loescht-post-zu-berliner-linken",
-      "published": "Fri, 02 Oct 2026 22:29:11 -0000",
-      "published_display": "02.10.2026 · 22:29 Uhr"
-    },
-    {
-      "title": "Kalenderblatt: Was geschah am 3. Oktober?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/was-geschah-am-3-oktober-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/was-geschah-am-3-oktober",
-      "published": "Fri, 02 Oct 2026 21:55:04 -0000",
-      "published_display": "02.10.2026 · 21:55 Uhr"
     }
   ]
 }
