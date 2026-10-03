@@ -1,7 +1,63 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-03T07:00:31.449483+00:00",
+  "updated": "2026-10-03T07:19:35.906200+00:00",
   "items": [
+    {
+      "title": "Asyl in Deutschland: Zahl der Asylanträge im September leicht gestiegen",
+      "summary": "Im vergangenen Monat haben etwas mehr Menschen Asyl in Deutschland beantragt als im Monat davor. Grundsätzlich ist der Zahl der Asylsuchenden aber weiter rückläufig.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-10/asylantraege-deutschland-bamf-bundesinnenministerium-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-10/asylantraege-deutschland-bamf-bundesinnenministerium",
+      "published": "Sat, 03 Oct 2026 07:14:09 -0000",
+      "published_display": "03.10.2026 · 07:14 Uhr"
+    },
+    {
+      "title": "Angriff bei Flug nach Tel Aviv: Flydubai-Co-Pilot soll Terroranschlag geplant haben",
+      "summary": "Mit einem Beil soll der festgenommene Flydubai-Co-Pilot den Piloten angegriffen haben. Die Vereinigten Arabischen Emirate sprechen von einem versuchten Terroranschlag.",
+      "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-10/flydubai-co-pilot-terroranschlag-axt-foto-1/original__640x360",
+      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-10/flydubai-co-pilot-terroranschlag-axt",
+      "published": "Sat, 03 Oct 2026 07:09:55 -0000",
+      "published_display": "03.10.2026 · 07:09 Uhr"
+    },
+    {
+      "title": "Schwerer Verkehrsunfall: E-Scooter-Unfall: 14-Jähriger schwebt in Lebensgefahr",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/03/e-scooter-unfall-14-jaehriger-schwebt-in-lebensgefahr-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/03/e-scooter-unfall-14-jaehriger-schwebt-in-lebensgefahr",
+      "published": "Sat, 03 Oct 2026 07:04:04 -0000",
+      "published_display": "03.10.2026 · 07:04 Uhr"
+    },
+    {
+      "title": "Justiz: Fußballfan stürzt aus Zug - neue Ermittlungen laufen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/03/fussballfan-stuerzt-aus-zug-neue-ermittlungen-laufen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/03/fussballfan-stuerzt-aus-zug-neue-ermittlungen-laufen",
+      "published": "Sat, 03 Oct 2026 07:02:13 -0000",
+      "published_display": "03.10.2026 · 07:02 Uhr"
+    },
+    {
+      "title": "Volksfest Ingolstadt: Polizei sucht Täter nach Pfefferspray-Attacke im Festzelt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/03/polizei-sucht-taeter-nach-pfefferspray-attacke-im-festzelt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/03/polizei-sucht-taeter-nach-pfefferspray-attacke-im-festzelt",
+      "published": "Sat, 03 Oct 2026 07:00:16 -0000",
+      "published_display": "03.10.2026 · 07:00 Uhr"
+    },
+    {
+      "title": "Neuer ZDF-Krimi: Embryonen und One-Night-Stand im neuen «Frankfurt Mord»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/03/embryonen-und-one-night-stand-im-neuen-frankfurt-mord-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/03/embryonen-und-one-night-stand-im-neuen-frankfurt-mord",
+      "published": "Sat, 03 Oct 2026 07:00:04 -0000",
+      "published_display": "03.10.2026 · 07:00 Uhr"
+    },
+    {
+      "title": "Wetter: Herbstwochenende im Norden - was Autofahrer beachten müssen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/03/herbstwochenende-im-norden-was-autofahrer-beachten-muessen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/03/herbstwochenende-im-norden-was-autofahrer-beachten-muessen",
+      "published": "Sat, 03 Oct 2026 06:59:53 -0000",
+      "published_display": "03.10.2026 · 06:59 Uhr"
+    },
     {
       "title": "Unfälle: Mit 4,36 Promille: Mann fährt nach Unfall davon",
       "summary": "",
@@ -9,14 +65,6 @@
       "link": "https://www.zeit.de/news/2026-10/03/mit-4-36-promille-mann-faehrt-nach-unfall-davon",
       "published": "Sat, 03 Oct 2026 06:58:23 -0000",
       "published_display": "03.10.2026 · 06:58 Uhr"
-    },
-    {
-      "title": "Angriff bei Flug nach Tel Aviv: Flydubai-Co-Pilot soll Terroranschlag geplant haben",
-      "summary": "Mit einer Axt soll der festgenommene Flydubai-Co-Pilot den Piloten angegriffen haben. Die Vereinigten Arabischen Emirate sprechen von einem versuchten Terroranschlag.",
-      "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-10/flydubai-co-pilot-terroranschlag-axt-foto-1/original__640x360",
-      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-10/flydubai-co-pilot-terroranschlag-axt",
-      "published": "Sat, 03 Oct 2026 06:49:53 -0000",
-      "published_display": "03.10.2026 · 06:49 Uhr"
     },
     {
       "title": "Wetter: Herbstwochenende in Niedersachsen - wann es nebelig wird",
@@ -51,7 +99,7 @@
       "published_display": "03.10.2026 · 06:28 Uhr"
     },
     {
-      "title": "Flug von Dubai nach Tel Aviv: Der Tod galt ihnen – weil sie Israelis sind",
+      "title": "Flug von Dubai nach Tel Aviv: Sie sollten sterben, weil sie Israelis sind",
       "summary": "Nur knapp, wie durch ein Wunder, entgingen 174 Fluggäste auf dem Weg nach Tel Aviv einem Anschlag. Die Welt ist für Israelis zu einem unbehaglichen Ort geworden.",
       "image": "https://img.zeit.de/politik/ausland/2026-10/sicherheitslage-israel-juden-flugzeugattentat-bild/original__640x360",
       "link": "https://www.zeit.de/politik/ausland/2026-10/flug-dubai-tel-aviv-co-pilot-israel",
@@ -73,54 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/03/formel-1-chef-finale-trotz-iran-kriegs-in-abu-dhabi",
       "published": "Sat, 03 Oct 2026 06:05:49 -0000",
       "published_display": "03.10.2026 · 06:05 Uhr"
-    },
-    {
-      "title": "Bildungspolitik: Bayern führt wegen Pisa-Studie zusätzlichen Grundschulunterricht ein",
-      "summary": "Mathe, Deutsch, Sport und Musik: Grundschüler in Bayern müssen bald länger pauken. Sechs Zusatzstunden sollen helfen, den Pisa-Schock zu überwinden.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-10/bayern-grundschule-unterricht-pisa-ergebnisse-mathematik-deutsch-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-10/bayern-grundschule-unterricht-pisa-ergebnisse-mathematik-deutsch",
-      "published": "Sat, 03 Oct 2026 05:57:36 -0000",
-      "published_display": "03.10.2026 · 05:57 Uhr"
-    },
-    {
-      "title": "Formel 1: Antonelli macht Ernst: Bestzeit vor dem Qualifying",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/03/antonelli-macht-ernst-bestzeit-vor-dem-qualifying-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/03/antonelli-macht-ernst-bestzeit-vor-dem-qualifying",
-      "published": "Sat, 03 Oct 2026 05:40:52 -0000",
-      "published_display": "03.10.2026 · 05:40 Uhr"
-    },
-    {
-      "title": "USA: Zum Tode verurteilte Frau nach gescheiterter Hinrichtung bewusstlos",
-      "summary": "Die 50-jährige Christa Pike befindet sich nach dem gescheiterten Hinrichtungsversuch in Tennessee weiter in kritischem Zustand. Sie hat zuvor zwei Giftspritzen überlebt.",
-      "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-10/christa-pike-hinrichtung-tennessee-todesstrafe-bild/original__640x360",
-      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-10/christa-pike-hinrichtung-tennessee-todesstrafe",
-      "published": "Sat, 03 Oct 2026 05:40:35 -0000",
-      "published_display": "03.10.2026 · 05:40 Uhr"
-    },
-    {
-      "title": "Energiekrise: USA haben Diesel-Exportstopp laut Donald Trump nie ernsthaft geplant",
-      "summary": "Nach dem G7-Beschluss zur Freigabe strategischer Ölreserven hat der US-Präsident Drohungen gegen die EU widerrufen. Er habe nie vorgehabt, Dieselexporte zu stoppen.",
-      "image": "https://img.zeit.de/politik/ausland/2026-10/usa-diesel-exportstopp-donald-trump-g7-europa-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/usa-diesel-exportstopp-donald-trump-g7-europa",
-      "published": "Sat, 03 Oct 2026 05:27:43 -0000",
-      "published_display": "03.10.2026 · 05:27 Uhr"
-    },
-    {
-      "title": "Die Linke: Sachsens Innenministerium löscht Posting zur Berliner Linken",
-      "summary": "Der Wahlsieg der Linken war für Armin Schuster ein »Schlag ins Gesicht rechtschaffener Bürger«. Der Partei schaden wollte er nach eigenen Angaben mit der Aussage nicht.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-10/drone-possibly-armed-with-explosive-discovered-at-leipzig-airport-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-10/armin-schuster-instagram-x-innenministerium-sachsen-die-linke",
-      "published": "Sat, 03 Oct 2026 05:24:58 -0000",
-      "published_display": "03.10.2026 · 05:24 Uhr"
-    },
-    {
-      "title": "Von der Justiz gepfändet: Warum dieser Luxus-Lamborghini nun unter den Hammer kommt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/03/warum-luxus-lamborghinis-nun-unter-den-hammer-kommen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/03/warum-luxus-lamborghinis-nun-unter-den-hammer-kommen",
-      "published": "Sat, 03 Oct 2026 05:05:29 -0000",
-      "published_display": "03.10.2026 · 05:05 Uhr"
     }
   ]
 }
