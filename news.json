@@ -1,7 +1,71 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-03T08:34:43.031668+00:00",
+  "updated": "2026-10-03T08:51:12.185691+00:00",
   "items": [
+    {
+      "title": "Demonstrationen in Frankreich: Tausende Festnahmen bei Schülerprotesten in Frankreich",
+      "summary": "Mehr als 5.000 Menschen sind bei den Protesten in Frankreich festgenommen worden. Es soll Ausschreitungen rund um 158 Schulen gegeben haben.",
+      "image": "https://img.zeit.de/bildung/2026-10/frankreich-schuelerproteste-polizei-festnahmen-laurent-nunez-edouard-geffray-foto-1/original__640x360",
+      "link": "https://www.zeit.de/bildung/2026-10/frankreich-schuelerproteste-polizei-festnahmen-laurent-nunez-edouard-geffray",
+      "published": "Sat, 03 Oct 2026 08:49:19 -0000",
+      "published_display": "03.10.2026 · 08:49 Uhr"
+    },
+    {
+      "title": "Niedrigwasser: Nach Sandbank-Malheur: Frachtschiff schafft es auf den Rhein",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/03/nach-sandbank-malheur-frachtschiff-schafft-es-auf-den-rhein-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/03/nach-sandbank-malheur-frachtschiff-schafft-es-auf-den-rhein",
+      "published": "Sat, 03 Oct 2026 08:45:24 -0000",
+      "published_display": "03.10.2026 · 08:45 Uhr"
+    },
+    {
+      "title": "Wetter: Mildes Herbstwochenende in Hessen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/03/mildes-herbstwochenende-in-hessen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/03/mildes-herbstwochenende-in-hessen",
+      "published": "Sat, 03 Oct 2026 08:45:16 -0000",
+      "published_display": "03.10.2026 · 08:45 Uhr"
+    },
+    {
+      "title": "Kriminalität: Schüsse in Hamburg - Schütze schießt sich selbst an",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/03/schuesse-in-hamburg-schuetze-schiesst-sich-selbst-an-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/03/schuesse-in-hamburg-schuetze-schiesst-sich-selbst-an",
+      "published": "Sat, 03 Oct 2026 08:42:34 -0000",
+      "published_display": "03.10.2026 · 08:42 Uhr"
+    },
+    {
+      "title": "Nahost: Bericht: Tote bei israelischem Luftangriff auf Gaza",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/03/bericht-tote-bei-israelischem-luftangriff-auf-gaza-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/03/bericht-tote-bei-israelischem-luftangriff-auf-gaza",
+      "published": "Sat, 03 Oct 2026 08:41:22 -0000",
+      "published_display": "03.10.2026 · 08:41 Uhr"
+    },
+    {
+      "title": "Feuerwehreinsatz: Garagenbrand greift auf Häuser über - zwei Leichtverletzte",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/03/garagenbrand-greift-auf-haeuser-ueber-zwei-leichtverletzte-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/03/garagenbrand-greift-auf-haeuser-ueber-zwei-leichtverletzte",
+      "published": "Sat, 03 Oct 2026 08:40:24 -0000",
+      "published_display": "03.10.2026 · 08:40 Uhr"
+    },
+    {
+      "title": "Kurioser Diebstahl: 30 junge Tannen gestohlen – Polizei sucht Hinweise",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/03/30-junge-tannen-gestohlen-polizei-sucht-hinweise-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/03/30-junge-tannen-gestohlen-polizei-sucht-hinweise",
+      "published": "Sat, 03 Oct 2026 08:37:09 -0000",
+      "published_display": "03.10.2026 · 08:37 Uhr"
+    },
+    {
+      "title": "Nach Havarie: Laborergebnisse nach Verunreinigung der Saale erwartet",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/03/laborergebnisse-nach-verunreinigung-der-saale-erwartet-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/03/laborergebnisse-nach-verunreinigung-der-saale-erwartet",
+      "published": "Sat, 03 Oct 2026 08:34:21 -0000",
+      "published_display": "03.10.2026 · 08:34 Uhr"
+    },
     {
       "title": "Sechs Personen verletzt: Pfefferspray und Schläge: Streit in Kneipe eskaliert",
       "summary": "",
@@ -25,14 +89,6 @@
       "link": "https://www.zeit.de/news/2026-10/03/firmenwagen-nach-betriebsfeier-zu-schrott-gefahren",
       "published": "Sat, 03 Oct 2026 08:21:17 -0000",
       "published_display": "03.10.2026 · 08:21 Uhr"
-    },
-    {
-      "title": "Demonstrationen in Frankreich: Tausende Festnahmen bei Schülerprotesten in Frankreich",
-      "summary": "Bei den französischen Protesten sind nach Angaben der Regierung mehr als 5.000 Menschen festgenommen worden. Es soll Ausschreitungen rund um 158 Schulen gegeben haben.",
-      "image": "https://img.zeit.de/bildung/2026-10/frankreich-schuelerproteste-polizei-festnahmen-laurent-nunez-edouard-geffray-foto-1/original__640x360",
-      "link": "https://www.zeit.de/bildung/2026-10/frankreich-schuelerproteste-polizei-festnahmen-laurent-nunez-edouard-geffray",
-      "published": "Sat, 03 Oct 2026 08:19:31 -0000",
-      "published_display": "03.10.2026 · 08:19 Uhr"
     },
     {
       "title": "Finanzen: Dressel fordert vom Bund Begrenzung der Sozialkosten",
@@ -65,62 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/03/was-hitze-und-trockenheit-fuer-pilzsammler-bedeuten",
       "published": "Sat, 03 Oct 2026 08:06:24 -0000",
       "published_display": "03.10.2026 · 08:06 Uhr"
-    },
-    {
-      "title": "Schiffsunfall: Frachtschiff rammt Felsen - Leck auf der Donau",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/03/frachtschiff-rammt-felsen-leck-auf-der-donau-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/03/frachtschiff-rammt-felsen-leck-auf-der-donau",
-      "published": "Sat, 03 Oct 2026 08:05:44 -0000",
-      "published_display": "03.10.2026 · 08:05 Uhr"
-    },
-    {
-      "title": "Betrugsmasche: Falscher Arzt bringt mit Schockanruf Seniorin um viel Geld",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/03/falscher-arzt-bringt-mit-schockanruf-seniorin-um-viel-geld-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/03/falscher-arzt-bringt-mit-schockanruf-seniorin-um-viel-geld",
-      "published": "Sat, 03 Oct 2026 08:02:21 -0000",
-      "published_display": "03.10.2026 · 08:02 Uhr"
-    },
-    {
-      "title": "Kein Heimspiel für Antonelli: Formel-1-Chef: Finale trotz Iran-Kriegs in Abu Dhabi",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/03/formel-1-chef-finale-trotz-iran-kriegs-in-abu-dhabi-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/03/formel-1-chef-finale-trotz-iran-kriegs-in-abu-dhabi",
-      "published": "Sat, 03 Oct 2026 08:00:22 -0000",
-      "published_display": "03.10.2026 · 08:00 Uhr"
-    },
-    {
-      "title": "Hinrichtung im Iran: Iran vollstreckt weiteres Todesurteil nach Massenprotesten",
-      "summary": "Siavasch Jamschidi soll bei Protesten angeblich auf iranische Polizisten geschossen haben. Wegen »Verschwörung gegen die Sicherheit des Landes« wurde er hingerichtet.",
-      "image": "https://img.zeit.de/politik/ausland/2026-10/hinrichtung-iran-massenproteste-siavasch-jamschidi-todesstrafe-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/hinrichtung-iran-massenproteste-siavasch-jamschidi-todesstrafe-gxe",
-      "published": "Sat, 03 Oct 2026 07:58:34 -0000",
-      "published_display": "03.10.2026 · 07:58 Uhr"
-    },
-    {
-      "title": "Asyl in Deutschland: Zahl der Asylanträge im September leicht gestiegen",
-      "summary": "Im vergangenen Monat haben etwas mehr Menschen Asyl in Deutschland beantragt als im Monat davor. Grundsätzlich ist die Zahl der Asylsuchenden aber weiter rückläufig.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-10/asylantraege-deutschland-bamf-bundesinnenministerium-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-10/asylantraege-deutschland-bamf-bundesinnenministerium-gxe",
-      "published": "Sat, 03 Oct 2026 07:56:16 -0000",
-      "published_display": "03.10.2026 · 07:56 Uhr"
-    },
-    {
-      "title": "Uwe Steimle: Und dann entfesselt Uwe Steimle die Wut",
-      "summary": "DDR-Hymne und Gewaltfantasien gegen eine ZDF-Moderatorin: Nach 36 Jahren kann die deutsche Einheit auch aussehen wie in Uwe Steimles Kabarett in Sachsen-Anhalt.",
-      "image": "https://img.zeit.de/feuilleton/2026-07/uwe-steimler-afd-diskursverchiebung-bild/original__640x360",
-      "link": "https://www.zeit.de/feuilleton/2026-10/uwe-steimle-kabarett-ddr-hymne-zdf-sachsen-anhalt",
-      "published": "Sat, 03 Oct 2026 07:56:14 -0000",
-      "published_display": "03.10.2026 · 07:56 Uhr"
-    },
-    {
-      "title": "Kommentare: Mal in die Word-Kommentare sliden",
-      "summary": "Social-Media-Verbot? LOL! Schließt sich im Internet eine Tür, finden User schon ein Chatfenster. Und sei es die Kommentarspalte eines öffentlich-rechtlichen Podcasts.",
-      "image": "https://img.zeit.de/digital/2026-10/kommentare-social-media-verbot-oeffentlich-rechtlich-word-internekolumne-bild/original__640x360",
-      "link": "https://www.zeit.de/digital/internet/2026-10/kommentare-social-media-verbot-oeffentlich-rechtlich-word-internekolumne",
-      "published": "Sat, 03 Oct 2026 07:48:19 -0000",
-      "published_display": "03.10.2026 · 07:48 Uhr"
     }
   ]
 }
