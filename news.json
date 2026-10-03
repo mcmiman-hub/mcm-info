@@ -1,7 +1,63 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-03T09:34:33.884139+00:00",
+  "updated": "2026-10-03T09:47:18.871672+00:00",
   "items": [
+    {
+      "title": "Matthias Sammer: »Coach, mein Land gibt es nicht mehr«",
+      "summary": "Matthias Sammer war es, der auf dem Platz einst westdeutsche Überlegenheitsgefühle widerlegte. Unser Kolumnist erinnert an Calmunds Geld und wilde Zeiten der Wendemonate.",
+      "image": "https://img.zeit.de/sport/2026-10/matthias-sammer-reiner-calmund-go-west-doku-gruenflaeche-bild/original__640x360",
+      "link": "https://www.zeit.de/sport/2026-10/matthias-sammer-reiner-calmund-go-west-doku-gruenflaeche",
+      "published": "Sat, 03 Oct 2026 09:45:44 -0000",
+      "published_display": "03.10.2026 · 09:45 Uhr"
+    },
+    {
+      "title": "Fotografie: Bilder des Tages",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/03/bilder-des-tages-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/03/bilder-des-tages",
+      "published": "Sat, 03 Oct 2026 09:45:03 -0000",
+      "published_display": "03.10.2026 · 09:45 Uhr"
+    },
+    {
+      "title": "Formel 1: «Fantastisch»: Verstappens erste Saison-Pole - Mercedes lahm",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/03/antonelli-macht-ernst-bestzeit-vor-dem-qualifying-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/03/antonelli-macht-ernst-bestzeit-vor-dem-qualifying",
+      "published": "Sat, 03 Oct 2026 09:42:45 -0000",
+      "published_display": "03.10.2026 · 09:42 Uhr"
+    },
+    {
+      "title": "Fußball: Schiedsrichter-Chef in der Türkei in Untersuchungshaft",
+      "summary": "Der türkische Schiedsrichter-Chef Ferhat Gündoğdu ist in Untersuchungshaft genommen worden. Es geht laut türkischen Medienberichten um den Verdacht der Manipulation.",
+      "image": "https://img.zeit.de/sport/2026-10/ferhat-guendogdu-schiedsrichter-tuerkei-korruption-haft-foto-1/original__640x360",
+      "link": "https://www.zeit.de/sport/2026-10/ferhat-guendogdu-schiedsrichter-tuerkei-korruption-haft",
+      "published": "Sat, 03 Oct 2026 09:41:51 -0000",
+      "published_display": "03.10.2026 · 09:41 Uhr"
+    },
+    {
+      "title": "Wurst- und Weißmehlverzicht: Warum Harald Schmidt in Thüringen eine Ausnahme macht",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/03/warum-harald-schmidt-in-thueringen-eine-ausnahme-macht-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/03/warum-harald-schmidt-in-thueringen-eine-ausnahme-macht",
+      "published": "Sat, 03 Oct 2026 09:40:27 -0000",
+      "published_display": "03.10.2026 · 09:40 Uhr"
+    },
+    {
+      "title": "Feuerwehreinsatz: Defekter Aufzug: Gäste saßen auf Funkturm fest",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/03/defekter-aufzug-gaeste-sassen-auf-funkturm-fest-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/03/defekter-aufzug-gaeste-sassen-auf-funkturm-fest",
+      "published": "Sat, 03 Oct 2026 09:39:08 -0000",
+      "published_display": "03.10.2026 · 09:39 Uhr"
+    },
+    {
+      "title": "Fehde am Ende der Fete: Schlägerei und Steinwürfe: Schiffsparty läuft aus dem Ruder",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/03/schlaegerei-und-steinwuerfe-schiffsparty-laeuft-aus-dem-ruder-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/03/schlaegerei-und-steinwuerfe-schiffsparty-laeuft-aus-dem-ruder",
+      "published": "Sat, 03 Oct 2026 09:39:05 -0000",
+      "published_display": "03.10.2026 · 09:39 Uhr"
+    },
     {
       "title": "Flucht über die Grenze: Einbruch in Waffengeschäft - Fahndung läuft weiter",
       "summary": "",
@@ -51,14 +107,6 @@
       "published_display": "03.10.2026 · 09:09 Uhr"
     },
     {
-      "title": "Formel 1: Verstappen rast zur Premieren-Pole in diesem Jahr",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/03/antonelli-macht-ernst-bestzeit-vor-dem-qualifying-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/03/antonelli-macht-ernst-bestzeit-vor-dem-qualifying",
-      "published": "Sat, 03 Oct 2026 09:08:11 -0000",
-      "published_display": "03.10.2026 · 09:08 Uhr"
-    },
-    {
       "title": "Wetter: Mildes Herbstwetter an Rhein und Saar",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-10/03/mildes-herbstwetter-an-rhein-und-saar-image-group/original__640x360",
@@ -73,54 +121,6 @@
       "link": "https://www.zeit.de/politik/2026-10/links-rechts-spaltung-politische-mitte-parteien-demokratie",
       "published": "Sat, 03 Oct 2026 09:03:43 -0000",
       "published_display": "03.10.2026 · 09:03 Uhr"
-    },
-    {
-      "title": "Debatte über Schwarz-Rot-Gold: Minister: «Eine Flagge bewirkt noch keinen Zusammenhalt»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/03/minister-eine-flagge-bewirkt-noch-keinen-zusammenhalt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/03/minister-eine-flagge-bewirkt-noch-keinen-zusammenhalt",
-      "published": "Sat, 03 Oct 2026 09:03:18 -0000",
-      "published_display": "03.10.2026 · 09:03 Uhr"
-    },
-    {
-      "title": "Fest in Bremen: Gottesdienst zur Einheit: Bremer Stadtmusikanten als Vorbild",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/03/spitzenpolitik-und-trubel-einheitsfest-in-bremen-startet-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/03/spitzenpolitik-und-trubel-einheitsfest-in-bremen-startet",
-      "published": "Sat, 03 Oct 2026 08:55:09 -0000",
-      "published_display": "03.10.2026 · 08:55 Uhr"
-    },
-    {
-      "title": "Angriff: Unbekannter verletzt 15-Jährigen schwer mit Messer",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/03/unbekannter-verletzt-15-jaehrigen-schwer-mit-messer-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/03/unbekannter-verletzt-15-jaehrigen-schwer-mit-messer",
-      "published": "Sat, 03 Oct 2026 08:51:26 -0000",
-      "published_display": "03.10.2026 · 08:51 Uhr"
-    },
-    {
-      "title": "Demonstrationen in Frankreich: Tausende Festnahmen bei Schülerprotesten in Frankreich",
-      "summary": "Mehr als 5.000 Menschen sind bei den Protesten in Frankreich festgenommen worden. Es soll Ausschreitungen rund um 158 Schulen gegeben haben.",
-      "image": "https://img.zeit.de/bildung/2026-10/frankreich-schuelerproteste-polizei-festnahmen-laurent-nunez-edouard-geffray-foto-1/original__640x360",
-      "link": "https://www.zeit.de/bildung/2026-10/frankreich-schuelerproteste-polizei-festnahmen-laurent-nunez-edouard-geffray-gxe",
-      "published": "Sat, 03 Oct 2026 08:49:19 -0000",
-      "published_display": "03.10.2026 · 08:49 Uhr"
-    },
-    {
-      "title": "Niedrigwasser: Nach Sandbank-Malheur: Frachtschiff schafft es auf den Rhein",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/03/nach-sandbank-malheur-frachtschiff-schafft-es-auf-den-rhein-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/03/nach-sandbank-malheur-frachtschiff-schafft-es-auf-den-rhein",
-      "published": "Sat, 03 Oct 2026 08:45:24 -0000",
-      "published_display": "03.10.2026 · 08:45 Uhr"
-    },
-    {
-      "title": "Wetter: Mildes Herbstwochenende in Hessen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/03/mildes-herbstwochenende-in-hessen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/03/mildes-herbstwochenende-in-hessen",
-      "published": "Sat, 03 Oct 2026 08:45:16 -0000",
-      "published_display": "03.10.2026 · 08:45 Uhr"
     }
   ]
 }
