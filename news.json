@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-03T01:01:58.338256+00:00",
+  "updated": "2026-10-03T01:17:57.403451+00:00",
   "items": [
+    {
+      "title": "Konflikte: Nordkorea feuert erneut ballistische Rakete ab",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/03/nordkorea-feuert-erneut-ballistische-rakete-ab-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/03/nordkorea-feuert-erneut-ballistische-rakete-ab",
+      "published": "Sat, 03 Oct 2026 01:01:16 -0000",
+      "published_display": "03.10.2026 · 01:01 Uhr"
+    },
+    {
+      "title": "Tierisches: Nur eines im Sinn: Hirsche röhren um die Wette",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/03/nur-eines-im-sinn-hirsche-roehren-um-die-wette-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/03/nur-eines-im-sinn-hirsche-roehren-um-die-wette",
+      "published": "Sat, 03 Oct 2026 01:00:06 -0000",
+      "published_display": "03.10.2026 · 01:00 Uhr"
+    },
     {
       "title": "Wiedervereinigung: Kluft zwischen Einkommen in Ost- und Westdeutschland nimmt weiter zu",
       "summary": "Im Osten haben Haushalte rund 7.000 Euro weniger netto zur Verfügung als im Westen des Landes. Laut einer Studie stockt auch die Angleichung der ostdeutschen Wirtschaft.",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/politik/ausland/2026-10/us-kuestenwache-schiff-grace-kuba-mexiko-treibstofflieferung",
       "published": "Fri, 02 Oct 2026 21:53:44 -0000",
       "published_display": "02.10.2026 · 21:53 Uhr"
-    },
-    {
-      "title": "Unfall: Frau erfasst Ehemann beim Parken - lebensgefährlich verletzt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/frau-erfasst-ehemann-beim-parken-lebensgefaehrlich-verletzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/frau-erfasst-ehemann-beim-parken-lebensgefaehrlich-verletzt",
-      "published": "Fri, 02 Oct 2026 21:01:04 -0000",
-      "published_display": "02.10.2026 · 21:01 Uhr"
-    },
-    {
-      "title": "Botswana: Tierschützer kritisieren Regierung Botswanas für Tötung von Elefanten",
-      "summary": "Die botswanische Regierung hat anlässlich der Feier des 60. Jahrestags der Unabhängigkeit des Landes die Tötung von 23 Elefanten erlaubt. Von Tierschützern kam Kritik.",
-      "image": "https://img.zeit.de/wissenschaft/2026-10/botswana-conservation-elephant-bild/original__640x360",
-      "link": "https://www.zeit.de/wissenschaft/umwelt/2026-10/botsuana-elefanten-abschuss-tierschuetzer-unabhaengigkeit",
-      "published": "Fri, 02 Oct 2026 20:57:24 -0000",
-      "published_display": "02.10.2026 · 20:57 Uhr"
     }
   ]
 }
