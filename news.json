@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-04T22:18:00.585449+00:00",
+  "updated": "2026-10-04T22:31:50.068370+00:00",
   "items": [
+    {
+      "title": "Zustand der Koalition: Merz: «Wir müssen in der Regierung zusammenbleiben»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/05/merz-wir-muessen-in-der-regierung-zusammenbleiben-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/05/merz-wir-muessen-in-der-regierung-zusammenbleiben",
+      "published": "Sun, 04 Oct 2026 22:25:04 -0000",
+      "published_display": "04.10.2026 · 22:25 Uhr"
+    },
+    {
+      "title": "Alkohol: 3,1 Promille am Steuer: «Nachtanken» an Tankstelle",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/05/3-1-promille-am-steuer-nachtanken-an-tankstelle-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/05/3-1-promille-am-steuer-nachtanken-an-tankstelle",
+      "published": "Sun, 04 Oct 2026 22:20:50 -0000",
+      "published_display": "04.10.2026 · 22:20 Uhr"
+    },
     {
       "title": "Einzelhandel: Miteigentümer Beetz kritisiert Galeria für Insolvenzantrag",
       "summary": "",
@@ -92,7 +108,7 @@
     },
     {
       "title": "Sachsen-Anhalt: Sven Schulze schließt CDU-Unterstützung bei Siegmund-Wahl aus",
-      "summary": "Kein CDU-Abgeordneter werde zur AfD wechseln, beteuert Sachsen-Anhalts CDU-Fraktionschef Schulze. Das hätten ihm seine Fraktionsmitglieder bestätigt - sogar schriftlich.",
+      "summary": "Kein CDU-Abgeordneter werde zur AfD wechseln, beteuert Sachsen-Anhalts CDU-Fraktionschef Schulze. Das hätten ihm seine Fraktionsmitglieder bestätigt – sogar schriftlich.",
       "image": "https://img.zeit.de/politik/deutschland/2026-10/sven-schulze-cdu-sachsen-anhalt-afd/original__640x360",
       "link": "https://www.zeit.de/politik/deutschland/2026-10/ministerpraesidentenwahl-sachsen-anhalt-afd-cdu-ulrich-siegmund-sven-schulze-bsw",
       "published": "Sun, 04 Oct 2026 20:28:09 -0000",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/feuilleton/film/2026-10/tatort-ludwigshafen-ard-explosive-mischung-andreas-hoppe",
       "published": "Sun, 04 Oct 2026 20:01:30 -0000",
       "published_display": "04.10.2026 · 20:01 Uhr"
-    },
-    {
-      "title": "Rhein-Kreis Neuss: Brandbombe am Rhein - Phosphor entzündet sich",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/04/brandbombe-am-rhein-phosphor-entzuendet-sich-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/04/brandbombe-am-rhein-phosphor-entzuendet-sich",
-      "published": "Sun, 04 Oct 2026 19:12:35 -0000",
-      "published_display": "04.10.2026 · 19:12 Uhr"
-    },
-    {
-      "title": "Einzelhandel: Warenhauskette Galeria stellt abermals Insolvenzantrag",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/02/galeria-stellt-erneut-insolvenzantrag-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/02/galeria-stellt-erneut-insolvenzantrag",
-      "published": "Sun, 04 Oct 2026 19:07:23 -0000",
-      "published_display": "04.10.2026 · 19:07 Uhr"
     }
   ]
 }
