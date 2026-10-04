@@ -1,14 +1,38 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-04T21:12:14.077117+00:00",
+  "updated": "2026-10-04T21:42:26.897187+00:00",
   "items": [
+    {
+      "title": "Nations League, 4. Spieltag: Deutschland spielt unentschieden gegen Griechenland",
+      "summary": "Eine Woche nach der Niederlage trennen sich Deutschland und Griechenland mit einem Remis. Damit sinken die Chancen auf das Viertelfinale.",
+      "image": "https://img.zeit.de/sport/2026-10/nations-league-uefa-fussball-2026-deutschland-griechenland-bild/original__640x360",
+      "link": "https://www.zeit.de/sport/2026-10/nations-league-deutschland-griechenland-viertes-spiel",
+      "published": "Sun, 04 Oct 2026 21:29:51 -0000",
+      "published_display": "04.10.2026 · 21:29 Uhr"
+    },
+    {
+      "title": "Potsdamer Platz: Mensch stürzt in Aufzugschacht - Lebensgefahr",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/04/mensch-stuerzt-in-aufzugschacht-lebensgefahr-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/04/mensch-stuerzt-in-aufzugschacht-lebensgefahr",
+      "published": "Sun, 04 Oct 2026 21:26:03 -0000",
+      "published_display": "04.10.2026 · 21:26 Uhr"
+    },
     {
       "title": "Fußball-Nationalmannschaft: DFB-Team knackt das Griechen-Bollwerk wieder nicht",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-10/04/dfb-team-knackt-das-griechen-bollwerk-wieder-nicht-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-10/04/dfb-team-knackt-das-griechen-bollwerk-wieder-nicht",
-      "published": "Sun, 04 Oct 2026 21:02:08 -0000",
-      "published_display": "04.10.2026 · 21:02 Uhr"
+      "published": "Sun, 04 Oct 2026 21:23:31 -0000",
+      "published_display": "04.10.2026 · 21:23 Uhr"
+    },
+    {
+      "title": "Stützpunkt RAF Fairford: Nach Vorfall bei US-Militärbasis: US-Bomber zurückbeordert",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/04/nach-vorfall-bei-us-militaerbasis-us-bomber-zurueckbeordert-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/04/nach-vorfall-bei-us-militaerbasis-us-bomber-zurueckbeordert",
+      "published": "Sun, 04 Oct 2026 21:14:31 -0000",
+      "published_display": "04.10.2026 · 21:14 Uhr"
     },
     {
       "title": "Lateinamerika: Wahllokale in Brasilien geschlossen – Auszählung begonnen",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/04/ex-dfb-stars-aeussern-sich-zur-debatte-um-kimmich",
       "published": "Sun, 04 Oct 2026 18:24:07 -0000",
       "published_display": "04.10.2026 · 18:24 Uhr"
-    },
-    {
-      "title": "Liveticker: Nations League: Live: Griechenland gegen Deutschland",
-      "summary": "Nach dem ersten Sieg unter Jürgen Klopp gegen Serbien möchte die DFB-Elf gegen die Griechen nachlegen. Die Nations League im Liveticker",
-      "image": "https://img.zeit.de/sport/2026-09/bild-nations-league-deutschland-serbien-wirtz/original__640x360",
-      "link": "https://www.zeit.de/sport/2026-09/nations-league-uefa-fussball-2026-liveticker",
-      "published": "Sun, 04 Oct 2026 18:18:56 -0000",
-      "published_display": "04.10.2026 · 18:18 Uhr"
-    },
-    {
-      "title": "Volleyball: Nächste Testspielpleite für die BR Volleys",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/04/naechste-testspielpleite-fuer-die-br-volleys-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/04/naechste-testspielpleite-fuer-die-br-volleys",
-      "published": "Sun, 04 Oct 2026 18:09:52 -0000",
-      "published_display": "04.10.2026 · 18:09 Uhr"
-    },
-    {
-      "title": "Ukraine-Krieg: Merz: Ganz Europa hängt an der Stabilität in Deutschland",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/04/merz-ganz-europa-haengt-an-der-stabilitaet-in-deutschland-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/04/merz-ganz-europa-haengt-an-der-stabilitaet-in-deutschland",
-      "published": "Sun, 04 Oct 2026 18:03:05 -0000",
-      "published_display": "04.10.2026 · 18:03 Uhr"
     }
   ]
 }
