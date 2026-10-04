@@ -1,10 +1,26 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-04T21:42:26.897187+00:00",
+  "updated": "2026-10-04T21:58:49.579679+00:00",
   "items": [
     {
+      "title": "Kalenderblatt: Was geschah am 5. Oktober?",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/04/was-geschah-am-5-oktober-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/04/was-geschah-am-5-oktober",
+      "published": "Sun, 04 Oct 2026 21:55:04 -0000",
+      "published_display": "04.10.2026 · 21:55 Uhr"
+    },
+    {
+      "title": "Fußball-Nationalmannschaft: «Klopp-Ära kommt nicht in Gang»: Pressestimmen zum DFB-Team",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/04/klopp-aera-kommt-nicht-in-gang-pressestimmen-zum-dfb-team-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/04/klopp-aera-kommt-nicht-in-gang-pressestimmen-zum-dfb-team",
+      "published": "Sun, 04 Oct 2026 21:50:22 -0000",
+      "published_display": "04.10.2026 · 21:50 Uhr"
+    },
+    {
       "title": "Nations League, 4. Spieltag: Deutschland spielt unentschieden gegen Griechenland",
-      "summary": "Eine Woche nach der Niederlage trennen sich Deutschland und Griechenland mit einem Remis. Damit sinken die Chancen auf das Viertelfinale.",
+      "summary": "Die Revanche nach der Niederlage vor einer Woche bleibt aus. Griechenland und Deutschland trennen sich mit einem Remis.",
       "image": "https://img.zeit.de/sport/2026-10/nations-league-uefa-fussball-2026-deutschland-griechenland-bild/original__640x360",
       "link": "https://www.zeit.de/sport/2026-10/nations-league-deutschland-griechenland-viertes-spiel",
       "published": "Sun, 04 Oct 2026 21:29:51 -0000",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/politik/deutschland/2026-10/friedrich-merz-cdu-afd-koalition-stabilitaet-europa-ukraine",
       "published": "Sun, 04 Oct 2026 18:49:41 -0000",
       "published_display": "04.10.2026 · 18:49 Uhr"
-    },
-    {
-      "title": "Krieg in der Ukraine: Sie haben die Trümmer für Merz liegen lassen",
-      "summary": "In der Ukraine wächst die Sorge, dass Deutschlands Unterstützung nachlässt. Bei seinem Besuch in Kyjiw beruhigt Merz Selenskyj ausgerechnet mit deutscher Innenpolitik.",
-      "image": "https://img.zeit.de/politik/2026-10/friedrich-merz-kiew-ukraine-krieg-russland-drohnenalarm-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/friedrich-merz-kiew-ukraine-krieg-russland-drohnenalarm",
-      "published": "Sun, 04 Oct 2026 18:32:38 -0000",
-      "published_display": "04.10.2026 · 18:32 Uhr"
-    },
-    {
-      "title": "Fußball-Nationalmannschaft: Ex-DFB-Stars äußern sich zur Debatte um Kimmich",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/04/ex-dfb-stars-aeussern-sich-zur-debatte-um-kimmich-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/04/ex-dfb-stars-aeussern-sich-zur-debatte-um-kimmich",
-      "published": "Sun, 04 Oct 2026 18:24:07 -0000",
-      "published_display": "04.10.2026 · 18:24 Uhr"
     }
   ]
 }
