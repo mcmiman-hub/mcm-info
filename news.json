@@ -1,7 +1,39 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-05T17:33:41.885205+00:00",
+  "updated": "2026-10-05T17:49:04.844038+00:00",
   "items": [
+    {
+      "title": "Schulproteste in Frankreich: Sorge vor weiterer Gewalteskalation bei Schülerprotesten in Frankreich",
+      "summary": "In Frankreich haben erneut Tausende Schüler für bessere Lernbedingungen protestiert. In Lens wurde ein Jugendlicher durch eine Polizeigranate schwer verletzt.",
+      "image": "https://img.zeit.de/politik/ausland/2026-10/schuelerproteste-frankreich-schulen-bildung-gewerkschaften-polizei-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/schuelerproteste-frankreich-schulen-bildung-gewerkschaften-polizei",
+      "published": "Mon, 05 Oct 2026 17:46:29 -0000",
+      "published_display": "05.10.2026 · 17:46 Uhr"
+    },
+    {
+      "title": "Feuerwehr im Dauereinsatz: Kein Ende absehbar: 1.000 Strohballen brennen im Südharz",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/05/rund-1-000-strohballen-brennen-in-mansfeld-suedharz-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/05/rund-1-000-strohballen-brennen-in-mansfeld-suedharz",
+      "published": "Mon, 05 Oct 2026 17:39:33 -0000",
+      "published_display": "05.10.2026 · 17:39 Uhr"
+    },
+    {
+      "title": "Infektionskrankheit: Behörde: Laborantin in Sibirien starb nicht an Pest",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/05/behoerde-laborantin-in-sibirien-starb-nicht-an-pest-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/05/behoerde-laborantin-in-sibirien-starb-nicht-an-pest",
+      "published": "Mon, 05 Oct 2026 17:38:53 -0000",
+      "published_display": "05.10.2026 · 17:38 Uhr"
+    },
+    {
+      "title": "Preisgekrönte Literatur: «Ein Roman gegen Gleichgültigkeit» - Buchpreis für Bazyar",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/05/wer-bekommt-den-deutschen-buchpreis-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/05/wer-bekommt-den-deutschen-buchpreis",
+      "published": "Mon, 05 Oct 2026 17:32:22 -0000",
+      "published_display": "05.10.2026 · 17:32 Uhr"
+    },
     {
       "title": "Afghanistan: Internationaler Strafgerichtshof erlässt Haftbefehle gegen Taliban",
       "summary": "Der Strafgerichtshof in Den Haag wirft afghanischen Taliban-Ministern Verbrechen gegen die Menschlichkeit vor. Im Zentrum steht die Entrechtung von Frauen in Afghanistan.",
@@ -89,38 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/05/merz-kein-eu-haushalt-waere-am-guenstigsten-fuer-deutschland",
       "published": "Mon, 05 Oct 2026 16:56:30 -0000",
       "published_display": "05.10.2026 · 16:56 Uhr"
-    },
-    {
-      "title": "Fußball-Bundesliga: Transferexperten: Durchbruch bei neuem Vertrag für Kane",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/transferexperten-durchbruch-bei-neuem-vertrag-fuer-kane-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/transferexperten-durchbruch-bei-neuem-vertrag-fuer-kane",
-      "published": "Mon, 05 Oct 2026 16:49:19 -0000",
-      "published_display": "05.10.2026 · 16:49 Uhr"
-    },
-    {
-      "title": "Preisgekrönte Literatur: «Ein Roman gegen Gleichgültigkeit» - Buchpreis für Bazyar",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/wer-bekommt-den-deutschen-buchpreis-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/wer-bekommt-den-deutschen-buchpreis",
-      "published": "Mon, 05 Oct 2026 16:45:38 -0000",
-      "published_display": "05.10.2026 · 16:45 Uhr"
-    },
-    {
-      "title": "Fotografie: Bilder des Tages",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/bilder-des-tages-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/bilder-des-tages",
-      "published": "Mon, 05 Oct 2026 16:43:23 -0000",
-      "published_display": "05.10.2026 · 16:43 Uhr"
-    },
-    {
-      "title": "Ermittlungen laufen: Sattelzug durchbricht Leitplanke – Fahrer tot",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/sattelzug-durchbricht-leitplanke-fahrer-tot-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/sattelzug-durchbricht-leitplanke-fahrer-tot",
-      "published": "Mon, 05 Oct 2026 16:42:21 -0000",
-      "published_display": "05.10.2026 · 16:42 Uhr"
     }
   ]
 }
