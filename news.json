@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-05T16:01:02.801500+00:00",
+  "updated": "2026-10-05T16:21:25.289644+00:00",
   "items": [
+    {
+      "title": "US-Rüstungsunternehmen Covenant: US-Firma will in Leipzig Marschflugkörper produzieren",
+      "summary": "Ab 2027 will die Rüstungsfirma Covenant in Leipzig Marschflugkörper fertigen. Der Standort ist bereits eröffnet. Sachsens Regierung begrüßt die Ansiedlung der Firma.",
+      "image": "https://img.zeit.de/politik/ausland/2026-10/covenant-leipzig-marschflugkoerper-anthem-ruestung-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/covenant-leipzig-marschflugkoerper-anthem-ruestung",
+      "published": "Mon, 05 Oct 2026 16:20:37 -0000",
+      "published_display": "05.10.2026 · 16:20 Uhr"
+    },
+    {
+      "title": "Atomindustrie: Meyer kritisiert Merz wegen Atomkooperation in Lingen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/05/meyer-kritisiert-merz-wegen-atomkooperation-in-lingen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/05/meyer-kritisiert-merz-wegen-atomkooperation-in-lingen",
+      "published": "Mon, 05 Oct 2026 16:15:50 -0000",
+      "published_display": "05.10.2026 · 16:15 Uhr"
+    },
+    {
+      "title": "Ceuta: Spanische Polizei räumt Lager von Migranten in Ceuta",
+      "summary": "Spaniens Polizei räumt provisorische Behausungen am Strand von Ceuta. Die Migranten müssen sich zwischen einer Rückkehr nach Marokko und einer Registrierung entscheiden.",
+      "image": "https://img.zeit.de/politik/ausland/2026-10/ceuta-migranten-lager-marokko-polizei-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/ceuta-migranten-lager-marokko-polizei",
+      "published": "Mon, 05 Oct 2026 16:03:36 -0000",
+      "published_display": "05.10.2026 · 16:03 Uhr"
+    },
     {
       "title": "Sachsen-Anhalt: AfD und BSW wollen ersten AfD-Landtagspräsidenten wählen",
       "summary": "Mit der geplanten Wahl eines Landtagspräsidenten von der AfD möchte das BSW in Sachsen-Anhalt »parlamentarische Gepflogenheiten« achten. Andere Fraktionen äußern Kritik.",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/mobilitaet/2026-10/automarkt-elektroautos-neuzulassungen-anteil-batterie-deutschland",
       "published": "Mon, 05 Oct 2026 15:22:21 -0000",
       "published_display": "05.10.2026 · 15:22 Uhr"
-    },
-    {
-      "title": "Machtmissbrauch: Staatssekretär schützt Scharrenbach – Keine Mobbing-Hinweise",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/keine-auffaelligkeiten-bei-scharrenbach-mitarbeiterbefragung-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/keine-auffaelligkeiten-bei-scharrenbach-mitarbeiterbefragung",
-      "published": "Mon, 05 Oct 2026 15:20:54 -0000",
-      "published_display": "05.10.2026 · 15:20 Uhr"
-    },
-    {
-      "title": "Tennis: Medwedew disqualifiziert: Djokovic im Finale von Peking",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/medwedew-disqualifiziert-djokovic-im-finale-von-peking-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/medwedew-disqualifiziert-djokovic-im-finale-von-peking",
-      "published": "Mon, 05 Oct 2026 15:18:52 -0000",
-      "published_display": "05.10.2026 · 15:18 Uhr"
-    },
-    {
-      "title": "Cornell University: Eine Welt, in der Frauen mit sexueller Gewalt rechnen",
-      "summary": "An der US-Elite-Uni Cornell soll es zu einer Gruppenvergewaltigung gekommen sein. Chats und Treffen mit Studentinnen vor Ort zeigen die Frauenverachtung der Frat-Boys.",
-      "image": "https://img.zeit.de/bildung/2026-10/cornell-university-vergewaltigung-usa-new-york-bild-bild-02/original__640x360",
-      "link": "https://www.zeit.de/bildung/2026-10/cornell-university-vergewaltigung-usa-new-york-studentin",
-      "published": "Mon, 05 Oct 2026 15:15:29 -0000",
-      "published_display": "05.10.2026 · 15:15 Uhr"
     }
   ]
 }
