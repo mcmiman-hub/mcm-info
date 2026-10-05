@@ -1,14 +1,70 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-05T16:59:35.224530+00:00",
+  "updated": "2026-10-05T17:17:55.325201+00:00",
   "items": [
+    {
+      "title": "Afghanistan: Internationaler Strafgerichtshof erlässt Haftbefehle gegen Taliban",
+      "summary": "Der Strafgerichtshof in Den Haag wirft afghanischen Taliban-Ministern Verbrechen gegen die Menschlichkeit vor. Im Zentrum steht die Entrechtung von Frauen in Afghanistan.",
+      "image": "https://img.zeit.de/politik/ausland/2026-10/internationaler-strafgerichtshof-haftbefehl-taliban-afghanistan-habibullah-agha-mohammad-nadim-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/internationaler-strafgerichtshof-haftbefehl-taliban-afghanistan-habibullah-agha-mohammad-nadim",
+      "published": "Mon, 05 Oct 2026 17:15:15 -0000",
+      "published_display": "05.10.2026 · 17:15 Uhr"
+    },
+    {
+      "title": "Arbeitsunfall: 19-Jähriger stürzt vier Meter tief und verletzt sich schwer",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/05/19-jaehriger-stuerzt-vier-meter-tief-und-verletzt-sich-schwer-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/05/19-jaehriger-stuerzt-vier-meter-tief-und-verletzt-sich-schwer",
+      "published": "Mon, 05 Oct 2026 17:13:52 -0000",
+      "published_display": "05.10.2026 · 17:13 Uhr"
+    },
+    {
+      "title": "Englischer Nationaltorwart: Riskante Raserei im Sportwagen: Pickford vor Gericht",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/05/riskante-raserei-im-sportwagen-pickford-vor-gericht-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/05/riskante-raserei-im-sportwagen-pickford-vor-gericht",
+      "published": "Mon, 05 Oct 2026 17:10:45 -0000",
+      "published_display": "05.10.2026 · 17:10 Uhr"
+    },
     {
       "title": "»Die Lücken«: Deutscher Buchpreis geht an Shida Bazyar",
       "summary": "»Die Lücken« ist der Roman des Jahres: Shida Bazyar wird für ihr Werk über die Vergangenheit eines fiktiven Dorfes im Hunsrück mit dem Deutschen Buchpreis ausgezeichnet.",
       "image": "https://img.zeit.de/feuilleton/literatur/2026-10/verleihung-deutscher-buchpreis-shida-bazyar-bild/original__640x360",
       "link": "https://www.zeit.de/feuilleton/literatur/2026-10/deutscher-buchpreis-shida-bazyar-die-luecken-boersenverein-buchmesse",
-      "published": "Mon, 05 Oct 2026 16:57:42 -0000",
-      "published_display": "05.10.2026 · 16:57 Uhr"
+      "published": "Mon, 05 Oct 2026 17:10:34 -0000",
+      "published_display": "05.10.2026 · 17:10 Uhr"
+    },
+    {
+      "title": "Caroline Blackwood: Eine Erbsünde namens Mutterschaft",
+      "summary": "Mit einem Roman aus dem Jahr 1981 wird das wilde Werk der britischen Autorin Caroline Blackwood wiederentdeckt. Na endlich!",
+      "image": "https://img.zeit.de/2026/42/eine-erbsuende-namens-mutterschaft-bild-2/original__640x360",
+      "link": "https://www.zeit.de/2026/42/caroline-blackwood-das-schicksal-von-mary-rose-roman",
+      "published": "Mon, 05 Oct 2026 17:09:40 -0000",
+      "published_display": "05.10.2026 · 17:09 Uhr"
+    },
+    {
+      "title": "Medizinnobelpreis: Licht, das ängstlich macht. Oder wach. Oder wütend",
+      "summary": "Eine Revolution der Hirnforschung bringt zwei Deutschen und einem Amerikaner den Nobelpreis: Mit Licht und Gentherapie knipsen sie Nervenzellen an und aus.",
+      "image": "https://img.zeit.de/gesundheit/2026-10/medizin-nobelpreis-peter-hegemann-georg-nagel-karl-deisseroth-gehirnforschung-bild/original__640x360",
+      "link": "https://www.zeit.de/gesundheit/2026-10/medizin-nobelpreis-peter-hegemann-georg-nagel-karl-deisseroth-gehirnforschung",
+      "published": "Mon, 05 Oct 2026 17:07:46 -0000",
+      "published_display": "05.10.2026 · 17:07 Uhr"
+    },
+    {
+      "title": "Polizeieinsatz: Flugbetrieb an Stuttgarter Flughafen kurzzeitig ausgesetzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/05/flugbetrieb-an-stuttgarter-flughafen-kurzzeitig-ausgesetzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/05/flugbetrieb-an-stuttgarter-flughafen-kurzzeitig-ausgesetzt",
+      "published": "Mon, 05 Oct 2026 17:05:36 -0000",
+      "published_display": "05.10.2026 · 17:05 Uhr"
+    },
+    {
+      "title": "Einsatz der Feuerwehr: Mann stirbt nach Wohnungsbrand in Berlin",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/05/mann-stirbt-nach-wohnungsbrand-in-berlin-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/05/mann-stirbt-nach-wohnungsbrand-in-berlin",
+      "published": "Mon, 05 Oct 2026 17:01:52 -0000",
+      "published_display": "05.10.2026 · 17:01 Uhr"
     },
     {
       "title": "EU-Finanzrahmen: Merz: Kein EU-Haushalt wäre am günstigsten für Deutschland",
@@ -65,62 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/05/bnd-chef-sieht-deutschland-im-schattenkrieg-mit-russland",
       "published": "Mon, 05 Oct 2026 16:36:27 -0000",
       "published_display": "05.10.2026 · 16:36 Uhr"
-    },
-    {
-      "title": "Tennis: Medwedew disqualifiziert: Djokovic im Finale von Peking",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/medwedew-disqualifiziert-djokovic-im-finale-von-peking-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/medwedew-disqualifiziert-djokovic-im-finale-von-peking",
-      "published": "Mon, 05 Oct 2026 16:32:53 -0000",
-      "published_display": "05.10.2026 · 16:32 Uhr"
-    },
-    {
-      "title": "Polizeieinsatz: Flugbetrieb an Stuttgarter Flughafen kurzzeitig ausgesetzt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/flugbetrieb-an-stuttgarter-flughafen-kurzzeitig-ausgesetzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/flugbetrieb-an-stuttgarter-flughafen-kurzzeitig-ausgesetzt",
-      "published": "Mon, 05 Oct 2026 16:32:27 -0000",
-      "published_display": "05.10.2026 · 16:32 Uhr"
-    },
-    {
-      "title": "Ceuta: Sie fürchten die Prügel des Militärs, und träumen weiter von Europa",
-      "summary": "Zwei Monate nach dem Massenandrang harren noch immer Tausende Migranten in Ceuta aus. Sie hoffen weiter auf Asyl – auch wenn die Stimmung in der Exklave kippt.",
-      "image": "https://img.zeit.de/politik/ausland/2026-09/ceuta-migration-spanien-marokko-gewalt-militaer-bild-30/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-09/ceuta-migration-spanien-marokko-gewalt-militaer",
-      "published": "Mon, 05 Oct 2026 16:31:31 -0000",
-      "published_display": "05.10.2026 · 16:31 Uhr"
-    },
-    {
-      "title": "Katastrophen: Zwei Tote bei schwerem Schulbus-Unfall in Florida",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/zwei-tote-bei-schwerem-schulbus-unfall-in-florida-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/zwei-tote-bei-schwerem-schulbus-unfall-in-florida",
-      "published": "Mon, 05 Oct 2026 16:29:15 -0000",
-      "published_display": "05.10.2026 · 16:29 Uhr"
-    },
-    {
-      "title": "Begierde in Beziehungen: »Kein Bock mehr? Dann ist der Endgegner das Müssen und das Sollen«",
-      "summary": "Begierde ist individuell wie ein Fingerabdruck, sagt die Paartherapeutin Sonja Bröning. Nur wer bestimmt mit, was wir wollen? Und wie erzählen wir unseren Partnern davon?",
-      "image": "https://img.zeit.de/wissenschaft/2026-10/sonja-broening-portraet-sexpodcast/original__640x360",
-      "link": "https://www.zeit.de/wissenschaft/2026-09/begierde-beziehung-lust-sonja-broening-sexpodcast",
-      "published": "Mon, 05 Oct 2026 16:27:51 -0000",
-      "published_display": "05.10.2026 · 16:27 Uhr"
-    },
-    {
-      "title": "Apple Mac mini und Mac Studio: Mein Chatbot sitzt jetzt im Wohnzimmer",
-      "summary": "Von ChatGPT oder Claude unabhängig werden, das geht mit lokaler KI. Apples Macs sind beliebt dafür. Lohnt sich das? Unser Autor nimmt Sie mit ins Nerd-Rabbithole.",
-      "image": "https://img.zeit.de/digital/2026-10/apple-mac-mini-studio-lokale-ki-test-bild/original__640x360",
-      "link": "https://www.zeit.de/digital/2026-10/apple-mac-mini-studio-lokale-ki-test",
-      "published": "Mon, 05 Oct 2026 16:27:12 -0000",
-      "published_display": "05.10.2026 · 16:27 Uhr"
-    },
-    {
-      "title": "Ceuta: Spanische Polizei räumt Lager von Migranten in Ceuta",
-      "summary": "Spaniens Polizei räumt provisorische Behausungen am Strand von Ceuta. Die Migranten müssen sich zwischen einer Rückkehr nach Marokko und einer Registrierung entscheiden.",
-      "image": "https://img.zeit.de/politik/ausland/2026-10/ceuta-migranten-lager-marokko-polizei-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/ceuta-migranten-lager-marokko-polizei-gxe",
-      "published": "Mon, 05 Oct 2026 16:26:18 -0000",
-      "published_display": "05.10.2026 · 16:26 Uhr"
     }
   ]
 }
