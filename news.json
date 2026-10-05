@@ -1,7 +1,87 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-05T06:56:51.946240+00:00",
+  "updated": "2026-10-05T07:22:28.576118+00:00",
   "items": [
+    {
+      "title": "Wohnungskrise in Spanien: Spaniens Ministerpräsident Pedro Sánchez kündigt Neuwahlen an",
+      "summary": "Pedro Sánchez hat vorgezogene Parlamentswahlen Ende November angekündigt. Zuvor war seine Minderheitsregierung mit Vorhaben zur Bekämpfung der Wohnungskrise gescheitert.",
+      "image": "https://img.zeit.de/politik/ausland/2026-10/spanischer-ministerpraesident-pedro-sanchez-institutionelle-erklaerung-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/spaniens-ministerpraesident-pedro-sanchez-kuendigt-neuwahlen-an",
+      "published": "Mon, 05 Oct 2026 07:17:40 -0000",
+      "published_display": "05.10.2026 · 07:17 Uhr"
+    },
+    {
+      "title": "Technischer Defekt: Schwertransport legt Verkehr auf der A6 lahm",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/05/schwertransport-legt-verkehr-auf-der-a6-lahm-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/05/schwertransport-legt-verkehr-auf-der-a6-lahm",
+      "published": "Mon, 05 Oct 2026 07:14:52 -0000",
+      "published_display": "05.10.2026 · 07:14 Uhr"
+    },
+    {
+      "title": "Fotografie: Bilder des Tages",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/05/bilder-des-tages-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/05/bilder-des-tages",
+      "published": "Mon, 05 Oct 2026 07:11:55 -0000",
+      "published_display": "05.10.2026 · 07:11 Uhr"
+    },
+    {
+      "title": "Regierung: Sánchez kündigt Neuwahlen in Spanien an",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/05/s-nchez-kuendigt-neuwahlen-in-spanien-an-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/05/s-nchez-kuendigt-neuwahlen-in-spanien-an",
+      "published": "Mon, 05 Oct 2026 07:11:19 -0000",
+      "published_display": "05.10.2026 · 07:11 Uhr"
+    },
+    {
+      "title": "Schauspieler und Casting: Herbert Knaup wollte bei «Inglourious Basterds» mitspielen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/05/herbert-knaup-wollte-bei-inglourious-basterds-mitspielen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/05/herbert-knaup-wollte-bei-inglourious-basterds-mitspielen",
+      "published": "Mon, 05 Oct 2026 07:08:01 -0000",
+      "published_display": "05.10.2026 · 07:08 Uhr"
+    },
+    {
+      "title": "Leute: Berichte: Tom Cruise floppt an amerikanischen Kinokassen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/05/berichte-tom-cruise-floppt-an-amerikanischen-kinokassen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/05/berichte-tom-cruise-floppt-an-amerikanischen-kinokassen",
+      "published": "Mon, 05 Oct 2026 07:07:27 -0000",
+      "published_display": "05.10.2026 · 07:07 Uhr"
+    },
+    {
+      "title": "Todesstrafe: US-Amerikanerin nach gescheiterter Hinrichtung weiterhin bewusstlos",
+      "summary": "Christa Pike sollte in Tennessee hingerichtet werden, überlebte aber die Giftspritze. Ob sie wieder zu Bewusstsein kommt, ist offenbar noch unklar.",
+      "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-10/christa-pike-hinrichtung-tennessee-pentobarbital-todesstrafe-foto-1/original__640x360",
+      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-10/christa-pike-hinrichtung-tennessee-pentobarbital-todesstrafe-gxe",
+      "published": "Mon, 05 Oct 2026 07:07:26 -0000",
+      "published_display": "05.10.2026 · 07:07 Uhr"
+    },
+    {
+      "title": "Spielt im Schwarzwald: Mysteriöses Verschwinden: die ARD-Serie «House of Yang»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/05/mysterioeses-verschwinden-die-ard-serie-house-of-yang-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/05/mysterioeses-verschwinden-die-ard-serie-house-of-yang",
+      "published": "Mon, 05 Oct 2026 07:00:04 -0000",
+      "published_display": "05.10.2026 · 07:00 Uhr"
+    },
+    {
+      "title": "Telekommunikationskonzern: Deutsche Telekom will durch KI-Einsatz Milliarden sparen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/05/deutsche-telekom-will-durch-ki-einsatz-milliarden-sparen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/05/deutsche-telekom-will-durch-ki-einsatz-milliarden-sparen",
+      "published": "Mon, 05 Oct 2026 06:58:03 -0000",
+      "published_display": "05.10.2026 · 06:58 Uhr"
+    },
+    {
+      "title": "Künstliche Intelligenz: Nach Trump-Aufruf: Musk will KI-Firma umbenennen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/05/nach-trump-aufruf-musk-will-ki-firma-umbenennen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/05/nach-trump-aufruf-musk-will-ki-firma-umbenennen",
+      "published": "Mon, 05 Oct 2026 06:56:55 -0000",
+      "published_display": "05.10.2026 · 06:56 Uhr"
+    },
     {
       "title": "Wetter: Nebel am Morgen, später Sonne – Herbstwetter im Nordosten",
       "summary": "",
@@ -28,9 +108,9 @@
     },
     {
       "title": "Ifo-Geschäftsklimaindex: Stimmung in der deutschen Autoindustrie weiter verschlechtert",
-      "summary": "Das Geschäftsklima der Autoindustrie hat sich im September verschlechtert. »Die Automobilindustrie steckt weiterhin in der Krise«, sagt eine Expertin des ifo-Instituts.",
+      "summary": "Das Geschäftsklima der Autoindustrie hat sich im September verschlechtert. »Die Automobilindustrie steckt weiterhin in der Krise«, sagt eine Expertin des ifo Instituts.",
       "image": "https://img.zeit.de/wirtschaft/2026-10/ifo-geschaeftsklima-autoindustrie-krise-auftragslage-exporte-foto-1/original__640x360",
-      "link": "https://www.zeit.de/wirtschaft/2026-10/ifo-geschaeftsklima-autoindustrie-krise-auftragslage-exporte",
+      "link": "https://www.zeit.de/wirtschaft/2026-10/ifo-geschaeftsklima-autoindustrie-krise-auftragslage-exporte-gxe",
       "published": "Mon, 05 Oct 2026 06:46:59 -0000",
       "published_display": "05.10.2026 · 06:46 Uhr"
     },
@@ -41,86 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/05/mildes-herbstwetter-in-nrw-ab-mittwoch-mehr-regen-und-wind",
       "published": "Mon, 05 Oct 2026 06:46:04 -0000",
       "published_display": "05.10.2026 · 06:46 Uhr"
-    },
-    {
-      "title": "Todesstrafe: US-Amerikanerin nach gescheiterter Hinrichtung weiterhin bewusstlos",
-      "summary": "Christa Pike sollte in Tennessee hingerichtet werden, überlebte aber die Giftspritze. Ob sie wieder zu Bewusstsein kommt, ist offenbar noch unklar.",
-      "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-10/christa-pike-hinrichtung-tennessee-pentobarbital-todesstrafe-foto-1/original__640x360",
-      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-10/christa-pike-hinrichtung-tennessee-pentobarbital-todesstrafe",
-      "published": "Mon, 05 Oct 2026 06:45:19 -0000",
-      "published_display": "05.10.2026 · 06:45 Uhr"
-    },
-    {
-      "title": "Erzgebirgskreis: Einfamilienhaus in Tannenberg brennt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/einfamilienhaus-in-tannenberg-brennt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/einfamilienhaus-in-tannenberg-brennt",
-      "published": "Mon, 05 Oct 2026 06:40:06 -0000",
-      "published_display": "05.10.2026 · 06:40 Uhr"
-    },
-    {
-      "title": "Brände: Rund 1.000 Strohballen brennen in Mansfeld-Südharz",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/rund-1-000-strohballen-brennen-in-mansfeld-suedharz-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/rund-1-000-strohballen-brennen-in-mansfeld-suedharz",
-      "published": "Mon, 05 Oct 2026 06:33:47 -0000",
-      "published_display": "05.10.2026 · 06:33 Uhr"
-    },
-    {
-      "title": "Geld sparen: Ich habe ein Jahr alle Supermarkt-Apps getestet. Das müssen Sie wissen",
-      "summary": "Für wen lohnen sich die digitalen Angebote von Lidl, Rewe, dm und Co.? Wann ist wirklich was zu gewinnen? Und wie sieht meine Jahressparbilanz aus? Hier entlang, bitte.",
-      "image": "https://img.zeit.de/geld/2026-09/geld-sparen-shopping-apps-einkaufen-bild/original__640x360",
-      "link": "https://www.zeit.de/geld/2026-09/geld-sparen-shopping-apps-einkaufen",
-      "published": "Mon, 05 Oct 2026 06:29:43 -0000",
-      "published_display": "05.10.2026 · 06:29 Uhr"
-    },
-    {
-      "title": "Vorhersage: Erst Sonne, dann Regen: Wetterumschwung steht bevor",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/erst-sonne-dann-regen-wetterumschwung-steht-bevor-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/erst-sonne-dann-regen-wetterumschwung-steht-bevor",
-      "published": "Mon, 05 Oct 2026 06:27:11 -0000",
-      "published_display": "05.10.2026 · 06:27 Uhr"
-    },
-    {
-      "title": "Wetter: Wechselhaftes Wetter zum Wochenstart im Norden",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/wechselhaftes-wetter-zum-wochenstart-im-norden-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/wechselhaftes-wetter-zum-wochenstart-im-norden",
-      "published": "Mon, 05 Oct 2026 06:24:33 -0000",
-      "published_display": "05.10.2026 · 06:24 Uhr"
-    },
-    {
-      "title": "Krieg gegen die Ukraine: Russland attackiert ukrainischen Hafen und Frachtschiffe",
-      "summary": "In der Küstenregion Odessa haben Luftangriffe Hafenanlagen in Brand gesetzt. Ukrainische Drohnen bringen erneut Hilfsgüter in blockierte Frontstadt Oleschky. Das Liveblog",
-      "image": "https://img.zeit.de/politik/ausland/2026-10/ukraine-krieg-news-liveblog-chornomorsk-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "published": "Mon, 05 Oct 2026 06:20:32 -0000",
-      "published_display": "05.10.2026 · 06:20 Uhr"
-    },
-    {
-      "title": "Vorhersage: Regen und Wind ab Mittwoch – Wetterumschwung in Sicht",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/regen-und-wind-ab-mittwoch-wetterumschwung-in-sicht-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/regen-und-wind-ab-mittwoch-wetterumschwung-in-sicht",
-      "published": "Mon, 05 Oct 2026 06:18:18 -0000",
-      "published_display": "05.10.2026 · 06:18 Uhr"
-    },
-    {
-      "title": "Ringbahnbrücke: Neue Verkehrsführung am Dreieck Funkturm wegen Bauarbeiten",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/neue-verkehrsfuehrung-am-dreieck-funkturm-wegen-bauarbeiten-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/neue-verkehrsfuehrung-am-dreieck-funkturm-wegen-bauarbeiten",
-      "published": "Mon, 05 Oct 2026 06:09:01 -0000",
-      "published_display": "05.10.2026 · 06:09 Uhr"
-    },
-    {
-      "title": "Präsidentschaftswahl in Brasilien: Brasilien leidet am Joe-Biden-Syndrom",
-      "summary": "Flávio Bolsonaro galt lange als chancenlos. Nun könnte er Brasiliens Präsident werden – und seinen Vater aus der Haft befreien. Lula bleibt nur ein Weg, um aufzuholen.",
-      "image": "https://img.zeit.de/politik/ausland/2026-10/brasilien-wahl-praesidentschaft-flavio-bolsonaro-luiz-inacio-lula-da-silva-bild-5/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/brasilien-wahl-praesidentschaft-flavio-bolsonaro-luiz-inacio-lula-da-silva",
-      "published": "Mon, 05 Oct 2026 06:01:17 -0000",
-      "published_display": "05.10.2026 · 06:01 Uhr"
     }
   ]
 }
