@@ -1,7 +1,63 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-05T08:50:17.824510+00:00",
+  "updated": "2026-10-05T09:02:19.791256+00:00",
   "items": [
+    {
+      "title": "Europapolitik: AfD weicht von Forderung nach EU- und Euroaustritt ab",
+      "summary": "Die AfD will nun doch nicht mehr aus dem Eurosystem austreten. Stattdessen fordert sie in einem Strategiepapier Reformen und eine Neuordnung der EU.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-10/afd-europe-eu-euro-abweichung-position-strategie-papier-plaene-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-10/afd-europe-eu-euro-abweichung-position-strategie-papier-plaene",
+      "published": "Mon, 05 Oct 2026 09:00:23 -0000",
+      "published_display": "05.10.2026 · 09:00 Uhr"
+    },
+    {
+      "title": "Scharfer Wettbewerb: Europas Autos verlieren Reparaturkosten-Vorsprung auf China",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/05/europas-autos-verlieren-reparaturkosten-vorsprung-auf-china-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/05/europas-autos-verlieren-reparaturkosten-vorsprung-auf-china",
+      "published": "Mon, 05 Oct 2026 09:00:06 -0000",
+      "published_display": "05.10.2026 · 09:00 Uhr"
+    },
+    {
+      "title": "Nach der Wahl: Parteien bereiten sich auf drittes Vorgespräch vor",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/05/giffey-fordert-mitgliedervotum-fuer-regierungsbildung-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/05/giffey-fordert-mitgliedervotum-fuer-regierungsbildung",
+      "published": "Mon, 05 Oct 2026 08:59:50 -0000",
+      "published_display": "05.10.2026 · 08:59 Uhr"
+    },
+    {
+      "title": "Einzelhandel: Galeria-Insolvenzantrag vom Gericht zugelassen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/05/galeria-insolvenzantrag-vom-gericht-zugelassen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/05/galeria-insolvenzantrag-vom-gericht-zugelassen",
+      "published": "Mon, 05 Oct 2026 08:59:03 -0000",
+      "published_display": "05.10.2026 · 08:59 Uhr"
+    },
+    {
+      "title": "Russland: BND-Chef sieht Gefahr eines »gewaltsamen Konflikts mit Russland«",
+      "summary": "BND-Präsident Martin Jäger sieht in Russland »unseren gefährlichsten Gegner«. Deutschland werde in Moskau als Haupthindernis für eine expansive Politik betrachtet.",
+      "image": "https://img.zeit.de/politik/ausland/2026-10/bnd-martin-jaeger-russland-konflikt-gefahr-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/bnd-martin-jaeger-russland-konflikt-gefahr",
+      "published": "Mon, 05 Oct 2026 08:53:10 -0000",
+      "published_display": "05.10.2026 · 08:53 Uhr"
+    },
+    {
+      "title": "Deutscher Buchpreis: Welches Buch ist Ihr Gewinner?",
+      "summary": "Heute Abend wird der Deutsche Buchpreis vergeben. Hier können Sie unsere Rezensionen lesen – und uns sagen, wer Ihrer Meinung nach den Preis bekommen sollte.",
+      "image": "https://img.zeit.de/feuilleton/literatur/2026-10/deutscher-buchpreis-2026-shortlist-romane-literatur-bilder/260903-lena-everding-deutscher-buchpreis-hires-9258-s-bild/original__640x360",
+      "link": "https://www.zeit.de/feuilleton/literatur/2026-10/deutscher-buchpreis-2026-shortlist-romane-literatur",
+      "published": "Mon, 05 Oct 2026 08:52:32 -0000",
+      "published_display": "05.10.2026 · 08:52 Uhr"
+    },
+    {
+      "title": "Nationalmannschaft: Das sind die Gewinner der ersten Spiele unter Jürgen Klopp",
+      "summary": "Nach seinen ersten vier Länderspielen lässt sich erkennen, was Jürgen Klopp vorhat. Und mit wem. Wir stellen Gewinner und Nichtgewinner des großen Castings vor.",
+      "image": "https://img.zeit.de/sport/2026-10/nationalelf-juergen-klopp-gewinner-verliere-bild/original__640x360",
+      "link": "https://www.zeit.de/sport/2026-10/nationalelf-juergen-klopp-gewinner-verlierer",
+      "published": "Mon, 05 Oct 2026 08:51:00 -0000",
+      "published_display": "05.10.2026 · 08:51 Uhr"
+    },
     {
       "title": "Schulproteste in Frankreich: Hunderte von Schulen in Frankreich bleiben geschlossen",
       "summary": "Hunderte französischer Gymnasien bleiben die zweite Woche in Folge geschlossen. Seit Beginn der Demonstrationen wurden 78 Mitarbeiter des Bildungswesens verletzt.",
@@ -65,62 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/05/riesiger-unterirdischer-suesswasser-see-bei-venedig-entdeckt",
       "published": "Mon, 05 Oct 2026 08:38:00 -0000",
       "published_display": "05.10.2026 · 08:38 Uhr"
-    },
-    {
-      "title": "Russland: BND-Chef sieht Gefahr eines »gewaltsamen Konflikts mit Russland«",
-      "summary": "BND-Präsident Martin Jäger sieht in Russland »unseren gefährlichsten Gegner«. Deutschland werde in Moskau als Haupthindernis für eine expansive Politik betrachtet.",
-      "image": "https://img.zeit.de/politik/ausland/2026-10/bnd-martin-jaeger-russland-konflikt-gefahr-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/bnd-martin-jaeger-russland-konflikt-gefahr",
-      "published": "Mon, 05 Oct 2026 08:37:52 -0000",
-      "published_display": "05.10.2026 · 08:37 Uhr"
-    },
-    {
-      "title": "Wahlsieg in Berlin: Linke zieht gegen Ministerin Reiche vor Gericht",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/linke-zieht-gegen-ministerin-reiche-vor-gericht-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/linke-zieht-gegen-ministerin-reiche-vor-gericht",
-      "published": "Mon, 05 Oct 2026 08:34:25 -0000",
-      "published_display": "05.10.2026 · 08:34 Uhr"
-    },
-    {
-      "title": "Kriminalität: Präventionswoche zeigt Tricks der Taschendiebe",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/praeventionswoche-zeigt-tricks-der-taschendiebe-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/praeventionswoche-zeigt-tricks-der-taschendiebe",
-      "published": "Mon, 05 Oct 2026 08:29:05 -0000",
-      "published_display": "05.10.2026 · 08:29 Uhr"
-    },
-    {
-      "title": "Telefon-Betrugsmasche: Falscher Bankmitarbeiter erbeutet 129.000 Euro per Anruf",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/falscher-bankmitarbeiter-erbeutet-129-000-euro-per-anruf-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/falscher-bankmitarbeiter-erbeutet-129-000-euro-per-anruf",
-      "published": "Mon, 05 Oct 2026 08:25:43 -0000",
-      "published_display": "05.10.2026 · 08:25 Uhr"
-    },
-    {
-      "title": "2. Fußball-Bundesliga: Pünktlich vor «heißem» Oktober: Prtajin meldet sich zurück",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/puenktlich-vor-heissem-oktober-prtajin-meldet-sich-zurueck-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/puenktlich-vor-heissem-oktober-prtajin-meldet-sich-zurueck",
-      "published": "Mon, 05 Oct 2026 08:24:49 -0000",
-      "published_display": "05.10.2026 · 08:24 Uhr"
-    },
-    {
-      "title": "Straftat geplant: Verdacht auf «schwere Straftat» - 20-Jähriger in Gewahrsam",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/verdacht-auf-schwere-straftat-20-jaehriger-in-gewahrsam-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/verdacht-auf-schwere-straftat-20-jaehriger-in-gewahrsam",
-      "published": "Mon, 05 Oct 2026 08:24:18 -0000",
-      "published_display": "05.10.2026 · 08:24 Uhr"
-    },
-    {
-      "title": "44 Jahre: Mit 44",
-      "summary": "In unserer Kolumne nehmen wir uns jede Woche ein Lebensjahr vor. In diesem starb der James Dean der Malerei.",
-      "image": "https://img.zeit.de/2026/42/mit-bild-3/original__640x360",
-      "link": "https://www.zeit.de/2026/42/44-jahre-martin-cooper-jackson-pollock",
-      "published": "Mon, 05 Oct 2026 08:22:23 -0000",
-      "published_display": "05.10.2026 · 08:22 Uhr"
     }
   ]
 }
