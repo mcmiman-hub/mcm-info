@@ -1,7 +1,87 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-05T16:21:25.289644+00:00",
+  "updated": "2026-10-05T16:39:36.472772+00:00",
   "items": [
+    {
+      "title": "Anhörung im Bundestag: BND-Chef sieht Deutschland im «Schattenkrieg» mit Russland",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/05/bnd-chef-sieht-deutschland-im-schattenkrieg-mit-russland-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/05/bnd-chef-sieht-deutschland-im-schattenkrieg-mit-russland",
+      "published": "Mon, 05 Oct 2026 16:36:27 -0000",
+      "published_display": "05.10.2026 · 16:36 Uhr"
+    },
+    {
+      "title": "Tennis: Medwedew disqualifiziert: Djokovic im Finale von Peking",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/05/medwedew-disqualifiziert-djokovic-im-finale-von-peking-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/05/medwedew-disqualifiziert-djokovic-im-finale-von-peking",
+      "published": "Mon, 05 Oct 2026 16:32:53 -0000",
+      "published_display": "05.10.2026 · 16:32 Uhr"
+    },
+    {
+      "title": "Polizeieinsatz: Flugbetrieb an Stuttgarter Flughafen kurzzeitig ausgesetzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/05/flugbetrieb-an-stuttgarter-flughafen-kurzzeitig-ausgesetzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/05/flugbetrieb-an-stuttgarter-flughafen-kurzzeitig-ausgesetzt",
+      "published": "Mon, 05 Oct 2026 16:32:27 -0000",
+      "published_display": "05.10.2026 · 16:32 Uhr"
+    },
+    {
+      "title": "Ceuta: Sie fürchten die Prügel des Militärs, und träumen weiter von Europa",
+      "summary": "Zwei Monate nach dem Massenandrang harren noch immer Tausende Migranten in Ceuta aus. Sie hoffen weiter auf Asyl – auch wenn die Stimmung in der Exklave kippt.",
+      "image": "https://img.zeit.de/politik/ausland/2026-09/ceuta-migration-spanien-marokko-gewalt-militaer-bild-30/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-09/ceuta-migration-spanien-marokko-gewalt-militaer",
+      "published": "Mon, 05 Oct 2026 16:31:31 -0000",
+      "published_display": "05.10.2026 · 16:31 Uhr"
+    },
+    {
+      "title": "Katastrophen: Zwei Tote bei schwerem Schulbus-Unfall in Florida",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/05/zwei-tote-bei-schwerem-schulbus-unfall-in-florida-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/05/zwei-tote-bei-schwerem-schulbus-unfall-in-florida",
+      "published": "Mon, 05 Oct 2026 16:29:15 -0000",
+      "published_display": "05.10.2026 · 16:29 Uhr"
+    },
+    {
+      "title": "Begierde in Beziehungen: »Kein Bock mehr? Dann ist der Endgegner das Müssen und das Sollen«",
+      "summary": "Begierde ist individuell wie ein Fingerabdruck, sagt die Paartherapeutin Sonja Bröning. Nur wer bestimmt mit, was wir wollen? Und wie erzählen wir unseren Partnern davon?",
+      "image": "https://img.zeit.de/wissenschaft/2026-10/sonja-broening-portraet-sexpodcast/original__640x360",
+      "link": "https://www.zeit.de/wissenschaft/2026-09/begierde-beziehung-lust-sonja-broening-sexpodcast",
+      "published": "Mon, 05 Oct 2026 16:27:51 -0000",
+      "published_display": "05.10.2026 · 16:27 Uhr"
+    },
+    {
+      "title": "Apple Mac mini und Mac Studio: Mein Chatbot sitzt jetzt im Wohnzimmer",
+      "summary": "Von ChatGPT oder Claude unabhängig werden, das geht mit lokaler KI. Apples Macs sind beliebt dafür. Lohnt sich das? Unser Autor nimmt Sie mit ins Nerd-Rabbithole.",
+      "image": "https://img.zeit.de/digital/2026-10/apple-mac-mini-studio-lokale-ki-test-bild/original__640x360",
+      "link": "https://www.zeit.de/digital/2026-10/apple-mac-mini-studio-lokale-ki-test",
+      "published": "Mon, 05 Oct 2026 16:27:12 -0000",
+      "published_display": "05.10.2026 · 16:27 Uhr"
+    },
+    {
+      "title": "Ceuta: Spanische Polizei räumt Lager von Migranten in Ceuta",
+      "summary": "Spaniens Polizei räumt provisorische Behausungen am Strand von Ceuta. Die Migranten müssen sich zwischen einer Rückkehr nach Marokko und einer Registrierung entscheiden.",
+      "image": "https://img.zeit.de/politik/ausland/2026-10/ceuta-migranten-lager-marokko-polizei-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/ceuta-migranten-lager-marokko-polizei",
+      "published": "Mon, 05 Oct 2026 16:26:18 -0000",
+      "published_display": "05.10.2026 · 16:26 Uhr"
+    },
+    {
+      "title": "Lichtschalter für Zellen: Medizin-Nobelpreis an zwei Deutsche und einen US-Forscher",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/05/nobelpreis-countdown-jetzt-kommen-die-entscheidungen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/05/nobelpreis-countdown-jetzt-kommen-die-entscheidungen",
+      "published": "Mon, 05 Oct 2026 16:26:17 -0000",
+      "published_display": "05.10.2026 · 16:26 Uhr"
+    },
+    {
+      "title": "Züge über Rostock betroffen: Für mehrere ICE entfällt Stopp am Hauptbahnhof Hamburg",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/05/fuer-mehrere-ice-entfaellt-stopp-am-hauptbahnhof-hamburg-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/05/fuer-mehrere-ice-entfaellt-stopp-am-hauptbahnhof-hamburg",
+      "published": "Mon, 05 Oct 2026 16:25:31 -0000",
+      "published_display": "05.10.2026 · 16:25 Uhr"
+    },
     {
       "title": "US-Rüstungsunternehmen Covenant: US-Firma will in Leipzig Marschflugkörper produzieren",
       "summary": "Ab 2027 will die Rüstungsfirma Covenant in Leipzig Marschflugkörper fertigen. Der Standort ist bereits eröffnet. Sachsens Regierung begrüßt die Ansiedlung der Firma.",
@@ -11,20 +91,20 @@
       "published_display": "05.10.2026 · 16:20 Uhr"
     },
     {
+      "title": "Abwahlversuch gescheitert: Ex-CDU-Politiker Diener bleibt Seenplatte-Kreistagspräsident",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/05/ex-cdu-politiker-diener-bleibt-seenplatte-kreistagspraesident-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/05/ex-cdu-politiker-diener-bleibt-seenplatte-kreistagspraesident",
+      "published": "Mon, 05 Oct 2026 16:19:27 -0000",
+      "published_display": "05.10.2026 · 16:19 Uhr"
+    },
+    {
       "title": "Atomindustrie: Meyer kritisiert Merz wegen Atomkooperation in Lingen",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-10/05/meyer-kritisiert-merz-wegen-atomkooperation-in-lingen-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-10/05/meyer-kritisiert-merz-wegen-atomkooperation-in-lingen",
       "published": "Mon, 05 Oct 2026 16:15:50 -0000",
       "published_display": "05.10.2026 · 16:15 Uhr"
-    },
-    {
-      "title": "Ceuta: Spanische Polizei räumt Lager von Migranten in Ceuta",
-      "summary": "Spaniens Polizei räumt provisorische Behausungen am Strand von Ceuta. Die Migranten müssen sich zwischen einer Rückkehr nach Marokko und einer Registrierung entscheiden.",
-      "image": "https://img.zeit.de/politik/ausland/2026-10/ceuta-migranten-lager-marokko-polizei-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/ceuta-migranten-lager-marokko-polizei",
-      "published": "Mon, 05 Oct 2026 16:03:36 -0000",
-      "published_display": "05.10.2026 · 16:03 Uhr"
     },
     {
       "title": "Sachsen-Anhalt: AfD und BSW wollen ersten AfD-Landtagspräsidenten wählen",
@@ -41,86 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/05/wissenschaftssenatorin-gratuliert-berliner-nobelpreistraeger",
       "published": "Mon, 05 Oct 2026 15:47:20 -0000",
       "published_display": "05.10.2026 · 15:47 Uhr"
-    },
-    {
-      "title": "Medizin-Nobelpreis: Sie brachten Licht in die Hirnforschung – dafür gibt es den Nobelpreis",
-      "summary": "Zwei Deutsche und ein US-Amerikaner erhalten den Medizinnobelpreis. Was hinter ihrer Forschung zur Optogenetik steckt. Und: Überraschende Neuwahlen für Spanien",
-      "image": "https://img.zeit.de/wissenschaft/2026-10/medizin-nobelpreis-hirnforschung-nachrichtenpodcast-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/2026-10/medizin-nobelpreis-hirnforschung-nachrichtenpodcast",
-      "published": "Mon, 05 Oct 2026 15:36:42 -0000",
-      "published_display": "05.10.2026 · 15:36 Uhr"
-    },
-    {
-      "title": "Wintersemester 2026/2027: Mehr Interesse an Studium in Chemnitz",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/mehr-interesse-an-studium-in-chemnitz-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/mehr-interesse-an-studium-in-chemnitz",
-      "published": "Mon, 05 Oct 2026 15:33:49 -0000",
-      "published_display": "05.10.2026 · 15:33 Uhr"
-    },
-    {
-      "title": "Rüstungsprojekte: US-Rüstungsunternehmen öffnet Standort in Leipzig",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/us-ruestungsunternehmen-oeffnet-standort-in-leipzig-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/us-ruestungsunternehmen-oeffnet-standort-in-leipzig",
-      "published": "Mon, 05 Oct 2026 15:32:42 -0000",
-      "published_display": "05.10.2026 · 15:32 Uhr"
-    },
-    {
-      "title": "Rauchgasvergiftung: Brand in Nürnberger Mehrfamilienhaus: Zwei Verletzte",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/brand-in-nuernberger-mehrfamilienhaus-zwei-verletzte-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/brand-in-nuernberger-mehrfamilienhaus-zwei-verletzte",
-      "published": "Mon, 05 Oct 2026 15:31:10 -0000",
-      "published_display": "05.10.2026 · 15:31 Uhr"
-    },
-    {
-      "title": "Nordafrika-Exklave: Spanische Polizei räumt Migrantenlager in Ceuta",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/spanische-polizei-raeumt-migrantenlager-in-ceuta-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/spanische-polizei-raeumt-migrantenlager-in-ceuta",
-      "published": "Mon, 05 Oct 2026 15:27:13 -0000",
-      "published_display": "05.10.2026 · 15:27 Uhr"
-    },
-    {
-      "title": "Betrugsmasche: Diebe lassen Luft aus Autoreifen und stehlen Tausende Euro",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/diebe-lassen-luft-aus-autoreifen-und-stehlen-tausende-euro-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/diebe-lassen-luft-aus-autoreifen-und-stehlen-tausende-euro",
-      "published": "Mon, 05 Oct 2026 15:25:36 -0000",
-      "published_display": "05.10.2026 · 15:25 Uhr"
-    },
-    {
-      "title": "Streit über Werbung: Apothekerkammer lässt Geld bei DocMorris pfänden",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/apothekerkammer-laesst-geld-bei-docmorris-pfaenden-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/apothekerkammer-laesst-geld-bei-docmorris-pfaenden",
-      "published": "Mon, 05 Oct 2026 15:25:12 -0000",
-      "published_display": "05.10.2026 · 15:25 Uhr"
-    },
-    {
-      "title": "Gesetzentwurf: Koalitionsfraktionen planen neue Plastiksteuer",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/koalitionsfraktionen-planen-neue-plastiksteuer-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/koalitionsfraktionen-planen-neue-plastiksteuer",
-      "published": "Mon, 05 Oct 2026 15:23:49 -0000",
-      "published_display": "05.10.2026 · 15:23 Uhr"
-    },
-    {
-      "title": "Kriminalität: Beauty-Produkte im hohen Wert aus Lkw an der A2 gestohlen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/beauty-produkte-im-hohen-wert-aus-lkw-an-der-a2-gestohlen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/beauty-produkte-im-hohen-wert-aus-lkw-an-der-a2-gestohlen",
-      "published": "Mon, 05 Oct 2026 15:23:11 -0000",
-      "published_display": "05.10.2026 · 15:23 Uhr"
-    },
-    {
-      "title": "Automarkt: So viele Elektroautos wie noch nie",
-      "summary": "Mehr als ein Drittel aller Neuwagen, die im September auf die Straße kamen, waren E-Autos. Ein Rekord – den der Staat fördert. Davon profitieren besonders diese Marken.",
-      "image": "https://img.zeit.de/mobilitaet/2026-10/automarkt-elektroautos-neuzulassungen-anteil-batterie-deutschland-bild/original__640x360",
-      "link": "https://www.zeit.de/mobilitaet/2026-10/automarkt-elektroautos-neuzulassungen-anteil-batterie-deutschland",
-      "published": "Mon, 05 Oct 2026 15:22:21 -0000",
-      "published_display": "05.10.2026 · 15:22 Uhr"
     }
   ]
 }
