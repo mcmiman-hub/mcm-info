@@ -1,13 +1,93 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-05T15:04:06.769011+00:00",
+  "updated": "2026-10-05T15:24:00.365832+00:00",
   "items": [
+    {
+      "title": "Automarkt: So viele Elektroautos wie noch nie",
+      "summary": "Mehr als ein Drittel aller Neuwagen, die im September auf die Straße kamen, waren E-Autos. Ein Rekord – den der Staat fördert. Davon profitieren besonders diese Marken.",
+      "image": "https://img.zeit.de/mobilitaet/2026-10/automarkt-elektroautos-neuzulassungen-anteil-batterie-deutschland-bild/original__640x360",
+      "link": "https://www.zeit.de/mobilitaet/2026-10/automarkt-elektroautos-neuzulassungen-anteil-batterie-deutschland",
+      "published": "Mon, 05 Oct 2026 15:22:21 -0000",
+      "published_display": "05.10.2026 · 15:22 Uhr"
+    },
+    {
+      "title": "Machtmissbrauch: Staatssekretär schützt Scharrenbach – Keine Mobbing-Hinweise",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/05/keine-auffaelligkeiten-bei-scharrenbach-mitarbeiterbefragung-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/05/keine-auffaelligkeiten-bei-scharrenbach-mitarbeiterbefragung",
+      "published": "Mon, 05 Oct 2026 15:20:54 -0000",
+      "published_display": "05.10.2026 · 15:20 Uhr"
+    },
+    {
+      "title": "Tennis: Medwedew disqualifiziert: Djokovic im Finale von Peking",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/05/medwedew-disqualifiziert-djokovic-im-finale-von-peking-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/05/medwedew-disqualifiziert-djokovic-im-finale-von-peking",
+      "published": "Mon, 05 Oct 2026 15:18:52 -0000",
+      "published_display": "05.10.2026 · 15:18 Uhr"
+    },
+    {
+      "title": "Cornell University: Eine Welt, in der Frauen mit sexueller Gewalt rechnen",
+      "summary": "An der US-Elite-Uni Cornell soll es zu einer Gruppenvergewaltigung gekommen sein. Chats und Treffen mit Studentinnen vor Ort zeigen die Frauenverachtung der Frat-Boys.",
+      "image": "https://img.zeit.de/bildung/2026-10/cornell-university-vergewaltigung-usa-new-york-bild-bild-02/original__640x360",
+      "link": "https://www.zeit.de/bildung/2026-10/cornell-university-vergewaltigung-usa-new-york-studentin",
+      "published": "Mon, 05 Oct 2026 15:15:29 -0000",
+      "published_display": "05.10.2026 · 15:15 Uhr"
+    },
+    {
+      "title": "Exzellenzforschung: Neues Forschungszentrum für Mikroorganismen in Jena eröffnet",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/05/neues-forschungszentrum-fuer-mikroorganismen-in-jena-eroeffnet-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/05/neues-forschungszentrum-fuer-mikroorganismen-in-jena-eroeffnet",
+      "published": "Mon, 05 Oct 2026 15:13:15 -0000",
+      "published_display": "05.10.2026 · 15:13 Uhr"
+    },
+    {
+      "title": "Flucht vor Verkehrskontrolle: 25-Jähriger liefert sich Verfolgungsjagd mit Polizei",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/05/25-jaehriger-liefert-sich-verfolgungsjagd-mit-polizei-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/05/25-jaehriger-liefert-sich-verfolgungsjagd-mit-polizei",
+      "published": "Mon, 05 Oct 2026 15:12:53 -0000",
+      "published_display": "05.10.2026 · 15:12 Uhr"
+    },
+    {
+      "title": "Züge über Rostock betroffen: Für mehrere ICE entfällt Stopp am Hauptbahnhof Hamburg",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/05/fuer-mehrere-ice-entfaellt-stopp-am-hauptbahnhof-hamburg-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/05/fuer-mehrere-ice-entfaellt-stopp-am-hauptbahnhof-hamburg",
+      "published": "Mon, 05 Oct 2026 15:06:39 -0000",
+      "published_display": "05.10.2026 · 15:06 Uhr"
+    },
+    {
+      "title": "Gesetzentwurf: Koalitionsfraktionen planen neue Plastiksteuer",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/05/koalitionsfraktionen-planen-neue-plastiksteuer-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/05/koalitionsfraktionen-planen-neue-plastiksteuer",
+      "published": "Mon, 05 Oct 2026 15:05:30 -0000",
+      "published_display": "05.10.2026 · 15:05 Uhr"
+    },
+    {
+      "title": "Theater & Orchester: Regierung will bei Kultur kürzen - Demonstration in Dresden",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/05/demonstration-gegen-kuerzungsplaene-in-der-kultur-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/05/demonstration-gegen-kuerzungsplaene-in-der-kultur",
+      "published": "Mon, 05 Oct 2026 15:02:28 -0000",
+      "published_display": "05.10.2026 · 15:02 Uhr"
+    },
     {
       "title": "Kunststoff: Regierungsfraktionen planen neue Steuer auf Plastik",
       "summary": "Ab 2027 soll eine neue Steuer auf Kunststoffverpackungen greifen – und jede Tonne Material 550 Euro kosten. Verbände kritisieren eine Gesetzgebung »im Schnellverfahren«.",
       "image": "https://img.zeit.de/politik/deutschland/2026-10/plastiksteuer-kunststoff-verpackungen-cdu-spd-bundestag-foto-1/original__640x360",
       "link": "https://www.zeit.de/politik/deutschland/2026-10/plastiksteuer-kunststoff-verpackungen-cdu-spd-bundestag",
       "published": "Mon, 05 Oct 2026 15:02:26 -0000",
+      "published_display": "05.10.2026 · 15:02 Uhr"
+    },
+    {
+      "title": "Sachsen-Anhalt: Wahl des ersten AfD-Landtagspräsidenten ist abgemacht",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/05/bsw-waehlen-den-afd-kandidaten-zum-landtagspraesidenten-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/05/bsw-waehlen-den-afd-kandidaten-zum-landtagspraesidenten",
+      "published": "Mon, 05 Oct 2026 15:02:25 -0000",
       "published_display": "05.10.2026 · 15:02 Uhr"
     },
     {
@@ -41,86 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/05/hessen-freut-sich-ueber-nobelpreistraeger-mit-frankfurt-bezug",
       "published": "Mon, 05 Oct 2026 14:57:31 -0000",
       "published_display": "05.10.2026 · 14:57 Uhr"
-    },
-    {
-      "title": "Katastrophen: Zwei Tote bei schwerem Schulbus-Unfall in Florida",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/zwei-tote-bei-schwerem-schulbus-unfall-in-florida-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/zwei-tote-bei-schwerem-schulbus-unfall-in-florida",
-      "published": "Mon, 05 Oct 2026 14:57:15 -0000",
-      "published_display": "05.10.2026 · 14:57 Uhr"
-    },
-    {
-      "title": "Jungtier wird aktiv: Nachwuchs beim Roten Panda erkundet Gehege",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/nachwuchs-beim-roten-panda-erkundet-gehege-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/nachwuchs-beim-roten-panda-erkundet-gehege",
-      "published": "Mon, 05 Oct 2026 14:56:41 -0000",
-      "published_display": "05.10.2026 · 14:56 Uhr"
-    },
-    {
-      "title": "Umwelt: Entwarnung nach Säure-Austritt in Dillenburg",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/entwarnung-nach-saeure-austritt-in-dillenburg-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/entwarnung-nach-saeure-austritt-in-dillenburg",
-      "published": "Mon, 05 Oct 2026 14:56:22 -0000",
-      "published_display": "05.10.2026 · 14:56 Uhr"
-    },
-    {
-      "title": "Georg Nagel: Weingarten und Konstanz freuen sich mit Nobelpreisträger",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/weingarten-und-konstanz-freuen-sich-mit-nobelpreistraeger-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/weingarten-und-konstanz-freuen-sich-mit-nobelpreistraeger",
-      "published": "Mon, 05 Oct 2026 14:54:58 -0000",
-      "published_display": "05.10.2026 · 14:54 Uhr"
-    },
-    {
-      "title": "Mobilitätskosten: Sprit teurer als zu Beginn des Tankrabatts",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/sprit-teurer-als-zu-beginn-des-tankrabatts-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/sprit-teurer-als-zu-beginn-des-tankrabatts",
-      "published": "Mon, 05 Oct 2026 14:54:24 -0000",
-      "published_display": "05.10.2026 · 14:54 Uhr"
-    },
-    {
-      "title": "Tennis: Medwedew disqualifiziert: Djokovic im Finale von Peking",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/medwedew-disqualifiziert-djokovic-im-finale-von-peking-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/medwedew-disqualifiziert-djokovic-im-finale-von-peking",
-      "published": "Mon, 05 Oct 2026 14:53:41 -0000",
-      "published_display": "05.10.2026 · 14:53 Uhr"
-    },
-    {
-      "title": "Unfall: Trike-Fahrer stirbt bei Zusammenstoß mit Auto",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/trike-fahrer-stirbt-bei-zusammenstoss-mit-auto-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/trike-fahrer-stirbt-bei-zusammenstoss-mit-auto",
-      "published": "Mon, 05 Oct 2026 14:52:45 -0000",
-      "published_display": "05.10.2026 · 14:52 Uhr"
-    },
-    {
-      "title": "Gesetzentwurf: Koalitionsfraktionen planen neue Plastiksteuer",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/koalitionsfraktionen-planen-neue-plastiksteuer-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/koalitionsfraktionen-planen-neue-plastiksteuer",
-      "published": "Mon, 05 Oct 2026 14:51:49 -0000",
-      "published_display": "05.10.2026 · 14:51 Uhr"
-    },
-    {
-      "title": "Dresdner Opernball: Simonetti und Sedlaczek moderieren den Semperopernball 2027",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/simonetti-und-sedlaczek-moderieren-den-semperopernball-2027-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/simonetti-und-sedlaczek-moderieren-den-semperopernball-2027",
-      "published": "Mon, 05 Oct 2026 14:51:43 -0000",
-      "published_display": "05.10.2026 · 14:51 Uhr"
-    },
-    {
-      "title": "Klage gegen Energiediscounter: Gericht: Preiserhöhungen bei Festpreisen unwirksam",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/gericht-preiserhoehungen-bei-festpreisen-unwirksam-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/gericht-preiserhoehungen-bei-festpreisen-unwirksam",
-      "published": "Mon, 05 Oct 2026 14:51:10 -0000",
-      "published_display": "05.10.2026 · 14:51 Uhr"
     }
   ]
 }
