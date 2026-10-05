@@ -1,7 +1,71 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-05T03:39:00.208552+00:00",
+  "updated": "2026-10-05T04:03:25.840877+00:00",
   "items": [
+    {
+      "title": "Elbvertiefung: Der tägliche Newsletter aus Hamburg: Sie wollen auf Ihren Balkon? Fünf Euro, bitte!",
+      "summary": "Die Elbvertiefung am Montag – Mit Einsparungen an Gymnasien, TikTokern in der Elbphilharmonie und einem Fünfer für den Plaza-Eintritt",
+      "image": "https://img.zeit.de/hamburg/2026-10/elbphilharmonie-plaza/original__640x360",
+      "link": "https://www.zeit.de/hamburg/2026-10/elbvertiefung-05-10-2026",
+      "published": "Mon, 05 Oct 2026 04:00:11 -0000",
+      "published_display": "05.10.2026 · 04:00 Uhr"
+    },
+    {
+      "title": "Social Media: Gym, Nonna, Schlaf: Die vielen Gesichter des «Maxxing»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/05/gym-nonna-schlaf-die-vielen-gesichter-des-maxxing-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/05/gym-nonna-schlaf-die-vielen-gesichter-des-maxxing",
+      "published": "Mon, 05 Oct 2026 04:00:09 -0000",
+      "published_display": "05.10.2026 · 04:00 Uhr"
+    },
+    {
+      "title": "Vaterschaft: Dürfen sich auch Väter beschweren?",
+      "summary": "Männer, die über Care-Arbeit jammern, Dads, die sich fürs Dadsein feiern – nie war Vaterschaft so divers wie heute. Doch wie entkommen Väter dem Druck all dieser Rollen?",
+      "image": "https://img.zeit.de/2026-10/vaterschaft-care-arbeit-maennerrollen-podcast-bild/original__640x360",
+      "link": "https://www.zeit.de/feuilleton/2026-10/vaterschaft-carearbeit-maenner-kinder-feuilleton-podcast",
+      "published": "Mon, 05 Oct 2026 04:00:06 -0000",
+      "published_display": "05.10.2026 · 04:00 Uhr"
+    },
+    {
+      "title": "Chinapolitik der Bundesregierung: Wieso die SPD mehr Härte gegen China fordert",
+      "summary": "Die Bundesregierung ringt um ihren Chinakurs, die SPD will härter auftreten. Was genau fordert sie? Und: Was der Stolperstein-Streit in Heidenau fürs Gedenken bedeutet.",
+      "image": "https://img.zeit.de/politik/2026-10/chinapolitik-bundesregierung-importe-nachrichtenpodcast-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/2026-10/chinapolitik-bundesregierung-importe-nachrichtenpodcast",
+      "published": "Mon, 05 Oct 2026 03:59:30 -0000",
+      "published_display": "05.10.2026 · 03:59 Uhr"
+    },
+    {
+      "title": "Wetter: Nebeliger Wochenstart in Thüringen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/05/nebeliger-wochenstart-in-thueringen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/05/nebeliger-wochenstart-in-thueringen",
+      "published": "Mon, 05 Oct 2026 03:58:09 -0000",
+      "published_display": "05.10.2026 · 03:58 Uhr"
+    },
+    {
+      "title": "Eventplanerin für Reiche: »Für die Welcome Party hatte ich elf Jachten gemietet«",
+      "summary": "Hochzeiten mit Startenören und Fernsehköchen, Kindergeburtstage mit Profifußballern: Eventplanerinnen erzählen, warum selbst bei den teuersten Feiern Protz verpönt ist.",
+      "image": "https://img.zeit.de/arbeit/2026-09/eventplanerin-reiche-millionaere-veranstaltungen-hochzeit-bild/original__640x360",
+      "link": "https://www.zeit.de/arbeit/2026-09/eventplanerin-reiche-millionaere-veranstaltungen-hochzeit",
+      "published": "Mon, 05 Oct 2026 03:55:59 -0000",
+      "published_display": "05.10.2026 · 03:55 Uhr"
+    },
+    {
+      "title": "Prestigewahl im Fußball: Nicht Kane: Müller hat zwei andere Favoriten für Ballon d'Or",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/05/nicht-kane-mueller-hat-zwei-andere-favoriten-fuer-ballon-d-or-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/05/nicht-kane-mueller-hat-zwei-andere-favoriten-fuer-ballon-d-or",
+      "published": "Mon, 05 Oct 2026 03:53:04 -0000",
+      "published_display": "05.10.2026 · 03:53 Uhr"
+    },
+    {
+      "title": "Bundesregierung: Die SPD geht auf Konfrontationskurs zu China",
+      "summary": "Die SPD-Minister verlangen einen härteren Kurs gegen die Regierung in Peking, zeigt ein bislang unveröffentlichtes Papier. Die Partei will so die Autoindustrie schützen.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-10/spd-china-politik-bundesregierung-union-verschaerfung-bild-2/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-10/spd-china-politik-bundesregierung-union-verschaerfung",
+      "published": "Mon, 05 Oct 2026 03:38:50 -0000",
+      "published_display": "05.10.2026 · 03:38 Uhr"
+    },
     {
       "title": "Wetter: Dichter Nebel beeinträchtigt Sicht in Berlin und Brandenburg",
       "summary": "",
@@ -57,70 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/05/gruene-kritisieren-stellenabbau-bei-betriebspruefern",
       "published": "Mon, 05 Oct 2026 03:00:09 -0000",
       "published_display": "05.10.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Im Ersten und in der Mediathek: Neue Mystery-Serie: Was die Macherin am Gruseln gut findet",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/neue-mystery-serie-was-die-macherin-am-gruseln-gut-findet-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/neue-mystery-serie-was-die-macherin-am-gruseln-gut-findet",
-      "published": "Mon, 05 Oct 2026 03:00:08 -0000",
-      "published_display": "05.10.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Zehn-Punkte-Programm: Verbände zum Wohnungsmangel: Milliarden allein helfen nicht",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/verbaende-zum-wohnungsmangel-milliarden-allein-helfen-nicht-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/verbaende-zum-wohnungsmangel-milliarden-allein-helfen-nicht",
-      "published": "Mon, 05 Oct 2026 03:00:07 -0000",
-      "published_display": "05.10.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Grausamer Fall: Prozess um «Soester Horrorhaus» - Frau über Monate gequält",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/prozess-um-soester-horrorhaus-frau-ueber-monate-gequaelt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/prozess-um-soester-horrorhaus-frau-ueber-monate-gequaelt",
-      "published": "Mon, 05 Oct 2026 03:00:06 -0000",
-      "published_display": "05.10.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "CDU-Krise: Berlins CDU-Chef: Dem Kanzler fehlen Empathie und Nahbarkeit",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/berlins-cdu-chef-dem-kanzler-fehlen-empathie-und-nahbarkeit-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/berlins-cdu-chef-dem-kanzler-fehlen-empathie-und-nahbarkeit",
-      "published": "Mon, 05 Oct 2026 03:00:04 -0000",
-      "published_display": "05.10.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Oktoberfest: Unfall auf Oktoberfest - Polizei ermittelt zur Ursache",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/unfall-auf-oktoberfest-polizei-ermittelt-zur-ursache-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/unfall-auf-oktoberfest-polizei-ermittelt-zur-ursache",
-      "published": "Mon, 05 Oct 2026 02:31:12 -0000",
-      "published_display": "05.10.2026 · 02:31 Uhr"
-    },
-    {
-      "title": "Vor der Nobelpreis-Bekanntgabe: Nobelpreis-Countdown: Jetzt kommen die Entscheidungen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/nobelpreis-countdown-jetzt-kommen-die-entscheidungen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/nobelpreis-countdown-jetzt-kommen-die-entscheidungen",
-      "published": "Mon, 05 Oct 2026 02:30:10 -0000",
-      "published_display": "05.10.2026 · 02:30 Uhr"
-    },
-    {
-      "title": "Kanzler zurück in der Schule: Warum das Abi-Zeugnis des Kanzlers unter Verschluss ist",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/warum-das-abi-zeugnis-des-kanzlers-unter-verschluss-ist-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/warum-das-abi-zeugnis-des-kanzlers-unter-verschluss-ist",
-      "published": "Mon, 05 Oct 2026 02:30:09 -0000",
-      "published_display": "05.10.2026 · 02:30 Uhr"
-    },
-    {
-      "title": "Literatur: Wolf Biermannn wirft Netanjahu «Antisemitismus» vor",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/wolf-biermannn-wirft-netanjahu-antisemitismus-vor-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/wolf-biermannn-wirft-netanjahu-antisemitismus-vor",
-      "published": "Mon, 05 Oct 2026 02:30:08 -0000",
-      "published_display": "05.10.2026 · 02:30 Uhr"
     }
   ]
 }
