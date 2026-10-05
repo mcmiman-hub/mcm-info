@@ -1,7 +1,55 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-05T06:00:37.699335+00:00",
+  "updated": "2026-10-05T06:29:01.283300+00:00",
   "items": [
+    {
+      "title": "Wetter: Wechselhaftes Wetter zum Wochenstart im Norden",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/05/wechselhaftes-wetter-zum-wochenstart-im-norden-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/05/wechselhaftes-wetter-zum-wochenstart-im-norden",
+      "published": "Mon, 05 Oct 2026 06:24:33 -0000",
+      "published_display": "05.10.2026 · 06:24 Uhr"
+    },
+    {
+      "title": "Krieg gegen die Ukraine: Russland attackiert ukrainischen Hafen und Frachtschiffe",
+      "summary": "In der Küstenregion Odessa haben Luftangriffe Hafenanlagen in Brand gesetzt. Ukrainische Drohnen bringen erneut Hilfsgüter in blockierte Frontstadt Oleschky. Das Liveblog",
+      "image": "https://img.zeit.de/politik/ausland/2026-10/ukraine-krieg-news-liveblog-chornomorsk-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "published": "Mon, 05 Oct 2026 06:20:32 -0000",
+      "published_display": "05.10.2026 · 06:20 Uhr"
+    },
+    {
+      "title": "Ifo-Geschäftsklimaindex: Stimmung in der deutschen Autoindustrie weiter verschlechtert",
+      "summary": "Das Geschäftsklima der Autoindustrie hat sich im September verschlechtert. »Die Automobilindustrie steckt weiterhin in der Krise«, sagt eine Expertin des ifo-Instituts.",
+      "image": "https://img.zeit.de/wirtschaft/2026-10/ifo-geschaeftsklima-autoindustrie-krise-auftragslage-exporte-foto-1/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/2026-10/ifo-geschaeftsklima-autoindustrie-krise-auftragslage-exporte",
+      "published": "Mon, 05 Oct 2026 06:18:39 -0000",
+      "published_display": "05.10.2026 · 06:18 Uhr"
+    },
+    {
+      "title": "Vorhersage: Regen und Wind ab Mittwoch – Wetterumschwung in Sicht",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/05/regen-und-wind-ab-mittwoch-wetterumschwung-in-sicht-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/05/regen-und-wind-ab-mittwoch-wetterumschwung-in-sicht",
+      "published": "Mon, 05 Oct 2026 06:18:18 -0000",
+      "published_display": "05.10.2026 · 06:18 Uhr"
+    },
+    {
+      "title": "Ringbahnbrücke: Neue Verkehrsführung am Dreieck Funkturm wegen Bauarbeiten",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/05/neue-verkehrsfuehrung-am-dreieck-funkturm-wegen-bauarbeiten-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/05/neue-verkehrsfuehrung-am-dreieck-funkturm-wegen-bauarbeiten",
+      "published": "Mon, 05 Oct 2026 06:09:01 -0000",
+      "published_display": "05.10.2026 · 06:09 Uhr"
+    },
+    {
+      "title": "Präsidentschaftswahl in Brasilien: Brasilien leidet am Joe-Biden-Syndrom",
+      "summary": "Flávio Bolsonaro galt lange als chancenlos. Nun könnte er Brasiliens Präsident werden – und seinen Vater aus der Haft befreien. Lula bleibt nur ein Weg, um aufzuholen.",
+      "image": "https://img.zeit.de/politik/ausland/2026-10/brasilien-wahl-praesidentschaft-flavio-bolsonaro-luiz-inacio-lula-da-silva-bild-5/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/brasilien-wahl-praesidentschaft-flavio-bolsonaro-luiz-inacio-lula-da-silva",
+      "published": "Mon, 05 Oct 2026 06:01:17 -0000",
+      "published_display": "05.10.2026 · 06:01 Uhr"
+    },
     {
       "title": "Auseinandersetzung: Streit nach Fußballspiel: Sechs junge Männer verletzt",
       "summary": "",
@@ -33,22 +81,6 @@
       "link": "https://www.zeit.de/news/2026-10/05/100-tage-vor-heim-wm-ticket-boom-und-medaillentraeume",
       "published": "Mon, 05 Oct 2026 05:51:05 -0000",
       "published_display": "05.10.2026 · 05:51 Uhr"
-    },
-    {
-      "title": "Vorhersage: Regen und Wind ab Mittwoch – Wetterumschwung in Sicht",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/regen-und-wind-ab-mittwoch-wetterumschwung-in-sicht-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/regen-und-wind-ab-mittwoch-wetterumschwung-in-sicht",
-      "published": "Mon, 05 Oct 2026 05:50:01 -0000",
-      "published_display": "05.10.2026 · 05:50 Uhr"
-    },
-    {
-      "title": "Krieg gegen die Ukraine: Russland attackiert ukrainischen Hafen und Frachtschiffe",
-      "summary": "In der Küstenregion Odessa haben Luftangriffe Hafenanlagen in Brand gesetzt. Ukrainische Drohnen bringen erneut Hilfsgüter in blockierte Frontstadt Oleschky. Das Liveblog",
-      "image": "https://img.zeit.de/politik/ausland/2026-10/ukraine-krieg-news-liveblog-chornomorsk-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "published": "Mon, 05 Oct 2026 05:49:03 -0000",
-      "published_display": "05.10.2026 · 05:49 Uhr"
     },
     {
       "title": "Vigdis Hjorth: Reichtum verdirbt die Moral und die Ehe, aber man kann sich davon ein Haus kaufen",
@@ -88,38 +120,6 @@
       "image": "https://img.zeit.de/2026/43/schleifen-elias-hirschl-roman-sprache-germanistik-bild/original__640x360",
       "link": "https://www.zeit.de/2026/43/schleifen-elias-hirschl-roman-sprache-germanistik",
       "published": "Mon, 05 Oct 2026 05:46:17 -0000",
-      "published_display": "05.10.2026 · 05:46 Uhr"
-    },
-    {
-      "title": "»1.999 Meter über dem Meer«: Unter Selbstverwirklichungsknalltüten",
-      "summary": "Caroline Wahl hat einen neuen Roman geschrieben, und er hat mit dem Leben zu tun. Genauer gesagt mit dem von Samara, einer PR-Expertin für nachhaltiges Hinfallen.",
-      "image": "https://img.zeit.de/2026/43/unter-selbstverwirklichungsknalltueten-bild-3/original__640x360",
-      "link": "https://www.zeit.de/2026/43/1999-meter-ueber-dem-meer-caroline-wahl-roman-bali",
-      "published": "Mon, 05 Oct 2026 05:46:15 -0000",
-      "published_display": "05.10.2026 · 05:46 Uhr"
-    },
-    {
-      "title": "»Kolchose«: Kuscheln heißt Kolchose Machen",
-      "summary": "Emmanuel Carrère hat ein Buch über seine Mutter, die Historikerin Hélène Carrère d’Encausse, geschrieben. Zugleich ist es ein Familienepos über vier Generationen hinweg.",
-      "image": "https://img.zeit.de/2026/43/kuscheln-heisst-kolchose-machen-bild-1/original__640x360",
-      "link": "https://www.zeit.de/2026/43/kolchose-emmanuel-carrere-helene-carrere-d-encausse-familiengeschichte-russland",
-      "published": "Mon, 05 Oct 2026 05:46:14 -0000",
-      "published_display": "05.10.2026 · 05:46 Uhr"
-    },
-    {
-      "title": "Kathleen Hanna: Niemals Angst haben, auch nicht vor Typen",
-      "summary": "Aus Wut auf die Gewalt der Männer trat Kathleen Hanna die Riot-Grrrl-Bewegung los und wurde zu ihrer Ikone. Nun erzählt sie ihre Geschichte und jene mit Kurt Cobain.",
-      "image": "https://img.zeit.de/2026/43/kathleen-hanna-riot-grrrl-rebel-girl-bikini-kill-bild/original__640x360",
-      "link": "https://www.zeit.de/2026/43/kathleen-hanna-riot-grrrl-rebel-girl-bikini-kill",
-      "published": "Mon, 05 Oct 2026 05:46:12 -0000",
-      "published_display": "05.10.2026 · 05:46 Uhr"
-    },
-    {
-      "title": "Matt Haig: Wie sich das Glück festhalten lässt",
-      "summary": "Matt Haig erzählt, wie er immer unsicherer wurde und warum das ein erstrebenswerter Zustand ist.",
-      "image": "https://img.zeit.de/2026/43/matt-haig-mitternachtsreise-depression-glueck-buecher-bild-2/original__640x360",
-      "link": "https://www.zeit.de/2026/43/matt-haig-mitternachtsreise-depression-glueck-buecher",
-      "published": "Mon, 05 Oct 2026 05:46:12 -0000",
       "published_display": "05.10.2026 · 05:46 Uhr"
     }
   ]
