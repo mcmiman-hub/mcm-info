@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-05T04:03:25.840877+00:00",
+  "updated": "2026-10-05T04:22:21.994384+00:00",
   "items": [
+    {
+      "title": "Unentschieden gegen Griechenland: Schon wieder kein Tor, doch es geht aufwärts",
+      "summary": "Das große Klopp-Casting endet mit einem 0:0 in Griechenland, Gewinner ist der zweite Kader. Und es zeichnet sich ab, wie die deutsche Mannschaft in Zukunft spielen wird.",
+      "image": "https://img.zeit.de/sport/2026-10/unentschieden-gegen-griechenland-klopp-bild/original__640x360",
+      "link": "https://www.zeit.de/sport/2026-10/klopp-griechenland-unentschieden-fussball",
+      "published": "Mon, 05 Oct 2026 04:21:24 -0000",
+      "published_display": "05.10.2026 · 04:21 Uhr"
+    },
+    {
+      "title": "Brände: Rund 1.000 Strohballen brennen in Mansfeld-Südharz",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/05/rund-1-000-strohballen-brennen-in-mansfeld-suedharz-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/05/rund-1-000-strohballen-brennen-in-mansfeld-suedharz",
+      "published": "Mon, 05 Oct 2026 04:13:12 -0000",
+      "published_display": "05.10.2026 · 04:13 Uhr"
+    },
+    {
+      "title": "Begierde in Beziehungen: »Kein Bock mehr? Dann ist der Endgegner das Müssen und das Sollen«",
+      "summary": "Begierde ist individuell wie ein Fingerabdruck, sagt die Paartherapeutin Sonja Bröning. Nur wer bestimmt mit, was wir wollen? Und wie erzählen wir unseren Partnern davon?",
+      "image": "https://img.zeit.de/wissenschaft/2026-10/sonja-broening-portraet-sexpodcast/original__640x360",
+      "link": "https://www.zeit.de/wissenschaft/2026-09/begierde-beziehung-lust-sonja-broening-sexpodcast",
+      "published": "Mon, 05 Oct 2026 04:10:06 -0000",
+      "published_display": "05.10.2026 · 04:10 Uhr"
+    },
     {
       "title": "Elbvertiefung: Der tägliche Newsletter aus Hamburg: Sie wollen auf Ihren Balkon? Fünf Euro, bitte!",
       "summary": "Die Elbvertiefung am Montag – Mit Einsparungen an Gymnasien, TikTokern in der Elbphilharmonie und einem Fünfer für den Plaza-Eintritt",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/05/stichwahl-in-brasilien-lula-gegen-bolsonaro-sohn-fl-vio",
       "published": "Mon, 05 Oct 2026 03:09:25 -0000",
       "published_display": "05.10.2026 · 03:09 Uhr"
-    },
-    {
-      "title": "Fotografie: Bilder des Tages",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/bilder-des-tages-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/bilder-des-tages",
-      "published": "Mon, 05 Oct 2026 03:01:19 -0000",
-      "published_display": "05.10.2026 · 03:01 Uhr"
-    },
-    {
-      "title": "Nach der Landtagswahl in MV: Rot-rot-grüner Bündnisplan weckt in Windbranche Hoffnungen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/rot-rot-gruener-buendnisplan-weckt-in-windbranche-hoffnungen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/rot-rot-gruener-buendnisplan-weckt-in-windbranche-hoffnungen",
-      "published": "Mon, 05 Oct 2026 03:00:10 -0000",
-      "published_display": "05.10.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Finanzkriminalität: Grüne kritisieren Stellenabbau bei Betriebsprüfern",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/gruene-kritisieren-stellenabbau-bei-betriebspruefern-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/gruene-kritisieren-stellenabbau-bei-betriebspruefern",
-      "published": "Mon, 05 Oct 2026 03:00:09 -0000",
-      "published_display": "05.10.2026 · 03:00 Uhr"
     }
   ]
 }
