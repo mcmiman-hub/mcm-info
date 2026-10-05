@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-05T23:29:14.924131+00:00",
+  "updated": "2026-10-05T23:43:33.927232+00:00",
   "items": [
+    {
+      "title": "Saudi-Arabien: Huthi-Miliz greift Saudi-Arabiens Hauptstadt Riad an",
+      "summary": "In Saudi-Arabien werden Explosionen gemeldet, die Huthi-Miliz bekennt sich zu Angriffen. Die von Saudi-Arabien angeführte Militärkooperation meldet indes Erfolge.",
+      "image": "https://img.zeit.de/politik/2026-10/smoke-rises-from-the-site-of-the-saudi-aramco-refinery-south-of-riyadh-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/huthi-miliz-angriffe-saudi-arabien-riad-iran",
+      "published": "Mon, 05 Oct 2026 23:31:20 -0000",
+      "published_display": "05.10.2026 · 23:31 Uhr"
+    },
     {
       "title": "Stützpunkt RAF Fairford: Medien: Bomberabzug wegen Gefahr iranischen Drohnenangriffs",
       "summary": "",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/05/16-jaehrige-stirbt-bei-unfall-mit-kleinlaster-im-muensterland",
       "published": "Mon, 05 Oct 2026 19:23:38 -0000",
       "published_display": "05.10.2026 · 19:23 Uhr"
-    },
-    {
-      "title": "Auszeichnung: Forscher Hegemann ignorierte die Mail des Nobelkommitees",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/forscher-hegemann-ignorierte-die-mail-des-nobelkommitees-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/forscher-hegemann-ignorierte-die-mail-des-nobelkommitees",
-      "published": "Mon, 05 Oct 2026 18:57:45 -0000",
-      "published_display": "05.10.2026 · 18:57 Uhr"
     }
   ]
 }
