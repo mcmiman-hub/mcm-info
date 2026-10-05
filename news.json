@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-05T01:48:06.807806+00:00",
+  "updated": "2026-10-05T01:58:56.252966+00:00",
   "items": [
+    {
+      "title": "Luftwaffenstützpunkt RAF Fairford: US-Luftwaffe zieht Bomber von britischem Militärstützpunkt ab",
+      "summary": "In der Nähe des Luftwaffenstützpunktes RAF Fairford wurden mehrere Männer wegen Terrorverdacht festgenommen. Nun hat die US-Luftwaffe ihre Kampfjets von dort abgezogen.",
+      "image": "https://img.zeit.de/politik/ausland/2026-10/us-langstreckenbomber-grossbritannien-raf-fairford-iran-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/us-langstreckenbomber-grossbritannien-raf-fairford-iran",
+      "published": "Mon, 05 Oct 2026 01:51:19 -0000",
+      "published_display": "05.10.2026 · 01:51 Uhr"
+    },
+    {
+      "title": "Notfälle: Suche nach Insassen von vermisstem Flugzeug eingestellt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/05/suche-nach-insassen-von-vermisstem-flugzeug-eingestellt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/05/suche-nach-insassen-von-vermisstem-flugzeug-eingestellt",
+      "published": "Mon, 05 Oct 2026 01:50:22 -0000",
+      "published_display": "05.10.2026 · 01:50 Uhr"
+    },
     {
       "title": "Baustelle steht still: Baukosten steigen, Arbeit ruht: Das Landesuntersuchungsamt",
       "summary": "",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/05/augenzeuge-von-flugdrama-im-cockpit-war-niemand",
       "published": "Sun, 04 Oct 2026 23:48:54 -0000",
       "published_display": "04.10.2026 · 23:48 Uhr"
-    },
-    {
-      "title": "Katherina Reiche: Linke zieht gegen Ministerin Reiche vor Bundesverfassungsgericht",
-      "summary": "Die Bundeswirtschaftsministerin bezeichnete die Linke nach dem Wahlsieg in Berlin als Gefahr. Die Partei wirft Reiche vor, Teil einer »systematischen Kampagne« zu sein.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-10/klara-reiche-die-linke-klage-innenministerin-sachsen-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-10/katherina-reiche-die-linke-klage-innenministerin-sachsen",
-      "published": "Sun, 04 Oct 2026 23:01:45 -0000",
-      "published_display": "04.10.2026 · 23:01 Uhr"
-    },
-    {
-      "title": "Hochschulen: Wo Magdeburgs Uni-Rektor rote Linien sieht",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/wo-magdeburgs-uni-rektor-rote-linien-sieht-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/wo-magdeburgs-uni-rektor-rote-linien-sieht",
-      "published": "Sun, 04 Oct 2026 23:01:04 -0000",
-      "published_display": "04.10.2026 · 23:01 Uhr"
     }
   ]
 }
