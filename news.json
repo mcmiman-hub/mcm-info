@@ -1,7 +1,87 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-05T06:29:01.283300+00:00",
+  "updated": "2026-10-05T06:56:51.946240+00:00",
   "items": [
+    {
+      "title": "Wetter: Nebel am Morgen, später Sonne – Herbstwetter im Nordosten",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/05/nebel-am-morgen-spaeter-sonne-herbstwetter-im-nordosten-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/05/nebel-am-morgen-spaeter-sonne-herbstwetter-im-nordosten",
+      "published": "Mon, 05 Oct 2026 06:50:36 -0000",
+      "published_display": "05.10.2026 · 06:50 Uhr"
+    },
+    {
+      "title": "Kriminalität: Jugendgruppen kämpfen mit Messern und Reizgas - Verletzte",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/05/jugendgruppen-kaempfen-mit-messern-und-reizgas-verletzte-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/05/jugendgruppen-kaempfen-mit-messern-und-reizgas-verletzte",
+      "published": "Mon, 05 Oct 2026 06:49:41 -0000",
+      "published_display": "05.10.2026 · 06:49 Uhr"
+    },
+    {
+      "title": "Faserproduktion: Faserland",
+      "summary": "Die Natur liefert Rohstoffe für Gewebe aller Art, so ist es seit Urzeiten. Doch die Zukunft gehört wohl dem Polyester – eine Übersicht in Grafiken.",
+      "image": "https://img.zeit.de/2026/42/faserproduktion-polyester-baumwolle-recycling-naturfasern-bild/original__640x360",
+      "link": "https://www.zeit.de/2026/42/faserproduktion-polyester-baumwolle-recycling-naturfasern",
+      "published": "Mon, 05 Oct 2026 06:47:57 -0000",
+      "published_display": "05.10.2026 · 06:47 Uhr"
+    },
+    {
+      "title": "Ifo-Geschäftsklimaindex: Stimmung in der deutschen Autoindustrie weiter verschlechtert",
+      "summary": "Das Geschäftsklima der Autoindustrie hat sich im September verschlechtert. »Die Automobilindustrie steckt weiterhin in der Krise«, sagt eine Expertin des ifo-Instituts.",
+      "image": "https://img.zeit.de/wirtschaft/2026-10/ifo-geschaeftsklima-autoindustrie-krise-auftragslage-exporte-foto-1/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/2026-10/ifo-geschaeftsklima-autoindustrie-krise-auftragslage-exporte",
+      "published": "Mon, 05 Oct 2026 06:46:59 -0000",
+      "published_display": "05.10.2026 · 06:46 Uhr"
+    },
+    {
+      "title": "Vorhersage: Mildes Herbstwetter in NRW – ab Mittwoch mehr Regen und Wind",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/05/mildes-herbstwetter-in-nrw-ab-mittwoch-mehr-regen-und-wind-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/05/mildes-herbstwetter-in-nrw-ab-mittwoch-mehr-regen-und-wind",
+      "published": "Mon, 05 Oct 2026 06:46:04 -0000",
+      "published_display": "05.10.2026 · 06:46 Uhr"
+    },
+    {
+      "title": "Todesstrafe: US-Amerikanerin nach gescheiterter Hinrichtung weiterhin bewusstlos",
+      "summary": "Christa Pike sollte in Tennessee hingerichtet werden, überlebte aber die Giftspritze. Ob sie wieder zu Bewusstsein kommt, ist offenbar noch unklar.",
+      "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-10/christa-pike-hinrichtung-tennessee-pentobarbital-todesstrafe-foto-1/original__640x360",
+      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-10/christa-pike-hinrichtung-tennessee-pentobarbital-todesstrafe",
+      "published": "Mon, 05 Oct 2026 06:45:19 -0000",
+      "published_display": "05.10.2026 · 06:45 Uhr"
+    },
+    {
+      "title": "Erzgebirgskreis: Einfamilienhaus in Tannenberg brennt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/05/einfamilienhaus-in-tannenberg-brennt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/05/einfamilienhaus-in-tannenberg-brennt",
+      "published": "Mon, 05 Oct 2026 06:40:06 -0000",
+      "published_display": "05.10.2026 · 06:40 Uhr"
+    },
+    {
+      "title": "Brände: Rund 1.000 Strohballen brennen in Mansfeld-Südharz",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/05/rund-1-000-strohballen-brennen-in-mansfeld-suedharz-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/05/rund-1-000-strohballen-brennen-in-mansfeld-suedharz",
+      "published": "Mon, 05 Oct 2026 06:33:47 -0000",
+      "published_display": "05.10.2026 · 06:33 Uhr"
+    },
+    {
+      "title": "Geld sparen: Ich habe ein Jahr alle Supermarkt-Apps getestet. Das müssen Sie wissen",
+      "summary": "Für wen lohnen sich die digitalen Angebote von Lidl, Rewe, dm und Co.? Wann ist wirklich was zu gewinnen? Und wie sieht meine Jahressparbilanz aus? Hier entlang, bitte.",
+      "image": "https://img.zeit.de/geld/2026-09/geld-sparen-shopping-apps-einkaufen-bild/original__640x360",
+      "link": "https://www.zeit.de/geld/2026-09/geld-sparen-shopping-apps-einkaufen",
+      "published": "Mon, 05 Oct 2026 06:29:43 -0000",
+      "published_display": "05.10.2026 · 06:29 Uhr"
+    },
+    {
+      "title": "Vorhersage: Erst Sonne, dann Regen: Wetterumschwung steht bevor",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/05/erst-sonne-dann-regen-wetterumschwung-steht-bevor-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/05/erst-sonne-dann-regen-wetterumschwung-steht-bevor",
+      "published": "Mon, 05 Oct 2026 06:27:11 -0000",
+      "published_display": "05.10.2026 · 06:27 Uhr"
+    },
     {
       "title": "Wetter: Wechselhaftes Wetter zum Wochenstart im Norden",
       "summary": "",
@@ -17,14 +97,6 @@
       "link": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
       "published": "Mon, 05 Oct 2026 06:20:32 -0000",
       "published_display": "05.10.2026 · 06:20 Uhr"
-    },
-    {
-      "title": "Ifo-Geschäftsklimaindex: Stimmung in der deutschen Autoindustrie weiter verschlechtert",
-      "summary": "Das Geschäftsklima der Autoindustrie hat sich im September verschlechtert. »Die Automobilindustrie steckt weiterhin in der Krise«, sagt eine Expertin des ifo-Instituts.",
-      "image": "https://img.zeit.de/wirtschaft/2026-10/ifo-geschaeftsklima-autoindustrie-krise-auftragslage-exporte-foto-1/original__640x360",
-      "link": "https://www.zeit.de/wirtschaft/2026-10/ifo-geschaeftsklima-autoindustrie-krise-auftragslage-exporte",
-      "published": "Mon, 05 Oct 2026 06:18:39 -0000",
-      "published_display": "05.10.2026 · 06:18 Uhr"
     },
     {
       "title": "Vorhersage: Regen und Wind ab Mittwoch – Wetterumschwung in Sicht",
@@ -49,78 +121,6 @@
       "link": "https://www.zeit.de/politik/ausland/2026-10/brasilien-wahl-praesidentschaft-flavio-bolsonaro-luiz-inacio-lula-da-silva",
       "published": "Mon, 05 Oct 2026 06:01:17 -0000",
       "published_display": "05.10.2026 · 06:01 Uhr"
-    },
-    {
-      "title": "Auseinandersetzung: Streit nach Fußballspiel: Sechs junge Männer verletzt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/streit-nach-fussballspiel-sechs-junge-maenner-verletzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/streit-nach-fussballspiel-sechs-junge-maenner-verletzt",
-      "published": "Mon, 05 Oct 2026 05:54:59 -0000",
-      "published_display": "05.10.2026 · 05:54 Uhr"
-    },
-    {
-      "title": "Strafanzeigen erstellt: Auseinandersetzung mit 100 Beteiligten in Wuppertal",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/auseinandersetzung-mit-100-beteiligten-in-wuppertal-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/auseinandersetzung-mit-100-beteiligten-in-wuppertal",
-      "published": "Mon, 05 Oct 2026 05:52:48 -0000",
-      "published_display": "05.10.2026 · 05:52 Uhr"
-    },
-    {
-      "title": "Wetter: Tagsüber scheint die Sonne, nachts fallen die Temperaturen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/tagsueber-scheint-die-sonne-nachts-fallen-die-temperaturen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/tagsueber-scheint-die-sonne-nachts-fallen-die-temperaturen",
-      "published": "Mon, 05 Oct 2026 05:52:14 -0000",
-      "published_display": "05.10.2026 · 05:52 Uhr"
-    },
-    {
-      "title": "Handball: 100 Tage vor Heim-WM: Ticket-Boom und Medaillenträume",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/100-tage-vor-heim-wm-ticket-boom-und-medaillentraeume-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/100-tage-vor-heim-wm-ticket-boom-und-medaillentraeume",
-      "published": "Mon, 05 Oct 2026 05:51:05 -0000",
-      "published_display": "05.10.2026 · 05:51 Uhr"
-    },
-    {
-      "title": "Vigdis Hjorth: Reichtum verdirbt die Moral und die Ehe, aber man kann sich davon ein Haus kaufen",
-      "summary": "In ihren Romanen tun sich die alltäglichen Abgründe ihrer norwegischen Heimat auf. Nun hat sich Vigdis Hjorth endlich auch die Geschichte mit dem Alkohol vorgenommen.",
-      "image": "https://img.zeit.de/2026/43/reichtum-verdirbt-die-moral-und-die-ehe-aber-man-kann-sich-davon-ein-haus-kaufen-bild-1/original__640x360",
-      "link": "https://www.zeit.de/2026/43/vigdis-hjorth-der-gute-mensch-von-sandvika-roman-norwegen",
-      "published": "Mon, 05 Oct 2026 05:46:25 -0000",
-      "published_display": "05.10.2026 · 05:46 Uhr"
-    },
-    {
-      "title": "Peter Mendelsund: »Nennt mich den Thomas Müller des Buchdesigns«",
-      "summary": "Peter Mendelsund gilt als einer der besten Coverdesigner seiner Generation – und das als gelernter Pianist, ganz ohne Designausbildung. Wie hat er das geschafft?",
-      "image": "https://img.zeit.de/zeit-magazin/2026/43/mendelsund-duo/original__640x360",
-      "link": "https://www.zeit.de/zeit-magazin/2026/43/peter-mendelsund-cover-buchdesign-literatur",
-      "published": "Mon, 05 Oct 2026 05:46:22 -0000",
-      "published_display": "05.10.2026 · 05:46 Uhr"
-    },
-    {
-      "title": "»Unsere Väter«: »Komm schon, Baba!«",
-      "summary": "Wie spricht man mit dem eigenen Vater über die AfD, wenn Deutschland für ihn das Exil ist? Ein Gipfeltreffen mit den vier Autorinnen des Buches »Unsere Väter«",
-      "image": "https://img.zeit.de/2026/43/komm-schon-baba-bild-1/original__640x360",
-      "link": "https://www.zeit.de/2026/43/unsere-vaeter-buch-natalie-amiri-minu-barati-shila-behjat-duezen-tekkal",
-      "published": "Mon, 05 Oct 2026 05:46:19 -0000",
-      "published_display": "05.10.2026 · 05:46 Uhr"
-    },
-    {
-      "title": "»Das tickende Herz«: Er schreibt wie in Trance",
-      "summary": "In seinem großen Roman »Das tickende Herz« schickt Lutz Seiler die aus den Vorgängerbüchern bekannten Künstlerfiguren wieder ins Rennen.",
-      "image": "https://img.zeit.de/2026/43/er-schreibt-wie-in-trance-bild-3/original__640x360",
-      "link": "https://www.zeit.de/2026/43/das-tickende-herz-lutz-seiler-roman",
-      "published": "Mon, 05 Oct 2026 05:46:18 -0000",
-      "published_display": "05.10.2026 · 05:46 Uhr"
-    },
-    {
-      "title": "»Schleifen«: Fast so lustig wie Käpt’n Blaubär",
-      "summary": "Grandios überdreht: Elias Hirschl erzählt von Franziska Denk, einer Frau, die viel zu viel denkt.",
-      "image": "https://img.zeit.de/2026/43/schleifen-elias-hirschl-roman-sprache-germanistik-bild/original__640x360",
-      "link": "https://www.zeit.de/2026/43/schleifen-elias-hirschl-roman-sprache-germanistik",
-      "published": "Mon, 05 Oct 2026 05:46:17 -0000",
-      "published_display": "05.10.2026 · 05:46 Uhr"
     }
   ]
 }
