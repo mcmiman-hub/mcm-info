@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-05T21:49:35.690031+00:00",
+  "updated": "2026-10-05T22:00:14.948914+00:00",
   "items": [
+    {
+      "title": "Kalenderblatt: Was geschah am 6. Oktober?",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/05/was-geschah-am-6-oktober-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/05/was-geschah-am-6-oktober",
+      "published": "Mon, 05 Oct 2026 21:55:04 -0000",
+      "published_display": "05.10.2026 · 21:55 Uhr"
+    },
     {
       "title": "Unfälle: Tödlicher Frontalzusammenstoß in Mittelhessen",
       "summary": "",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/05/80-jahre-nrw-landtag-lichtkunst-mit-zitaten",
       "published": "Mon, 05 Oct 2026 18:33:24 -0000",
       "published_display": "05.10.2026 · 18:33 Uhr"
-    },
-    {
-      "title": "Polizeieinsatz: Bombendrohung am Flughafen behindert Tausende Reisende",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/flugbetrieb-an-stuttgarter-flughafen-kurzzeitig-ausgesetzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/flugbetrieb-an-stuttgarter-flughafen-kurzzeitig-ausgesetzt",
-      "published": "Mon, 05 Oct 2026 18:13:53 -0000",
-      "published_display": "05.10.2026 · 18:13 Uhr"
     }
   ]
 }
