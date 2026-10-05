@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-04T23:55:55.381042+00:00",
+  "updated": "2026-10-05T00:28:43.378272+00:00",
   "items": [
+    {
+      "title": "Medienbericht: AfD weicht offenbar von Forderung nach EU- und Euro-Austritt ab",
+      "summary": "Die AfD will nun offenbar doch nicht mehr aus dem Euro austreten. Stattdessen fordert sie in einem Strategiepapier Reformen und eine Neuordnung der EU.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-10/afd-europe-eu-euro-abweichung-position-strategie-papier-plaene-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-10/afd-europe-eu-euro-abweichung-position-strategie-papier-plaene",
+      "published": "Mon, 05 Oct 2026 00:27:24 -0000",
+      "published_display": "05.10.2026 · 00:27 Uhr"
+    },
+    {
+      "title": "Präsidentschaftswahl in Brasilien: Flávio Bolsonaro und Lula da Silva ziehen in die Stichwahl",
+      "summary": "Nach Auszählung fast aller Stimmen kommt der ultrarechte Flávio Bolsonaro auf knapp 47,4 Prozent der Stimmen. Auf Amtsinhaber Lula entfallen demnach rund 44,6 Prozent.",
+      "image": "https://img.zeit.de/politik/ausland/2026-10/brasilien-praesidentschaftswahl-flavio-bolsonaro-lula-stichwahl-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/brasilien-wahlen-flavio-bolsonaro-luiz-inacio-lula-da-silva",
+      "published": "Mon, 05 Oct 2026 00:25:20 -0000",
+      "published_display": "05.10.2026 · 00:25 Uhr"
+    },
+    {
+      "title": "Präsidentenwahl: Stichwahl in Brasilien: Lula gegen Bolsonaro-Sohn Flávio",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/05/stichwahl-in-brasilien-lula-gegen-bolsonaro-sohn-fl-vio-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/05/stichwahl-in-brasilien-lula-gegen-bolsonaro-sohn-fl-vio",
+      "published": "Mon, 05 Oct 2026 00:13:13 -0000",
+      "published_display": "05.10.2026 · 00:13 Uhr"
+    },
     {
       "title": "Verkehr: 17-jähriger Rollerfahrer stirbt bei Unfall mit Linienbus",
       "summary": "",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/sport/2026-10/nations-league-deutschland-griechenland-viertes-spiel",
       "published": "Sun, 04 Oct 2026 21:29:51 -0000",
       "published_display": "04.10.2026 · 21:29 Uhr"
-    },
-    {
-      "title": "Potsdamer Platz: Mensch stürzt in Aufzugschacht - Lebensgefahr",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/04/mensch-stuerzt-in-aufzugschacht-lebensgefahr-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/04/mensch-stuerzt-in-aufzugschacht-lebensgefahr",
-      "published": "Sun, 04 Oct 2026 21:26:03 -0000",
-      "published_display": "04.10.2026 · 21:26 Uhr"
-    },
-    {
-      "title": "Fußball-Nationalmannschaft: DFB-Team knackt das Griechen-Bollwerk wieder nicht",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/04/dfb-team-knackt-das-griechen-bollwerk-wieder-nicht-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/04/dfb-team-knackt-das-griechen-bollwerk-wieder-nicht",
-      "published": "Sun, 04 Oct 2026 21:23:31 -0000",
-      "published_display": "04.10.2026 · 21:23 Uhr"
-    },
-    {
-      "title": "Lateinamerika: Wahllokale in Brasilien geschlossen – Auszählung begonnen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/04/wahllokale-geoeffnet-brasilien-waehlt-praesidenten-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/04/wahllokale-geoeffnet-brasilien-waehlt-praesidenten",
-      "published": "Sun, 04 Oct 2026 20:52:35 -0000",
-      "published_display": "04.10.2026 · 20:52 Uhr"
     }
   ]
 }
