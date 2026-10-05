@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-05T00:54:15.648453+00:00",
+  "updated": "2026-10-05T01:18:34.762357+00:00",
   "items": [
+    {
+      "title": "Präsidentschaftswahl in Brasilien: Flávio Bolsonaro und Lula da Silva ziehen in die Stichwahl",
+      "summary": "Nach Auszählung fast aller Stimmen kommt der ultrarechte Flávio Bolsonaro auf knapp 47,4 Prozent der Stimmen. Auf Amtsinhaber Lula entfallen demnach rund 44,6 Prozent.",
+      "image": "https://img.zeit.de/politik/ausland/2026-10/brasilien-praesidentschaftswahl-flavio-bolsonaro-lula-stichwahl-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/brasilien-wahlen-flavio-bolsonaro-luiz-inacio-lula-da-silva",
+      "published": "Mon, 05 Oct 2026 01:14:55 -0000",
+      "published_display": "05.10.2026 · 01:14 Uhr"
+    },
+    {
+      "title": "Erzgebirgskreis: Einfamilienhaus in Tannenberg brennt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/05/einfamilienhaus-in-tannenberg-brennt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/05/einfamilienhaus-in-tannenberg-brennt",
+      "published": "Mon, 05 Oct 2026 01:00:40 -0000",
+      "published_display": "05.10.2026 · 01:00 Uhr"
+    },
+    {
+      "title": "Unglück mit zwei Toten: Offene Fragen nach Absturz von Kleinflugzeug im Weinberg",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/05/offene-fragen-nach-absturz-von-kleinflugzeug-im-weinberg-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/05/offene-fragen-nach-absturz-von-kleinflugzeug-im-weinberg",
+      "published": "Mon, 05 Oct 2026 01:00:10 -0000",
+      "published_display": "05.10.2026 · 01:00 Uhr"
+    },
     {
       "title": "Medienbericht: AfD weicht offenbar von Forderung nach EU- und Euro-Austritt ab",
       "summary": "Die AfD will nun offenbar doch nicht mehr aus dem Euro austreten. Stattdessen fordert sie in einem Strategiepapier Reformen und eine Neuordnung der EU.",
@@ -9,14 +33,6 @@
       "link": "https://www.zeit.de/politik/deutschland/2026-10/afd-europe-eu-euro-abweichung-position-strategie-papier-plaene",
       "published": "Mon, 05 Oct 2026 00:27:24 -0000",
       "published_display": "05.10.2026 · 00:27 Uhr"
-    },
-    {
-      "title": "Präsidentschaftswahl in Brasilien: Flávio Bolsonaro und Lula da Silva ziehen in die Stichwahl",
-      "summary": "Nach Auszählung fast aller Stimmen kommt der ultrarechte Flávio Bolsonaro auf knapp 47,4 Prozent der Stimmen. Auf Amtsinhaber Lula entfallen demnach rund 44,6 Prozent.",
-      "image": "https://img.zeit.de/politik/ausland/2026-10/brasilien-praesidentschaftswahl-flavio-bolsonaro-lula-stichwahl-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/brasilien-wahlen-flavio-bolsonaro-luiz-inacio-lula-da-silva",
-      "published": "Mon, 05 Oct 2026 00:25:20 -0000",
-      "published_display": "05.10.2026 · 00:25 Uhr"
     },
     {
       "title": "Präsidentenwahl: Stichwahl in Brasilien: Lula gegen Bolsonaro-Sohn Flávio",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/04/was-geschah-am-5-oktober",
       "published": "Sun, 04 Oct 2026 21:55:04 -0000",
       "published_display": "04.10.2026 · 21:55 Uhr"
-    },
-    {
-      "title": "Fußball-Nationalmannschaft: «Klopp-Ära kommt nicht in Gang»: Pressestimmen zum DFB-Team",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/04/klopp-aera-kommt-nicht-in-gang-pressestimmen-zum-dfb-team-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/04/klopp-aera-kommt-nicht-in-gang-pressestimmen-zum-dfb-team",
-      "published": "Sun, 04 Oct 2026 21:50:22 -0000",
-      "published_display": "04.10.2026 · 21:50 Uhr"
-    },
-    {
-      "title": "Nations League, 4. Spieltag: Deutschland spielt unentschieden gegen Griechenland",
-      "summary": "Die Revanche nach der Niederlage vor einer Woche bleibt aus. Griechenland und Deutschland trennen sich mit einem Remis.",
-      "image": "https://img.zeit.de/sport/2026-10/nations-league-uefa-fussball-2026-deutschland-griechenland-bild/original__640x360",
-      "link": "https://www.zeit.de/sport/2026-10/nations-league-deutschland-griechenland-viertes-spiel",
-      "published": "Sun, 04 Oct 2026 21:29:51 -0000",
-      "published_display": "04.10.2026 · 21:29 Uhr"
     }
   ]
 }
