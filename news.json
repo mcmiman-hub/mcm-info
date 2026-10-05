@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-05T22:57:08.054218+00:00",
+  "updated": "2026-10-05T23:16:18.909615+00:00",
   "items": [
+    {
+      "title": "Neuwahlen angekündigt: Zehntausende protestieren in Barcelona gegen Wohnungsnot",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/06/zehntausende-protestieren-in-barcelona-gegen-wohnungsnot-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/06/zehntausende-protestieren-in-barcelona-gegen-wohnungsnot",
+      "published": "Mon, 05 Oct 2026 23:12:00 -0000",
+      "published_display": "05.10.2026 · 23:12 Uhr"
+    },
+    {
+      "title": "Landesweiter Protesttag: Frankreich erwartet neuen Höhepunkt der Schülerproteste",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/06/frankreich-erwartet-neuen-hoehepunkt-der-schuelerproteste-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/06/frankreich-erwartet-neuen-hoehepunkt-der-schuelerproteste",
+      "published": "Mon, 05 Oct 2026 23:00:04 -0000",
+      "published_display": "05.10.2026 · 23:00 Uhr"
+    },
     {
       "title": "Rumänien: Rumäniens Präsident schlägt vierten Kandidaten als Regierungschef vor",
       "summary": "Der rumänische Präsident Nicusor Dan will Neuwahlen verhindern. Nach dem Sturz der Regierung stellt er nun den vierten Kandidaten für das Amt des Ministerpräsidenten vor.",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/feuilleton/literatur/2026-10/deutscher-buchpreis-literatur-shida-bazyar-die-luecken",
       "published": "Mon, 05 Oct 2026 18:56:40 -0000",
       "published_display": "05.10.2026 · 18:56 Uhr"
-    },
-    {
-      "title": "Johann Wadephul: Wadephul erwartet wachsende territoriale Besitzansprüche Russlands",
-      "summary": "Außenminister Johann Wadephul warnt vor möglichen Angriffen Russlands über die Ukraine hinaus. Konkret gefährdet sieht er Georgien, Moldau und das Baltikum.",
-      "image": "https://img.zeit.de/politik/ausland/2026-10/johann-wadephul-cdu-russland-territoriale-ansprueche-georgien-moldau-baltikum-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/johann-wadephul-cdu-russland-territoriale-ansprueche-georgien-moldau-baltikum",
-      "published": "Mon, 05 Oct 2026 18:52:14 -0000",
-      "published_display": "05.10.2026 · 18:52 Uhr"
-    },
-    {
-      "title": "Nobelpreis für Medizin: Glückwünsche für Berliner Nobelpreisträger",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/wissenschaftssenatorin-gratuliert-berliner-nobelpreistraeger-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/wissenschaftssenatorin-gratuliert-berliner-nobelpreistraeger",
-      "published": "Mon, 05 Oct 2026 18:41:01 -0000",
-      "published_display": "05.10.2026 · 18:41 Uhr"
     }
   ]
 }
