@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-05T17:49:04.844038+00:00",
+  "updated": "2026-10-05T18:01:02.604984+00:00",
   "items": [
+    {
+      "title": "Ermittlungen in Zeven: Nach drei Bränden: Polizei richtet Hinweisportal ein",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/05/nach-drei-braenden-polizei-richtet-hinweisportal-ein-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/05/nach-drei-braenden-polizei-richtet-hinweisportal-ein",
+      "published": "Mon, 05 Oct 2026 17:56:12 -0000",
+      "published_display": "05.10.2026 · 17:56 Uhr"
+    },
     {
       "title": "Schulproteste in Frankreich: Sorge vor weiterer Gewalteskalation bei Schülerprotesten in Frankreich",
       "summary": "In Frankreich haben erneut Tausende Schüler für bessere Lernbedingungen protestiert. In Lens wurde ein Jugendlicher durch eine Polizeigranate schwer verletzt.",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/05/mann-stirbt-nach-wohnungsbrand-in-berlin",
       "published": "Mon, 05 Oct 2026 17:01:52 -0000",
       "published_display": "05.10.2026 · 17:01 Uhr"
-    },
-    {
-      "title": "EU-Finanzrahmen: Merz: Kein EU-Haushalt wäre am günstigsten für Deutschland",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/merz-kein-eu-haushalt-waere-am-guenstigsten-fuer-deutschland-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/merz-kein-eu-haushalt-waere-am-guenstigsten-fuer-deutschland",
-      "published": "Mon, 05 Oct 2026 16:56:30 -0000",
-      "published_display": "05.10.2026 · 16:56 Uhr"
     }
   ]
 }
