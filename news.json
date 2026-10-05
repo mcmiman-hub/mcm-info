@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-05T01:34:14.582570+00:00",
+  "updated": "2026-10-05T01:48:06.807806+00:00",
   "items": [
+    {
+      "title": "Baustelle steht still: Baukosten steigen, Arbeit ruht: Das Landesuntersuchungsamt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/05/baukosten-steigen-arbeit-ruht-das-landesuntersuchungsamt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/05/baukosten-steigen-arbeit-ruht-das-landesuntersuchungsamt",
+      "published": "Mon, 05 Oct 2026 01:35:05 -0000",
+      "published_display": "05.10.2026 · 01:35 Uhr"
+    },
     {
       "title": "Ministerbesuch in Emden: Pistorius will über Pläne für neuen Marinehafen sprechen",
       "summary": "",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/05/wo-magdeburgs-uni-rektor-rote-linien-sieht",
       "published": "Sun, 04 Oct 2026 23:01:04 -0000",
       "published_display": "04.10.2026 · 23:01 Uhr"
-    },
-    {
-      "title": "Zustand der Koalition: Merz: «Wir müssen in der Regierung zusammenbleiben»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/merz-wir-muessen-in-der-regierung-zusammenbleiben-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/merz-wir-muessen-in-der-regierung-zusammenbleiben",
-      "published": "Sun, 04 Oct 2026 22:25:04 -0000",
-      "published_display": "04.10.2026 · 22:25 Uhr"
     }
   ]
 }
