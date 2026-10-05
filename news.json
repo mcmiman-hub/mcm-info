@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-05T21:35:01.481493+00:00",
+  "updated": "2026-10-05T21:49:35.690031+00:00",
   "items": [
+    {
+      "title": "Unfälle: Tödlicher Frontalzusammenstoß in Mittelhessen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/05/toedlicher-frontalzusammenstoss-in-mittelhessen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/05/toedlicher-frontalzusammenstoss-in-mittelhessen",
+      "published": "Mon, 05 Oct 2026 21:42:09 -0000",
+      "published_display": "05.10.2026 · 21:42 Uhr"
+    },
     {
       "title": "Infektionskrankheit: Behörde: Laborantin in Sibirien starb nicht an Pest",
       "summary": "",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/05/flugbetrieb-an-stuttgarter-flughafen-kurzzeitig-ausgesetzt",
       "published": "Mon, 05 Oct 2026 18:13:53 -0000",
       "published_display": "05.10.2026 · 18:13 Uhr"
-    },
-    {
-      "title": "Fehlende Genehmigungen: Aus für Mainzer Oktoberfest nach Gerichtsentscheidung",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/aus-fuer-mainzer-oktoberfest-nach-gerichtsentscheidung-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/aus-fuer-mainzer-oktoberfest-nach-gerichtsentscheidung",
-      "published": "Mon, 05 Oct 2026 18:10:43 -0000",
-      "published_display": "05.10.2026 · 18:10 Uhr"
     }
   ]
 }
