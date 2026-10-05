@@ -1,7 +1,111 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-05T10:02:43.287952+00:00",
+  "updated": "2026-10-05T10:22:12.104960+00:00",
   "items": [
+    {
+      "title": "Pilotprojekt: Fast tausend Übergriffe – Bahn setzt auf Bodycams mit Ton",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/05/fast-tausend-uebergriffe-bahn-setzt-auf-bodycams-mit-ton-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/05/fast-tausend-uebergriffe-bahn-setzt-auf-bodycams-mit-ton",
+      "published": "Mon, 05 Oct 2026 10:20:34 -0000",
+      "published_display": "05.10.2026 · 10:20 Uhr"
+    },
+    {
+      "title": "Tiere: Rumänien verdoppelt Abschussquote für Bären trotz Kritik",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/05/rumaenien-verdoppelt-abschussquote-fuer-baeren-trotz-kritik-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/05/rumaenien-verdoppelt-abschussquote-fuer-baeren-trotz-kritik",
+      "published": "Mon, 05 Oct 2026 10:18:59 -0000",
+      "published_display": "05.10.2026 · 10:18 Uhr"
+    },
+    {
+      "title": "Bedeutende Mediziner-Ehrung: Medizin-Nobelpreis an zwei Deutsche und einen US-Forscher",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/05/nobelpreis-countdown-jetzt-kommen-die-entscheidungen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/05/nobelpreis-countdown-jetzt-kommen-die-entscheidungen",
+      "published": "Mon, 05 Oct 2026 10:18:30 -0000",
+      "published_display": "05.10.2026 · 10:18 Uhr"
+    },
+    {
+      "title": "Nobelpreis 2026: Medizin-Nobelpreis für zwei deutsche Optogenetiker",
+      "summary": "Peter Hegemann, Georg Nagel und der US-Wissenschaftler Karl Deisseroth zeigten, wie Zel​len per Licht an- und ausgeschaltet werden. Das revolutionierte die Hirnforschung.",
+      "image": "https://img.zeit.de/wissenschaft/2026-10/nobel-prize-announcements-2026-bild/original__640x360",
+      "link": "https://www.zeit.de/gesundheit/2026-10/medizin-nobelpreis-fuer-zwei-deutsche-optogenetiker",
+      "published": "Mon, 05 Oct 2026 10:17:49 -0000",
+      "published_display": "05.10.2026 · 10:17 Uhr"
+    },
+    {
+      "title": "Auf Wirtschaftsweg unterwegs: Unfall bei Dollbergen: Zwei Frauen schwer verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/05/unfall-bei-dollbergen-zwei-frauen-schwer-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/05/unfall-bei-dollbergen-zwei-frauen-schwer-verletzt",
+      "published": "Mon, 05 Oct 2026 10:17:42 -0000",
+      "published_display": "05.10.2026 · 10:17 Uhr"
+    },
+    {
+      "title": "Bundeswehr: Pistorius: Neuer Marinehafen soll in Emden gebaut werden",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/05/pistorius-neuer-marinehafen-soll-in-emden-gebaut-werden-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/05/pistorius-neuer-marinehafen-soll-in-emden-gebaut-werden",
+      "published": "Mon, 05 Oct 2026 10:12:42 -0000",
+      "published_display": "05.10.2026 · 10:12 Uhr"
+    },
+    {
+      "title": "2. Fußball-Bundesliga: Ex-Innenminister soll Präsident von Holstein Kiel werden",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/05/ex-innenminister-soll-praesident-von-holstein-kiel-werden-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/05/ex-innenminister-soll-praesident-von-holstein-kiel-werden",
+      "published": "Mon, 05 Oct 2026 10:11:20 -0000",
+      "published_display": "05.10.2026 · 10:11 Uhr"
+    },
+    {
+      "title": "Elektroauto-Neuzulassungen: Mehr als jeder dritte Neuwagen ist ein E-Auto",
+      "summary": "Die hohe Nachfrage nach E-Autos in Deutschland hält an. Im Vorjahresvergleich gab es im September 95 Prozent mehr Neuzulassungen. Nur Hybride waren noch beliebter.",
+      "image": "https://img.zeit.de/wirtschaft/2026-10/elektroautos-neuzulassungen-deutschland-kba-e-auto-praemie-foto-1/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/2026-10/elektroautos-neuzulassungen-deutschland-kba-e-auto-praemie",
+      "published": "Mon, 05 Oct 2026 10:10:59 -0000",
+      "published_display": "05.10.2026 · 10:10 Uhr"
+    },
+    {
+      "title": "Streit über Werbung: Apothekerkammer lässt Geld bei DocMorris pfänden",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/05/apothekerkammer-laesst-geld-bei-docmorris-pfaenden-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/05/apothekerkammer-laesst-geld-bei-docmorris-pfaenden",
+      "published": "Mon, 05 Oct 2026 10:08:33 -0000",
+      "published_display": "05.10.2026 · 10:08 Uhr"
+    },
+    {
+      "title": "»Coesfelder Listen«: Nur wenige Kommunen in NRW nehmen Hilfe bei Abschiebungen an",
+      "summary": "Die sogenannten »Coesfelder Listen« betreffen nicht nur die Stadt Köln: Zahlreiche Kommunen in NRW haben Hilfsangebote des Landes für Abschiebungen ignoriert.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-10/zentrale-auslaenderbehoerde-coesfeld-abschiebungen-nrw-westbalkan-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-10/zentrale-auslaenderbehoerde-coesfeld-abschiebungen-nrw-westbalkan",
+      "published": "Mon, 05 Oct 2026 10:08:32 -0000",
+      "published_display": "05.10.2026 · 10:08 Uhr"
+    },
+    {
+      "title": "Unglück mit zwei Toten: Herkunft des abgestürzten Kleinflugzeugs geklärt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/05/offene-fragen-nach-absturz-von-kleinflugzeug-im-weinberg-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/05/offene-fragen-nach-absturz-von-kleinflugzeug-im-weinberg",
+      "published": "Mon, 05 Oct 2026 10:07:03 -0000",
+      "published_display": "05.10.2026 · 10:07 Uhr"
+    },
+    {
+      "title": "Anhörung im Bundestag: BND-Chef sieht Deutschland im «Schattenkrieg» mit Russland",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/05/bnd-chef-sieht-deutschland-im-schattenkrieg-mit-russland-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/05/bnd-chef-sieht-deutschland-im-schattenkrieg-mit-russland",
+      "published": "Mon, 05 Oct 2026 10:05:09 -0000",
+      "published_display": "05.10.2026 · 10:05 Uhr"
+    },
+    {
+      "title": "Brände: Nach Dreifachmord ermittelt Kripo wieder an dem Tatort",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/05/nach-dreifachmord-ermittelt-kripo-wieder-an-dem-tatort-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/05/nach-dreifachmord-ermittelt-kripo-wieder-an-dem-tatort",
+      "published": "Mon, 05 Oct 2026 10:03:25 -0000",
+      "published_display": "05.10.2026 · 10:03 Uhr"
+    },
     {
       "title": "Städtepartnerschaften: BSW-Politiker Hornauf plant mit Delegation Belarus-Reise",
       "summary": "",
@@ -17,110 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/05/friedensbotschaft-von-imam-und-rabbiner-zum-7-oktober",
       "published": "Mon, 05 Oct 2026 10:00:39 -0000",
       "published_display": "05.10.2026 · 10:00 Uhr"
-    },
-    {
-      "title": "Nobelpreis 2026: Medizin-Nobelpreis für zwei deutsche Optogenetiker",
-      "summary": "Peter Hegemann, Georg Nagel und der US-Wissenschaftler Karl Deisseroth forschen, wie Zel​len per Licht an- und ausgeschaltet werden. Dafür erhalten sie den Nobelpreis.",
-      "image": "https://img.zeit.de/wissenschaft/2026-10/nobel-prize-announcements-2026-bild/original__640x360",
-      "link": "https://www.zeit.de/gesundheit/2026-10/medizin-nobelpreis-fuer-zwei-deutsche-optogenetiker",
-      "published": "Mon, 05 Oct 2026 09:57:25 -0000",
-      "published_display": "05.10.2026 · 09:57 Uhr"
-    },
-    {
-      "title": "Blockaden und Krawalle: Schülerproteste in Frankreich gehen in zweite Woche",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/schuelerproteste-in-frankreich-gehen-in-zweite-woche-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/schuelerproteste-in-frankreich-gehen-in-zweite-woche",
-      "published": "Mon, 05 Oct 2026 09:57:14 -0000",
-      "published_display": "05.10.2026 · 09:57 Uhr"
-    },
-    {
-      "title": "Verbraucherpreise: Lebensmittel und Energie: Thüringer zahlen deutlich mehr",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/lebensmittel-und-energie-thueringer-zahlen-deutlich-mehr-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/lebensmittel-und-energie-thueringer-zahlen-deutlich-mehr",
-      "published": "Mon, 05 Oct 2026 09:53:51 -0000",
-      "published_display": "05.10.2026 · 09:53 Uhr"
-    },
-    {
-      "title": "Bundesgerichtshof: Abschiebungshaft: Verhalten allein belegt keine Fluchtgefahr",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/abschiebungshaft-verhalten-allein-belegt-keine-fluchtgefahr-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/abschiebungshaft-verhalten-allein-belegt-keine-fluchtgefahr",
-      "published": "Mon, 05 Oct 2026 09:53:02 -0000",
-      "published_display": "05.10.2026 · 09:53 Uhr"
-    },
-    {
-      "title": "Technischer Defekt: Schwertransporter liegengeblieben - A6 wieder frei",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/schwertransport-legt-verkehr-auf-der-a6-lahm-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/schwertransport-legt-verkehr-auf-der-a6-lahm",
-      "published": "Mon, 05 Oct 2026 09:51:13 -0000",
-      "published_display": "05.10.2026 · 09:51 Uhr"
-    },
-    {
-      "title": "Koalition: SPD-Ministerien für härtere Gangart gegen China",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/spd-ministerien-fuer-haertere-gangart-gegen-china-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/spd-ministerien-fuer-haertere-gangart-gegen-china",
-      "published": "Mon, 05 Oct 2026 09:50:52 -0000",
-      "published_display": "05.10.2026 · 09:50 Uhr"
-    },
-    {
-      "title": "Literatur: Wolf Biermann wirft Netanjahu «Antisemitismus» vor",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/wolf-biermannn-wirft-netanjahu-antisemitismus-vor-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/wolf-biermannn-wirft-netanjahu-antisemitismus-vor",
-      "published": "Mon, 05 Oct 2026 09:49:02 -0000",
-      "published_display": "05.10.2026 · 09:49 Uhr"
-    },
-    {
-      "title": "Fußball-Nationalmannschaft: Klopp «super-happy»: Viele Erkenntnisse beim Ruckel-Start",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/klopp-ist-super-happy-und-kuendigt-kleineren-kader-an-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/klopp-ist-super-happy-und-kuendigt-kleineren-kader-an",
-      "published": "Mon, 05 Oct 2026 09:47:00 -0000",
-      "published_display": "05.10.2026 · 09:47 Uhr"
-    },
-    {
-      "title": "Bahnverkehr: Bald Bundestagsentscheid über Neubaustrecke Hannover-Hamburg",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/bald-bundestagsentscheid-ueber-neubaustrecke-hannover-hamburg-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/bald-bundestagsentscheid-ueber-neubaustrecke-hannover-hamburg",
-      "published": "Mon, 05 Oct 2026 09:45:22 -0000",
-      "published_display": "05.10.2026 · 09:45 Uhr"
-    },
-    {
-      "title": "Bedeutende Mediziner-Ehrung: Medizin-Nobelpreis an zwei Deutsche und einen US-Forscher",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/nobelpreis-countdown-jetzt-kommen-die-entscheidungen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/nobelpreis-countdown-jetzt-kommen-die-entscheidungen",
-      "published": "Mon, 05 Oct 2026 09:44:50 -0000",
-      "published_display": "05.10.2026 · 09:44 Uhr"
-    },
-    {
-      "title": "Peene-Werft: Rheinmetall-Chef: «Wolgast wird profitieren, ganz sicher»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/rheinmetall-chef-wolgast-wird-profitieren-ganz-sicher-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/rheinmetall-chef-wolgast-wird-profitieren-ganz-sicher",
-      "published": "Mon, 05 Oct 2026 09:44:33 -0000",
-      "published_display": "05.10.2026 · 09:44 Uhr"
-    },
-    {
-      "title": "Räuberische Erpressung: 19-Jähriger bedroht Kinder - Festnahme nach Handyortung",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/19-jaehriger-bedroht-kinder-festnahme-nach-handyortung-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/19-jaehriger-bedroht-kinder-festnahme-nach-handyortung",
-      "published": "Mon, 05 Oct 2026 09:44:12 -0000",
-      "published_display": "05.10.2026 · 09:44 Uhr"
-    },
-    {
-      "title": "Konjunktur: Ifo: Stimmung in der Autoindustrie sackt ab",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/ifo-stimmung-in-der-autoindustrie-sackt-ab-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/ifo-stimmung-in-der-autoindustrie-sackt-ab",
-      "published": "Mon, 05 Oct 2026 09:40:41 -0000",
-      "published_display": "05.10.2026 · 09:40 Uhr"
     }
   ]
 }
