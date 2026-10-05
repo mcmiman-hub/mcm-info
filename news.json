@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-05T22:00:14.948914+00:00",
+  "updated": "2026-10-05T22:18:23.550581+00:00",
   "items": [
+    {
+      "title": "Wehrdienst: Zahl der Kriegsdienstverweigerer steigt stark an",
+      "summary": "Bis August 2026 sind mehr als dreimal so viele Anträge auf Kriegsdienstverweigerung eingegangen wie 2025. Doch auch die Zahl der Bewerbungen und Einstellungen wächst.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-10/kriegsdienstverweigerung-antraege-bundeswehr-wehrdienst-reservisten-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-10/kriegsdienstverweigerung-antraege-bundeswehr-wehrdienst-reservisten",
+      "published": "Mon, 05 Oct 2026 22:01:23 -0000",
+      "published_display": "05.10.2026 · 22:01 Uhr"
+    },
     {
       "title": "Kalenderblatt: Was geschah am 6. Oktober?",
       "summary": "",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/politik/ausland/2026-10/bnd-chef-martin-jaeger-konflikt-russland",
       "published": "Mon, 05 Oct 2026 18:39:36 -0000",
       "published_display": "05.10.2026 · 18:39 Uhr"
-    },
-    {
-      "title": "Festwoche: 80 Jahre NRW-Landtag: Lichtkunst mit Zitaten",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/80-jahre-nrw-landtag-lichtkunst-mit-zitaten-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/80-jahre-nrw-landtag-lichtkunst-mit-zitaten",
-      "published": "Mon, 05 Oct 2026 18:33:24 -0000",
-      "published_display": "05.10.2026 · 18:33 Uhr"
     }
   ]
 }
