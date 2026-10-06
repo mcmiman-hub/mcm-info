@@ -1,21 +1,117 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-06T11:01:20.096611+00:00",
+  "updated": "2026-10-06T11:18:29.696864+00:00",
   "items": [
+    {
+      "title": "Buchmesse: US-Historikerin sieht Menschheit auf des Messers Schneide",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/06/us-historikerin-sieht-menschheit-auf-des-messers-schneide-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/06/us-historikerin-sieht-menschheit-auf-des-messers-schneide",
+      "published": "Tue, 06 Oct 2026 11:16:03 -0000",
+      "published_display": "06.10.2026 · 11:16 Uhr"
+    },
+    {
+      "title": "Nach Wahl in Sachsen-Anhalt: Grüne in Sachsen-Anhalt: Lassen uns nicht einschüchtern",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/06/gruene-in-sachsen-anhalt-lassen-uns-nicht-einschuechtern-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/06/gruene-in-sachsen-anhalt-lassen-uns-nicht-einschuechtern",
+      "published": "Tue, 06 Oct 2026 11:15:20 -0000",
+      "published_display": "06.10.2026 · 11:15 Uhr"
+    },
+    {
+      "title": "93 Straftaten angeklagt: Spieler geohrfeigt und belästigt? Fußballtrainer vor Gericht",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/06/spieler-geohrfeigt-und-belaestigt-fussballtrainer-vor-gericht-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/06/spieler-geohrfeigt-und-belaestigt-fussballtrainer-vor-gericht",
+      "published": "Tue, 06 Oct 2026 11:12:47 -0000",
+      "published_display": "06.10.2026 · 11:12 Uhr"
+    },
+    {
+      "title": "Parteien nach der Wahl: Offener Brief: Unterstützung für die Linke in Neukölln",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/06/offener-brief-unterstuetzung-fuer-die-linke-in-neukoelln-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/06/offener-brief-unterstuetzung-fuer-die-linke-in-neukoelln",
+      "published": "Tue, 06 Oct 2026 11:12:43 -0000",
+      "published_display": "06.10.2026 · 11:12 Uhr"
+    },
+    {
+      "title": "Sachsen-Anhalt: AfD-Politiker Tobias Rausch ist Landtagspräsident von Sachsen-Anhalt",
+      "summary": "Historische Wahl: Erstmals stellt die AfD einen Landtagspräsidenten. Tobias Rausch wurde mit 48 Stimmen gewählt – neun Stimmen mehr als die AfD-Fraktion Mandate hat.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-10/saxony-anhalt-state-parliament-convenes-following-afd-election-win-bild-4/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-10/afd-politiker-tobias-rausch-ist-landtagspraesident-von-sachsen-anhalt",
+      "published": "Tue, 06 Oct 2026 11:11:42 -0000",
+      "published_display": "06.10.2026 · 11:11 Uhr"
+    },
+    {
+      "title": "Germanwings-Absturz: Gericht weist Klage Hinterbliebener im Germanwings-Prozess ab",
+      "summary": "Den Angehörigen der Toten nach dem Absturz der Germanwings-Maschine steht kein zusätzliches Schmerzensgeld vom Staat zu. Ein Gericht sieht dafür keine Grundlage.",
+      "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-10/germanwings-absturz-schmerzensgeld-klage-landgericht-braunschweig-foto-1/original__640x360",
+      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-10/germanwings-absturz-schmerzensgeld-klage-landgericht-braunschweig-gxe",
+      "published": "Tue, 06 Oct 2026 11:11:32 -0000",
+      "published_display": "06.10.2026 · 11:11 Uhr"
+    },
+    {
+      "title": "ifo-Bildungsbarometer: Mehrheit der Deutschen befürwortet Ausbau frühkindlicher Bildung",
+      "summary": "Fast Dreiviertel der Menschen in Deutschland halten ein verpflichtendes Vorschuljahr für sinnvoll. Mit den Kitas sind die befragten Eltern mehrheitlich zufrieden.",
+      "image": "https://img.zeit.de/bildung/2026-10/ifo-bildungsbarometer-vorschule-verpflichtendes-jahr-sprachtests-foto-1/original__640x360",
+      "link": "https://www.zeit.de/bildung/2026-10/ifo-bildungsbarometer-vorschule-verpflichtendes-jahr-sprachtests",
+      "published": "Tue, 06 Oct 2026 11:10:46 -0000",
+      "published_display": "06.10.2026 · 11:10 Uhr"
+    },
+    {
+      "title": "Umstellung auf Open Source: 49 Prozent sehen Open Source in Landesverwaltung positiv",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/06/49-prozent-sehen-open-source-in-landesverwaltung-positiv-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/06/49-prozent-sehen-open-source-in-landesverwaltung-positiv",
+      "published": "Tue, 06 Oct 2026 11:10:39 -0000",
+      "published_display": "06.10.2026 · 11:10 Uhr"
+    },
+    {
+      "title": "Statistik: Junge Leute aus dem Saarland studieren häufig daheim",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/06/junge-leute-aus-dem-saarland-studieren-haeufig-daheim-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/06/junge-leute-aus-dem-saarland-studieren-haeufig-daheim",
+      "published": "Tue, 06 Oct 2026 11:10:33 -0000",
+      "published_display": "06.10.2026 · 11:10 Uhr"
+    },
+    {
+      "title": "Terrorangriff der Hamas: Mehr antisemitische Angriffe in Sachsen seit Hamas-Terror",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/06/mehr-antisemitische-angriffe-in-sachsen-seit-hamas-terror-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/06/mehr-antisemitische-angriffe-in-sachsen-seit-hamas-terror",
+      "published": "Tue, 06 Oct 2026 11:03:57 -0000",
+      "published_display": "06.10.2026 · 11:03 Uhr"
+    },
+    {
+      "title": "Internationales Olympisches Komitee: Sechs Länder konkurrieren mit Deutschland um Olympia-Austragung 2036",
+      "summary": "München möchte Gastgeber der Olympischen Sommerspiele 2036 werden. Doch es gibt auch weitere Bewerber: unter anderem die Türkei, Ungarn und Katar.",
+      "image": "https://img.zeit.de/sport/2026-10/olympische-sommerspiele-2036-olympia-bewerbung-muenchen-foto-1/original__640x360",
+      "link": "https://www.zeit.de/sport/2026-10/olympische-sommerspiele-2036-olympia-bewerbung-muenchen-gxe",
+      "published": "Tue, 06 Oct 2026 11:03:13 -0000",
+      "published_display": "06.10.2026 · 11:03 Uhr"
+    },
+    {
+      "title": "Landtag von Sachsen-Anhalt: AfD-Politiker Tobias Rausch wünscht sich klarere Worte im Parlament",
+      "summary": "Erstmals in der Geschichte der Bundesrepublik stellt die AfD einen Landtagspräsidenten. Er will auch Entscheidungen treffen, die nicht allen gefallen. Das Liveblog",
+      "image": "https://img.zeit.de/politik/deutschland/2026-10/konstituierende-landtagssitzung-in-sachsen-anhalt-bild-6/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-10/landtag-sachsen-anhalt-konstituierung-afd-bsw-live",
+      "published": "Tue, 06 Oct 2026 11:01:37 -0000",
+      "published_display": "06.10.2026 · 11:01 Uhr"
+    },
+    {
+      "title": "Auszeichnung: Vorbildlicher Kinderschutz: Preise für sechs Initiativen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/06/vorbildlicher-kinderschutz-preise-fuer-sechs-initiativen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/06/vorbildlicher-kinderschutz-preise-fuer-sechs-initiativen",
+      "published": "Tue, 06 Oct 2026 11:00:04 -0000",
+      "published_display": "06.10.2026 · 11:00 Uhr"
+    },
     {
       "title": "Astrophysik: Nobelpreis für Physik geht an Astrophysiker Francis Halzen",
       "summary": "Der Elementarteilchenphysiker Francis Halzen wird für Beiträge zum Neutrino-Observatorium geehrt. Dem US-Amerikaner gelang es, sogenannte Geisterteilchen nachzuweisen.",
       "image": "https://img.zeit.de/wissenschaft/2026-10/nobelpreis-fuer-physik-geht-an-astrophysiker-francis-halzen-bild/original__640x360",
-      "link": "https://www.zeit.de/wissenschaft/2026-10/nobelpreis-fuer-physik-geht-an-astrophysiker-francis-halzen",
+      "link": "https://www.zeit.de/wissenschaft/2026-10/nobelpreis-fuer-physik-geht-an-astrophysiker-francis-halzen-gxe",
       "published": "Tue, 06 Oct 2026 10:59:33 -0000",
-      "published_display": "06.10.2026 · 10:59 Uhr"
-    },
-    {
-      "title": "Landtag von Sachsen-Anhalt: AfD-Politiker Tobias Rausch wünscht sich klarere Worte im Parlament",
-      "summary": "Erstmals in der Geschichte der Bundesrepublik stellt die AfD einen Landtagspräsidenten. Er werde auch Entscheidungen treffen, die nicht allen gefallen. Das Liveblog",
-      "image": "https://img.zeit.de/politik/deutschland/2026-10/saxony-anhalt-state-parliament-convenes-following-afd-election-win-bild-2/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-10/landtag-sachsen-anhalt-konstituierung-afd-bsw-live",
-      "published": "Tue, 06 Oct 2026 10:59:15 -0000",
       "published_display": "06.10.2026 · 10:59 Uhr"
     },
     {
@@ -25,102 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/06/afd-politiker-mit-preussischer-allgemeinen-im-landtag",
       "published": "Tue, 06 Oct 2026 10:59:13 -0000",
       "published_display": "06.10.2026 · 10:59 Uhr"
-    },
-    {
-      "title": "Nach Aus bei Bohai und Schlote: 1.400 offene Stellen für Autozulieferer-Beschäftigte im Harz",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/06/1-400-offene-stellen-fuer-autozulieferer-beschaeftigte-im-harz-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/06/1-400-offene-stellen-fuer-autozulieferer-beschaeftigte-im-harz",
-      "published": "Tue, 06 Oct 2026 10:59:10 -0000",
-      "published_display": "06.10.2026 · 10:59 Uhr"
-    },
-    {
-      "title": "Studium: Junge Menschen studieren häufig im eigenen Bundesland",
-      "summary": "Mehr als zwei Drittel der Studierenden wählt eine Hochschule in ihrer Heimatregion. Dabei gibt es deutliche regionale Unterschiede.",
-      "image": "https://img.zeit.de/bildung/2026-10/studienort-bundesland-studienanfaenger-hochschulreife-statistik-foto-1/original__640x360",
-      "link": "https://www.zeit.de/bildung/2026-10/studienort-bundesland-studienanfaenger-hochschulreife-statistik",
-      "published": "Tue, 06 Oct 2026 10:59:00 -0000",
-      "published_display": "06.10.2026 · 10:59 Uhr"
-    },
-    {
-      "title": "Statistik zum Semesterstart: Viele Erstsemester zieht es in Nachbar-Bundesländer",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/06/viele-erstsemester-zieht-es-in-nachbar-bundeslaender-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/06/viele-erstsemester-zieht-es-in-nachbar-bundeslaender",
-      "published": "Tue, 06 Oct 2026 10:57:32 -0000",
-      "published_display": "06.10.2026 · 10:57 Uhr"
-    },
-    {
-      "title": "Internationales Olympisches Komitee: Sechs Länder konkurrieren mit Deutschland um Olympia-Austragung 2036",
-      "summary": "München möchte Gastgeber der Olympischen Sommerspiele 2036 werden. Doch es gibt auch weitere Bewerber: unter anderem die Türkei, Ungarn und Katar.",
-      "image": "https://img.zeit.de/sport/2026-10/olympische-sommerspiele-2036-olympia-bewerbung-muenchen-foto-1/original__640x360",
-      "link": "https://www.zeit.de/sport/2026-10/olympische-sommerspiele-2036-olympia-bewerbung-muenchen",
-      "published": "Tue, 06 Oct 2026 10:55:04 -0000",
-      "published_display": "06.10.2026 · 10:55 Uhr"
-    },
-    {
-      "title": "Rückholung der Kinder: System 360 und der Ex-BNDler August Hanning",
-      "summary": "Der frühere BND-Chef August Hanning und ein Ex-LKA-Beamter sollen Christina Block helfen. Gemeinsam entsteht ein Plan. Der erste Versuch, die Kinder zurückzuholen?",
-      "image": "https://img.zeit.de/gesellschaft/2026-10/rueckholung-kinder-plan-house-of-block-hanning-podcast-bild/original__640x360",
-      "link": "https://www.zeit.de/gesellschaft/2026-10/rueckholung-kinder-plan-house-of-block-hanning-podcast",
-      "published": "Tue, 06 Oct 2026 10:54:44 -0000",
-      "published_display": "06.10.2026 · 10:54 Uhr"
-    },
-    {
-      "title": "Brände: Geldautomaten-Sprengung im Biesdorf-Center",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/06/biesdorf-center-nach-geldautomaten-sprengung-verraucht-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/06/biesdorf-center-nach-geldautomaten-sprengung-verraucht",
-      "published": "Tue, 06 Oct 2026 10:53:10 -0000",
-      "published_display": "06.10.2026 · 10:53 Uhr"
-    },
-    {
-      "title": "Frankreich: Aktionstag für bessere Schulen: Proteste im Elsass",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/06/aktionstag-fuer-bessere-schulen-proteste-im-elsass-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/06/aktionstag-fuer-bessere-schulen-proteste-im-elsass",
-      "published": "Tue, 06 Oct 2026 10:52:41 -0000",
-      "published_display": "06.10.2026 · 10:52 Uhr"
-    },
-    {
-      "title": "Sachsen-Anhalt: AfD-Politiker Tobias Rausch ist Landtagspräsident von Sachsen-Anhalt",
-      "summary": "Historische Wahl: Erstmals stellt die AfD einen Landtagspräsidenten. Tobias Rausch wurde mit 48 Stimmen gewählt – neun Stimmen mehr als die AfD-Fraktion Mandate hat.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-10/tobias-rausch-afd-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-10/afd-politiker-tobias-rausch-ist-landtagspraesident-von-sachsen-anhalt",
-      "published": "Tue, 06 Oct 2026 10:52:07 -0000",
-      "published_display": "06.10.2026 · 10:52 Uhr"
-    },
-    {
-      "title": "Germanwings-Absturz: Gericht weist Klage Hinterbliebener im Germanwings-Prozess ab",
-      "summary": "Den Angehörigen der Toten nach dem Absturz der Germanwings-Maschine steht kein zusätzliches Schmerzensgeld vom Staat zu. Ein Gericht sieht dafür keine Grundlage.",
-      "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-10/germanwings-absturz-schmerzensgeld-klage-landgericht-braunschweig-foto-1/original__640x360",
-      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-10/germanwings-absturz-schmerzensgeld-klage-landgericht-braunschweig",
-      "published": "Tue, 06 Oct 2026 10:51:37 -0000",
-      "published_display": "06.10.2026 · 10:51 Uhr"
-    },
-    {
-      "title": "Kommunalfinanzen: Mehr Geld aus der Landeskasse für Thüringens Kommunen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/06/mehr-geld-aus-der-landeskasse-fuer-thueringens-kommunen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/06/mehr-geld-aus-der-landeskasse-fuer-thueringens-kommunen",
-      "published": "Tue, 06 Oct 2026 10:50:28 -0000",
-      "published_display": "06.10.2026 · 10:50 Uhr"
-    },
-    {
-      "title": "Jahrestag 7. Oktober: Fast 12.500 Strafverfahren zum Nahost-Konflikt in Berlin",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/06/fast-12-500-strafverfahren-zum-nahost-konflikt-in-berlin-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/06/fast-12-500-strafverfahren-zum-nahost-konflikt-in-berlin",
-      "published": "Tue, 06 Oct 2026 10:49:36 -0000",
-      "published_display": "06.10.2026 · 10:49 Uhr"
-    },
-    {
-      "title": "Mögliche Heimkehr aus Exil: Nach neun Jahren Exil Puigdemont vor Rückkehr in die Heimat",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/06/nach-neun-jahren-exil-puigdemont-vor-rueckkehr-in-die-heimat-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/06/nach-neun-jahren-exil-puigdemont-vor-rueckkehr-in-die-heimat",
-      "published": "Tue, 06 Oct 2026 10:46:28 -0000",
-      "published_display": "06.10.2026 · 10:46 Uhr"
     }
   ]
 }
