@@ -1,126 +1,126 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-06T09:59:10.694764+00:00",
+  "updated": "2026-10-06T10:19:38.309975+00:00",
   "items": [
+    {
+      "title": "Fotografie: Bilder des Tages",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/06/bilder-des-tages-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/06/bilder-des-tages",
+      "published": "Tue, 06 Oct 2026 10:17:21 -0000",
+      "published_display": "06.10.2026 · 10:17 Uhr"
+    },
+    {
+      "title": "Prozess: Polizistin wegen Vergewaltigung zu Haftstrafe verurteilt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/06/urteil-in-vergewaltigungsprozess-gegen-polizistin-erwartet-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/06/urteil-in-vergewaltigungsprozess-gegen-polizistin-erwartet",
+      "published": "Tue, 06 Oct 2026 10:15:48 -0000",
+      "published_display": "06.10.2026 · 10:15 Uhr"
+    },
+    {
+      "title": "Spionageverdacht: Ehemaliger BND-Chef August Hanning festgenommen",
+      "summary": "Der frühere Geheimdienstchef August Hanning wurde verhaftet. Ihm wird Spionage vorgeworfen. Ermittlungsarbeiten im Block-Prozess hatten den Fall ins Rollen gebracht.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-10/august-hanning-vor-nsa-untersuchungsausschuss-bild-2/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-10/august-hanning-bnd-festnahme-spionage-mitarbeiter",
+      "published": "Tue, 06 Oct 2026 10:10:54 -0000",
+      "published_display": "06.10.2026 · 10:10 Uhr"
+    },
+    {
+      "title": "Landtag von Sachsen-Anhalt: Wahl des Parlamentspräsidenten hat begonnen",
+      "summary": "Die Alterspräsidentin erinnert in der Eröffnungsrede an die deutschen Diktaturen und zitiert aus »Spiderman«. Die Fraktionen diskutieren die Tagesordnung. Das Liveblog",
+      "image": "https://img.zeit.de/politik/deutschland/2026-10/konstituierende-landtagssitzung-in-sachsen-anhalt-bild-2/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-10/landtag-sachsen-anhalt-konstituierung-afd-bsw-live",
+      "published": "Tue, 06 Oct 2026 10:09:40 -0000",
+      "published_display": "06.10.2026 · 10:09 Uhr"
+    },
+    {
+      "title": "Mittelfristige Finanzplanung: Schleswig-Holsteins Finanzplanung mit großen Lücken",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/06/schleswig-holsteins-finanzplanung-mit-grossen-luecken-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/06/schleswig-holsteins-finanzplanung-mit-grossen-luecken",
+      "published": "Tue, 06 Oct 2026 10:08:53 -0000",
+      "published_display": "06.10.2026 · 10:08 Uhr"
+    },
+    {
+      "title": "1,1 Promille: Aggressiver Mann greift Reisende am Hauptbahnhof Nürnberg an",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/06/aggressiver-mann-greift-reisende-am-hauptbahnhof-nuernberg-an-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/06/aggressiver-mann-greift-reisende-am-hauptbahnhof-nuernberg-an",
+      "published": "Tue, 06 Oct 2026 10:08:26 -0000",
+      "published_display": "06.10.2026 · 10:08 Uhr"
+    },
+    {
+      "title": "Auf Ausstellungsstück gesetzt: Unbekannter beschädigt geflochtenes Motorrad im Korbmuseum",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/06/unbekannter-beschaedigt-geflochtenes-motorrad-im-korbmuseum-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/06/unbekannter-beschaedigt-geflochtenes-motorrad-im-korbmuseum",
+      "published": "Tue, 06 Oct 2026 10:07:05 -0000",
+      "published_display": "06.10.2026 · 10:07 Uhr"
+    },
+    {
+      "title": "Unfälle: Motorradfahrer stirbt nach Frontalzusammenstoß",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/06/motorradfahrer-stirbt-nach-frontalzusammenstoss-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/06/motorradfahrer-stirbt-nach-frontalzusammenstoss",
+      "published": "Tue, 06 Oct 2026 10:07:00 -0000",
+      "published_display": "06.10.2026 · 10:07 Uhr"
+    },
+    {
+      "title": "Hamas-Angriff: Woidke: 7. Oktober markiert ein «davor und ein danach»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/06/woidke-7-oktober-markiert-ein-davor-und-ein-danach-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/06/woidke-7-oktober-markiert-ein-davor-und-ein-danach",
+      "published": "Tue, 06 Oct 2026 10:05:45 -0000",
+      "published_display": "06.10.2026 · 10:05 Uhr"
+    },
+    {
+      "title": "Rückholung der Kinder: System 360 und der Ex-BNDler August Hanning",
+      "summary": "Der frühere BND-Chef August Hanning und ein Ex-LKA-Beamter sollen Christina Block helfen. Gemeinsam entsteht ein Plan. Der erste Versuch, die Kinder zurückzuholen?",
+      "image": "https://img.zeit.de/gesellschaft/2026-10/rueckholung-kinder-plan-house-of-block-hanning-podcast-bild/original__640x360",
+      "link": "https://www.zeit.de/gesellschaft/2026-10/rueckholung-kinder-plan-house-of-block-hanning-podcast",
+      "published": "Tue, 06 Oct 2026 10:05:10 -0000",
+      "published_display": "06.10.2026 · 10:05 Uhr"
+    },
     {
       "title": "Auszeichnung: Physik-Nobelpreis an Geisterteilchen-Forscher aus den USA",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-10/06/physik-nobelpreis-an-geisterteilchen-forscher-aus-den-usa-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-10/06/physik-nobelpreis-an-geisterteilchen-forscher-aus-den-usa",
-      "published": "Tue, 06 Oct 2026 09:56:50 -0000",
-      "published_display": "06.10.2026 · 09:56 Uhr"
-    },
-    {
-      "title": "Landgericht Neubrandenburg: Drei Männer nach tödlicher Racheattacke vor Gericht",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/06/drei-maenner-nach-toedlicher-racheattacke-vor-gericht-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/06/drei-maenner-nach-toedlicher-racheattacke-vor-gericht",
-      "published": "Tue, 06 Oct 2026 09:55:33 -0000",
-      "published_display": "06.10.2026 · 09:55 Uhr"
-    },
-    {
-      "title": "Auszeichnung: Physik-Nobelpreis an Neutrinoforscher Francis Halzen",
-      "summary": "",
-      "image": "https://img.zeit.de/administratives/sharing/fallback-image-die-zeit/wide__1300x731",
-      "link": "https://www.zeit.de/news/2026-10/06/physik-nobelpreis-an-neutrinoforscher-francis-halzen",
-      "published": "Tue, 06 Oct 2026 09:51:04 -0000",
-      "published_display": "06.10.2026 · 09:51 Uhr"
+      "published": "Tue, 06 Oct 2026 10:04:30 -0000",
+      "published_display": "06.10.2026 · 10:04 Uhr"
     },
     {
       "title": "Nobelpreis für Physik geht an Astrophysiker Francis Halzen",
-      "summary": "",
-      "image": "https://img.zeit.de/administratives/eilmeldung/fallback-bild/original__640x360",
+      "summary": "Der Elementarteilchenphysiker Francis Halzen wird für Beiträge zum Neutrino-Observatorium geehrt. Dem US-Amerikaner gelang es, sogenannte Geisterteilchen nachzuweisen.",
+      "image": "https://img.zeit.de/wissenschaft/2026-10/sweden-nobel-award-medicine-physiology-bild/original__640x360",
       "link": "https://www.zeit.de/wissenschaft/2026-10/nobelpreis-fuer-physik-geht-an-astrophysiker-francis-halzen",
-      "published": "Tue, 06 Oct 2026 09:50:13 -0000",
-      "published_display": "06.10.2026 · 09:50 Uhr"
+      "published": "Tue, 06 Oct 2026 10:04:27 -0000",
+      "published_display": "06.10.2026 · 10:04 Uhr"
     },
     {
-      "title": "Bildung: Mit Exzellenz und auf Englisch: Hochschulstart in Hessen",
+      "title": "Notfälle: Amokalarm an Schule - Polizisten durchsuchten Gebäude",
       "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/06/mit-exzellenz-und-auf-englisch-hochschulstart-in-hessen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/06/mit-exzellenz-und-auf-englisch-hochschulstart-in-hessen",
-      "published": "Tue, 06 Oct 2026 09:49:59 -0000",
-      "published_display": "06.10.2026 · 09:49 Uhr"
+      "image": "https://img.zeit.de/news/2026-10/06/grosseinsatz-an-schule-im-kreis-verden-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/06/grosseinsatz-an-schule-im-kreis-verden",
+      "published": "Tue, 06 Oct 2026 10:01:35 -0000",
+      "published_display": "06.10.2026 · 10:01 Uhr"
     },
     {
-      "title": "Statistisches Bundesamt: Abiturienten aus NRW beginnen meist Studium im eigenen Land",
+      "title": "Sportpolitik: IOC: Sechs Konkurrenten für München um Olympia 2036",
       "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/06/abiturienten-aus-nrw-beginnen-meist-studium-im-eigenen-land-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/06/abiturienten-aus-nrw-beginnen-meist-studium-im-eigenen-land",
-      "published": "Tue, 06 Oct 2026 09:49:24 -0000",
-      "published_display": "06.10.2026 · 09:49 Uhr"
+      "image": "https://img.zeit.de/news/2026-10/06/ioc-sechs-konkurrenten-fuer-muenchen-um-olympia-2036-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/06/ioc-sechs-konkurrenten-fuer-muenchen-um-olympia-2036",
+      "published": "Tue, 06 Oct 2026 10:00:54 -0000",
+      "published_display": "06.10.2026 · 10:00 Uhr"
     },
     {
-      "title": "Bayerischer Präventionstag: Söder tanzt mit Grundschülern in den Tag",
+      "title": "Prozessauftakt: Kinder missbraucht, Taten gefilmt: Angeklagter vor Gericht",
       "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/06/soeder-tanzt-mit-grundschuelern-in-den-tag-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/06/soeder-tanzt-mit-grundschuelern-in-den-tag",
-      "published": "Tue, 06 Oct 2026 09:47:33 -0000",
-      "published_display": "06.10.2026 · 09:47 Uhr"
-    },
-    {
-      "title": "Fußball-Bundesliga: Nächster Rückschlag: Werder-Enttäuschung Alvero fällt aus",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/06/naechster-rueckschlag-werder-enttaeuschung-alvero-faellt-aus-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/06/naechster-rueckschlag-werder-enttaeuschung-alvero-faellt-aus",
-      "published": "Tue, 06 Oct 2026 09:47:24 -0000",
-      "published_display": "06.10.2026 · 09:47 Uhr"
-    },
-    {
-      "title": "Elf Verdächtige: Kinderpornografie-Verdacht - Polizei durchsucht Wohnungen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/06/kinderpornografie-verdacht-polizei-durchsucht-wohnungen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/06/kinderpornografie-verdacht-polizei-durchsucht-wohnungen",
-      "published": "Tue, 06 Oct 2026 09:46:53 -0000",
-      "published_display": "06.10.2026 · 09:46 Uhr"
-    },
-    {
-      "title": "Topinambur mit Chorizo und Brot aus dem Ofen: Tiptopinambur!",
-      "summary": "Das intensive Aroma der Chorizo und die Mischung aus Topinambur, Zwiebel und Sauerteigbrot machen aus diesem herzhaften Ofengericht einen herbstlichen Hochgenuss.",
-      "image": "https://img.zeit.de/zeit-magazin/wochenmarkt/2025-07/topinambur-chorizo-brot-ofen-rezept-wochenmarkt-bild/original__640x360",
-      "link": "https://www.zeit.de/zeit-magazin/wochenmarkt/2025-07/topinambur-chorizo-brot-ofen-rezept-wochenmarkt",
-      "published": "Tue, 06 Oct 2026 09:45:14 -0000",
-      "published_display": "06.10.2026 · 09:45 Uhr"
-    },
-    {
-      "title": "Tacos mit Pilzen und Chipotle : Es darf gekleckert werden",
-      "summary": "Tacos essen ohne Sauerei? Unmöglich. Aber auch egal: Als schnelles Fingerfood sind die gefüllten Tortillas unschlagbar. Hier mit Pilzen, Selleriesalat und saurer Sahne",
-      "image": "https://img.zeit.de/zeit-magazin/wochenmarkt/2025-07/tacos-pilze-chipotle-teaser/original__640x360",
-      "link": "https://www.zeit.de/zeit-magazin/wochenmarkt/2025-07/tacos-pilze-chipotle-rezept-wochenmarkt",
-      "published": "Tue, 06 Oct 2026 09:43:07 -0000",
-      "published_display": "06.10.2026 · 09:43 Uhr"
-    },
-    {
-      "title": "Gastgeschenk: Zu zerbrechlich: Papst-Stollen per Dienstauto nach Rom",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/06/zu-zerbrechlich-papst-stollen-per-dienstauto-nach-rom-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/06/zu-zerbrechlich-papst-stollen-per-dienstauto-nach-rom",
-      "published": "Tue, 06 Oct 2026 09:42:04 -0000",
-      "published_display": "06.10.2026 · 09:42 Uhr"
-    },
-    {
-      "title": "Alkohol: Fünf Polizisten bei Kontrolle angegriffen und verletzt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/06/fuenf-polizisten-bei-kontrolle-angegriffen-und-verletzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/06/fuenf-polizisten-bei-kontrolle-angegriffen-und-verletzt",
-      "published": "Tue, 06 Oct 2026 09:41:58 -0000",
-      "published_display": "06.10.2026 · 09:41 Uhr"
-    },
-    {
-      "title": "Nobelpreis: Jetzt live: Wer erhält den Nobelpreis für Physik?",
-      "summary": "Forscher weltweit blicken wieder nach Stockholm: Das Nobelkomitee gibt die Preisträger in der Kategorie Physik bekannt. Verfolgen Sie die Pressekonferenz im Livestream.",
-      "image": "https://img.zeit.de/wissenschaft/2026-09/bekanntgabe-nobelpreis-physik-2026-live-physik-bild/original__640x360",
-      "link": "https://www.zeit.de/wissenschaft/2026-10/bekanntgabe-nobelpreis-physik-2026-live",
-      "published": "Tue, 06 Oct 2026 09:41:29 -0000",
-      "published_display": "06.10.2026 · 09:41 Uhr"
-    },
-    {
-      "title": "Lammsteaks mit Marsalaaprikosen : Das Beste kommt zum Schluss",
-      "summary": "Sogar der Spätsommer neigt sich dem Ende zu. Aber dank saftiger Früchte, Lammsteaks und der Bratensoße auf getoastetem Brot hallen die sonnigen Tage noch nach!",
-      "image": "https://img.zeit.de/zeit-magazin/wochenmarkt/2025-08/lammsteaks-marsalaaprikosen-teaser/original__640x360",
-      "link": "https://www.zeit.de/zeit-magazin/wochenmarkt/2025-08/lammsteaks-marsalaaprikosen-rezept-wochenmarkt",
-      "published": "Tue, 06 Oct 2026 09:40:59 -0000",
-      "published_display": "06.10.2026 · 09:40 Uhr"
+      "image": "https://img.zeit.de/news/2026-10/06/kinder-missbraucht-taten-gefilmt-angeklagter-vor-gericht-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/06/kinder-missbraucht-taten-gefilmt-angeklagter-vor-gericht",
+      "published": "Tue, 06 Oct 2026 10:00:44 -0000",
+      "published_display": "06.10.2026 · 10:00 Uhr"
     }
   ]
 }
