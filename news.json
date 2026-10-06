@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-06T22:18:14.967153+00:00",
+  "updated": "2026-10-06T22:33:29.467165+00:00",
   "items": [
+    {
+      "title": "Tod einer jungen Frau: Verdacht auf Lungenpest: Trump will mit Putin telefonieren",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/07/verdacht-auf-lungenpest-trump-will-mit-putin-telefonieren-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/verdacht-auf-lungenpest-trump-will-mit-putin-telefonieren",
+      "published": "Tue, 06 Oct 2026 22:29:27 -0000",
+      "published_display": "06.10.2026 · 22:29 Uhr"
+    },
+    {
+      "title": "Todesstrafe in den USA: Anwälte: Pike nach gescheiterter Hinrichtung bei Bewusstsein",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/06/anwaelte-pike-nach-gescheiterter-hinrichtung-bei-bewusstsein-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/06/anwaelte-pike-nach-gescheiterter-hinrichtung-bei-bewusstsein",
+      "published": "Tue, 06 Oct 2026 22:25:49 -0000",
+      "published_display": "06.10.2026 · 22:25 Uhr"
+    },
+    {
+      "title": "Schusswaffenangriff in Kanada: Möglicher Komplize von Schulangriff in Kanada in den USA festgenommen",
+      "summary": "Ein 30-Jähriger US-Amerikaner soll die mutmaßliche Täterin eines Schusswaffenangriffs in Kanada unterstützt haben. Acht Menschen wurden dabei im Februar getötet.",
+      "image": "https://img.zeit.de/gesellschaft/2026-10/nach-dem-toedlichen-angriff-in-kanada-bild/original__640x360",
+      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-10/tumbler-ridge-schusswaffenangriff-kanada-schule-usa",
+      "published": "Tue, 06 Oct 2026 22:22:34 -0000",
+      "published_display": "06.10.2026 · 22:22 Uhr"
+    },
     {
       "title": "Motorenbauer: Motorenbauer Deutz möchte Personal am Stammwerk abbauen",
       "summary": "",
@@ -33,14 +57,6 @@
       "link": "https://www.zeit.de/news/2026-10/06/was-geschah-am-7-oktober",
       "published": "Tue, 06 Oct 2026 21:55:04 -0000",
       "published_display": "06.10.2026 · 21:55 Uhr"
-    },
-    {
-      "title": "Todesstrafe in den USA: Anwälte: Pike nach gescheiterter Hinrichtung bei Bewusstsein",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/06/anwaelte-pike-nach-gescheiterter-hinrichtung-bei-bewusstsein-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/06/anwaelte-pike-nach-gescheiterter-hinrichtung-bei-bewusstsein",
-      "published": "Tue, 06 Oct 2026 21:46:56 -0000",
-      "published_display": "06.10.2026 · 21:46 Uhr"
     },
     {
       "title": "Berliner Appell für Verantwortung: Prominente von CDU, Grünen und SPD warnen vor Rot-Grün-Rot in Berlin",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/06/paramount-schliesst-warner-uebernahme-ab",
       "published": "Tue, 06 Oct 2026 20:06:12 -0000",
       "published_display": "06.10.2026 · 20:06 Uhr"
-    },
-    {
-      "title": "Kriminalität: Schulmassaker in Kanada: Angreiferin hatte wohl Unterstützer",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/06/schulmassaker-in-kanada-angreiferin-hatte-wohl-unterstuetzer-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/06/schulmassaker-in-kanada-angreiferin-hatte-wohl-unterstuetzer",
-      "published": "Tue, 06 Oct 2026 20:02:36 -0000",
-      "published_display": "06.10.2026 · 20:02 Uhr"
-    },
-    {
-      "title": "Landkreis Elbe-Elster: 77-Jährige stirbt nach Zusammenstoß mit Lkw in Uebigau",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/06/77-jaehrige-stirbt-nach-zusammenstoss-mit-lkw-in-uebigau-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/06/77-jaehrige-stirbt-nach-zusammenstoss-mit-lkw-in-uebigau",
-      "published": "Tue, 06 Oct 2026 19:52:58 -0000",
-      "published_display": "06.10.2026 · 19:52 Uhr"
     }
   ]
 }
