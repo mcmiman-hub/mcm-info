@@ -1,7 +1,95 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-06T14:36:44.386559+00:00",
+  "updated": "2026-10-06T14:52:24.860510+00:00",
   "items": [
+    {
+      "title": "Bundeswehr: Bund will offenbar vier weitere Fregatten bestellen",
+      "summary": "Die Marine soll wohl vier weitere Kriegsschiffe bekommen. Die Bundesregierung plant laut einem Bericht mit 5,6 Milliarden Euro, bis 2035 sollen die Fregatten fertig sein.",
+      "image": "https://img.zeit.de/politik/2026-10/fregatten-meko-a-200-marine-bundeswehr-beschaffung-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/2026-10/fregatten-meko-a-200-marine-bundeswehr-beschaffung",
+      "published": "Tue, 06 Oct 2026 14:51:27 -0000",
+      "published_display": "06.10.2026 · 14:51 Uhr"
+    },
+    {
+      "title": "Landtag Sachsen-Anhalt: AfD-Politiker Hans-Thomas Tillschneider ist Vizelandtagspräsident",
+      "summary": "Der AfD-Rechtsaußen Hans-Thomas Tillschneider ist vom Landtag in Sachsen-Anhalt zum Vizepräsidenten gewählt worden. Er erhielt fünf Stimmen mehr als die AfD hat.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-10/konstituierende-landtagssitzung-in-sachsen-anhalt-bild-22/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-10/afd-politiker-hans-thomas-tillschneider-ist-vizelandtagspraesident",
+      "published": "Tue, 06 Oct 2026 14:50:40 -0000",
+      "published_display": "06.10.2026 · 14:50 Uhr"
+    },
+    {
+      "title": "Landtagspräsident in Sachsen-Anhalt: Grüne und Linke sehen in AfD-Landtagspräsident Gefahr für Demokratie",
+      "summary": "Die Wahl des AfD-Kandidaten Tobias Rausch zum Landtagspräsidenten von Sachsen-Anhalt wird deutlich verurteilt. Grüne und Linke kritisieren auch das BSW und die CDU.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-10/landtagspraesident-sachsen-anhalt-tobias-rausch-afd-bsw-cdu-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-10/landtagspraesident-sachsen-anhalt-tobias-rausch-afd-bsw-cdu-gxe",
+      "published": "Tue, 06 Oct 2026 14:47:16 -0000",
+      "published_display": "06.10.2026 · 14:47 Uhr"
+    },
+    {
+      "title": "Tennis: Sinner beendet Saison: Zverevs Riesenchance auf Nummer 1",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/06/sinner-beendet-saison-zverevs-riesenchance-auf-nummer-1-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/06/sinner-beendet-saison-zverevs-riesenchance-auf-nummer-1",
+      "published": "Tue, 06 Oct 2026 14:44:46 -0000",
+      "published_display": "06.10.2026 · 14:44 Uhr"
+    },
+    {
+      "title": "Gelebte Tradition: Ruth Liebscher ist das Dresdner Stollenmädchen 2026",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/06/ruth-liebscher-ist-das-dresdner-stollenmaedchen-2026-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/06/ruth-liebscher-ist-das-dresdner-stollenmaedchen-2026",
+      "published": "Tue, 06 Oct 2026 14:43:05 -0000",
+      "published_display": "06.10.2026 · 14:43 Uhr"
+    },
+    {
+      "title": "Wohnungsmarkt in Spanien: Spanische Regierung beschließt erneut Mieterschutzdekrete",
+      "summary": "Das Scheitern eines Mietpakets führte zur Ausrufung von Neuwahlen. Dadurch kann Spaniens Regierung auf eine Mehrheit für ihr Projekt in einer Art Notparlament hoffen.",
+      "image": "https://img.zeit.de/politik/ausland/2026-10/wohnungsmarkt-spanien-dekrete-pedro-sanchez-mietpreisdeckel-zwangsraeumung-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/wohnungsmarkt-spanien-dekrete-pedro-sanchez-mietpreisdeckel-zwangsraeumung-gxe",
+      "published": "Tue, 06 Oct 2026 14:41:40 -0000",
+      "published_display": "06.10.2026 · 14:41 Uhr"
+    },
+    {
+      "title": "Kanzlerbesuch: Merz kommt zum CSU-Parteitag nach München",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/06/merz-kommt-zum-csu-parteitag-nach-muenchen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/06/merz-kommt-zum-csu-parteitag-nach-muenchen",
+      "published": "Tue, 06 Oct 2026 14:40:50 -0000",
+      "published_display": "06.10.2026 · 14:40 Uhr"
+    },
+    {
+      "title": "Mehr Stimmen als gedacht: CDU rätselt: Woher kamen die Stimmen für AfD-Präsident?",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/06/cdu-raetselt-woher-kamen-die-stimmen-fuer-afd-praesident-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/06/cdu-raetselt-woher-kamen-die-stimmen-fuer-afd-praesident",
+      "published": "Tue, 06 Oct 2026 14:39:09 -0000",
+      "published_display": "06.10.2026 · 14:39 Uhr"
+    },
+    {
+      "title": "Messerattacke: 17-Jähriger nach lebensgefährlichem Messerstich in U-Haft",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/06/17-jaehriger-nach-lebensgefaehrlichem-messerstich-in-u-haft-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/06/17-jaehriger-nach-lebensgefaehrlichem-messerstich-in-u-haft",
+      "published": "Tue, 06 Oct 2026 14:39:04 -0000",
+      "published_display": "06.10.2026 · 14:39 Uhr"
+    },
+    {
+      "title": "Sportpolitik: IOC verrät: Das sind Münchens Rivalen um Olympia 2036",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/06/ioc-sechs-konkurrenten-fuer-muenchen-um-olympia-2036-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/06/ioc-sechs-konkurrenten-fuer-muenchen-um-olympia-2036",
+      "published": "Tue, 06 Oct 2026 14:36:56 -0000",
+      "published_display": "06.10.2026 · 14:36 Uhr"
+    },
+    {
+      "title": "Landtag: Frei besorgt über Extra-Stimmen für AfD-Landtagspräsidenten",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/06/frei-besorgt-ueber-extra-stimmen-fuer-afd-landtagspraesidenten-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/06/frei-besorgt-ueber-extra-stimmen-fuer-afd-landtagspraesidenten",
+      "published": "Tue, 06 Oct 2026 14:35:26 -0000",
+      "published_display": "06.10.2026 · 14:35 Uhr"
+    },
     {
       "title": "Pilotprojekt: Neue Methode: Polizei kontrolliert Lkw-Abstand per Drohne",
       "summary": "",
@@ -19,14 +107,6 @@
       "published_display": "06.10.2026 · 14:31 Uhr"
     },
     {
-      "title": "Landtag Sachsen-Anhalt: AfD-Politiker Hans-Thomas Tillschneider ist Vizelandtagspräsident",
-      "summary": "Der AfD-Rechtsaußen Hans-Thomas Tillschneider ist vom Landtag in Sachsen-Anhalt zum Vizepräsidenten gewählt worden. Er erhielt fünf Stimmen mehr als die AfD hat.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-10/konstituierende-landtagssitzung-in-sachsen-anhalt-bild-22/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-10/afd-politiker-hans-thomas-tillschneider-ist-vizelandtagspraesident",
-      "published": "Tue, 06 Oct 2026 14:30:21 -0000",
-      "published_display": "06.10.2026 · 14:30 Uhr"
-    },
-    {
       "title": "Unangenehmer Geruch: Schon wieder starker Gestank in Siegen - Ursache noch unklar",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-10/06/schon-wieder-starker-gestank-in-siegen-ursache-unklar-image-group/original__640x360",
@@ -41,86 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/06/herbstsaison-in-mecklenburg-vorpommern-gut-gebucht",
       "published": "Tue, 06 Oct 2026 14:23:19 -0000",
       "published_display": "06.10.2026 · 14:23 Uhr"
-    },
-    {
-      "title": "Unfälle: Autofahrer stirbt nach Verkehrsunfall",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/06/autofahrer-stirbt-nach-verkehrsunfall-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/06/autofahrer-stirbt-nach-verkehrsunfall",
-      "published": "Tue, 06 Oct 2026 14:23:02 -0000",
-      "published_display": "06.10.2026 · 14:23 Uhr"
-    },
-    {
-      "title": "Infraplan 2026: Verkehrsministerium stellt neuen Plan zur Bahn-Sanierung vor",
-      "summary": "Mit dem Infraplan will die Bundesregierung die Modernisierung des Bahnnetzes besser koordinieren. Gewerkschaften kritisieren, dass die Finanzierung nicht geklärt ist.",
-      "image": "https://img.zeit.de/mobilitaet/2026-10/infraplan-2026-schieneninfrastruktur-db-infrago-bundesregierung-foto-1/original__640x360",
-      "link": "https://www.zeit.de/mobilitaet/2026-10/infraplan-2026-schieneninfrastruktur-db-infrago-bundesregierung",
-      "published": "Tue, 06 Oct 2026 14:22:08 -0000",
-      "published_display": "06.10.2026 · 14:22 Uhr"
-    },
-    {
-      "title": "Sachsen-Anhalt: Tillschneider als Landtags-Vizepräsident gewählt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/06/tillschneider-als-landtags-vizepraesident-gewaehlt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/06/tillschneider-als-landtags-vizepraesident-gewaehlt",
-      "published": "Tue, 06 Oct 2026 14:20:53 -0000",
-      "published_display": "06.10.2026 · 14:20 Uhr"
-    },
-    {
-      "title": "Lebensmittelindustrie: Theo Müller schließt Werke in Sachsen-Anhalt und Sachsen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/06/theo-mueller-schliesst-werke-in-sachsen-anhalt-und-sachsen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/06/theo-mueller-schliesst-werke-in-sachsen-anhalt-und-sachsen",
-      "published": "Tue, 06 Oct 2026 14:19:40 -0000",
-      "published_display": "06.10.2026 · 14:19 Uhr"
-    },
-    {
-      "title": "Wohnungsmarkt in Spanien: Spanische Regierung beschließt erneut Mieterschutzdekrete",
-      "summary": "Das Scheitern eines Mietpakets führte zur Ausrufung von Neuwahlen. Dadurch kann Spaniens Regierung auf eine Mehrheit für ihr Projekt in einer Art Notparlament hoffen.",
-      "image": "https://img.zeit.de/politik/ausland/2026-10/wohnungsmarkt-spanien-dekrete-pedro-sanchez-mietpreisdeckel-zwangsraeumung-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/wohnungsmarkt-spanien-dekrete-pedro-sanchez-mietpreisdeckel-zwangsraeumung",
-      "published": "Tue, 06 Oct 2026 14:19:38 -0000",
-      "published_display": "06.10.2026 · 14:19 Uhr"
-    },
-    {
-      "title": "Ausstellung im Bucerius Kunst Forum: Schlafende Hunde wecken",
-      "summary": "Jüdinnen und Juden zählten zu den frühen Förderern moderner Kunst. Dann raubten die Nazis ihre Sammlungen. Eine Ausstellung in Hamburg bringt 15 davon wieder zusammen.",
-      "image": "https://img.zeit.de/2026/41/ausstellung-bucerius-moderne-kunst-ns-raubkunst-emil-nolde-rosa-schapire-teaser/original__640x360",
-      "link": "https://www.zeit.de/2026/41/ausstellung-bucerius-moderne-kunst-ns-raubkunst-emil-nolde-rosa-schapire",
-      "published": "Tue, 06 Oct 2026 14:18:35 -0000",
-      "published_display": "06.10.2026 · 14:18 Uhr"
-    },
-    {
-      "title": "»Keine Angst« von Danger Dan: Kann man diese Musik gut hören oder sich nur gut drüber aufregen?",
-      "summary": "Am Klavier klingt er nach Musterschüler, aus seinen Texten spricht er als Oberlehrer. Trotzdem ist »Keine Angst« von Danger Dan das Popalbum der Stunde.",
-      "image": "https://img.zeit.de/feuilleton/musik/2026-09/danger-dan-keine-angst-album-kontroverse-zdf-bilder/05-danger-dan-credits-bastian-bochinski-s-bild/original__640x360",
-      "link": "https://www.zeit.de/feuilleton/musik/2026-09/danger-dan-keine-angst-album-kontroverse-zdf",
-      "published": "Tue, 06 Oct 2026 14:17:57 -0000",
-      "published_display": "06.10.2026 · 14:17 Uhr"
-    },
-    {
-      "title": "Jahrestag 7. Oktober: Weiterhin zahlreiche antisemitische Übergriffe in Berlin",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/06/fast-12-500-strafverfahren-zum-nahost-konflikt-in-berlin-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/06/fast-12-500-strafverfahren-zum-nahost-konflikt-in-berlin",
-      "published": "Tue, 06 Oct 2026 14:16:43 -0000",
-      "published_display": "06.10.2026 · 14:16 Uhr"
-    },
-    {
-      "title": "Bundeswehr: Bund will offenbar vier weitere Fregatten bestellen",
-      "summary": "Die Marine soll wohl vier zusätzliche Kriegsschiffe bekommen. Dafür sind rund 5,6 Milliarden Euro vorgesehen.",
-      "image": "https://img.zeit.de/politik/2026-10/fregatten-meko-a-200-marine-bundeswehr-beschaffung-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/2026-10/fregatten-meko-a-200-marine-bundeswehr-beschaffung",
-      "published": "Tue, 06 Oct 2026 14:16:40 -0000",
-      "published_display": "06.10.2026 · 14:16 Uhr"
-    },
-    {
-      "title": "Landtag von Sachsen-Anhalt: Rechtsextremist Hans-Thomas Tillschneider ist Vizelandtagspräsident",
-      "summary": "Auch Hans-Thomas Tillschneider ist mit relativ großer Mehrheit ins Parlamentspräsidium gewählt worden. Er gilt als einer der radikalsten Ideologen der AfD. Das Liveblog",
-      "image": "https://img.zeit.de/politik/deutschland/2026-10/landtag-sachsen-anhalt-konstituierung-afd-bsw-live-tillschneider-bild-2/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-10/landtag-sachsen-anhalt-konstituierung-afd-bsw-live",
-      "published": "Tue, 06 Oct 2026 14:16:22 -0000",
-      "published_display": "06.10.2026 · 14:16 Uhr"
     }
   ]
 }
