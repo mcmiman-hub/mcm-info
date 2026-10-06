@@ -1,7 +1,47 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-06T03:19:06.337650+00:00",
+  "updated": "2026-10-06T03:35:44.308444+00:00",
   "items": [
+    {
+      "title": "Eigenheim: Braucht es wirklich mehr Eigentümer in Deutschland?",
+      "summary": "Deutschland ist ein Mieterland. Das macht vielen den Vermögensaufbau schwerer. Warum vergleichsweise wenig Menschen im eigenen Haus leben – und wie sich das ändern ließe.",
+      "image": "https://img.zeit.de/geld/2026-10/eigenheim-mietwohnungen-eigentum-wohnen-deutschland-problem-bild/original__640x360",
+      "link": "https://www.zeit.de/geld/2026-10/eigenheim-mietwohnungen-eigentum-wohnen-deutschland-problem",
+      "published": "Tue, 06 Oct 2026 03:31:11 -0000",
+      "published_display": "06.10.2026 · 03:31 Uhr"
+    },
+    {
+      "title": "Bodo Ramelow: »Man muss wissen, welche Macht der Landtagspräsident tatsächlich hat«",
+      "summary": "Bodo Ramelow kennt aus Thüringen die Taktiken und Tricks der AfD. Wie der Vizepräsident des Bundestags auf die historische Landtagssitzung heute in Sachsen-Anhalt blickt.",
+      "image": "https://img.zeit.de/politik/2026-10/bodo-ramelow-landtag-sachsen-anhalt-konstituierung-afd-bild-12/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-10/bodo-ramelow-landtag-sachsen-anhalt-konstituierung-afd",
+      "published": "Tue, 06 Oct 2026 03:30:18 -0000",
+      "published_display": "06.10.2026 · 03:30 Uhr"
+    },
+    {
+      "title": "Regen am Donnerstag: Morgendlicher Nebel und Sonne in Berlin und Brandenburg",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/06/morgendlicher-nebel-und-sonne-in-berlin-und-brandenburg-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/06/morgendlicher-nebel-und-sonne-in-berlin-und-brandenburg",
+      "published": "Tue, 06 Oct 2026 03:30:10 -0000",
+      "published_display": "06.10.2026 · 03:30 Uhr"
+    },
+    {
+      "title": "Tourismus: Herbstsaison in Mecklenburg-Vorpommern gut gebucht",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/06/herbstsaison-in-mecklenburg-vorpommern-gut-gebucht-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/06/herbstsaison-in-mecklenburg-vorpommern-gut-gebucht",
+      "published": "Tue, 06 Oct 2026 03:30:05 -0000",
+      "published_display": "06.10.2026 · 03:30 Uhr"
+    },
+    {
+      "title": "Bundestag: Abgeordnete sollen Farbe bekennen zu Steuergesetzen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/06/abgeordnete-sollen-farbe-bekennen-zu-steuergesetzen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/06/abgeordnete-sollen-farbe-bekennen-zu-steuergesetzen",
+      "published": "Tue, 06 Oct 2026 03:30:04 -0000",
+      "published_display": "06.10.2026 · 03:30 Uhr"
+    },
     {
       "title": "Mobilität: Kritik an E-Bus-Quote in Hessen und Rheinland-Pfalz",
       "summary": "",
@@ -81,46 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/06/preise-von-e-autos-und-verbrennern-naehern-sich-wieder-an",
       "published": "Tue, 06 Oct 2026 03:00:09 -0000",
       "published_display": "06.10.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Deutsche Umwelthilfe: Diese drei Südwest-Städte fahren bei E-Bussen voraus",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/06/diese-drei-suedwest-staedte-fahren-bei-e-bussen-voraus-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/06/diese-drei-suedwest-staedte-fahren-bei-e-bussen-voraus",
-      "published": "Tue, 06 Oct 2026 03:00:07 -0000",
-      "published_display": "06.10.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Umwelthilfe-Ranking: Münster beim Umstieg auf E-Busse in NRW am weitesten",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/06/muenster-beim-umstieg-auf-e-busse-in-nrw-am-weitesten-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/06/muenster-beim-umstieg-auf-e-busse-in-nrw-am-weitesten",
-      "published": "Tue, 06 Oct 2026 03:00:06 -0000",
-      "published_display": "06.10.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Verkehr: Umwelthilfe: In vielen großen Städten rollen Verbrennerbusse",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/06/umwelthilfe-in-vielen-grossen-staedten-rollen-verbrennerbusse-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/06/umwelthilfe-in-vielen-grossen-staedten-rollen-verbrennerbusse",
-      "published": "Tue, 06 Oct 2026 03:00:05 -0000",
-      "published_display": "06.10.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Geschäft mit der Wiesn: München stellt 450 Oktoberfest-Lizenzen für Influencer aus",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/06/muenchen-stellt-450-oktoberfest-lizenzen-fuer-influencer-aus-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/06/muenchen-stellt-450-oktoberfest-lizenzen-fuer-influencer-aus",
-      "published": "Tue, 06 Oct 2026 02:30:08 -0000",
-      "published_display": "06.10.2026 · 02:30 Uhr"
-    },
-    {
-      "title": "Bahn: Wie die Bahn besser werden soll - neuer «Infraplan»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/06/wie-die-bahn-besser-werden-soll-neuer-infraplan-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/06/wie-die-bahn-besser-werden-soll-neuer-infraplan",
-      "published": "Tue, 06 Oct 2026 02:30:07 -0000",
-      "published_display": "06.10.2026 · 02:30 Uhr"
     }
   ]
 }
