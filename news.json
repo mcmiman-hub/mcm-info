@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-06T00:29:14.051955+00:00",
+  "updated": "2026-10-06T00:53:24.474635+00:00",
   "items": [
+    {
+      "title": "Cornell University: Proteste an Elite-Uni Cornell nach Vorwürfen sexualisierter Gewalt",
+      "summary": "Hunderte haben an der Cornell Universität gegen deren Umgang mit Vorwürfen einer Gruppenvergewaltigung protestiert. Sie verlangen Strafen in dem Fall aus dem Jahr 2024.",
+      "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-10/cornell-university-gruppenvergewaltigung-chi-phi-studentin-new-york-foto-1/original__640x360",
+      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-10/cornell-university-gruppenvergewaltigung-chi-phi-studentin-new-york",
+      "published": "Tue, 06 Oct 2026 00:45:43 -0000",
+      "published_display": "06.10.2026 · 00:45 Uhr"
+    },
+    {
+      "title": "Notfälle: Defektes Pfefferspray löst Polizeieinsatz in ICE aus",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/06/defektes-pfefferspray-loest-polizeieinsatz-in-ice-aus-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/06/defektes-pfefferspray-loest-polizeieinsatz-in-ice-aus",
+      "published": "Tue, 06 Oct 2026 00:36:37 -0000",
+      "published_display": "06.10.2026 · 00:36 Uhr"
+    },
     {
       "title": "Handelspolitik: Vor EU-China-Gesprächen: Handelskammer wirbt für Dialog",
       "summary": "",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/politik/ausland/2026-10/schueler-proteste-belgien-luettich-polizei-sparmassnahmen",
       "published": "Mon, 05 Oct 2026 20:31:40 -0000",
       "published_display": "05.10.2026 · 20:31 Uhr"
-    },
-    {
-      "title": "3. Fußball-Liga: Alois Schwartz soll SSV Ulm in Doppelfunktion stabilisieren",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/alois-schwartz-soll-ssv-ulm-in-doppelfunktion-stabilisieren-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/alois-schwartz-soll-ssv-ulm-in-doppelfunktion-stabilisieren",
-      "published": "Mon, 05 Oct 2026 20:04:36 -0000",
-      "published_display": "05.10.2026 · 20:04 Uhr"
-    },
-    {
-      "title": "Beinahe-Katastrophe: Medien: Flydubai-Copilot wollte Tel Aviver Flughafen treffen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/augenzeuge-von-flugdrama-im-cockpit-war-niemand-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/augenzeuge-von-flugdrama-im-cockpit-war-niemand",
-      "published": "Mon, 05 Oct 2026 20:03:03 -0000",
-      "published_display": "05.10.2026 · 20:03 Uhr"
     }
   ]
 }
