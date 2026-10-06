@@ -1,10 +1,42 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-06T00:53:24.474635+00:00",
+  "updated": "2026-10-06T01:18:40.603373+00:00",
   "items": [
     {
-      "title": "Cornell University: Proteste an Elite-Uni Cornell nach Vorwürfen sexualisierter Gewalt",
-      "summary": "Hunderte haben an der Cornell Universität gegen deren Umgang mit Vorwürfen einer Gruppenvergewaltigung protestiert. Sie verlangen Strafen in dem Fall aus dem Jahr 2024.",
+      "title": "Vorzeitige Rente: Abschläge bei vorzeitiger Rente steigen schnell",
+      "summary": "Wer vor dem Regelalter in Rente geht, bekommt einen festen Prozentsatz abgezogen. In Euro hat sich dieser Abschlag aber binnen fünf Jahren um 57 Prozent vergrößert.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-10/vorzeitige-rente-abschlaege-altersgrenze-rentenhoehe-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-10/vorzeitige-rente-abschlaege-altersgrenze-rentenhoehe",
+      "published": "Tue, 06 Oct 2026 01:13:18 -0000",
+      "published_display": "06.10.2026 · 01:13 Uhr"
+    },
+    {
+      "title": "Sachsen-Anhalt: Wagenknecht: AfD-Landtagspräsident Selbstverständlichkeit",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/06/wagenknecht-afd-landtagspraesident-selbstverstaendlichkeit-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/06/wagenknecht-afd-landtagspraesident-selbstverstaendlichkeit",
+      "published": "Tue, 06 Oct 2026 01:10:04 -0000",
+      "published_display": "06.10.2026 · 01:10 Uhr"
+    },
+    {
+      "title": "Stützpunkt RAF Fairford: Medien: Bomberabzug wegen Gefahr iranischen Drohnenangriffs",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/06/medien-bomberabzug-wegen-gefahr-iranischen-drohnenangriffs-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/06/medien-bomberabzug-wegen-gefahr-iranischen-drohnenangriffs",
+      "published": "Tue, 06 Oct 2026 01:03:37 -0000",
+      "published_display": "06.10.2026 · 01:03 Uhr"
+    },
+    {
+      "title": "Ein Monat Abnehmtablette: Apotheken: Bisher wenig Nachfrage nach Abnehmtablette",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/06/apotheken-bisher-wenig-nachfrage-nach-abnehmtablette-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/06/apotheken-bisher-wenig-nachfrage-nach-abnehmtablette",
+      "published": "Tue, 06 Oct 2026 01:00:06 -0000",
+      "published_display": "06.10.2026 · 01:00 Uhr"
+    },
+    {
+      "title": "Cornell University: Proteste an Eliteuni Cornell nach Vorwürfen sexualisierter Gewalt",
+      "summary": "Hunderte haben an der Cornell-Universität gegen deren Umgang mit Vorwürfen einer Gruppenvergewaltigung protestiert. Sie verlangen Strafen in dem Fall aus dem Jahr 2024.",
       "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-10/cornell-university-gruppenvergewaltigung-chi-phi-studentin-new-york-foto-1/original__640x360",
       "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-10/cornell-university-gruppenvergewaltigung-chi-phi-studentin-new-york",
       "published": "Tue, 06 Oct 2026 00:45:43 -0000",
@@ -33,14 +65,6 @@
       "link": "https://www.zeit.de/politik/ausland/2026-10/huthi-miliz-angriffe-saudi-arabien-riad-iran",
       "published": "Mon, 05 Oct 2026 23:31:20 -0000",
       "published_display": "05.10.2026 · 23:31 Uhr"
-    },
-    {
-      "title": "Stützpunkt RAF Fairford: Medien: Bomberabzug wegen Gefahr iranischen Drohnenangriffs",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/06/medien-bomberabzug-wegen-gefahr-iranischen-drohnenangriffs-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/06/medien-bomberabzug-wegen-gefahr-iranischen-drohnenangriffs",
-      "published": "Mon, 05 Oct 2026 23:20:16 -0000",
-      "published_display": "05.10.2026 · 23:20 Uhr"
     },
     {
       "title": "Neuwahlen angekündigt: Zehntausende protestieren in Barcelona gegen Wohnungsnot",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/05/behoerde-laborantin-in-sibirien-starb-nicht-an-pest",
       "published": "Mon, 05 Oct 2026 21:15:03 -0000",
       "published_display": "05.10.2026 · 21:15 Uhr"
-    },
-    {
-      "title": "Kreis Heinsberg: Auto prallt gegen Baum - Fahrer stirbt im Krankenhaus",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/auto-prallt-gegen-baum-fahrer-stirbt-im-krankenhaus-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/auto-prallt-gegen-baum-fahrer-stirbt-im-krankenhaus",
-      "published": "Mon, 05 Oct 2026 21:11:16 -0000",
-      "published_display": "05.10.2026 · 21:11 Uhr"
-    },
-    {
-      "title": "Stützpunkt RAF Fairford: US-Bomber aus Großbritannien abgezogen - wegen Bedrohung?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/nach-vorfall-bei-us-militaerbasis-us-bomber-zurueckbeordert-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/04/nach-vorfall-bei-us-militaerbasis-us-bomber-zurueckbeordert",
-      "published": "Mon, 05 Oct 2026 21:03:16 -0000",
-      "published_display": "05.10.2026 · 21:03 Uhr"
-    },
-    {
-      "title": "Lüttich: Gewaltsame Zusammenstöße bei Schülerprotesten in Belgien",
-      "summary": "Seit Tagen protestieren auch in Belgien Schüler für bessere Bildung. In Lüttich kam es zu Konfrontationen mit der Polizei. Es sollen Brände gelegt worden sein.",
-      "image": "https://img.zeit.de/politik/ausland/2026-10/schueler-proteste-belgien-luettich-polizei-sparmassnahmen-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/schueler-proteste-belgien-luettich-polizei-sparmassnahmen",
-      "published": "Mon, 05 Oct 2026 20:31:40 -0000",
-      "published_display": "05.10.2026 · 20:31 Uhr"
     }
   ]
 }
