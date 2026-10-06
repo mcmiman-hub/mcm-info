@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-05T23:55:10.788456+00:00",
+  "updated": "2026-10-06T00:29:14.051955+00:00",
   "items": [
+    {
+      "title": "Handelspolitik: Vor EU-China-Gesprächen: Handelskammer wirbt für Dialog",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/06/vor-eu-china-gespraechen-handelskammer-wirbt-fuer-dialog-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/06/vor-eu-china-gespraechen-handelskammer-wirbt-fuer-dialog",
+      "published": "Tue, 06 Oct 2026 00:00:04 -0000",
+      "published_display": "06.10.2026 · 00:00 Uhr"
+    },
     {
       "title": "Saudi-Arabien: Huthi-Miliz greift Saudi-Arabiens Hauptstadt Riad an",
       "summary": "In Saudi-Arabien werden Explosionen gemeldet, die Huthi-Miliz bekennt sich zu Angriffen. Die von Saudi-Arabien angeführte Militärkooperation meldet indes Erfolge.",
@@ -36,7 +44,7 @@
     },
     {
       "title": "Rumänien: Rumäniens Präsident schlägt vierten Kandidaten als Regierungschef vor",
-      "summary": "Der rumänische Präsident Nicusor Dan will Neuwahlen verhindern. Nach dem Sturz der Regierung stellt er nun den vierten Kandidaten für das Amt des Ministerpräsidenten vor.",
+      "summary": "Der rumänische Präsident Nicușor Dan will Neuwahlen verhindern. Nach dem Sturz der Regierung stellt er nun den vierten Kandidaten für das Amt des Ministerpräsidenten vor.",
       "image": "https://img.zeit.de/politik/2026-10/romania-politics-bild/original__640x360",
       "link": "https://www.zeit.de/politik/ausland/2026-10/rumaenien-luca-niculescu-nicusor-dan-aur-politische-krise",
       "published": "Mon, 05 Oct 2026 22:52:39 -0000",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/05/augenzeuge-von-flugdrama-im-cockpit-war-niemand",
       "published": "Mon, 05 Oct 2026 20:03:03 -0000",
       "published_display": "05.10.2026 · 20:03 Uhr"
-    },
-    {
-      "title": "Ermittlungen laufen: 16-Jährige stirbt bei Unfall mit Kleinlaster im Münsterland",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/16-jaehrige-stirbt-bei-unfall-mit-kleinlaster-im-muensterland-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/16-jaehrige-stirbt-bei-unfall-mit-kleinlaster-im-muensterland",
-      "published": "Mon, 05 Oct 2026 19:23:38 -0000",
-      "published_display": "05.10.2026 · 19:23 Uhr"
     }
   ]
 }
