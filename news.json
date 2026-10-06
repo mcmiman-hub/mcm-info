@@ -1,14 +1,38 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-06T18:21:11.973049+00:00",
+  "updated": "2026-10-06T18:40:56.318337+00:00",
   "items": [
+    {
+      "title": "Farben der Liebe: Festival of Lights - mit Westbam im Berliner Dom",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/06/festival-of-lights-mit-westbam-im-berliner-dom-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/06/festival-of-lights-mit-westbam-im-berliner-dom",
+      "published": "Tue, 06 Oct 2026 18:30:02 -0000",
+      "published_display": "06.10.2026 · 18:30 Uhr"
+    },
     {
       "title": "Fußball-Nachwuchs: Deutsche U21 bejubelt EM-Ticket vor großer Kulisse",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-10/06/deutsche-u21-bejubelt-em-ticket-vor-grosser-kulisse-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-10/06/deutsche-u21-bejubelt-em-ticket-vor-grosser-kulisse",
-      "published": "Tue, 06 Oct 2026 18:18:34 -0000",
-      "published_display": "06.10.2026 · 18:18 Uhr"
+      "published": "Tue, 06 Oct 2026 18:29:32 -0000",
+      "published_display": "06.10.2026 · 18:29 Uhr"
+    },
+    {
+      "title": "Einsatz am Abend: Polizeischüsse am Stockholmer Schloss - Mann verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/06/schuesse-am-stockholmer-schloss-polizei-nimmt-mann-fest-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/06/schuesse-am-stockholmer-schloss-polizei-nimmt-mann-fest",
+      "published": "Tue, 06 Oct 2026 18:28:52 -0000",
+      "published_display": "06.10.2026 · 18:28 Uhr"
+    },
+    {
+      "title": "Gleichberechtigte Beziehung: »Ich fühlte mich, als würde ich noch einmal neu mit der Liebe beginnen«",
+      "summary": "Nach schmerzhaften Erfahrungen findet Selin mit Clara eine Liebe auf Augenhöhe – und erfährt, wie es sich anfühlt, frei und gleichberechtigt zu sein.",
+      "image": "https://img.zeit.de/zeit-magazin/2026/42/ich-fuehlte-mich-als-wuerde-ich-noch-einmal-neu-mit-der-liebe-beginnen-bild-1/original__640x360",
+      "link": "https://www.zeit.de/zeit-magazin/2026/42/gleichberechtigte-beziehung-sexuelle-gewalt-eifersucht-augenhoehe",
+      "published": "Tue, 06 Oct 2026 18:27:46 -0000",
+      "published_display": "06.10.2026 · 18:27 Uhr"
     },
     {
       "title": "Größerer Einsatz: Haus in Greven brennt lichterloh - keine Personen im Gebäude",
@@ -17,14 +41,6 @@
       "link": "https://www.zeit.de/news/2026-10/06/haus-in-greven-brennt-lichterloh-keine-personen-im-gebaeude",
       "published": "Tue, 06 Oct 2026 18:12:05 -0000",
       "published_display": "06.10.2026 · 18:12 Uhr"
-    },
-    {
-      "title": "Einsatz am Abend: Schüsse am Stockholmer Schloss - Polizei nimmt Mann fest",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/06/schuesse-am-stockholmer-schloss-polizei-nimmt-mann-fest-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/06/schuesse-am-stockholmer-schloss-polizei-nimmt-mann-fest",
-      "published": "Tue, 06 Oct 2026 18:10:17 -0000",
-      "published_display": "06.10.2026 · 18:10 Uhr"
     },
     {
       "title": "Sachsen-Anhalt: Wegen AfD: Spontaner Protestmarsch der SPD-Fraktion",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/06/frankreich-erwartet-neuen-hoehepunkt-der-schuelerproteste",
       "published": "Tue, 06 Oct 2026 17:21:54 -0000",
       "published_display": "06.10.2026 · 17:21 Uhr"
-    },
-    {
-      "title": "Schülerproteste in Frankreich: »Finger weg von unseren Kindern",
-      "summary": "Ein Jugendlicher verlor ein Auge, ein anderer einen Arm: Die Schulproteste in Frankreich eskalieren. Was passiert am bislang größten Streiktag?",
-      "image": "https://img.zeit.de/bildung/2026-10/schuelerproteste-frankreich-marseille-schule-streik-bild-08/original__640x360",
-      "link": "https://www.zeit.de/bildung/2026-10/schuelerproteste-frankreich-marseille-schule-streik",
-      "published": "Tue, 06 Oct 2026 17:13:39 -0000",
-      "published_display": "06.10.2026 · 17:13 Uhr"
-    },
-    {
-      "title": "Tote und Verletzte: Auffahrunfall auf Autobahn bei Aachen mit einem Toten",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/06/auffahrunfall-auf-autobahn-bei-aachen-mit-einem-toten-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/06/auffahrunfall-auf-autobahn-bei-aachen-mit-einem-toten",
-      "published": "Tue, 06 Oct 2026 17:10:36 -0000",
-      "published_display": "06.10.2026 · 17:10 Uhr"
     }
   ]
 }
