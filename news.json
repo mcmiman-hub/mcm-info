@@ -1,7 +1,63 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-06T08:01:40.193085+00:00",
+  "updated": "2026-10-06T08:21:10.200443+00:00",
   "items": [
+    {
+      "title": "Spionageverdacht: Ehemaliger BND-Chef August Hanning festgenommen",
+      "summary": "Der frühere Geheimdienstchef August Hanning wurde festgenommen. Ihm wird unter anderem Spionage vorgeworfen.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-10/august-hanning-vor-nsa-untersuchungsausschuss-bild-2/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-10/august-hanning-bnd-festnahme-spionage-mitarbeiter",
+      "published": "Tue, 06 Oct 2026 08:20:24 -0000",
+      "published_display": "06.10.2026 · 08:20 Uhr"
+    },
+    {
+      "title": "Klimaschutz: Brüssel will Methan-Regeln wegen Energiekrise verschieben",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/06/bruessel-will-methan-regeln-wegen-energiekrise-verschieben-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/06/bruessel-will-methan-regeln-wegen-energiekrise-verschieben",
+      "published": "Tue, 06 Oct 2026 08:14:12 -0000",
+      "published_display": "06.10.2026 · 08:14 Uhr"
+    },
+    {
+      "title": "Spionageverdacht: Ex-BND-Präsident Hanning wegen Spionageverdacht festgenommen",
+      "summary": "",
+      "image": "https://img.zeit.de/administratives/sharing/fallback-image-die-zeit/wide__1300x731",
+      "link": "https://www.zeit.de/news/2026-10/06/ex-bnd-praesident-hanning-wegen-spionageverdacht-festgenommen",
+      "published": "Tue, 06 Oct 2026 08:12:54 -0000",
+      "published_display": "06.10.2026 · 08:12 Uhr"
+    },
+    {
+      "title": "Gaza: Israel versetzt Armee vor 7. Oktober in Alarmbereitschaft",
+      "summary": "Die israelische Regierung will Geheimdienstinformationen zu möglichen neuen Hamas-Angriffen haben. Verteidigungsminister Katz droht den Menschen in Gaza. Das Liveblog",
+      "image": "https://img.zeit.de/politik/ausland/2026-10/israeli-settlers-weekly-tour-in-hebron-in-the-israeli-occupied-west-bank-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2025-10/krieg-gaza-israel-hamas-liveblog",
+      "published": "Tue, 06 Oct 2026 08:07:24 -0000",
+      "published_display": "06.10.2026 · 08:07 Uhr"
+    },
+    {
+      "title": "Präsidentschaftswahl in Brasilien: Trump nach Wahlerfolg von Bolsonaro-Sohn in Brasilien erfreut",
+      "summary": "Bisher hat Trump den Sohn Jair Bolsonaros nicht offen unterstützt. Nach dessen Einzug in die Stichwahl in Brasilien spricht der US-Präsident aber von einem »großen Sieg«.",
+      "image": "https://img.zeit.de/politik/ausland/2026-10/praesidentschaftswahl-brasilien-flavio-bolsonaro-lula-da-silva-stichwahl-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/praesidentschaftswahl-brasilien-flavio-bolsonaro-lula-da-silva-stichwahl",
+      "published": "Tue, 06 Oct 2026 08:05:51 -0000",
+      "published_display": "06.10.2026 · 08:05 Uhr"
+    },
+    {
+      "title": "Innenminister Redmann: Minister: Keine Unterlassung zu Linken und Clankriminalität",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/06/minister-keine-unterlassung-zu-linken-und-clankriminalitaet-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/06/minister-keine-unterlassung-zu-linken-und-clankriminalitaet",
+      "published": "Tue, 06 Oct 2026 08:05:43 -0000",
+      "published_display": "06.10.2026 · 08:05 Uhr"
+    },
+    {
+      "title": "Notfälle: Großeinsatz an Schule im Kreis Verden",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/06/grosseinsatz-an-schule-im-kreis-verden-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/06/grosseinsatz-an-schule-im-kreis-verden",
+      "published": "Tue, 06 Oct 2026 08:04:42 -0000",
+      "published_display": "06.10.2026 · 08:04 Uhr"
+    },
     {
       "title": "Bevölkerungsentwicklung: So zukunftsfähig ist Ihre Region",
       "summary": "Neue Daten zeigen, wie sich Deutschland demografisch und wirtschaftlich entwickelt. Alter, Kinder, Bildung: Was die Prognosen bis 2045 über Ihren Landkreis verraten.",
@@ -9,14 +65,6 @@
       "link": "https://www.zeit.de/arbeit/2026-10/bevoelkerungsentwicklung-landkreise-deutschland-demografie-daten",
       "published": "Tue, 06 Oct 2026 08:00:32 -0000",
       "published_display": "06.10.2026 · 08:00 Uhr"
-    },
-    {
-      "title": "Gaza: Israel versetzt Armee vor 7. Oktober in Alarmbereitschaft",
-      "summary": "Die israelische Regierung will Geheimdienstinformationen zu möglichen neuen Hamas-Angriffen haben. Verteidigungsminister Katz droht den Menschen in Gaza. Das Liveblog",
-      "image": "https://img.zeit.de/politik/ausland/2026-10/israeli-settlers-weekly-tour-in-hebron-in-the-israeli-occupied-west-bank-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2025-10/krieg-gaza-israel-hamas-liveblog",
-      "published": "Tue, 06 Oct 2026 07:59:34 -0000",
-      "published_display": "06.10.2026 · 07:59 Uhr"
     },
     {
       "title": "Bahn: Güterzug mit Gegenstand kollidiert - Ausfälle im Nahverkehr",
@@ -67,60 +115,12 @@
       "published_display": "06.10.2026 · 07:28 Uhr"
     },
     {
-      "title": "Notfälle: Großeinsatz an Schule im Kreis Verden",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/06/grosseinsatz-an-schule-im-kreis-verden-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/06/grosseinsatz-an-schule-im-kreis-verden",
-      "published": "Tue, 06 Oct 2026 07:20:58 -0000",
-      "published_display": "06.10.2026 · 07:20 Uhr"
-    },
-    {
       "title": "Regionalliga: Pokal-Schreck Jeddeloh II trennt sich von Trainer",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-10/06/pokal-schreck-jeddeloh-ii-trennt-sich-von-trainer-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-10/06/pokal-schreck-jeddeloh-ii-trennt-sich-von-trainer",
       "published": "Tue, 06 Oct 2026 07:14:09 -0000",
       "published_display": "06.10.2026 · 07:14 Uhr"
-    },
-    {
-      "title": "Fotografie: Bilder des Tages",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/06/bilder-des-tages-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/06/bilder-des-tages",
-      "published": "Tue, 06 Oct 2026 07:14:04 -0000",
-      "published_display": "06.10.2026 · 07:14 Uhr"
-    },
-    {
-      "title": "Neu besetzter Krimi-Klassiker: Kieler «Tatort»: Mit Frauen-Power und Thriller-Flair",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/06/kieler-tatort-mit-frauen-power-und-thriller-flair-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/06/kieler-tatort-mit-frauen-power-und-thriller-flair",
-      "published": "Tue, 06 Oct 2026 07:12:18 -0000",
-      "published_display": "06.10.2026 · 07:12 Uhr"
-    },
-    {
-      "title": "Auf Autobahn 30: Lastwagen kracht gegen Baustellensicherung - lange Sperrung",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/06/lastwagen-kracht-gegen-baustellensicherung-lange-sperrung-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/06/lastwagen-kracht-gegen-baustellensicherung-lange-sperrung",
-      "published": "Tue, 06 Oct 2026 07:12:07 -0000",
-      "published_display": "06.10.2026 · 07:12 Uhr"
-    },
-    {
-      "title": "Todesstrafe: Trump genehmigt erste Militärhinrichtung seit über 60 Jahren",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/06/trump-genehmigt-erste-militaerhinrichtung-seit-ueber-60-jahren-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/06/trump-genehmigt-erste-militaerhinrichtung-seit-ueber-60-jahren",
-      "published": "Tue, 06 Oct 2026 07:08:46 -0000",
-      "published_display": "06.10.2026 · 07:08 Uhr"
-    },
-    {
-      "title": "Basketball: «Wird uns guttun»: Alba Berlin startet in Champions League",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/06/wird-uns-guttun-alba-berlin-startet-in-champions-league-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/06/wird-uns-guttun-alba-berlin-startet-in-champions-league",
-      "published": "Tue, 06 Oct 2026 07:05:38 -0000",
-      "published_display": "06.10.2026 · 07:05 Uhr"
     }
   ]
 }
