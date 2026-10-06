@@ -1,9 +1,33 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-06T05:59:31.683738+00:00",
+  "updated": "2026-10-06T06:24:29.054496+00:00",
   "items": [
     {
-      "title": "USA-Bomber in Großbritannien: US-Bomber wegen möglichen Drohnenangriffs von Stützpunkt abgezogen",
+      "title": "Auszeichnung: Nobelpreis-Träger: Gezweifelt wegen fehlender Unterstützung",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/06/nobelpreis-traeger-gezweifelt-wegen-fehlender-unterstuetzung-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/06/nobelpreis-traeger-gezweifelt-wegen-fehlender-unterstuetzung",
+      "published": "Tue, 06 Oct 2026 06:21:52 -0000",
+      "published_display": "06.10.2026 · 06:21 Uhr"
+    },
+    {
+      "title": "Vier Fahrzeuge beteiligt: Acht Verletzte bei Unfall auf A6 - Vollsperrung aufgehoben",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/06/acht-verletzte-bei-unfall-auf-a6-vollsperrung-aufgehoben-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/06/acht-verletzte-bei-unfall-auf-a6-vollsperrung-aufgehoben",
+      "published": "Tue, 06 Oct 2026 06:18:59 -0000",
+      "published_display": "06.10.2026 · 06:18 Uhr"
+    },
+    {
+      "title": "Jeffrey Archer: Britischer Schriftsteller Jeffrey Archer mit 86 Jahren gestorben",
+      "summary": "Der Autor vieler Bestseller und ehemalige britische Politiker Jeffrey Archer ist tot. Erst vor kurzem signierte er noch Bücher und sollte seinen neuen Roman vorstellen.",
+      "image": "https://img.zeit.de/feuilleton/2026-10/jeffrey-archer-tod-autor-bestseller-grossbritannien-foto-1/original__640x360",
+      "link": "https://www.zeit.de/feuilleton/2026-10/jeffrey-archer-tod-autor-bestseller-grossbritannien",
+      "published": "Tue, 06 Oct 2026 06:18:37 -0000",
+      "published_display": "06.10.2026 · 06:18 Uhr"
+    },
+    {
+      "title": "US-Bomber in Großbritannien: US-Bomber wegen möglichen Drohnenangriffs von Stützpunkt abgezogen",
       "summary": "Die Sorge vor einem Drohnenangriff führte offenbar zum überraschenden US-Abzug von einem Stützpunkt in England. Militärkreise gehen von einem iranischen Komplott aus.",
       "image": "https://img.zeit.de/politik/ausland/2026-10/usa-b-1-bomber-grossbritannien-raf-fairford-iran-foto-1/original__640x360",
       "link": "https://www.zeit.de/politik/ausland/2026-10/usa-b-1-bomber-grossbritannien-raf-fairford-iran",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/06/schon-wieder-starker-gestank-in-siegen-ursache-unklar",
       "published": "Tue, 06 Oct 2026 05:28:10 -0000",
       "published_display": "06.10.2026 · 05:28 Uhr"
-    },
-    {
-      "title": "Grand Exhibition: Die große Kunst kleiner Mechanik",
-      "summary": "In einer Schau in Mailand präsentiert Patek Philippe besondere Uhren aus Jahrhunderten. Hier kann der Besucher nachvollziehen, wie Handwerk zu Luxus wird.",
-      "image": "https://img.zeit.de/zeit-magazin/2026-10/watch-art-grand-exhibition-patek-bild-1/original__640x360",
-      "link": "https://www.zeit.de/zeit-magazin/mode-design/2026-10/patek-philippe-grand-exhibition-mailand",
-      "published": "Tue, 06 Oct 2026 05:23:50 -0000",
-      "published_display": "06.10.2026 · 05:23 Uhr"
-    },
-    {
-      "title": "Schusswaffen: Gewaltkriminalität mit nachgebauten Pistolen aus der Türkei",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/06/gewaltkriminalitaet-mit-nachgebauten-pistolen-aus-der-tuerkei-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/06/gewaltkriminalitaet-mit-nachgebauten-pistolen-aus-der-tuerkei",
-      "published": "Tue, 06 Oct 2026 05:22:37 -0000",
-      "published_display": "06.10.2026 · 05:22 Uhr"
-    },
-    {
-      "title": "Laute Schreie: Mann greift Polizisten an und beißt zu",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/06/mann-greift-polizisten-an-und-beisst-zu-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/06/mann-greift-polizisten-an-und-beisst-zu",
-      "published": "Tue, 06 Oct 2026 05:22:29 -0000",
-      "published_display": "06.10.2026 · 05:22 Uhr"
     }
   ]
 }
