@@ -1,7 +1,95 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-06T06:24:29.054496+00:00",
+  "updated": "2026-10-06T06:53:31.002667+00:00",
   "items": [
+    {
+      "title": "Tobias Rausch: »Ich bin kein Hardliner«",
+      "summary": "Er stand im Zentrum der Vetternwirtschaftsaffäre, heute soll er erster AfD-Landtagspräsident werden. Respekt vor dem hohen Amt? Tobias Rausch hat seine eigene Sichtweise.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-10/tobias-rausch-afd-landtagspraesident-sachsen-anhalt-bild-3/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-10/tobias-rausch-afd-landtagspraesident-sachsen-anhalt",
+      "published": "Tue, 06 Oct 2026 06:42:43 -0000",
+      "published_display": "06.10.2026 · 06:42 Uhr"
+    },
+    {
+      "title": "«Rosenheim Cops»: Sarah Thonig kann bayerische Gemütlichkeit auch privat",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/06/sarah-thonig-kann-bayerische-gemuetlichkeit-auch-privat-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/06/sarah-thonig-kann-bayerische-gemuetlichkeit-auch-privat",
+      "published": "Tue, 06 Oct 2026 06:39:22 -0000",
+      "published_display": "06.10.2026 · 06:39 Uhr"
+    },
+    {
+      "title": "Konjunktur: Industrie-Auftragseingang sinkt überraschend deutlich",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/06/industrie-auftragseingang-sinkt-ueberraschend-deutlich-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/06/industrie-auftragseingang-sinkt-ueberraschend-deutlich",
+      "published": "Tue, 06 Oct 2026 06:38:50 -0000",
+      "published_display": "06.10.2026 · 06:38 Uhr"
+    },
+    {
+      "title": "Traditionsbrauerei: Brauerei Wolters vor dem Aus - Gewerkschaft sieht Hoffnung",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/06/brauerei-wolters-vor-dem-aus-gewerkschaft-sieht-hoffnung-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/06/brauerei-wolters-vor-dem-aus-gewerkschaft-sieht-hoffnung",
+      "published": "Tue, 06 Oct 2026 06:38:16 -0000",
+      "published_display": "06.10.2026 · 06:38 Uhr"
+    },
+    {
+      "title": "Vor Kontrolle geflüchtet: Mann fährt bei Flucht vor Polizei gegen Ampelmast",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/06/mann-faehrt-bei-flucht-vor-polizei-gegen-ampelmast-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/06/mann-faehrt-bei-flucht-vor-polizei-gegen-ampelmast",
+      "published": "Tue, 06 Oct 2026 06:36:13 -0000",
+      "published_display": "06.10.2026 · 06:36 Uhr"
+    },
+    {
+      "title": "Brände: Dreifachmord - Polizei ermittelt nach Brand gegen Bewohner",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/06/dreifachmord-polizei-ermittelt-nach-brand-gegen-bewohner-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/06/dreifachmord-polizei-ermittelt-nach-brand-gegen-bewohner",
+      "published": "Tue, 06 Oct 2026 06:32:47 -0000",
+      "published_display": "06.10.2026 · 06:32 Uhr"
+    },
+    {
+      "title": "Verkehrsunfälle: Reflektierende Pfähle erleichtern Suche nach Wildunfällen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/06/reflektierende-pfaehle-erleichtern-suche-nach-wildunfaellen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/06/reflektierende-pfaehle-erleichtern-suche-nach-wildunfaellen",
+      "published": "Tue, 06 Oct 2026 06:32:34 -0000",
+      "published_display": "06.10.2026 · 06:32 Uhr"
+    },
+    {
+      "title": "Ukrainekarte aktuell: Ukraine erobert Gelände in Region Charkiw zurück",
+      "summary": "Die ukrainische Armee meldet die Einnahme von rund zehn Quadratkilometern nahe der Grenze zu Russland. Russische Truppen infiltrieren Dobropillja.",
+      "image": "https://img.zeit.de/politik/ausland/2023-09/karte-ukraine-krieg-russland-frontverlauf-truppenbewegungen-teaserbild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/ukraine-russland-frontverlauf-krieg-karte-aktuell",
+      "published": "Tue, 06 Oct 2026 06:30:23 -0000",
+      "published_display": "06.10.2026 · 06:30 Uhr"
+    },
+    {
+      "title": "Lagerhalle geräumt: Gefahrstoff ausgelaufen - stundenlanger Feuerwehreinsatz",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/06/gefahrstoff-ausgelaufen-stundenlanger-feuerwehreinsatz-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/06/gefahrstoff-ausgelaufen-stundenlanger-feuerwehreinsatz",
+      "published": "Tue, 06 Oct 2026 06:28:54 -0000",
+      "published_display": "06.10.2026 · 06:28 Uhr"
+    },
+    {
+      "title": "Tarifverhandlungen: IG Metall lädt Metall- und Elektrobranche zu Verhandlungen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/06/ig-metall-laedt-metall-und-elektrobranche-zu-verhandlungen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/06/ig-metall-laedt-metall-und-elektrobranche-zu-verhandlungen",
+      "published": "Tue, 06 Oct 2026 06:27:39 -0000",
+      "published_display": "06.10.2026 · 06:27 Uhr"
+    },
+    {
+      "title": "Nach Bombendrohung: Betrieb am Flughafen Stuttgart läuft weitgehend wieder",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/06/betrieb-am-flughafen-stuttgart-laeuft-weitgehend-wieder-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/06/betrieb-am-flughafen-stuttgart-laeuft-weitgehend-wieder",
+      "published": "Tue, 06 Oct 2026 06:22:50 -0000",
+      "published_display": "06.10.2026 · 06:22 Uhr"
+    },
     {
       "title": "Auszeichnung: Nobelpreis-Träger: Gezweifelt wegen fehlender Unterstützung",
       "summary": "",
@@ -20,7 +108,7 @@
     },
     {
       "title": "Jeffrey Archer: Britischer Schriftsteller Jeffrey Archer mit 86 Jahren gestorben",
-      "summary": "Der Autor vieler Bestseller und ehemalige britische Politiker Jeffrey Archer ist tot. Erst vor kurzem signierte er noch Bücher und sollte seinen neuen Roman vorstellen.",
+      "summary": "Der Autor vieler Bestseller und ehemalige britische Politiker Jeffrey Archer ist tot. Erst vor Kurzem signierte er noch Bücher und sollte seinen neuen Roman vorstellen.",
       "image": "https://img.zeit.de/feuilleton/2026-10/jeffrey-archer-tod-autor-bestseller-grossbritannien-foto-1/original__640x360",
       "link": "https://www.zeit.de/feuilleton/2026-10/jeffrey-archer-tod-autor-bestseller-grossbritannien",
       "published": "Tue, 06 Oct 2026 06:18:37 -0000",
@@ -30,97 +118,9 @@
       "title": "US-Bomber in Großbritannien: US-Bomber wegen möglichen Drohnenangriffs von Stützpunkt abgezogen",
       "summary": "Die Sorge vor einem Drohnenangriff führte offenbar zum überraschenden US-Abzug von einem Stützpunkt in England. Militärkreise gehen von einem iranischen Komplott aus.",
       "image": "https://img.zeit.de/politik/ausland/2026-10/usa-b-1-bomber-grossbritannien-raf-fairford-iran-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/usa-b-1-bomber-grossbritannien-raf-fairford-iran",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/usa-b-1-bomber-grossbritannien-raf-fairford-iran-gxe",
       "published": "Tue, 06 Oct 2026 05:57:27 -0000",
       "published_display": "06.10.2026 · 05:57 Uhr"
-    },
-    {
-      "title": "Kriminalität: Polizei fasst zwei Einbrecher - und prüft Einbruchsserie",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/06/polizei-fasst-zwei-einbrecher-und-prueft-einbruchsserie-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/06/polizei-fasst-zwei-einbrecher-und-prueft-einbruchsserie",
-      "published": "Tue, 06 Oct 2026 05:55:52 -0000",
-      "published_display": "06.10.2026 · 05:55 Uhr"
-    },
-    {
-      "title": "Wetteraussichten: Freundliches Herbstwetter bis zur Wochenmitte",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/06/freundliches-herbstwetter-bis-zur-wochenmitte-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/06/freundliches-herbstwetter-bis-zur-wochenmitte",
-      "published": "Tue, 06 Oct 2026 05:54:26 -0000",
-      "published_display": "06.10.2026 · 05:54 Uhr"
-    },
-    {
-      "title": "Landgericht Braunschweig: Entscheidung über Schmerzensgeld nach Germanwings-Absturz",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/06/entscheidung-ueber-schmerzensgeld-nach-germanwings-absturz-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/06/entscheidung-ueber-schmerzensgeld-nach-germanwings-absturz",
-      "published": "Tue, 06 Oct 2026 05:53:27 -0000",
-      "published_display": "06.10.2026 · 05:53 Uhr"
-    },
-    {
-      "title": "Bahn: Güterzug mit Gegenstand kollidiert - Ausfälle im Nahverkehr",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/06/gueterzug-mit-gegenstand-kollidiert-ausfaelle-im-nahverkehr-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/06/gueterzug-mit-gegenstand-kollidiert-ausfaelle-im-nahverkehr",
-      "published": "Tue, 06 Oct 2026 05:47:44 -0000",
-      "published_display": "06.10.2026 · 05:47 Uhr"
-    },
-    {
-      "title": "Erst bis 22 Grad, dann kälter: Auf Nebel folgen Regen und Böen in Thüringen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/06/auf-nebel-folgen-regen-und-boeen-in-thueringen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/06/auf-nebel-folgen-regen-und-boeen-in-thueringen",
-      "published": "Tue, 06 Oct 2026 05:41:30 -0000",
-      "published_display": "06.10.2026 · 05:41 Uhr"
-    },
-    {
-      "title": "Aufräumen: Sie sieht was, was er auch sieht",
-      "summary": "Das Familienchaos räumen meistens Frauen weg. Die Forschung zeigt: Es ist nicht so, dass Männer die Unordnung nicht sehen. Mit Frauen macht sie aber körperlich etwas.",
-      "image": "https://img.zeit.de/familie/2026-10/aufraeumen-ordnung-haushalt-maenner-frauen/original__640x360",
-      "link": "https://www.zeit.de/familie/2026-10/aufraeumen-ordnung-haushalt-maenner-frauen-cortisol",
-      "published": "Tue, 06 Oct 2026 05:38:48 -0000",
-      "published_display": "06.10.2026 · 05:38 Uhr"
-    },
-    {
-      "title": "Wetteraussichten: Auf goldenes Oktoberwetter folgen Regen und Gewitter",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/06/auf-goldenes-oktoberwetter-folgen-regen-und-gewitter-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/06/auf-goldenes-oktoberwetter-folgen-regen-und-gewitter",
-      "published": "Tue, 06 Oct 2026 05:38:28 -0000",
-      "published_display": "06.10.2026 · 05:38 Uhr"
-    },
-    {
-      "title": "Tennisturnier in Peking: Nach Kontroverse: US-Tennisstar Gauff prangert Rassismus an",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/06/nach-kontroverse-us-tennisstar-gauff-prangert-rassismus-an-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/06/nach-kontroverse-us-tennisstar-gauff-prangert-rassismus-an",
-      "published": "Tue, 06 Oct 2026 05:36:10 -0000",
-      "published_display": "06.10.2026 · 05:36 Uhr"
-    },
-    {
-      "title": "Kinder in Israel: Die Generation Trauma wird den Nahen Osten prägen",
-      "summary": "Der Horror vom 7. Oktober lässt sich kaum verarbeiten. Israels Jugend leidet darunter bis heute. In Gaza ist kaum ein Kind nicht traumatisiert. Sie werden Hilfe brauchen.",
-      "image": "https://img.zeit.de/politik/ausland/2026-10/kinder-israel-trauma-7-oktober-5vor8-bild-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/kinder-israel-trauma-7-oktober-5vor8",
-      "published": "Tue, 06 Oct 2026 05:35:08 -0000",
-      "published_display": "06.10.2026 · 05:35 Uhr"
-    },
-    {
-      "title": "Literatur: Bestsellerautor Jeffrey Archer mit 86 Jahren gestorben",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/06/bestsellerautor-jeffrey-archer-mit-86-jahren-gestorben-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/06/bestsellerautor-jeffrey-archer-mit-86-jahren-gestorben",
-      "published": "Tue, 06 Oct 2026 05:33:39 -0000",
-      "published_display": "06.10.2026 · 05:33 Uhr"
-    },
-    {
-      "title": "Unangenehmer Geruch: Schon wieder starker Gestank in Siegen - Ursache unklar",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/06/schon-wieder-starker-gestank-in-siegen-ursache-unklar-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/06/schon-wieder-starker-gestank-in-siegen-ursache-unklar",
-      "published": "Tue, 06 Oct 2026 05:28:10 -0000",
-      "published_display": "06.10.2026 · 05:28 Uhr"
     }
   ]
 }
