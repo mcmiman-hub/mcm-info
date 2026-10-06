@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-06T17:17:25.319924+00:00",
+  "updated": "2026-10-06T17:32:06.593688+00:00",
   "items": [
+    {
+      "title": "Physiknobelpreis: Die Geister, die der Nobelpreisträger rief ...",
+      "summary": "Neutrinos sind die Phantome des Universums. Im ewigen Eis gingen sie in die Falle – und veränderten unseren Blick aufs All. Die Geschichte einer extragalaktischen Jagd.",
+      "image": "https://img.zeit.de/wissenschaft/2026-10/physik-nobelpreis-francis-halzen-neutrinos-astronomie-bild-03/original__640x360",
+      "link": "https://www.zeit.de/wissenschaft/2026-10/physik-nobelpreis-francis-halzen-neutrinos-astronomie",
+      "published": "Tue, 06 Oct 2026 17:31:22 -0000",
+      "published_display": "06.10.2026 · 17:31 Uhr"
+    },
+    {
+      "title": "Aktionstag in Frankreich: Schülerproteste weiten sich aus - Krisensitzung im Élysée",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/06/frankreich-erwartet-neuen-hoehepunkt-der-schuelerproteste-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/06/frankreich-erwartet-neuen-hoehepunkt-der-schuelerproteste",
+      "published": "Tue, 06 Oct 2026 17:21:54 -0000",
+      "published_display": "06.10.2026 · 17:21 Uhr"
+    },
     {
       "title": "Schülerproteste in Frankreich: »Finger weg von unseren Kindern",
       "summary": "Ein Jugendlicher verlor ein Auge, ein anderer einen Arm: Die Schulproteste in Frankreich eskalieren. Was passiert am bislang größten Streiktag?",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/06/linke-abgeordnete-klein-soll-parlamentspraesidentin-werden",
       "published": "Tue, 06 Oct 2026 16:16:37 -0000",
       "published_display": "06.10.2026 · 16:16 Uhr"
-    },
-    {
-      "title": "Tobias Rausch: Vier Stimmen für die AfD – kamen sie aus der CDU?",
-      "summary": "Tobias Rausch von der AfD wird Landtagspräsident in Sachsen-Anhalt – durch einen Deal mit der CDU? Und: Möglicher Spionageskandal um früheren BND-Präsidenten",
-      "image": "https://img.zeit.de/politik/2026-10/tobias-rausch-landtagspraesident-sachsen-nachrichtenpodcast-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/2026-10/tobias-rausch-landtagspraesident-sachsen-nachrichtenpodcast",
-      "published": "Tue, 06 Oct 2026 16:10:35 -0000",
-      "published_display": "06.10.2026 · 16:10 Uhr"
-    },
-    {
-      "title": "Landtag von Sachsen-Anhalt: AfD stellt Präsident und Vize – SPD-Kandidat verfehlt Mehrheit klar",
-      "summary": "Der Landtag wird künftig von zwei Politikern einer rechtsextremen Partei und einem der CDU geleitet. Der SPD-Kandidat scheitert deutlich. Das Liveblog zum Nachlesen",
-      "image": "https://img.zeit.de/politik/deutschland/2026-10/landtag-sachsen-anhalt-konstituierung-afd-bsw-live-tillschneider-bild-2/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-10/landtag-sachsen-anhalt-konstituierung-afd-bsw-live",
-      "published": "Tue, 06 Oct 2026 16:09:16 -0000",
-      "published_display": "06.10.2026 · 16:09 Uhr"
     }
   ]
 }
