@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-06T01:18:40.603373+00:00",
+  "updated": "2026-10-06T01:33:24.065448+00:00",
   "items": [
+    {
+      "title": "Semesterbeginn: Grüne dringen auf mehr Wohnheimplätze für Studierende",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/06/gruene-dringen-auf-mehr-wohnheimplaetze-fuer-studierende-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/06/gruene-dringen-auf-mehr-wohnheimplaetze-fuer-studierende",
+      "published": "Tue, 06 Oct 2026 01:30:09 -0000",
+      "published_display": "06.10.2026 · 01:30 Uhr"
+    },
+    {
+      "title": "Das Geschäft mit dem Gewicht: Abnehmspritze: Wird in Deutschland bald weniger gegessen?",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/06/abnehmspritze-wird-in-deutschland-bald-weniger-gegessen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/06/abnehmspritze-wird-in-deutschland-bald-weniger-gegessen",
+      "published": "Tue, 06 Oct 2026 01:30:08 -0000",
+      "published_display": "06.10.2026 · 01:30 Uhr"
+    },
+    {
+      "title": "Kritikpunkt Vertragsstrafe: Gericht prüft erstmals Landarztquoten-Verträge",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/06/gericht-prueft-erstmals-landarztquoten-vertraege-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/06/gericht-prueft-erstmals-landarztquoten-vertraege",
+      "published": "Tue, 06 Oct 2026 01:30:07 -0000",
+      "published_display": "06.10.2026 · 01:30 Uhr"
+    },
     {
       "title": "Vorzeitige Rente: Abschläge bei vorzeitiger Rente steigen schnell",
       "summary": "Wer vor dem Regelalter in Rente geht, bekommt einen festen Prozentsatz abgezogen. In Euro hat sich dieser Abschlag aber binnen fünf Jahren um 57 Prozent vergrößert.",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/politik/deutschland/2026-10/kriegsdienstverweigerung-antraege-bundeswehr-wehrdienst-reservisten",
       "published": "Mon, 05 Oct 2026 22:01:23 -0000",
       "published_display": "05.10.2026 · 22:01 Uhr"
-    },
-    {
-      "title": "Kalenderblatt: Was geschah am 6. Oktober?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/was-geschah-am-6-oktober-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/was-geschah-am-6-oktober",
-      "published": "Mon, 05 Oct 2026 21:55:04 -0000",
-      "published_display": "05.10.2026 · 21:55 Uhr"
-    },
-    {
-      "title": "Unfälle: Tödlicher Frontalzusammenstoß in Mittelhessen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/toedlicher-frontalzusammenstoss-in-mittelhessen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/toedlicher-frontalzusammenstoss-in-mittelhessen",
-      "published": "Mon, 05 Oct 2026 21:42:09 -0000",
-      "published_display": "05.10.2026 · 21:42 Uhr"
-    },
-    {
-      "title": "Infektionskrankheit: Behörde: Laborantin in Sibirien starb nicht an Pest",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/05/behoerde-laborantin-in-sibirien-starb-nicht-an-pest-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/05/behoerde-laborantin-in-sibirien-starb-nicht-an-pest",
-      "published": "Mon, 05 Oct 2026 21:15:03 -0000",
-      "published_display": "05.10.2026 · 21:15 Uhr"
     }
   ]
 }
