@@ -1,14 +1,30 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-06T04:01:15.653212+00:00",
+  "updated": "2026-10-06T04:20:13.968679+00:00",
   "items": [
+    {
+      "title": "Literatur: Bestsellerautor Jeffrey Archer mit 86 Jahren gestorben",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/06/bestsellerautor-jeffrey-archer-mit-86-jahren-gestorben-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/06/bestsellerautor-jeffrey-archer-mit-86-jahren-gestorben",
+      "published": "Tue, 06 Oct 2026 04:12:41 -0000",
+      "published_display": "06.10.2026 · 04:12 Uhr"
+    },
+    {
+      "title": "Wetteraussichten: Der Herbst bringt kühles und nasses Wetter nach NRW",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/06/der-herbst-bringt-kuehles-und-nasses-wetter-nach-nrw-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/06/der-herbst-bringt-kuehles-und-nasses-wetter-nach-nrw",
+      "published": "Tue, 06 Oct 2026 04:03:17 -0000",
+      "published_display": "06.10.2026 · 04:03 Uhr"
+    },
     {
       "title": "Tobias Rausch: Wird heute ein AfD-Politiker zum Landtagspräsidenten gewählt?",
       "summary": "Ein AfD-Mann will Parlamentspräsident in Sachsen-Anhalt werden. Wer ist der Politiker? Und: Ermittlungen nach Vergewaltigungsvorwürfen an US-Elite-Universität",
       "image": "https://img.zeit.de/politik/2026-10/tobias-rausch-sachsen-anhalt-landtagspraesident-afd-nachrichtenpodcast-bild/original__640x360",
       "link": "https://www.zeit.de/politik/2026-10/tobias-rausch-sachsen-anhalt-landtagspraesident-afd-nachrichtenpodcast",
-      "published": "Tue, 06 Oct 2026 04:00:09 -0000",
-      "published_display": "06.10.2026 · 04:00 Uhr"
+      "published": "Tue, 06 Oct 2026 04:03:12 -0000",
+      "published_display": "06.10.2026 · 04:03 Uhr"
     },
     {
       "title": "Elbvertiefung: Der tägliche Newsletter aus Hamburg: Auf diesem Krater liegt »das Augenmerk des gesamten Senats«",
@@ -17,6 +33,14 @@
       "link": "https://www.zeit.de/hamburg/2026-10/elbvertiefung-06-10-2026",
       "published": "Tue, 06 Oct 2026 04:00:06 -0000",
       "published_display": "06.10.2026 · 04:00 Uhr"
+    },
+    {
+      "title": "Brände: Brand in Schwerin – Bewohner mit Drehleiter gerettet",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/06/brand-in-schwerin-bewohner-mit-drehleiter-gerettet-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/06/brand-in-schwerin-bewohner-mit-drehleiter-gerettet",
+      "published": "Tue, 06 Oct 2026 03:59:34 -0000",
+      "published_display": "06.10.2026 · 03:59 Uhr"
     },
     {
       "title": "Regionalliga: Pokal-Schreck Jeddeloh II trennt sich von Trainer",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/06/neuendorf-fordert-rote-karte-fuer-infantino",
       "published": "Tue, 06 Oct 2026 03:01:04 -0000",
       "published_display": "06.10.2026 · 03:01 Uhr"
-    },
-    {
-      "title": "Verkehr: Busse können Neuwied-Irlich wegen Bauarbeiten nicht anfahren",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/06/busse-koennen-neuwied-irlich-wegen-bauarbeiten-nicht-anfahren-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/06/busse-koennen-neuwied-irlich-wegen-bauarbeiten-nicht-anfahren",
-      "published": "Tue, 06 Oct 2026 03:00:22 -0000",
-      "published_display": "06.10.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Nahverkehr: Rostock hat viel Nachholbedarf bei Elektrobussen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/06/rostock-hat-viel-nachholbedarf-bei-elektrobussen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/06/rostock-hat-viel-nachholbedarf-bei-elektrobussen",
-      "published": "Tue, 06 Oct 2026 03:00:21 -0000",
-      "published_display": "06.10.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Elektromobilität: Fast jeder zweite Bus in Nürnberg fährt elektrisch",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/06/fast-jeder-zweite-bus-in-nuernberg-faehrt-elektrisch-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/06/fast-jeder-zweite-bus-in-nuernberg-faehrt-elektrisch",
-      "published": "Tue, 06 Oct 2026 03:00:20 -0000",
-      "published_display": "06.10.2026 · 03:00 Uhr"
     }
   ]
 }
