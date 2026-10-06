@@ -1,6 +1,6 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-06T01:33:24.065448+00:00",
+  "updated": "2026-10-06T01:46:14.307814+00:00",
   "items": [
     {
       "title": "Semesterbeginn: Grüne dringen auf mehr Wohnheimplätze für Studierende",
@@ -24,6 +24,22 @@
       "image": "https://img.zeit.de/news/2026-10/06/gericht-prueft-erstmals-landarztquoten-vertraege-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-10/06/gericht-prueft-erstmals-landarztquoten-vertraege",
       "published": "Tue, 06 Oct 2026 01:30:07 -0000",
+      "published_display": "06.10.2026 · 01:30 Uhr"
+    },
+    {
+      "title": "Dacheinsturz: Nach Einsturz: Neues Dach für Elisabethkirche in Kassel",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/06/nach-einsturz-neues-dach-fuer-elisabethkirche-in-kassel-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/06/nach-einsturz-neues-dach-fuer-elisabethkirche-in-kassel",
+      "published": "Tue, 06 Oct 2026 01:30:06 -0000",
+      "published_display": "06.10.2026 · 01:30 Uhr"
+    },
+    {
+      "title": "Prozess: Urteil in Vergewaltigungsprozess gegen Polizistin erwartet",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/06/urteil-in-vergewaltigungsprozess-gegen-polizistin-erwartet-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/06/urteil-in-vergewaltigungsprozess-gegen-polizistin-erwartet",
+      "published": "Tue, 06 Oct 2026 01:30:05 -0000",
       "published_display": "06.10.2026 · 01:30 Uhr"
     },
     {
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/06/frankreich-erwartet-neuen-hoehepunkt-der-schuelerproteste",
       "published": "Mon, 05 Oct 2026 23:00:04 -0000",
       "published_display": "05.10.2026 · 23:00 Uhr"
-    },
-    {
-      "title": "Rumänien: Rumäniens Präsident schlägt vierten Kandidaten als Regierungschef vor",
-      "summary": "Der rumänische Präsident Nicușor Dan will Neuwahlen verhindern. Nach dem Sturz der Regierung stellt er nun den vierten Kandidaten für das Amt des Ministerpräsidenten vor.",
-      "image": "https://img.zeit.de/politik/2026-10/romania-politics-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/rumaenien-luca-niculescu-nicusor-dan-aur-politische-krise",
-      "published": "Mon, 05 Oct 2026 22:52:39 -0000",
-      "published_display": "05.10.2026 · 22:52 Uhr"
-    },
-    {
-      "title": "Wehrdienst: Zahl der Kriegsdienstverweigerer steigt stark an",
-      "summary": "Bis August 2026 sind mehr als dreimal so viele Anträge auf Kriegsdienstverweigerung eingegangen wie 2025. Doch auch die Zahl der Bewerbungen und Einstellungen wächst.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-10/kriegsdienstverweigerung-antraege-bundeswehr-wehrdienst-reservisten-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-10/kriegsdienstverweigerung-antraege-bundeswehr-wehrdienst-reservisten",
-      "published": "Mon, 05 Oct 2026 22:01:23 -0000",
-      "published_display": "05.10.2026 · 22:01 Uhr"
     }
   ]
 }
