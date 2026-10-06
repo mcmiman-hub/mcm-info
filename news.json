@@ -1,7 +1,119 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-06T10:36:06.207327+00:00",
+  "updated": "2026-10-06T10:51:38.528722+00:00",
   "items": [
+    {
+      "title": "Mögliche Heimkehr aus Exil: Nach neun Jahren Exil Puigdemont vor Rückkehr in die Heimat",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/06/nach-neun-jahren-exil-puigdemont-vor-rueckkehr-in-die-heimat-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/06/nach-neun-jahren-exil-puigdemont-vor-rueckkehr-in-die-heimat",
+      "published": "Tue, 06 Oct 2026 10:46:28 -0000",
+      "published_display": "06.10.2026 · 10:46 Uhr"
+    },
+    {
+      "title": "Richtfest: Sanierung des Prinzessinnenbaus geht zügig voran",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/06/sanierung-des-prinzessinnenbaus-geht-zuegig-voran-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/06/sanierung-des-prinzessinnenbaus-geht-zuegig-voran",
+      "published": "Tue, 06 Oct 2026 10:44:01 -0000",
+      "published_display": "06.10.2026 · 10:44 Uhr"
+    },
+    {
+      "title": "Explosion: Ein Schwerverletzter nach Explosion in Wohnhaus",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/06/ein-schwerverletzter-nach-explosion-in-wohnhaus-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/06/ein-schwerverletzter-nach-explosion-in-wohnhaus",
+      "published": "Tue, 06 Oct 2026 10:43:57 -0000",
+      "published_display": "06.10.2026 · 10:43 Uhr"
+    },
+    {
+      "title": "Auf voller Länge eingebrochen: Nach Einsturz: Neues Dach für Elisabethkirche bis Jahresende",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/06/nach-einsturz-neues-dach-fuer-elisabethkirche-in-kassel-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/06/nach-einsturz-neues-dach-fuer-elisabethkirche-in-kassel",
+      "published": "Tue, 06 Oct 2026 10:43:43 -0000",
+      "published_display": "06.10.2026 · 10:43 Uhr"
+    },
+    {
+      "title": "Nach Wahl in Sachsen-Anhalt: Erster Landtagspräsident der AfD gewählt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/06/afd-will-landtagspraesidenten-in-sachsen-anhalt-stellen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/06/afd-will-landtagspraesidenten-in-sachsen-anhalt-stellen",
+      "published": "Tue, 06 Oct 2026 10:43:40 -0000",
+      "published_display": "06.10.2026 · 10:43 Uhr"
+    },
+    {
+      "title": "Landtag von Sachsen-Anhalt: AfD-Politiker Tobias Rausch ist Landtagspräsident von Sachsen-Anhalt",
+      "summary": "Erstmals in der Geschichte der BRD stellt eine rechtsextreme Partei einen Parlamentspräsidenten. Er bekam vier Stimmen mehr, als AfD und BSW haben. Das Liveblog",
+      "image": "https://img.zeit.de/politik/deutschland/2026-10/konstituierende-landtagssitzung-in-sachsen-anhalt-bild-2/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-10/landtag-sachsen-anhalt-konstituierung-afd-bsw-live",
+      "published": "Tue, 06 Oct 2026 10:42:59 -0000",
+      "published_display": "06.10.2026 · 10:42 Uhr"
+    },
+    {
+      "title": "Rückläufiger Trend hält an: Ministerium erwartet 15-Jahres-Tief bei Asylbewerber-Zahlen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/06/ministerium-erwartet-15-jahres-tief-bei-asylbewerber-zahlen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/06/ministerium-erwartet-15-jahres-tief-bei-asylbewerber-zahlen",
+      "published": "Tue, 06 Oct 2026 10:42:31 -0000",
+      "published_display": "06.10.2026 · 10:42 Uhr"
+    },
+    {
+      "title": "Landtag: Sachsen-Anhalt: Erster Landtagspräsident der AfD gewählt",
+      "summary": "",
+      "image": "https://img.zeit.de/administratives/sharing/fallback-image-die-zeit/wide__1300x731",
+      "link": "https://www.zeit.de/news/2026-10/06/sachsen-anhalt-erster-landtagspraesident-der-afd-gewaehlt",
+      "published": "Tue, 06 Oct 2026 10:41:15 -0000",
+      "published_display": "06.10.2026 · 10:41 Uhr"
+    },
+    {
+      "title": "Russland: Russland spielt Berichte über Pestfall in Sibirien herunter",
+      "summary": "In Sibirien stirbt eine Mitarbeiterin eines Pestforschungsinstituts. Die russische Führung weist den Verdacht, dass sie sich mit der Pest infiziert haben soll, von sich.",
+      "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-10/pest-russland-irkutsk-labor-lungenentzuendung-rospotrebnadzor-foto-1/original__640x360",
+      "link": "https://www.zeit.de/gesundheit/2026-10/pest-russland-irkutsk-labor-lungenentzuendung-rospotrebnadzor-gxe",
+      "published": "Tue, 06 Oct 2026 10:41:08 -0000",
+      "published_display": "06.10.2026 · 10:41 Uhr"
+    },
+    {
+      "title": "Sachsen-Anhalt: AfD-Politiker Tobias Rausch ist Landtagspräsident von Sachsen-Anhalt",
+      "summary": "Historische Wahl: Erstmals stellt die AfD einen Landtagspräsidenten. Tobias Rausch wurde mit 48 Stimmen gewählt – neun Stimmen mehr als die AfD-Fraktion Mandate hat.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-10/tobias-rausch-afd-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-10/afd-politiker-tobias-rausch-ist-landtagspraesident-von-sachsen-anhalt",
+      "published": "Tue, 06 Oct 2026 10:40:13 -0000",
+      "published_display": "06.10.2026 · 10:40 Uhr"
+    },
+    {
+      "title": "Mögliche Heimkehr aus Exil: Spaniens Justiz macht Weg für Rückkehr Puigdemonts frei",
+      "summary": "",
+      "image": "https://img.zeit.de/administratives/sharing/fallback-image-die-zeit/wide__1300x731",
+      "link": "https://www.zeit.de/news/2026-10/06/spaniens-justiz-macht-weg-fuer-rueckkehr-puigdemonts-frei",
+      "published": "Tue, 06 Oct 2026 10:40:05 -0000",
+      "published_display": "06.10.2026 · 10:40 Uhr"
+    },
+    {
+      "title": "Folgenschwere Verwechslung: Mit Vollgas im Rückwärtsgang - Auto schleift Mann auf Straße",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/06/mit-vollgas-im-rueckwaertsgang-auto-schleift-mann-auf-strasse-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/06/mit-vollgas-im-rueckwaertsgang-auto-schleift-mann-auf-strasse",
+      "published": "Tue, 06 Oct 2026 10:39:08 -0000",
+      "published_display": "06.10.2026 · 10:39 Uhr"
+    },
+    {
+      "title": "Tiere: Wolf darf im Westerwald vorerst gejagt werden",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/06/wolf-darf-im-westerwald-vorerst-gejagt-werden-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/06/wolf-darf-im-westerwald-vorerst-gejagt-werden",
+      "published": "Tue, 06 Oct 2026 10:36:18 -0000",
+      "published_display": "06.10.2026 · 10:36 Uhr"
+    },
+    {
+      "title": "81. Verhandlungstag: Ermittlungen im Fall Block brachten Hinweise auf Hanning",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/06/ermittlungen-im-fall-block-brachten-hinweise-auf-hanning-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/06/ermittlungen-im-fall-block-brachten-hinweise-auf-hanning",
+      "published": "Tue, 06 Oct 2026 10:35:28 -0000",
+      "published_display": "06.10.2026 · 10:35 Uhr"
+    },
     {
       "title": "Studium: Junge Menschen studieren häufig im eigenen Bundesland",
       "summary": "Mehr als zwei Drittel der Studierenden wählt eine Hochschule in ihrer Heimatregion. Dabei gibt es deutliche regionale Unterschiede.",
@@ -9,118 +121,6 @@
       "link": "https://www.zeit.de/bildung/2026-10/studienort-bundesland-studienanfaenger-hochschulreife-statistik",
       "published": "Tue, 06 Oct 2026 10:34:22 -0000",
       "published_display": "06.10.2026 · 10:34 Uhr"
-    },
-    {
-      "title": "Lesen: Buchbranche warnt vor Folgen der Leseschwäche",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/06/buchbranche-warnt-vor-folgen-der-leseschwaeche-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/06/buchbranche-warnt-vor-folgen-der-leseschwaeche",
-      "published": "Tue, 06 Oct 2026 10:32:05 -0000",
-      "published_display": "06.10.2026 · 10:32 Uhr"
-    },
-    {
-      "title": "Schusswaffen: Mann in Café angeschossen - «Gewalt als Dienstleistung»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/06/gewaltkriminalitaet-mit-nachgebauten-pistolen-aus-der-tuerkei-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/06/gewaltkriminalitaet-mit-nachgebauten-pistolen-aus-der-tuerkei",
-      "published": "Tue, 06 Oct 2026 10:32:02 -0000",
-      "published_display": "06.10.2026 · 10:32 Uhr"
-    },
-    {
-      "title": "Zugverkehr: Protest aus MV gegen ICE-Fahrplan der Deutschen Bahn",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/06/protest-aus-mv-gegen-ice-fahrplan-der-deutschen-bahn-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/06/protest-aus-mv-gegen-ice-fahrplan-der-deutschen-bahn",
-      "published": "Tue, 06 Oct 2026 10:31:45 -0000",
-      "published_display": "06.10.2026 · 10:31 Uhr"
-    },
-    {
-      "title": "Millionenschaden in der Region: 200.000 Euro verloren – Polizei warnt vor Krypto-Betrug",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/06/200-000-euro-verloren-polizei-warnt-vor-krypto-betrug-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/06/200-000-euro-verloren-polizei-warnt-vor-krypto-betrug",
-      "published": "Tue, 06 Oct 2026 10:29:48 -0000",
-      "published_display": "06.10.2026 · 10:29 Uhr"
-    },
-    {
-      "title": "Auszeichnung: Physik-Nobelpreis an Geisterteilchen-Forscher aus den USA",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/06/physik-nobelpreis-an-geisterteilchen-forscher-aus-den-usa-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/06/physik-nobelpreis-an-geisterteilchen-forscher-aus-den-usa",
-      "published": "Tue, 06 Oct 2026 10:28:59 -0000",
-      "published_display": "06.10.2026 · 10:28 Uhr"
-    },
-    {
-      "title": "Germanwings-Absturz: Gericht weist Klage Hinterbliebener im Germanwings-Prozess ab",
-      "summary": "Den Angehörigen der Toten nach dem Absturz der Germanwings-Maschine steht kein zusätzliches Schmerzensgeld vom Staat zu. Ein Gericht sieht dafür keine Grundlage.",
-      "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-10/germanwings-absturz-schmerzensgeld-klage-landgericht-braunschweig-foto-1/original__640x360",
-      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-10/germanwings-absturz-schmerzensgeld-klage-landgericht-braunschweig",
-      "published": "Tue, 06 Oct 2026 10:28:51 -0000",
-      "published_display": "06.10.2026 · 10:28 Uhr"
-    },
-    {
-      "title": "Statistik zum Semesterstart: Abiturienten aus Sachsen beginnen meist Studium im Freistaat",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/06/abiturienten-aus-sachsen-beginnen-meist-studium-im-freistaat-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/06/abiturienten-aus-sachsen-beginnen-meist-studium-im-freistaat",
-      "published": "Tue, 06 Oct 2026 10:28:50 -0000",
-      "published_display": "06.10.2026 · 10:28 Uhr"
-    },
-    {
-      "title": "Astrophysik: Nobelpreis für Physik geht an Astrophysiker Francis Halzen",
-      "summary": "Der Elementarteilchenphysiker Francis Halzen wird für Beiträge zum Neutrino-Observatorium geehrt. Dem US-Amerikaner gelang es, sogenannte Geisterteilchen nachzuweisen.",
-      "image": "https://img.zeit.de/wissenschaft/2026-10/nobelpreis-fuer-physik-geht-an-astrophysiker-francis-halzen-bild/original__640x360",
-      "link": "https://www.zeit.de/wissenschaft/2026-10/nobelpreis-fuer-physik-geht-an-astrophysiker-francis-halzen",
-      "published": "Tue, 06 Oct 2026 10:28:07 -0000",
-      "published_display": "06.10.2026 · 10:28 Uhr"
-    },
-    {
-      "title": "Flugzeugabsturz in Frankreich: Germanwings-Prozess: Gericht weist Klage Hinterbliebener ab",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/06/entscheidung-ueber-schmerzensgeld-nach-germanwings-absturz-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/06/entscheidung-ueber-schmerzensgeld-nach-germanwings-absturz",
-      "published": "Tue, 06 Oct 2026 10:27:14 -0000",
-      "published_display": "06.10.2026 · 10:27 Uhr"
-    },
-    {
-      "title": "Toter Winkel?: Mann im Elektromobil von Lkw mitgeschleift – schwer verletzt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/06/mann-im-elektromobil-von-lkw-mitgeschleift-schwer-verletzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/06/mann-im-elektromobil-von-lkw-mitgeschleift-schwer-verletzt",
-      "published": "Tue, 06 Oct 2026 10:24:07 -0000",
-      "published_display": "06.10.2026 · 10:24 Uhr"
-    },
-    {
-      "title": "Internationales Olympisches Komitee: Sechs Länder konkurrieren mit Deutschland um Olympia-Austragung 2036",
-      "summary": "München möchte Gastgeber der Olympischen Sommerspiele 2036 werden. Doch es gibt auch weitere Bewerber: unter anderem die Türkei, Ungarn und Katar.",
-      "image": "https://img.zeit.de/sport/2026-10/olympische-sommerspiele-2036-olympia-bewerbung-muenchen-foto-1/original__640x360",
-      "link": "https://www.zeit.de/sport/2026-10/olympische-sommerspiele-2036-olympia-bewerbung-muenchen",
-      "published": "Tue, 06 Oct 2026 10:23:55 -0000",
-      "published_display": "06.10.2026 · 10:23 Uhr"
-    },
-    {
-      "title": "Landtag von Sachsen-Anhalt: Wahl des Parlamentspräsidenten hat begonnen",
-      "summary": "Die Alterspräsidentin erinnert in der Eröffnungsrede an die deutschen Diktaturen und zitiert aus »Spiderman«. Die Fraktionen diskutieren die Tagesordnung. Das Liveblog",
-      "image": "https://img.zeit.de/politik/deutschland/2026-10/konstituierende-landtagssitzung-in-sachsen-anhalt-bild-2/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-10/landtag-sachsen-anhalt-konstituierung-afd-bsw-live",
-      "published": "Tue, 06 Oct 2026 10:23:28 -0000",
-      "published_display": "06.10.2026 · 10:23 Uhr"
-    },
-    {
-      "title": "Sportpolitik: IOC: Sechs Konkurrenten für München um Olympia 2036",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/06/ioc-sechs-konkurrenten-fuer-muenchen-um-olympia-2036-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/06/ioc-sechs-konkurrenten-fuer-muenchen-um-olympia-2036",
-      "published": "Tue, 06 Oct 2026 10:21:25 -0000",
-      "published_display": "06.10.2026 · 10:21 Uhr"
-    },
-    {
-      "title": "Semesterstart: Besser lernen, öfter abschalten",
-      "summary": "Eine Cambridge-Absolventin, eine Psychologin und die ZEIT-Campus-Redaktion erklären, wie man Lernstoff bewältigt, das Handy weglegt und den Kopf freibekommt.",
-      "image": "https://img.zeit.de/campus/2026/04/besser-planen-besser-entspannen-bild-9/original__640x360",
-      "link": "https://www.zeit.de/campus/2026/04/semesterstart-organisation-studieren-tipps-uni",
-      "published": "Tue, 06 Oct 2026 10:20:45 -0000",
-      "published_display": "06.10.2026 · 10:20 Uhr"
     }
   ]
 }
