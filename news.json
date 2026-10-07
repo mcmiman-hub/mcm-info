@@ -1,7 +1,119 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-07T11:19:12.182016+00:00",
+  "updated": "2026-10-07T11:35:35.688855+00:00",
   "items": [
+    {
+      "title": "Nahost: Israel erinnert an Hamas-Massaker - Rufe nach Untersuchung",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/07/israel-erinnert-an-das-massaker-vom-7-oktober-2023-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/israel-erinnert-an-das-massaker-vom-7-oktober-2023",
+      "published": "Wed, 07 Oct 2026 11:33:27 -0000",
+      "published_display": "07.10.2026 · 11:33 Uhr"
+    },
+    {
+      "title": "Zu wenige Trauben im Keller: Weinjahrgang 2026: Tolle Qualität, aber starke Ernteeinbußen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/07/weinjahrgang-2026-tolle-qualitaet-aber-starke-ernteeinbussen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/weinjahrgang-2026-tolle-qualitaet-aber-starke-ernteeinbussen",
+      "published": "Wed, 07 Oct 2026 11:32:23 -0000",
+      "published_display": "07.10.2026 · 11:32 Uhr"
+    },
+    {
+      "title": "Straftaten im Hafturlaub?: Missbrauch im Kinderzimmer - «Ich schäme mich»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/07/mann-soll-im-hafturlaub-jungen-missbraucht-haben-prozess-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/mann-soll-im-hafturlaub-jungen-missbraucht-haben-prozess",
+      "published": "Wed, 07 Oct 2026 11:32:22 -0000",
+      "published_display": "07.10.2026 · 11:32 Uhr"
+    },
+    {
+      "title": "Nach Entzug der Doktorwürde: Thüringer Regierungschef Voigt gibt Kampf um Doktortitel auf",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/07/thueringer-regierungschef-voigt-gibt-kampf-um-doktortitel-auf-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/thueringer-regierungschef-voigt-gibt-kampf-um-doktortitel-auf",
+      "published": "Wed, 07 Oct 2026 11:32:09 -0000",
+      "published_display": "07.10.2026 · 11:32 Uhr"
+    },
+    {
+      "title": "Sachsen-Anhalt: AfD-Erfolge in Magdeburg: CDU unter Druck vor MP-Wahl",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/07/wegen-afd-spd-sieht-erklaerungsbedarf-bei-cdu-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/wegen-afd-spd-sieht-erklaerungsbedarf-bei-cdu",
+      "published": "Wed, 07 Oct 2026 11:31:32 -0000",
+      "published_display": "07.10.2026 · 11:31 Uhr"
+    },
+    {
+      "title": "Vorfahrt missachtet: Autofahrer fährt nach Unfall mit Radfahrerin weiter",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/07/autofahrer-faehrt-nach-unfall-mit-radfahrerin-weiter-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/autofahrer-faehrt-nach-unfall-mit-radfahrerin-weiter",
+      "published": "Wed, 07 Oct 2026 11:30:54 -0000",
+      "published_display": "07.10.2026 · 11:30 Uhr"
+    },
+    {
+      "title": "Kriminalität: Sexarbeiterinnen vergewaltigt und misshandelt - Haft",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/07/sexarbeiterinnen-vergewaltigt-und-misshandelt-haft-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/sexarbeiterinnen-vergewaltigt-und-misshandelt-haft",
+      "published": "Wed, 07 Oct 2026 11:29:30 -0000",
+      "published_display": "07.10.2026 · 11:29 Uhr"
+    },
+    {
+      "title": "Raubkatzenalarm: Möglicherweise freilaufender Puma nahe Münchner Flughafen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/07/moeglicherweise-freilaufender-puma-nahe-muenchner-flughafen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/moeglicherweise-freilaufender-puma-nahe-muenchner-flughafen",
+      "published": "Wed, 07 Oct 2026 11:27:44 -0000",
+      "published_display": "07.10.2026 · 11:27 Uhr"
+    },
+    {
+      "title": "Wissenschafts-Festival: Medizin der Zukunft im Fokus bei «Silbersalz»-Festival",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/07/medizin-der-zukunft-im-fokus-bei-silbersalz-festival-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/medizin-der-zukunft-im-fokus-bei-silbersalz-festival",
+      "published": "Wed, 07 Oct 2026 11:27:08 -0000",
+      "published_display": "07.10.2026 · 11:27 Uhr"
+    },
+    {
+      "title": "Bundesanwaltschaft: Prozess gegen mutmaßliche «Reichsbürger» startet im November",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/07/prozess-gegen-mutmassliche-reichsbuerger-startet-im-november-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/prozess-gegen-mutmassliche-reichsbuerger-startet-im-november",
+      "published": "Wed, 07 Oct 2026 11:26:43 -0000",
+      "published_display": "07.10.2026 · 11:26 Uhr"
+    },
+    {
+      "title": "Porzellanmanufaktur: Nach Insolvenz - Kahla stellt Betrieb Ende des Jahres ein",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/07/nach-insolvenz-kahla-stellt-betrieb-ende-des-jahres-ein-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/nach-insolvenz-kahla-stellt-betrieb-ende-des-jahres-ein",
+      "published": "Wed, 07 Oct 2026 11:24:25 -0000",
+      "published_display": "07.10.2026 · 11:24 Uhr"
+    },
+    {
+      "title": "Aufarbeitung von SED-Unrecht: Opposition gegen Teuteberg als DDR-Aufarbeitungsbeauftragte",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/07/opposition-gegen-teuteberg-als-ddr-aufarbeitungsbeauftragte-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/opposition-gegen-teuteberg-als-ddr-aufarbeitungsbeauftragte",
+      "published": "Wed, 07 Oct 2026 11:22:05 -0000",
+      "published_display": "07.10.2026 · 11:22 Uhr"
+    },
+    {
+      "title": "Fotografie: Bilder des Tages",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/07/bilder-des-tages-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/bilder-des-tages",
+      "published": "Wed, 07 Oct 2026 11:21:03 -0000",
+      "published_display": "07.10.2026 · 11:21 Uhr"
+    },
+    {
+      "title": "Thüringen: AfD-Antrag auf Parlamentsauflösung in Thüringen gescheitert",
+      "summary": "Der Thüringer Landtag hat gegen seine eigene Auflösung gestimmt. Ministerpräsident Mario Voigt geht nicht mehr gegen die Aberkennung seines Doktortitels vor.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-10/afd-thueringen-bjoern-hoecke-landtag-neuwahlen-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-10/afd-thueringen-bjoern-hoecke-landtag-neuwahlen",
+      "published": "Wed, 07 Oct 2026 11:20:05 -0000",
+      "published_display": "07.10.2026 · 11:20 Uhr"
+    },
     {
       "title": "Invasive Art: Asiatische Hornisse: Bisher 35.000 Euro Prämien für Imker",
       "summary": "",
@@ -9,118 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/07/asiatische-hornisse-bisher-35-000-euro-praemien-fuer-imker",
       "published": "Wed, 07 Oct 2026 11:17:48 -0000",
       "published_display": "07.10.2026 · 11:17 Uhr"
-    },
-    {
-      "title": "Umstrittene Impfaktion: Impfaktion am Lübecker Flughafen – OLG hebt Freispruch auf",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/07/impfaktion-am-luebecker-flughafen-olg-hebt-freispruch-auf-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/07/impfaktion-am-luebecker-flughafen-olg-hebt-freispruch-auf",
-      "published": "Wed, 07 Oct 2026 11:15:35 -0000",
-      "published_display": "07.10.2026 · 11:15 Uhr"
-    },
-    {
-      "title": "Polizei: Jugendliche fahren mit fremden Autos in Parkhaus herum",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/07/jugendliche-fahren-mit-fremden-autos-in-parkhaus-herum-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/07/jugendliche-fahren-mit-fremden-autos-in-parkhaus-herum",
-      "published": "Wed, 07 Oct 2026 11:13:24 -0000",
-      "published_display": "07.10.2026 · 11:13 Uhr"
-    },
-    {
-      "title": "Jahrestag des Angriffs: Leere Stühle erinnern an Opfer – Spitzenpolitiker gedenken",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/07/leere-stuehle-erinnern-an-opfer-spitzenpolitiker-gedenken-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/07/leere-stuehle-erinnern-an-opfer-spitzenpolitiker-gedenken",
-      "published": "Wed, 07 Oct 2026 11:12:39 -0000",
-      "published_display": "07.10.2026 · 11:12 Uhr"
-    },
-    {
-      "title": "Kriminalität: Sexarbeiterinnen vergewaltigt und misshandelt - Haft",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/07/sexarbeiterinnen-vergewaltigt-und-misshandelt-haft-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/07/sexarbeiterinnen-vergewaltigt-und-misshandelt-haft",
-      "published": "Wed, 07 Oct 2026 11:10:45 -0000",
-      "published_display": "07.10.2026 · 11:10 Uhr"
-    },
-    {
-      "title": "»Nur eine Frage«: Sind wir frei, Rahel Jaeggi?",
-      "summary": "Die Philosophin Rahel Jaeggi forscht zu Freiheit und Entfremdung. Im Gespräch erklärt sie, warum Freiheit für sie vor allem eine soziale Frage ist.",
-      "image": "https://img.zeit.de/gesellschaft/2026-10/freiheit-entfremdung-philosophie-rahel-jaeggi-nur-eine-frage-bild-01/original__640x360",
-      "link": "https://www.zeit.de/2026-08/freiheit-entfremdung-philosophie-rahel-jaeggi-nur-eine-frage",
-      "published": "Wed, 07 Oct 2026 11:09:37 -0000",
-      "published_display": "07.10.2026 · 11:09 Uhr"
-    },
-    {
-      "title": "Landtagsauflösung: AfD scheitert mit Selbstauflösung des Thüringer Landtags",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/07/afd-scheitert-mit-selbstaufloesung-des-thueringer-landtags-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/07/afd-scheitert-mit-selbstaufloesung-des-thueringer-landtags",
-      "published": "Wed, 07 Oct 2026 11:09:18 -0000",
-      "published_display": "07.10.2026 · 11:09 Uhr"
-    },
-    {
-      "title": "Bahnverkehr: Regierungschef Lies: Bahn-Neubaustrecke nur «halbe Lösung»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/07/regierungschef-lies-bahn-neubaustrecke-nur-halbe-loesung-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/07/regierungschef-lies-bahn-neubaustrecke-nur-halbe-loesung",
-      "published": "Wed, 07 Oct 2026 11:07:13 -0000",
-      "published_display": "07.10.2026 · 11:07 Uhr"
-    },
-    {
-      "title": "Nach Entzug der Doktorwürde: Thüringer Regierungschef Voigt gibt Kampf um Doktortitel auf",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/07/thueringer-regierungschef-voigt-gibt-kampf-um-doktortitel-auf-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/07/thueringer-regierungschef-voigt-gibt-kampf-um-doktortitel-auf",
-      "published": "Wed, 07 Oct 2026 11:06:59 -0000",
-      "published_display": "07.10.2026 · 11:06 Uhr"
-    },
-    {
-      "title": "Nach der Wahl: Linke, Grüne und SPD in Berlin beraten über Antisemitismus",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/07/linke-gruene-und-spd-in-berlin-beraten-ueber-antisemitismus-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/07/linke-gruene-und-spd-in-berlin-beraten-ueber-antisemitismus",
-      "published": "Wed, 07 Oct 2026 11:03:44 -0000",
-      "published_display": "07.10.2026 · 11:03 Uhr"
-    },
-    {
-      "title": "Sachsen-Anhalt: AfD will Deal mit CDU-Abgeordneten für Siegmund-Wahl gemacht haben",
-      "summary": "Der AfD-Politiker Rausch behauptet, mit CDU-Stimmen zum Landtagspräsidenten gewählt worden zu sein. Das sei auch für die Ministerpräsidentenwahl vereinbart.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-10/landtagspraesident-sachsen-anhalt-mario-rausch-afd-cdu-abstimmung-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-10/landtagspraesident-sachsen-anhalt-tobias-rausch-afd-cdu-abstimmung-gxe",
-      "published": "Wed, 07 Oct 2026 11:03:18 -0000",
-      "published_display": "07.10.2026 · 11:03 Uhr"
-    },
-    {
-      "title": "Neumünster: Kleinkind isst versehentlich Cannabis-Reste",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/07/kleinkind-isst-versehentlich-cannabis-reste-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/07/kleinkind-isst-versehentlich-cannabis-reste",
-      "published": "Wed, 07 Oct 2026 11:01:53 -0000",
-      "published_display": "07.10.2026 · 11:01 Uhr"
-    },
-    {
-      "title": "Mobilitätskosten: Ifo: Tankrabatt bisher nur teilweise weitergegeben",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/07/ifo-tankrabatt-bisher-nur-teilweise-weitergegeben-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/07/ifo-tankrabatt-bisher-nur-teilweise-weitergegeben",
-      "published": "Wed, 07 Oct 2026 11:01:25 -0000",
-      "published_display": "07.10.2026 · 11:01 Uhr"
-    },
-    {
-      "title": "Verkehr: Ladenetz für E-Autos an Autobahnparkplätzen wird ausgebaut",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/07/ladenetz-fuer-e-autos-an-autobahnparkplaetzen-wird-ausgebaut-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/07/ladenetz-fuer-e-autos-an-autobahnparkplaetzen-wird-ausgebaut",
-      "published": "Wed, 07 Oct 2026 11:01:04 -0000",
-      "published_display": "07.10.2026 · 11:01 Uhr"
-    },
-    {
-      "title": "Plagiatsvorwürfe: Gericht: Voigt hat Klage gegen TU Chemnitz zurückgezogen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/07/gericht-voigt-hat-klage-gegen-tu-chemnitz-zurueckgezogen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/07/gericht-voigt-hat-klage-gegen-tu-chemnitz-zurueckgezogen",
-      "published": "Wed, 07 Oct 2026 10:58:53 -0000",
-      "published_display": "07.10.2026 · 10:58 Uhr"
     }
   ]
 }
