@@ -1,7 +1,111 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-07T18:01:40.220567+00:00",
+  "updated": "2026-10-07T18:23:32.991114+00:00",
   "items": [
+    {
+      "title": "Schülerproteste in Frankreich: Wer ist schuld an der Gewalt?",
+      "summary": "Es gibt zwei unversöhnliche Antworten darauf, warum in Frankreich die Schülerproteste eskalieren. Sie offenbaren die Spaltung des Landes in rechts und links.",
+      "image": "https://img.zeit.de/2026/44/wer-ist-schuld-an-der-gewalt-bild-3/original__640x360",
+      "link": "https://www.zeit.de/2026/44/frankreich-schuelerproteste-schulen-polizei-lfi-emmanuel-macron",
+      "published": "Wed, 07 Oct 2026 18:21:51 -0000",
+      "published_display": "07.10.2026 · 18:21 Uhr"
+    },
+    {
+      "title": "Einsatz in Lahnstein: Verpuffung bei Firma für Spezialchemie - keine Gefahr",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/07/verpuffung-bei-firma-fuer-spezialchemie-keine-gefahr-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/verpuffung-bei-firma-fuer-spezialchemie-keine-gefahr",
+      "published": "Wed, 07 Oct 2026 18:20:25 -0000",
+      "published_display": "07.10.2026 · 18:20 Uhr"
+    },
+    {
+      "title": "Cybercrime: NRW gelingt Schlag gegen berüchtigte russische Hackergruppe",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/07/festnahme-im-ausland-nrw-gelingt-schlag-gegen-qilin-gruppe-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/festnahme-im-ausland-nrw-gelingt-schlag-gegen-qilin-gruppe",
+      "published": "Wed, 07 Oct 2026 18:16:34 -0000",
+      "published_display": "07.10.2026 · 18:16 Uhr"
+    },
+    {
+      "title": "Porsche: Zukunft bei Porsche heißt: Benzin!",
+      "summary": "Klasse statt Masse, zurück zum Verbrenner, damit will Porsche raus aus der Krise. Den Auftakt macht ein ultraexklusiver Superrenner – eher ungeeignet zum Brötchenholen.",
+      "image": "https://img.zeit.de/mobilitaet/2026-10/porsche-verbrenner-krise-michael-leiters-911-bild/original__640x360",
+      "link": "https://www.zeit.de/mobilitaet/2026-10/porsche-verbrenner-krise-michael-leiters-911",
+      "published": "Wed, 07 Oct 2026 18:16:00 -0000",
+      "published_display": "07.10.2026 · 18:16 Uhr"
+    },
+    {
+      "title": "Basketball-Champions League: Alba Berlin siegt deutlich bei Slavia Prag",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/07/alba-berlin-siegt-deutlich-bei-slavia-prag-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/alba-berlin-siegt-deutlich-bei-slavia-prag",
+      "published": "Wed, 07 Oct 2026 18:15:39 -0000",
+      "published_display": "07.10.2026 · 18:15 Uhr"
+    },
+    {
+      "title": "Neben Flugplatz: Kleinflugzeug bei Finowfurt abgestürzt - Pilot tot",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/07/kleinflugzeug-bei-finowfurt-abgestuerzt-eine-tote-person-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/kleinflugzeug-bei-finowfurt-abgestuerzt-eine-tote-person",
+      "published": "Wed, 07 Oct 2026 18:15:26 -0000",
+      "published_display": "07.10.2026 · 18:15 Uhr"
+    },
+    {
+      "title": "AfD-Landtagspräsident in Sachsen-Anhalt: SPD stoppt Initiative für überparteiliche Regierung in Sachsen-Anhalt",
+      "summary": "In Sachsen-Anhalt sieht die SPD keine Grundlage mehr für eine überparteiliche Regierung. Durch die Wahl eines AfD-Landtagspräsidenten habe sich das erübrigt.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-10/afd-landtagspraesident-sachsen-anhalt-tobias-rausch-spd-cdu-bsw-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-10/afd-landtagspraesident-sachsen-anhalt-tobias-rausch-spd-cdu-bsw",
+      "published": "Wed, 07 Oct 2026 18:15:01 -0000",
+      "published_display": "07.10.2026 · 18:15 Uhr"
+    },
+    {
+      "title": "Leute: Mia Goth reicht Scheidung von Shia LaBeouf ein",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/07/mia-goth-reicht-scheidung-von-shia-labeouf-ein-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/mia-goth-reicht-scheidung-von-shia-labeouf-ein",
+      "published": "Wed, 07 Oct 2026 18:14:48 -0000",
+      "published_display": "07.10.2026 · 18:14 Uhr"
+    },
+    {
+      "title": "Staatsbesuch in Frankreich: Frank-Walter Steinmeier ruft zu »Vernunft und Herz« in Europa auf",
+      "summary": "Der Bundespräsident ist für drei Tage nach Frankreich gereist. In Paris beschwor er Humanität und Ratio für Europa in Krisenzeiten.",
+      "image": "https://img.zeit.de/politik/ausland/2026-10/frank-walter-steinmeier-frankreich-emmanuel-macron-besuch-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/frank-walter-steinmeier-frankreich-emmanuel-macron-besuch",
+      "published": "Wed, 07 Oct 2026 18:13:55 -0000",
+      "published_display": "07.10.2026 · 18:13 Uhr"
+    },
+    {
+      "title": "Königin in Konstanz: Silvia von Schweden: Applaus für royalen Besuch am Bodensee",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/07/was-koenigin-silvia-von-schweden-am-bodensee-macht-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/was-koenigin-silvia-von-schweden-am-bodensee-macht",
+      "published": "Wed, 07 Oct 2026 18:12:02 -0000",
+      "published_display": "07.10.2026 · 18:12 Uhr"
+    },
+    {
+      "title": "Neue Kundgebungen angekündigt: Schulproteste in Frankreich: Regierung weiter unter Druck",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/07/schulproteste-gehen-weiter-macron-ruft-zur-maessigung-auf-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/schulproteste-gehen-weiter-macron-ruft-zur-maessigung-auf",
+      "published": "Wed, 07 Oct 2026 18:07:54 -0000",
+      "published_display": "07.10.2026 · 18:07 Uhr"
+    },
+    {
+      "title": "7. Oktober: Palästina-Demo in Berlin: Thunberg bei Protest in Kreuzberg",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/07/palaestina-demo-in-berlin-thunberg-bei-protest-in-kreuzberg-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/palaestina-demo-in-berlin-thunberg-bei-protest-in-kreuzberg",
+      "published": "Wed, 07 Oct 2026 18:06:43 -0000",
+      "published_display": "07.10.2026 · 18:06 Uhr"
+    },
+    {
+      "title": "Nobelpreis für Chemie: Die wahrscheinlich coolste Reaktion der organischen Chemie",
+      "summary": "Manche Stoffe haben gefährliche Spiegelbilder, wie die Arznei Contergan zeigte. Wie gelingt es, nur die gewünschten Moleküle herzustellen? Dafür gibt es den Nobelpreis.",
+      "image": "https://img.zeit.de/wissenschaft/2026-10/nobelpreis-chemie-2026-henri-kagan-kenso-soai-chirale-molekuele-bild/original__640x360",
+      "link": "https://www.zeit.de/wissenschaft/2026-10/nobelpreis-chemie-2026-henri-kagan-kenso-soai-chirale-molekuele",
+      "published": "Wed, 07 Oct 2026 18:05:01 -0000",
+      "published_display": "07.10.2026 · 18:05 Uhr"
+    },
     {
       "title": "Peter Mendelsund: »Nennt mich den Thomas Müller des Buchdesigns«",
       "summary": "Peter Mendelsund gilt als einer der besten Coverdesigner seiner Generation – und das als gelernter Pianist, ganz ohne Designausbildung. Wie hat er das geschafft?",
@@ -17,110 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/07/linke-gruene-und-spd-in-berlin-beraten-ueber-antisemitismus",
       "published": "Wed, 07 Oct 2026 17:59:09 -0000",
       "published_display": "07.10.2026 · 17:59 Uhr"
-    },
-    {
-      "title": "Anzeige gegen 17-Jährige: Pfefferspray in Bus versprüht – zehn Leichtverletzte",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/07/pfefferspray-in-bus-versprueht-zehn-leichtverletzte-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/07/pfefferspray-in-bus-versprueht-zehn-leichtverletzte",
-      "published": "Wed, 07 Oct 2026 17:55:10 -0000",
-      "published_display": "07.10.2026 · 17:55 Uhr"
-    },
-    {
-      "title": "AfD-Landtagspräsident in Sachsen-Anhalt: SPD stoppt Initiative für überparteiliche Regierung in Sachsen-Anhalt",
-      "summary": "In Sachsen-Anhalt sieht die SPD keine Grundlage mehr für eine überparteiliche Regierung. Durch die Wahl eines AfD-Landtagspräsidenten habe sich das erübrigt.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-10/afd-landtagspraesident-sachsen-anhalt-tobias-rausch-spd-cdu-bsw-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-10/afd-landtagspraesident-sachsen-anhalt-tobias-rausch-spd-cdu-bsw",
-      "published": "Wed, 07 Oct 2026 17:55:06 -0000",
-      "published_display": "07.10.2026 · 17:55 Uhr"
-    },
-    {
-      "title": "Neben Flugplatz: Kleinflugzeug bei Finowfurt abgestürzt - Eine tote Person",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/07/kleinflugzeug-bei-finowfurt-abgestuerzt-eine-tote-person-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/07/kleinflugzeug-bei-finowfurt-abgestuerzt-eine-tote-person",
-      "published": "Wed, 07 Oct 2026 17:51:16 -0000",
-      "published_display": "07.10.2026 · 17:51 Uhr"
-    },
-    {
-      "title": "Staatsbesuch in Frankreich: Frank-Walter Steinmeier ruft zu »Vernunft und Herz« in Europa auf",
-      "summary": "Der Bundespräsident ist für drei Tage nach Frankreich gereist. In Paris beschwor er Humanität und Ratio für Europa in Krisenzeiten.",
-      "image": "https://img.zeit.de/politik/ausland/2026-10/frank-walter-steinmeier-frankreich-emmanuel-macron-besuch-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/frank-walter-steinmeier-frankreich-emmanuel-macron-besuch",
-      "published": "Wed, 07 Oct 2026 17:50:39 -0000",
-      "published_display": "07.10.2026 · 17:50 Uhr"
-    },
-    {
-      "title": "Ruth-Maria Thomas auf der Frankfurter Buchmesse: Wie viel Reichtum verträgt die Liebe?",
-      "summary": "Eine arme Rezeptionistin verliebt sich in einen reichen Hotelgast. Happy End? Ruth-Maria Thomas spricht im Video über ihren neuen Roman und prägende Klassenunterschiede.",
-      "image": "https://img.zeit.de/video/2026-10/ruth-maria-thomas-frankfurter-buchmesse-die-zweitgroesste-liebe-bild/original__640x360",
-      "link": "https://www.zeit.de/video/2026-10/ruth-maria-thomas-frankfurter-buchmesse-die-zweitgroesste-liebe",
-      "published": "Wed, 07 Oct 2026 17:41:37 -0000",
-      "published_display": "07.10.2026 · 17:41 Uhr"
-    },
-    {
-      "title": "Don Pablo Mulemba auf der Frankfurter Buchmesse: Aufwachsen in den »Springerstiefeljahren«",
-      "summary": "Was macht das Deutschsein im Kern aus? Im Video spricht Don Pablo Mulemba über seine Jugend als Sohn eines Angolaners und einer Ostdeutschen.",
-      "image": "https://img.zeit.de/video/2026-10/don-pablo-mulemba-frankfurter-buchmesse-hundeheimat-rassismus-bild/original__640x360",
-      "link": "https://www.zeit.de/video/2026-10/don-pablo-mulemba-frankfurter-buchmesse-hundeheimat-rassismus",
-      "published": "Wed, 07 Oct 2026 17:41:31 -0000",
-      "published_display": "07.10.2026 · 17:41 Uhr"
-    },
-    {
-      "title": "Bundesanwaltschaft: Ex-BND-Präsident Hanning wegen Spionageverdachts in U-Haft",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/07/spionageverdacht-kommt-ex-bnd-chef-hanning-in-u-haft-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/07/spionageverdacht-kommt-ex-bnd-chef-hanning-in-u-haft",
-      "published": "Wed, 07 Oct 2026 17:38:16 -0000",
-      "published_display": "07.10.2026 · 17:38 Uhr"
-    },
-    {
-      "title": "Shida Bazyar auf der Frankfurter Buchmesse: Flucht in eine fremde Heimat",
-      "summary": "In »Die Lücken« ergründet Buchpreisträgerin Shida Bazyar die Bedeutung des Wortes Sicherheit für Geflüchtete. Im Video spricht sie über die ewige Suche nach Heimat.",
-      "image": "https://img.zeit.de/video/2026-10/shida-bazyar-frankfurter-buchmesse-die-luecken-bild/original__640x360",
-      "link": "https://www.zeit.de/video/2026-10/shida-bazyar-frankfurter-buchmesse-die-luecken",
-      "published": "Wed, 07 Oct 2026 17:36:20 -0000",
-      "published_display": "07.10.2026 · 17:36 Uhr"
-    },
-    {
-      "title": "Interreligiöser Gottesdienst: Gedenken an Hamas-Opfer in Gedächtniskirche",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/07/gedenken-an-hamas-opfer-in-gedaechtniskirche-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/07/gedenken-an-hamas-opfer-in-gedaechtniskirche",
-      "published": "Wed, 07 Oct 2026 17:34:35 -0000",
-      "published_display": "07.10.2026 · 17:34 Uhr"
-    },
-    {
-      "title": "Frankfurter Buchmesse: Ein bisschen mehr Action, bitte",
-      "summary": "Krimis zum Mitmachen, ein eigener Sebastian-Fitzek-Stand und Selfie-Spaces: So beginnt die Frankfurter Buchmesse.",
-      "image": "https://img.zeit.de/feuilleton/literatur/2026-10/frankfurter-buchmesse-2026-erster-tag-impressionen-bilder/frankfurter-buchmesse-2026-bild/original__640x360",
-      "link": "https://www.zeit.de/feuilleton/literatur/2026-10/frankfurter-buchmesse-2026-erster-tag-impressionen",
-      "published": "Wed, 07 Oct 2026 17:31:46 -0000",
-      "published_display": "07.10.2026 · 17:31 Uhr"
-    },
-    {
-      "title": "Abstimmung im Landtag: AfD rasselt durch fast alle Gremien-Wahlen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/07/afd-rasselt-durch-fast-alle-gremien-wahlen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/07/afd-rasselt-durch-fast-alle-gremien-wahlen",
-      "published": "Wed, 07 Oct 2026 17:31:29 -0000",
-      "published_display": "07.10.2026 · 17:31 Uhr"
-    },
-    {
-      "title": "Lungenpest-Verdacht in Russland: WHO verlangt Informationen von Russland über mögliche Pest-Infektion",
-      "summary": "Die Weltgesundheitsorganisation will mehr über den Tod einer Mitarbeiterin eines russischen Instituts für Seuchenbekämpfung erfahren. Russland gibt dazu kaum Auskunft.",
-      "image": "https://img.zeit.de/gesundheit/2026-10/lungenpest-russland-irkutsk-who-pest-institut-foto-1/original__640x360",
-      "link": "https://www.zeit.de/gesundheit/2026-10/lungenpest-russland-irkutsk-who-pest-institut",
-      "published": "Wed, 07 Oct 2026 17:26:12 -0000",
-      "published_display": "07.10.2026 · 17:26 Uhr"
-    },
-    {
-      "title": "Fußball: DFB-Elf rutscht in Fifa-Weltrangliste weiter ab",
-      "summary": "Mit fünf Punkten in vier Spielen startete die Fußballnationalmannschaft durchwachsen in die Nations League. In der Weltrangliste liegt Jürgen Klopps Team auf Platz 13.",
-      "image": "https://img.zeit.de/sport/2026-10/fifa-weltrangliste-dfb-nationalmannschaft-juergen-klopp-foto-1/original__640x360",
-      "link": "https://www.zeit.de/sport/2026-10/fifa-weltrangliste-dfb-nationalmannschaft-juergen-klopp",
-      "published": "Wed, 07 Oct 2026 17:18:10 -0000",
-      "published_display": "07.10.2026 · 17:18 Uhr"
     }
   ]
 }
