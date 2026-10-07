@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-07T22:31:43.025955+00:00",
+  "updated": "2026-10-07T22:46:38.419806+00:00",
   "items": [
+    {
+      "title": "Donald Trump: Demokraten verklagen Trump-Regierung wegen Werbespots",
+      "summary": "Die US-Demokraten werfen Trump vor, Steuergelder in Millionenhöhe für TV-Spots der Regierung eingesetzt zu haben. Das DNC will die Werbung für unzulässig erklären lassen.",
+      "image": "https://img.zeit.de/politik/ausland/2026-10/donald-trump-dnc-klage-tv-spots-usa-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/donald-trump-dnc-klage-tv-spots-usa",
+      "published": "Wed, 07 Oct 2026 22:38:21 -0000",
+      "published_display": "07.10.2026 · 22:38 Uhr"
+    },
+    {
+      "title": "Unfall in Brandenburg: Auto kracht beim Überholen in Mopeds - vier Tote",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/07/auto-kracht-beim-ueberholen-in-mopeds-vier-tote-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/auto-kracht-beim-ueberholen-in-mopeds-vier-tote",
+      "published": "Wed, 07 Oct 2026 22:30:24 -0000",
+      "published_display": "07.10.2026 · 22:30 Uhr"
+    },
     {
       "title": "Niedrigwasser: Experten rechnen nicht mit baldiger Erholung des Bodensee-Pegelstandes",
       "summary": "Der Bodensee hat in diesem Jahr außergewöhnlich wenig Wasser bekommen. Für eine Erholung bräuchte es überdurchschnittliche Niederschläge im Herbst und Winter.",
@@ -99,28 +115,12 @@
       "published_display": "07.10.2026 · 21:20 Uhr"
     },
     {
-      "title": "Brandenburg Unfall: Auto kracht beim Überholen in Mopeds - vier Tote",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/07/auto-kracht-beim-ueberholen-in-mopeds-vier-tote-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/07/auto-kracht-beim-ueberholen-in-mopeds-vier-tote",
-      "published": "Wed, 07 Oct 2026 21:07:58 -0000",
-      "published_display": "07.10.2026 · 21:07 Uhr"
-    },
-    {
       "title": "Champions Hockey League: Eisbären Berlin ziehen ins Achtelfinale der CHL ein",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-10/07/eisbaeren-berlin-ziehen-ins-achtelfinale-der-chl-ein-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-10/07/eisbaeren-berlin-ziehen-ins-achtelfinale-der-chl-ein",
       "published": "Wed, 07 Oct 2026 20:50:24 -0000",
       "published_display": "07.10.2026 · 20:50 Uhr"
-    },
-    {
-      "title": "Unfälle: Vier Tote bei Unfall auf Landesstraße in Brandenburg",
-      "summary": "",
-      "image": "https://img.zeit.de/administratives/sharing/fallback-image-die-zeit/wide__1300x731",
-      "link": "https://www.zeit.de/news/2026-10/07/vier-tote-bei-unfall-auf-landesstrasse-in-brandenburg",
-      "published": "Wed, 07 Oct 2026 20:47:12 -0000",
-      "published_display": "07.10.2026 · 20:47 Uhr"
     }
   ]
 }
