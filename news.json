@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-07T01:36:02.502739+00:00",
+  "updated": "2026-10-07T01:49:56.203286+00:00",
   "items": [
+    {
+      "title": "Eva Marie Saint: Oscar-Preisträgerin Eva Marie Saint mit 102 Jahren gestorben",
+      "summary": "Eva Marie Saint hat bis ins hohe Alter vor der Kamera gestanden. Einen Oscar gewann die US-Schauspielerin gleich mit ihrer ersten Filmrolle in »Die Faust im Nacken«.",
+      "image": "https://img.zeit.de/feuilleton/film/2026-10/eva-marie-saint-tod-us-schauspielerin-oscar-foto-1/original__640x360",
+      "link": "https://www.zeit.de/feuilleton/film/2026-10/eva-marie-saint-tod-us-schauspielerin-oscar",
+      "published": "Wed, 07 Oct 2026 01:43:25 -0000",
+      "published_display": "07.10.2026 · 01:43 Uhr"
+    },
+    {
+      "title": "Fotografie: Bilder des Tages",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/07/bilder-des-tages-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/bilder-des-tages",
+      "published": "Wed, 07 Oct 2026 01:34:39 -0000",
+      "published_display": "07.10.2026 · 01:34 Uhr"
+    },
     {
       "title": "Justiz: Mann in Flüchtlingsunterkunft erstochen: Prozessstart",
       "summary": "",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/07/verdacht-auf-lungenpest-trump-will-mit-putin-telefonieren",
       "published": "Wed, 07 Oct 2026 01:03:15 -0000",
       "published_display": "07.10.2026 · 01:03 Uhr"
-    },
-    {
-      "title": "Delegationsreise: Rhein: «Hessen ist das amerikanischste Bundesland»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/07/rhein-hessen-ist-das-amerikanischste-bundesland-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/07/rhein-hessen-ist-das-amerikanischste-bundesland",
-      "published": "Wed, 07 Oct 2026 01:00:07 -0000",
-      "published_display": "07.10.2026 · 01:00 Uhr"
-    },
-    {
-      "title": "Jahrestag des Angriffs: Terrorangriff auf Israel 2023: Gedenken und Demonstrationen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/07/terrorangriff-auf-israel-2023-gedenken-und-demonstrationen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/07/terrorangriff-auf-israel-2023-gedenken-und-demonstrationen",
-      "published": "Wed, 07 Oct 2026 01:00:06 -0000",
-      "published_display": "07.10.2026 · 01:00 Uhr"
     }
   ]
 }
