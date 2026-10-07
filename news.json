@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-07T21:00:50.102298+00:00",
+  "updated": "2026-10-07T21:19:26.186524+00:00",
   "items": [
+    {
+      "title": "Brandenburg Unfall: Auto kracht beim Überholen in Mopeds - vier Tote",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/07/auto-kracht-beim-ueberholen-in-mopeds-vier-tote-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/auto-kracht-beim-ueberholen-in-mopeds-vier-tote",
+      "published": "Wed, 07 Oct 2026 21:07:58 -0000",
+      "published_display": "07.10.2026 · 21:07 Uhr"
+    },
     {
       "title": "Hinrichtungsversuch in Tennessee: US-Amerikanerin nach gescheiterter Hinrichtung wohl bei Bewusstein",
       "summary": "Christa Pike sollte in Tennessee hingerichtet werden, überlebte aber die Giftspritze. Laut ihren Anwälten ist sie bei Bewusstsei, »wütend und verwirrt«.",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/07/thueringer-hc-erkaempft-remis-im-spitzenspiel",
       "published": "Wed, 07 Oct 2026 19:26:06 -0000",
       "published_display": "07.10.2026 · 19:26 Uhr"
-    },
-    {
-      "title": "7. Oktober: Palästina-Demo in Berlin: Thunberg bei Protest in Kreuzberg",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/07/palaestina-demo-in-berlin-thunberg-bei-protest-in-kreuzberg-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/07/palaestina-demo-in-berlin-thunberg-bei-protest-in-kreuzberg",
-      "published": "Wed, 07 Oct 2026 19:21:37 -0000",
-      "published_display": "07.10.2026 · 19:21 Uhr"
     }
   ]
 }
