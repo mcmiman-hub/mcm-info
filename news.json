@@ -1,7 +1,39 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-07T05:20:05.167658+00:00",
+  "updated": "2026-10-07T05:36:36.268071+00:00",
   "items": [
+    {
+      "title": "SpaceX: SpaceX kauft laut Bericht KI-Chips für 40 Milliarden Dollar bei Nvidia",
+      "summary": "Die »Financial Times« berichtet, dass SpaceX 40 Milliarden Dollar für Nvidia-Chips aufbringen will. Elon Musk hatte angekündigt, die Nutzung von Nvidia-Chips auszubauen.",
+      "image": "https://img.zeit.de/digital/2026-10/spacex-nvidia-ki-chips-finanzierung-apollo-pimco-foto-1/original__640x360",
+      "link": "https://www.zeit.de/digital/2026-10/spacex-nvidia-ki-chips-finanzierung-apollo-pimco",
+      "published": "Wed, 07 Oct 2026 05:33:12 -0000",
+      "published_display": "07.10.2026 · 05:33 Uhr"
+    },
+    {
+      "title": "Regionalverband Saarbrücken: Leer stehendes Haus eingestürzt - Bahnstrecke blockiert",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/07/leer-stehendes-haus-eingestuerzt-bahnstrecke-blockiert-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/leer-stehendes-haus-eingestuerzt-bahnstrecke-blockiert",
+      "published": "Wed, 07 Oct 2026 05:26:40 -0000",
+      "published_display": "07.10.2026 · 05:26 Uhr"
+    },
+    {
+      "title": "Brände: Drei Autos brennen in Leipzig - Polizei prüft Straftat",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/07/drei-autos-brennen-in-leipzig-polizei-prueft-straftat-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/drei-autos-brennen-in-leipzig-polizei-prueft-straftat",
+      "published": "Wed, 07 Oct 2026 05:24:36 -0000",
+      "published_display": "07.10.2026 · 05:24 Uhr"
+    },
+    {
+      "title": "Spionageverdacht gegen August Hanning: Politiker fordern Verbot von Anschlussjobs für Geheimdienstmitarbeiter",
+      "summary": "Die Festnahme des ehemaligen BND-Chefs Hanning sorgt im Bundestag für deutliche Kritik. Geheimdienstexperten mehrerer Fraktionen fordern Konsequenzen.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-10/august-hanning-bnd-spionage-geheimdienst-manfred-d-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-10/august-hanning-bnd-spionage-geheimdienst-manfred-d",
+      "published": "Wed, 07 Oct 2026 05:21:58 -0000",
+      "published_display": "07.10.2026 · 05:21 Uhr"
+    },
     {
       "title": "Unfall mit Luxus-Auto: 83-Jähriger stößt in Oberbayern mit Ferrari zusammen",
       "summary": "",
@@ -89,38 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/07/lagerhalle-brennt-flammen-gestoppt-vor-biogasanlage",
       "published": "Wed, 07 Oct 2026 04:23:06 -0000",
       "published_display": "07.10.2026 · 04:23 Uhr"
-    },
-    {
-      "title": "Wetter: Regen und Gewitter: Norddeutschland erwartet kühleres Wetter",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/07/regen-und-gewitter-norddeutschland-erwartet-kuehleres-wetter-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/07/regen-und-gewitter-norddeutschland-erwartet-kuehleres-wetter",
-      "published": "Wed, 07 Oct 2026 04:12:40 -0000",
-      "published_display": "07.10.2026 · 04:12 Uhr"
-    },
-    {
-      "title": "Unfälle: Lkw-Unfall bei Irxleben sorgt für lange Sperrung auf A2",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/07/lkw-unfall-bei-irxleben-sorgt-fuer-lange-sperrung-auf-a2-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/07/lkw-unfall-bei-irxleben-sorgt-fuer-lange-sperrung-auf-a2",
-      "published": "Wed, 07 Oct 2026 04:06:09 -0000",
-      "published_display": "07.10.2026 · 04:06 Uhr"
-    },
-    {
-      "title": "Angriff am 7. Oktober: Drei Jahre 7. Oktober – Warum Netanjahu noch immer im Amt ist",
-      "summary": "Drei Jahre nach dem 7. Oktober: Wieso ist der Ministerpräsident nach wie vor da? Und: Deutschland stand kurz vor einem Blackout.",
-      "image": "https://img.zeit.de/politik/2026-10/angriff-7-oktober-israel-gazastreifen-hamas-nachrichtenpodcast-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/2026-10/angriff-7-oktober-israel-gazastreifen-hamas-nachrichtenpodcast",
-      "published": "Wed, 07 Oct 2026 04:01:22 -0000",
-      "published_display": "07.10.2026 · 04:01 Uhr"
-    },
-    {
-      "title": "Elbvertiefung: Der tägliche Newsletter aus Hamburg: Dieser Mittwoch ist ein schwarzer Samstag",
-      "summary": "Die Elbvertiefung am Mittwoch – Mit einem Bundesverdienstkreuz, einem Geisterschiff, Gedenkstättenpflicht im Lehrplan und Kantinenessen von einem Spitzenkoch",
-      "image": "https://img.zeit.de/hamburg/2026-10/rose/original__640x360",
-      "link": "https://www.zeit.de/hamburg/2026-10/elbvertiefung-07-10-2026",
-      "published": "Wed, 07 Oct 2026 04:00:11 -0000",
-      "published_display": "07.10.2026 · 04:00 Uhr"
     }
   ]
 }
