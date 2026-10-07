@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-07T22:16:51.083353+00:00",
+  "updated": "2026-10-07T22:31:43.025955+00:00",
   "items": [
+    {
+      "title": "Niedrigwasser: Experten rechnen nicht mit baldiger Erholung des Bodensee-Pegelstandes",
+      "summary": "Der Bodensee hat in diesem Jahr außergewöhnlich wenig Wasser bekommen. Für eine Erholung bräuchte es überdurchschnittliche Niederschläge im Herbst und Winter.",
+      "image": "https://img.zeit.de/wissenschaft/umwelt/2026-10/bodensee-niedrigwasser-wasserstand-pegel-konstanz-trockenheit-foto-1/original__640x360",
+      "link": "https://www.zeit.de/wissenschaft/umwelt/2026-10/bodensee-niedrigwasser-wasserstand-pegel-konstanz-trockenheit",
+      "published": "Wed, 07 Oct 2026 22:21:49 -0000",
+      "published_display": "07.10.2026 · 22:21 Uhr"
+    },
+    {
+      "title": "Ringen um Reformen: «Gut war's»: Koalition kommt ohne Nachtsitzung aus",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/08/koalition-ringt-nach-wahl-schock-um-reformen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/koalition-ringt-nach-wahl-schock-um-reformen",
+      "published": "Wed, 07 Oct 2026 22:20:04 -0000",
+      "published_display": "07.10.2026 · 22:20 Uhr"
+    },
+    {
+      "title": "7. Oktober: Palästina-Demo in Berlin: Thunberg bei Protest in Kreuzberg",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/07/palaestina-demo-in-berlin-thunberg-bei-protest-in-kreuzberg-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/palaestina-demo-in-berlin-thunberg-bei-protest-in-kreuzberg",
+      "published": "Wed, 07 Oct 2026 22:18:51 -0000",
+      "published_display": "07.10.2026 · 22:18 Uhr"
+    },
     {
       "title": "Hinrichtungsversuch in Tennessee: US-Amerikanerin kann nach überlebter Hinrichtung wieder sprechen",
       "summary": "Laut ihren Anwälten ist Christa Pike bei Bewusstsein, »wütend und verwirrt«. Sie fordern, dass nicht noch einmal versucht wird, sie hinzurichten.",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/07/vier-tote-bei-unfall-auf-landesstrasse-in-brandenburg",
       "published": "Wed, 07 Oct 2026 20:47:12 -0000",
       "published_display": "07.10.2026 · 20:47 Uhr"
-    },
-    {
-      "title": "Reformpoker: Koalitionsausschuss beendet Sitzung nach vier Stunden",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/07/koalition-ringt-nach-wahl-schock-um-reformen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/07/koalition-ringt-nach-wahl-schock-um-reformen",
-      "published": "Wed, 07 Oct 2026 20:43:23 -0000",
-      "published_display": "07.10.2026 · 20:43 Uhr"
-    },
-    {
-      "title": "Schulproteste in Belgien: Bahnhof in Belgien wegen Schulprotesten zwischenzeitlich geschlossen",
-      "summary": "Ausschreitungen rund um Schulproteste in Lüttich haben die Polizei dazu veranlasst, einen Bahnhof zu schließen. Die Beamten sprachen von »bedeutenden Unruhen«.",
-      "image": "https://img.zeit.de/politik/ausland/2026-10/belgien-schuelerproteste-luettich-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/schulproteste-belgien-luettich-unruhen-frankreich-schueler",
-      "published": "Wed, 07 Oct 2026 20:33:34 -0000",
-      "published_display": "07.10.2026 · 20:33 Uhr"
-    },
-    {
-      "title": "Sachsen-Anhalt: Staatsministerin Güler geht von CDU-Stimmen für AfD-Mann aus",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/07/staatsministerin-gueler-geht-von-cdu-stimmen-fuer-afd-mann-aus-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/07/staatsministerin-gueler-geht-von-cdu-stimmen-fuer-afd-mann-aus",
-      "published": "Wed, 07 Oct 2026 20:32:37 -0000",
-      "published_display": "07.10.2026 · 20:32 Uhr"
     }
   ]
 }
