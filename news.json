@@ -1,7 +1,87 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-07T01:19:43.988993+00:00",
+  "updated": "2026-10-07T01:36:02.502739+00:00",
   "items": [
+    {
+      "title": "Justiz: Mann in Flüchtlingsunterkunft erstochen: Prozessstart",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/07/mann-in-fluechtlingsunterkunft-erstochen-prozessstart-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/mann-in-fluechtlingsunterkunft-erstochen-prozessstart",
+      "published": "Wed, 07 Oct 2026 01:30:13 -0000",
+      "published_display": "07.10.2026 · 01:30 Uhr"
+    },
+    {
+      "title": "Invasive Art: So viele Waschbären wie nie zuvor in Hessen erlegt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/07/so-viele-waschbaeren-wie-nie-zuvor-in-hessen-erlegt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/so-viele-waschbaeren-wie-nie-zuvor-in-hessen-erlegt",
+      "published": "Wed, 07 Oct 2026 01:30:13 -0000",
+      "published_display": "07.10.2026 · 01:30 Uhr"
+    },
+    {
+      "title": "Landtagsauflösung: AfD will die Selbstauflösung des Thüringer Landtags",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/07/afd-will-die-selbstaufloesung-des-thueringer-landtags-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/afd-will-die-selbstaufloesung-des-thueringer-landtags",
+      "published": "Wed, 07 Oct 2026 01:30:12 -0000",
+      "published_display": "07.10.2026 · 01:30 Uhr"
+    },
+    {
+      "title": "Rückfällig geworden?: Mann soll im Hafturlaub Jungen missbraucht haben - Prozess",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/07/mann-soll-im-hafturlaub-jungen-missbraucht-haben-prozess-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/mann-soll-im-hafturlaub-jungen-missbraucht-haben-prozess",
+      "published": "Wed, 07 Oct 2026 01:30:07 -0000",
+      "published_display": "07.10.2026 · 01:30 Uhr"
+    },
+    {
+      "title": "Kapitalmarkttag: Porsche stellt neue strategische Ausrichtung vor",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/07/porsche-stellt-neue-strategische-ausrichtung-vor-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/porsche-stellt-neue-strategische-ausrichtung-vor",
+      "published": "Wed, 07 Oct 2026 01:30:06 -0000",
+      "published_display": "07.10.2026 · 01:30 Uhr"
+    },
+    {
+      "title": "Jahrestag des Angriffs: Gedenken an Terrorangriff auf Israel 2023 - Gegendemos",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/07/gedenken-an-terrorangriff-auf-israel-2023-gegendemos-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/gedenken-an-terrorangriff-auf-israel-2023-gegendemos",
+      "published": "Wed, 07 Oct 2026 01:30:05 -0000",
+      "published_display": "07.10.2026 · 01:30 Uhr"
+    },
+    {
+      "title": "Saarland: Innenministerium stellt Verfassungsschutzbericht vor",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/07/innenministerium-stellt-verfassungsschutzbericht-vor-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/innenministerium-stellt-verfassungsschutzbericht-vor",
+      "published": "Wed, 07 Oct 2026 01:30:04 -0000",
+      "published_display": "07.10.2026 · 01:30 Uhr"
+    },
+    {
+      "title": "Nach Warnung Selenskyjs: Neue russische Angriffe auf Kiew",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/07/neue-russische-angriffe-auf-kiew-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/neue-russische-angriffe-auf-kiew",
+      "published": "Wed, 07 Oct 2026 01:29:25 -0000",
+      "published_display": "07.10.2026 · 01:29 Uhr"
+    },
+    {
+      "title": "Wetterumbruch: Spätsommerliches Wetter wird vom Herbst abgelöst",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/07/spaetsommerliches-wetter-wird-vom-herbst-abgeloest-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/spaetsommerliches-wetter-wird-vom-herbst-abgeloest",
+      "published": "Wed, 07 Oct 2026 01:20:07 -0000",
+      "published_display": "07.10.2026 · 01:20 Uhr"
+    },
+    {
+      "title": "Russland: WHO fordert Transparenz nach Tod von Laborantin in Russland",
+      "summary": "Der WHO-Chef verlangt einen Informationsaustausch zu dem angeblichen Lungenpestfall in Russland. Man müsse widersprüchliche Berichte klären, um Gefahren einzuschätzen.",
+      "image": "https://img.zeit.de/gesundheit/2026-10/who-pressekonferenz-in-genf-bild/original__640x360",
+      "link": "https://www.zeit.de/gesundheit/2026-10/lungenpest-russland-laborunfall-irkutsk-who",
+      "published": "Wed, 07 Oct 2026 01:19:52 -0000",
+      "published_display": "07.10.2026 · 01:19 Uhr"
+    },
     {
       "title": "Landkreis Wesermarsch: Tödlicher Frontalzusammenstoß auf Bundesstraße",
       "summary": "",
@@ -41,86 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/07/terrorangriff-auf-israel-2023-gedenken-und-demonstrationen",
       "published": "Wed, 07 Oct 2026 01:00:06 -0000",
       "published_display": "07.10.2026 · 01:00 Uhr"
-    },
-    {
-      "title": "Dritter Jahrestag des 7. Oktober: Bundesregierung bekennt sich zum Kampf gegen Antisemitismus",
-      "summary": "Deutschland stehe fest an Israels Seite, sagt der Bundeskanzler vor dem dritten Jahrestag des 7. Oktober. Außenminister Johann Wadephul warnt vor Judenhass.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-10/bundeskanzler-friedrich-merz-aussenminister-johann-wadephul-hamas-angriff-israel-existenzrecht-antisemitismus-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-10/bundeskanzler-friedrich-merz-aussenminister-johann-wadephul-hamas-angriff-israel-existenzrecht-antisemitismus",
-      "published": "Wed, 07 Oct 2026 00:54:02 -0000",
-      "published_display": "07.10.2026 · 00:54 Uhr"
-    },
-    {
-      "title": "Kosovo: Parlament in Kosovo ernennt Präsidentin und entgeht damit Neuwahlen",
-      "summary": "In der Nacht haben Abgeordnete des kosovarischen Parlaments eine Neuwahl verhindern können. Sie wählten Justina Shiroka Pula zur neuen Präsidentin der Landes.",
-      "image": "https://img.zeit.de/politik/2026-10/2026-10-06t233234z-102363747-mt1anadl000l4vau5-rtrmadp-3-anadolu-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/praesidentenwahl-kosovo-justina-shiroka-pula-albin-kurti-neuwahlen",
-      "published": "Wed, 07 Oct 2026 00:37:45 -0000",
-      "published_display": "07.10.2026 · 00:37 Uhr"
-    },
-    {
-      "title": "Letztes Spiel in Nationalelf: Große Emotionen bei «Messis letztem Tango» für Argentinien",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/07/grosse-emotionen-bei-messis-letztem-tango-fuer-argentinien-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/07/grosse-emotionen-bei-messis-letztem-tango-fuer-argentinien",
-      "published": "Wed, 07 Oct 2026 00:29:40 -0000",
-      "published_display": "07.10.2026 · 00:29 Uhr"
-    },
-    {
-      "title": "Kreis Weser: Unfall mit Motorrad - Mann in Lebensgefahr",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/07/unfall-mit-motorrad-mann-in-lebensgefahr-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/07/unfall-mit-motorrad-mann-in-lebensgefahr",
-      "published": "Wed, 07 Oct 2026 00:26:14 -0000",
-      "published_display": "07.10.2026 · 00:26 Uhr"
-    },
-    {
-      "title": "Todesstrafe in den USA: Anwälte: Pike nach gescheiterter Hinrichtung bei Bewusstsein",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/06/anwaelte-pike-nach-gescheiterter-hinrichtung-bei-bewusstsein-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/06/anwaelte-pike-nach-gescheiterter-hinrichtung-bei-bewusstsein",
-      "published": "Tue, 06 Oct 2026 23:39:32 -0000",
-      "published_display": "06.10.2026 · 23:39 Uhr"
-    },
-    {
-      "title": "Cristiano Ronaldo: Ronaldo will weiterhin in Portugals Nationalmannschaft spielen",
-      "summary": "Cristiano Ronaldo wirft dem portugiesischen Nationaltrainer Wortbruch vor. Er selbst will weiter in der Mannschaft spielen, habe aber kein Vertrauen mehr in Jorge Jesus.",
-      "image": "https://img.zeit.de/sport/2026-10/norwegen-portugal-bild/original__640x360",
-      "link": "https://www.zeit.de/sport/2026-10/cristiano-ronaldo-portugal-nationalmannschaft-jorge-jesus",
-      "published": "Tue, 06 Oct 2026 23:33:43 -0000",
-      "published_display": "06.10.2026 · 23:33 Uhr"
-    },
-    {
-      "title": "Cornell University: Ex-Staatsanwältin prüft Umgang mit Vergewaltigungsvorwurf",
-      "summary": "Nach Protesten lässt die Cornell-Universität prüfen, was ihre Verwaltung nach einer mutmaßlichen Gruppenvergewaltigung unternahm. Sally Yates leitet die Ermittlungen.",
-      "image": "https://img.zeit.de/gesellschaft/2026-10/cornell-university-gruppenvergewaltigung-sally-yates-chi-phi-bild/original__640x360",
-      "link": "https://www.zeit.de/gesellschaft/2026-10/cornell-university-gruppenvergewaltigung-sally-yates-chi-phi",
-      "published": "Tue, 06 Oct 2026 23:04:35 -0000",
-      "published_display": "06.10.2026 · 23:04 Uhr"
-    },
-    {
-      "title": "Schusswaffenangriff in Kanada: Möglicher Komplize von Schulangriff in Kanada in den USA festgenommen",
-      "summary": "Ein 30-Jähriger US-Amerikaner soll die mutmaßliche Täterin eines Schusswaffenangriffs in Kanada unterstützt haben. Acht Menschen wurden dabei im Februar getötet.",
-      "image": "https://img.zeit.de/gesellschaft/2026-10/nach-dem-toedlichen-angriff-in-kanada-bild/original__640x360",
-      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-10/tumbler-ridge-schusswaffenangriff-kanada-schule-usa",
-      "published": "Tue, 06 Oct 2026 22:22:34 -0000",
-      "published_display": "06.10.2026 · 22:22 Uhr"
-    },
-    {
-      "title": "Motorenbauer: Motorenbauer Deutz möchte Personal am Stammwerk abbauen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/07/motorenbauer-deutz-moechte-personal-am-stammwerk-abbauen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/07/motorenbauer-deutz-moechte-personal-am-stammwerk-abbauen",
-      "published": "Tue, 06 Oct 2026 22:15:04 -0000",
-      "published_display": "06.10.2026 · 22:15 Uhr"
-    },
-    {
-      "title": "Sachsen-Anhalt: Banaszak warnt vor «schleichender Normalisierung» der AfD",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/07/banaszak-warnt-vor-schleichender-normalisierung-der-afd-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/07/banaszak-warnt-vor-schleichender-normalisierung-der-afd",
-      "published": "Tue, 06 Oct 2026 22:01:06 -0000",
-      "published_display": "06.10.2026 · 22:01 Uhr"
     }
   ]
 }
