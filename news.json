@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-07T02:50:05.901695+00:00",
+  "updated": "2026-10-07T03:00:47.708934+00:00",
   "items": [
+    {
+      "title": "Dritter Jahrestag des Hamas-Angriffs vom 7. Oktober: Gedenkveranstaltungen und Proteste in Berlin geplant",
+      "summary": "Zum Jahrestags des Hamas-Angriffs auf Israel sind auch in Deutschland Veranstaltungen angesetzt. Im Bundestag findet eine Debatte zu Antisemitismus statt. Das Liveblog",
+      "image": "https://img.zeit.de/politik/2026-10/zweiter-jahrestag-hamas-angriff-berlin-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2025-10/krieg-gaza-israel-hamas-liveblog",
+      "published": "Wed, 07 Oct 2026 02:51:30 -0000",
+      "published_display": "07.10.2026 · 02:51 Uhr"
+    },
     {
       "title": "Sachsen-Anhalt: Wegen AfD: SPD sieht Erklärungsbedarf bei CDU",
       "summary": "",
@@ -112,14 +120,6 @@
       "image": "https://img.zeit.de/news/2026-10/07/ein-riesiges-kriminalitaetsfeld-im-dunklen-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-10/07/ein-riesiges-kriminalitaetsfeld-im-dunklen",
       "published": "Wed, 07 Oct 2026 02:00:15 -0000",
-      "published_display": "07.10.2026 · 02:00 Uhr"
-    },
-    {
-      "title": "Verkehr: Stauwarnung: Das müssen Autofahrer rund um Hamburg beachten",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/07/stauwarnung-das-muessen-autofahrer-rund-um-hamburg-beachten-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/07/stauwarnung-das-muessen-autofahrer-rund-um-hamburg-beachten",
-      "published": "Wed, 07 Oct 2026 02:00:10 -0000",
       "published_display": "07.10.2026 · 02:00 Uhr"
     }
   ]
