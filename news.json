@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-07T19:48:16.486359+00:00",
+  "updated": "2026-10-07T19:58:20.948730+00:00",
   "items": [
+    {
+      "title": "A14: Sattelzug prallt in Auto - zwei Tote",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/07/sattelzug-prallt-in-auto-zwei-tote-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/sattelzug-prallt-in-auto-zwei-tote",
+      "published": "Wed, 07 Oct 2026 19:55:12 -0000",
+      "published_display": "07.10.2026 · 19:55 Uhr"
+    },
+    {
+      "title": "Unfall am Nachmittag: Von Traktorfahrer übersehen - 87-jähriger auf Pedelec stirbt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/07/von-traktorfahrer-uebersehen-87-jaehriger-auf-pedelec-stirbt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/von-traktorfahrer-uebersehen-87-jaehriger-auf-pedelec-stirbt",
+      "published": "Wed, 07 Oct 2026 19:54:16 -0000",
+      "published_display": "07.10.2026 · 19:54 Uhr"
+    },
     {
       "title": "Jahrestag des Hamas-Überfalls auf Israel: Greta Thunberg nimmt an pro-palästinensischer Demo in Berlin teil",
       "summary": "In Berlin versammelten sich Hunderte, um am Jahrestag des Hamas-Massakers gegen Israel zu protestieren. Darunter war die Aktivistin Greta Thunberg.",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/07/neue-russische-angriffe-auf-kiew",
       "published": "Wed, 07 Oct 2026 18:37:56 -0000",
       "published_display": "07.10.2026 · 18:37 Uhr"
-    },
-    {
-      "title": "Mahnwache: Hunderte gedenken in Dresden den Opfern des Hamas-Terrors",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/07/hunderte-gedenken-in-dresden-den-opfern-des-hamas-terrors-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/07/hunderte-gedenken-in-dresden-den-opfern-des-hamas-terrors",
-      "published": "Wed, 07 Oct 2026 18:28:17 -0000",
-      "published_display": "07.10.2026 · 18:28 Uhr"
-    },
-    {
-      "title": "Schülerproteste in Frankreich: Wer ist schuld an der Gewalt?",
-      "summary": "Es gibt zwei unversöhnliche Antworten darauf, warum in Frankreich die Schülerproteste eskalieren. Sie offenbaren die Spaltung des Landes in rechts und links.",
-      "image": "https://img.zeit.de/2026/44/wer-ist-schuld-an-der-gewalt-bild-3/original__640x360",
-      "link": "https://www.zeit.de/2026/44/frankreich-schuelerproteste-schulen-polizei-lfi-emmanuel-macron",
-      "published": "Wed, 07 Oct 2026 18:21:51 -0000",
-      "published_display": "07.10.2026 · 18:21 Uhr"
     }
   ]
 }
