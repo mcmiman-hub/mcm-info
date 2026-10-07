@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-07T20:35:56.890752+00:00",
+  "updated": "2026-10-07T20:50:09.921872+00:00",
   "items": [
+    {
+      "title": "Unfälle: Vier Tote bei Unfall auf Landesstraße in Brandenburg",
+      "summary": "",
+      "image": "https://img.zeit.de/administratives/sharing/fallback-image-die-zeit/wide__1300x731",
+      "link": "https://www.zeit.de/news/2026-10/07/vier-tote-bei-unfall-auf-landesstrasse-in-brandenburg",
+      "published": "Wed, 07 Oct 2026 20:47:12 -0000",
+      "published_display": "07.10.2026 · 20:47 Uhr"
+    },
+    {
+      "title": "Reformpoker: Koalitionsausschuss beendet Sitzung nach vier Stunden",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/07/koalition-ringt-nach-wahl-schock-um-reformen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/koalition-ringt-nach-wahl-schock-um-reformen",
+      "published": "Wed, 07 Oct 2026 20:43:23 -0000",
+      "published_display": "07.10.2026 · 20:43 Uhr"
+    },
     {
       "title": "Schulproteste in Belgien: Bahnhof in Belgien wegen Schulprotesten zwischenzeitlich geschlossen",
       "summary": "Ausschreitungen rund um Schulproteste in Lüttich haben die Polizei dazu veranlasst, einen Bahnhof zu schließen. Die Beamten sprachen von »bedeutenden Unruhen«.",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/07/auto-rammt-geparkte-wagen-in-pankow-zwei-verletzte",
       "published": "Wed, 07 Oct 2026 19:15:48 -0000",
       "published_display": "07.10.2026 · 19:15 Uhr"
-    },
-    {
-      "title": "Oliver Bäte: Oliver Bäte: »Vertrauen gewinnt man langsam und verliert es schnell.«",
-      "summary": "Seit über zehn Jahren ist er CEO der Allianz. Im Podcast spricht Oliver Bäte offen über Herausforderungen in der Transformation und eigene Fehler.",
-      "image": "https://img.zeit.de/arbeit/2026-10/rainer-esser-oliver-baete-interview-bild/original__640x360",
-      "link": "https://www.zeit.de/wirtschaft/2026-10/oliver-baete-allianz-ceo-podcast-transformation-vertrauen",
-      "published": "Wed, 07 Oct 2026 19:10:18 -0000",
-      "published_display": "07.10.2026 · 19:10 Uhr"
-    },
-    {
-      "title": "Buntes: Einmal Döner zum Trinken, bitte",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/07/einmal-doener-zum-trinken-bitte-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/07/einmal-doener-zum-trinken-bitte",
-      "published": "Wed, 07 Oct 2026 19:05:51 -0000",
-      "published_display": "07.10.2026 · 19:05 Uhr"
     }
   ]
 }
