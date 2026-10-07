@@ -1,22 +1,94 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-07T08:00:15.909487+00:00",
+  "updated": "2026-10-07T08:21:55.102084+00:00",
   "items": [
     {
+      "title": "Unfall an Haltestelle: Mann von Stadtbahn erfasst und lebensgefährlich verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/07/mann-von-stadtbahn-erfasst-und-lebensgefaehrlich-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/mann-von-stadtbahn-erfasst-und-lebensgefaehrlich-verletzt",
+      "published": "Wed, 07 Oct 2026 08:18:40 -0000",
+      "published_display": "07.10.2026 · 08:18 Uhr"
+    },
+    {
+      "title": "Landtag Niedersachsen: Immunität von SPD-Fraktionschef Politze aufgehoben",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/07/immunitaet-von-spd-fraktionschef-politze-aufgehoben-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/immunitaet-von-spd-fraktionschef-politze-aufgehoben",
+      "published": "Wed, 07 Oct 2026 08:17:11 -0000",
+      "published_display": "07.10.2026 · 08:17 Uhr"
+    },
+    {
+      "title": "Jahrestag des Hamas-Angriffs: Israel erinnert an Hamas-Angriff des 7. Oktober vor drei Jahren",
+      "summary": "Am dritten Jahrestag des Anschlags der Hamas auf Israel finden in Israel Gedenkveranstaltungen statt. Auch in Berlin sind Veranstaltungen geplant.",
+      "image": "https://img.zeit.de/politik/2026-10/jahrestag-hamas-angriff-israel-7-oktober-demonstrationen-berlin-foto-2/original__640x360",
+      "link": "https://www.zeit.de/politik/2026-10/jahrestag-hamas-angriff-israel-7-oktober-demonstrationen-berlin",
+      "published": "Wed, 07 Oct 2026 08:16:34 -0000",
+      "published_display": "07.10.2026 · 08:16 Uhr"
+    },
+    {
+      "title": "Sperrkreis eingerichtet: Weltkriegsbombe im Norden von Oranienburg gefunden",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/07/weltkriegsbombe-im-norden-von-oranienburg-gefunden-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/weltkriegsbombe-im-norden-von-oranienburg-gefunden",
+      "published": "Wed, 07 Oct 2026 08:13:35 -0000",
+      "published_display": "07.10.2026 · 08:13 Uhr"
+    },
+    {
+      "title": "Regionalverband Saarbrücken: Leerstehendes Haus eingestürzt – Bahnstrecke wieder frei",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/07/leer-stehendes-haus-eingestuerzt-bahnstrecke-blockiert-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/leer-stehendes-haus-eingestuerzt-bahnstrecke-blockiert",
+      "published": "Wed, 07 Oct 2026 08:10:41 -0000",
+      "published_display": "07.10.2026 · 08:10 Uhr"
+    },
+    {
+      "title": "CDU und SPD: Brandenburger Landesregierung fordert »Kehrtwende« der Bundesregierung",
+      "summary": "In einem Gastbeitrag kritisieren Brandenburgs Ministerpräsident Woidke und Innenminister Redmann die Bundesregierung. Die demokratische Mitte drohe zu versagen.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-10/dietmar-woidke-jan-redmann-brandenburg-bundesregierung-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-10/dietmar-woidke-jan-redmann-brandenburg-bundesregierung",
+      "published": "Wed, 07 Oct 2026 08:08:03 -0000",
+      "published_display": "07.10.2026 · 08:08 Uhr"
+    },
+    {
+      "title": "Nach Warnung Selenskyjs: Tote bei russischem Großangriff auf Kiew",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/07/neue-russische-angriffe-auf-kiew-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/neue-russische-angriffe-auf-kiew",
+      "published": "Wed, 07 Oct 2026 08:03:21 -0000",
+      "published_display": "07.10.2026 · 08:03 Uhr"
+    },
+    {
+      "title": "Populärer WDR-Krimi im Ersten: Nächster Münster-«Tatort» kurz nach dem 11.11.: «Narrentanz»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/07/naechster-muenster-tatort-kurz-nach-dem-11-11-narrentanz-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/naechster-muenster-tatort-kurz-nach-dem-11-11-narrentanz",
+      "published": "Wed, 07 Oct 2026 08:02:51 -0000",
+      "published_display": "07.10.2026 · 08:02 Uhr"
+    },
+    {
+      "title": "Bahnverkehr: Weg frei für Bahn-Neubaustrecke Hannover-Hamburg",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/07/weg-frei-fuer-bahn-neubaustrecke-hannover-hamburg-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/weg-frei-fuer-bahn-neubaustrecke-hannover-hamburg",
+      "published": "Wed, 07 Oct 2026 08:01:44 -0000",
+      "published_display": "07.10.2026 · 08:01 Uhr"
+    },
+    {
+      "title": "Letztes Spiel in Nationalelf: Die magische Abschiedsnacht des «Heiligen Messi»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/07/grosse-emotionen-bei-messis-letztem-tango-fuer-argentinien-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/grosse-emotionen-bei-messis-letztem-tango-fuer-argentinien",
+      "published": "Wed, 07 Oct 2026 08:00:06 -0000",
+      "published_display": "07.10.2026 · 08:00 Uhr"
+    },
+    {
       "title": "AfD in Sachsen-Anhalt: Die Wahrheit, der wir uns stellen müssen",
-      "summary": "Im neuen Landtag sitzt die AfD mitten im Raum. Das ist mehr als eine Sitzordnung. Das Bild zeugt von einer Partei, die gesellschaftlich vom Rand ins Zentrum gerückt ist.",
+      "summary": "Im neuen Landtag sitzt die AfD mitten im Raum. Das ist mehr als eine Sitzordnung. Das Bild zeigt, wie die Partei in Sachsen-Anhalt vom Rand ins Zentrum gerückt ist.",
       "image": "https://img.zeit.de/politik/2026-10/afd-sachsen-anhalt-mitte-partei-landtag-bild/original__640x360",
       "link": "https://www.zeit.de/feuilleton/2026-10/afd-sachsen-anhalt-mitte-partei-landtag",
       "published": "Wed, 07 Oct 2026 07:59:29 -0000",
       "published_display": "07.10.2026 · 07:59 Uhr"
-    },
-    {
-      "title": "Verkehr: Weg frei für Bahn-Neubaustrecke Hannover-Hamburg",
-      "summary": "",
-      "image": "",
-      "link": "https://www.zeit.de/news/2026-10/07/weg-frei-fuer-bahn-neubaustrecke-hannover-hamburg",
-      "published": "Wed, 07 Oct 2026 07:56:38 -0000",
-      "published_display": "07.10.2026 · 07:56 Uhr"
     },
     {
       "title": "Personalie: Moritz Kalthoff zum SPD-Fraktionsvize gewählt",
@@ -43,84 +115,12 @@
       "published_display": "07.10.2026 · 07:51 Uhr"
     },
     {
-      "title": "Landtag Niedersachsen: Immunität von SPD-Fraktionschef Politze aufgehoben",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/07/immunitaet-von-spd-fraktionschef-politze-aufgehoben-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/07/immunitaet-von-spd-fraktionschef-politze-aufgehoben",
-      "published": "Wed, 07 Oct 2026 07:41:55 -0000",
-      "published_display": "07.10.2026 · 07:41 Uhr"
-    },
-    {
       "title": "Gesetz gegen digitale Gewalt: Besitz von Vergewaltigungsvideos soll strafbar werden",
       "summary": "Das Kabinett berät über ein Gesetz, das den Besitz von Vergewaltigungsvideos unter Strafe stellt. Der Entwurf enthält auch Regeln zu illegalen sexualisierte Deepfakes.",
       "image": "https://img.zeit.de/digital/2026-10/gesetz-digitale-gewalt-kabinett-deepfakes-voyeurismus-identitaetsmissbrauch-foto-1/original__640x360",
       "link": "https://www.zeit.de/digital/2026-10/gesetz-digitale-gewalt-kabinett-deepfakes-voyeurismus-identitaetsmissbrauch",
       "published": "Wed, 07 Oct 2026 07:36:38 -0000",
       "published_display": "07.10.2026 · 07:36 Uhr"
-    },
-    {
-      "title": "Optogenetik: Licht ist an – sehen wir was?",
-      "summary": "Die Medizinnobelpreisträger helfen, das Hirn zu durchleuchten. Nur sehen sie nicht, wie sich Gefühle oder Verhalten formen. In Wahrheit haben wir eine Behörde im Kopf.",
-      "image": "https://img.zeit.de/2026/44/licht-ist-an-sehen-wir-was-bild-1/original__640x360",
-      "link": "https://www.zeit.de/2026/44/optogenetik-gehirn-medizin-nobelpreis-karl-deisseroth-georg-nagel-peter-hegemann",
-      "published": "Wed, 07 Oct 2026 07:35:57 -0000",
-      "published_display": "07.10.2026 · 07:35 Uhr"
-    },
-    {
-      "title": "Physiknobelpreis: Endstation Eisblock",
-      "summary": "Der Physiknobelpreis ehrt ein bedrohtes Forschungsmodell: das bloße Streben nach Erkenntnis – international und ohne Ego. Das ist auch ein Wink an den US-Präsidenten.",
-      "image": "https://img.zeit.de/2026/44/endstation-eisblock-bild-2/original__640x360",
-      "link": "https://www.zeit.de/2026/44/physiknobelpreis-francis-halzen-neutrinos-icecube",
-      "published": "Wed, 07 Oct 2026 07:35:52 -0000",
-      "published_display": "07.10.2026 · 07:35 Uhr"
-    },
-    {
-      "title": "Leute: Rudi Cerne über Krimi-Magazin-Zusage: «War eher skeptisch»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/07/rudi-cerne-ueber-krimi-magazin-zusage-war-eher-skeptisch-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/07/rudi-cerne-ueber-krimi-magazin-zusage-war-eher-skeptisch",
-      "published": "Wed, 07 Oct 2026 07:35:22 -0000",
-      "published_display": "07.10.2026 · 07:35 Uhr"
-    },
-    {
-      "title": "Verkehr: Gefährlicher Fahrstil: Zwei Verletzte bei Unfall auf A5",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/07/gefaehrlicher-fahrstil-zwei-verletzte-bei-unfall-auf-a5-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/07/gefaehrlicher-fahrstil-zwei-verletzte-bei-unfall-auf-a5",
-      "published": "Wed, 07 Oct 2026 07:32:35 -0000",
-      "published_display": "07.10.2026 · 07:32 Uhr"
-    },
-    {
-      "title": "Verkehrsunfall: Autofahrer kracht in Gegenverkehr und stirbt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/07/autofahrer-kracht-in-gegenverkehr-und-stirbt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/07/autofahrer-kracht-in-gegenverkehr-und-stirbt",
-      "published": "Wed, 07 Oct 2026 07:31:04 -0000",
-      "published_display": "07.10.2026 · 07:31 Uhr"
-    },
-    {
-      "title": "Jahrestag des Angriffs: Spranger: Hass und Terror haben keinen Platz in Berlin",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/07/spranger-hass-und-terror-haben-keinen-platz-in-berlin-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/07/spranger-hass-und-terror-haben-keinen-platz-in-berlin",
-      "published": "Wed, 07 Oct 2026 07:29:31 -0000",
-      "published_display": "07.10.2026 · 07:29 Uhr"
-    },
-    {
-      "title": "125. Länderspiel: Tuchel adelt Rekordmann Kane: «Unglaublich»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/07/tuchel-adelt-rekordmann-kane-unglaublich-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/07/tuchel-adelt-rekordmann-kane-unglaublich",
-      "published": "Wed, 07 Oct 2026 07:28:00 -0000",
-      "published_display": "07.10.2026 · 07:28 Uhr"
-    },
-    {
-      "title": "Erster AfD-Landtagspräsident: SPD-Politikerin sieht Merz bei Sachsen-Anhalt in der Pflicht",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/07/spd-politikerin-sieht-merz-bei-sachsen-anhalt-in-der-pflicht-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/07/spd-politikerin-sieht-merz-bei-sachsen-anhalt-in-der-pflicht",
-      "published": "Wed, 07 Oct 2026 07:21:31 -0000",
-      "published_display": "07.10.2026 · 07:21 Uhr"
     }
   ]
 }
