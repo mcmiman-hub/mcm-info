@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-07T05:51:43.144582+00:00",
+  "updated": "2026-10-07T06:00:54.704064+00:00",
   "items": [
+    {
+      "title": "Technikversagen: Stellwerk defekt: Zugausfälle zwischen Essen und Wuppertal",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/07/stellwerk-defekt-zugausfaelle-zwischen-essen-und-wuppertal-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/stellwerk-defekt-zugausfaelle-zwischen-essen-und-wuppertal",
+      "published": "Wed, 07 Oct 2026 05:56:59 -0000",
+      "published_display": "07.10.2026 · 05:56 Uhr"
+    },
+    {
+      "title": "Brände: Drei Verletzte nach Wohnungsbrand in Naumburg",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/07/drei-verletzte-nach-wohnungsbrand-in-naumburg-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/drei-verletzte-nach-wohnungsbrand-in-naumburg",
+      "published": "Wed, 07 Oct 2026 05:55:03 -0000",
+      "published_display": "07.10.2026 · 05:55 Uhr"
+    },
     {
       "title": "Antisemitismusbeauftragter: Grüne fordern neuen Antisemitismusbeauftragten von Bundesregierung",
       "summary": "Die Grünen fordern, zügig einen neuen Antisemitismusbeauftragten zu berufen. Die Bundesregierung gebe sich als Vorkämpferin, handle aber nicht entsprechend.",
@@ -27,7 +43,7 @@
       "published_display": "07.10.2026 · 05:45 Uhr"
     },
     {
-      "title": "Todesfall in Forschungslabor: Vertuscht Russland einen Laborunfall mit dem Pesterreger?",
+      "title": "Todesfall in Forschungslabor: Vertuscht Russland einen Laborunfall mit dem Pest-Erreger?",
       "summary": "Eine in Sibirien verstorbene Laborantin löst weltweit Nervosität aus, Berichte widersprechen sich. Russlands Informationspolitik lässt großen Raum für Spekulationen.",
       "image": "https://img.zeit.de/gesundheit/2026-10/todesfall-forschungslabor-pest-russland-sibirien-bild/original__640x360",
       "link": "https://www.zeit.de/gesundheit/2026-10/todesfall-forschungslabor-pest-russland-sibirien",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/2026-08/freiheit-entfremdung-philosophie-rahel-jaeggi-nur-eine-frage",
       "published": "Wed, 07 Oct 2026 04:58:20 -0000",
       "published_display": "07.10.2026 · 04:58 Uhr"
-    },
-    {
-      "title": "EU-Handel mit China: China kritisiert Pläne in der EU für Schutzinstrumente im Handel",
-      "summary": "Deutschland und Frankreich regen neue Schutzinstrumente an, um die europäische Wirtschaft zu schützen. China fordert, auf Protektionismus zu verzichten.",
-      "image": "https://img.zeit.de/wirtschaft/2026-10/china-eu-handelsbeziehungen-protektionismus-olaf-scholz-emmanuel-macron-ursula-von-der-leyen-foto-1/original__640x360",
-      "link": "https://www.zeit.de/wirtschaft/2026-10/china-eu-handelsbeziehungen-protektionismus-friedrich-merz-emmanuel-macron-ursula-von-der-leyen",
-      "published": "Wed, 07 Oct 2026 04:55:53 -0000",
-      "published_display": "07.10.2026 · 04:55 Uhr"
-    },
-    {
-      "title": "Wetter: Stürmischer Wind und Regen an der Nordsee erwartet",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/07/stuermischer-wind-und-regen-an-der-nordsee-erwartet-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/07/stuermischer-wind-und-regen-an-der-nordsee-erwartet",
-      "published": "Wed, 07 Oct 2026 04:50:59 -0000",
-      "published_display": "07.10.2026 · 04:50 Uhr"
     }
   ]
 }
