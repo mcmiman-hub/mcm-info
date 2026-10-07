@@ -1,14 +1,70 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-07T17:09:32.730461+00:00",
+  "updated": "2026-10-07T17:35:25.975461+00:00",
   "items": [
+    {
+      "title": "Frankfurter Buchmesse: Ein bisschen mehr Action, bitte",
+      "summary": "Krimis zum Mitmachen, ein eigener Sebastian-Fitzek-Stand und Selfie-Spaces: So beginnt die Frankfurter Buchmesse.",
+      "image": "https://img.zeit.de/feuilleton/literatur/2026-10/frankfurter-buchmesse-2026-erster-tag-impressionen-bilder/frankfurter-buchmesse-2026-bild/original__640x360",
+      "link": "https://www.zeit.de/feuilleton/literatur/2026-10/frankfurter-buchmesse-2026-erster-tag-impressionen",
+      "published": "Wed, 07 Oct 2026 17:31:46 -0000",
+      "published_display": "07.10.2026 · 17:31 Uhr"
+    },
+    {
+      "title": "Abstimmung im Landtag: AfD rasselt durch fast alle Gremien-Wahlen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/07/afd-rasselt-durch-fast-alle-gremien-wahlen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/afd-rasselt-durch-fast-alle-gremien-wahlen",
+      "published": "Wed, 07 Oct 2026 17:31:29 -0000",
+      "published_display": "07.10.2026 · 17:31 Uhr"
+    },
+    {
+      "title": "Lungenpest-Verdacht in Russland: WHO verlangt Informationen von Russland über mögliche Pest-Infektion",
+      "summary": "Die Weltgesundheitsorganisation will mehr über den Tod einer Mitarbeiterin eines russischen Instituts für Seuchenbekämpfung erfahren. Russland gibt dazu kaum Auskunft.",
+      "image": "https://img.zeit.de/gesundheit/2026-10/lungenpest-russland-irkutsk-who-pest-institut-foto-1/original__640x360",
+      "link": "https://www.zeit.de/gesundheit/2026-10/lungenpest-russland-irkutsk-who-pest-institut",
+      "published": "Wed, 07 Oct 2026 17:26:12 -0000",
+      "published_display": "07.10.2026 · 17:26 Uhr"
+    },
     {
       "title": "Fußball: DFB-Elf rutscht in Fifa-Weltrangliste weiter ab",
       "summary": "Mit fünf Punkten in vier Spielen startete die Fußballnationalmannschaft durchwachsen in die Nations League. In der Weltrangliste liegt Jürgen Klopps Team auf Platz 13.",
       "image": "https://img.zeit.de/sport/2026-10/fifa-weltrangliste-dfb-nationalmannschaft-juergen-klopp-foto-1/original__640x360",
       "link": "https://www.zeit.de/sport/2026-10/fifa-weltrangliste-dfb-nationalmannschaft-juergen-klopp",
-      "published": "Wed, 07 Oct 2026 17:05:10 -0000",
-      "published_display": "07.10.2026 · 17:05 Uhr"
+      "published": "Wed, 07 Oct 2026 17:18:10 -0000",
+      "published_display": "07.10.2026 · 17:18 Uhr"
+    },
+    {
+      "title": "7. Oktober: Palästina-Demo in Berlin: Thunberg bei Protest in Kreuzberg",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/07/palaestina-demo-in-berlin-thunberg-bei-protest-in-kreuzberg-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/palaestina-demo-in-berlin-thunberg-bei-protest-in-kreuzberg",
+      "published": "Wed, 07 Oct 2026 17:17:33 -0000",
+      "published_display": "07.10.2026 · 17:17 Uhr"
+    },
+    {
+      "title": "Sachsen-Anhalt: SPD beendet Initiative für überparteiliche Regierung",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/07/spd-beendet-initiative-fuer-ueberparteiliche-regierung-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/spd-beendet-initiative-fuer-ueberparteiliche-regierung",
+      "published": "Wed, 07 Oct 2026 17:14:00 -0000",
+      "published_display": "07.10.2026 · 17:14 Uhr"
+    },
+    {
+      "title": "Hamas-Angriff auf Nova-Festival: Erst jetzt kann ihr Gedenken langsam Konturen annehmen",
+      "summary": "Drei Jahre nach dem Massaker der Hamas erinnern Stelen an die Toten des Nova Festivals. Doch niemand hier hat Vertrauen, dass die relative Ruhe lange währt.",
+      "image": "https://img.zeit.de/politik/ausland/2026-10/hamas-angriff-nova-festival-jahrestag-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/hamas-angriff-nova-festival-jahrestag",
+      "published": "Wed, 07 Oct 2026 17:12:12 -0000",
+      "published_display": "07.10.2026 · 17:12 Uhr"
+    },
+    {
+      "title": "Wahl in Sachsen-Anhalt: Lies: AfD-Politiker als Landtagspräsident «keine Normalität»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/07/lies-afd-politiker-als-landtagspraesident-keine-normalitaet-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/lies-afd-politiker-als-landtagspraesident-keine-normalitaet",
+      "published": "Wed, 07 Oct 2026 17:07:31 -0000",
+      "published_display": "07.10.2026 · 17:07 Uhr"
     },
     {
       "title": "Schuletat: Protest gegen Kürzungen im Hamburger Bildungsetat wächst",
@@ -65,62 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/07/staatskanzleichef-auftritt-von-rapper-in-erfurt-pruefen",
       "published": "Wed, 07 Oct 2026 16:35:33 -0000",
       "published_display": "07.10.2026 · 16:35 Uhr"
-    },
-    {
-      "title": "Koalitionsausschuss: Merz will Reformpaket bis zum Frühjahr umsetzen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/07/koalition-ringt-nach-wahl-schock-um-reformen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/07/koalition-ringt-nach-wahl-schock-um-reformen",
-      "published": "Wed, 07 Oct 2026 16:30:06 -0000",
-      "published_display": "07.10.2026 · 16:30 Uhr"
-    },
-    {
-      "title": "AfD-Landtagspräsident: Kann man nach diesem historischen Tag einfach weiterregieren?",
-      "summary": "Die Wahl eines AfD-Landtagspräsidenten belastet die schwarz-rote Koalition. Dabei hatten Union und SPD eigentlich einen anderen Plan: Routine.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-10/afd-landtagspraesident-tobias-rausch-friedrich-merz-koalition-bundesregierung-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-10/afd-landtagspraesident-tobias-rausch-friedrich-merz-koalition-bundesregierung",
-      "published": "Wed, 07 Oct 2026 16:30:00 -0000",
-      "published_display": "07.10.2026 · 16:30 Uhr"
-    },
-    {
-      "title": "Schwangerschaft bekanntgegeben: Sport-Moderatorin Laura Wontorra erwartet ein Kind",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/07/sport-moderatorin-laura-wontorra-erwartet-ein-kind-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/07/sport-moderatorin-laura-wontorra-erwartet-ein-kind",
-      "published": "Wed, 07 Oct 2026 16:23:43 -0000",
-      "published_display": "07.10.2026 · 16:23 Uhr"
-    },
-    {
-      "title": "Bundesanwaltschaft: Ex-BND-Präsident Hanning wegen Spionageverdachts in U-Haft",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/07/spionageverdacht-kommt-ex-bnd-chef-hanning-in-u-haft-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/07/spionageverdacht-kommt-ex-bnd-chef-hanning-in-u-haft",
-      "published": "Wed, 07 Oct 2026 16:22:58 -0000",
-      "published_display": "07.10.2026 · 16:22 Uhr"
-    },
-    {
-      "title": "Personalie: Chefwechsel bei Fresenius Medical Care",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/07/chefwechsel-bei-fresenius-medical-care-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/07/chefwechsel-bei-fresenius-medical-care",
-      "published": "Wed, 07 Oct 2026 16:22:47 -0000",
-      "published_display": "07.10.2026 · 16:22 Uhr"
-    },
-    {
-      "title": "280-Gramm-Glas: Als giftig eingestuft - Go Asia ruft gebratene Farne zurück",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/07/als-giftig-eingestuft-go-asia-ruft-gebratene-farne-zurueck-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/07/als-giftig-eingestuft-go-asia-ruft-gebratene-farne-zurueck",
-      "published": "Wed, 07 Oct 2026 16:16:24 -0000",
-      "published_display": "07.10.2026 · 16:16 Uhr"
-    },
-    {
-      "title": "Gedenkfeier in Berlin: Deutsche Spitzenpolitiker gedenken der Opfer des Hamas-Terrors",
-      "summary": "Merz, Dobrindt und Klöckner mahnen am dritten Jahrestag des 7. Oktober 2023 Kampf gegen Judenhass an. Israels Botschafter fordert eine »Offensive gegen Antisemitismus«.",
-      "image": "https://img.zeit.de/politik/2026-10/gedenkfeier-7-oktober-berlin-ron-prosor-alexander-dobrindt-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/2026-10/gedenkfeier-7-oktober-berlin-ron-prosor-alexander-dobrindt-gxe",
-      "published": "Wed, 07 Oct 2026 16:14:59 -0000",
-      "published_display": "07.10.2026 · 16:14 Uhr"
     }
   ]
 }
