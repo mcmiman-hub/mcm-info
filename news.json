@@ -1,11 +1,19 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-07T21:50:33.436109+00:00",
+  "updated": "2026-10-07T22:00:07.532179+00:00",
   "items": [
+    {
+      "title": "Kalenderblatt: Was geschah am 8. Oktober?",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/07/was-geschah-am-8-oktober-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/was-geschah-am-8-oktober",
+      "published": "Wed, 07 Oct 2026 21:55:04 -0000",
+      "published_display": "07.10.2026 · 21:55 Uhr"
+    },
     {
       "title": "Hinrichtungsversuch in Tennessee: US-Amerikanerin kann nach überlebter Hinrichtung wieder sprechen",
       "summary": "Laut ihren Anwälten ist Christa Pike bei Bewusstsein, »wütend und verwirrt«. Sie fordern, dass nicht noch einmal versucht wird, sie hinzurichten.",
-      "image": "https://img.zeit.de/politik/ausland/2026-10/christa-pike-bild/original__640x360",
+      "image": "https://img.zeit.de/politik/ausland/2026-10/christa-pike/original__640x360",
       "link": "https://www.zeit.de/politik/ausland/2026-10/christa-pike-hinrichtung-tennessee-giftspitze",
       "published": "Wed, 07 Oct 2026 21:43:11 -0000",
       "published_display": "07.10.2026 · 21:43 Uhr"
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/06/anwaelte-pike-nach-gescheiterter-hinrichtung-bei-bewusstsein",
       "published": "Wed, 07 Oct 2026 20:00:01 -0000",
       "published_display": "07.10.2026 · 20:00 Uhr"
-    },
-    {
-      "title": "Tod nach Zwangsräumung: 87-jährige Spanierin stirbt zwei Wochen nach Zwangsräumung",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/07/87-jaehrige-spanierin-stirbt-zwei-wochen-nach-zwangsraeumung-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/07/87-jaehrige-spanierin-stirbt-zwei-wochen-nach-zwangsraeumung",
-      "published": "Wed, 07 Oct 2026 19:59:29 -0000",
-      "published_display": "07.10.2026 · 19:59 Uhr"
     }
   ]
 }
