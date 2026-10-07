@@ -1,7 +1,55 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-07T03:20:01.256921+00:00",
+  "updated": "2026-10-07T03:37:35.975284+00:00",
   "items": [
+    {
+      "title": "Schulwahl: Wie finde ich die richtige Schule für mein Kind?",
+      "summary": "Kaum etwas stresst Eltern so sehr, wie die Wahl der richtigen weiterführenden Schule für ihr Kind. Eine Lehrerin erklärt, worauf man wirklich achten muss.",
+      "image": "https://img.zeit.de/familie/2026-10/belohnungen-erziehung-kinder-verhalten/original__640x360",
+      "link": "https://www.zeit.de/familie/2026-10/schulwahl-weiterfuehrende-schule-eltern-lehrerin-kinder",
+      "published": "Wed, 07 Oct 2026 03:35:41 -0000",
+      "published_display": "07.10.2026 · 03:35 Uhr"
+    },
+    {
+      "title": "Bafög-Reform: »So ist das Studium kein Privileg, sondern handfeste Armut«",
+      "summary": "82 Prozent der alleinlebenden Studierenden sind arm, zeigt eine neue Studie. Eine der Autorinnen erklärt, was das mit Mietwuchern und verschleppten Reformen zu tun hat.",
+      "image": "https://img.zeit.de/bildung/deutschland/2026-10/bafoeg-reform-studierende-armut-greta-schabram-bild/original__640x360",
+      "link": "https://www.zeit.de/campus/2026-10/bafoeg-reform-studierende-armut-greta-schabram",
+      "published": "Wed, 07 Oct 2026 03:35:17 -0000",
+      "published_display": "07.10.2026 · 03:35 Uhr"
+    },
+    {
+      "title": "Hackerangriff auf Solaranlagen: Deutschland war nur einen Knopfdruck vom Superblackout entfernt",
+      "summary": "Ein Hacker hätte Hunderttausende Solaranlagen abschalten und so einen großflächigen Stromausfall verursachen können. Zum Glück war es einer von den Guten. Dieses Mal.",
+      "image": "https://img.zeit.de/digital/2026-10/hackerangriff-solaranlagen-sicherheitsluecke-blackout-solarenergie-teaserbild/original__640x360",
+      "link": "https://www.zeit.de/digital/2026-10/hackerangriff-solaranlagen-sicherheitsluecke-blackout-solarenergie",
+      "published": "Wed, 07 Oct 2026 03:32:55 -0000",
+      "published_display": "07.10.2026 · 03:32 Uhr"
+    },
+    {
+      "title": "Babyleichen: Polizei hofft auf neue Hinweise zu Babyleichen-Fall",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/07/polizei-hofft-auf-neue-hinweise-zu-babyleichen-fall-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/polizei-hofft-auf-neue-hinweise-zu-babyleichen-fall",
+      "published": "Wed, 07 Oct 2026 03:30:05 -0000",
+      "published_display": "07.10.2026 · 03:30 Uhr"
+    },
+    {
+      "title": "Wetterbericht: Wann es heute im Südwesten gewittern könnte",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/07/wann-es-heute-im-suedwesten-gewittern-koennte-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/wann-es-heute-im-suedwesten-gewittern-koennte",
+      "published": "Wed, 07 Oct 2026 03:30:04 -0000",
+      "published_display": "07.10.2026 · 03:30 Uhr"
+    },
+    {
+      "title": "Dritter Jahrestag des Hamas-Angriffs vom 7. Oktober: Gedenkveranstaltungen und Proteste in Berlin geplant",
+      "summary": "Zum Jahrestag des Hamas-Angriffs auf Israel sind auch in Deutschland Veranstaltungen angesetzt. Im Bundestag findet eine Debatte zu Antisemitismus statt. Das Liveblog",
+      "image": "https://img.zeit.de/politik/2026-10/zweiter-jahrestag-hamas-angriff-berlin-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2025-10/krieg-gaza-israel-hamas-liveblog",
+      "published": "Wed, 07 Oct 2026 03:23:40 -0000",
+      "published_display": "07.10.2026 · 03:23 Uhr"
+    },
     {
       "title": "Mehr Fälle: Kindesmissbrauch mit KI: Cyber-Ermittler vor neuen Problemen",
       "summary": "",
@@ -73,54 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/07/was-macht-amazon-so-beliebt",
       "published": "Wed, 07 Oct 2026 03:00:09 -0000",
       "published_display": "07.10.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "VW-Krise und ihre Folgen: Angst um Audi: Neckarsulm kämpft um sein Werk",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/07/angst-um-audi-neckarsulm-kaempft-um-sein-werk-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/07/angst-um-audi-neckarsulm-kaempft-um-sein-werk",
-      "published": "Wed, 07 Oct 2026 03:00:08 -0000",
-      "published_display": "07.10.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Lesungen und Konzerte: Zu Ehren von Günter Grass: neues Kulturfestival in Altdöbern",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/07/zu-ehren-von-guenter-grass-neues-kulturfestival-in-altdoebern-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/07/zu-ehren-von-guenter-grass-neues-kulturfestival-in-altdoebern",
-      "published": "Wed, 07 Oct 2026 03:00:05 -0000",
-      "published_display": "07.10.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Erkältungskrankheiten: Erkältung, Corona, Grippe – Saison der Infekte beginnt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/07/erkaeltung-corona-grippe-saison-der-infekte-beginnt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/07/erkaeltung-corona-grippe-saison-der-infekte-beginnt",
-      "published": "Wed, 07 Oct 2026 03:00:04 -0000",
-      "published_display": "07.10.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Dritter Jahrestag des Hamas-Angriffs vom 7. Oktober: Gedenkveranstaltungen und Proteste in Berlin geplant",
-      "summary": "Zum Jahrestags des Hamas-Angriffs auf Israel sind auch in Deutschland Veranstaltungen angesetzt. Im Bundestag findet eine Debatte zu Antisemitismus statt. Das Liveblog",
-      "image": "https://img.zeit.de/politik/2026-10/zweiter-jahrestag-hamas-angriff-berlin-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2025-10/krieg-gaza-israel-hamas-liveblog",
-      "published": "Wed, 07 Oct 2026 02:51:30 -0000",
-      "published_display": "07.10.2026 · 02:51 Uhr"
-    },
-    {
-      "title": "Sachsen-Anhalt: Wegen AfD: SPD sieht Erklärungsbedarf bei CDU",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/07/wegen-afd-spd-sieht-erklaerungsbedarf-bei-cdu-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/07/wegen-afd-spd-sieht-erklaerungsbedarf-bei-cdu",
-      "published": "Wed, 07 Oct 2026 02:30:07 -0000",
-      "published_display": "07.10.2026 · 02:30 Uhr"
-    },
-    {
-      "title": "Familienministerin: Prien: Gesetz für Gesellschaftsdienst soll kommen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/07/prien-gesetz-fuer-gesellschaftsdienst-soll-kommen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/07/prien-gesetz-fuer-gesellschaftsdienst-soll-kommen",
-      "published": "Wed, 07 Oct 2026 02:30:06 -0000",
-      "published_display": "07.10.2026 · 02:30 Uhr"
     }
   ]
 }
