@@ -1,126 +1,126 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-07T12:01:05.032180+00:00",
+  "updated": "2026-10-07T12:26:23.775385+00:00",
   "items": [
     {
-      "title": "Deepfakes: Justizminister begrüßt Gesetzentwurf zu digitaler Gewalt",
+      "title": "Spionageverdacht: Ehemaliger BND-Chef August Hanning muss in Untersuchungshaft",
+      "summary": "Der Bundesgerichtshof hat U-Haft für den Ex-BND-Chef Hanning verfügt. Dem Geheimdienstler wird unter anderem Ausspähung und versuchter Landesverrat vorgeworfen.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-10/august-hanning-bnd-spionage-haft-bundesgerichtshof-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-10/august-hanning-bnd-spionage-haft-bundesgerichtshof",
+      "published": "Wed, 07 Oct 2026 12:24:19 -0000",
+      "published_display": "07.10.2026 · 12:24 Uhr"
+    },
+    {
+      "title": "Raubkatzenalarm: Möglicherweise freilaufender Puma nahe Münchner Flughafen",
       "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/07/justizminister-begruesst-gesetzentwurf-zu-digitaler-gewalt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/07/justizminister-begruesst-gesetzentwurf-zu-digitaler-gewalt",
-      "published": "Wed, 07 Oct 2026 11:57:26 -0000",
-      "published_display": "07.10.2026 · 11:57 Uhr"
+      "image": "https://img.zeit.de/news/2026-10/07/moeglicherweise-freilaufender-puma-nahe-muenchner-flughafen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/moeglicherweise-freilaufender-puma-nahe-muenchner-flughafen",
+      "published": "Wed, 07 Oct 2026 12:23:12 -0000",
+      "published_display": "07.10.2026 · 12:23 Uhr"
+    },
+    {
+      "title": "Lob für Neugestaltung: Thüringer Bibliothekspreis geht nach Ilmenau",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/07/thueringer-bibliothekspreis-geht-nach-ilmenau-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/thueringer-bibliothekspreis-geht-nach-ilmenau",
+      "published": "Wed, 07 Oct 2026 12:22:14 -0000",
+      "published_display": "07.10.2026 · 12:22 Uhr"
+    },
+    {
+      "title": "Konjunktur: IWF rechnet mit anhaltend hohen Energiepreisen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/07/iwf-rechnet-mit-anhaltend-hohen-energiepreisen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/iwf-rechnet-mit-anhaltend-hohen-energiepreisen",
+      "published": "Wed, 07 Oct 2026 12:21:51 -0000",
+      "published_display": "07.10.2026 · 12:21 Uhr"
+    },
+    {
+      "title": "Antisemitische Vorfälle: Brandstiftung, Schmierereien, Mord",
+      "summary": "Seit dem 7. Oktober gab es Tausende Angriffe auf Jüdinnen und Juden weltweit. Das zeigen Daten des World Jewish Congress. Eine Auswahl zeigt: Einschüchterung ist Alltag.",
+      "image": "https://img.zeit.de/2026/42/brandstiftung-schmierereien-mord-bild-1/original__640x360",
+      "link": "https://www.zeit.de/2026/42/antisemitische-vorfaelle-world-jewish-congress-ausschreitungen",
+      "published": "Wed, 07 Oct 2026 12:20:27 -0000",
+      "published_display": "07.10.2026 · 12:20 Uhr"
+    },
+    {
+      "title": "Sachsen-Anhalt: AfD-Erfolge in Magdeburg: CDU unter Druck vor MP-Wahl",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/07/wegen-afd-spd-sieht-erklaerungsbedarf-bei-cdu-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/wegen-afd-spd-sieht-erklaerungsbedarf-bei-cdu",
+      "published": "Wed, 07 Oct 2026 12:16:11 -0000",
+      "published_display": "07.10.2026 · 12:16 Uhr"
+    },
+    {
+      "title": "Hamburger Hafen : Bund stoppt chinesische Übernahme von Logistikfirma Zippel",
+      "summary": "Der Bund blockiert den Verkauf von 80 Prozent der Anteile des Hamburger Logistikers Zippel an den chinesischen Staatskonzern Cosco. Grund sind Sicherheitsbedenken.",
+      "image": "https://img.zeit.de/wirtschaft/2026-10/cosco-zippel-uebernahme-hamburg-logistik-china-foto-1/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/2026-10/cosco-zippel-uebernahme-hamburg-logistik-china",
+      "published": "Wed, 07 Oct 2026 12:13:57 -0000",
+      "published_display": "07.10.2026 · 12:13 Uhr"
+    },
+    {
+      "title": "Terminkalender des Hofes: Norwegens Mette-Marit bis zum Sommer ohne offizielle Termine",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/07/norwegens-mette-marit-bis-zum-sommer-ohne-offizielle-termine-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/norwegens-mette-marit-bis-zum-sommer-ohne-offizielle-termine",
+      "published": "Wed, 07 Oct 2026 12:13:29 -0000",
+      "published_display": "07.10.2026 · 12:13 Uhr"
+    },
+    {
+      "title": "Brand: Feuer greift von brennendem Auto auf Friseursalon über",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/07/feuer-greift-von-brennendem-auto-auf-friseursalon-ueber-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/feuer-greift-von-brennendem-auto-auf-friseursalon-ueber",
+      "published": "Wed, 07 Oct 2026 12:11:36 -0000",
+      "published_display": "07.10.2026 · 12:11 Uhr"
+    },
+    {
+      "title": "Nach Entzug der Doktorwürde: Thüringer Regierungschef Voigt gibt Kampf um Doktortitel auf",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/07/thueringer-regierungschef-voigt-gibt-kampf-um-doktortitel-auf-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/thueringer-regierungschef-voigt-gibt-kampf-um-doktortitel-auf",
+      "published": "Wed, 07 Oct 2026 12:10:03 -0000",
+      "published_display": "07.10.2026 · 12:10 Uhr"
     },
     {
       "title": "Freiwilliges Übernahmeangebot: BASF-Interesse an Evonik: SPD schlägt Landesbeteiligung vor",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-10/07/basf-interesse-an-evonik-spd-schlaegt-landesbeteiligung-vor-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-10/07/basf-interesse-an-evonik-spd-schlaegt-landesbeteiligung-vor",
-      "published": "Wed, 07 Oct 2026 11:56:44 -0000",
-      "published_display": "07.10.2026 · 11:56 Uhr"
+      "published": "Wed, 07 Oct 2026 12:09:28 -0000",
+      "published_display": "07.10.2026 · 12:09 Uhr"
     },
     {
-      "title": "Premier League: Havertz-Trainer bleibt: Arteta verlängert bei Arsenal",
+      "title": "Bandenkriminalität: Schlag gegen Goldschmuggler - Durchsuchungen bei Juwelieren",
       "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/07/havertz-trainer-bleibt-arteta-verlaengert-bei-arsenal-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/07/havertz-trainer-bleibt-arteta-verlaengert-bei-arsenal",
-      "published": "Wed, 07 Oct 2026 11:56:01 -0000",
-      "published_display": "07.10.2026 · 11:56 Uhr"
+      "image": "https://img.zeit.de/news/2026-10/07/schlag-gegen-goldschmuggler-durchsuchungen-bei-juwelieren-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/schlag-gegen-goldschmuggler-durchsuchungen-bei-juwelieren",
+      "published": "Wed, 07 Oct 2026 12:06:09 -0000",
+      "published_display": "07.10.2026 · 12:06 Uhr"
     },
     {
-      "title": "Festnahmen: Junger Mann in Nürnberg schwer verletzt und beraubt",
+      "title": "Stuttgart-Nord: Mutmaßlich rechtsextremer Angriff: «Wir bringen dich um!»",
       "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/07/junger-mann-in-nuernberg-schwer-verletzt-und-beraubt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/07/junger-mann-in-nuernberg-schwer-verletzt-und-beraubt",
-      "published": "Wed, 07 Oct 2026 11:55:53 -0000",
-      "published_display": "07.10.2026 · 11:55 Uhr"
+      "image": "https://img.zeit.de/news/2026-10/07/mutmasslich-rechtsextremer-angriff-wir-bringen-dich-um-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/mutmasslich-rechtsextremer-angriff-wir-bringen-dich-um",
+      "published": "Wed, 07 Oct 2026 12:04:48 -0000",
+      "published_display": "07.10.2026 · 12:04 Uhr"
     },
     {
-      "title": "Fußball: Krösches Stil bei der Eintracht: «Demokratische Diktatur»",
+      "title": "Straftaten im Hafturlaub?: Missbrauch im Kinderzimmer - «Ich schäme mich»",
       "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/07/kroesches-stil-bei-der-eintracht-demokratische-diktatur-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/07/kroesches-stil-bei-der-eintracht-demokratische-diktatur",
-      "published": "Wed, 07 Oct 2026 11:55:19 -0000",
-      "published_display": "07.10.2026 · 11:55 Uhr"
+      "image": "https://img.zeit.de/news/2026-10/07/mann-soll-im-hafturlaub-jungen-missbraucht-haben-prozess-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/mann-soll-im-hafturlaub-jungen-missbraucht-haben-prozess",
+      "published": "Wed, 07 Oct 2026 12:03:23 -0000",
+      "published_display": "07.10.2026 · 12:03 Uhr"
     },
     {
-      "title": "Spionageverdacht: Ehemaliger BND-Chef August Hanning muss in Untersuchungshaft",
-      "summary": "Der Bundesgerichtshof hat U-Haft für den Ex-BND-Chef Hanning verfügt. Dem Geheimdienstler wird unter anderem Ausspähung und versuchter Landesverrat vorgeworfen.",
-      "image": "https://img.zeit.de/administratives/sharing/fallback-image-die-zeit/wide__1300x731",
-      "link": "https://www.zeit.de/politik/deutschland/2026-10/august-hanning-bnd-spionage-haft-bundesgerichtshof",
-      "published": "Wed, 07 Oct 2026 11:54:09 -0000",
-      "published_display": "07.10.2026 · 11:54 Uhr"
-    },
-    {
-      "title": "Wahl im Landtag: Ambrock neuer Landes-Datenschutzbeauftragter",
+      "title": "Lücke in Autobahn: Umweltverband zieht wegen A1-Urteil vor Verfassungsgericht",
       "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/07/ambrock-neuer-landes-datenschutzbeauftragter-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/07/ambrock-neuer-landes-datenschutzbeauftragter",
-      "published": "Wed, 07 Oct 2026 11:53:03 -0000",
-      "published_display": "07.10.2026 · 11:53 Uhr"
-    },
-    {
-      "title": "Landtag von Sachsen-Anhalt: BSW will mit AfD Ukraine-Antrag verabschieden",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/07/bsw-will-mit-afd-ukraine-antrag-verabschieden-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/07/bsw-will-mit-afd-ukraine-antrag-verabschieden",
-      "published": "Wed, 07 Oct 2026 11:52:48 -0000",
-      "published_display": "07.10.2026 · 11:52 Uhr"
-    },
-    {
-      "title": "Länderfinanzausgleich: Endres: Für Demokratiefeinde keinen Cent aus Bayern",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/07/endres-fuer-demokratiefeinde-keinen-cent-aus-bayern-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/07/endres-fuer-demokratiefeinde-keinen-cent-aus-bayern",
-      "published": "Wed, 07 Oct 2026 11:52:26 -0000",
-      "published_display": "07.10.2026 · 11:52 Uhr"
-    },
-    {
-      "title": "Aktionsbündnis Kindeswohl: Bündnis fordert bessere Bedingungen für Kinder in Hessen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/07/buendnis-fordert-bessere-bedingungen-fuer-kinder-in-hessen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/07/buendnis-fordert-bessere-bedingungen-fuer-kinder-in-hessen",
-      "published": "Wed, 07 Oct 2026 11:49:30 -0000",
-      "published_display": "07.10.2026 · 11:49 Uhr"
-    },
-    {
-      "title": "Kostspielige Tierliebe: Teures Futter und hohe Hundesteuer",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/07/teures-futter-und-hohe-hundesteuer-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/07/teures-futter-und-hohe-hundesteuer",
-      "published": "Wed, 07 Oct 2026 11:48:53 -0000",
-      "published_display": "07.10.2026 · 11:48 Uhr"
-    },
-    {
-      "title": "Bahntickets: Pendler im Bahn-Fernverkehr zahlen weniger für Monatskarten",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/07/pendler-im-bahn-fernverkehr-zahlen-weniger-fuer-monatskarten-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/07/pendler-im-bahn-fernverkehr-zahlen-weniger-fuer-monatskarten",
-      "published": "Wed, 07 Oct 2026 11:48:40 -0000",
-      "published_display": "07.10.2026 · 11:48 Uhr"
-    },
-    {
-      "title": "Porzellanmanufaktur: Nach Insolvenz - Kahla stellt Betrieb Ende des Jahres ein",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/07/nach-insolvenz-kahla-stellt-betrieb-ende-des-jahres-ein-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/07/nach-insolvenz-kahla-stellt-betrieb-ende-des-jahres-ein",
-      "published": "Wed, 07 Oct 2026 11:48:10 -0000",
-      "published_display": "07.10.2026 · 11:48 Uhr"
-    },
-    {
-      "title": "Unfälle: 41-Jähriger bei Arbeitsunfall in Langen schwer verletzt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/07/41-jaehriger-bei-arbeitsunfall-in-langen-schwer-verletzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/07/41-jaehriger-bei-arbeitsunfall-in-langen-schwer-verletzt",
-      "published": "Wed, 07 Oct 2026 11:47:38 -0000",
-      "published_display": "07.10.2026 · 11:47 Uhr"
-    },
-    {
-      "title": "Verkehr: Reform für mehr Investitionen in Autobahnen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/07/reform-fuer-mehr-investitionen-in-autobahnen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/07/reform-fuer-mehr-investitionen-in-autobahnen",
-      "published": "Wed, 07 Oct 2026 11:47:11 -0000",
-      "published_display": "07.10.2026 · 11:47 Uhr"
+      "image": "https://img.zeit.de/news/2026-10/07/umweltverband-zieht-wegen-a1-urteil-vor-verfassungsgericht-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/umweltverband-zieht-wegen-a1-urteil-vor-verfassungsgericht",
+      "published": "Wed, 07 Oct 2026 12:00:23 -0000",
+      "published_display": "07.10.2026 · 12:00 Uhr"
     }
   ]
 }
