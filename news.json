@@ -1,7 +1,87 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-07T03:59:39.730658+00:00",
+  "updated": "2026-10-07T04:20:10.454992+00:00",
   "items": [
+    {
+      "title": "Wetter: Regen und Gewitter: Norddeutschland erwartet kühleres Wetter",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/07/regen-und-gewitter-norddeutschland-erwartet-kuehleres-wetter-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/regen-und-gewitter-norddeutschland-erwartet-kuehleres-wetter",
+      "published": "Wed, 07 Oct 2026 04:12:40 -0000",
+      "published_display": "07.10.2026 · 04:12 Uhr"
+    },
+    {
+      "title": "Unfälle: Lkw-Unfall bei Irxleben sorgt für lange Sperrung auf A2",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/07/lkw-unfall-bei-irxleben-sorgt-fuer-lange-sperrung-auf-a2-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/lkw-unfall-bei-irxleben-sorgt-fuer-lange-sperrung-auf-a2",
+      "published": "Wed, 07 Oct 2026 04:06:09 -0000",
+      "published_display": "07.10.2026 · 04:06 Uhr"
+    },
+    {
+      "title": "Angriff am 7. Oktober: Drei Jahre 7. Oktober – Warum Netanjahu noch immer im Amt ist",
+      "summary": "Drei Jahre nach dem 7. Oktober: Wieso ist der Ministerpräsident nach wie vor da? Und: Deutschland stand kurz vor einem Blackout.",
+      "image": "https://img.zeit.de/politik/2026-10/angriff-7-oktober-israel-gazastreifen-hamas-nachrichtenpodcast-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/2026-10/angriff-7-oktober-israel-gazastreifen-hamas-nachrichtenpodcast",
+      "published": "Wed, 07 Oct 2026 04:01:22 -0000",
+      "published_display": "07.10.2026 · 04:01 Uhr"
+    },
+    {
+      "title": "Elbvertiefung: Der tägliche Newsletter aus Hamburg: Dieser Mittwoch ist ein schwarzer Samstag",
+      "summary": "Die Elbvertiefung am Mittwoch – Mit einem Bundesverdienstkreuz, einem Geisterschiff, Gedenkstättenpflicht im Lehrplan und Kantinenessen von einem Spitzenkoch",
+      "image": "https://img.zeit.de/hamburg/2026-10/rose/original__640x360",
+      "link": "https://www.zeit.de/hamburg/2026-10/elbvertiefung-07-10-2026",
+      "published": "Wed, 07 Oct 2026 04:00:11 -0000",
+      "published_display": "07.10.2026 · 04:00 Uhr"
+    },
+    {
+      "title": "Hamas-Massaker vor drei Jahren: Nach Geiselhaft: «Das Leben wird nie wieder dasselbe sein»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/07/nach-geiselhaft-das-leben-wird-nie-wieder-dasselbe-sein-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/nach-geiselhaft-das-leben-wird-nie-wieder-dasselbe-sein",
+      "published": "Wed, 07 Oct 2026 04:00:10 -0000",
+      "published_display": "07.10.2026 · 04:00 Uhr"
+    },
+    {
+      "title": "Rahel Jaeggi: Sind wir frei, Rahel Jaeggi?",
+      "summary": "Freiheit ist nicht nur eine individuelle, sondern eine soziale Frage, sagt Rahel Jaeggi. Die Philosophin über Machtlosigkeit und Entfremdung – und was gegen sie hilft.",
+      "image": "https://img.zeit.de/gesellschaft/2026-10/freiheit-entfremdung-philosophie-rahel-jaeggi-nur-eine-frage-duo/original__640x360",
+      "link": "https://www.zeit.de/gesellschaft/2026-10/rahel-jaeggi-philosophin-freiheit-entfremdung-machtlosigkeit-podcast",
+      "published": "Wed, 07 Oct 2026 04:00:09 -0000",
+      "published_display": "07.10.2026 · 04:00 Uhr"
+    },
+    {
+      "title": "Hochschulen in Brandenburg: Viadrina lockt mit neuen Studiengängen und Doppelabschluss",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/07/viadrina-lockt-mit-neuen-studiengaengen-und-doppelabschluss-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/viadrina-lockt-mit-neuen-studiengaengen-und-doppelabschluss",
+      "published": "Wed, 07 Oct 2026 04:00:09 -0000",
+      "published_display": "07.10.2026 · 04:00 Uhr"
+    },
+    {
+      "title": "Mythen zu Kurzsichtigkeit: Gegen Kurzsichtigkeit helfen weder Training noch Karotten",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/07/gegen-kurzsichtigkeit-helfen-weder-training-noch-karotten-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/gegen-kurzsichtigkeit-helfen-weder-training-noch-karotten",
+      "published": "Wed, 07 Oct 2026 04:00:07 -0000",
+      "published_display": "07.10.2026 · 04:00 Uhr"
+    },
+    {
+      "title": "Oswald Achenbach: Achenbach oder die ewige Sehnsucht nach Italien",
+      "summary": "Er war einer der erfolgreichsten deutschen Maler des 19. Jahrhunderts – weil er so gut wie niemand sonst die Italienliebe zu Bildern machte: Oswald Achenbach.",
+      "image": "https://img.zeit.de/feuilleton/2026-10/oswald-achenbach-maler-italien-duesseldorf-kunstpodcast-bild/original__640x360",
+      "link": "https://www.zeit.de/feuilleton/2026-10/oswald-achenbach-maler-italien-duesseldorf-kunstpodcast",
+      "published": "Wed, 07 Oct 2026 04:00:06 -0000",
+      "published_display": "07.10.2026 · 04:00 Uhr"
+    },
+    {
+      "title": "Fotografie: Bilder des Tages",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/07/bilder-des-tages-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/bilder-des-tages",
+      "published": "Wed, 07 Oct 2026 03:58:29 -0000",
+      "published_display": "07.10.2026 · 03:58 Uhr"
+    },
     {
       "title": "Fußball-Nachwuchs: U21 dank Pejcinovic-Doppelpack am Ziel - Klopp gratuliert",
       "summary": "",
@@ -41,86 +121,6 @@
       "link": "https://www.zeit.de/familie/2026-10/schulwahl-weiterfuehrende-schule-eltern-lehrerin-kinder",
       "published": "Wed, 07 Oct 2026 03:35:41 -0000",
       "published_display": "07.10.2026 · 03:35 Uhr"
-    },
-    {
-      "title": "Bafög-Reform: »So ist das Studium kein Privileg, sondern handfeste Armut«",
-      "summary": "82 Prozent der alleinlebenden Studierenden sind arm, zeigt eine neue Studie. Eine der Autorinnen erklärt, was das mit Mietwuchern und verschleppten Reformen zu tun hat.",
-      "image": "https://img.zeit.de/bildung/deutschland/2026-10/bafoeg-reform-studierende-armut-greta-schabram-bild/original__640x360",
-      "link": "https://www.zeit.de/campus/2026-10/bafoeg-reform-studierende-armut-greta-schabram",
-      "published": "Wed, 07 Oct 2026 03:35:17 -0000",
-      "published_display": "07.10.2026 · 03:35 Uhr"
-    },
-    {
-      "title": "Hackerangriff auf Solaranlagen: Deutschland war nur einen Knopfdruck vom Superblackout entfernt",
-      "summary": "Ein Hacker hätte Hunderttausende Solaranlagen abschalten und so einen großflächigen Stromausfall verursachen können. Zum Glück war es einer von den Guten. Dieses Mal.",
-      "image": "https://img.zeit.de/digital/2026-10/hackerangriff-solaranlagen-sicherheitsluecke-blackout-solarenergie-teaserbild/original__640x360",
-      "link": "https://www.zeit.de/digital/2026-10/hackerangriff-solaranlagen-sicherheitsluecke-blackout-solarenergie",
-      "published": "Wed, 07 Oct 2026 03:32:55 -0000",
-      "published_display": "07.10.2026 · 03:32 Uhr"
-    },
-    {
-      "title": "Babyleichen: Polizei hofft auf neue Hinweise zu Babyleichen-Fall",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/07/polizei-hofft-auf-neue-hinweise-zu-babyleichen-fall-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/07/polizei-hofft-auf-neue-hinweise-zu-babyleichen-fall",
-      "published": "Wed, 07 Oct 2026 03:30:05 -0000",
-      "published_display": "07.10.2026 · 03:30 Uhr"
-    },
-    {
-      "title": "Wetterbericht: Wann es heute im Südwesten gewittern könnte",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/07/wann-es-heute-im-suedwesten-gewittern-koennte-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/07/wann-es-heute-im-suedwesten-gewittern-koennte",
-      "published": "Wed, 07 Oct 2026 03:30:04 -0000",
-      "published_display": "07.10.2026 · 03:30 Uhr"
-    },
-    {
-      "title": "Dritter Jahrestag des Hamas-Angriffs vom 7. Oktober: Gedenkveranstaltungen und Proteste in Berlin geplant",
-      "summary": "Zum Jahrestag des Hamas-Angriffs auf Israel sind auch in Deutschland Veranstaltungen angesetzt. Im Bundestag findet eine Debatte zu Antisemitismus statt. Das Liveblog",
-      "image": "https://img.zeit.de/politik/2026-10/zweiter-jahrestag-hamas-angriff-berlin-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2025-10/krieg-gaza-israel-hamas-liveblog",
-      "published": "Wed, 07 Oct 2026 03:23:40 -0000",
-      "published_display": "07.10.2026 · 03:23 Uhr"
-    },
-    {
-      "title": "Mehr Fälle: Kindesmissbrauch mit KI: Cyber-Ermittler vor neuen Problemen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/07/kindesmissbrauch-mit-ki-cyber-ermittler-vor-neuen-problemen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/07/kindesmissbrauch-mit-ki-cyber-ermittler-vor-neuen-problemen",
-      "published": "Wed, 07 Oct 2026 03:00:25 -0000",
-      "published_display": "07.10.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Umfrage: Sorgen um Geld – Frauen fühlen sich finanziell unsicherer",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/07/sorgen-um-geld-frauen-fuehlen-sich-finanziell-unsicherer-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/07/sorgen-um-geld-frauen-fuehlen-sich-finanziell-unsicherer",
-      "published": "Wed, 07 Oct 2026 03:00:20 -0000",
-      "published_display": "07.10.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Zalando Erfurt: Nach dem Zalando-Aus startet die Jobvermittlung",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/07/nach-dem-zalando-aus-startet-die-jobvermittlung-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/07/nach-dem-zalando-aus-startet-die-jobvermittlung",
-      "published": "Wed, 07 Oct 2026 03:00:19 -0000",
-      "published_display": "07.10.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Bundesgerichtshof: Spionageverdacht: Kommt Ex-BND-Chef Hanning in U-Haft?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/07/spionageverdacht-kommt-ex-bnd-chef-hanning-in-u-haft-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/07/spionageverdacht-kommt-ex-bnd-chef-hanning-in-u-haft",
-      "published": "Wed, 07 Oct 2026 03:00:18 -0000",
-      "published_display": "07.10.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Neue Sperrungen: Umleitungen und Ersatzbusse: Bahn sperrt Strecke in Duisburg",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/07/umleitungen-und-ersatzbusse-bahn-sperrt-strecke-in-duisburg-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/07/umleitungen-und-ersatzbusse-bahn-sperrt-strecke-in-duisburg",
-      "published": "Wed, 07 Oct 2026 03:00:17 -0000",
-      "published_display": "07.10.2026 · 03:00 Uhr"
     }
   ]
 }
