@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-06T23:57:05.486330+00:00",
+  "updated": "2026-10-07T00:30:02.551760+00:00",
   "items": [
+    {
+      "title": "Kreis Weser: Unfall mit Motorrad - Mann in Lebensgefahr",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/07/unfall-mit-motorrad-mann-in-lebensgefahr-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/unfall-mit-motorrad-mann-in-lebensgefahr",
+      "published": "Wed, 07 Oct 2026 00:26:14 -0000",
+      "published_display": "07.10.2026 · 00:26 Uhr"
+    },
     {
       "title": "Todesstrafe in den USA: Anwälte: Pike nach gescheiterter Hinrichtung bei Bewusstsein",
       "summary": "",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/politik/ausland/2026-10/saint-ouen-laumone-polizist-eden-traenengasgranate-schuelerproteste",
       "published": "Tue, 06 Oct 2026 20:30:12 -0000",
       "published_display": "06.10.2026 · 20:30 Uhr"
-    },
-    {
-      "title": "Nations League: Ronaldo wirft Trainer Wortbruch vor und will weiterspielen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/06/ronaldo-wirft-trainer-wortbruch-vor-und-will-weiterspielen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/06/ronaldo-wirft-trainer-wortbruch-vor-und-will-weiterspielen",
-      "published": "Tue, 06 Oct 2026 20:29:41 -0000",
-      "published_display": "06.10.2026 · 20:29 Uhr"
     }
   ]
 }
