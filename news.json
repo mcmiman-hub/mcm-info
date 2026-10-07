@@ -1,22 +1,54 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-07T16:40:06.428271+00:00",
+  "updated": "2026-10-07T17:09:32.730461+00:00",
   "items": [
     {
-      "title": "Krieg gegen die Ukraine: AfD und BSW in Sachsen-Anhalt fordern Stopp deutscher Ukrainehilfe",
-      "summary": "Sachsen-Anhalts AfD und BSW wollen Druck auf die Bundesregierung ausüben. Sie setzen gemeinsam im Landtag ein Ende der Ukrainehilfe auf die Agenda.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-10/waffenhilfe-ukraine-afd-buendnis-sahra-wagenknecht-friedrich-merz-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-10/waffenhilfe-ukraine-afd-buendnis-sahra-wagenknecht-friedrich-merz",
-      "published": "Wed, 07 Oct 2026 16:39:28 -0000",
-      "published_display": "07.10.2026 · 16:39 Uhr"
+      "title": "Fußball: DFB-Elf rutscht in Fifa-Weltrangliste weiter ab",
+      "summary": "Mit fünf Punkten in vier Spielen startete die Fußballnationalmannschaft durchwachsen in die Nations League. In der Weltrangliste liegt Jürgen Klopps Team auf Platz 13.",
+      "image": "https://img.zeit.de/sport/2026-10/fifa-weltrangliste-dfb-nationalmannschaft-juergen-klopp-foto-1/original__640x360",
+      "link": "https://www.zeit.de/sport/2026-10/fifa-weltrangliste-dfb-nationalmannschaft-juergen-klopp",
+      "published": "Wed, 07 Oct 2026 17:05:10 -0000",
+      "published_display": "07.10.2026 · 17:05 Uhr"
+    },
+    {
+      "title": "Schuletat: Protest gegen Kürzungen im Hamburger Bildungsetat wächst",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/07/protest-gegen-kuerzungen-im-hamburger-bildungsetat-waechst-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/protest-gegen-kuerzungen-im-hamburger-bildungsetat-waechst",
+      "published": "Wed, 07 Oct 2026 16:55:07 -0000",
+      "published_display": "07.10.2026 · 16:55 Uhr"
+    },
+    {
+      "title": "Kundgebungen in Frankfurt: Demos am Jahrestag des Hamas-Angriffs auf Israel",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/07/demos-am-jahrestag-des-hamas-angriffs-auf-israel-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/demos-am-jahrestag-des-hamas-angriffs-auf-israel",
+      "published": "Wed, 07 Oct 2026 16:50:54 -0000",
+      "published_display": "07.10.2026 · 16:50 Uhr"
+    },
+    {
+      "title": "\"Das ist barbarisch\": Pelicot: «Ich musste mir dieses Leben zurückerobern»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/07/pelicot-ich-musste-mir-dieses-leben-zurueckerobern-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/pelicot-ich-musste-mir-dieses-leben-zurueckerobern",
+      "published": "Wed, 07 Oct 2026 16:49:26 -0000",
+      "published_display": "07.10.2026 · 16:49 Uhr"
     },
     {
       "title": "Stromversorgung: Strom auf Sylt und Rügen zeitweise ausgefallen",
       "summary": "Auf Sylt in der Nordsee und auf der größten deutschen Ostseeinsel war die Stromversorgung zeitweise unterbrochen. Auf Rügen sollen Tiefbauarbeiten verantwortlich sein.",
       "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-10/stromausfall-ruegen-sylt-versorgung-edis-tiefbauarbeiten-foto-1/original__640x360",
-      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-10/stromausfall-ruegen-sylt-versorgung-edis-tiefbauarbeiten",
-      "published": "Wed, 07 Oct 2026 16:37:31 -0000",
-      "published_display": "07.10.2026 · 16:37 Uhr"
+      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-10/stromausfall-ruegen-sylt-versorgung-edis-tiefbauarbeiten-gxe",
+      "published": "Wed, 07 Oct 2026 16:43:45 -0000",
+      "published_display": "07.10.2026 · 16:43 Uhr"
+    },
+    {
+      "title": "Krieg gegen die Ukraine: AfD und BSW in Sachsen-Anhalt fordern Stopp deutscher Ukrainehilfe",
+      "summary": "Sachsen-Anhalts AfD und BSW wollen Druck auf die Bundesregierung ausüben. Sie setzen gemeinsam im Landtag ein Ende der Ukrainehilfe auf die Agenda.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-10/waffenhilfe-ukraine-afd-buendnis-sahra-wagenknecht-friedrich-merz-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-10/waffenhilfe-ukraine-afd-buendnis-sahra-wagenknecht-friedrich-merz-gxe",
+      "published": "Wed, 07 Oct 2026 16:39:28 -0000",
+      "published_display": "07.10.2026 · 16:39 Uhr"
     },
     {
       "title": "Raubkatzen-Alarm: Polizei sucht mutmaßlichen Puma mit Hubschrauber",
@@ -86,41 +118,9 @@
       "title": "Gedenkfeier in Berlin: Deutsche Spitzenpolitiker gedenken der Opfer des Hamas-Terrors",
       "summary": "Merz, Dobrindt und Klöckner mahnen am dritten Jahrestag des 7. Oktober 2023 Kampf gegen Judenhass an. Israels Botschafter fordert eine »Offensive gegen Antisemitismus«.",
       "image": "https://img.zeit.de/politik/2026-10/gedenkfeier-7-oktober-berlin-ron-prosor-alexander-dobrindt-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/2026-10/gedenkfeier-7-oktober-berlin-ron-prosor-alexander-dobrindt",
+      "link": "https://www.zeit.de/politik/2026-10/gedenkfeier-7-oktober-berlin-ron-prosor-alexander-dobrindt-gxe",
       "published": "Wed, 07 Oct 2026 16:14:59 -0000",
       "published_display": "07.10.2026 · 16:14 Uhr"
-    },
-    {
-      "title": "Liang Fen: Kalte Nudeln, heiße Soße",
-      "summary": "Keine Angst vor selbst gemachten Nudeln – vor allem, wenn sie so sicher gelingen wie diese hier aus Stärke. Eine wahre Würzwundersoße setzt die Nudeln in Flammen.",
-      "image": "https://img.zeit.de/zeit-magazin/wochenmarkt/2026-09/liang-fen-nudeln-sosse-gurke-erdnuesse-rezept-bild/original__640x360",
-      "link": "https://www.zeit.de/zeit-magazin/wochenmarkt/2026-10/liang-fen-nudeln-sosse-gurke-erdnuesse-rezept",
-      "published": "Wed, 07 Oct 2026 16:12:24 -0000",
-      "published_display": "07.10.2026 · 16:12 Uhr"
-    },
-    {
-      "title": "Freizeit: Bau für Surfpark in Stade darf beginnen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/07/bau-fuer-surfpark-in-stade-darf-beginnen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/07/bau-fuer-surfpark-in-stade-darf-beginnen",
-      "published": "Wed, 07 Oct 2026 16:10:23 -0000",
-      "published_display": "07.10.2026 · 16:10 Uhr"
-    },
-    {
-      "title": "Treffen in Paris: IEA beschleunigt Freigabe von Ölreserven – Diesel im Fokus",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/07/iea-beschleunigt-freigabe-von-oelreserven-diesel-im-fokus-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/07/iea-beschleunigt-freigabe-von-oelreserven-diesel-im-fokus",
-      "published": "Wed, 07 Oct 2026 16:08:38 -0000",
-      "published_display": "07.10.2026 · 16:08 Uhr"
-    },
-    {
-      "title": "Unzufriedenheit im Job: Wenn der schreckliche Job gerade alternativlos ist",
-      "summary": "Sie fühlen sich an ihrem Arbeitsplatz nicht mehr erwünscht, können aber nicht kündigen: Hier erzählen Angestellte, wie sie sich durch solche Krisen manövriert haben.",
-      "image": "https://img.zeit.de/arbeit/2026-10/unzufriedenheit-job-kuendigen-arbeitsplatz-wechsel-bild/original__640x360",
-      "link": "https://www.zeit.de/arbeit/2026-09/unzufriedenheit-job-kuendigen-arbeitsplatz-wechsel",
-      "published": "Wed, 07 Oct 2026 16:05:32 -0000",
-      "published_display": "07.10.2026 · 16:05 Uhr"
     }
   ]
 }
