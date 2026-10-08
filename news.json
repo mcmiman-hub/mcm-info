@@ -1,7 +1,63 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-08T15:51:12.864608+00:00",
+  "updated": "2026-10-08T16:03:56.857210+00:00",
   "items": [
+    {
+      "title": "Sexualisierte Gewalt an US-Unis: Jung, männlich, besoffen – und gewaltaffin?",
+      "summary": "Nach der mutmaßlichen Gruppenvergewaltigung an der US-Eliteuni Cornell fordern viele die Auflösung von Fraternities. Was die Forschung über sie und ihre Mitglieder weiß.",
+      "image": "https://img.zeit.de/bildung/2026-10/sexualisierte-gewalt-us-cornell-university-verbindungen-bild/original__640x360",
+      "link": "https://www.zeit.de/bildung/2026-10/sexualisierte-gewalt-us-cornell-university-verbindungen",
+      "published": "Thu, 08 Oct 2026 16:03:24 -0000",
+      "published_display": "08.10.2026 · 16:03 Uhr"
+    },
+    {
+      "title": "Metall- und Elektroindustrie: Metall-Tarifauftakt in Sachsen-Anhalt ohne Annäherung",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/08/metall-tarifauftakt-in-sachsen-anhalt-ohne-annaeherung-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/08/metall-tarifauftakt-in-sachsen-anhalt-ohne-annaeherung",
+      "published": "Thu, 08 Oct 2026 15:59:34 -0000",
+      "published_display": "08.10.2026 · 15:59 Uhr"
+    },
+    {
+      "title": "Nach mehreren Taten: Polizei stellt mutmaßliche Dieseldiebe in Steinigtwolmsdorf",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/08/polizei-stellt-mutmassliche-dieseldiebe-in-steinigtwolmsdorf-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/08/polizei-stellt-mutmassliche-dieseldiebe-in-steinigtwolmsdorf",
+      "published": "Thu, 08 Oct 2026 15:55:58 -0000",
+      "published_display": "08.10.2026 · 15:55 Uhr"
+    },
+    {
+      "title": "Auf Lkw aufgefahren: Toter bei Unfall auf A20",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/08/a20-bei-schoenberg-nach-unfall-voll-gesperrt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/08/a20-bei-schoenberg-nach-unfall-voll-gesperrt",
+      "published": "Thu, 08 Oct 2026 15:53:35 -0000",
+      "published_display": "08.10.2026 · 15:53 Uhr"
+    },
+    {
+      "title": "Fußball: UEFA sucht den Infantino-Herausforderer - Ceferin bleibt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/08/kein-infantino-gegenkandidat-uefa-chef-will-wiederwahl-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/08/kein-infantino-gegenkandidat-uefa-chef-will-wiederwahl",
+      "published": "Thu, 08 Oct 2026 15:53:09 -0000",
+      "published_display": "08.10.2026 · 15:53 Uhr"
+    },
+    {
+      "title": "Bistum Trier: Viele Missbrauchsfälle in Trier während der Nachkriegsjahre",
+      "summary": "Ein großer Teil der Missbrauchsfälle im Bistum Trier fand zwischen 1946 und 1966 statt. Die Verantwortlichen wussten laut einer Studie meistens Bescheid.",
+      "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-10/missbrauch-bistum-trier-katholische-kirche-nachkriegszeit-bischof-franz-rudolf-bornewasser-matthias-wehr-foto-1/original__640x360",
+      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-10/missbrauch-bistum-trier-katholische-kirche-nachkriegszeit-bischof-franz-rudolf-bornewasser-matthias-wehr",
+      "published": "Thu, 08 Oct 2026 15:53:07 -0000",
+      "published_display": "08.10.2026 · 15:53 Uhr"
+    },
+    {
+      "title": "Faserproduktion: Faserland",
+      "summary": "Baumwolle, Leinen, Nylon: Jeder Weltbürger verbraucht im Jahr rund 20 Kilo Fasern. Aus welchen Materialien unsere Kleidung gemacht wird. Eine Übersicht in Grafiken",
+      "image": "https://img.zeit.de/2026/42/faserproduktion-polyester-baumwolle-recycling-naturfasern-bild/original__640x360",
+      "link": "https://www.zeit.de/2026/42/faserproduktion-polyester-baumwolle-recycling-naturfasern",
+      "published": "Thu, 08 Oct 2026 15:50:44 -0000",
+      "published_display": "08.10.2026 · 15:50 Uhr"
+    },
     {
       "title": "Einsatz vor Polizeistation: Polizist schießt 28-jähriger Frau vor Kommissariat ins Bein",
       "summary": "",
@@ -20,9 +76,9 @@
     },
     {
       "title": "Uefa: Aleksander Čeferin will erneut als Uefa-Präsident kandidieren",
-      "summary": "Uefa-Präsident Aleksander Čeferin strebt Berichten zufolge eine vierte Amtszeit an. Damit wäre eine Kandidatur gegen Fifa-Präsident Gianni Infantino vom Tisch.",
+      "summary": "Uefa-Präsident Aleksander Čeferin stellt sich für eine vierte Amtszeit zur Wahl. Damit ist eine Kandidatur gegen Fifa-Präsident Gianni Infantino vom Tisch.",
       "image": "https://img.zeit.de/sport/2026-10/aleksander-ceferin-uefa-praesident-wiederwahl-foto-1/original__640x360",
-      "link": "https://www.zeit.de/sport/2026-10/aleksander-ceferin-uefa-praesident-wiederwahl",
+      "link": "https://www.zeit.de/sport/2026-10/aleksander-ceferin-uefa-praesident-wiederwahl-gxe",
       "published": "Thu, 08 Oct 2026 15:44:28 -0000",
       "published_display": "08.10.2026 · 15:44 Uhr"
     },
@@ -65,62 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/08/sachsen-anhalt-laesst-vorgehen-zu-ukraine-antrag-offen",
       "published": "Thu, 08 Oct 2026 15:35:28 -0000",
       "published_display": "08.10.2026 · 15:35 Uhr"
-    },
-    {
-      "title": "Kriminalität: Fahrgast soll Bahnmitarbeiter in Oberschenkel gebissen haben",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/08/fahrgast-soll-bahnmitarbeiter-in-oberschenkel-gebissen-haben-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/08/fahrgast-soll-bahnmitarbeiter-in-oberschenkel-gebissen-haben",
-      "published": "Thu, 08 Oct 2026 15:30:38 -0000",
-      "published_display": "08.10.2026 · 15:30 Uhr"
-    },
-    {
-      "title": "Todesstrafe: Nach gescheiterter Hinrichtung: Pike kann wieder gehen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/08/erste-hinrichtung-in-den-usa-seit-gescheiterter-exekution-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/08/erste-hinrichtung-in-den-usa-seit-gescheiterter-exekution",
-      "published": "Thu, 08 Oct 2026 15:29:21 -0000",
-      "published_display": "08.10.2026 · 15:29 Uhr"
-    },
-    {
-      "title": "Dana Vowinckel auf der Frankfurter Buchmesse: Liebe in Zeiten der Polarisierung",
-      "summary": "Antons und Almas Liebe droht an ihren verschiedenen Ansichten zum Gazakrieg zu zerbrechen. Im Video spricht Autorin Dana Vowinckel über Polarisierung und Hoffnung.",
-      "image": "https://img.zeit.de/video/2026-10/dana-vowinckel-frankfurter-buchmesse-anton-und-alma-liebe-roman-bild/original__640x360",
-      "link": "https://www.zeit.de/video/2026-10/dana-vowinckel-frankfurter-buchmesse-anton-und-alma-liebe-roman",
-      "published": "Thu, 08 Oct 2026 15:28:06 -0000",
-      "published_display": "08.10.2026 · 15:28 Uhr"
-    },
-    {
-      "title": "Valeria Gordeev auf der Frankfurter Buchmesse: Familie zwischen den Fronten",
-      "summary": "Der Ukrainekrieg wird zur Zerreißprobe für Bruder und Schwester, die in Moskau und Berlin leben. Im Video spricht Valeria Gordeev über ihren Debütroman und ewiges Leben.",
-      "image": "https://img.zeit.de/video/2026-10/valeria-gordeev-frankfurter-buchmesse-die-zikade-entschluepft-ihrer-goldglaenzenden-huelle-bild/original__640x360",
-      "link": "https://www.zeit.de/video/2026-10/valeria-gordeev-frankfurter-buchmesse-die-zikade-entschluepft-ihrer-goldglaenzenden-huelle",
-      "published": "Thu, 08 Oct 2026 15:27:54 -0000",
-      "published_display": "08.10.2026 · 15:27 Uhr"
-    },
-    {
-      "title": "Robert Habeck auf der Frankfurter Buchmesse: Machtkampf um das ewige Eis",
-      "summary": "Die Arktis ist durch die USA plötzlich ins Zentrum machtpolitischer Interessen gerückt. Im Video spricht Robert Habeck über die Historie der Nordpolarregion.",
-      "image": "https://img.zeit.de/video/2026-10/robert-habeck-frankfurter-buchmesse-arctic-meltdown-klimawandel-bild/original__640x360",
-      "link": "https://www.zeit.de/video/2026-10/robert-habeck-frankfurter-buchmesse-arctic-meltdown-klimawandel",
-      "published": "Thu, 08 Oct 2026 15:24:02 -0000",
-      "published_display": "08.10.2026 · 15:24 Uhr"
-    },
-    {
-      "title": "Kriminalität: Flughafen Frankfurt: Trio mit Kokain festgenommen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/08/flughafen-frankfurt-trio-mit-kokain-festgenommen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/08/flughafen-frankfurt-trio-mit-kokain-festgenommen",
-      "published": "Thu, 08 Oct 2026 15:23:26 -0000",
-      "published_display": "08.10.2026 · 15:23 Uhr"
-    },
-    {
-      "title": "Wirtschaftsfaktor Tourismus: Tagesgäste bringen Brandenburg Milliardenumsatz",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/08/tagesgaeste-bringen-brandenburg-milliardenumsatz-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/08/tagesgaeste-bringen-brandenburg-milliardenumsatz",
-      "published": "Thu, 08 Oct 2026 15:22:08 -0000",
-      "published_display": "08.10.2026 · 15:22 Uhr"
     }
   ]
 }
