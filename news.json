@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-08T23:17:57.780973+00:00",
+  "updated": "2026-10-08T23:32:57.852307+00:00",
   "items": [
+    {
+      "title": "Frankfurt-Serie mit US-Star: «Nanny» Fran Drescher mischt deutsche Serie auf",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/nanny-fran-drescher-mischt-deutsche-serie-auf-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/09/nanny-fran-drescher-mischt-deutsche-serie-auf",
+      "published": "Thu, 08 Oct 2026 23:22:37 -0000",
+      "published_display": "08.10.2026 · 23:22 Uhr"
+    },
     {
       "title": "Fort-Hood-Attentäter: Hegseth beabsichtigt öffentliche Hinrichtung von US-Amokläufer",
       "summary": "Die Erschießung des verurteilten Fort-Hood-Attentäters soll live in den USA übertragen werden. Der Mann hatte 2009 auf einem Militärstützpunkt 13 Menschen getötet.",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/08/was-geschah-am-9-oktober",
       "published": "Thu, 08 Oct 2026 21:55:04 -0000",
       "published_display": "08.10.2026 · 21:55 Uhr"
-    },
-    {
-      "title": "Verkehr: Bundestag ebnet Weg für neue Bahntrasse Hannover-Hamburg",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/08/bundestag-ebnet-weg-fuer-neue-bahntrasse-hannover-hamburg-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/08/bundestag-ebnet-weg-fuer-neue-bahntrasse-hannover-hamburg",
-      "published": "Thu, 08 Oct 2026 21:54:26 -0000",
-      "published_display": "08.10.2026 · 21:54 Uhr"
     }
   ]
 }
