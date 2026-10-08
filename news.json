@@ -1,13 +1,85 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-08T18:01:10.277354+00:00",
+  "updated": "2026-10-08T18:22:36.337572+00:00",
   "items": [
+    {
+      "title": "Reformpläne der Bundesregierung : Dieser verdruckste Umgang mit Reformen hilft niemandem",
+      "summary": "Die Regierung freut sich über ein zartes Wachstum – und sediert die Bürger mit immer neuen Milliardengeschenken wie dem Tankrabatt. Mehr Wahrheit wäre mutiger.",
+      "image": "https://img.zeit.de/wirtschaft/2026-10/reformplaene-bundesregierung-herbstprognose-wirtschaftspolitik-wachstum-bild/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/2026-10/reformplaene-bundesregierung-herbstprognose-wirtschaftspolitik-wachstum",
+      "published": "Thu, 08 Oct 2026 18:21:24 -0000",
+      "published_display": "08.10.2026 · 18:21 Uhr"
+    },
+    {
+      "title": "Landtag: Niedersächsischer SPD-Fraktionschef Politze tritt zurück",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/08/niedersaechsischer-spd-fraktionschef-politze-tritt-zurueck-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/08/niedersaechsischer-spd-fraktionschef-politze-tritt-zurueck",
+      "published": "Thu, 08 Oct 2026 18:20:40 -0000",
+      "published_display": "08.10.2026 · 18:20 Uhr"
+    },
+    {
+      "title": "Kommunen: Gericht kippt Münchner Mindestpreise für Uber und Co.",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/08/gericht-kippt-muenchner-mindestpreise-fuer-uber-und-co-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/08/gericht-kippt-muenchner-mindestpreise-fuer-uber-und-co",
+      "published": "Thu, 08 Oct 2026 18:17:52 -0000",
+      "published_display": "08.10.2026 · 18:17 Uhr"
+    },
+    {
+      "title": "USA: Trump-Regierung schließt Microsoft von Visaprogramm für Fachkräfte aus",
+      "summary": "Die US-Regierung möchte verhindern, dass Microsoft weiter ausländische Fachkräfte anwirbt. Deshalb hat sie den Konzern von einem Visaprogramm ausgeschlossen.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-10/h-1b-microsoft-jd-vance-auslaendische-fachkraefte-trump-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-10/usa-microsoft-jd-vance-auslaendische-fachkraefte-donald-trump",
+      "published": "Thu, 08 Oct 2026 18:16:17 -0000",
+      "published_display": "08.10.2026 · 18:16 Uhr"
+    },
+    {
+      "title": "Soziales: Bundestag will Monitoring von Bluttests bei Schwangeren",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/08/bundestag-will-monitoring-von-bluttests-bei-schwangeren-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/08/bundestag-will-monitoring-von-bluttests-bei-schwangeren",
+      "published": "Thu, 08 Oct 2026 18:12:49 -0000",
+      "published_display": "08.10.2026 · 18:12 Uhr"
+    },
+    {
+      "title": "Landtag: SPD-Fraktionschef Politze tritt zurück",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/08/spd-fraktionschef-politze-tritt-zurueck-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/08/spd-fraktionschef-politze-tritt-zurueck",
+      "published": "Thu, 08 Oct 2026 18:07:12 -0000",
+      "published_display": "08.10.2026 · 18:07 Uhr"
+    },
+    {
+      "title": "Unfall: «Geschockt»: Vier junge Mopedfahrer nach Überholmanöver tot",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/08/auto-kracht-beim-ueberholen-in-mopeds-vier-tote-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/auto-kracht-beim-ueberholen-in-mopeds-vier-tote",
+      "published": "Thu, 08 Oct 2026 18:02:43 -0000",
+      "published_display": "08.10.2026 · 18:02 Uhr"
+    },
+    {
+      "title": "Auszeichnungen: Bürgerpreis geht an vier Ehrenamtliche und zwei Vereine",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/08/buergerpreis-geht-an-vier-ehrenamtliche-und-zwei-vereine-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/08/buergerpreis-geht-an-vier-ehrenamtliche-und-zwei-vereine",
+      "published": "Thu, 08 Oct 2026 18:00:04 -0000",
+      "published_display": "08.10.2026 · 18:00 Uhr"
+    },
     {
       "title": "Andreas Babler: Einen österreichischen Abgang machen",
       "summary": "In der Schweiz geht ein Bundesrat aus freien Stücken, in Österreich wird ein SPÖ‑Chef rausgeworfen, obwohl der Nachfolger fehlt. Und: 2,40 Euro extra pro Paket, bitte!",
       "image": "https://img.zeit.de/video/2026-08/servus-gruezi-hallo-bymarzenaskubatz-61a5524-1-bild-1/original__640x360",
       "link": "https://www.zeit.de/video/2026-10/andreas-babler-spoe-ruecktritt-oesterreich-paketsteuer-alpenpodcast-videopodcast",
       "published": "Thu, 08 Oct 2026 17:59:36 -0000",
+      "published_display": "08.10.2026 · 17:59 Uhr"
+    },
+    {
+      "title": "Influencer im Fußball: Auch Hertha BSC verbietet kommerzielle Stadion-Vlogs",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/08/auch-hertha-bsc-verbietet-kommerzielle-stadion-vlogs-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/08/auch-hertha-bsc-verbietet-kommerzielle-stadion-vlogs",
+      "published": "Thu, 08 Oct 2026 17:59:13 -0000",
       "published_display": "08.10.2026 · 17:59 Uhr"
     },
     {
@@ -49,78 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/08/neunjaehriger-stirbt-bei-unfall-auf-heimweg-von-schule",
       "published": "Thu, 08 Oct 2026 17:48:32 -0000",
       "published_display": "08.10.2026 · 17:48 Uhr"
-    },
-    {
-      "title": "Anne Carson: Alles, was der Mensch ist und sein kann",
-      "summary": "Für ihr kühnes Werk aus Lyrik, Performances und Erzählungen bekommt Anne Carson den Nobelpreis. Das ist absolut stimmig – und zugleich eine Aufforderung an uns alle.",
-      "image": "https://img.zeit.de/feuilleton/literatur/2026-10/anne-carson-literaturnobelpreis-kanada-gedichte-essay-bilder/carsona-opalbsh-41067-01-bild/original__640x360",
-      "link": "https://www.zeit.de/feuilleton/literatur/2026-10/anne-carson-literaturnobelpreis-kanada-gedichte-essay",
-      "published": "Thu, 08 Oct 2026 17:47:13 -0000",
-      "published_display": "08.10.2026 · 17:47 Uhr"
-    },
-    {
-      "title": "Nicolás Maduro und Cilia Flores: USA erweitern Anklage gegen Maduro um Foltervorwurf",
-      "summary": "Der verschleppte ehemalige venezolanische Machthaber und seine Ehefrau sind nun auch mit Foltervorwürfen vor Gericht konfrontiert. Die USA erweitern die Anklage.",
-      "image": "https://img.zeit.de/politik/ausland/2026-10/nicolas-maduro-cilia-flores-folter-anklage-usa-venezuela-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/nicolas-maduro-cilia-flores-folter-anklage-usa-venezuela",
-      "published": "Thu, 08 Oct 2026 17:44:05 -0000",
-      "published_display": "08.10.2026 · 17:44 Uhr"
-    },
-    {
-      "title": "Soziales: Bundestag will Monitoring von Bluttests bei Schwangeren",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/08/bundestag-will-monitoring-von-bluttests-bei-schwangeren-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/08/bundestag-will-monitoring-von-bluttests-bei-schwangeren",
-      "published": "Thu, 08 Oct 2026 17:41:38 -0000",
-      "published_display": "08.10.2026 · 17:41 Uhr"
-    },
-    {
-      "title": "Partei: SPD-Fraktionschef Politze tritt zurück",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/08/spd-fraktionschef-politze-tritt-zurueck-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/08/spd-fraktionschef-politze-tritt-zurueck",
-      "published": "Thu, 08 Oct 2026 17:37:06 -0000",
-      "published_display": "08.10.2026 · 17:37 Uhr"
-    },
-    {
-      "title": "Wetter: Schwerer Sturm mit orkanartigen Böen im Oberharz erwartet",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/08/schwerer-sturm-mit-orkanartigen-boeen-im-oberharz-erwartet-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/08/schwerer-sturm-mit-orkanartigen-boeen-im-oberharz-erwartet",
-      "published": "Thu, 08 Oct 2026 17:33:02 -0000",
-      "published_display": "08.10.2026 · 17:33 Uhr"
-    },
-    {
-      "title": "Landkreis Oberhavel: Polizeieinsatz in Velten - unklare Gefahrenlage",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/08/polizeieinsatz-in-velten-unklare-gefahrenlage-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/08/polizeieinsatz-in-velten-unklare-gefahrenlage",
-      "published": "Thu, 08 Oct 2026 17:17:07 -0000",
-      "published_display": "08.10.2026 · 17:17 Uhr"
-    },
-    {
-      "title": "Irankrieg: USA wollen Iran bis zu Midterms Anfang November nicht mehr angreifen",
-      "summary": "US-Präsident Donald Trump hat einen Angriffsstopp im Iran angekündigt. Die Huthi-Miliz hat nach eigenen Angaben erneut den Flughafen in Riad angegriffen. Das Liveblog",
-      "image": "https://img.zeit.de/politik/ausland/2026-10/iran-krieg-donald-trump-hormus-live-bild-2/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-05/iran-krieg-donald-trump-hormus-live",
-      "published": "Thu, 08 Oct 2026 17:15:48 -0000",
-      "published_display": "08.10.2026 · 17:15 Uhr"
-    },
-    {
-      "title": "Kriminalität: Behördenmitarbeiter bei Waffenkontrolle erschossen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/08/anwohner-sollen-nach-schussgeraeuschen-in-haeusern-bleiben-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/08/anwohner-sollen-nach-schussgeraeuschen-in-haeusern-bleiben",
-      "published": "Thu, 08 Oct 2026 17:14:03 -0000",
-      "published_display": "08.10.2026 · 17:14 Uhr"
-    },
-    {
-      "title": "Auto prallt in Transporter: Behälter mit Reststrahlung - Großeinsatz nach Unfall auf A9",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/08/behaelter-mit-reststrahlung-grosseinsatz-nach-unfall-auf-a9-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/08/behaelter-mit-reststrahlung-grosseinsatz-nach-unfall-auf-a9",
-      "published": "Thu, 08 Oct 2026 17:13:31 -0000",
-      "published_display": "08.10.2026 · 17:13 Uhr"
     }
   ]
 }
