@@ -1,7 +1,39 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-08T05:36:24.988785+00:00",
+  "updated": "2026-10-08T05:51:16.474385+00:00",
   "items": [
+    {
+      "title": "DFB-Nationalmannschaft: Jürgen Klopp hat für so was keine Zeit",
+      "summary": "Die AfD hat ein Problem mit der deutschen Nationalelf. Und zeigt damit mal wieder, was für ein Verein sie ist.",
+      "image": "https://img.zeit.de/2026/44/juergen-klopp-hat-fuer-so-was-keine-zeit-bild-1/original__640x360",
+      "link": "https://www.zeit.de/2026/44/dfb-nationalmannschaft-rechtsextremismus-afd-juergen-klopp",
+      "published": "Thu, 08 Oct 2026 05:50:10 -0000",
+      "published_display": "08.10.2026 · 05:50 Uhr"
+    },
+    {
+      "title": "Musste in Krankenhaus: Travis Barker wegen Taubheit am Arm operiert",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/08/travis-barker-wegen-taubheit-am-arm-operiert-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/08/travis-barker-wegen-taubheit-am-arm-operiert",
+      "published": "Thu, 08 Oct 2026 05:40:45 -0000",
+      "published_display": "08.10.2026 · 05:40 Uhr"
+    },
+    {
+      "title": "Landesregierung: Özdemir zieht in Dienstvilla auf der Stuttgarter Solitude",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/08/oezdemir-zieht-in-dienstvilla-auf-der-stuttgarter-solitude-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/08/oezdemir-zieht-in-dienstvilla-auf-der-stuttgarter-solitude",
+      "published": "Thu, 08 Oct 2026 05:36:34 -0000",
+      "published_display": "08.10.2026 · 05:36 Uhr"
+    },
+    {
+      "title": "Literatur: Museum für «Sams»-Autor Maar - Projekt kann weitergehen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/08/museum-fuer-sams-autor-maar-projekt-kann-weitergehen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/08/museum-fuer-sams-autor-maar-projekt-kann-weitergehen",
+      "published": "Thu, 08 Oct 2026 05:35:39 -0000",
+      "published_display": "08.10.2026 · 05:35 Uhr"
+    },
     {
       "title": "Friedrich Merz: Außen stark",
       "summary": "Die Wahlergebnisse, gescheiterte Gesetzesvorhaben, Ränkespiele: Innenpolitisch ist der Kanzler angeschlagen. Gegenüber Russland und China tut er aber genau das Richtige.",
@@ -43,7 +75,7 @@
       "published_display": "08.10.2026 · 05:30 Uhr"
     },
     {
-      "title": "Cornell University: Protest gegen Umgang der Cornell-Universität mit Gruppenvergewaltigung",
+      "title": "Cornell University: Protest gegen Umgang der Cornell University mit Gruppenvergewaltigung",
       "summary": "An der Cornell University fordern Studierende Gerechtigkeit im Fall einer mutmaßlichen Gruppenvergewaltigung. Sie werfen der Leitung Behäbigkeit und Vertuschung vor.",
       "image": "https://img.zeit.de/gesellschaft/2026-10/cornell-university-proteste-studenten-sexuelle-gewalt-chi-phi-verbindung-foto-1/original__640x360",
       "link": "https://www.zeit.de/gesellschaft/2026-10/cornell-university-proteste-studenten-sexuelle-gewalt-chi-phi-verbindung",
@@ -89,38 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/08/wetterumschwung-in-hessen-stuermisch-und-nass-ins-wochenende",
       "published": "Thu, 08 Oct 2026 05:07:18 -0000",
       "published_display": "08.10.2026 · 05:07 Uhr"
-    },
-    {
-      "title": "Wetter: Stürmische Tage im Norden: So wird das Wochenende",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/08/stuermische-tage-im-norden-so-wird-das-wochenende-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/08/stuermische-tage-im-norden-so-wird-das-wochenende",
-      "published": "Thu, 08 Oct 2026 05:03:55 -0000",
-      "published_display": "08.10.2026 · 05:03 Uhr"
-    },
-    {
-      "title": "Kommunikationsgeschichte: Bis nach Mitternacht am Draht: erstes Ferngespräch",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/08/bis-nach-mitternacht-am-draht-erstes-ferngespraech-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/08/bis-nach-mitternacht-am-draht-erstes-ferngespraech",
-      "published": "Thu, 08 Oct 2026 05:00:06 -0000",
-      "published_display": "08.10.2026 · 05:00 Uhr"
-    },
-    {
-      "title": "Brände: Brand im Frankfurter Kino – Ursache noch unklar",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/08/brand-im-frankfurter-kino-ursache-noch-unklar-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/08/brand-im-frankfurter-kino-ursache-noch-unklar",
-      "published": "Thu, 08 Oct 2026 04:55:16 -0000",
-      "published_display": "08.10.2026 · 04:55 Uhr"
-    },
-    {
-      "title": "Fußball: Bayern-Coach Kompany zur Kimmich-Diskussion: «Mini-Debatte»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/08/bayern-coach-kompany-zur-kimmich-diskussion-mini-debatte-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/08/bayern-coach-kompany-zur-kimmich-diskussion-mini-debatte",
-      "published": "Thu, 08 Oct 2026 04:54:04 -0000",
-      "published_display": "08.10.2026 · 04:54 Uhr"
     }
   ]
 }
