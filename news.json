@@ -1,7 +1,39 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-08T22:19:45.567647+00:00",
+  "updated": "2026-10-08T22:36:12.143932+00:00",
   "items": [
+    {
+      "title": "Klimaschutz: Neuschwanstein im Klimastreifen-Look",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/neuschwanstein-im-klimastreifen-look-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/09/neuschwanstein-im-klimastreifen-look",
+      "published": "Thu, 08 Oct 2026 22:30:39 -0000",
+      "published_display": "08.10.2026 · 22:30 Uhr"
+    },
+    {
+      "title": "Landkreis Tuttlingen: Zu schnell unterwegs - Autofahrer stirbt bei Wurmlingen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/zu-schnell-unterwegs-autofahrer-stirbt-bei-wurmlingen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/09/zu-schnell-unterwegs-autofahrer-stirbt-bei-wurmlingen",
+      "published": "Thu, 08 Oct 2026 22:30:27 -0000",
+      "published_display": "08.10.2026 · 22:30 Uhr"
+    },
+    {
+      "title": "Militär: US-Kreise: Livestream soll Militärhinrichtung zeigen",
+      "summary": "",
+      "image": "https://img.zeit.de/administratives/sharing/fallback-image-die-zeit/wide__1300x731",
+      "link": "https://www.zeit.de/news/2026-10/09/us-kreise-livestream-soll-militaerhinrichtung-zeigen",
+      "published": "Thu, 08 Oct 2026 22:25:55 -0000",
+      "published_display": "08.10.2026 · 22:25 Uhr"
+    },
+    {
+      "title": "Fußball-Bundesliga: SC Freiburg meldet Rekordumsatz",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/sc-freiburg-meldet-rekordumsatz-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/09/sc-freiburg-meldet-rekordumsatz",
+      "published": "Thu, 08 Oct 2026 22:19:04 -0000",
+      "published_display": "08.10.2026 · 22:19 Uhr"
+    },
     {
       "title": "Internet aus dem All: Musks SpaceX kauft US-Frequenzen für Mobilfunk-Angebot",
       "summary": "",
@@ -89,38 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/08/fuechse-berlin-siegen-dank-gidsel-show-gegen-porto",
       "published": "Thu, 08 Oct 2026 20:38:39 -0000",
       "published_display": "08.10.2026 · 20:38 Uhr"
-    },
-    {
-      "title": "Champions League: Nach Golla-Wirbel: Melsungen siegt dank Simic gegen Nantes",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/08/nach-golla-wirbel-melsungen-siegt-dank-simic-gegen-nantes-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/08/nach-golla-wirbel-melsungen-siegt-dank-simic-gegen-nantes",
-      "published": "Thu, 08 Oct 2026 20:24:34 -0000",
-      "published_display": "08.10.2026 · 20:24 Uhr"
-    },
-    {
-      "title": "Schülerproteste in Frankreich: Erneut protestieren Zehntausende in Frankreich für bessere Bildung",
-      "summary": "Die Schulproteste in Frankreich gehen unvermindert weiter – und zeigen Erfolg: Laut Premier Lecornu sollen kurzfristig mehr als 3.000 Vertretungslehrer eingesetzt werden.",
-      "image": "https://img.zeit.de/politik/2026-10/frankreich-demo-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/frankreich-schueler-proteste-schulen-polizeigewalt-paris",
-      "published": "Thu, 08 Oct 2026 20:19:17 -0000",
-      "published_display": "08.10.2026 · 20:19 Uhr"
-    },
-    {
-      "title": "Fall Maricarmen: Nach Seniorin-Tod neue Proteste gegen Wohnkrise in Spanien",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/08/tod-nach-zwangsraeumung-heizt-protest-in-spanien-weiter-an-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/08/tod-nach-zwangsraeumung-heizt-protest-in-spanien-weiter-an",
-      "published": "Thu, 08 Oct 2026 20:18:00 -0000",
-      "published_display": "08.10.2026 · 20:18 Uhr"
-    },
-    {
-      "title": "Hauptstadt: Lauterbach gegen rot-rot-grüne Koalition in Berlin",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/08/lauterbach-gegen-rot-rot-gruene-koalition-in-berlin-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/08/lauterbach-gegen-rot-rot-gruene-koalition-in-berlin",
-      "published": "Thu, 08 Oct 2026 20:11:59 -0000",
-      "published_display": "08.10.2026 · 20:11 Uhr"
     }
   ]
 }
