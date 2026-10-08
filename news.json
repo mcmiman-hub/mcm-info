@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-08T00:28:22.565335+00:00",
+  "updated": "2026-10-08T00:56:01.329387+00:00",
   "items": [
+    {
+      "title": "Europäischer Rechnungshof: Rechnungshof sieht weiter hohe Fehlerquote bei Ausgabe von EU-Geldern",
+      "summary": "Erneut sind EU-Gelder laut Europäischem Rechnungshof in erheblichem Umfang fehlerhaft verwendet worden. Betroffen waren 2025 nach Schätzungen rund 6,7 Milliarden Euro.",
+      "image": "https://img.zeit.de/politik/ausland/2026-10/europaeischer-rechnungshof-fehlerquote-eu-ausgaben-corona-aufbaufonds-schulden-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/europaeischer-rechnungshof-fehlerquote-eu-ausgaben-corona-aufbaufonds-schulden",
+      "published": "Thu, 08 Oct 2026 00:33:08 -0000",
+      "published_display": "08.10.2026 · 00:33 Uhr"
+    },
     {
       "title": "Spannende Auktion: Jacksons «Thriller»-Jacke wird versteigert - Rekordpreis?",
       "summary": "",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/08/kloeckner-kritisiert-afd-landtagspraesident-wegen-parteiamt",
       "published": "Wed, 07 Oct 2026 22:01:05 -0000",
       "published_display": "07.10.2026 · 22:01 Uhr"
-    },
-    {
-      "title": "Kalenderblatt: Was geschah am 8. Oktober?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/07/was-geschah-am-8-oktober-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/07/was-geschah-am-8-oktober",
-      "published": "Wed, 07 Oct 2026 21:55:04 -0000",
-      "published_display": "07.10.2026 · 21:55 Uhr"
     }
   ]
 }
