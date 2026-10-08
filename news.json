@@ -1,21 +1,69 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-08T18:53:03.919866+00:00",
+  "updated": "2026-10-08T19:19:42.741507+00:00",
   "items": [
+    {
+      "title": "Niedersachsen: «Belasten das Amt» - SPD-Fraktionschef Politze tritt zurück",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/08/spd-fraktionschef-politze-tritt-zurueck-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/08/spd-fraktionschef-politze-tritt-zurueck",
+      "published": "Thu, 08 Oct 2026 19:04:22 -0000",
+      "published_display": "08.10.2026 · 19:04 Uhr"
+    },
+    {
+      "title": "Festival für Kinderfilm: «Schlingel» kürt beste Kurz- und Animationsfilme",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/08/schlingel-kuert-beste-kurz-und-animationsfilme-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/08/schlingel-kuert-beste-kurz-und-animationsfilme",
+      "published": "Thu, 08 Oct 2026 19:00:04 -0000",
+      "published_display": "08.10.2026 · 19:00 Uhr"
+    },
+    {
+      "title": "Argentinischer Fußballstar: Staatsanwaltschaft fordert hohe Haftstrafe für Maradonas Ärzte",
+      "summary": "Das Behandlungsteam von Diego Maradona soll laut Staatsanwaltschaft für viele Jahre ins Gefängnis. Die Ärzte hätten vor dem Tod des Fußballers 2020 »chaotisch« gehandelt.",
+      "image": "https://img.zeit.de/sport/2026-10/diego-maradona-prozess-tod-aerzte-pflege-bild/original__640x360",
+      "link": "https://www.zeit.de/sport/2026-10/diego-maradona-prozess-tod-aerzte-pflege",
+      "published": "Thu, 08 Oct 2026 19:00:01 -0000",
+      "published_display": "08.10.2026 · 19:00 Uhr"
+    },
+    {
+      "title": "Antibiotika: Wenn Antibiotika nicht mehr wirken",
+      "summary": "Die nächste globale Gesundheitskrise beginnt nicht mit einem neuen Virus. Sie ist längst da.",
+      "image": "https://img.zeit.de/video/2026-10/antibiotikaresistenz/original__640x360",
+      "link": "https://www.zeit.de/politik/2026-10/antibiotika-arzneimittel-resistenzen-was-jetzt-videopodcast",
+      "published": "Thu, 08 Oct 2026 18:59:53 -0000",
+      "published_display": "08.10.2026 · 18:59 Uhr"
+    },
+    {
+      "title": "Brutaler Angriff: Mann verletzt 61-Jährigen mit Messer lebensgefährlich",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/08/mann-verletzt-61-jaehrigen-mit-messer-lebensgefaehrlich-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/08/mann-verletzt-61-jaehrigen-mit-messer-lebensgefaehrlich",
+      "published": "Thu, 08 Oct 2026 18:57:00 -0000",
+      "published_display": "08.10.2026 · 18:57 Uhr"
+    },
+    {
+      "title": "Rot-Rot-Grün in Berlin: Erst Berlin und jetzt: Die eigene Partei",
+      "summary": "In Berlin einigen sich Linke, Grüne und SPD auf einen gemeinsamen Umgang mit Antisemitismus. Doch bei der Linken stehen die Konflikte nun erst noch bevor.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-10/linke-spd-gruene-berlin-koalition-antisemitismus-bild-3/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-10/linke-spd-gruene-berlin-koalition-antisemitismus",
+      "published": "Thu, 08 Oct 2026 18:55:18 -0000",
+      "published_display": "08.10.2026 · 18:55 Uhr"
+    },
+    {
+      "title": "Handball-Bundesliga: ThSV Eisenach feiert überzeugenden Auswärtssieg",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/08/thsv-eisenach-feiert-ueberzeugenden-auswaertssieg-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/08/thsv-eisenach-feiert-ueberzeugenden-auswaertssieg",
+      "published": "Thu, 08 Oct 2026 18:55:10 -0000",
+      "published_display": "08.10.2026 · 18:55 Uhr"
+    },
     {
       "title": "Kommunen: Gericht kippt Münchner Mindestpreise für Uber und Co.",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-10/08/gericht-kippt-muenchner-mindestpreise-fuer-uber-und-co-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-10/08/gericht-kippt-muenchner-mindestpreise-fuer-uber-und-co",
       "published": "Thu, 08 Oct 2026 18:46:10 -0000",
-      "published_display": "08.10.2026 · 18:46 Uhr"
-    },
-    {
-      "title": "Argentinischer Fußballstar: Staatsanwaltschaft fordert hohe Haftstrafe für Maradonas Ärzteteam",
-      "summary": "Das Behandlungsteam von Diego Maradona soll laut Staatsanwaltschaft für viele Jahre ins Gefängnis. Die Ärzte hätten vor dem Tod des Fußballers 2020 »chaotisch« gehandelt.",
-      "image": "https://img.zeit.de/sport/2026-10/diego-maradona-prozess-tod-aerzte-pflege-bild/original__640x360",
-      "link": "https://www.zeit.de/sport/2026-10/diego-maradona-prozess-tod-aerzte-pflege",
-      "published": "Thu, 08 Oct 2026 18:46:08 -0000",
       "published_display": "08.10.2026 · 18:46 Uhr"
     },
     {
@@ -73,54 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/08/bundestag-will-monitoring-von-bluttests-bei-schwangeren",
       "published": "Thu, 08 Oct 2026 18:12:49 -0000",
       "published_display": "08.10.2026 · 18:12 Uhr"
-    },
-    {
-      "title": "Landtag: SPD-Fraktionschef Politze tritt zurück",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/08/spd-fraktionschef-politze-tritt-zurueck-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/08/spd-fraktionschef-politze-tritt-zurueck",
-      "published": "Thu, 08 Oct 2026 18:07:12 -0000",
-      "published_display": "08.10.2026 · 18:07 Uhr"
-    },
-    {
-      "title": "Unfall: «Geschockt»: Vier junge Mopedfahrer nach Überholmanöver tot",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/08/auto-kracht-beim-ueberholen-in-mopeds-vier-tote-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/07/auto-kracht-beim-ueberholen-in-mopeds-vier-tote",
-      "published": "Thu, 08 Oct 2026 18:02:43 -0000",
-      "published_display": "08.10.2026 · 18:02 Uhr"
-    },
-    {
-      "title": "Auszeichnungen: Bürgerpreis geht an vier Ehrenamtliche und zwei Vereine",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/08/buergerpreis-geht-an-vier-ehrenamtliche-und-zwei-vereine-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/08/buergerpreis-geht-an-vier-ehrenamtliche-und-zwei-vereine",
-      "published": "Thu, 08 Oct 2026 18:00:04 -0000",
-      "published_display": "08.10.2026 · 18:00 Uhr"
-    },
-    {
-      "title": "Andreas Babler: Einen österreichischen Abgang machen",
-      "summary": "In der Schweiz geht ein Bundesrat aus freien Stücken, in Österreich wird ein SPÖ‑Chef rausgeworfen, obwohl der Nachfolger fehlt. Und: 2,40 Euro extra pro Paket, bitte!",
-      "image": "https://img.zeit.de/video/2026-08/servus-gruezi-hallo-bymarzenaskubatz-61a5524-1-bild-1/original__640x360",
-      "link": "https://www.zeit.de/video/2026-10/andreas-babler-spoe-ruecktritt-oesterreich-paketsteuer-alpenpodcast-videopodcast",
-      "published": "Thu, 08 Oct 2026 17:59:36 -0000",
-      "published_display": "08.10.2026 · 17:59 Uhr"
-    },
-    {
-      "title": "Influencer im Fußball: Auch Hertha BSC verbietet kommerzielle Stadion-Vlogs",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/08/auch-hertha-bsc-verbietet-kommerzielle-stadion-vlogs-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/08/auch-hertha-bsc-verbietet-kommerzielle-stadion-vlogs",
-      "published": "Thu, 08 Oct 2026 17:59:13 -0000",
-      "published_display": "08.10.2026 · 17:59 Uhr"
-    },
-    {
-      "title": "AfD-Landtagspräsident: BMW zieht Dienstwagen von AfD-Landtagspräsident zurück",
-      "summary": "Der neue Magdeburger Landtagspräsident Tobias Rausch muss bald ohne Dienst-BMW auskommen. Der Konzern stornierte nach Rauschs Wahl sein Vertragsangebot.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-10/dienstwagen-afd-bmw-tobias-rausch-afd-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-10/tobias-rausch-afd-landtagspraesident-dienstwagen-leasingvertrag-zurueckgezogen",
-      "published": "Thu, 08 Oct 2026 17:58:22 -0000",
-      "published_display": "08.10.2026 · 17:58 Uhr"
     }
   ]
 }
