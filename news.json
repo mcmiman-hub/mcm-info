@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-08T20:38:50.947159+00:00",
+  "updated": "2026-10-08T21:00:19.910103+00:00",
   "items": [
+    {
+      "title": "Handball: Füchse Berlin und Melsungen siegen in Champions League",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/08/fuechse-berlin-siegen-dank-gidsel-show-gegen-porto-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/08/fuechse-berlin-siegen-dank-gidsel-show-gegen-porto",
+      "published": "Thu, 08 Oct 2026 20:38:39 -0000",
+      "published_display": "08.10.2026 · 20:38 Uhr"
+    },
     {
       "title": "Champions League: Nach Golla-Wirbel: Melsungen siegt dank Simic gegen Nantes",
       "summary": "",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/08/niedersaechsischer-spd-fraktionschef-politze-tritt-zurueck",
       "published": "Thu, 08 Oct 2026 19:19:47 -0000",
       "published_display": "08.10.2026 · 19:19 Uhr"
-    },
-    {
-      "title": "Niedersachsen: «Belasten das Amt» - SPD-Fraktionschef Politze tritt zurück",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/08/spd-fraktionschef-politze-tritt-zurueck-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/08/spd-fraktionschef-politze-tritt-zurueck",
-      "published": "Thu, 08 Oct 2026 19:04:22 -0000",
-      "published_display": "08.10.2026 · 19:04 Uhr"
     }
   ]
 }
