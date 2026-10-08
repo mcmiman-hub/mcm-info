@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-08T05:51:16.474385+00:00",
+  "updated": "2026-10-08T06:01:48.564268+00:00",
   "items": [
+    {
+      "title": "Zivilschutz: Demokratisch preppen tut Not",
+      "summary": "Im Strudel der Krisen behandelt der Staat seine Bürger wie Kinder. Sie sollen Dosensuppen bunkern und auf Ansagen warten. Dabei ist die Gesellschaft schon viel weiter.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-10/zivilschutz-warnungen-bevoelkerung-afd-5vor8-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-10/zivilschutz-warnungen-bevoelkerung-afd-5vor8",
+      "published": "Thu, 08 Oct 2026 05:56:45 -0000",
+      "published_display": "08.10.2026 · 05:56 Uhr"
+    },
+    {
+      "title": "Texas: Erste Hinrichtung mit Giftspritze seit gescheiterter Exekution in USA",
+      "summary": "Nach der gescheiterten Hinrichtung in den USA setzen die Behörden weiter auf das Gift Pentobarbital. Damit wurde in Texas ein weiteres Todesurteil vollstreckt.",
+      "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-10/jamaal-howard-hinrichtung-texas-todesstrafe-pentobarbital-foto-1/original__640x360",
+      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-10/jamaal-howard-hinrichtung-texas-todesstrafe-pentobarbital",
+      "published": "Thu, 08 Oct 2026 05:55:52 -0000",
+      "published_display": "08.10.2026 · 05:55 Uhr"
+    },
+    {
+      "title": "Nach Spitzentreffen: Koalition: «Historische Bewährungsprobe» für Demokratie",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/08/koalition-ringt-nach-wahl-schock-um-reformen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/07/koalition-ringt-nach-wahl-schock-um-reformen",
+      "published": "Thu, 08 Oct 2026 05:54:55 -0000",
+      "published_display": "08.10.2026 · 05:54 Uhr"
+    },
     {
       "title": "DFB-Nationalmannschaft: Jürgen Klopp hat für so was keine Zeit",
       "summary": "Die AfD hat ein Problem mit der deutschen Nationalelf. Und zeigt damit mal wieder, was für ein Verein sie ist.",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/08/unfall-mit-mehreren-fahrzeugen-fahrerflucht",
       "published": "Thu, 08 Oct 2026 05:24:51 -0000",
       "published_display": "08.10.2026 · 05:24 Uhr"
-    },
-    {
-      "title": "Wetter: Regen und Gewitter: NRW erwartet nasses Wochenende",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/08/regen-und-gewitter-nrw-erwartet-nasses-wochenende-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/08/regen-und-gewitter-nrw-erwartet-nasses-wochenende",
-      "published": "Thu, 08 Oct 2026 05:23:50 -0000",
-      "published_display": "08.10.2026 · 05:23 Uhr"
-    },
-    {
-      "title": "Bad Nenndorf: Landesgartenschau übertrifft angepeilte Besucherzahl",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/08/landesgartenschau-uebertrifft-angepeilte-besucherzahl-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/08/landesgartenschau-uebertrifft-angepeilte-besucherzahl",
-      "published": "Thu, 08 Oct 2026 05:07:21 -0000",
-      "published_display": "08.10.2026 · 05:07 Uhr"
-    },
-    {
-      "title": "Vorhersage: Wetterumschwung in Hessen: Stürmisch und nass ins Wochenende",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/08/wetterumschwung-in-hessen-stuermisch-und-nass-ins-wochenende-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/08/wetterumschwung-in-hessen-stuermisch-und-nass-ins-wochenende",
-      "published": "Thu, 08 Oct 2026 05:07:18 -0000",
-      "published_display": "08.10.2026 · 05:07 Uhr"
     }
   ]
 }
