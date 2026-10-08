@@ -1,7 +1,39 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-08T20:02:12.891251+00:00",
+  "updated": "2026-10-08T20:21:16.539542+00:00",
   "items": [
+    {
+      "title": "Schülerproteste in Frankreich: Erneut protestieren Zehntausende in Frankreich für bessere Bildung",
+      "summary": "Die Schulproteste in Frankreich gehen unvermindert weiter – und zeigen Erfolg: Laut Premier Lecornu sollen kurzfristig mehr als 3.000 Vertretungslehrer eingesetzt werden.",
+      "image": "https://img.zeit.de/politik/2026-10/frankreich-demo-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/frankreich-schueler-proteste-schulen-polizeigewalt-paris",
+      "published": "Thu, 08 Oct 2026 20:19:17 -0000",
+      "published_display": "08.10.2026 · 20:19 Uhr"
+    },
+    {
+      "title": "Fall Maricarmen: Nach Seniorin-Tod neue Proteste gegen Wohnkrise in Spanien",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/08/tod-nach-zwangsraeumung-heizt-protest-in-spanien-weiter-an-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/08/tod-nach-zwangsraeumung-heizt-protest-in-spanien-weiter-an",
+      "published": "Thu, 08 Oct 2026 20:18:00 -0000",
+      "published_display": "08.10.2026 · 20:18 Uhr"
+    },
+    {
+      "title": "Hauptstadt: Lauterbach gegen rot-rot-grüne Koalition in Berlin",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/08/lauterbach-gegen-rot-rot-gruene-koalition-in-berlin-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/08/lauterbach-gegen-rot-rot-gruene-koalition-in-berlin",
+      "published": "Thu, 08 Oct 2026 20:11:59 -0000",
+      "published_display": "08.10.2026 · 20:11 Uhr"
+    },
+    {
+      "title": "US-Militär: Hegseth: Öffentliche Militärhinrichtung von Attentäter",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/08/hegseth-oeffentliche-militaerhinrichtung-von-attentaeter-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/08/hegseth-oeffentliche-militaerhinrichtung-von-attentaeter",
+      "published": "Thu, 08 Oct 2026 20:09:34 -0000",
+      "published_display": "08.10.2026 · 20:09 Uhr"
+    },
     {
       "title": "Umstrittene Freundschaft: Altkanzler Schröder bei Putin-Geburtstag",
       "summary": "",
@@ -16,14 +48,6 @@
       "image": "https://img.zeit.de/news/2026-10/08/anwohner-sollen-nach-schussgeraeuschen-in-haeusern-bleiben-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-10/08/anwohner-sollen-nach-schussgeraeuschen-in-haeusern-bleiben",
       "published": "Thu, 08 Oct 2026 19:59:29 -0000",
-      "published_display": "08.10.2026 · 19:59 Uhr"
-    },
-    {
-      "title": "Schülerproteste in Frankreich: Erneut protestieren Zehntausende in Frankreich für bessere Bildung",
-      "summary": "Die Schulproteste in Frankreich gehen in ihrer zweiten Woche ungemindert weiter – landesweit demonstrierten mehr als 70.000 Menschen. Dabei gab es Hunderte Festnahmen.",
-      "image": "https://img.zeit.de/politik/2026-10/frankreich-demo-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/frankreich-schueler-proteste-schulen-polizeigewalt-paris",
-      "published": "Thu, 08 Oct 2026 19:59:28 -0000",
       "published_display": "08.10.2026 · 19:59 Uhr"
     },
     {
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/08/schlingel-kuert-beste-kurz-und-animationsfilme",
       "published": "Thu, 08 Oct 2026 19:00:04 -0000",
       "published_display": "08.10.2026 · 19:00 Uhr"
-    },
-    {
-      "title": "Argentinischer Fußballstar: Staatsanwaltschaft fordert hohe Haftstrafe für Maradonas Ärzte",
-      "summary": "Das Behandlungsteam von Diego Maradona soll laut Staatsanwaltschaft für viele Jahre ins Gefängnis. Die Ärzte hätten vor dem Tod des Fußballers 2020 »chaotisch« gehandelt.",
-      "image": "https://img.zeit.de/sport/2026-10/diego-maradona-prozess-tod-aerzte-pflege-bild/original__640x360",
-      "link": "https://www.zeit.de/sport/2026-10/diego-maradona-prozess-tod-aerzte-pflege",
-      "published": "Thu, 08 Oct 2026 19:00:01 -0000",
-      "published_display": "08.10.2026 · 19:00 Uhr"
-    },
-    {
-      "title": "Antibiotika: Wenn Antibiotika nicht mehr wirken",
-      "summary": "Die nächste globale Gesundheitskrise beginnt nicht mit einem neuen Virus. Sie ist längst da.",
-      "image": "https://img.zeit.de/video/2026-10/antibiotikaresistenz/original__640x360",
-      "link": "https://www.zeit.de/politik/2026-10/antibiotika-arzneimittel-resistenzen-was-jetzt-videopodcast",
-      "published": "Thu, 08 Oct 2026 18:59:53 -0000",
-      "published_display": "08.10.2026 · 18:59 Uhr"
-    },
-    {
-      "title": "Brutaler Angriff: Mann verletzt 61-Jährigen mit Messer lebensgefährlich",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/08/mann-verletzt-61-jaehrigen-mit-messer-lebensgefaehrlich-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/08/mann-verletzt-61-jaehrigen-mit-messer-lebensgefaehrlich",
-      "published": "Thu, 08 Oct 2026 18:57:00 -0000",
-      "published_display": "08.10.2026 · 18:57 Uhr"
     }
   ]
 }
