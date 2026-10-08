@@ -1,7 +1,39 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-08T02:18:34.522011+00:00",
+  "updated": "2026-10-08T02:33:47.343867+00:00",
   "items": [
+    {
+      "title": "DWD-Vorhersage: Jetzt wird es nass: Wo es im Südwesten viel regnen soll",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/08/jetzt-wird-es-nass-wo-es-im-suedwesten-viel-regnen-soll-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/08/jetzt-wird-es-nass-wo-es-im-suedwesten-viel-regnen-soll",
+      "published": "Thu, 08 Oct 2026 02:30:06 -0000",
+      "published_display": "08.10.2026 · 02:30 Uhr"
+    },
+    {
+      "title": "Nobelpreise: Literaturnobelpreis wird verkündet: Wer macht das Rennen?",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/08/literaturnobelpreis-wird-verkuendet-wer-macht-das-rennen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/08/literaturnobelpreis-wird-verkuendet-wer-macht-das-rennen",
+      "published": "Thu, 08 Oct 2026 02:30:05 -0000",
+      "published_display": "08.10.2026 · 02:30 Uhr"
+    },
+    {
+      "title": "Buch und Hörspiel: Karl, der kleine Ottifant: Kinderbuch-Debüt von Otto Waalkes",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/08/karl-der-kleine-ottifant-kinderbuch-debuet-von-otto-waalkes-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/08/karl-der-kleine-ottifant-kinderbuch-debuet-von-otto-waalkes",
+      "published": "Thu, 08 Oct 2026 02:30:05 -0000",
+      "published_display": "08.10.2026 · 02:30 Uhr"
+    },
+    {
+      "title": "Artenvielfalt: Wildtierbestände nehmen laut WWF weiter stark ab",
+      "summary": "Die Umweltorganisation WWF fordert mehr Schutz für die Artenvielfalt. Viele Wirbeltierpopulationen seien seit 1970 stark zurückgegangen, einige konnten sich erholen.",
+      "image": "https://img.zeit.de/wissenschaft/umwelt/2026-10/living-planet-index-wwf-wirbeltierpopulationen-biodiversitaet-foto-1/original__640x360",
+      "link": "https://www.zeit.de/wissenschaft/umwelt/2026-10/living-planet-index-wwf-wirbeltierpopulationen-biodiversitaet",
+      "published": "Thu, 08 Oct 2026 02:28:29 -0000",
+      "published_display": "08.10.2026 · 02:28 Uhr"
+    },
     {
       "title": "Landkreis Landshut: Bewohner stirbt bei Wohnungsbrand in Niederbayern",
       "summary": "",
@@ -88,38 +120,6 @@
       "image": "https://img.zeit.de/news/2026-10/08/forever-young-rheinland-pfaelzer-gibt-alphaville-den-takt-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-10/08/forever-young-rheinland-pfaelzer-gibt-alphaville-den-takt",
       "published": "Thu, 08 Oct 2026 02:00:23 -0000",
-      "published_display": "08.10.2026 · 02:00 Uhr"
-    },
-    {
-      "title": "Kampf um Doktortitel beendet: Politologe: Letzte Gelegenheit für Mario Voigt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/08/politologe-letzte-gelegenheit-fuer-mario-voigt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/08/politologe-letzte-gelegenheit-fuer-mario-voigt",
-      "published": "Thu, 08 Oct 2026 02:00:17 -0000",
-      "published_display": "08.10.2026 · 02:00 Uhr"
-    },
-    {
-      "title": "Tierwelt: So sehr sind heimische Krebse in Gefahr",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/08/so-sehr-sind-heimische-krebse-in-gefahr-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/08/so-sehr-sind-heimische-krebse-in-gefahr",
-      "published": "Thu, 08 Oct 2026 02:00:11 -0000",
-      "published_display": "08.10.2026 · 02:00 Uhr"
-    },
-    {
-      "title": "Royaler Besuch: Königin Silvia auf Bodensee-Insel: Das ist geplant",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/08/koenigin-silvia-auf-bodensee-insel-das-ist-geplant-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/08/koenigin-silvia-auf-bodensee-insel-das-ist-geplant",
-      "published": "Thu, 08 Oct 2026 02:00:10 -0000",
-      "published_display": "08.10.2026 · 02:00 Uhr"
-    },
-    {
-      "title": "Gewimmel am Himmel: Zugvögel sind da – Tipps für Exkursionen und Beobachtungen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/08/zugvoegel-sind-da-tipps-fuer-exkursionen-und-beobachtungen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/08/zugvoegel-sind-da-tipps-fuer-exkursionen-und-beobachtungen",
-      "published": "Thu, 08 Oct 2026 02:00:09 -0000",
       "published_display": "08.10.2026 · 02:00 Uhr"
     }
   ]
