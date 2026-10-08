@@ -1,7 +1,39 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-08T04:21:03.254881+00:00",
+  "updated": "2026-10-08T04:38:05.955932+00:00",
   "items": [
+    {
+      "title": "Mädchenmorde: Cold Case-Ermittler: «Dem Täter ein Gesicht geben»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/08/cold-case-ermittler-dem-taeter-ein-gesicht-geben-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/08/cold-case-ermittler-dem-taeter-ein-gesicht-geben",
+      "published": "Thu, 08 Oct 2026 04:35:04 -0000",
+      "published_display": "08.10.2026 · 04:35 Uhr"
+    },
+    {
+      "title": "Raubkatzen-Alarm?: Wärmebildkamera findet keine Spur von mutmaßlichem Puma",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/08/waermebildkamera-findet-keine-spur-von-mutmasslichem-puma-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/08/waermebildkamera-findet-keine-spur-von-mutmasslichem-puma",
+      "published": "Thu, 08 Oct 2026 04:32:53 -0000",
+      "published_display": "08.10.2026 · 04:32 Uhr"
+    },
+    {
+      "title": "Brände: Defektes Gerät löst Feuer aus – 75-Jähriger verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/08/defektes-geraet-loest-feuer-aus-75-jaehriger-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/08/defektes-geraet-loest-feuer-aus-75-jaehriger-verletzt",
+      "published": "Thu, 08 Oct 2026 04:30:31 -0000",
+      "published_display": "08.10.2026 · 04:30 Uhr"
+    },
+    {
+      "title": "Sachsen-Anhalt: Radtke fordert Parteiausschluss bei möglichen CDU-Stimmen für AfD",
+      "summary": "Der CDU-Sozialflügel-Chef fordert Parteiausschlussverfahren, sollten CDU-Politiker für den AfD-Landtagspräsidenten gestimmt haben. Die Abgrenzung zur AfD sei verbindlich.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-10/tobias-rausch-afd-landtagspraesident-sachsen-anhalt-cdu-abgrenzung-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-10/tobias-rausch-afd-landtagspraesident-sachsen-anhalt-cdu-abgrenzung",
+      "published": "Thu, 08 Oct 2026 04:22:44 -0000",
+      "published_display": "08.10.2026 · 04:22 Uhr"
+    },
     {
       "title": "Unfälle: Unfall auf A4: Lkw blockiert eine Fahrtrichtung",
       "summary": "",
@@ -89,38 +121,6 @@
       "link": "https://www.zeit.de/politik/ausland/2026-10/christa-pike-hinrichtung-tennessee-giftspitze",
       "published": "Thu, 08 Oct 2026 03:33:09 -0000",
       "published_display": "08.10.2026 · 03:33 Uhr"
-    },
-    {
-      "title": "Hendrik Wüst: Auch im Westen schwinden Gewissheiten",
-      "summary": "Die CDU hofft, im April mit Hendrik Wüst NRW zu gewinnen. Doch die AfD wird auch hier stärker. In einem Teil der Partei ist man dennoch entspannt.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-10/wuest-hendrik-cdu-nrw-bild-2/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-10/hendrik-wuest-cdu-nrw-kandidat-landtagswahl",
-      "published": "Thu, 08 Oct 2026 03:32:59 -0000",
-      "published_display": "08.10.2026 · 03:32 Uhr"
-    },
-    {
-      "title": "Justiz: BGH verhandelt zu Cookie-Speicherung - Darum geht's",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/08/bgh-verhandelt-zu-cookie-speicherung-darum-geht-s-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/08/bgh-verhandelt-zu-cookie-speicherung-darum-geht-s",
-      "published": "Thu, 08 Oct 2026 03:30:13 -0000",
-      "published_display": "08.10.2026 · 03:30 Uhr"
-    },
-    {
-      "title": "Wetter: Wetterumschwung in Bayern: Herbst bringt Regen und Kälte",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/08/wetterumschwung-in-bayern-herbst-bringt-regen-und-kaelte-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/08/wetterumschwung-in-bayern-herbst-bringt-regen-und-kaelte",
-      "published": "Thu, 08 Oct 2026 03:30:13 -0000",
-      "published_display": "08.10.2026 · 03:30 Uhr"
-    },
-    {
-      "title": "Generalstaatsanwaltschaft: Koppers: Wachsende Gefahren durch Populismus und Extremismus",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/08/koppers-wachsende-gefahren-durch-populismus-und-extremismus-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/08/koppers-wachsende-gefahren-durch-populismus-und-extremismus",
-      "published": "Thu, 08 Oct 2026 03:30:06 -0000",
-      "published_display": "08.10.2026 · 03:30 Uhr"
     }
   ]
 }
