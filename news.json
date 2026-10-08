@@ -1,7 +1,63 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-08T04:00:15.857176+00:00",
+  "updated": "2026-10-08T04:21:03.254881+00:00",
   "items": [
+    {
+      "title": "Unfälle: Unfall auf A4: Lkw blockiert eine Fahrtrichtung",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/08/unfall-auf-a4-lkw-blockiert-eine-fahrtrichtung-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/08/unfall-auf-a4-lkw-blockiert-eine-fahrtrichtung",
+      "published": "Thu, 08 Oct 2026 04:17:22 -0000",
+      "published_display": "08.10.2026 · 04:17 Uhr"
+    },
+    {
+      "title": "Lungenpest-Verdacht: Kreml: Termin für Gespräch von Trump und Putin offen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/08/kreml-termin-fuer-gespraech-von-trump-und-putin-offen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/08/kreml-termin-fuer-gespraech-von-trump-und-putin-offen",
+      "published": "Thu, 08 Oct 2026 04:17:09 -0000",
+      "published_display": "08.10.2026 · 04:17 Uhr"
+    },
+    {
+      "title": "Dave Eggers: »Dave Eggers, why are you so hopeful for America?«",
+      "summary": "Er hat über US-Techkonzerne und den Kunstmarkt geschrieben und eine Bibliothek für Kinder und Jugendliche gegründet. Der Literaturstar David Eggers zu Gast im Podcast",
+      "image": "https://img.zeit.de/feuilleton/2026-10/dave-eggers-interviewpodcast-alles-gesagt-aufmacher/original__640x360",
+      "link": "https://www.zeit.de/gesellschaft/2026-10/dave-eggers-interviewpodcast-alles-gesagt",
+      "published": "Thu, 08 Oct 2026 04:05:06 -0000",
+      "published_display": "08.10.2026 · 04:05 Uhr"
+    },
+    {
+      "title": "Elbvertiefung: Der tägliche Newsletter aus Hamburg: Holladihiti – Neues von Otto Waalkes",
+      "summary": "Die Elbvertiefung am Donnerstag – Mit der Familie Bumils, gescheiterten Investoren aus China und einem Rohr, dass zur allgemeinen Verblüffung unbeschädigt ist",
+      "image": "https://img.zeit.de/hamburg/2026-10/ottifanten/original__640x360",
+      "link": "https://www.zeit.de/hamburg/2026-10/elbvertiefung-08-10-2026",
+      "published": "Thu, 08 Oct 2026 04:00:26 -0000",
+      "published_display": "08.10.2026 · 04:00 Uhr"
+    },
+    {
+      "title": "350 Millionen Euro Fördergeld: Zukunft für E-Kerosin-Projekt in Schwedt noch ungeklärt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/08/zukunft-fuer-e-kerosin-projekt-in-schwedt-noch-ungeklaert-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/08/zukunft-fuer-e-kerosin-projekt-in-schwedt-noch-ungeklaert",
+      "published": "Thu, 08 Oct 2026 04:00:10 -0000",
+      "published_display": "08.10.2026 · 04:00 Uhr"
+    },
+    {
+      "title": "Meerestemperaturen: Rekordwarme Pazifikregion: El Niño könnte Rekorde brechen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/08/rekordwarme-pazifikregion-el-ni-o-koennte-rekorde-brechen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/08/rekordwarme-pazifikregion-el-ni-o-koennte-rekorde-brechen",
+      "published": "Thu, 08 Oct 2026 04:00:10 -0000",
+      "published_display": "08.10.2026 · 04:00 Uhr"
+    },
+    {
+      "title": "Cosco: Warum China dieses deutsche Unternehmen nicht kaufen darf",
+      "summary": "Die Bundesregierung stoppt den Verkauf einer Logistikfirma an China. Zeigt sich hier die neue Handelspolitik? Und: Wen treffen eigentlich die Sanktionen gegen den Iran?",
+      "image": "https://img.zeit.de/wirtschaft/2026-10/cosco-chinesische-reederei-logistikunternehmen-nachrichtenpodcast-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/2026-10/cosco-chinesische-reederei-logistikunternehmen-nachrichtenpodcast",
+      "published": "Thu, 08 Oct 2026 03:59:50 -0000",
+      "published_display": "08.10.2026 · 03:59 Uhr"
+    },
     {
       "title": "Zitronendal mit knusprigen Kichererbsen: Das Dal, das knuspert",
       "summary": "Zitronendal ist ein günstiges, einfaches Gericht aus der indischen Küche. Mit knusprigen, gewürzten Kichererbsen und Pitachips glänzt es als Vorspeise oder Beilage.",
@@ -65,62 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/08/koppers-wachsende-gefahren-durch-populismus-und-extremismus",
       "published": "Thu, 08 Oct 2026 03:30:06 -0000",
       "published_display": "08.10.2026 · 03:30 Uhr"
-    },
-    {
-      "title": "Präsidentschaftswahl in Brasilien: Studierende protestieren in Rio gegen Flávio Bolsonaro",
-      "summary": "In Rio de Janeiro haben Tausende Studierende gegen die mögliche Wahl von Flávio Bolsonaro protestiert. Vor der Stichwahl am 25. Oktober liegt er vor Amtsinhaber Lula.",
-      "image": "https://img.zeit.de/politik/ausland/2026-10/wahl-rio-de-janeiro-flavio-bolsonaro-stichwahl-proteste-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/wahl-rio-de-janeiro-flavio-bolsonaro-stichwahl-proteste",
-      "published": "Thu, 08 Oct 2026 03:27:30 -0000",
-      "published_display": "08.10.2026 · 03:27 Uhr"
-    },
-    {
-      "title": "Nach den Landtagswahlen: Pistorius hat Bedenken gegen Regierung mit Berliner Linken",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/08/pistorius-hat-bedenken-gegen-regierung-mit-berliner-linken-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/08/pistorius-hat-bedenken-gegen-regierung-mit-berliner-linken",
-      "published": "Thu, 08 Oct 2026 03:26:04 -0000",
-      "published_display": "08.10.2026 · 03:26 Uhr"
-    },
-    {
-      "title": "Fotografie: Bilder des Tages",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/08/bilder-des-tages-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/08/bilder-des-tages",
-      "published": "Thu, 08 Oct 2026 03:20:19 -0000",
-      "published_display": "08.10.2026 · 03:20 Uhr"
-    },
-    {
-      "title": "Schlager: Andrea Berg feiert 25 Jahre Best-Of mit neuer Album-Edition",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/08/andrea-berg-feiert-25-jahre-best-of-mit-neuer-album-edition-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/08/andrea-berg-feiert-25-jahre-best-of-mit-neuer-album-edition",
-      "published": "Thu, 08 Oct 2026 03:10:40 -0000",
-      "published_display": "08.10.2026 · 03:10 Uhr"
-    },
-    {
-      "title": "Andy Burnham: Deutschland und Großbritannien wollen Cyberabwehr stärken",
-      "summary": "Der britische Premierminister kommt für seinen Amtsantrittsbesuch nach Berlin. Dort wollen er und Merz die Zusammenarbeit bei der Abwehr von Cyberangriffen stärken.",
-      "image": "https://img.zeit.de/politik/2026-10/britain-politics-labour-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/2026-10/kensington-vertrag-deutschland-grossbritannien-andy-burnham-friedrich-merz",
-      "published": "Thu, 08 Oct 2026 03:08:59 -0000",
-      "published_display": "08.10.2026 · 03:08 Uhr"
-    },
-    {
-      "title": "Altersforschung: 194-jährige Schildkröte: Was Jonathan übers Altern verrät",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/08/194-jaehrige-schildkroete-was-jonathan-uebers-altern-verraet-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/08/194-jaehrige-schildkroete-was-jonathan-uebers-altern-verraet",
-      "published": "Thu, 08 Oct 2026 03:07:05 -0000",
-      "published_display": "08.10.2026 · 03:07 Uhr"
-    },
-    {
-      "title": "Vom Aussterben bedroht: Diese invasiven Krebse bedrohen heimische Arten im Südwesten",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/08/diese-invasiven-krebse-bedrohen-heimische-arten-im-suedwesten-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/08/diese-invasiven-krebse-bedrohen-heimische-arten-im-suedwesten",
-      "published": "Thu, 08 Oct 2026 03:00:19 -0000",
-      "published_display": "08.10.2026 · 03:00 Uhr"
     }
   ]
 }
