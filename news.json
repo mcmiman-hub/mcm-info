@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-08T21:52:01.462678+00:00",
+  "updated": "2026-10-08T22:02:54.554298+00:00",
   "items": [
+    {
+      "title": "Kalenderblatt: Was geschah am 9. Oktober?",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/08/was-geschah-am-9-oktober-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/08/was-geschah-am-9-oktober",
+      "published": "Thu, 08 Oct 2026 21:55:04 -0000",
+      "published_display": "08.10.2026 · 21:55 Uhr"
+    },
+    {
+      "title": "Verkehr: Bundestag ebnet Weg für neue Bahntrasse Hannover-Hamburg",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/08/bundestag-ebnet-weg-fuer-neue-bahntrasse-hannover-hamburg-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/08/bundestag-ebnet-weg-fuer-neue-bahntrasse-hannover-hamburg",
+      "published": "Thu, 08 Oct 2026 21:54:26 -0000",
+      "published_display": "08.10.2026 · 21:54 Uhr"
+    },
     {
       "title": "Oberpfalz: Zweites Todesopfer nach Schüssen bei Waffenkontrolle",
       "summary": "Bei einer Routinekontrolle im Wohnhaus eines Waffenbesitzers sind zwei Behördenmitarbeiter getötet worden. Der mutmaßliche Schütze verschanzt sich weiter im Haus.",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/08/altkanzler-schroeder-bei-putin-geburtstag",
       "published": "Thu, 08 Oct 2026 19:59:33 -0000",
       "published_display": "08.10.2026 · 19:59 Uhr"
-    },
-    {
-      "title": "Reaktion auf Proteste: Frankreich setzt kurzfristig 3.000 Vertretungslehrer ein",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/08/frankreich-setzt-kurzfristig-3-000-vertretungslehrer-ein-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/08/frankreich-setzt-kurzfristig-3-000-vertretungslehrer-ein",
-      "published": "Thu, 08 Oct 2026 19:56:29 -0000",
-      "published_display": "08.10.2026 · 19:56 Uhr"
-    },
-    {
-      "title": "Neue Show in Stuttgart: Stuttgart feiert Popmusik - Premiere von Musical «& Julia»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/08/stuttgart-feiert-popmusik-premiere-von-musical-julia-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/08/stuttgart-feiert-popmusik-premiere-von-musical-julia",
-      "published": "Thu, 08 Oct 2026 19:52:55 -0000",
-      "published_display": "08.10.2026 · 19:52 Uhr"
     }
   ]
 }
