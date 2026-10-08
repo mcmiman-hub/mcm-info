@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-08T21:36:25.859913+00:00",
+  "updated": "2026-10-08T21:52:01.462678+00:00",
   "items": [
+    {
+      "title": "Oberpfalz: Zweites Todesopfer nach Schüssen bei Waffenkontrolle",
+      "summary": "Bei einer Routinekontrolle im Wohnhaus eines Waffenbesitzers sind zwei Behördenmitarbeiter getötet worden. Der mutmaßliche Schütze verschanzt sich weiter im Haus.",
+      "image": "https://img.zeit.de/gesellschaft/2026-10/oberpfalz-schuesse-waffenkontrolle-polizei-tote-bild/original__640x360",
+      "link": "https://www.zeit.de/gesellschaft/2026-10/oberpfalz-schuesse-waffenkontrolle-polizei-tote",
+      "published": "Thu, 08 Oct 2026 21:47:49 -0000",
+      "published_display": "08.10.2026 · 21:47 Uhr"
+    },
+    {
+      "title": "Unfälle: Bei Regen: Zusammenstoß auf Kreuzung - Fahrerin stirbt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/08/bei-regen-zusammenstoss-auf-kreuzung-fahrerin-stirbt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/08/bei-regen-zusammenstoss-auf-kreuzung-fahrerin-stirbt",
+      "published": "Thu, 08 Oct 2026 21:38:28 -0000",
+      "published_display": "08.10.2026 · 21:38 Uhr"
+    },
+    {
+      "title": "Kriminalität: Zwei Tote nach Schüssen bei Waffenkontrolle in der Oberpfalz",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/08/anwohner-sollen-nach-schussgeraeuschen-in-haeusern-bleiben-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/08/anwohner-sollen-nach-schussgeraeuschen-in-haeusern-bleiben",
+      "published": "Thu, 08 Oct 2026 21:36:36 -0000",
+      "published_display": "08.10.2026 · 21:36 Uhr"
+    },
     {
       "title": "Russland: Gerhard Schröder trifft Wladimir Putin an dessen Geburtstag in Moskau",
       "summary": "Laut russischen Angaben hat der frühere Bundeskanzler an Putins Geburtstagsfeier teilgenommen. Wegen seiner Russlandbeziehungen steht Schröder seit Jahren in der Kritik.",
@@ -24,14 +48,6 @@
       "image": "https://img.zeit.de/administratives/sharing/fallback-image-die-zeit/wide__1300x731",
       "link": "https://www.zeit.de/news/2026-10/08/zweites-todesopfer-nach-schuessen-bei-waffenkontrolle",
       "published": "Thu, 08 Oct 2026 21:11:50 -0000",
-      "published_display": "08.10.2026 · 21:11 Uhr"
-    },
-    {
-      "title": "Kriminalität: Zweites Todesopfer nach Schüssen bei Waffenkontrolle",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/08/anwohner-sollen-nach-schussgeraeuschen-in-haeusern-bleiben-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/08/anwohner-sollen-nach-schussgeraeuschen-in-haeusern-bleiben",
-      "published": "Thu, 08 Oct 2026 21:11:39 -0000",
       "published_display": "08.10.2026 · 21:11 Uhr"
     },
     {
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/08/stuttgart-feiert-popmusik-premiere-von-musical-julia",
       "published": "Thu, 08 Oct 2026 19:52:55 -0000",
       "published_display": "08.10.2026 · 19:52 Uhr"
-    },
-    {
-      "title": "Unfall: «Geschockt»: Vier junge Mopedfahrer nach Überholmanöver tot",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/08/auto-kracht-beim-ueberholen-in-mopeds-vier-tote-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/07/auto-kracht-beim-ueberholen-in-mopeds-vier-tote",
-      "published": "Thu, 08 Oct 2026 19:52:49 -0000",
-      "published_display": "08.10.2026 · 19:52 Uhr"
-    },
-    {
-      "title": "Kommunen: Gericht kippt Münchner Mindestpreise für Uber und Co.",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/08/gericht-kippt-muenchner-mindestpreise-fuer-uber-und-co-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/08/gericht-kippt-muenchner-mindestpreise-fuer-uber-und-co",
-      "published": "Thu, 08 Oct 2026 19:40:42 -0000",
-      "published_display": "08.10.2026 · 19:40 Uhr"
     }
   ]
 }
