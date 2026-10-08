@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-08T17:20:20.722746+00:00",
+  "updated": "2026-10-08T17:36:20.694845+00:00",
   "items": [
+    {
+      "title": "Wetter: Schwerer Sturm mit orkanartigen Böen im Oberharz erwartet",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/08/schwerer-sturm-mit-orkanartigen-boeen-im-oberharz-erwartet-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/08/schwerer-sturm-mit-orkanartigen-boeen-im-oberharz-erwartet",
+      "published": "Thu, 08 Oct 2026 17:33:02 -0000",
+      "published_display": "08.10.2026 · 17:33 Uhr"
+    },
     {
       "title": "Landkreis Oberhavel: Polizeieinsatz in Velten - unklare Gefahrenlage",
       "summary": "",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/08/lastwagenbrand-erfasst-lagerhalle-millionenschaden",
       "published": "Thu, 08 Oct 2026 16:42:38 -0000",
       "published_display": "08.10.2026 · 16:42 Uhr"
-    },
-    {
-      "title": "Frau verliert eine Million: Neue Online-Abzocke: Betrug bei Immobilienkauf",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/08/neue-online-abzocke-betrug-bei-immobilienkauf-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/08/neue-online-abzocke-betrug-bei-immobilienkauf",
-      "published": "Thu, 08 Oct 2026 16:41:18 -0000",
-      "published_display": "08.10.2026 · 16:41 Uhr"
     }
   ]
 }
