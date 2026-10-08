@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-08T19:36:06.635950+00:00",
+  "updated": "2026-10-08T19:51:21.973564+00:00",
   "items": [
+    {
+      "title": "Schülerproteste in Frankreich: Erneut protestieren Zehntausende in Frankreich für bessere Bildung",
+      "summary": "Die Schulproteste in Frankreich gehen in ihrer zweiten Woche ungemindert weiter – landesweit demonstrierten mehr als 70.000 Menschen. Dabei gab es hunderte Festnahmen.",
+      "image": "https://img.zeit.de/administratives/sharing/fallback-image-die-zeit/wide__1300x731",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/frankreich-schueler-proteste-schulen-polizeigewalt-paris",
+      "published": "Thu, 08 Oct 2026 19:45:21 -0000",
+      "published_display": "08.10.2026 · 19:45 Uhr"
+    },
+    {
+      "title": "Kommunen: Gericht kippt Münchner Mindestpreise für Uber und Co.",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/08/gericht-kippt-muenchner-mindestpreise-fuer-uber-und-co-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/08/gericht-kippt-muenchner-mindestpreise-fuer-uber-und-co",
+      "published": "Thu, 08 Oct 2026 19:40:42 -0000",
+      "published_display": "08.10.2026 · 19:40 Uhr"
+    },
+    {
+      "title": "Anfeindungen im Netz: Hape Kerkeling: Sei selbst die Demokratie",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/08/hape-kerkeling-sei-selbst-die-demokratie-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/08/hape-kerkeling-sei-selbst-die-demokratie",
+      "published": "Thu, 08 Oct 2026 19:34:27 -0000",
+      "published_display": "08.10.2026 · 19:34 Uhr"
+    },
     {
       "title": "Literatur: Ines Geipel erhält Geschwister-Scholl-Preis",
       "summary": "",
@@ -75,14 +99,6 @@
       "published_display": "08.10.2026 · 18:55 Uhr"
     },
     {
-      "title": "Kommunen: Gericht kippt Münchner Mindestpreise für Uber und Co.",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/08/gericht-kippt-muenchner-mindestpreise-fuer-uber-und-co-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/08/gericht-kippt-muenchner-mindestpreise-fuer-uber-und-co",
-      "published": "Thu, 08 Oct 2026 18:46:10 -0000",
-      "published_display": "08.10.2026 · 18:46 Uhr"
-    },
-    {
       "title": "Streit mit Verband: Eisschnellläufer unterschreiben Vereinbarung unter Protest",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-10/08/eisschnelllauf-hoffnung-denkt-ueber-abgang-ins-ausland-nach-image-group/original__640x360",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/08/fuechse-berlin-siegen-dank-gidsel-show-gegen-porto",
       "published": "Thu, 08 Oct 2026 18:23:31 -0000",
       "published_display": "08.10.2026 · 18:23 Uhr"
-    },
-    {
-      "title": "Reformpläne der Bundesregierung : Dieser verdruckste Umgang mit Reformen hilft niemandem",
-      "summary": "Die Regierung freut sich über ein zartes Wachstum – und sediert die Bürger mit immer neuen Milliardengeschenken wie dem Tankrabatt. Mehr Wahrheit wäre mutiger.",
-      "image": "https://img.zeit.de/wirtschaft/2026-10/reformplaene-bundesregierung-herbstprognose-wirtschaftspolitik-wachstum-bild/original__640x360",
-      "link": "https://www.zeit.de/wirtschaft/2026-10/reformplaene-bundesregierung-herbstprognose-wirtschaftspolitik-wachstum",
-      "published": "Thu, 08 Oct 2026 18:21:24 -0000",
-      "published_display": "08.10.2026 · 18:21 Uhr"
-    },
-    {
-      "title": "USA: Trump-Regierung schließt Microsoft von Visaprogramm für Fachkräfte aus",
-      "summary": "Die US-Regierung möchte verhindern, dass Microsoft weiter ausländische Fachkräfte anwirbt. Deshalb hat sie den Konzern von einem Visaprogramm ausgeschlossen.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-10/h-1b-microsoft-jd-vance-auslaendische-fachkraefte-trump-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-10/usa-microsoft-jd-vance-auslaendische-fachkraefte-donald-trump",
-      "published": "Thu, 08 Oct 2026 18:16:17 -0000",
-      "published_display": "08.10.2026 · 18:16 Uhr"
     }
   ]
 }
