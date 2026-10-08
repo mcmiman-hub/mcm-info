@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-08T19:19:42.741507+00:00",
+  "updated": "2026-10-08T19:36:06.635950+00:00",
   "items": [
+    {
+      "title": "Literatur: Ines Geipel erhält Geschwister-Scholl-Preis",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/08/ines-geipel-erhaelt-geschwister-scholl-preis-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/08/ines-geipel-erhaelt-geschwister-scholl-preis",
+      "published": "Thu, 08 Oct 2026 19:24:28 -0000",
+      "published_display": "08.10.2026 · 19:24 Uhr"
+    },
+    {
+      "title": "Staatsanwaltschaft ermittelt: Niedersächsischer SPD-Fraktionschef Politze tritt zurück",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/08/niedersaechsischer-spd-fraktionschef-politze-tritt-zurueck-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/08/niedersaechsischer-spd-fraktionschef-politze-tritt-zurueck",
+      "published": "Thu, 08 Oct 2026 19:19:47 -0000",
+      "published_display": "08.10.2026 · 19:19 Uhr"
+    },
     {
       "title": "Niedersachsen: «Belasten das Amt» - SPD-Fraktionschef Politze tritt zurück",
       "summary": "",
@@ -99,28 +115,12 @@
       "published_display": "08.10.2026 · 18:21 Uhr"
     },
     {
-      "title": "Landtag: Niedersächsischer SPD-Fraktionschef Politze tritt zurück",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/08/niedersaechsischer-spd-fraktionschef-politze-tritt-zurueck-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/08/niedersaechsischer-spd-fraktionschef-politze-tritt-zurueck",
-      "published": "Thu, 08 Oct 2026 18:20:40 -0000",
-      "published_display": "08.10.2026 · 18:20 Uhr"
-    },
-    {
       "title": "USA: Trump-Regierung schließt Microsoft von Visaprogramm für Fachkräfte aus",
       "summary": "Die US-Regierung möchte verhindern, dass Microsoft weiter ausländische Fachkräfte anwirbt. Deshalb hat sie den Konzern von einem Visaprogramm ausgeschlossen.",
       "image": "https://img.zeit.de/politik/deutschland/2026-10/h-1b-microsoft-jd-vance-auslaendische-fachkraefte-trump-foto-1/original__640x360",
       "link": "https://www.zeit.de/politik/deutschland/2026-10/usa-microsoft-jd-vance-auslaendische-fachkraefte-donald-trump",
       "published": "Thu, 08 Oct 2026 18:16:17 -0000",
       "published_display": "08.10.2026 · 18:16 Uhr"
-    },
-    {
-      "title": "Soziales: Bundestag will Monitoring von Bluttests bei Schwangeren",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/08/bundestag-will-monitoring-von-bluttests-bei-schwangeren-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/08/bundestag-will-monitoring-von-bluttests-bei-schwangeren",
-      "published": "Thu, 08 Oct 2026 18:12:49 -0000",
-      "published_display": "08.10.2026 · 18:12 Uhr"
     }
   ]
 }
