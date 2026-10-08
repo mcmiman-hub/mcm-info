@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-08T20:21:16.539542+00:00",
+  "updated": "2026-10-08T20:38:50.947159+00:00",
   "items": [
+    {
+      "title": "Champions League: Nach Golla-Wirbel: Melsungen siegt dank Simic gegen Nantes",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/08/nach-golla-wirbel-melsungen-siegt-dank-simic-gegen-nantes-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/08/nach-golla-wirbel-melsungen-siegt-dank-simic-gegen-nantes",
+      "published": "Thu, 08 Oct 2026 20:24:34 -0000",
+      "published_display": "08.10.2026 · 20:24 Uhr"
+    },
     {
       "title": "Schülerproteste in Frankreich: Erneut protestieren Zehntausende in Frankreich für bessere Bildung",
       "summary": "Die Schulproteste in Frankreich gehen unvermindert weiter – und zeigen Erfolg: Laut Premier Lecornu sollen kurzfristig mehr als 3.000 Vertretungslehrer eingesetzt werden.",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/08/spd-fraktionschef-politze-tritt-zurueck",
       "published": "Thu, 08 Oct 2026 19:04:22 -0000",
       "published_display": "08.10.2026 · 19:04 Uhr"
-    },
-    {
-      "title": "Festival für Kinderfilm: «Schlingel» kürt beste Kurz- und Animationsfilme",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/08/schlingel-kuert-beste-kurz-und-animationsfilme-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/08/schlingel-kuert-beste-kurz-und-animationsfilme",
-      "published": "Thu, 08 Oct 2026 19:00:04 -0000",
-      "published_display": "08.10.2026 · 19:00 Uhr"
     }
   ]
 }
