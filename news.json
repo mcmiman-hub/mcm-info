@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-09T22:00:39.321418+00:00",
+  "updated": "2026-10-09T22:18:48.488420+00:00",
   "items": [
+    {
+      "title": "Krieg gegen die Ukraine: Selenskyj wirft Trump wegen Dieseldeal mit Putin Schwäche vor",
+      "summary": "Die geplanten russischen Diesellieferungen an die USA sieht der ukrainische Präsident als Geschenk an Putin. Die Ukraine meldet Schäden am Stromnetz. Das Liveblog",
+      "image": "https://img.zeit.de/politik/ausland/2026-10/c431e3ec-f003-4f22-81a3-0a08b02f54c0.tmp/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "published": "Fri, 09 Oct 2026 22:17:16 -0000",
+      "published_display": "09.10.2026 · 22:17 Uhr"
+    },
+    {
+      "title": "Krise von CDU und CSU: CSU-Vize Weber: Brandmauer ist für Union «Riesenbelastung»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/10/csu-vize-weber-brandmauer-ist-fuer-union-riesenbelastung-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/10/csu-vize-weber-brandmauer-ist-fuer-union-riesenbelastung",
+      "published": "Fri, 09 Oct 2026 22:01:04 -0000",
+      "published_display": "09.10.2026 · 22:01 Uhr"
+    },
+    {
+      "title": "Regierungsbildung: Kurs auf Rot-Rot-Grün in Mecklenburg-Vorpommern",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/10/kurs-auf-rot-rot-gruen-in-mecklenburg-vorpommern-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/10/kurs-auf-rot-rot-gruen-in-mecklenburg-vorpommern",
+      "published": "Fri, 09 Oct 2026 22:01:04 -0000",
+      "published_display": "09.10.2026 · 22:01 Uhr"
+    },
     {
       "title": "Weißes Haus: Trump: Katie Zacharia wird neue Sprecherin des Weißen Hauses",
       "summary": "",
@@ -25,14 +49,6 @@
       "link": "https://www.zeit.de/sport/2026-10/bundesliga-borussia-dortmund-werder-bremen-2-2-niclas-fuellkrug",
       "published": "Fri, 09 Oct 2026 21:41:36 -0000",
       "published_display": "09.10.2026 · 21:41 Uhr"
-    },
-    {
-      "title": "Krieg gegen die Ukraine: Selenskyj wirft Trump wegen Diesel-Deal mit Putin Schwäche vor",
-      "summary": "Die geplanten russischen Diesel-Lieferungen an die USA sieht der ukrainische Präsident als Geschenk an Putin. Die Ukraine meldet Schäden am Stromnetz. Das Liveblog",
-      "image": "https://img.zeit.de/politik/ausland/2026-10/c431e3ec-f003-4f22-81a3-0a08b02f54c0.tmp/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "published": "Fri, 09 Oct 2026 21:35:43 -0000",
-      "published_display": "09.10.2026 · 21:35 Uhr"
     },
     {
       "title": "Falscher Alarm: Dresdner Eishockey-Halle kurz vor Spielstart evakuiert",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/09/frueherer-zdf-chefredakteur-klaus-bresser-gestorben",
       "published": "Fri, 09 Oct 2026 20:28:59 -0000",
       "published_display": "09.10.2026 · 20:28 Uhr"
-    },
-    {
-      "title": "Basketball-Bundesliga: Jenas Basketballer gehen in Bonn unter",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/jenas-basketballer-gehen-in-bonn-unter-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/jenas-basketballer-gehen-in-bonn-unter",
-      "published": "Fri, 09 Oct 2026 20:05:18 -0000",
-      "published_display": "09.10.2026 · 20:05 Uhr"
-    },
-    {
-      "title": "Deutsche Eishockey Liga: 5:0 gegen Wolfsburg: Eisbären Berlin neuer DEL-Spitzenreiter",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/5-0-gegen-wolfsburg-eisbaeren-berlin-neuer-del-spitzenreiter-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/5-0-gegen-wolfsburg-eisbaeren-berlin-neuer-del-spitzenreiter",
-      "published": "Fri, 09 Oct 2026 20:04:40 -0000",
-      "published_display": "09.10.2026 · 20:04 Uhr"
     }
   ]
 }
