@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-09T17:01:17.018950+00:00",
+  "updated": "2026-10-09T17:17:44.310688+00:00",
   "items": [
+    {
+      "title": "Internationales Recht: US-Sanktionen gegen Weltstrafgericht: Was bedeutet das?",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/usa-verhaengen-sanktionen-gegen-weltstrafgericht-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/09/usa-verhaengen-sanktionen-gegen-weltstrafgericht",
+      "published": "Fri, 09 Oct 2026 17:15:18 -0000",
+      "published_display": "09.10.2026 · 17:15 Uhr"
+    },
+    {
+      "title": "Buchmesse: Das sind die besten Kinder- und Jugendbücher des Jahres",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/das-sind-die-besten-kinder-und-jugendbuecher-des-jahres-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/09/das-sind-die-besten-kinder-und-jugendbuecher-des-jahres",
+      "published": "Fri, 09 Oct 2026 17:15:04 -0000",
+      "published_display": "09.10.2026 · 17:15 Uhr"
+    },
+    {
+      "title": "Hochschulen: Rund 1,5 Millionen Euro für Mainzer Forschungsprojekte",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/rund-1-5-millionen-euro-fuer-mainzer-forschungsprojekte-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/09/rund-1-5-millionen-euro-fuer-mainzer-forschungsprojekte",
+      "published": "Fri, 09 Oct 2026 17:03:07 -0000",
+      "published_display": "09.10.2026 · 17:03 Uhr"
+    },
     {
       "title": "USA: Einwanderungsbehörde ICE rechtfertigt Schüsse auf Mann in New York",
       "summary": "Erneut haben ICE-Beamte Schüsse auf einen Menschen abgegeben. Die Schützen hätten aus Angst um ihr Leben gehandelt, argumentiert die Einwanderungsbehörde.",
@@ -41,14 +65,6 @@
       "link": "https://www.zeit.de/politik/deutschland/2026-10/demonstration-energiepolitik-berlin-buendnis-erneuerbare-energien",
       "published": "Fri, 09 Oct 2026 16:42:32 -0000",
       "published_display": "09.10.2026 · 16:42 Uhr"
-    },
-    {
-      "title": "Internationales Recht: USA verhängen Sanktionen gegen Weltstrafgericht",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/usa-verhaengen-sanktionen-gegen-weltstrafgericht-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/usa-verhaengen-sanktionen-gegen-weltstrafgericht",
-      "published": "Fri, 09 Oct 2026 16:31:16 -0000",
-      "published_display": "09.10.2026 · 16:31 Uhr"
     },
     {
       "title": "Handelsbeziehungen: EU ringt China Kompromiss zu Hybridauto-Exporten ab",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/politik/deutschland/2026-10/august-hanning-bnd-skandal-pkgr-nebentaetigkeit-geheimdienst",
       "published": "Fri, 09 Oct 2026 16:15:30 -0000",
       "published_display": "09.10.2026 · 16:15 Uhr"
-    },
-    {
-      "title": "August Hanning: »Bestechung ist in Europa wahnsinnig einfach«",
-      "summary": "Gerald Knaus deckte einst Aserbaidschans Korruptionsnetzwerk auf, nun führen auch im Fall August Hanning Spuren in das Land. Knaus erkennt dahinter ein größeres Problem.",
-      "image": "https://img.zeit.de/feuilleton/2026-10/august-hanning-geheimdienst-gerald-knaus-aserbaidschan-europa-korruption-bild-3/original__640x360",
-      "link": "https://www.zeit.de/feuilleton/2026-10/august-hanning-geheimdienst-gerald-knaus-aserbaidschan-europa-korruption",
-      "published": "Fri, 09 Oct 2026 16:14:02 -0000",
-      "published_display": "09.10.2026 · 16:14 Uhr"
-    },
-    {
-      "title": "Bahnverkehr: Übler Geruch: Bahnhof in Bad Nauheim gesperrt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/uebler-geruch-bahnhof-in-bad-nauheim-gesperrt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/uebler-geruch-bahnhof-in-bad-nauheim-gesperrt",
-      "published": "Fri, 09 Oct 2026 16:12:49 -0000",
-      "published_display": "09.10.2026 · 16:12 Uhr"
     }
   ]
 }
