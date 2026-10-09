@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-09T01:38:45.674959+00:00",
+  "updated": "2026-10-09T02:00:21.824176+00:00",
   "items": [
+    {
+      "title": "Todesstrafe: Militärhinrichtung in USA soll per Livestream gezeigt werden",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/us-kreise-livestream-soll-militaerhinrichtung-zeigen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/09/us-kreise-livestream-soll-militaerhinrichtung-zeigen",
+      "published": "Fri, 09 Oct 2026 01:53:13 -0000",
+      "published_display": "09.10.2026 · 01:53 Uhr"
+    },
+    {
+      "title": "US-Einwanderungsbehörde: ICE-Beamter schießt in New York auf Mann und verletzt ihn",
+      "summary": "Bei einem Einsatz der US-Einwanderungsbehörde ICE in New York ist ein Mann durch Schüsse verletzt worden. Bürgermeister Mamdani nannte den Vorfall äußerst ernst.",
+      "image": "https://img.zeit.de/politik/ausland/2026-10/ice-schuesse-new-york-zohran-mamdani-migration-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/ice-schuesse-new-york-zohran-mamdani-migration",
+      "published": "Fri, 09 Oct 2026 01:45:24 -0000",
+      "published_display": "09.10.2026 · 01:45 Uhr"
+    },
     {
       "title": "Oberpfalz: Festnahme nach tödlichen Schüssen bei Waffenkontrolle in Oberpfalz",
       "summary": "Ein Mann soll im oberpfälzischen Berngau zwei Behördenmitarbeiter erschossen haben. Er verschanzte sich stundenlang in seinem Haus und wurde verletzt festgenommen.",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/09/festnahme-nach-toedlichen-schuessen-bei-waffenkontrolle",
       "published": "Fri, 09 Oct 2026 01:03:51 -0000",
       "published_display": "09.10.2026 · 01:03 Uhr"
-    },
-    {
-      "title": "Geburtstagsfeier: «Schande» : Massive Kritik am Putin-Besuch von Schröder",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/schande-massive-kritik-am-putin-besuch-von-schroeder-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/schande-massive-kritik-am-putin-besuch-von-schroeder",
-      "published": "Fri, 09 Oct 2026 00:53:45 -0000",
-      "published_display": "09.10.2026 · 00:53 Uhr"
-    },
-    {
-      "title": "Wirbelstürme: Hurrikan «Isaias» verstärkt sich: Evakuierungen an US-Küste",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/hurrikan-isaias-verstaerkt-sich-evakuierungen-an-us-kueste-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/hurrikan-isaias-verstaerkt-sich-evakuierungen-an-us-kueste",
-      "published": "Fri, 09 Oct 2026 00:25:51 -0000",
-      "published_display": "09.10.2026 · 00:25 Uhr"
     }
   ]
 }
