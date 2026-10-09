@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-09T22:49:44.113917+00:00",
+  "updated": "2026-10-09T23:00:10.960548+00:00",
   "items": [
+    {
+      "title": "Warnblinker war an: Motorradfahrer wird auf Standstreifen von Lastwagen erfasst",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/10/motorradfahrer-wird-auf-standstreifen-von-lastwagen-erfasst-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/10/motorradfahrer-wird-auf-standstreifen-von-lastwagen-erfasst",
+      "published": "Fri, 09 Oct 2026 22:55:04 -0000",
+      "published_display": "09.10.2026 · 22:55 Uhr"
+    },
     {
       "title": "Mecklenburg-Vorpommern: SPD und Linke stimmen Koalitionsverhandlungen zu",
       "summary": "Die erste rot-rot-grüne Landesregierung in Mecklenburg-Vorpommern rückt näher. Die Grünen wollen am Samstag über den Start von Koalitionsverhandlungen entscheiden.",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/09/ausgleich-in-nachspielzeit-fuellkrug-schockt-dortmund",
       "published": "Fri, 09 Oct 2026 20:49:42 -0000",
       "published_display": "09.10.2026 · 20:49 Uhr"
-    },
-    {
-      "title": "Härtetest in Karlsruhe: Kösslers Doppelpack: DFB-Frauen feiern 4:2 gegen Australien",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/koesslers-doppelpack-dfb-frauen-feiern-4-2-gegen-australien-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/koesslers-doppelpack-dfb-frauen-feiern-4-2-gegen-australien",
-      "published": "Fri, 09 Oct 2026 20:36:25 -0000",
-      "published_display": "09.10.2026 · 20:36 Uhr"
     }
   ]
 }
