@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-09T23:32:05.303661+00:00",
+  "updated": "2026-10-09T23:46:15.830687+00:00",
   "items": [
+    {
+      "title": "Leine an Wurzel verfangen: Feuerwehr rettet Hund aus zwei Meter tiefem Fuchsbau",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/10/feuerwehr-rettet-hund-aus-zwei-meter-tiefem-fuchsbau-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/10/feuerwehr-rettet-hund-aus-zwei-meter-tiefem-fuchsbau",
+      "published": "Fri, 09 Oct 2026 23:33:29 -0000",
+      "published_display": "09.10.2026 · 23:33 Uhr"
+    },
     {
       "title": "Warnblinker war an: Motorradfahrer wird auf Standstreifen von Lastwagen erfasst",
       "summary": "",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/09/auto-prallt-gegen-baum-drei-schwerverletzte",
       "published": "Fri, 09 Oct 2026 21:00:26 -0000",
       "published_display": "09.10.2026 · 21:00 Uhr"
-    },
-    {
-      "title": "Fußball-Bundesliga: Ausgleich in Nachspielzeit: Füllkrug schockt Dortmund",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/ausgleich-in-nachspielzeit-fuellkrug-schockt-dortmund-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/ausgleich-in-nachspielzeit-fuellkrug-schockt-dortmund",
-      "published": "Fri, 09 Oct 2026 20:49:42 -0000",
-      "published_display": "09.10.2026 · 20:49 Uhr"
     }
   ]
 }
