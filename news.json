@@ -1,7 +1,39 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-09T19:00:42.219894+00:00",
+  "updated": "2026-10-09T19:17:59.934845+00:00",
   "items": [
+    {
+      "title": "Geschichte: Leipzig erinnert an den Beginn der friedlichen Revolution",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/leipzig-erinnert-an-den-beginn-der-friedlichen-revolution-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/09/leipzig-erinnert-an-den-beginn-der-friedlichen-revolution",
+      "published": "Fri, 09 Oct 2026 19:15:55 -0000",
+      "published_display": "09.10.2026 · 19:15 Uhr"
+    },
+    {
+      "title": "Rohstoff: Trump kündigt große Diesellieferungen aus Russland an",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/trump-kuendigt-grosse-diesellieferungen-aus-russland-an-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/09/trump-kuendigt-grosse-diesellieferungen-aus-russland-an",
+      "published": "Fri, 09 Oct 2026 19:15:50 -0000",
+      "published_display": "09.10.2026 · 19:15 Uhr"
+    },
+    {
+      "title": "Hunde auf der Straße: Ehepaar fängt ausgebüxte Jagdhunde auf Bundesstraße ein",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/tierische-abwechslung-im-polizeialltag-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/09/tierische-abwechslung-im-polizeialltag",
+      "published": "Fri, 09 Oct 2026 19:15:47 -0000",
+      "published_display": "09.10.2026 · 19:15 Uhr"
+    },
+    {
+      "title": "Buchmesse: Das sind die besten Kinder- und Jugendbücher des Jahres",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/das-sind-die-besten-kinder-und-jugendbuecher-des-jahres-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/09/das-sind-die-besten-kinder-und-jugendbuecher-des-jahres",
+      "published": "Fri, 09 Oct 2026 19:10:27 -0000",
+      "published_display": "09.10.2026 · 19:10 Uhr"
+    },
     {
       "title": "Todesfall bei Autoralley: L'Osteria-Mitgründer Rader stirbt bei Autounfall auf Mallorca",
       "summary": "Der Mitgründer der Restaurantkette L'Osteria, Klaus Rader, ist bei einem Autounfall in Mallorca gestorben. Der Unternehmer befuhr die Rennstrecke als Testfahrer.",
@@ -89,38 +121,6 @@
       "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-10/anschlag-halle-2019-gedenken-afd-hans-thomas-tillschneider",
       "published": "Fri, 09 Oct 2026 18:24:46 -0000",
       "published_display": "09.10.2026 · 18:24 Uhr"
-    },
-    {
-      "title": "Schülerproteste in Frankreich: Hier brennen nicht nur Mülltonnen. Hier brennt ein System",
-      "summary": "Ein Brownie-Rezept genügt für eine Unibewerbung, auf Schultoiletten fehlt das Klopapier: Frankreichs Jugend protestiert gegen eine Regierung, der sie nicht mehr vertraut.",
-      "image": "https://img.zeit.de/politik/2026-10/schuelerproteste-frankreich-jugendliche-bildungspolitik-vernachlaessigung-bild/original__640x360",
-      "link": "https://www.zeit.de/feuilleton/2026-10/schuelerproteste-frankreich-jugendliche-bildungspolitik-vernachlaessigung",
-      "published": "Fri, 09 Oct 2026 18:24:34 -0000",
-      "published_display": "09.10.2026 · 18:24 Uhr"
-    },
-    {
-      "title": "Unfälle: Frontalzusammenstoß - zwei Kinder und zwei Frauen verletzt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/frontalzusammenstoss-zwei-kinder-und-zwei-frauen-verletzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/frontalzusammenstoss-zwei-kinder-und-zwei-frauen-verletzt",
-      "published": "Fri, 09 Oct 2026 18:23:03 -0000",
-      "published_display": "09.10.2026 · 18:23 Uhr"
-    },
-    {
-      "title": "Bahnverkehr: Übler Geruch: Bahnhof in Bad Nauheim wieder frei",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/uebler-geruch-bahnhof-in-bad-nauheim-gesperrt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/uebler-geruch-bahnhof-in-bad-nauheim-gesperrt",
-      "published": "Fri, 09 Oct 2026 18:12:23 -0000",
-      "published_display": "09.10.2026 · 18:12 Uhr"
-    },
-    {
-      "title": "Simon & Garfunkel: Art Garfunkel sagt einziges Deutschlandkonzert ab",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/art-garfunkel-sagt-einziges-deutschlandkonzert-ab-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/art-garfunkel-sagt-einziges-deutschlandkonzert-ab",
-      "published": "Fri, 09 Oct 2026 18:09:58 -0000",
-      "published_display": "09.10.2026 · 18:09 Uhr"
     }
   ]
 }
