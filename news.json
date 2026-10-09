@@ -1,7 +1,39 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-09T04:00:43.204283+00:00",
+  "updated": "2026-10-09T04:21:06.656223+00:00",
   "items": [
+    {
+      "title": "Feuer in Stendal: Nächtlicher Brand in Diskothek",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/naechtlicher-brand-in-diskothek-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/09/naechtlicher-brand-in-diskothek",
+      "published": "Fri, 09 Oct 2026 04:17:49 -0000",
+      "published_display": "09.10.2026 · 04:17 Uhr"
+    },
+    {
+      "title": "Elbvertiefung: Der tägliche Newsletter aus Hamburg: Von tröstenden Currywürsten und urbaner Räudigkeit",
+      "summary": "Die Elbvertiefung am Freitag – Mit Protesten gegen die geplanten Kürzungen an Hamburgs Schulen, Peter Tschentscher in China und dem Schauspieler Merlin Sandmeyer",
+      "image": "https://img.zeit.de/hamburg/2026-10/currywurst/original__640x360",
+      "link": "https://www.zeit.de/hamburg/2026-10/elbvertiefung-09-10-2026",
+      "published": "Fri, 09 Oct 2026 04:00:09 -0000",
+      "published_display": "09.10.2026 · 04:00 Uhr"
+    },
+    {
+      "title": "Konflikt mit Russland: Steuern wir auf einen bewaffneten Konflikt mit Russland zu?",
+      "summary": "Erhöhtes Anschlagsrisiko und dramatische Warnungen: Deutschland rückt immer mehr ins Zentrum der strategischen Überlegungen von Wladimir Putin.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-10/deutschland-russland-bewaffneter-konflikt-kriegsgefahr-politikteil-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/2026-10/konflikt-russland-deutschland-wladimir-putin-politikpodcast",
+      "published": "Fri, 09 Oct 2026 04:00:07 -0000",
+      "published_display": "09.10.2026 · 04:00 Uhr"
+    },
+    {
+      "title": "Tierschutz: Qualzucht bei Hunden: Wenn Schönheit krank macht",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/qualzucht-bei-hunden-wenn-schoenheit-krank-macht-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/09/qualzucht-bei-hunden-wenn-schoenheit-krank-macht",
+      "published": "Fri, 09 Oct 2026 04:00:06 -0000",
+      "published_display": "09.10.2026 · 04:00 Uhr"
+    },
     {
       "title": "Wladimir Putin: Hängt Putins Zukunft von der Ukraine ab?",
       "summary": "Der russische Präsident muss im Ukrainekrieg siegen, um seine Macht zu sichern, heißt es vom BND. Umfragen aus Russland lassen an der Einschätzung Zweifel aufkommen.",
@@ -9,6 +41,14 @@
       "link": "https://www.zeit.de/politik/ausland/2026-10/wladimir-putin-macht-krieg-martin-jaeger-bnd-5vor8",
       "published": "Fri, 09 Oct 2026 03:59:54 -0000",
       "published_display": "09.10.2026 · 03:59 Uhr"
+    },
+    {
+      "title": "Fotografie: Bilder des Tages",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/bilder-des-tages-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/09/bilder-des-tages",
+      "published": "Fri, 09 Oct 2026 03:58:44 -0000",
+      "published_display": "09.10.2026 · 03:58 Uhr"
     },
     {
       "title": "August Hanning: Wie kontrolliert man einen Geheimdienst?",
@@ -81,46 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/09/strandkorb-versteigerungen-an-der-nordsee-so-geht-s",
       "published": "Fri, 09 Oct 2026 03:30:06 -0000",
       "published_display": "09.10.2026 · 03:30 Uhr"
-    },
-    {
-      "title": "Wetter: Sonne und Regen teilen sich das Wochenende",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/sonne-und-regen-teilen-sich-das-wochenende-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/sonne-und-regen-teilen-sich-das-wochenende",
-      "published": "Fri, 09 Oct 2026 03:30:05 -0000",
-      "published_display": "09.10.2026 · 03:30 Uhr"
-    },
-    {
-      "title": "Justiz: Spektakuläre Prozesse: Einblicke in Moabits Gerichtsalltag",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/spektakulaere-prozesse-einblicke-in-moabits-gerichtsalltag-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/spektakulaere-prozesse-einblicke-in-moabits-gerichtsalltag",
-      "published": "Fri, 09 Oct 2026 03:15:04 -0000",
-      "published_display": "09.10.2026 · 03:15 Uhr"
-    },
-    {
-      "title": "Automarkt: Das könnten Zölle auf chinesische Hybridautos bewirken",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/das-koennten-zoelle-auf-chinesische-hybridautos-bewirken-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/das-koennten-zoelle-auf-chinesische-hybridautos-bewirken",
-      "published": "Fri, 09 Oct 2026 03:00:11 -0000",
-      "published_display": "09.10.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Neue Sperrungen: Bahn sperrt Strecke im Ruhrgebiet für drei Wochen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/bahn-sperrt-strecke-im-ruhrgebiet-fuer-drei-wochen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/bahn-sperrt-strecke-im-ruhrgebiet-fuer-drei-wochen",
-      "published": "Fri, 09 Oct 2026 03:00:10 -0000",
-      "published_display": "09.10.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Tag der offenen Tür: 150 Jahre Technik zum Anfassen im Telefonmuseum Jena",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/150-jahre-technik-zum-anfassen-im-telefonmuseum-jena-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/150-jahre-technik-zum-anfassen-im-telefonmuseum-jena",
-      "published": "Fri, 09 Oct 2026 03:00:09 -0000",
-      "published_display": "09.10.2026 · 03:00 Uhr"
     }
   ]
 }
