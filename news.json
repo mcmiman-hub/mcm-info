@@ -1,7 +1,79 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-09T13:50:39.951039+00:00",
+  "updated": "2026-10-09T14:03:54.080579+00:00",
   "items": [
+    {
+      "title": "Formel 1: Chaos in Singapur: Verstappen rast zur Sprint-Pole",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/russell-in-singapur-an-der-spitze-defekt-bei-huelkenberg-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/09/russell-in-singapur-an-der-spitze-defekt-bei-huelkenberg",
+      "published": "Fri, 09 Oct 2026 14:00:17 -0000",
+      "published_display": "09.10.2026 · 14:00 Uhr"
+    },
+    {
+      "title": "Verwaltungsvorschrift geändert: Polizei nennt Nationalität von Verdächtigen nun regelmäßig",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/polizei-nennt-nationalitaet-von-verdaechtigen-nun-regelmaessig-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/09/polizei-nennt-nationalitaet-von-verdaechtigen-nun-regelmaessig",
+      "published": "Fri, 09 Oct 2026 14:00:12 -0000",
+      "published_display": "09.10.2026 · 14:00 Uhr"
+    },
+    {
+      "title": "Überhöhte Geschwindigkeit: Fahrer flüchtet vor Polizeikontrolle: Zwei Kinder im Auto",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/fahrer-fluechtet-vor-polizeikontrolle-zwei-kinder-im-auto-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/09/fahrer-fluechtet-vor-polizeikontrolle-zwei-kinder-im-auto",
+      "published": "Fri, 09 Oct 2026 13:59:38 -0000",
+      "published_display": "09.10.2026 · 13:59 Uhr"
+    },
+    {
+      "title": "Schwerer Unfall: Autofahrer bei Kollision mit Lkw auf der B 191 getötet",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/kollision-mit-mehreren-lebensbedrohlich-verletzten-auf-b-191-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/09/kollision-mit-mehreren-lebensbedrohlich-verletzten-auf-b-191",
+      "published": "Fri, 09 Oct 2026 13:58:45 -0000",
+      "published_display": "09.10.2026 · 13:58 Uhr"
+    },
+    {
+      "title": "Vorwurf Kindesentziehung: Vater setzt sich mit Sohn ab - Staatsanwaltschaft ermittelt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/vater-setzt-sich-mit-sohn-ab-staatsanwaltschaft-ermittelt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/09/vater-setzt-sich-mit-sohn-ab-staatsanwaltschaft-ermittelt",
+      "published": "Fri, 09 Oct 2026 13:56:41 -0000",
+      "published_display": "09.10.2026 · 13:56 Uhr"
+    },
+    {
+      "title": "Internet aus dem All: Musks SpaceX kauft US-Frequenzen für Mobilfunk-Angebot",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/musks-spacex-kauft-us-frequenzen-fuer-mobilfunk-angebot-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/09/musks-spacex-kauft-us-frequenzen-fuer-mobilfunk-angebot",
+      "published": "Fri, 09 Oct 2026 13:55:00 -0000",
+      "published_display": "09.10.2026 · 13:55 Uhr"
+    },
+    {
+      "title": "EU: EU: China akzeptiert Drosselung von Hybridauto-Exporten",
+      "summary": "",
+      "image": "",
+      "link": "https://www.zeit.de/news/2026-10/09/eu-china-akzeptiert-drosselung-von-hybridauto-exporten",
+      "published": "Fri, 09 Oct 2026 13:50:06 -0000",
+      "published_display": "09.10.2026 · 13:50 Uhr"
+    },
+    {
+      "title": "EU: EU: China akzeptiert Drosselung von Hybridauto-Exporten",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/das-koennten-zoelle-auf-chinesische-hybridautos-bewirken-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/09/das-koennten-zoelle-auf-chinesische-hybridautos-bewirken",
+      "published": "Fri, 09 Oct 2026 13:49:59 -0000",
+      "published_display": "09.10.2026 · 13:49 Uhr"
+    },
+    {
+      "title": "Vollsperrung: Unfall legt A7 in Richtung Süden lahm - mehrere Verletzte",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/unfall-legt-a7-in-richtung-sueden-lahm-mehrere-verletzte-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/09/unfall-legt-a7-in-richtung-sueden-lahm-mehrere-verletzte",
+      "published": "Fri, 09 Oct 2026 13:49:51 -0000",
+      "published_display": "09.10.2026 · 13:49 Uhr"
+    },
     {
       "title": "Hochschule: Bericht: Voigt kann kein Professor mehr sein",
       "summary": "",
@@ -16,14 +88,6 @@
       "image": "https://img.zeit.de/news/2026-10/09/uni-rektorin-an-erstsemester-seien-sie-neugierig-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-10/09/uni-rektorin-an-erstsemester-seien-sie-neugierig",
       "published": "Fri, 09 Oct 2026 13:47:59 -0000",
-      "published_display": "09.10.2026 · 13:47 Uhr"
-    },
-    {
-      "title": "Formel 1: Chaos in Singapur: Verstappen rast zur Sprint-Pole",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/russell-in-singapur-an-der-spitze-defekt-bei-huelkenberg-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/russell-in-singapur-an-der-spitze-defekt-bei-huelkenberg",
-      "published": "Fri, 09 Oct 2026 13:47:37 -0000",
       "published_display": "09.10.2026 · 13:47 Uhr"
     },
     {
@@ -57,70 +121,6 @@
       "link": "https://www.zeit.de/video/2026-10/cornelia-funke-frankfurter-buchmesse-emma-glaubt-nicht-an-feen-kinderbuch",
       "published": "Fri, 09 Oct 2026 13:41:21 -0000",
       "published_display": "09.10.2026 · 13:41 Uhr"
-    },
-    {
-      "title": "Regierungsbildung in MV: Spitzen von SPD, Grünen, Linken für Koalitionsverhandlungen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/spitzen-von-spd-gruenen-linken-fuer-koalitionsverhandlungen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/spitzen-von-spd-gruenen-linken-fuer-koalitionsverhandlungen",
-      "published": "Fri, 09 Oct 2026 13:40:38 -0000",
-      "published_display": "09.10.2026 · 13:40 Uhr"
-    },
-    {
-      "title": "Nach der Wahl in Berlin: Linke-Politiker kritisieren Einigung zum Antisemitismus",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/rot-gruen-rote-sondierungen-gehen-in-berlin-weiter-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/rot-gruen-rote-sondierungen-gehen-in-berlin-weiter",
-      "published": "Fri, 09 Oct 2026 13:40:00 -0000",
-      "published_display": "09.10.2026 · 13:40 Uhr"
-    },
-    {
-      "title": "Autobahn 4: Autofahrer auf Standstreifen überfallen – Bargeld gestohlen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/autofahrer-auf-standstreifen-ueberfallen-bargeld-gestohlen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/autofahrer-auf-standstreifen-ueberfallen-bargeld-gestohlen",
-      "published": "Fri, 09 Oct 2026 13:38:25 -0000",
-      "published_display": "09.10.2026 · 13:38 Uhr"
-    },
-    {
-      "title": "Lebensmittel: Schimmel an weißen Bohnen: Rückruf in zwölf Bundesländern",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/schimmel-an-weissen-bohnen-rueckruf-in-zwoelf-bundeslaendern-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/schimmel-an-weissen-bohnen-rueckruf-in-zwoelf-bundeslaendern",
-      "published": "Fri, 09 Oct 2026 13:37:40 -0000",
-      "published_display": "09.10.2026 · 13:37 Uhr"
-    },
-    {
-      "title": "Die Linke: Linke sehen »keinen Bedarf für weitere Konsequenzen« im Fall Koçak",
-      "summary": "Ferat Koçak bleibt laut Fraktionsführung der Linken Mitglied des Bundestags. Der Abgeordnete steht wegen mutmaßlicher Kontakte ins Berliner Clanmilieu in der Kritik.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-10/ferat-kocak-linke-bundestag-fraktion-berlin-spd-steffen-krach-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-10/ferat-kocak-linke-bundestag-fraktion-berlin-spd-steffen-krach-gxe",
-      "published": "Fri, 09 Oct 2026 13:37:10 -0000",
-      "published_display": "09.10.2026 · 13:37 Uhr"
-    },
-    {
-      "title": "Erinnerung an Attentat: Halle erinnert an rechtsextremen Anschlag mit zwei Toten",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/menschenkette-stoppt-afd-rechtsaussen-tillschneider-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/menschenkette-stoppt-afd-rechtsaussen-tillschneider",
-      "published": "Fri, 09 Oct 2026 13:35:53 -0000",
-      "published_display": "09.10.2026 · 13:35 Uhr"
-    },
-    {
-      "title": "Kabelbrand bei Lausanne: Feuer an Schweizer Zugstrecke - Polizei sucht Brandstifter",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/feuer-an-schweizer-zugstrecke-polizei-sucht-brandstifter-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/feuer-an-schweizer-zugstrecke-polizei-sucht-brandstifter",
-      "published": "Fri, 09 Oct 2026 13:35:26 -0000",
-      "published_display": "09.10.2026 · 13:35 Uhr"
-    },
-    {
-      "title": "Hinrichtung in den USA: Ein weiterer Akt der Selbstbarbarisierung Amerikas",
-      "summary": "US-Verteidigungsminister Pete Hegseth will eine Hinrichtung live streamen. Dabei geht es nicht um Abschreckung, die Grausamkeit ist Sinn der Sache.",
-      "image": "https://img.zeit.de/politik/ausland/2026-10/donald-trump-usa-hinrichtungen-toxische-maennlichkeit-kommentar-bild2/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/hinrichtung-usa-livestream-toxische-maennlichkeit-aussenpolitik",
-      "published": "Fri, 09 Oct 2026 13:35:17 -0000",
-      "published_display": "09.10.2026 · 13:35 Uhr"
     }
   ]
 }
