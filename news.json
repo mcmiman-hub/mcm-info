@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-09T05:20:11.787908+00:00",
+  "updated": "2026-10-09T05:37:03.974750+00:00",
   "items": [
+    {
+      "title": "Wetter: Wolken, Regen und Gewitter im Nordwesten",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/wolken-regen-und-gewitter-im-nordwesten-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/09/wolken-regen-und-gewitter-im-nordwesten",
+      "published": "Fri, 09 Oct 2026 05:21:02 -0000",
+      "published_display": "09.10.2026 · 05:21 Uhr"
+    },
     {
       "title": "Vorhersage: Wetter bleibt auch am Wochenende unbeständig",
       "summary": "",
@@ -28,7 +36,7 @@
     },
     {
       "title": "Russland: Johann Wadephul wirft Wladimir Putin brutale Zermürbungstaktik vor",
-      "summary": "Der deutsche Außenminister kritisiert Russlands »Raketenterror« gegen die Ukraine. Johann Wadephul fordert auch Aufklärung zum Pest-Tod einer Laborantin in Sibirien.",
+      "summary": "Der deutsche Außenminister kritisiert Russlands »Raketenterror« gegen die Ukraine. Wadephul fordert auch Aufklärung zum mutmaßlichen Pest-Tod einer russischen Laborantin.",
       "image": "https://img.zeit.de/politik/ausland/2026-10/johann-wadephul-russland-sergej-lawrow-ukraine-sanktionen-foto-1/original__640x360",
       "link": "https://www.zeit.de/politik/ausland/2026-10/johann-wadephul-russland-ukrainekrieg-pest-sanktionen",
       "published": "Fri, 09 Oct 2026 04:59:35 -0000",
@@ -93,7 +101,7 @@
     {
       "title": "Wladimir Putin: Hängt Putins Zukunft von der Ukraine ab?",
       "summary": "Der russische Präsident muss im Ukrainekrieg siegen, um seine Macht zu sichern, heißt es vom BND. Umfragen aus Russland lassen an der Einschätzung Zweifel aufkommen.",
-      "image": "https://img.zeit.de/politik/ausland/2026-10/wladimir-putin-macht-krieg-martin-jaeger-bnd-5vor8-bild/original__640x360",
+      "image": "https://img.zeit.de/politik/ausland/2026-10/wladimir-putin-macht-krieg-martin-jaeger-bnd-5vor8-bild-2/original__640x360",
       "link": "https://www.zeit.de/politik/ausland/2026-10/wladimir-putin-macht-krieg-martin-jaeger-bnd-5vor8",
       "published": "Fri, 09 Oct 2026 03:59:54 -0000",
       "published_display": "09.10.2026 · 03:59 Uhr"
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/politik/2026-10/august-hanning-bnd-spionage-nachrichtenpodcast",
       "published": "Fri, 09 Oct 2026 03:56:59 -0000",
       "published_display": "09.10.2026 · 03:56 Uhr"
-    },
-    {
-      "title": "Forschungssicherheit: China weist deutsche Spionagewarnungen zurück",
-      "summary": "Deutsche Sicherheitsbehörden und die Industrie warnen vor chinesischer Spionage in Forschungseinrichtungen. Chinas Botschaft hält die Vorwürfe für haltlos.",
-      "image": "https://img.zeit.de/politik/ausland/2026-10/china-spionage-forschungskooperationen-cispa-bdi-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/china-spionage-forschungskooperationen-cispa-bdi",
-      "published": "Fri, 09 Oct 2026 03:55:20 -0000",
-      "published_display": "09.10.2026 · 03:55 Uhr"
     }
   ]
 }
