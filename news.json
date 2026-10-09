@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-09T04:21:06.656223+00:00",
+  "updated": "2026-10-09T04:38:36.071668+00:00",
   "items": [
+    {
+      "title": "Brände: Wohnhausbrand in Vallendar – B42 bei Koblenz gesperrt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/wohnhausbrand-in-vallendar-b42-bei-koblenz-gesperrt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/09/wohnhausbrand-in-vallendar-b42-bei-koblenz-gesperrt",
+      "published": "Fri, 09 Oct 2026 04:29:25 -0000",
+      "published_display": "09.10.2026 · 04:29 Uhr"
+    },
+    {
+      "title": "Brände: Feuer in Berlin-Mitte - Mensch lebensbedrohlich verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/feuer-in-berlin-mitte-mensch-lebensbedrohlich-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/09/feuer-in-berlin-mitte-mensch-lebensbedrohlich-verletzt",
+      "published": "Fri, 09 Oct 2026 04:27:30 -0000",
+      "published_display": "09.10.2026 · 04:27 Uhr"
+    },
     {
       "title": "Feuer in Stendal: Nächtlicher Brand in Diskothek",
       "summary": "",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/politik/ausland/2026-10/nidal-hasan-hinrichtung-fort-hood-oeffentliche-erschliessung-usa",
       "published": "Fri, 09 Oct 2026 03:44:06 -0000",
       "published_display": "09.10.2026 · 03:44 Uhr"
-    },
-    {
-      "title": "Kriminalität: Wildwest in Hamburg? - Polizei: Kaum Gefahr für Unbeteiligte",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/wildwest-in-hamburg-polizei-kaum-gefahr-fuer-unbeteiligte-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/wildwest-in-hamburg-polizei-kaum-gefahr-fuer-unbeteiligte",
-      "published": "Fri, 09 Oct 2026 03:30:08 -0000",
-      "published_display": "09.10.2026 · 03:30 Uhr"
-    },
-    {
-      "title": "Besonderes Souvenir vom Meer: Strandkorb-Versteigerungen an der Nordsee – So geht’s",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/strandkorb-versteigerungen-an-der-nordsee-so-geht-s-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/strandkorb-versteigerungen-an-der-nordsee-so-geht-s",
-      "published": "Fri, 09 Oct 2026 03:30:06 -0000",
-      "published_display": "09.10.2026 · 03:30 Uhr"
     }
   ]
 }
