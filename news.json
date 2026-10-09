@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-09T04:38:36.071668+00:00",
+  "updated": "2026-10-09T05:00:03.625291+00:00",
   "items": [
+    {
+      "title": "Glück im Unglück: Krankenwagenbesatzung rettet Bewohner bei Brand",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/krankenwagenbesatzung-rettet-bewohner-bei-brand-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/09/krankenwagenbesatzung-rettet-bewohner-bei-brand",
+      "published": "Fri, 09 Oct 2026 04:50:44 -0000",
+      "published_display": "09.10.2026 · 04:50 Uhr"
+    },
     {
       "title": "Brände: Wohnhausbrand in Vallendar – B42 bei Koblenz gesperrt",
       "summary": "",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/09/wueck-warnt-olympia-quali-nicht-aus-den-augen-verlieren",
       "published": "Fri, 09 Oct 2026 03:50:04 -0000",
       "published_display": "09.10.2026 · 03:50 Uhr"
-    },
-    {
-      "title": "Fort-Hood-Attentäter: Hinrichtung von US-Amokläufer soll live übertragen werden",
-      "summary": "US-Verteidigungsminister Pete Hegseth will die Erschießung eines Attentäters live übertragen lassen. Der Mann hatte 2009 auf einem Militärstützpunkt 13 Menschen getötet.",
-      "image": "https://img.zeit.de/politik/ausland/2026-10/nidal-hasan-hinrichtung-fort-hood-oeffentliche-erschliessung-usa-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/nidal-hasan-hinrichtung-fort-hood-oeffentliche-erschliessung-usa",
-      "published": "Fri, 09 Oct 2026 03:44:06 -0000",
-      "published_display": "09.10.2026 · 03:44 Uhr"
     }
   ]
 }
