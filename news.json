@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-09T00:57:55.901485+00:00",
+  "updated": "2026-10-09T01:20:42.670747+00:00",
   "items": [
+    {
+      "title": "Kriminalität: Festnahme nach tödlichen Schüssen bei Waffenkontrolle",
+      "summary": "",
+      "image": "https://img.zeit.de/administratives/sharing/fallback-image-die-zeit/wide__1300x731",
+      "link": "https://www.zeit.de/news/2026-10/09/festnahme-nach-toedlichen-schuessen-bei-waffenkontrolle",
+      "published": "Fri, 09 Oct 2026 01:03:51 -0000",
+      "published_display": "09.10.2026 · 01:03 Uhr"
+    },
+    {
+      "title": "Kriminalität: Festnahme nach tödlichen Schüssen bei Waffenkontrolle",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/anwohner-sollen-nach-schussgeraeuschen-in-haeusern-bleiben-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/08/anwohner-sollen-nach-schussgeraeuschen-in-haeusern-bleiben",
+      "published": "Fri, 09 Oct 2026 01:03:36 -0000",
+      "published_display": "09.10.2026 · 01:03 Uhr"
+    },
     {
       "title": "Geburtstagsfeier: «Schande» : Massive Kritik am Putin-Besuch von Schröder",
       "summary": "",
@@ -67,14 +83,6 @@
       "published_display": "08.10.2026 · 22:42 Uhr"
     },
     {
-      "title": "Kriminalität: Zwei Behördenmitarbeiter bei Waffenkontrolle erschossen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/anwohner-sollen-nach-schussgeraeuschen-in-haeusern-bleiben-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/08/anwohner-sollen-nach-schussgeraeuschen-in-haeusern-bleiben",
-      "published": "Thu, 08 Oct 2026 22:36:56 -0000",
-      "published_display": "08.10.2026 · 22:36 Uhr"
-    },
-    {
       "title": "Klimaschutz: Neuschwanstein im Klimastreifen-Look",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-10/09/neuschwanstein-im-klimastreifen-look-image-group/original__640x360",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/gesellschaft/2026-10/oberpfalz-schuesse-waffenkontrolle-polizei-tote",
       "published": "Thu, 08 Oct 2026 22:10:20 -0000",
       "published_display": "08.10.2026 · 22:10 Uhr"
-    },
-    {
-      "title": "Niedersachsens CDU-Chef: Lechner fordert «überzeugenden Plan» von Kanzler Merz",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/lechner-fordert-ueberzeugenden-plan-von-kanzler-merz-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/lechner-fordert-ueberzeugenden-plan-von-kanzler-merz",
-      "published": "Thu, 08 Oct 2026 22:01:04 -0000",
-      "published_display": "08.10.2026 · 22:01 Uhr"
     }
   ]
 }
