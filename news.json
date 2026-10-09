@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-09T21:01:18.276264+00:00",
+  "updated": "2026-10-09T21:18:58.301018+00:00",
   "items": [
+    {
+      "title": "Notfälle: Auto prallt gegen Baum - drei Schwerverletzte",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/auto-prallt-gegen-baum-drei-schwerverletzte-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/09/auto-prallt-gegen-baum-drei-schwerverletzte",
+      "published": "Fri, 09 Oct 2026 21:00:26 -0000",
+      "published_display": "09.10.2026 · 21:00 Uhr"
+    },
     {
       "title": "Fußball-Bundesliga: Ausgleich in Nachspielzeit: Füllkrug schockt Dortmund",
       "summary": "",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/wirtschaft/2026-10/trump-kuendigt-diesellieferungen-aus-russland-an",
       "published": "Fri, 09 Oct 2026 19:23:59 -0000",
       "published_display": "09.10.2026 · 19:23 Uhr"
-    },
-    {
-      "title": "Geschichte: Leipzig erinnert an den Beginn der friedlichen Revolution",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/leipzig-erinnert-an-den-beginn-der-friedlichen-revolution-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/leipzig-erinnert-an-den-beginn-der-friedlichen-revolution",
-      "published": "Fri, 09 Oct 2026 19:15:55 -0000",
-      "published_display": "09.10.2026 · 19:15 Uhr"
     }
   ]
 }
