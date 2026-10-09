@@ -1,14 +1,94 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-09T08:39:39.721518+00:00",
+  "updated": "2026-10-09T09:00:59.700371+00:00",
   "items": [
+    {
+      "title": "Nordische Kombination: »In spätestens zwei Jahren gibt es unseren Sport nicht mehr«",
+      "summary": "Kann eine Sportart einfach verschwinden? Die Nordische Kombination steckt in der Krise. Eric Frenzel und Vinzenz Geiger über Existenzangst und ihre letzte Hoffnung",
+      "image": "https://img.zeit.de/sport/2026-10/nordische-kombination-collage/original__640x360",
+      "link": "https://www.zeit.de/sport/2026-10/nordische-kombination-eric-frenzel-vinzenz-geiger",
+      "published": "Fri, 09 Oct 2026 08:59:31 -0000",
+      "published_display": "09.10.2026 · 08:59 Uhr"
+    },
+    {
+      "title": "Schießunfall: Strafbefehl nach tödlichem Schuss bei GSG 9-Übung beantragt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/strafbefehl-nach-toedlichem-schuss-bei-gsg-9-uebung-beantragt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/09/strafbefehl-nach-toedlichem-schuss-bei-gsg-9-uebung-beantragt",
+      "published": "Fri, 09 Oct 2026 08:56:51 -0000",
+      "published_display": "09.10.2026 · 08:56 Uhr"
+    },
+    {
+      "title": "Onlinehandel: Umsätze asiatischer Shoppingplattformen brechen ein",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/umsaetze-asiatischer-shoppingplattformen-brechen-ein-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/09/umsaetze-asiatischer-shoppingplattformen-brechen-ein",
+      "published": "Fri, 09 Oct 2026 08:54:11 -0000",
+      "published_display": "09.10.2026 · 08:54 Uhr"
+    },
+    {
+      "title": "Friedensnobelpreis : Jetzt live: Wer bekommt den Friedensnobelpreis?",
+      "summary": "287 Kandidaten standen zur Wahl – jetzt verkündet das Nobelkomitee in Oslo, wem sie die wohl wichtigste Auszeichnung der Welt vergibt. Verfolgen Sie alles im Livestream.",
+      "image": "https://img.zeit.de/wissenschaft/geschichte/2026-10/nobelpreis-2026-eil-bild3/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/friedensnobelpreis-2026-verkuendung-oslo-live",
+      "published": "Fri, 09 Oct 2026 08:53:21 -0000",
+      "published_display": "09.10.2026 · 08:53 Uhr"
+    },
     {
       "title": "Debatte um AfD-Verbotsverfahren: Auschwitzüberlebende Eva Umlauf fordert Arbeitsgruppe zu AfD-Verbot",
       "summary": "Die Holocaustüberlebende Eva Umlauf dringt auf rasche Maßnahmen für ein AfD-Verbotsverfahren. Sie nimmt vor allem Nordrhein-Westfalens Ministerpräsidenten in die Pflicht.",
       "image": "https://img.zeit.de/politik/deutschland/2026-10/eva-umlauf-internationales-auschwitz-komitee-afd-verbot-hendrik-wuest-foto-1/original__640x360",
       "link": "https://www.zeit.de/politik/deutschland/2026-10/eva-umlauf-internationales-auschwitz-komitee-afd-verbot-hendrik-wuest",
-      "published": "Fri, 09 Oct 2026 08:34:44 -0000",
-      "published_display": "09.10.2026 · 08:34 Uhr"
+      "published": "Fri, 09 Oct 2026 08:52:47 -0000",
+      "published_display": "09.10.2026 · 08:52 Uhr"
+    },
+    {
+      "title": "Schüsse bei Waffenkontrolle: Schütze von Berngau bei Festnahme schwer verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/anwohner-sollen-nach-schussgeraeuschen-in-haeusern-bleiben-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/08/anwohner-sollen-nach-schussgeraeuschen-in-haeusern-bleiben",
+      "published": "Fri, 09 Oct 2026 08:50:33 -0000",
+      "published_display": "09.10.2026 · 08:50 Uhr"
+    },
+    {
+      "title": "Mann mit Pistole in Rathaus: Nach Schüssen in Tuttlingen: 27-Jähriger wird obduziert",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/polizei-erschiesst-mann-in-tuttlingen-viele-fragen-offen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/09/polizei-erschiesst-mann-in-tuttlingen-viele-fragen-offen",
+      "published": "Fri, 09 Oct 2026 08:47:55 -0000",
+      "published_display": "09.10.2026 · 08:47 Uhr"
+    },
+    {
+      "title": "Kriminalität: Verfassungsfeindliche Graffiti an Erfurter Schule entdeckt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/verfassungsfeindliche-graffiti-an-erfurter-schule-entdeckt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/09/verfassungsfeindliche-graffiti-an-erfurter-schule-entdeckt",
+      "published": "Fri, 09 Oct 2026 08:46:44 -0000",
+      "published_display": "09.10.2026 · 08:46 Uhr"
+    },
+    {
+      "title": "Frage nach Eigentümer: BGH prüft: Bekommt Maler Beltracchi seine Fälschung zurück?",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/bgh-prueft-bekommt-maler-beltracchi-seine-faelschung-zurueck-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/09/bgh-prueft-bekommt-maler-beltracchi-seine-faelschung-zurueck",
+      "published": "Fri, 09 Oct 2026 08:46:16 -0000",
+      "published_display": "09.10.2026 · 08:46 Uhr"
+    },
+    {
+      "title": "Stauprognose Herbstferien: ADAC erwartet Staus zum Ferienstart in fünf Bundesländern",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/adac-erwartet-staus-zum-ferienstart-in-fuenf-bundeslaendern-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/09/adac-erwartet-staus-zum-ferienstart-in-fuenf-bundeslaendern",
+      "published": "Fri, 09 Oct 2026 08:42:32 -0000",
+      "published_display": "09.10.2026 · 08:42 Uhr"
+    },
+    {
+      "title": "Englisch und Französisch vorn: Spanisch überholt Russisch an Sachsen-Anhalts Schulen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/spanisch-ueberholt-russisch-an-sachsen-anhalts-schulen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/09/spanisch-ueberholt-russisch-an-sachsen-anhalts-schulen",
+      "published": "Fri, 09 Oct 2026 08:41:00 -0000",
+      "published_display": "09.10.2026 · 08:41 Uhr"
     },
     {
       "title": "Regierungsbildung: Rot-grün-rote Sondierungen gehen in Berlin weiter",
@@ -41,86 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/09/raserei-durch-dresdner-fussgaengerzone-50-jaehriger-angeklagt",
       "published": "Fri, 09 Oct 2026 08:31:36 -0000",
       "published_display": "09.10.2026 · 08:31 Uhr"
-    },
-    {
-      "title": "Landkreis Oberhavel: SEK im Einsatz: Mann mit Waffen verschanzt sich nach Streit",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/polizeieinsatz-in-velten-unklare-gefahrenlage-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/08/polizeieinsatz-in-velten-unklare-gefahrenlage",
-      "published": "Fri, 09 Oct 2026 08:31:09 -0000",
-      "published_display": "09.10.2026 · 08:31 Uhr"
-    },
-    {
-      "title": "Unverblümte Botschaft: Allianz: Europas Autoindustrie spart an falscher Stelle",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/allianz-europas-autoindustrie-spart-an-falscher-stelle-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/allianz-europas-autoindustrie-spart-an-falscher-stelle",
-      "published": "Fri, 09 Oct 2026 08:29:16 -0000",
-      "published_display": "09.10.2026 · 08:29 Uhr"
-    },
-    {
-      "title": "Führerscheinreform: Bilger: Führerschein könnte 1.000 Euro günstiger werden",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/bilger-fuehrerschein-koennte-1-000-euro-guenstiger-werden-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/bilger-fuehrerschein-koennte-1-000-euro-guenstiger-werden",
-      "published": "Fri, 09 Oct 2026 08:26:15 -0000",
-      "published_display": "09.10.2026 · 08:26 Uhr"
-    },
-    {
-      "title": "Bafin-Bußgeld gegen Volkswagen: Volkswagen muss Strafe wegen Verstoß gegen Kapitalmarktregeln zahlen",
-      "summary": "Volkswagen hat seine unerwartet positive Prognose für das Geschäftsjahr nicht per Ad-hoc-Regeln mitgeteilt. Dem Unternehmen droht ein Bußgeld von 1,2 Millionen Euro.",
-      "image": "https://img.zeit.de/wirtschaft/2026-10/bafin-bussgeld-volkswagen-marktmissbrauchsverordnung-ad-hoc-mitteilung-foto-1/original__640x360",
-      "link": "https://www.zeit.de/wirtschaft/2026-10/bafin-bussgeld-volkswagen-marktmissbrauchsverordnung-ad-hoc-mitteilung",
-      "published": "Fri, 09 Oct 2026 08:26:13 -0000",
-      "published_display": "09.10.2026 · 08:26 Uhr"
-    },
-    {
-      "title": "Landtag von Sachsen-Anhalt: CDU-Vize Karin Prien fordert Parteiausschluss für AfD-Unterstützer",
-      "summary": "Karin Prien warnt nach den Vorgängen in Sachsen-Anhalt vor einer »Zerreißprobe für die CDU insgesamt«. Abweichler von der Parteilinie müssten die CDU verlassen.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-10/cdu-sachsen-anhalt-afd-karin-prien-parteiausschluss-tobias-rausch-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-10/cdu-sachsen-anhalt-afd-karin-prien-parteiausschluss-tobias-rausch",
-      "published": "Fri, 09 Oct 2026 08:26:10 -0000",
-      "published_display": "09.10.2026 · 08:26 Uhr"
-    },
-    {
-      "title": "Schüsse bei Waffenkontrolle: Schütze von Berngau besaß legal zehn Waffen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/anwohner-sollen-nach-schussgeraeuschen-in-haeusern-bleiben-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/08/anwohner-sollen-nach-schussgeraeuschen-in-haeusern-bleiben",
-      "published": "Fri, 09 Oct 2026 08:21:00 -0000",
-      "published_display": "09.10.2026 · 08:21 Uhr"
-    },
-    {
-      "title": "Landkreis Tuttlingen: Zu schnell unterwegs - Autofahrer stirbt bei Wurmlingen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/zu-schnell-unterwegs-autofahrer-stirbt-bei-wurmlingen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/zu-schnell-unterwegs-autofahrer-stirbt-bei-wurmlingen",
-      "published": "Fri, 09 Oct 2026 08:18:09 -0000",
-      "published_display": "09.10.2026 · 08:18 Uhr"
-    },
-    {
-      "title": "Geburtstagsfeier: «Schande»: Massive Kritik am Putin-Besuch von Schröder",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/schande-massive-kritik-am-putin-besuch-von-schroeder-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/schande-massive-kritik-am-putin-besuch-von-schroeder",
-      "published": "Fri, 09 Oct 2026 08:17:23 -0000",
-      "published_display": "09.10.2026 · 08:17 Uhr"
-    },
-    {
-      "title": "Todesschüsse in der Oberpfalz: Fall in Berngau: Was bei Waffenkontrollen geprüft wird",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/tote-bei-waffenkontrolle-was-wissen-wir-und-was-nicht-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/tote-bei-waffenkontrolle-was-wissen-wir-und-was-nicht",
-      "published": "Fri, 09 Oct 2026 08:16:58 -0000",
-      "published_display": "09.10.2026 · 08:16 Uhr"
-    },
-    {
-      "title": "Tennis: Zverev übersteht Schreckmoment: Nummer eins ganz nah",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/zverev-uebersteht-schreckmoment-nummer-eins-ganz-nah-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/zverev-uebersteht-schreckmoment-nummer-eins-ganz-nah",
-      "published": "Fri, 09 Oct 2026 08:14:46 -0000",
-      "published_display": "09.10.2026 · 08:14 Uhr"
     }
   ]
 }
