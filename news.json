@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-09T21:35:25.871503+00:00",
+  "updated": "2026-10-09T21:50:24.531710+00:00",
   "items": [
+    {
+      "title": "Bundesliga, 5. Spieltag – Freitag: Niclas Füllkrug nimmt BVB in der Nachspielzeit den Sieg",
+      "summary": "Bis zur 80. Minute ist im Spiel zwischen Werder Bremen und Borussia Dortmund kein Tor gefallen. Ausgerechnet Füllkrug sorgte am Ende für den Ausgleich. Der Spielbericht",
+      "image": "https://img.zeit.de/sport/2026-10/niclas-fuellkrug-beim-kopfball/original__640x360",
+      "link": "https://www.zeit.de/sport/2026-10/bundesliga-borussia-dortmund-werder-bremen-2-2-niclas-fuellkrug",
+      "published": "Fri, 09 Oct 2026 21:41:36 -0000",
+      "published_display": "09.10.2026 · 21:41 Uhr"
+    },
+    {
+      "title": "Krieg gegen die Ukraine: Selenskyj wirft Trump wegen Diesel-Deal mit Putin Schwäche vor",
+      "summary": "Die geplanten russischen Diesel-Lieferungen an die USA sieht der ukrainische Präsident als Geschenk an Putin. Die Ukraine meldet Schäden am Stromnetz. Das Liveblog",
+      "image": "https://img.zeit.de/politik/ausland/2026-10/c431e3ec-f003-4f22-81a3-0a08b02f54c0.tmp/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "published": "Fri, 09 Oct 2026 21:35:43 -0000",
+      "published_display": "09.10.2026 · 21:35 Uhr"
+    },
     {
       "title": "Falscher Alarm: Dresdner Eishockey-Halle kurz vor Spielstart evakuiert",
       "summary": "",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/09/eurojackpot-hesse-mit-hohem-gewinn-in-zweiter-gewinnklasse",
       "published": "Fri, 09 Oct 2026 19:50:52 -0000",
       "published_display": "09.10.2026 · 19:50 Uhr"
-    },
-    {
-      "title": "Lichtspektakel: Festival of Lights startet in Berlin",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/festival-of-lights-startet-in-berlin-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/festival-of-lights-startet-in-berlin",
-      "published": "Fri, 09 Oct 2026 19:48:20 -0000",
-      "published_display": "09.10.2026 · 19:48 Uhr"
-    },
-    {
-      "title": "Kunst: Harald Glööcklers «pompööse» Ausstellung",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/harald-gloeoecklers-pompoeoese-ausstellung-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/harald-gloeoecklers-pompoeoese-ausstellung",
-      "published": "Fri, 09 Oct 2026 19:44:44 -0000",
-      "published_display": "09.10.2026 · 19:44 Uhr"
     }
   ]
 }
