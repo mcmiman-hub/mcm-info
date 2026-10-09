@@ -1,7 +1,39 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-09T05:00:03.625291+00:00",
+  "updated": "2026-10-09T05:20:11.787908+00:00",
   "items": [
+    {
+      "title": "Vorhersage: Wetter bleibt auch am Wochenende unbeständig",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/wetter-bleibt-auch-am-wochenende-unbestaendig-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/09/wetter-bleibt-auch-am-wochenende-unbestaendig",
+      "published": "Fri, 09 Oct 2026 05:13:33 -0000",
+      "published_display": "09.10.2026 · 05:13 Uhr"
+    },
+    {
+      "title": "Wetter: Wann es am Wochenende trocken bleibt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/wann-es-am-wochenende-trocken-bleibt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/09/wann-es-am-wochenende-trocken-bleibt",
+      "published": "Fri, 09 Oct 2026 05:06:45 -0000",
+      "published_display": "09.10.2026 · 05:06 Uhr"
+    },
+    {
+      "title": "Vorhersage: Herbstliches Wetter in Rheinland-Pfalz und im Saarland",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/herbstliches-wetter-in-rheinland-pfalz-und-im-saarland-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/09/herbstliches-wetter-in-rheinland-pfalz-und-im-saarland",
+      "published": "Fri, 09 Oct 2026 05:02:53 -0000",
+      "published_display": "09.10.2026 · 05:02 Uhr"
+    },
+    {
+      "title": "Russland: Johann Wadephul wirft Wladimir Putin brutale Zermürbungstaktik vor",
+      "summary": "Der deutsche Außenminister kritisiert Russlands »Raketenterror« gegen die Ukraine. Johann Wadephul fordert auch Aufklärung zum Pest-Tod einer Laborantin in Sibirien.",
+      "image": "https://img.zeit.de/politik/ausland/2026-10/johann-wadephul-russland-sergej-lawrow-ukraine-sanktionen-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/johann-wadephul-russland-ukrainekrieg-pest-sanktionen",
+      "published": "Fri, 09 Oct 2026 04:59:35 -0000",
+      "published_display": "09.10.2026 · 04:59 Uhr"
+    },
     {
       "title": "Glück im Unglück: Krankenwagenbesatzung rettet Bewohner bei Brand",
       "summary": "",
@@ -89,38 +121,6 @@
       "link": "https://www.zeit.de/politik/ausland/2026-10/china-spionage-forschungskooperationen-cispa-bdi",
       "published": "Fri, 09 Oct 2026 03:55:20 -0000",
       "published_display": "09.10.2026 · 03:55 Uhr"
-    },
-    {
-      "title": "Lemonaid: Wenn der Finanzmarkt dir Zitronen gibt",
-      "summary": "Der Getränkehersteller Lemonaid verkauft abseits der Börse mehr als eine Million Aktien. Unser Autor hat sieben davon erworben. Ist das ein gutes Investment?",
-      "image": "https://img.zeit.de/zeit-fuer-unternehmer/2026/03/wenn-der-finanzmarkt-dir-zitronen-gibt-bild-2/original__640x360",
-      "link": "https://www.zeit.de/zeit-fuer-unternehmer/2026/03/lemonaid-getraenke-hersteller-aktie-boerse-recherche",
-      "published": "Fri, 09 Oct 2026 03:53:48 -0000",
-      "published_display": "09.10.2026 · 03:53 Uhr"
-    },
-    {
-      "title": "Sylvester Stallone: Außen Zerstörer, innen selbst zerstört",
-      "summary": "Er ist der Held von Maga-Amerika. Dabei hat das ihn gründlich missverstanden. In »The Steps« erzählt Sylvester Stallone die wahre Geschichte hinter »Rocky«.",
-      "image": "https://img.zeit.de/feuilleton/film/2026-10/sylvester-stallone-autobiografie-rocky-rambo-maga-bewegung-bilder/imago-0055208035h-bild/original__640x360",
-      "link": "https://www.zeit.de/feuilleton/film/2026-10/sylvester-stallone-autobiografie-rocky-rambo-maga-bewegung",
-      "published": "Fri, 09 Oct 2026 03:53:16 -0000",
-      "published_display": "09.10.2026 · 03:53 Uhr"
-    },
-    {
-      "title": "Schüsse: Mehrere Schüsse in Berlin-Neukölln",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/mehrere-schuesse-in-berlin-neukoelln-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/mehrere-schuesse-in-berlin-neukoelln",
-      "published": "Fri, 09 Oct 2026 03:52:48 -0000",
-      "published_display": "09.10.2026 · 03:52 Uhr"
-    },
-    {
-      "title": "Frauen-Nationalteam: Wück warnt: Olympia-Quali nicht aus den Augen verlieren",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/wueck-warnt-olympia-quali-nicht-aus-den-augen-verlieren-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/wueck-warnt-olympia-quali-nicht-aus-den-augen-verlieren",
-      "published": "Fri, 09 Oct 2026 03:50:04 -0000",
-      "published_display": "09.10.2026 · 03:50 Uhr"
     }
   ]
 }
