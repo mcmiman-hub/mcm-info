@@ -1,7 +1,55 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-09T16:19:37.811738+00:00",
+  "updated": "2026-10-09T16:37:18.613509+00:00",
   "items": [
+    {
+      "title": "Proteste in Berlin: Tausende demonstrieren in Berlin gegen Energiepolitik der Regierung",
+      "summary": "In Berlin fordern Tausende einen stärkeres Engagement der Bundesregierung für erneuerbare Energien. Ihr Protest richtet sich gegen zwei Energiegesetze der Regierung.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-10/demonstration-energiepolitik-berlin-buendnis-erneuerbare-energien-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-10/demonstration-energiepolitik-berlin-buendnis-erneuerbare-energien",
+      "published": "Fri, 09 Oct 2026 16:32:26 -0000",
+      "published_display": "09.10.2026 · 16:32 Uhr"
+    },
+    {
+      "title": "Internationales Recht: USA verhängen Sanktionen gegen Weltstrafgericht",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/usa-verhaengen-sanktionen-gegen-weltstrafgericht-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/09/usa-verhaengen-sanktionen-gegen-weltstrafgericht",
+      "published": "Fri, 09 Oct 2026 16:31:16 -0000",
+      "published_display": "09.10.2026 · 16:31 Uhr"
+    },
+    {
+      "title": "Handelsbeziehungen: EU ringt China Kompromiss zu Hybridauto-Exporten ab",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/das-koennten-zoelle-auf-chinesische-hybridautos-bewirken-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/09/das-koennten-zoelle-auf-chinesische-hybridautos-bewirken",
+      "published": "Fri, 09 Oct 2026 16:26:35 -0000",
+      "published_display": "09.10.2026 · 16:26 Uhr"
+    },
+    {
+      "title": "Trump-Regierung: USA verhängen Sanktionen gegen Internationalen Strafgerichtshof",
+      "summary": "Am Tag der Vergabe des Friedensnobelpreises an die Ex-Richterin Pillay geht die US-Regierung gegen den Den Haager Gerichtshof vor. Sie verhängte umfassende Sanktionen.",
+      "image": "https://img.zeit.de/politik/ausland/2026-10/usa-verhaengen-sanktionen-gegen-internationalen-strafgerichtshof-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/usa-verhaengen-sanktionen-gegen-internationalen-strafgerichtshof",
+      "published": "Fri, 09 Oct 2026 16:26:26 -0000",
+      "published_display": "09.10.2026 · 16:26 Uhr"
+    },
+    {
+      "title": "Übermut: Warum ich Sympathie für Übermut hege",
+      "summary": "Auf dem Oktoberfest bricht sich ein armer Kerl beim Armdrücken die Knochen. Von seiner Haltung könnte dieses Land eine Menge lernen.",
+      "image": "https://img.zeit.de/zeit-magazin/2026/44/warum-ich-sympathie-fuer-uebermut-hege-bild-1/original__640x360",
+      "link": "https://www.zeit.de/zeit-magazin/2026/44/uebermut-wagemut-risiko-oktoberfest",
+      "published": "Fri, 09 Oct 2026 16:24:54 -0000",
+      "published_display": "09.10.2026 · 16:24 Uhr"
+    },
+    {
+      "title": "USA : Wie Trump eine Niederlage bei den Midterms verhindern will",
+      "summary": "Schlechte Umfragen setzen Donald Trump unter Druck. Statt seinen Kurs zu ändern, setzt er auf Eingriffe in die Wahl – von neuen Wahlkreisen bis zu Notstandsdrohungen.",
+      "image": "https://img.zeit.de/video/2026-10/trump-e3-poster/original__640x360",
+      "link": "https://www.zeit.de/video/2026-10/trump-midterms-wahlen-usa-niederlage",
+      "published": "Fri, 09 Oct 2026 16:23:15 -0000",
+      "published_display": "09.10.2026 · 16:23 Uhr"
+    },
     {
       "title": "Eltern-Kind-Beziehung: Irgendwann muss man aus der Elternrolle raus",
       "summary": "Eltern wünschen sich, auch zu ihren erwachsenen Kindern eine gute Beziehung zu haben. Was diese aber erschweren kann, klingt zunächst paradox: zu viel Nähe.",
@@ -51,14 +99,6 @@
       "published_display": "09.10.2026 · 16:09 Uhr"
     },
     {
-      "title": "Handelsbeziehungen: EU ringt China Kompromiss zu Hybridauto-Exporten ab",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/das-koennten-zoelle-auf-chinesische-hybridautos-bewirken-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/das-koennten-zoelle-auf-chinesische-hybridautos-bewirken",
-      "published": "Fri, 09 Oct 2026 16:07:02 -0000",
-      "published_display": "09.10.2026 · 16:07 Uhr"
-    },
-    {
       "title": "Kriminalität: Hochschulservicezentrum: Cyberangriff festgestellt",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-10/09/hochschulservicezentrum-cyberangriff-festgestellt-image-group/original__640x360",
@@ -81,46 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/09/russell-in-singapur-an-der-spitze-defekt-bei-huelkenberg",
       "published": "Fri, 09 Oct 2026 15:59:34 -0000",
       "published_display": "09.10.2026 · 15:59 Uhr"
-    },
-    {
-      "title": "Internationales Recht: USA verhängen Sanktionen gegen Weltstrafgericht",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/usa-verhaengen-sanktionen-gegen-weltstrafgericht-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/usa-verhaengen-sanktionen-gegen-weltstrafgericht",
-      "published": "Fri, 09 Oct 2026 15:57:47 -0000",
-      "published_display": "09.10.2026 · 15:57 Uhr"
-    },
-    {
-      "title": "Vollsperrung: A7 nach Unfall mit drei Fahrzeugen wieder frei",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/unfall-legt-a7-in-richtung-sueden-lahm-mehrere-verletzte-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/unfall-legt-a7-in-richtung-sueden-lahm-mehrere-verletzte",
-      "published": "Fri, 09 Oct 2026 15:56:12 -0000",
-      "published_display": "09.10.2026 · 15:56 Uhr"
-    },
-    {
-      "title": "Antisemitismus-Erklärung in Berlin: Linke-Politiker lehnen erzielte Einigung zum Antisemitismus ab",
-      "summary": "Laut Linke-Politikern übernimmt das Abkommen gegen Antisemitismus in Berlin »mediale Narrative«. SPD und Grüne brächten »Spaltungsmechanismen« in die Partei.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-10/antisemitismus-erklaerung-berlin-linke-gruene-spd-kritik-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-10/antisemitismus-erklaerung-berlin-linke-gruene-spd-kritik",
-      "published": "Fri, 09 Oct 2026 15:55:35 -0000",
-      "published_display": "09.10.2026 · 15:55 Uhr"
-    },
-    {
-      "title": "Landtag Sachsen-Anhalt: AfD in Sachsen-Anhalt will Ausschussvorsitz an BSW abtreten",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/afd-in-sachsen-anhalt-will-ausschussvorsitz-an-bsw-abtreten-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/afd-in-sachsen-anhalt-will-ausschussvorsitz-an-bsw-abtreten",
-      "published": "Fri, 09 Oct 2026 15:51:15 -0000",
-      "published_display": "09.10.2026 · 15:51 Uhr"
-    },
-    {
-      "title": "Diskriminierung: Mann beleidigt und bedroht Jugendlichen mit Wurfbeil",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/mann-beleidigt-und-bedroht-jugendlichen-mit-wurfbeil-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/mann-beleidigt-und-bedroht-jugendlichen-mit-wurfbeil",
-      "published": "Fri, 09 Oct 2026 15:51:11 -0000",
-      "published_display": "09.10.2026 · 15:51 Uhr"
     }
   ]
 }
