@@ -1,7 +1,71 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-09T16:01:58.751269+00:00",
+  "updated": "2026-10-09T16:19:37.811738+00:00",
   "items": [
+    {
+      "title": "Eltern-Kind-Beziehung: Irgendwann muss man aus der Elternrolle raus",
+      "summary": "Eltern wünschen sich, auch zu ihren erwachsenen Kindern eine gute Beziehung zu haben. Was diese aber erschweren kann, klingt zunächst paradox: zu viel Nähe.",
+      "image": "https://img.zeit.de/familie/2026-10/beziehungen-eltern-kinder-erwachsen-elternhaus-bild-2/original__640x360",
+      "link": "https://www.zeit.de/familie/2026-10/beziehungen-eltern-kinder-erwachsen-elternhaus",
+      "published": "Fri, 09 Oct 2026 16:18:43 -0000",
+      "published_display": "09.10.2026 · 16:18 Uhr"
+    },
+    {
+      "title": "Polizei: SPD: Staatsregierung hinkt bei Polizei-Stellen hinterher",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/spd-staatsregierung-hinkt-bei-polizei-stellen-hinterher-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/09/spd-staatsregierung-hinkt-bei-polizei-stellen-hinterher",
+      "published": "Fri, 09 Oct 2026 16:17:54 -0000",
+      "published_display": "09.10.2026 · 16:17 Uhr"
+    },
+    {
+      "title": "Spionageverdacht gegen August Hanning: Wenn der Nebenjob zum Sicherheitsrisiko wird",
+      "summary": "Kanzleramt und BND konnten es wissen: Jahre vor dem Hanning-Skandal warnten Abgeordnete vor zweifelhaften Kunden hochrangiger Ex-Geheimdienstler. Passiert ist nichts.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-10/hanning-skandal-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-10/august-hanning-bnd-skandal-pkgr-nebentaetigkeit-geheimdienst",
+      "published": "Fri, 09 Oct 2026 16:15:30 -0000",
+      "published_display": "09.10.2026 · 16:15 Uhr"
+    },
+    {
+      "title": "August Hanning: »Bestechung ist in Europa wahnsinnig einfach«",
+      "summary": "Gerald Knaus deckte einst Aserbaidschans Korruptionsnetzwerk auf, nun führen auch im Fall August Hanning Spuren in das Land. Knaus erkennt dahinter ein größeres Problem.",
+      "image": "https://img.zeit.de/feuilleton/2026-10/august-hanning-geheimdienst-gerald-knaus-aserbaidschan-europa-korruption-bild-3/original__640x360",
+      "link": "https://www.zeit.de/feuilleton/2026-10/august-hanning-geheimdienst-gerald-knaus-aserbaidschan-europa-korruption",
+      "published": "Fri, 09 Oct 2026 16:14:02 -0000",
+      "published_display": "09.10.2026 · 16:14 Uhr"
+    },
+    {
+      "title": "Bahnverkehr: Übler Geruch: Bahnhof in Bad Nauheim gesperrt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/uebler-geruch-bahnhof-in-bad-nauheim-gesperrt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/09/uebler-geruch-bahnhof-in-bad-nauheim-gesperrt",
+      "published": "Fri, 09 Oct 2026 16:12:49 -0000",
+      "published_display": "09.10.2026 · 16:12 Uhr"
+    },
+    {
+      "title": "Antisemitismus: Hakenkreuz-Schmierereien an Schule in Othmarschen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/hakenkreuz-schmierereien-an-schule-in-othmarschen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/09/hakenkreuz-schmierereien-an-schule-in-othmarschen",
+      "published": "Fri, 09 Oct 2026 16:09:49 -0000",
+      "published_display": "09.10.2026 · 16:09 Uhr"
+    },
+    {
+      "title": "Handelsbeziehungen: EU ringt China Kompromiss zu Hybridauto-Exporten ab",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/das-koennten-zoelle-auf-chinesische-hybridautos-bewirken-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/09/das-koennten-zoelle-auf-chinesische-hybridautos-bewirken",
+      "published": "Fri, 09 Oct 2026 16:07:02 -0000",
+      "published_display": "09.10.2026 · 16:07 Uhr"
+    },
+    {
+      "title": "Kriminalität: Hochschulservicezentrum: Cyberangriff festgestellt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/hochschulservicezentrum-cyberangriff-festgestellt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/09/hochschulservicezentrum-cyberangriff-festgestellt",
+      "published": "Fri, 09 Oct 2026 16:00:24 -0000",
+      "published_display": "09.10.2026 · 16:00 Uhr"
+    },
     {
       "title": "Gasleck: Menschen nach Gasaustritt in Farmsen zurück in Wohnhaus",
       "summary": "",
@@ -57,70 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/09/mann-beleidigt-und-bedroht-jugendlichen-mit-wurfbeil",
       "published": "Fri, 09 Oct 2026 15:51:11 -0000",
       "published_display": "09.10.2026 · 15:51 Uhr"
-    },
-    {
-      "title": "Erinnerung an Attentat: Halle erinnert an rechtsextremen Anschlag mit zwei Toten",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/menschenkette-stoppt-afd-rechtsaussen-tillschneider-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/menschenkette-stoppt-afd-rechtsaussen-tillschneider",
-      "published": "Fri, 09 Oct 2026 15:46:31 -0000",
-      "published_display": "09.10.2026 · 15:46 Uhr"
-    },
-    {
-      "title": "Trump-Regierung: USA verhängen Sanktionen gegen Internationalen Strafgerichtshof",
-      "summary": "Am Tag der Vergabe des Friedensnobelpreises an die Ex-Richterin Pillay geht die US-Regierung gegen den Den Haager Gerichtshof vor. Sie verhängte umfassende Sanktionen.",
-      "image": "https://img.zeit.de/politik/ausland/2026-10/usa-verhaengen-sanktionen-gegen-internationalen-strafgerichtshof-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/usa-verhaengen-sanktionen-gegen-internationalen-strafgerichtshof",
-      "published": "Fri, 09 Oct 2026 15:46:16 -0000",
-      "published_display": "09.10.2026 · 15:46 Uhr"
-    },
-    {
-      "title": "Nach Sachsen-Anhalt-Wahl: Auschwitz-Überlebende macht Druck auf Wüst wegen AfD-Verbot",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/auschwitz-ueberlebende-macht-druck-auf-wuest-wegen-afd-verbot-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/auschwitz-ueberlebende-macht-druck-auf-wuest-wegen-afd-verbot",
-      "published": "Fri, 09 Oct 2026 15:45:11 -0000",
-      "published_display": "09.10.2026 · 15:45 Uhr"
-    },
-    {
-      "title": "Bergbau: EU stuft Lithiumabbau im Osten als strategisch wichtig ein",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/eu-stuft-lithiumabbau-im-osten-als-strategisch-wichtig-ein-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/eu-stuft-lithiumabbau-im-osten-als-strategisch-wichtig-ein",
-      "published": "Fri, 09 Oct 2026 15:34:03 -0000",
-      "published_display": "09.10.2026 · 15:34 Uhr"
-    },
-    {
-      "title": "Ermittlungen in Wien: Vier Ukrainer unter Spionageverdacht in Österreich festgenommen",
-      "summary": "Wegen des Verdachts auf Spionage sind vier Ukrainer in Wien festgenommen worden. Zwei von ihnen sind wohl Investigativjournalisten – einer wurde bereits freigelassen.",
-      "image": "https://img.zeit.de/politik/ausland/2026-10/mychajlo-tkatsch-jaroslaw-bondarenko-ukrajinska-prawda-wien-festnahme-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/mychajlo-tkatsch-jaroslaw-bondarenko-ukrajinska-prawda-wien-festnahme",
-      "published": "Fri, 09 Oct 2026 15:30:49 -0000",
-      "published_display": "09.10.2026 · 15:30 Uhr"
-    },
-    {
-      "title": "Fußball: Eintracht Frankfurt vor Leipzig mit Systemfrage",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/eintracht-frankfurt-vor-leipzig-mit-systemfrage-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/eintracht-frankfurt-vor-leipzig-mit-systemfrage",
-      "published": "Fri, 09 Oct 2026 15:30:09 -0000",
-      "published_display": "09.10.2026 · 15:30 Uhr"
-    },
-    {
-      "title": "Bundesliga: Mainz 05 will gegen Leverkusen ersten Saison-Heimsieg",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/mainz-05-will-gegen-leverkusen-ersten-saison-heimsieg-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/mainz-05-will-gegen-leverkusen-ersten-saison-heimsieg",
-      "published": "Fri, 09 Oct 2026 15:30:08 -0000",
-      "published_display": "09.10.2026 · 15:30 Uhr"
-    },
-    {
-      "title": "Tennessee-Vibes: 22 Nummer-Eins-Alben: Peter Maffay knackt Chart-Rekord",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/22-nummer-eins-alben-peter-maffay-knackt-chart-rekord-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/22-nummer-eins-alben-peter-maffay-knackt-chart-rekord",
-      "published": "Fri, 09 Oct 2026 15:29:25 -0000",
-      "published_display": "09.10.2026 · 15:29 Uhr"
     }
   ]
 }
