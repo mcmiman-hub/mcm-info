@@ -1,21 +1,37 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-09T19:58:39.926435+00:00",
+  "updated": "2026-10-09T20:18:12.909413+00:00",
   "items": [
+    {
+      "title": "Weißes Haus: Trump: Katie Zacharia wird neue Sprecherin des Weißen Hauses",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/trump-katie-zacharia-wird-neue-sprecherin-des-weissen-hauses-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/09/trump-katie-zacharia-wird-neue-sprecherin-des-weissen-hauses",
+      "published": "Fri, 09 Oct 2026 20:06:04 -0000",
+      "published_display": "09.10.2026 · 20:06 Uhr"
+    },
+    {
+      "title": "Basketball-Bundesliga: Jenas Basketballer gehen in Bonn unter",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/jenas-basketballer-gehen-in-bonn-unter-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/09/jenas-basketballer-gehen-in-bonn-unter",
+      "published": "Fri, 09 Oct 2026 20:05:18 -0000",
+      "published_display": "09.10.2026 · 20:05 Uhr"
+    },
+    {
+      "title": "Deutsche Eishockey Liga: 5:0 gegen Wolfsburg: Eisbären Berlin neuer DEL-Spitzenreiter",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/5-0-gegen-wolfsburg-eisbaeren-berlin-neuer-del-spitzenreiter-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/09/5-0-gegen-wolfsburg-eisbaeren-berlin-neuer-del-spitzenreiter",
+      "published": "Fri, 09 Oct 2026 20:04:40 -0000",
+      "published_display": "09.10.2026 · 20:04 Uhr"
+    },
     {
       "title": "Glücksspiel: Eurojackpot: Hesse mit hohem Gewinn in zweiter Gewinnklasse",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-10/09/eurojackpot-hesse-mit-hohem-gewinn-in-zweiter-gewinnklasse-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-10/09/eurojackpot-hesse-mit-hohem-gewinn-in-zweiter-gewinnklasse",
       "published": "Fri, 09 Oct 2026 19:50:52 -0000",
-      "published_display": "09.10.2026 · 19:50 Uhr"
-    },
-    {
-      "title": "Regierung: Trump: Katie Zacharia wird neue Sprecherin des Weißen Hauses",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/trump-katie-zacharia-wird-neue-sprecherin-des-weissen-hauses-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/trump-katie-zacharia-wird-neue-sprecherin-des-weissen-hauses",
-      "published": "Fri, 09 Oct 2026 19:50:46 -0000",
       "published_display": "09.10.2026 · 19:50 Uhr"
     },
     {
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/09/us-kreise-livestream-soll-militaerhinrichtung-zeigen",
       "published": "Fri, 09 Oct 2026 18:43:20 -0000",
       "published_display": "09.10.2026 · 18:43 Uhr"
-    },
-    {
-      "title": "Glücksspiel: Nicht geknackt: 120 Millionen Euro bleiben im Eurojackpot",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/nicht-geknackt-120-millionen-euro-bleiben-im-eurojackpot-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/nicht-geknackt-120-millionen-euro-bleiben-im-eurojackpot",
-      "published": "Fri, 09 Oct 2026 18:43:16 -0000",
-      "published_display": "09.10.2026 · 18:43 Uhr"
-    },
-    {
-      "title": "Weißes Haus: Kreise: Jobangebot für Katie Zacharia als Trumps Sprecherin",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/kreise-jobangebot-fuer-katie-zacharia-als-trumps-sprecherin-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/kreise-jobangebot-fuer-katie-zacharia-als-trumps-sprecherin",
-      "published": "Fri, 09 Oct 2026 18:41:24 -0000",
-      "published_display": "09.10.2026 · 18:41 Uhr"
     }
   ]
 }
