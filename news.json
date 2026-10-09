@@ -1,21 +1,29 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-09T19:17:59.934845+00:00",
+  "updated": "2026-10-09T19:34:29.964914+00:00",
   "items": [
+    {
+      "title": "Energiekrise: Trump kündigt große Diesellieferungen aus Russland an",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/trump-kuendigt-grosse-diesellieferungen-aus-russland-an-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/09/trump-kuendigt-grosse-diesellieferungen-aus-russland-an",
+      "published": "Fri, 09 Oct 2026 19:27:07 -0000",
+      "published_display": "09.10.2026 · 19:27 Uhr"
+    },
+    {
+      "title": "Trump kündigt Diesellieferungen aus Russland an",
+      "summary": "",
+      "image": "https://img.zeit.de/administratives/eilmeldung/fallback-bild/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/2026-10/trump-kuendigt-diesellieferungen-aus-russland-an",
+      "published": "Fri, 09 Oct 2026 19:23:59 -0000",
+      "published_display": "09.10.2026 · 19:23 Uhr"
+    },
     {
       "title": "Geschichte: Leipzig erinnert an den Beginn der friedlichen Revolution",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-10/09/leipzig-erinnert-an-den-beginn-der-friedlichen-revolution-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-10/09/leipzig-erinnert-an-den-beginn-der-friedlichen-revolution",
       "published": "Fri, 09 Oct 2026 19:15:55 -0000",
-      "published_display": "09.10.2026 · 19:15 Uhr"
-    },
-    {
-      "title": "Rohstoff: Trump kündigt große Diesellieferungen aus Russland an",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/trump-kuendigt-grosse-diesellieferungen-aus-russland-an-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/trump-kuendigt-grosse-diesellieferungen-aus-russland-an",
-      "published": "Fri, 09 Oct 2026 19:15:50 -0000",
       "published_display": "09.10.2026 · 19:15 Uhr"
     },
     {
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/09/zaehes-topspiel-heidenheim-und-fck-teilen-die-punkte",
       "published": "Fri, 09 Oct 2026 18:28:55 -0000",
       "published_display": "09.10.2026 · 18:28 Uhr"
-    },
-    {
-      "title": "Rechtsextremismus: Halle gedenkt Opfern des Synagogen-Anschlags vor sieben Jahren",
-      "summary": "Vor sieben Jahren versuchte ein Rechtsextremist, in die Synagoge von Halle einzudringen. Mit Glockengeläut und einer Schweigeminute erinnert die Stadt an die Opfer.",
-      "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-10/anschlag-halle-2019-gedenken-afd-hans-thomas-tillschneider-foto-1/original__640x360",
-      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-10/anschlag-halle-2019-gedenken-afd-hans-thomas-tillschneider",
-      "published": "Fri, 09 Oct 2026 18:24:46 -0000",
-      "published_display": "09.10.2026 · 18:24 Uhr"
     }
   ]
 }
