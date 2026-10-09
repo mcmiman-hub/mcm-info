@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-09T02:49:25.003403+00:00",
+  "updated": "2026-10-09T03:00:31.631027+00:00",
   "items": [
+    {
+      "title": "Brasilien: Oberstes Gericht erlässt Haftbefehl gegen Bolsonaro-Bruder",
+      "summary": "Der Bruder des brasilianischen Präsidentschaftskandidaten wurde im Sommer verurteilt. Ein Richter hat ihm nun seinen Pass entzogen. Er lebt in den USA.",
+      "image": "https://img.zeit.de/politik/ausland/2026-10/conservative-political-action-conference-cpac-usa-2026-in-grapevine-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/eduardo-bolsonaro-haft-brasilien-usa-auslieferung-pass",
+      "published": "Fri, 09 Oct 2026 02:56:17 -0000",
+      "published_display": "09.10.2026 · 02:56 Uhr"
+    },
     {
       "title": "Berngau in der Oberpfalz: Tödliche Schüsse bei Waffenkontrolle - Verdächtiger gefasst",
       "summary": "",
@@ -112,14 +120,6 @@
       "image": "https://img.zeit.de/politik/ausland/2026-10/ice-schuesse-new-york-zohran-mamdani-migration-foto-1/original__640x360",
       "link": "https://www.zeit.de/politik/ausland/2026-10/ice-schuesse-new-york-zohran-mamdani-migration",
       "published": "Fri, 09 Oct 2026 02:00:22 -0000",
-      "published_display": "09.10.2026 · 02:00 Uhr"
-    },
-    {
-      "title": "Pflichtzölibat: Kirche oder Kuscheln? - Wenn der Pfarrer sich verliebt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/kirche-oder-kuscheln-wenn-der-pfarrer-sich-verliebt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/kirche-oder-kuscheln-wenn-der-pfarrer-sich-verliebt",
-      "published": "Fri, 09 Oct 2026 02:00:14 -0000",
       "published_display": "09.10.2026 · 02:00 Uhr"
     }
   ]
