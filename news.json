@@ -1,7 +1,87 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-09T15:38:35.179937+00:00",
+  "updated": "2026-10-09T16:01:58.751269+00:00",
   "items": [
+    {
+      "title": "Gasleck: Menschen nach Gasaustritt in Farmsen zurück in Wohnhaus",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/gasaustritt-in-farmsen-mehrfamilienhaus-evakuiert-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/09/gasaustritt-in-farmsen-mehrfamilienhaus-evakuiert",
+      "published": "Fri, 09 Oct 2026 15:59:48 -0000",
+      "published_display": "09.10.2026 · 15:59 Uhr"
+    },
+    {
+      "title": "Formel 1: Chaos in Singapur: Verstappen rast zur Sprint-Pole",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/russell-in-singapur-an-der-spitze-defekt-bei-huelkenberg-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/09/russell-in-singapur-an-der-spitze-defekt-bei-huelkenberg",
+      "published": "Fri, 09 Oct 2026 15:59:34 -0000",
+      "published_display": "09.10.2026 · 15:59 Uhr"
+    },
+    {
+      "title": "Internationales Recht: USA verhängen Sanktionen gegen Weltstrafgericht",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/usa-verhaengen-sanktionen-gegen-weltstrafgericht-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/09/usa-verhaengen-sanktionen-gegen-weltstrafgericht",
+      "published": "Fri, 09 Oct 2026 15:57:47 -0000",
+      "published_display": "09.10.2026 · 15:57 Uhr"
+    },
+    {
+      "title": "Vollsperrung: A7 nach Unfall mit drei Fahrzeugen wieder frei",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/unfall-legt-a7-in-richtung-sueden-lahm-mehrere-verletzte-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/09/unfall-legt-a7-in-richtung-sueden-lahm-mehrere-verletzte",
+      "published": "Fri, 09 Oct 2026 15:56:12 -0000",
+      "published_display": "09.10.2026 · 15:56 Uhr"
+    },
+    {
+      "title": "Antisemitismus-Erklärung in Berlin: Linke-Politiker lehnen erzielte Einigung zum Antisemitismus ab",
+      "summary": "Laut Linke-Politikern übernimmt das Abkommen gegen Antisemitismus in Berlin »mediale Narrative«. SPD und Grüne brächten »Spaltungsmechanismen« in die Partei.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-10/antisemitismus-erklaerung-berlin-linke-gruene-spd-kritik-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-10/antisemitismus-erklaerung-berlin-linke-gruene-spd-kritik",
+      "published": "Fri, 09 Oct 2026 15:55:35 -0000",
+      "published_display": "09.10.2026 · 15:55 Uhr"
+    },
+    {
+      "title": "Landtag Sachsen-Anhalt: AfD in Sachsen-Anhalt will Ausschussvorsitz an BSW abtreten",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/afd-in-sachsen-anhalt-will-ausschussvorsitz-an-bsw-abtreten-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/09/afd-in-sachsen-anhalt-will-ausschussvorsitz-an-bsw-abtreten",
+      "published": "Fri, 09 Oct 2026 15:51:15 -0000",
+      "published_display": "09.10.2026 · 15:51 Uhr"
+    },
+    {
+      "title": "Diskriminierung: Mann beleidigt und bedroht Jugendlichen mit Wurfbeil",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/mann-beleidigt-und-bedroht-jugendlichen-mit-wurfbeil-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/09/mann-beleidigt-und-bedroht-jugendlichen-mit-wurfbeil",
+      "published": "Fri, 09 Oct 2026 15:51:11 -0000",
+      "published_display": "09.10.2026 · 15:51 Uhr"
+    },
+    {
+      "title": "Erinnerung an Attentat: Halle erinnert an rechtsextremen Anschlag mit zwei Toten",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/menschenkette-stoppt-afd-rechtsaussen-tillschneider-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/09/menschenkette-stoppt-afd-rechtsaussen-tillschneider",
+      "published": "Fri, 09 Oct 2026 15:46:31 -0000",
+      "published_display": "09.10.2026 · 15:46 Uhr"
+    },
+    {
+      "title": "Trump-Regierung: USA verhängen Sanktionen gegen Internationalen Strafgerichtshof",
+      "summary": "Am Tag der Vergabe des Friedensnobelpreises an die Ex-Richterin Pillay geht die US-Regierung gegen den Den Haager Gerichtshof vor. Sie verhängte umfassende Sanktionen.",
+      "image": "https://img.zeit.de/politik/ausland/2026-10/usa-verhaengen-sanktionen-gegen-internationalen-strafgerichtshof-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/usa-verhaengen-sanktionen-gegen-internationalen-strafgerichtshof",
+      "published": "Fri, 09 Oct 2026 15:46:16 -0000",
+      "published_display": "09.10.2026 · 15:46 Uhr"
+    },
+    {
+      "title": "Nach Sachsen-Anhalt-Wahl: Auschwitz-Überlebende macht Druck auf Wüst wegen AfD-Verbot",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/auschwitz-ueberlebende-macht-druck-auf-wuest-wegen-afd-verbot-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/09/auschwitz-ueberlebende-macht-druck-auf-wuest-wegen-afd-verbot",
+      "published": "Fri, 09 Oct 2026 15:45:11 -0000",
+      "published_display": "09.10.2026 · 15:45 Uhr"
+    },
     {
       "title": "Bergbau: EU stuft Lithiumabbau im Osten als strategisch wichtig ein",
       "summary": "",
@@ -35,92 +115,12 @@
       "published_display": "09.10.2026 · 15:30 Uhr"
     },
     {
-      "title": "Antisemitismus-Erklärung in Berlin: Linke-Politiker lehnen erzielte Einigung zum Antisemitismus ab",
-      "summary": "Laut Linke-Politikern übernimmt das Abkommen gegen Antisemitismus in Berlin »mediale Narrative«. SPD und Grüne brächten »Spaltungsmechanismen« in die Partei.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-10/antisemitismus-erklaerung-berlin-linke-gruene-spd-kritik-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-10/antisemitismus-erklaerung-berlin-linke-gruene-spd-kritik",
-      "published": "Fri, 09 Oct 2026 15:29:30 -0000",
-      "published_display": "09.10.2026 · 15:29 Uhr"
-    },
-    {
       "title": "Tennessee-Vibes: 22 Nummer-Eins-Alben: Peter Maffay knackt Chart-Rekord",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-10/09/22-nummer-eins-alben-peter-maffay-knackt-chart-rekord-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-10/09/22-nummer-eins-alben-peter-maffay-knackt-chart-rekord",
       "published": "Fri, 09 Oct 2026 15:29:25 -0000",
       "published_display": "09.10.2026 · 15:29 Uhr"
-    },
-    {
-      "title": "Trump-Regierung: USA verhängen Sanktionen gegen Internationalen Strafgerichtshof",
-      "summary": "Die US-Regierung will dem Den Haager Gerichtshof sämtliche Finanzmittel entziehen. Damit reagiert sie auf die Ermittlungen zu mutmaßlichen Kriegsverbrechen der USA.",
-      "image": "https://img.zeit.de/politik/ausland/2026-10/usa-verhaengen-sanktionen-gegen-internationalen-strafgerichtshof-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/usa-verhaengen-sanktionen-gegen-internationalen-strafgerichtshof",
-      "published": "Fri, 09 Oct 2026 15:18:53 -0000",
-      "published_display": "09.10.2026 · 15:18 Uhr"
-    },
-    {
-      "title": "Landtag Sachsen-Anhalt: «taz»-Bericht wirft Fragen zu CDU-Abstimmungsverhalten auf",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/taz-bericht-wirft-fragen-zu-cdu-abstimmungsverhalten-auf-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/taz-bericht-wirft-fragen-zu-cdu-abstimmungsverhalten-auf",
-      "published": "Fri, 09 Oct 2026 15:17:46 -0000",
-      "published_display": "09.10.2026 · 15:17 Uhr"
-    },
-    {
-      "title": "Umstrittene Reformpläne: «Erneuerbar, unverzichtbar» – Demo gegen Energie-Reform",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/erneuerbar-unverzichtbar-demo-gegen-energie-reform-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/erneuerbar-unverzichtbar-demo-gegen-energie-reform",
-      "published": "Fri, 09 Oct 2026 15:16:59 -0000",
-      "published_display": "09.10.2026 · 15:16 Uhr"
-    },
-    {
-      "title": "CDU und AfD in Sachsen-Anhalt: CDU in Sachsen-Anhalt: Und niemand will es gewesen sein",
-      "summary": "Die Wahl von AfD-Mann Tobias Rausch sorgt für immer mehr Streit bei der CDU in Sachsen-Anhalt. Droht ihr die Spaltung? Und: der Friedensnobelpreis für Navi Pillay",
-      "image": "https://img.zeit.de/politik/deutschland/2026-10/was-jetzt-sachsen-anhalt-afd-tobias-rausch-landtagspraesident-cdu-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/2026-10/cdu-afd-sachsen-anhalt-tobias-rausch-landtagspraesident-nachrichtenpodcast",
-      "published": "Fri, 09 Oct 2026 15:16:19 -0000",
-      "published_display": "09.10.2026 · 15:16 Uhr"
-    },
-    {
-      "title": "Regierungsbildung: Linke, Grüne und SPD wollen mehr Sauberkeit in Berlin",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/linke-gruene-und-spd-wollen-mehr-sauberkeit-in-berlin-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/linke-gruene-und-spd-wollen-mehr-sauberkeit-in-berlin",
-      "published": "Fri, 09 Oct 2026 15:13:11 -0000",
-      "published_display": "09.10.2026 · 15:13 Uhr"
-    },
-    {
-      "title": "Internationales Recht: USA verhängen Sanktionen gegen Weltstrafgericht",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/usa-verhaengen-sanktionen-gegen-weltstrafgericht-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/usa-verhaengen-sanktionen-gegen-weltstrafgericht",
-      "published": "Fri, 09 Oct 2026 15:13:04 -0000",
-      "published_display": "09.10.2026 · 15:13 Uhr"
-    },
-    {
-      "title": "Thüringer Landtag: Braucht Thüringen eine Arbeitskammer? Abgeordnete uneins",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/braucht-thueringen-eine-arbeitskammer-abgeordnete-uneins-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/braucht-thueringen-eine-arbeitskammer-abgeordnete-uneins",
-      "published": "Fri, 09 Oct 2026 15:11:39 -0000",
-      "published_display": "09.10.2026 · 15:11 Uhr"
-    },
-    {
-      "title": "Sexualdelikt: Neunjähriges Mädchen in Hamburg sexuell belästigt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/neunjaehriges-maedchen-in-hamburg-sexuell-belaestigt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/neunjaehriges-maedchen-in-hamburg-sexuell-belaestigt",
-      "published": "Fri, 09 Oct 2026 15:10:05 -0000",
-      "published_display": "09.10.2026 · 15:10 Uhr"
-    },
-    {
-      "title": "Mecklenburg-Vorpommern: Rot-Rot-Grün in Mecklenburg-Vorpommern vereinbart Koalitionsgespräche",
-      "summary": "SPD, Linke und Grüne in Mecklenburg-Vorpommern haben ihre Sondierungen abgeschlossen. Jetzt sollen die Parteigremien die Aufnahme von Koalitionsverhandlungen beschließen.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-10/koalition-mecklenburg-vorpommern-spd-linke-gruene-sondierungen-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-10/koalition-mecklenburg-vorpommern-spd-linke-gruene-sondierungen",
-      "published": "Fri, 09 Oct 2026 15:10:04 -0000",
-      "published_display": "09.10.2026 · 15:10 Uhr"
     }
   ]
 }
