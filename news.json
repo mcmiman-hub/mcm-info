@@ -1,7 +1,39 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-09T07:21:14.248427+00:00",
+  "updated": "2026-10-09T07:38:59.407709+00:00",
   "items": [
+    {
+      "title": "Aktienmärkte : Die Aktienmärkte hängen an einem seidenen Faden",
+      "summary": "Staaten verschulden sich zu immer höheren Zinsen. In der Vergangenheit war das schlecht für Aktien. Heute scheinbar nicht. Doch die aktuellen Rekordstände sind fragil.",
+      "image": "https://img.zeit.de/geld/2026-10/aktienmaerkte-ki-wirtschaft-usa-rekordhoch-staatsverschuldung-bild/original__640x360",
+      "link": "https://www.zeit.de/geld/2026-10/aktienmaerkte-ki-wirtschaft-usa-rekordhoch-staatsverschuldung",
+      "published": "Fri, 09 Oct 2026 07:36:41 -0000",
+      "published_display": "09.10.2026 · 07:36 Uhr"
+    },
+    {
+      "title": "Baupreise in Deutschland: Baupreise steigen so stark wie seit drei Jahren nicht mehr",
+      "summary": "Bauen hat sich in Deutschland überdurchschnittlich stark verteuert. Hohe Baukosten gelten als Hauptgrund für den deutschlandweit stockenden Wohnungsbau.",
+      "image": "https://img.zeit.de/wirtschaft/2026-10/baupreise-deutschland-statistisches-bundesamt-neubau-wohngebaeude-foto-1/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/2026-10/baupreise-deutschland-statistisches-bundesamt-neubau-wohngebaeude",
+      "published": "Fri, 09 Oct 2026 07:35:03 -0000",
+      "published_display": "09.10.2026 · 07:35 Uhr"
+    },
+    {
+      "title": "Wasserbelastung: Badeverbot an der Saale aufgehoben",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/badeverbot-an-der-saale-aufgehoben-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/09/badeverbot-an-der-saale-aufgehoben",
+      "published": "Fri, 09 Oct 2026 07:34:14 -0000",
+      "published_display": "09.10.2026 · 07:34 Uhr"
+    },
+    {
+      "title": "Notfälle: Fahrgastschiff gestrandet: Rettungsaktion auf der Müritz",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/fahrgastschiff-gestrandet-rettungsaktion-auf-der-mueritz-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/09/fahrgastschiff-gestrandet-rettungsaktion-auf-der-mueritz",
+      "published": "Fri, 09 Oct 2026 07:33:15 -0000",
+      "published_display": "09.10.2026 · 07:33 Uhr"
+    },
     {
       "title": "Suche nach Seniorin gestört: Hubschrauber geblendet - Polizei ermittelt gegen 57-Jährigen",
       "summary": "",
@@ -89,38 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/09/zwei-schwerverletzte-bei-unfall-auf-a72",
       "published": "Fri, 09 Oct 2026 06:59:22 -0000",
       "published_display": "09.10.2026 · 06:59 Uhr"
-    },
-    {
-      "title": "Höchster Stand seit 2013: Welle von Unternehmenspleiten rollt weiter",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/welle-von-unternehmenspleiten-rollt-weiter-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/welle-von-unternehmenspleiten-rollt-weiter",
-      "published": "Fri, 09 Oct 2026 06:59:02 -0000",
-      "published_display": "09.10.2026 · 06:59 Uhr"
-    },
-    {
-      "title": "Angriff: Opfer nach Messerangriff in Velbert außer Lebensgefahr",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/opfer-nach-messerangriff-in-velbert-ausser-lebensgefahr-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/opfer-nach-messerangriff-in-velbert-ausser-lebensgefahr",
-      "published": "Fri, 09 Oct 2026 06:56:03 -0000",
-      "published_display": "09.10.2026 · 06:56 Uhr"
-    },
-    {
-      "title": "DWD-Vorhersage: Nebel und Regen: Unbeständiges Wochenend-Wetter im Südwesten",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/der-freitag-im-suedwesten-startet-kuehl-nebel-und-regen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/der-freitag-im-suedwesten-startet-kuehl-nebel-und-regen",
-      "published": "Fri, 09 Oct 2026 06:55:51 -0000",
-      "published_display": "09.10.2026 · 06:55 Uhr"
-    },
-    {
-      "title": "Statistik zu Bauleistungen: Baupreise steigen überdurchschnittlich",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/baupreise-steigen-ueberdurchschnittlich-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/baupreise-steigen-ueberdurchschnittlich",
-      "published": "Fri, 09 Oct 2026 06:55:12 -0000",
-      "published_display": "09.10.2026 · 06:55 Uhr"
     }
   ]
 }
