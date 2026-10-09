@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-09T23:46:15.830687+00:00",
+  "updated": "2026-10-09T23:58:01.810793+00:00",
   "items": [
+    {
+      "title": "Umgang mit der AfD: Stellvertretender CSU-Chef erklärt Brandmauer für gescheitert",
+      "summary": "Manfred Weber bezeichnet die strikte Abgrenzung zur AfD als Riesenbelastung für die Union. In Thüringen und Sachsen müsse die CDU »dauernd mit linken Parteien abstimmen«.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-10/manfred-weber-csu-afd-brandmauer-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-10/manfred-weber-csu-afd-brandmauer",
+      "published": "Fri, 09 Oct 2026 23:47:56 -0000",
+      "published_display": "09.10.2026 · 23:47 Uhr"
+    },
     {
       "title": "Leine an Wurzel verfangen: Feuerwehr rettet Hund aus zwei Meter tiefem Fuchsbau",
       "summary": "",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/09/spd-in-mv-fuer-koalitionsverhandlungen-mit-gruenen-und-linken",
       "published": "Fri, 09 Oct 2026 21:18:11 -0000",
       "published_display": "09.10.2026 · 21:18 Uhr"
-    },
-    {
-      "title": "Notfälle: Auto prallt gegen Baum - drei Schwerverletzte",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/auto-prallt-gegen-baum-drei-schwerverletzte-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/auto-prallt-gegen-baum-drei-schwerverletzte",
-      "published": "Fri, 09 Oct 2026 21:00:26 -0000",
-      "published_display": "09.10.2026 · 21:00 Uhr"
     }
   ]
 }
