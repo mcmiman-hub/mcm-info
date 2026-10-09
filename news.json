@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-09T03:20:11.192325+00:00",
+  "updated": "2026-10-09T03:38:13.971221+00:00",
   "items": [
+    {
+      "title": "Kriminalität: Wildwest in Hamburg? - Polizei: Kaum Gefahr für Unbeteiligte",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/wildwest-in-hamburg-polizei-kaum-gefahr-fuer-unbeteiligte-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/09/wildwest-in-hamburg-polizei-kaum-gefahr-fuer-unbeteiligte",
+      "published": "Fri, 09 Oct 2026 03:30:08 -0000",
+      "published_display": "09.10.2026 · 03:30 Uhr"
+    },
+    {
+      "title": "Besonderes Souvenir vom Meer: Strandkorb-Versteigerungen an der Nordsee – So geht’s",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/strandkorb-versteigerungen-an-der-nordsee-so-geht-s-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/09/strandkorb-versteigerungen-an-der-nordsee-so-geht-s",
+      "published": "Fri, 09 Oct 2026 03:30:06 -0000",
+      "published_display": "09.10.2026 · 03:30 Uhr"
+    },
+    {
+      "title": "Wetter: Sonne und Regen teilen sich das Wochenende",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/sonne-und-regen-teilen-sich-das-wochenende-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/09/sonne-und-regen-teilen-sich-das-wochenende",
+      "published": "Fri, 09 Oct 2026 03:30:05 -0000",
+      "published_display": "09.10.2026 · 03:30 Uhr"
+    },
     {
       "title": "Justiz: Spektakuläre Prozesse: Einblicke in Moabits Gerichtsalltag",
       "summary": "",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/09/aussenminister-wadephul-verschaerft-tonlage-gegenueber-putin",
       "published": "Fri, 09 Oct 2026 02:30:04 -0000",
       "published_display": "09.10.2026 · 02:30 Uhr"
-    },
-    {
-      "title": "Keine Berlin-Ambitionen: Günther zieht Schleswig-Holstein Berlin vor und schätzt Merz",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/guenther-zieht-schleswig-holstein-berlin-vor-und-schaetzt-merz-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/guenther-zieht-schleswig-holstein-berlin-vor-und-schaetzt-merz",
-      "published": "Fri, 09 Oct 2026 02:13:49 -0000",
-      "published_display": "09.10.2026 · 02:13 Uhr"
-    },
-    {
-      "title": "Gesundheit: Klinikreform in Sachsen-Anhalt soll ab 2027 greifen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/klinikreform-in-sachsen-anhalt-soll-ab-2027-greifen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/klinikreform-in-sachsen-anhalt-soll-ab-2027-greifen",
-      "published": "Fri, 09 Oct 2026 02:02:04 -0000",
-      "published_display": "09.10.2026 · 02:02 Uhr"
-    },
-    {
-      "title": "Niedrigwasser: Warum ein paar Regentage für die Elbe nicht reichen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/warum-ein-paar-regentage-fuer-die-elbe-nicht-reichen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/warum-ein-paar-regentage-fuer-die-elbe-nicht-reichen",
-      "published": "Fri, 09 Oct 2026 02:00:50 -0000",
-      "published_display": "09.10.2026 · 02:00 Uhr"
     }
   ]
 }
