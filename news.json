@@ -1,7 +1,55 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-09T15:22:02.889288+00:00",
+  "updated": "2026-10-09T15:38:35.179937+00:00",
   "items": [
+    {
+      "title": "Bergbau: EU stuft Lithiumabbau im Osten als strategisch wichtig ein",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/eu-stuft-lithiumabbau-im-osten-als-strategisch-wichtig-ein-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/09/eu-stuft-lithiumabbau-im-osten-als-strategisch-wichtig-ein",
+      "published": "Fri, 09 Oct 2026 15:34:03 -0000",
+      "published_display": "09.10.2026 · 15:34 Uhr"
+    },
+    {
+      "title": "Ermittlungen in Wien: Vier Ukrainer unter Spionageverdacht in Österreich festgenommen",
+      "summary": "Wegen des Verdachts auf Spionage sind vier Ukrainer in Wien festgenommen worden. Zwei von ihnen sind wohl Investigativjournalisten – einer wurde bereits freigelassen.",
+      "image": "https://img.zeit.de/politik/ausland/2026-10/mychajlo-tkatsch-jaroslaw-bondarenko-ukrajinska-prawda-wien-festnahme-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/mychajlo-tkatsch-jaroslaw-bondarenko-ukrajinska-prawda-wien-festnahme",
+      "published": "Fri, 09 Oct 2026 15:30:49 -0000",
+      "published_display": "09.10.2026 · 15:30 Uhr"
+    },
+    {
+      "title": "Fußball: Eintracht Frankfurt vor Leipzig mit Systemfrage",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/eintracht-frankfurt-vor-leipzig-mit-systemfrage-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/09/eintracht-frankfurt-vor-leipzig-mit-systemfrage",
+      "published": "Fri, 09 Oct 2026 15:30:09 -0000",
+      "published_display": "09.10.2026 · 15:30 Uhr"
+    },
+    {
+      "title": "Bundesliga: Mainz 05 will gegen Leverkusen ersten Saison-Heimsieg",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/mainz-05-will-gegen-leverkusen-ersten-saison-heimsieg-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/09/mainz-05-will-gegen-leverkusen-ersten-saison-heimsieg",
+      "published": "Fri, 09 Oct 2026 15:30:08 -0000",
+      "published_display": "09.10.2026 · 15:30 Uhr"
+    },
+    {
+      "title": "Antisemitismus-Erklärung in Berlin: Linke-Politiker lehnen erzielte Einigung zum Antisemitismus ab",
+      "summary": "Laut Linke-Politikern übernimmt das Abkommen gegen Antisemitismus in Berlin »mediale Narrative«. SPD und Grüne brächten »Spaltungsmechanismen« in die Partei.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-10/antisemitismus-erklaerung-berlin-linke-gruene-spd-kritik-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-10/antisemitismus-erklaerung-berlin-linke-gruene-spd-kritik",
+      "published": "Fri, 09 Oct 2026 15:29:30 -0000",
+      "published_display": "09.10.2026 · 15:29 Uhr"
+    },
+    {
+      "title": "Tennessee-Vibes: 22 Nummer-Eins-Alben: Peter Maffay knackt Chart-Rekord",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/22-nummer-eins-alben-peter-maffay-knackt-chart-rekord-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/09/22-nummer-eins-alben-peter-maffay-knackt-chart-rekord",
+      "published": "Fri, 09 Oct 2026 15:29:25 -0000",
+      "published_display": "09.10.2026 · 15:29 Uhr"
+    },
     {
       "title": "Trump-Regierung: USA verhängen Sanktionen gegen Internationalen Strafgerichtshof",
       "summary": "Die US-Regierung will dem Den Haager Gerichtshof sämtliche Finanzmittel entziehen. Damit reagiert sie auf die Ermittlungen zu mutmaßlichen Kriegsverbrechen der USA.",
@@ -59,14 +107,6 @@
       "published_display": "09.10.2026 · 15:11 Uhr"
     },
     {
-      "title": "Antisemitismus-Erklärung in Berlin: Linke-Politiker lehnen erzielte Einigung zum Antisemitismus ab",
-      "summary": "Laut Linke-Politikern übernimmt das Abkommen gegen Antisemitismus in Berlin »mediale Narrative«. SPD und Grüne brächten »Spaltungsmechanismen« in die Partei.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-10/antisemitismus-erklaerung-berlin-linke-gruene-spd-kritik-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-10/antisemitismus-erklaerung-berlin-linke-gruene-spd-kritik",
-      "published": "Fri, 09 Oct 2026 15:11:34 -0000",
-      "published_display": "09.10.2026 · 15:11 Uhr"
-    },
-    {
       "title": "Sexualdelikt: Neunjähriges Mädchen in Hamburg sexuell belästigt",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-10/09/neunjaehriges-maedchen-in-hamburg-sexuell-belaestigt-image-group/original__640x360",
@@ -81,46 +121,6 @@
       "link": "https://www.zeit.de/politik/deutschland/2026-10/koalition-mecklenburg-vorpommern-spd-linke-gruene-sondierungen",
       "published": "Fri, 09 Oct 2026 15:10:04 -0000",
       "published_display": "09.10.2026 · 15:10 Uhr"
-    },
-    {
-      "title": "Regierungsbildung: Sondieren gegen den Orkan: Bekommt Berlin Rot-Grün-Rot?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/rot-gruen-rote-sondierungen-gehen-in-berlin-weiter-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/rot-gruen-rote-sondierungen-gehen-in-berlin-weiter",
-      "published": "Fri, 09 Oct 2026 15:09:47 -0000",
-      "published_display": "09.10.2026 · 15:09 Uhr"
-    },
-    {
-      "title": "Überraschende Wende: Grüne bremsen Naturkundemuseum aus – Koalitionskrise droht",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/gruene-bremsen-naturkundemuseum-aus-koalitionskrise-droht-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/gruene-bremsen-naturkundemuseum-aus-koalitionskrise-droht",
-      "published": "Fri, 09 Oct 2026 15:02:04 -0000",
-      "published_display": "09.10.2026 · 15:02 Uhr"
-    },
-    {
-      "title": "Tiergarten: Beschädigte Regenbogenbank - 18-Jähriger verdächtig",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/beschaedigte-regenbogenbank-18-jaehriger-verdaechtig-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/beschaedigte-regenbogenbank-18-jaehriger-verdaechtig",
-      "published": "Fri, 09 Oct 2026 14:57:28 -0000",
-      "published_display": "09.10.2026 · 14:57 Uhr"
-    },
-    {
-      "title": "Ermittlungen in Wien: Vier Ukrainer unter Spionageverdacht in Österreich festgenommen",
-      "summary": "Wegen des Verdachts auf Spionage sind vier Ukrainer in Wien festgenommen worden. Mindestens einer davon ist wohl Investigativjournalist – er wurde bereits freigelassen.",
-      "image": "https://img.zeit.de/politik/ausland/2026-10/mychajlo-tkatsch-jaroslaw-bondarenko-ukrajinska-prawda-wien-festnahme-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/mychajlo-tkatsch-jaroslaw-bondarenko-ukrajinska-prawda-wien-festnahme",
-      "published": "Fri, 09 Oct 2026 14:56:37 -0000",
-      "published_display": "09.10.2026 · 14:56 Uhr"
-    },
-    {
-      "title": "Europacity: Urteil: Pflicht für 215 Sozialwohnungen in Europacity",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/urteil-pflicht-fuer-215-sozialwohnungen-in-europacity-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/urteil-pflicht-fuer-215-sozialwohnungen-in-europacity",
-      "published": "Fri, 09 Oct 2026 14:55:48 -0000",
-      "published_display": "09.10.2026 · 14:55 Uhr"
     }
   ]
 }
