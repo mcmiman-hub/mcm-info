@@ -1,14 +1,46 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-09T16:37:18.613509+00:00",
+  "updated": "2026-10-09T17:01:17.018950+00:00",
   "items": [
+    {
+      "title": "USA: Einwanderungsbehörde ICE rechtfertigt Schüsse auf Mann in New York",
+      "summary": "Erneut haben ICE-Beamte Schüsse auf einen Menschen abgegeben. Die Schützen hätten aus Angst um ihr Leben gehandelt, argumentiert die Einwanderungsbehörde.",
+      "image": "https://img.zeit.de/politik/ausland/2026-10/ice-schuesse-new-york-zohran-mamdani-markwayne-mullin-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/ice-schuesse-new-york-zohran-mamdani-markwayne-mullin",
+      "published": "Fri, 09 Oct 2026 16:51:23 -0000",
+      "published_display": "09.10.2026 · 16:51 Uhr"
+    },
+    {
+      "title": "Behandlung im Krankenhaus: Hüfte gebrochen: Zwangspause für NRW-Innenminister Reul",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/nrw-innenminister-reul-bricht-sich-die-huefte-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/09/nrw-innenminister-reul-bricht-sich-die-huefte",
+      "published": "Fri, 09 Oct 2026 16:48:19 -0000",
+      "published_display": "09.10.2026 · 16:48 Uhr"
+    },
+    {
+      "title": "Brandenburg: Umfrage: AfD in Brandenburg bei 40 Prozent - CDU einstellig",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/umfrage-afd-in-brandenburg-bei-40-prozent-cdu-einstellig-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/09/umfrage-afd-in-brandenburg-bei-40-prozent-cdu-einstellig",
+      "published": "Fri, 09 Oct 2026 16:47:56 -0000",
+      "published_display": "09.10.2026 · 16:47 Uhr"
+    },
+    {
+      "title": "Schwerer Unfall: Autofahrer bei Kollision mit Lkw auf der B 191 getötet",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/kollision-mit-mehreren-lebensbedrohlich-verletzten-auf-b-191-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/09/kollision-mit-mehreren-lebensbedrohlich-verletzten-auf-b-191",
+      "published": "Fri, 09 Oct 2026 16:45:32 -0000",
+      "published_display": "09.10.2026 · 16:45 Uhr"
+    },
     {
       "title": "Proteste in Berlin: Tausende demonstrieren in Berlin gegen Energiepolitik der Regierung",
       "summary": "In Berlin fordern Tausende einen stärkeres Engagement der Bundesregierung für erneuerbare Energien. Ihr Protest richtet sich gegen zwei Energiegesetze der Regierung.",
       "image": "https://img.zeit.de/politik/deutschland/2026-10/demonstration-energiepolitik-berlin-buendnis-erneuerbare-energien-foto-1/original__640x360",
       "link": "https://www.zeit.de/politik/deutschland/2026-10/demonstration-energiepolitik-berlin-buendnis-erneuerbare-energien",
-      "published": "Fri, 09 Oct 2026 16:32:26 -0000",
-      "published_display": "09.10.2026 · 16:32 Uhr"
+      "published": "Fri, 09 Oct 2026 16:42:32 -0000",
+      "published_display": "09.10.2026 · 16:42 Uhr"
     },
     {
       "title": "Internationales Recht: USA verhängen Sanktionen gegen Weltstrafgericht",
@@ -89,38 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/09/uebler-geruch-bahnhof-in-bad-nauheim-gesperrt",
       "published": "Fri, 09 Oct 2026 16:12:49 -0000",
       "published_display": "09.10.2026 · 16:12 Uhr"
-    },
-    {
-      "title": "Antisemitismus: Hakenkreuz-Schmierereien an Schule in Othmarschen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/hakenkreuz-schmierereien-an-schule-in-othmarschen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/hakenkreuz-schmierereien-an-schule-in-othmarschen",
-      "published": "Fri, 09 Oct 2026 16:09:49 -0000",
-      "published_display": "09.10.2026 · 16:09 Uhr"
-    },
-    {
-      "title": "Kriminalität: Hochschulservicezentrum: Cyberangriff festgestellt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/hochschulservicezentrum-cyberangriff-festgestellt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/hochschulservicezentrum-cyberangriff-festgestellt",
-      "published": "Fri, 09 Oct 2026 16:00:24 -0000",
-      "published_display": "09.10.2026 · 16:00 Uhr"
-    },
-    {
-      "title": "Gasleck: Menschen nach Gasaustritt in Farmsen zurück in Wohnhaus",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/gasaustritt-in-farmsen-mehrfamilienhaus-evakuiert-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/gasaustritt-in-farmsen-mehrfamilienhaus-evakuiert",
-      "published": "Fri, 09 Oct 2026 15:59:48 -0000",
-      "published_display": "09.10.2026 · 15:59 Uhr"
-    },
-    {
-      "title": "Formel 1: Chaos in Singapur: Verstappen rast zur Sprint-Pole",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/russell-in-singapur-an-der-spitze-defekt-bei-huelkenberg-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/russell-in-singapur-an-der-spitze-defekt-bei-huelkenberg",
-      "published": "Fri, 09 Oct 2026 15:59:34 -0000",
-      "published_display": "09.10.2026 · 15:59 Uhr"
     }
   ]
 }
