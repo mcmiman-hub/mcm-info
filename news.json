@@ -1,7 +1,31 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-09T18:00:16.428049+00:00",
+  "updated": "2026-10-09T18:21:25.317133+00:00",
   "items": [
+    {
+      "title": "Bahnverkehr: Übler Geruch: Bahnhof in Bad Nauheim wieder frei",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/uebler-geruch-bahnhof-in-bad-nauheim-gesperrt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/09/uebler-geruch-bahnhof-in-bad-nauheim-gesperrt",
+      "published": "Fri, 09 Oct 2026 18:12:23 -0000",
+      "published_display": "09.10.2026 · 18:12 Uhr"
+    },
+    {
+      "title": "Simon & Garfunkel: Art Garfunkel sagt einziges Deutschlandkonzert ab",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/art-garfunkel-sagt-einziges-deutschlandkonzert-ab-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/09/art-garfunkel-sagt-einziges-deutschlandkonzert-ab",
+      "published": "Fri, 09 Oct 2026 18:09:58 -0000",
+      "published_display": "09.10.2026 · 18:09 Uhr"
+    },
+    {
+      "title": "Geschichte: Leipzig erinnert an den Beginn der friedlichen Revolution",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/leipzig-erinnert-an-den-beginn-der-friedlichen-revolution-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/09/leipzig-erinnert-an-den-beginn-der-friedlichen-revolution",
+      "published": "Fri, 09 Oct 2026 18:00:12 -0000",
+      "published_display": "09.10.2026 · 18:00 Uhr"
+    },
     {
       "title": "Chief Mouser: Downing-Street-Kater Larry erholt sich von Mini-OP",
       "summary": "",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/09/vier-verletzte-bei-unfall-mit-vier-fahrzeugen",
       "published": "Fri, 09 Oct 2026 17:34:39 -0000",
       "published_display": "09.10.2026 · 17:34 Uhr"
-    },
-    {
-      "title": "Frankfurter Buchmesse: Mit Pathos gegen den Spott",
-      "summary": "Zur Verleihung des Deutschen Verlagspreises: Was muss ein Verlag anstellen, um nicht ausgezeichnet zu werden? Und was kann Wolfram Weimer sagen, um Applaus zu bekommen?",
-      "image": "https://img.zeit.de/feuilleton/literatur/2026-10/verleihung-verlagspreis-2026-weimer/original__640x360",
-      "link": "https://www.zeit.de/feuilleton/literatur/2026-10/deutscher-verlagspreis-verleihung-frankfurter-buchmesse-wolfram-weimer",
-      "published": "Fri, 09 Oct 2026 17:33:26 -0000",
-      "published_display": "09.10.2026 · 17:33 Uhr"
-    },
-    {
-      "title": "USA: Einwanderungsbehörde ICE rechtfertigt Schüsse auf Mann in New York",
-      "summary": "Erneut haben ICE-Beamte Schüsse auf einen Menschen abgegeben. Die Schützen hätten aus Angst um ihr Leben gehandelt, argumentiert die Einwanderungsbehörde.",
-      "image": "https://img.zeit.de/politik/ausland/2026-10/ice-schuesse-new-york-zohran-mamdani-markwayne-mullin-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/ice-schuesse-new-york-zohran-mamdani-markwayne-mullin",
-      "published": "Fri, 09 Oct 2026 17:27:13 -0000",
-      "published_display": "09.10.2026 · 17:27 Uhr"
-    },
-    {
-      "title": "Lage in der Ukraine: Vivaldi in Donezk",
-      "summary": "Mit als Operation Vivaldi bezeichneten Gegenangriffen durchkreuzt die Ukraine Russlands Eroberungspläne im Donbass. Wie ist ihr das gelungen? Der Wochenrückblick",
-      "image": "https://img.zeit.de/politik/ausland/2026-10/ukraine-lage-operation-vivaldi-lyman-front-gegenoffensive-woche-bild-lyman/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/ukraine-lage-operation-vivaldi-lyman-front-gegenoffensive-woche",
-      "published": "Fri, 09 Oct 2026 17:18:41 -0000",
-      "published_display": "09.10.2026 · 17:18 Uhr"
     }
   ]
 }
