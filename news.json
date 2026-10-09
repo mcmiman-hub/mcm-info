@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-09T00:31:49.264232+00:00",
+  "updated": "2026-10-09T00:57:55.901485+00:00",
   "items": [
+    {
+      "title": "Geburtstagsfeier: «Schande» : Massive Kritik am Putin-Besuch von Schröder",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/schande-massive-kritik-am-putin-besuch-von-schroeder-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/09/schande-massive-kritik-am-putin-besuch-von-schroeder",
+      "published": "Fri, 09 Oct 2026 00:53:45 -0000",
+      "published_display": "09.10.2026 · 00:53 Uhr"
+    },
     {
       "title": "Wirbelstürme: Hurrikan «Isaias» verstärkt sich: Evakuierungen an US-Küste",
       "summary": "",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/09/lechner-fordert-ueberzeugenden-plan-von-kanzler-merz",
       "published": "Thu, 08 Oct 2026 22:01:04 -0000",
       "published_display": "08.10.2026 · 22:01 Uhr"
-    },
-    {
-      "title": "Kalenderblatt: Was geschah am 9. Oktober?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/08/was-geschah-am-9-oktober-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/08/was-geschah-am-9-oktober",
-      "published": "Thu, 08 Oct 2026 21:55:04 -0000",
-      "published_display": "08.10.2026 · 21:55 Uhr"
     }
   ]
 }
