@@ -1,7 +1,39 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-09T07:38:59.407709+00:00",
+  "updated": "2026-10-09T08:01:00.789865+00:00",
   "items": [
+    {
+      "title": "Neu besetzter Krimi-Klassiker: Kieler «Tatort»: Mit Frauen-Power und Thriller-Flair",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/kieler-tatort-mit-frauen-power-und-thriller-flair-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/06/kieler-tatort-mit-frauen-power-und-thriller-flair",
+      "published": "Fri, 09 Oct 2026 07:55:45 -0000",
+      "published_display": "09.10.2026 · 07:55 Uhr"
+    },
+    {
+      "title": "Auftritt mit Ina Müller: Show statt Politik: Günther singt Matthias-Reim-Klassiker",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/show-statt-politik-guenther-singt-matthias-reim-klassiker-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/09/show-statt-politik-guenther-singt-matthias-reim-klassiker",
+      "published": "Fri, 09 Oct 2026 07:44:33 -0000",
+      "published_display": "09.10.2026 · 07:44 Uhr"
+    },
+    {
+      "title": "Thorsten Frei: Unionsfraktionschef sieht CDU in »sehr schwierigem Zustand«",
+      "summary": "Thorsten Frei räumt Nervosität in der CDU ein, warnt aber von einem Aufschnüren der geplanten Reformen. »Wir haben unseren Kurs, und den müssen wir konsequent fahren.«",
+      "image": "https://img.zeit.de/politik/deutschland/2026-10/thorsten-frei-cdu-reformkurs-umfragen-wachstum-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-10/thorsten-frei-cdu-reformkurs-umfragen-wachstum",
+      "published": "Fri, 09 Oct 2026 07:42:01 -0000",
+      "published_display": "09.10.2026 · 07:42 Uhr"
+    },
+    {
+      "title": "Niedersachsens CDU-Chef: Lechner fordert «überzeugenden Plan» von Kanzler Merz",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/09/lechner-fordert-ueberzeugenden-plan-von-kanzler-merz-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/09/lechner-fordert-ueberzeugenden-plan-von-kanzler-merz",
+      "published": "Fri, 09 Oct 2026 07:40:04 -0000",
+      "published_display": "09.10.2026 · 07:40 Uhr"
+    },
     {
       "title": "Aktienmärkte : Die Aktienmärkte hängen an einem seidenen Faden",
       "summary": "Staaten verschulden sich zu immer höheren Zinsen. In der Vergangenheit war das schlecht für Aktien. Heute scheinbar nicht. Doch die aktuellen Rekordstände sind fragil.",
@@ -89,38 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/09/backstreet-boy-nick-carter-ist-vom-koelner-dom-ganz-angetan",
       "published": "Fri, 09 Oct 2026 07:03:35 -0000",
       "published_display": "09.10.2026 · 07:03 Uhr"
-    },
-    {
-      "title": "Statistisches Bundesamt: Herz-Kreislauf-Erkrankungen häufigste Todesursache",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/herz-kreislauf-erkrankungen-haeufigste-todesursache-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/herz-kreislauf-erkrankungen-haeufigste-todesursache",
-      "published": "Fri, 09 Oct 2026 07:00:47 -0000",
-      "published_display": "09.10.2026 · 07:00 Uhr"
-    },
-    {
-      "title": "Geringes Interesse an Luxus: Kein Ende der Talfahrt: Porsche verkauft weniger Autos",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/kein-ende-der-talfahrt-porsche-verkauft-weniger-autos-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/kein-ende-der-talfahrt-porsche-verkauft-weniger-autos",
-      "published": "Fri, 09 Oct 2026 07:00:10 -0000",
-      "published_display": "09.10.2026 · 07:00 Uhr"
-    },
-    {
-      "title": "Künstliche Intelligenz: KI zum Kuscheln: Wozu sind «Moflins» gut?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/ki-zum-kuscheln-wozu-sind-moflins-gut-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/ki-zum-kuscheln-wozu-sind-moflins-gut",
-      "published": "Fri, 09 Oct 2026 07:00:06 -0000",
-      "published_display": "09.10.2026 · 07:00 Uhr"
-    },
-    {
-      "title": "Verkehrsunfall: Zwei Schwerverletzte bei Unfall auf A72",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/zwei-schwerverletzte-bei-unfall-auf-a72-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/zwei-schwerverletzte-bei-unfall-auf-a72",
-      "published": "Fri, 09 Oct 2026 06:59:22 -0000",
-      "published_display": "09.10.2026 · 06:59 Uhr"
     }
   ]
 }
