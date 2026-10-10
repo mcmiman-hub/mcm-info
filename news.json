@@ -1,13 +1,85 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-10T04:01:18.826193+00:00",
+  "updated": "2026-10-10T04:18:57.050742+00:00",
   "items": [
+    {
+      "title": "Barbara Buser: Die Architektin, die keine neuen Häuser bauen will",
+      "summary": "Die Schweizer Architektin Barbara Buser zeigt, wie aus alten Bauten begehrte Wohnungen, Konzertsäle und Kletterhallen werden. Dazu müssen Anwohner mitgestalten dürfen.",
+      "image": "https://img.zeit.de/2026/44/die-architektin-die-keine-neuen-haeuser-bauen-will-bild-1/original__640x360",
+      "link": "https://www.zeit.de/2026/44/barbara-buser-architektin-basel-zirkulaeres-bauen",
+      "published": "Sat, 10 Oct 2026 04:09:44 -0000",
+      "published_display": "10.10.2026 · 04:09 Uhr"
+    },
+    {
+      "title": "Belohnungen in der Erziehung: Warum Belohnungen in der Erziehung oft sinnvoll sind",
+      "summary": "Viele Eltern erwarten von Kindern, dass Einsicht ausreichen muss, um ihr Verhalten zu ändern. Doch es ist okay, ein Kind dafür zu belohnen, damit es tut, was man will.",
+      "image": "https://img.zeit.de/familie/2026-10/kind-belohnung-erziehung-marlies-heckner-bild/original__640x360",
+      "link": "https://www.zeit.de/familie/2026-10/belohnungen-erziehung-kinder-verhalten-psychologie",
+      "published": "Sat, 10 Oct 2026 04:09:26 -0000",
+      "published_display": "10.10.2026 · 04:09 Uhr"
+    },
+    {
+      "title": "Kriminalität: Bewaffneter Raubüberfall - Polizei sucht nach Täter",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/10/bewaffneter-raubueberfall-fahndung-nach-taeter-in-hamburg-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/10/bewaffneter-raubueberfall-fahndung-nach-taeter-in-hamburg",
+      "published": "Sat, 10 Oct 2026 04:06:34 -0000",
+      "published_display": "10.10.2026 · 04:06 Uhr"
+    },
+    {
+      "title": "Künstliche Intelligenz: KI von Anthropic reichte Fake-Hinweis auf Polizei-Seite ein",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/10/ki-von-anthropic-reichte-fake-hinweis-auf-polizei-seite-ein-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/10/ki-von-anthropic-reichte-fake-hinweis-auf-polizei-seite-ein",
+      "published": "Sat, 10 Oct 2026 04:03:41 -0000",
+      "published_display": "10.10.2026 · 04:03 Uhr"
+    },
+    {
+      "title": "VW-Krise: Vom Wunderkind zur Selbstverzwergung: Wo steht VW in 10 Jahren?",
+      "summary": "Der VW-Konzern steckt in der Krise. Wie wahrscheinlich ist eine Insolvenz? Und: Welche drastischen Auswirkungen die Lachszucht weltweit hat.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-10/vw-krise-moritz-schularick-insolvenz-nachrichtenpodcast-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/2026-10/vw-krise-moritz-schularick-insolvenz-nachrichtenpodcast",
+      "published": "Sat, 10 Oct 2026 04:01:44 -0000",
+      "published_display": "10.10.2026 · 04:01 Uhr"
+    },
     {
       "title": "Buchempfehlungen von Elke Heidenreich: Welche Bücher Elke Heidenreich empfiehlt",
       "summary": "Wir entdecken mit Elke Heidenreich auf der Buchmesse die Klassiker von Gottfried Benn, Simone de Beauvoir und Ruth Klüger. Helfen die uns, gut durchs Leben zu kommen?",
       "image": "https://img.zeit.de/feuilleton/literatur/2026-10/elke-heidenreich-buchempfehlungen-literatur-buecher-lesen-podcast-bild/original__640x360",
       "link": "https://www.zeit.de/feuilleton/literatur/2026-10/elke-heidenreich-buchempfehlung-buchmesse-frankfurt",
       "published": "Sat, 10 Oct 2026 04:00:07 -0000",
+      "published_display": "10.10.2026 · 04:00 Uhr"
+    },
+    {
+      "title": "Bestsellerautorin: Was ist Wahrheit, was ist Liebe? - Juli Zehs «Pony Show»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/10/was-ist-wahrheit-was-ist-liebe-juli-zehs-pony-show-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/10/was-ist-wahrheit-was-ist-liebe-juli-zehs-pony-show",
+      "published": "Sat, 10 Oct 2026 04:00:07 -0000",
+      "published_display": "10.10.2026 · 04:00 Uhr"
+    },
+    {
+      "title": "Haushaltskrise: Potsdams OB zu Sparkurs: «Das wird schmerzlich»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/10/potsdams-ob-zu-sparkurs-das-wird-schmerzlich-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/10/potsdams-ob-zu-sparkurs-das-wird-schmerzlich",
+      "published": "Sat, 10 Oct 2026 04:00:06 -0000",
+      "published_display": "10.10.2026 · 04:00 Uhr"
+    },
+    {
+      "title": "Untersuchungen im Labor: Bundesverband warnt vor Kontroll-Lücken bei Restaurants",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/10/bundesverband-warnt-vor-kontroll-luecken-bei-restaurants-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/10/bundesverband-warnt-vor-kontroll-luecken-bei-restaurants",
+      "published": "Sat, 10 Oct 2026 04:00:06 -0000",
+      "published_display": "10.10.2026 · 04:00 Uhr"
+    },
+    {
+      "title": "Tag der Deutschen Einheit: 68 Strafanzeigen und Kritik – Polizeibilanz zum Einheitsfest",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/10/68-strafanzeigen-und-kritik-polizeibilanz-zum-einheitsfest-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/10/68-strafanzeigen-und-kritik-polizeibilanz-zum-einheitsfest",
+      "published": "Sat, 10 Oct 2026 04:00:05 -0000",
       "published_display": "10.10.2026 · 04:00 Uhr"
     },
     {
@@ -49,78 +121,6 @@
       "link": "https://www.zeit.de/politik/ausland/2026-10/donald-trump-hillary-clinton-klage-oberster-gerichtshof-russland",
       "published": "Sat, 10 Oct 2026 03:17:12 -0000",
       "published_display": "10.10.2026 · 03:17 Uhr"
-    },
-    {
-      "title": "Nach 0:1 in Braunschweig: Kiel in der Krise: Noch keine Diskussion um Trainer Walter",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/10/kiel-in-der-krise-noch-keine-diskussion-um-trainer-walter-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/10/kiel-in-der-krise-noch-keine-diskussion-um-trainer-walter",
-      "published": "Sat, 10 Oct 2026 03:15:05 -0000",
-      "published_display": "10.10.2026 · 03:15 Uhr"
-    },
-    {
-      "title": "Krieg gegen die Ukraine: Selenskyj wirft Trump wegen Dieseldeal mit Putin Schwäche vor",
-      "summary": "Die geplanten russischen Diesellieferungen an die USA sieht der ukrainische Präsident als Geschenk an Putin. Die Ukraine meldet Schäden am Stromnetz. Das Liveblog",
-      "image": "https://img.zeit.de/politik/ausland/2026-10/c431e3ec-f003-4f22-81a3-0a08b02f54c0.tmp/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "published": "Sat, 10 Oct 2026 03:10:18 -0000",
-      "published_display": "10.10.2026 · 03:10 Uhr"
-    },
-    {
-      "title": "Mittelamerika: Panamas Staatschef spricht nach Erdbeben von »großer Katastrophe«",
-      "summary": "Ein Erdbeben der Stärke 7,7 hat in Panama große Schäden verursacht. Nach Angaben des Präsidenten sind ganze Straßenzüge eingestürzt. Mehrere Staaten bieten Hilfe an.",
-      "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-10/erdbeben-panama-provinc-herrera-tsunami-warnung-jose-mulino-foto-1/original__640x360",
-      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-10/erdbeben-panama-provinc-herrera-tsunami-warnung-jose-mulino",
-      "published": "Sat, 10 Oct 2026 03:05:49 -0000",
-      "published_display": "10.10.2026 · 03:05 Uhr"
-    },
-    {
-      "title": "Landtagswahlkämpfe: Olaf Lies warnt vor Wahlkampf gegen die Bundesregierung",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/10/olaf-lies-warnt-vor-wahlkampf-gegen-die-bundesregierung-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/10/olaf-lies-warnt-vor-wahlkampf-gegen-die-bundesregierung",
-      "published": "Sat, 10 Oct 2026 03:01:04 -0000",
-      "published_display": "10.10.2026 · 03:01 Uhr"
-    },
-    {
-      "title": "Spitzenverdiener in Sachsen: Zahl der Einkommensmillionäre steigt weiter an",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/10/zahl-der-einkommensmillionaere-steigt-weiter-an-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/10/zahl-der-einkommensmillionaere-steigt-weiter-an",
-      "published": "Sat, 10 Oct 2026 03:00:31 -0000",
-      "published_display": "10.10.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Bitte wenden!: Rückansicht: Croy-Teppich wird für Restaurierung gedreht",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/10/rueckansicht-croy-teppich-wird-fuer-restaurierung-gedreht-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/10/rueckansicht-croy-teppich-wird-fuer-restaurierung-gedreht",
-      "published": "Sat, 10 Oct 2026 03:00:27 -0000",
-      "published_display": "10.10.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Mitmachaktionen: Tiere zählen für den Naturschutz: So kann jeder mitmachen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/10/tiere-zaehlen-fuer-den-naturschutz-so-kann-jeder-mitmachen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/10/tiere-zaehlen-fuer-den-naturschutz-so-kann-jeder-mitmachen",
-      "published": "Sat, 10 Oct 2026 03:00:20 -0000",
-      "published_display": "10.10.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "50. Geburtstag: Telefonseelsorge für Studenten schenkt Zeit und Mitgefühl",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/10/telefonseelsorge-fuer-studenten-schenkt-zeit-und-mitgefuehl-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/10/telefonseelsorge-fuer-studenten-schenkt-zeit-und-mitgefuehl",
-      "published": "Sat, 10 Oct 2026 03:00:18 -0000",
-      "published_display": "10.10.2026 · 03:00 Uhr"
-    },
-    {
-      "title": "Zustand von Schwarz-Rot: Özdemir zur Bundesregierung: Es ist «fünf vor zwölf»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/10/oezdemir-zur-bundesregierung-es-ist-fuenf-vor-zwoelf-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/10/oezdemir-zur-bundesregierung-es-ist-fuenf-vor-zwoelf",
-      "published": "Sat, 10 Oct 2026 03:00:18 -0000",
-      "published_display": "10.10.2026 · 03:00 Uhr"
     }
   ]
 }
