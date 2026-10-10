@@ -1,7 +1,39 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-09T23:58:01.810793+00:00",
+  "updated": "2026-10-10T00:29:33.620820+00:00",
   "items": [
+    {
+      "title": "Kriminalität: Bewaffneter Raubüberfall - Fahndung nach Täter in Hamburg",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/10/bewaffneter-raubueberfall-fahndung-nach-taeter-in-hamburg-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/10/bewaffneter-raubueberfall-fahndung-nach-taeter-in-hamburg",
+      "published": "Sat, 10 Oct 2026 00:24:34 -0000",
+      "published_display": "10.10.2026 · 00:24 Uhr"
+    },
+    {
+      "title": "40 Stunden Streik-Pause: GDL setzt Streik bei Saarbahn übers Wochenende aus",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/10/gdl-setzt-streik-bei-saarbahn-uebers-wochenende-aus-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/10/gdl-setzt-streik-bei-saarbahn-uebers-wochenende-aus",
+      "published": "Sat, 10 Oct 2026 00:07:21 -0000",
+      "published_display": "10.10.2026 · 00:07 Uhr"
+    },
+    {
+      "title": "Frauenfußball: DFB-Frauen gewinnen gegen Australien",
+      "summary": "Deutschlands Fußballerinnen sind siegreich in die WM-Saison gestartet, obwohl wichtige Spielerinnen ausgefallen waren. In der Schlussphase des Spiels wurde es wild.",
+      "image": "https://img.zeit.de/sport/2026-10/frauenfussball-laenderspiel-deutschland-australien-wm-2026-alexandra-poell-horst-oeckler-foto-1/original__640x360",
+      "link": "https://www.zeit.de/sport/2026-10/frauenfussball-laenderspiel-deutschland-australien-wm-2026-alexandra-poell-horst-oeckler",
+      "published": "Sat, 10 Oct 2026 00:04:35 -0000",
+      "published_display": "10.10.2026 · 00:04 Uhr"
+    },
+    {
+      "title": "Naturkatastrophen: Schweres Erdbeben in Panama - Entwarnung bei Tsunami-Gefahr",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/10/schweres-erdbeben-in-panama-entwarnung-bei-tsunami-gefahr-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/10/schweres-erdbeben-in-panama-entwarnung-bei-tsunami-gefahr",
+      "published": "Sat, 10 Oct 2026 00:00:04 -0000",
+      "published_display": "10.10.2026 · 00:00 Uhr"
+    },
     {
       "title": "Umgang mit der AfD: Stellvertretender CSU-Chef erklärt Brandmauer für gescheitert",
       "summary": "Manfred Weber bezeichnet die strikte Abgrenzung zur AfD als Riesenbelastung für die Union. In Thüringen und Sachsen müsse die CDU »dauernd mit linken Parteien abstimmen«.",
@@ -89,38 +121,6 @@
       "link": "https://www.zeit.de/sport/2026-10/bundesliga-borussia-dortmund-werder-bremen-2-2-niclas-fuellkrug",
       "published": "Fri, 09 Oct 2026 21:41:36 -0000",
       "published_display": "09.10.2026 · 21:41 Uhr"
-    },
-    {
-      "title": "Falscher Alarm: Dresdner Eishockey-Halle kurz vor Spielstart evakuiert",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/dresdner-eishockey-halle-kurz-vor-spielstart-evakuiert-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/dresdner-eishockey-halle-kurz-vor-spielstart-evakuiert",
-      "published": "Fri, 09 Oct 2026 21:28:32 -0000",
-      "published_display": "09.10.2026 · 21:28 Uhr"
-    },
-    {
-      "title": "Naturkatastrophen: Panama hebt Tsunami-Warnung nach schweren Erdbeben auf",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/schweres-erdbeben-erschuettert-panama-tsunami-warnung-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/schweres-erdbeben-erschuettert-panama-tsunami-warnung",
-      "published": "Fri, 09 Oct 2026 21:27:48 -0000",
-      "published_display": "09.10.2026 · 21:27 Uhr"
-    },
-    {
-      "title": "Pressesprecherin des US-Präsidenten: Trump ernennt Katie Zacharia zu seiner neuen Sprecherin",
-      "summary": "Der US-Präsident hat angekündigt, eine konservative frühere Fernsehkommentatorin zu seiner Sprecherin zu machen. Katie Zacharia hatte Trump im Wahlkampf unterstützt.",
-      "image": "https://img.zeit.de/politik/ausland/2026-10/katie-zacharia-pressesprecherin-weisses-haus-donald-trump-karoline-leavitt-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/katie-zacharia-pressesprecherin-weisses-haus-donald-trump-karoline-leavitt",
-      "published": "Fri, 09 Oct 2026 21:27:16 -0000",
-      "published_display": "09.10.2026 · 21:27 Uhr"
-    },
-    {
-      "title": "Regierungsbildung in MV: Nach SPD stimmt auch Linke für Koalitionsverhandlungen in MV",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/spd-in-mv-fuer-koalitionsverhandlungen-mit-gruenen-und-linken-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/spd-in-mv-fuer-koalitionsverhandlungen-mit-gruenen-und-linken",
-      "published": "Fri, 09 Oct 2026 21:18:11 -0000",
-      "published_display": "09.10.2026 · 21:18 Uhr"
     }
   ]
 }
