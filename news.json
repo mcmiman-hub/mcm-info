@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-10T00:29:33.620820+00:00",
+  "updated": "2026-10-10T00:55:58.038575+00:00",
   "items": [
+    {
+      "title": "Verkehr: Auto erfasst E-Scooter – Fahrer in Lebensgefahr",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/10/auto-erfasst-e-scooter-fahrer-in-lebensgefahr-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/10/auto-erfasst-e-scooter-fahrer-in-lebensgefahr",
+      "published": "Sat, 10 Oct 2026 00:40:25 -0000",
+      "published_display": "10.10.2026 · 00:40 Uhr"
+    },
+    {
+      "title": "Telefongespräche: Kreml: Weder Putin noch Trump wollte zuerst auflegen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/10/kreml-weder-putin-noch-trump-wollte-zuerst-auflegen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/10/kreml-weder-putin-noch-trump-wollte-zuerst-auflegen",
+      "published": "Sat, 10 Oct 2026 00:38:35 -0000",
+      "published_display": "10.10.2026 · 00:38 Uhr"
+    },
     {
       "title": "Kriminalität: Bewaffneter Raubüberfall - Fahndung nach Täter in Hamburg",
       "summary": "",
@@ -19,7 +35,7 @@
       "published_display": "10.10.2026 · 00:07 Uhr"
     },
     {
-      "title": "Frauenfußball: DFB-Frauen gewinnen gegen Australien",
+      "title": "Fußball der Frauen: DFB-Frauen gewinnen gegen Australien",
       "summary": "Deutschlands Fußballerinnen sind siegreich in die WM-Saison gestartet, obwohl wichtige Spielerinnen ausgefallen waren. In der Schlussphase des Spiels wurde es wild.",
       "image": "https://img.zeit.de/sport/2026-10/frauenfussball-laenderspiel-deutschland-australien-wm-2026-alexandra-poell-horst-oeckler-foto-1/original__640x360",
       "link": "https://www.zeit.de/sport/2026-10/frauenfussball-laenderspiel-deutschland-australien-wm-2026-alexandra-poell-horst-oeckler",
@@ -105,22 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/09/trump-katie-zacharia-wird-neue-sprecherin-des-weissen-hauses",
       "published": "Fri, 09 Oct 2026 21:58:31 -0000",
       "published_display": "09.10.2026 · 21:58 Uhr"
-    },
-    {
-      "title": "Kalenderblatt: Was geschah am 10. Oktober?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/09/was-geschah-am-10-oktober-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/09/was-geschah-am-10-oktober",
-      "published": "Fri, 09 Oct 2026 21:55:04 -0000",
-      "published_display": "09.10.2026 · 21:55 Uhr"
-    },
-    {
-      "title": "Bundesliga, 5. Spieltag – Freitag: Niclas Füllkrug nimmt BVB in der Nachspielzeit den Sieg",
-      "summary": "Bis zur 80. Minute ist im Spiel zwischen Werder Bremen und Borussia Dortmund kein Tor gefallen. Ausgerechnet Füllkrug sorgte am Ende für den Ausgleich. Der Spielbericht",
-      "image": "https://img.zeit.de/sport/2026-10/niclas-fuellkrug-beim-kopfball/original__640x360",
-      "link": "https://www.zeit.de/sport/2026-10/bundesliga-borussia-dortmund-werder-bremen-2-2-niclas-fuellkrug",
-      "published": "Fri, 09 Oct 2026 21:41:36 -0000",
-      "published_display": "09.10.2026 · 21:41 Uhr"
     }
   ]
 }
