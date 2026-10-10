@@ -1,7 +1,71 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-10T08:34:54.149818+00:00",
+  "updated": "2026-10-10T08:48:34.137018+00:00",
   "items": [
+    {
+      "title": "Ralf Fährmann: Der Tormann salzte nach",
+      "summary": "Torhüter? Sonderbar! So galt es lange. Unser Kolumnist meint, Ralf Fährmanns Buch, in dem er halb Schalke an die Wand nagelt, macht Hoffnung, dass das immer noch so ist.",
+      "image": "https://img.zeit.de/sport/2026-10/ralf-faehrmann-buch-torwart-gruenflaeche-bild/original__640x360",
+      "link": "https://www.zeit.de/sport/2026-10/ralf-faehrmann-buch-torwart-gruenflaeche",
+      "published": "Sat, 10 Oct 2026 08:46:55 -0000",
+      "published_display": "10.10.2026 · 08:46 Uhr"
+    },
+    {
+      "title": "Lammsteaks mit Marsalaaprikosen : Das Beste kommt zum Schluss",
+      "summary": "Sogar der Spätsommer ist mittlerweile vorbei. Aber dank saftiger Früchte, Lammsteaks und der Bratensoße auf getoastetem Brot hallen die sonnigen Tage noch nach!",
+      "image": "https://img.zeit.de/zeit-magazin/wochenmarkt/2025-08/lammsteaks-marsalaaprikosen-teaser/original__640x360",
+      "link": "https://www.zeit.de/zeit-magazin/wochenmarkt/2025-08/lammsteaks-marsalaaprikosen-rezept-wochenmarkt",
+      "published": "Sat, 10 Oct 2026 08:45:47 -0000",
+      "published_display": "10.10.2026 · 08:45 Uhr"
+    },
+    {
+      "title": "Zweite Fußball-Bundesliga: Seguin gefällt Herthas neuer Stil: «Passen gut zusammen»",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/10/seguin-gefaellt-herthas-neuer-stil-passen-gut-zusammen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/10/seguin-gefaellt-herthas-neuer-stil-passen-gut-zusammen",
+      "published": "Sat, 10 Oct 2026 08:45:25 -0000",
+      "published_display": "10.10.2026 · 08:45 Uhr"
+    },
+    {
+      "title": "Straßenverkehr: Hochzeitskorso bedrängt Radfahrerin – 35-Jährige stürzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/10/hochzeitskorso-bedraengt-radfahrerin-35-jaehrige-stuerzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/10/hochzeitskorso-bedraengt-radfahrerin-35-jaehrige-stuerzt",
+      "published": "Sat, 10 Oct 2026 08:43:10 -0000",
+      "published_display": "10.10.2026 · 08:43 Uhr"
+    },
+    {
+      "title": "Polizei im Einsatz: 19-Jähriger mit Schwert im Bus – Polizei stellt Waffe sicher",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/10/19-jaehriger-mit-schwert-im-bus-polizei-stellt-waffe-sicher-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/10/19-jaehriger-mit-schwert-im-bus-polizei-stellt-waffe-sicher",
+      "published": "Sat, 10 Oct 2026 08:39:58 -0000",
+      "published_display": "10.10.2026 · 08:39 Uhr"
+    },
+    {
+      "title": "Brand in Bretten: Feuer in Tierpark – Schuppen vollständig abgebrannt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/10/feuer-in-tierpark-schuppen-vollstaendig-abgebrannt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/10/feuer-in-tierpark-schuppen-vollstaendig-abgebrannt",
+      "published": "Sat, 10 Oct 2026 08:39:54 -0000",
+      "published_display": "10.10.2026 · 08:39 Uhr"
+    },
+    {
+      "title": "Verkehrsunfall: Zwei Kleinkinder und zwei Erwachsene auf A1 verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/10/zwei-kleinkinder-und-zwei-erwachsene-auf-a1-verletzt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/10/zwei-kleinkinder-und-zwei-erwachsene-auf-a1-verletzt",
+      "published": "Sat, 10 Oct 2026 08:37:52 -0000",
+      "published_display": "10.10.2026 · 08:37 Uhr"
+    },
+    {
+      "title": "Gesundheitspolitik: Zahl der jüngeren Pflegebedürftigen im Norden steigt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/10/zahl-der-juengeren-pflegebeduerftigen-im-norden-steigt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/10/zahl-der-juengeren-pflegebeduerftigen-im-norden-steigt",
+      "published": "Sat, 10 Oct 2026 08:37:44 -0000",
+      "published_display": "10.10.2026 · 08:37 Uhr"
+    },
     {
       "title": "Taiwan: Taiwans Präsident fordert klare Haltung gegen Chinas Drohungen",
       "summary": "Taiwan werde keine Unterordnung akzeptieren, sagt Präsident Lai anlässlich des Nationalfeiertags. Sein Land schätze Frieden, werde die Freiheit jedoch nicht aufgeben.",
@@ -25,14 +89,6 @@
       "link": "https://www.zeit.de/politik/ausland/2026-10/todesstrafe-welttag-abschaffung-usa-donald-trump-nidal-hasan",
       "published": "Sat, 10 Oct 2026 08:15:42 -0000",
       "published_display": "10.10.2026 · 08:15 Uhr"
-    },
-    {
-      "title": "Brand in Bretten: Feuer in Tierpark – Schuppen vollständig abgebrannt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/10/feuer-in-tierpark-schuppen-vollstaendig-abgebrannt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/10/feuer-in-tierpark-schuppen-vollstaendig-abgebrannt",
-      "published": "Sat, 10 Oct 2026 08:13:37 -0000",
-      "published_display": "10.10.2026 · 08:13 Uhr"
     },
     {
       "title": "Aufwendige Reinigung: Tunnel wegen Schlachtabfällen stundenlang gesperrt",
@@ -65,62 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/09/auto-prallt-gegen-baum-drei-schwerverletzte",
       "published": "Sat, 10 Oct 2026 08:08:24 -0000",
       "published_display": "10.10.2026 · 08:08 Uhr"
-    },
-    {
-      "title": "Unfall in Chemnitz: Radfahrerin von Auto erfasst – schwerer Sturz",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/10/radfahrerin-von-auto-erfasst-schwerer-sturz-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/10/radfahrerin-von-auto-erfasst-schwerer-sturz",
-      "published": "Sat, 10 Oct 2026 08:03:57 -0000",
-      "published_display": "10.10.2026 · 08:03 Uhr"
-    },
-    {
-      "title": "Fischmehl: Die verstörende Wahrheit über unseren Lachs",
-      "summary": "Er gilt als nachhaltig. Aber investigative Recherchen zeigen: Der Zuchtlachs, den wir so gern essen, zerstört Meere und Menschen überall auf der Welt.",
-      "image": "https://img.zeit.de/wirtschaft/2026-10/fischmehlproduktion-weltweit-bild/original__640x360",
-      "link": "https://www.zeit.de/wirtschaft/2026-10/fischmehl-produktion-lachs-futter-fischerei-ueberfischung",
-      "published": "Sat, 10 Oct 2026 08:00:58 -0000",
-      "published_display": "10.10.2026 · 08:00 Uhr"
-    },
-    {
-      "title": "Glücksspiel: Frau aus Wetteraukreis gewinnt 11,6 Millionen Euro im Lotto",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/10/frau-aus-wetteraukreis-gewinnt-11-6-millionen-euro-im-lotto-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/10/frau-aus-wetteraukreis-gewinnt-11-6-millionen-euro-im-lotto",
-      "published": "Sat, 10 Oct 2026 07:58:40 -0000",
-      "published_display": "10.10.2026 · 07:58 Uhr"
-    },
-    {
-      "title": "Kriminalität: Rasante Flucht durch Lüneburg endet am Bauzaun",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/10/rasante-flucht-durch-lueneburg-endet-am-bauzaun-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/10/rasante-flucht-durch-lueneburg-endet-am-bauzaun",
-      "published": "Sat, 10 Oct 2026 07:51:19 -0000",
-      "published_display": "10.10.2026 · 07:51 Uhr"
-    },
-    {
-      "title": "Indien: Indische Polizei nimmt vor Protesten Chef der Kakerlakenbewegung fest",
-      "summary": "Vor Protesten gegen eine Wahlrechtsreform hat die Polizei den Kakerlakenbewegungs-Chef Dipke festgenommen. Die Bewegung fordert den Rücktritt des Wahlkommissionsleiters.",
-      "image": "https://img.zeit.de/politik/ausland/2026-10/abhijeet-dipke-cockroach-janta-party-protest-delhi-polizei-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/abhijeet-dipke-cockroach-janta-party-protest-delhi-polizei-gxe",
-      "published": "Sat, 10 Oct 2026 07:48:59 -0000",
-      "published_display": "10.10.2026 · 07:48 Uhr"
-    },
-    {
-      "title": "Straubing: Millionenschaden bei Brand mehrerer Fahrzeuge",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/10/millionenschaden-bei-brand-mehrerer-fahrzeuge-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/10/millionenschaden-bei-brand-mehrerer-fahrzeuge",
-      "published": "Sat, 10 Oct 2026 07:45:08 -0000",
-      "published_display": "10.10.2026 · 07:45 Uhr"
-    },
-    {
-      "title": "CDU-Präsidiumsklausur in Berlin: CDU will sich mehr mit Gerechtigkeit beschäftigen",
-      "summary": "Vor der Parteiklausur fordern CDU-Politiker, Alltagssorgen ernst zu nehmen und Vertrauen zurückzugewinnen. Nach den Wahlniederlagen wächst der Druck auf Friedrich Merz.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-10/cdu-praesidiumsklausur-berlin-wahlniederlagen-vertrauenskrise-friedrich-merz-franziska-hoppermann-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-10/cdu-praesidiumsklausur-berlin-wahlniederlagen-vertrauenskrise-friedrich-merz-franziska-hoppermann-gxe",
-      "published": "Sat, 10 Oct 2026 07:44:34 -0000",
-      "published_display": "10.10.2026 · 07:44 Uhr"
     }
   ]
 }
