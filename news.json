@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-10T01:36:20.211554+00:00",
+  "updated": "2026-10-10T01:51:14.438018+00:00",
   "items": [
+    {
+      "title": "Ein Puma in Oberbayern?: Zoologe: Puma kann 20 Kilometer am Tag zurücklegen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/10/zoologe-puma-kann-20-kilometer-am-tag-zuruecklegen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/10/zoologe-puma-kann-20-kilometer-am-tag-zuruecklegen",
+      "published": "Sat, 10 Oct 2026 01:45:04 -0000",
+      "published_display": "10.10.2026 · 01:45 Uhr"
+    },
     {
       "title": "Trauerfeier: Freunde und Fans von Ralf Richter nehmen Abschied",
       "summary": "",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/10/bewaffneter-raubueberfall-fahndung-nach-taeter-in-hamburg",
       "published": "Sat, 10 Oct 2026 00:24:34 -0000",
       "published_display": "10.10.2026 · 00:24 Uhr"
-    },
-    {
-      "title": "40 Stunden Streik-Pause: GDL setzt Streik bei Saarbahn übers Wochenende aus",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/10/gdl-setzt-streik-bei-saarbahn-uebers-wochenende-aus-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/10/gdl-setzt-streik-bei-saarbahn-uebers-wochenende-aus",
-      "published": "Sat, 10 Oct 2026 00:07:21 -0000",
-      "published_display": "10.10.2026 · 00:07 Uhr"
     }
   ]
 }
