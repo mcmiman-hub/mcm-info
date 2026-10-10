@@ -1,6 +1,6 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-10T05:18:23.349345+00:00",
+  "updated": "2026-10-10T05:33:57.831705+00:00",
   "items": [
     {
       "title": "Friedensnobelpreis: Trump kritisiert Auszeichnung Navi Pillays mit dem Friedensnobelpreis",
@@ -8,6 +8,14 @@
       "image": "https://img.zeit.de/politik/ausland/2026-10/friedensnobelpreis-navi-pillay-menschenrechte-israel-genozid-foto-1/original__640x360",
       "link": "https://www.zeit.de/politik/ausland/2026-10/friedensnobelpreis-navi-pillay-menschenrechte-israel-genozid",
       "published": "Sat, 10 Oct 2026 05:16:19 -0000",
+      "published_display": "10.10.2026 · 05:16 Uhr"
+    },
+    {
+      "title": "«Assisted Driving»: Tesla benennt nach Kritik Assistenzsystem in Europa um",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/10/tesla-benennt-nach-kritik-assistenzsystem-in-europa-um-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/10/tesla-benennt-nach-kritik-assistenzsystem-in-europa-um",
+      "published": "Sat, 10 Oct 2026 05:16:00 -0000",
       "published_display": "10.10.2026 · 05:16 Uhr"
     },
     {
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/familie/2026-10/belohnungen-erziehung-kinder-verhalten-psychologie",
       "published": "Sat, 10 Oct 2026 04:09:26 -0000",
       "published_display": "10.10.2026 · 04:09 Uhr"
-    },
-    {
-      "title": "Kriminalität: Bewaffneter Raubüberfall - Polizei sucht nach Täter",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/10/bewaffneter-raubueberfall-fahndung-nach-taeter-in-hamburg-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/10/bewaffneter-raubueberfall-fahndung-nach-taeter-in-hamburg",
-      "published": "Sat, 10 Oct 2026 04:06:34 -0000",
-      "published_display": "10.10.2026 · 04:06 Uhr"
     }
   ]
 }
