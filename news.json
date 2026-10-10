@@ -1,7 +1,39 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-10T04:18:57.050742+00:00",
+  "updated": "2026-10-10T04:36:53.977191+00:00",
   "items": [
+    {
+      "title": "Dieselpreise in den USA: Warum Trump den Diesel-Deal mit Putin braucht",
+      "summary": "Die USA wollen Treibstoff aus russischer Produktion kaufen und dafür Sanktionen aussetzen. Der Dieselpreis wird dadurch wohl nicht gesenkt.",
+      "image": "https://img.zeit.de/politik/ausland/2026-10/dieselpreise-usa-donald-trump-russland-sanktionen-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/dieselpreise-usa-donald-trump-russland-sanktionen",
+      "published": "Sat, 10 Oct 2026 04:35:04 -0000",
+      "published_display": "10.10.2026 · 04:35 Uhr"
+    },
+    {
+      "title": "Angst im Zirkus: Clownschule statt Revier - Tramitz und eine Kindheitsangst",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/10/clownschule-statt-revier-tramitz-und-eine-kindheitsangst-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/10/clownschule-statt-revier-tramitz-und-eine-kindheitsangst",
+      "published": "Sat, 10 Oct 2026 04:30:04 -0000",
+      "published_display": "10.10.2026 · 04:30 Uhr"
+    },
+    {
+      "title": "Verkehr: Auto erfasst E-Scooter – Fahrer schwer verletzt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/10/auto-erfasst-e-scooter-fahrer-in-lebensgefahr-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/10/auto-erfasst-e-scooter-fahrer-in-lebensgefahr",
+      "published": "Sat, 10 Oct 2026 04:24:49 -0000",
+      "published_display": "10.10.2026 · 04:24 Uhr"
+    },
+    {
+      "title": "Hinrichtung in Texas: Trump: War an Livestream-Entscheidung nicht beteiligt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/10/trump-war-an-livestream-entscheidung-nicht-beteiligt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/10/trump-war-an-livestream-entscheidung-nicht-beteiligt",
+      "published": "Sat, 10 Oct 2026 04:21:44 -0000",
+      "published_display": "10.10.2026 · 04:21 Uhr"
+    },
     {
       "title": "Barbara Buser: Die Architektin, die keine neuen Häuser bauen will",
       "summary": "Die Schweizer Architektin Barbara Buser zeigt, wie aus alten Bauten begehrte Wohnungen, Konzertsäle und Kletterhallen werden. Dazu müssen Anwohner mitgestalten dürfen.",
@@ -89,38 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/10/zwei-haeuser-wegen-defekter-gasleitung-evakuiert",
       "published": "Sat, 10 Oct 2026 03:37:44 -0000",
       "published_display": "10.10.2026 · 03:37 Uhr"
-    },
-    {
-      "title": "Fotografie: Bilder des Tages",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/10/bilder-des-tages-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/10/bilder-des-tages",
-      "published": "Sat, 10 Oct 2026 03:36:51 -0000",
-      "published_display": "10.10.2026 · 03:36 Uhr"
-    },
-    {
-      "title": "US-Präsident hadert: Trump kennt Nobelpreisträgerin nicht: «Trotzdem Glückwunsch»",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/10/trump-kennt-nobelpreistraegerin-nicht-trotzdem-glueckwunsch-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/10/trump-kennt-nobelpreistraegerin-nicht-trotzdem-glueckwunsch",
-      "published": "Sat, 10 Oct 2026 03:31:10 -0000",
-      "published_display": "10.10.2026 · 03:31 Uhr"
-    },
-    {
-      "title": "Bilanz: Weniger Waldbrände in Mecklenburg-Vorpommern als 2025",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/10/weniger-waldbraende-in-mecklenburg-vorpommern-als-2025-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/10/weniger-waldbraende-in-mecklenburg-vorpommern-als-2025",
-      "published": "Sat, 10 Oct 2026 03:30:05 -0000",
-      "published_display": "10.10.2026 · 03:30 Uhr"
-    },
-    {
-      "title": "Donald Trump: Trump zieht mit Clinton-Klage vor das oberste Gericht",
-      "summary": "Wegen einer unseriösen Klage gegen Hillary Clinton hat der US-Präsident bereits eine Millionenstrafe bekommen. Nun wendet sich Trump in dem Fall an den Supreme Court.",
-      "image": "https://img.zeit.de/politik/ausland/2026-10/donald-trump-hillary-clinton-klage-oberster-gerichtshof-russland-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/donald-trump-hillary-clinton-klage-oberster-gerichtshof-russland",
-      "published": "Sat, 10 Oct 2026 03:17:12 -0000",
-      "published_display": "10.10.2026 · 03:17 Uhr"
     }
   ]
 }
