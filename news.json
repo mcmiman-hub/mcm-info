@@ -1,7 +1,15 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-10T02:35:13.266947+00:00",
+  "updated": "2026-10-10T02:50:10.462942+00:00",
   "items": [
+    {
+      "title": "Fußball-Bundesliga: «X-Faktor» Füllkrug trifft weiter: DFB-Rückkehr in Aussicht?",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/10/x-faktor-fuellkrug-trifft-weiter-dfb-rueckkehr-in-aussicht-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/10/x-faktor-fuellkrug-trifft-weiter-dfb-rueckkehr-in-aussicht",
+      "published": "Sat, 10 Oct 2026 02:44:04 -0000",
+      "published_display": "10.10.2026 · 02:44 Uhr"
+    },
     {
       "title": "Laufsport: München Marathon sorgt für Ausfälle im Nahverkehr",
       "summary": "",
@@ -112,14 +120,6 @@
       "image": "https://img.zeit.de/news/2026-10/10/gemeinsam-statt-einsam-warum-es-clubs-zum-spazieren-gibt-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-10/10/gemeinsam-statt-einsam-warum-es-clubs-zum-spazieren-gibt",
       "published": "Sat, 10 Oct 2026 02:00:11 -0000",
-      "published_display": "10.10.2026 · 02:00 Uhr"
-    },
-    {
-      "title": "Berufseinstieg: Knapp fünf Prozent der Azubis bekommen Ausbildungsbeihilfe",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/10/knapp-fuenf-prozent-der-azubis-bekommen-ausbildungsbeihilfe-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/10/knapp-fuenf-prozent-der-azubis-bekommen-ausbildungsbeihilfe",
-      "published": "Sat, 10 Oct 2026 02:00:10 -0000",
       "published_display": "10.10.2026 · 02:00 Uhr"
     }
   ]
