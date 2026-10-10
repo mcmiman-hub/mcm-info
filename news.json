@@ -1,7 +1,87 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-10T07:58:24.299007+00:00",
+  "updated": "2026-10-10T08:18:38.877509+00:00",
   "items": [
+    {
+      "title": "Todesstrafe: Menschenrechtsbeauftragter fordert die Abschaffung der Todesstrafe",
+      "summary": "Lars Castellucci fordert ein Ende der Todesstrafe. Weltweit wurden im vergangenen Jahr über 2.700 Menschen hingerichtet. In den USA haben Todesstrafen zugenommen.",
+      "image": "https://img.zeit.de/politik/ausland/2026-10/todesstrafe-welttag-abschaffung-usa-donald-trump-nidal-hasan-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/todesstrafe-welttag-abschaffung-usa-donald-trump-nidal-hasan",
+      "published": "Sat, 10 Oct 2026 08:15:42 -0000",
+      "published_display": "10.10.2026 · 08:15 Uhr"
+    },
+    {
+      "title": "Brand in Bretten: Feuer in Tierpark – Schuppen vollständig abgebrannt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/10/feuer-in-tierpark-schuppen-vollstaendig-abgebrannt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/10/feuer-in-tierpark-schuppen-vollstaendig-abgebrannt",
+      "published": "Sat, 10 Oct 2026 08:13:37 -0000",
+      "published_display": "10.10.2026 · 08:13 Uhr"
+    },
+    {
+      "title": "Aufwendige Reinigung: Tunnel wegen Schlachtabfällen stundenlang gesperrt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/10/tunnel-wegen-schlachtabfaellen-stundenlang-gesperrt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/10/tunnel-wegen-schlachtabfaellen-stundenlang-gesperrt",
+      "published": "Sat, 10 Oct 2026 08:12:21 -0000",
+      "published_display": "10.10.2026 · 08:12 Uhr"
+    },
+    {
+      "title": "40 Stunden Streik-Pause: GDL setzt Streik bei Saarbahn übers Wochenende aus",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/10/gdl-setzt-streik-bei-saarbahn-uebers-wochenende-aus-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/10/gdl-setzt-streik-bei-saarbahn-uebers-wochenende-aus",
+      "published": "Sat, 10 Oct 2026 08:10:26 -0000",
+      "published_display": "10.10.2026 · 08:10 Uhr"
+    },
+    {
+      "title": "Verkehrsunfall: 18-Jähriger nach Unfall mit Pick-up in Lebensgefahr",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/10/18-jaehriger-nach-unfall-mit-pick-up-in-lebensgefahr-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/10/18-jaehriger-nach-unfall-mit-pick-up-in-lebensgefahr",
+      "published": "Sat, 10 Oct 2026 08:09:49 -0000",
+      "published_display": "10.10.2026 · 08:09 Uhr"
+    },
+    {
+      "title": "Kollision: Drei Schwerverletzte nach Frontalzusammenstoß",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/10/auto-prallt-gegen-baum-drei-schwerverletzte-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/09/auto-prallt-gegen-baum-drei-schwerverletzte",
+      "published": "Sat, 10 Oct 2026 08:08:24 -0000",
+      "published_display": "10.10.2026 · 08:08 Uhr"
+    },
+    {
+      "title": "Taiwan: Taiwans Präsident fordert klare Haltung gegen Chinas Drohungen",
+      "summary": "Taiwan werde keine Unterordnung akzeptieren, sagt Präsident Lai anlässlich des Nationalfeiertags. Sein Land schätze Frieden, werde die Freiheit jedoch nicht aufgeben.",
+      "image": "https://img.zeit.de/politik/ausland/2026-10/taiwan-laie-ching-te-china-indopazifik-usa-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/taiwan-laie-ching-te-china-indopazifik-usa",
+      "published": "Sat, 10 Oct 2026 08:04:21 -0000",
+      "published_display": "10.10.2026 · 08:04 Uhr"
+    },
+    {
+      "title": "Unfall in Chemnitz: Radfahrerin von Auto erfasst – schwerer Sturz",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/10/radfahrerin-von-auto-erfasst-schwerer-sturz-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/10/radfahrerin-von-auto-erfasst-schwerer-sturz",
+      "published": "Sat, 10 Oct 2026 08:03:57 -0000",
+      "published_display": "10.10.2026 · 08:03 Uhr"
+    },
+    {
+      "title": "Fischmehl: Die verstörende Wahrheit über unseren Lachs",
+      "summary": "Er gilt als nachhaltig. Aber investigative Recherchen zeigen: Der Zuchtlachs, den wir so gern essen, zerstört Meere und Menschen überall auf der Welt.",
+      "image": "https://img.zeit.de/wirtschaft/2026-10/fischmehlproduktion-weltweit-bild/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/2026-10/fischmehl-produktion-lachs-futter-fischerei-ueberfischung",
+      "published": "Sat, 10 Oct 2026 08:00:58 -0000",
+      "published_display": "10.10.2026 · 08:00 Uhr"
+    },
+    {
+      "title": "Glücksspiel: Frau aus Wetteraukreis gewinnt 11,6 Millionen Euro im Lotto",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/10/frau-aus-wetteraukreis-gewinnt-11-6-millionen-euro-im-lotto-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/10/frau-aus-wetteraukreis-gewinnt-11-6-millionen-euro-im-lotto",
+      "published": "Sat, 10 Oct 2026 07:58:40 -0000",
+      "published_display": "10.10.2026 · 07:58 Uhr"
+    },
     {
       "title": "Kriminalität: Rasante Flucht durch Lüneburg endet am Bauzaun",
       "summary": "",
@@ -41,86 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/10/hurrikan-isaias-trifft-auf-us-golfkueste",
       "published": "Sat, 10 Oct 2026 07:37:27 -0000",
       "published_display": "10.10.2026 · 07:37 Uhr"
-    },
-    {
-      "title": "Angriff in Thüringen: Unbekannte rauben 20-Jährigen aus",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/10/unbekannte-rauben-20-jaehrigen-aus-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/10/unbekannte-rauben-20-jaehrigen-aus",
-      "published": "Sat, 10 Oct 2026 07:34:40 -0000",
-      "published_display": "10.10.2026 · 07:34 Uhr"
-    },
-    {
-      "title": "Internettrend: Horror-Katze macht Angst - Polizei prüft Videos",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/10/horror-katze-macht-angst-polizei-prueft-videos-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/10/horror-katze-macht-angst-polizei-prueft-videos",
-      "published": "Sat, 10 Oct 2026 07:28:34 -0000",
-      "published_display": "10.10.2026 · 07:28 Uhr"
-    },
-    {
-      "title": "Weg von der Leine?: Solinger O-Bus droht Aus - Bleiben nur zwei Städte übrig?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/10/solinger-o-bus-droht-aus-bleiben-nur-zwei-staedte-uebrig-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/10/solinger-o-bus-droht-aus-bleiben-nur-zwei-staedte-uebrig",
-      "published": "Sat, 10 Oct 2026 07:28:23 -0000",
-      "published_display": "10.10.2026 · 07:28 Uhr"
-    },
-    {
-      "title": "Leute: Das regt Ross Antony an seinem Partner auf",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/10/das-regt-ross-antony-an-seinem-partner-auf-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/10/das-regt-ross-antony-an-seinem-partner-auf",
-      "published": "Sat, 10 Oct 2026 07:27:18 -0000",
-      "published_display": "10.10.2026 · 07:27 Uhr"
-    },
-    {
-      "title": "Geldanlage: »Wenn ich so ein Klumpenrisiko im Depot hätte, würde ich Angst haben«",
-      "summary": "Otto Koch erklärt seit 42 Jahren als Finanzberater, wie man Geld anlegt. Hier verrät er, was er 30- oder 60-Jährigen empfiehlt und warum er Crashpropheten nicht traut.",
-      "image": "https://img.zeit.de/zeit-magazin/2026-10/geldanlage-honorarberater-vermoegen-anlegen-otto-koch-bild/original__640x360",
-      "link": "https://www.zeit.de/zeit-magazin/leben/2026-10/geldanlage-honorarberater-vermoegen-anlegen-otto-koch",
-      "published": "Sat, 10 Oct 2026 07:17:24 -0000",
-      "published_display": "10.10.2026 · 07:17 Uhr"
-    },
-    {
-      "title": "Lage der CDU: Vor CDU-Klausur: Frage von Gerechtigkeit rückt in den Fokus",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/10/vor-cdu-klausur-frage-von-gerechtigkeit-rueckt-in-den-fokus-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/10/vor-cdu-klausur-frage-von-gerechtigkeit-rueckt-in-den-fokus",
-      "published": "Sat, 10 Oct 2026 07:07:09 -0000",
-      "published_display": "10.10.2026 · 07:07 Uhr"
-    },
-    {
-      "title": "Verkehr: Umgekippter Lastwagen: A1 vor Fehmarn gesperrt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/10/umgekippter-lastwagen-a1-vor-fehmarn-gesperrt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/10/umgekippter-lastwagen-a1-vor-fehmarn-gesperrt",
-      "published": "Sat, 10 Oct 2026 07:06:09 -0000",
-      "published_display": "10.10.2026 · 07:06 Uhr"
-    },
-    {
-      "title": "Verkehrsunfall: Auto landet im Graben - Fahrer lebensgefährlich verletzt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/10/auto-landet-im-graben-fahrer-lebensgefaehrlich-verletzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/10/auto-landet-im-graben-fahrer-lebensgefaehrlich-verletzt",
-      "published": "Sat, 10 Oct 2026 07:00:24 -0000",
-      "published_display": "10.10.2026 · 07:00 Uhr"
-    },
-    {
-      "title": "10. Todestag von Manfred Krug: 40 Jahre «Liebling Kreuzberg»: Zwei neue Kanzlei-Filme",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/10/40-jahre-liebling-kreuzberg-zwei-neue-kanzlei-filme-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/10/40-jahre-liebling-kreuzberg-zwei-neue-kanzlei-filme",
-      "published": "Sat, 10 Oct 2026 07:00:05 -0000",
-      "published_display": "10.10.2026 · 07:00 Uhr"
-    },
-    {
-      "title": "Fortsetzung der ZDF-Reihe: Neuer «Friesland»-Film: Wer stiehlt denn eine Mumie?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/10/neuer-friesland-film-wer-stiehlt-denn-eine-mumie-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/10/neuer-friesland-film-wer-stiehlt-denn-eine-mumie",
-      "published": "Sat, 10 Oct 2026 07:00:05 -0000",
-      "published_display": "10.10.2026 · 07:00 Uhr"
     }
   ]
 }
