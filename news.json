@@ -1,9 +1,33 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-10T04:36:53.977191+00:00",
+  "updated": "2026-10-10T04:52:37.804475+00:00",
   "items": [
     {
-      "title": "Dieselpreise in den USA: Warum Trump den Diesel-Deal mit Putin braucht",
+      "title": "Friedensnobelpreis: Trump kritisiert Auszeichnung Navi Pillays mit dem Friedensnobelpreis",
+      "summary": "Laut dem US-Präsidenten hätte er selbst den Friedensnobelpreis erhalten sollen. Die Ehrung der Südafrikanerin Pillay sei »beschämend«, er habe noch nie von ihr gehört.",
+      "image": "",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/friedensnobelpreis-navi-pillay-menschenrechte-israel-genozid",
+      "published": "Sat, 10 Oct 2026 04:50:17 -0000",
+      "published_display": "10.10.2026 · 04:50 Uhr"
+    },
+    {
+      "title": "CDU-Klausur: Thüringens Regierungschef vor Klausur: CDU braucht Neustart",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/10/thueringens-regierungschef-vor-klausur-cdu-bracht-neustart-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/10/thueringens-regierungschef-vor-klausur-cdu-bracht-neustart",
+      "published": "Sat, 10 Oct 2026 04:45:15 -0000",
+      "published_display": "10.10.2026 · 04:45 Uhr"
+    },
+    {
+      "title": "Bewerbung um Spitzenamt: Mronz: Als DOSB-Chef mehr Einfluss für Olympia in München",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/10/mronz-als-dosb-chef-mehr-einfluss-fuer-olympia-in-muenchen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/10/mronz-als-dosb-chef-mehr-einfluss-fuer-olympia-in-muenchen",
+      "published": "Sat, 10 Oct 2026 04:40:04 -0000",
+      "published_display": "10.10.2026 · 04:40 Uhr"
+    },
+    {
+      "title": "Dieselpreise in den USA: Warum Trump den Dieseldeal mit Putin braucht",
       "summary": "Die USA wollen Treibstoff aus russischer Produktion kaufen und dafür Sanktionen aussetzen. Der Dieselpreis wird dadurch wohl nicht gesenkt.",
       "image": "https://img.zeit.de/politik/ausland/2026-10/dieselpreise-usa-donald-trump-russland-sanktionen-foto-1/original__640x360",
       "link": "https://www.zeit.de/politik/ausland/2026-10/dieselpreise-usa-donald-trump-russland-sanktionen",
@@ -97,30 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/10/potsdams-ob-zu-sparkurs-das-wird-schmerzlich",
       "published": "Sat, 10 Oct 2026 04:00:06 -0000",
       "published_display": "10.10.2026 · 04:00 Uhr"
-    },
-    {
-      "title": "Untersuchungen im Labor: Bundesverband warnt vor Kontroll-Lücken bei Restaurants",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/10/bundesverband-warnt-vor-kontroll-luecken-bei-restaurants-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/10/bundesverband-warnt-vor-kontroll-luecken-bei-restaurants",
-      "published": "Sat, 10 Oct 2026 04:00:06 -0000",
-      "published_display": "10.10.2026 · 04:00 Uhr"
-    },
-    {
-      "title": "Tag der Deutschen Einheit: 68 Strafanzeigen und Kritik – Polizeibilanz zum Einheitsfest",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/10/68-strafanzeigen-und-kritik-polizeibilanz-zum-einheitsfest-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/10/68-strafanzeigen-und-kritik-polizeibilanz-zum-einheitsfest",
-      "published": "Sat, 10 Oct 2026 04:00:05 -0000",
-      "published_display": "10.10.2026 · 04:00 Uhr"
-    },
-    {
-      "title": "Feuerwehr im Einsatz: Zwei Häuser wegen defekter Gasleitung evakuiert",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/10/zwei-haeuser-wegen-defekter-gasleitung-evakuiert-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/10/zwei-haeuser-wegen-defekter-gasleitung-evakuiert",
-      "published": "Sat, 10 Oct 2026 03:37:44 -0000",
-      "published_display": "10.10.2026 · 03:37 Uhr"
     }
   ]
 }
