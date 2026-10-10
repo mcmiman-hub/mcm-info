@@ -1,7 +1,23 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-10T07:48:13.575457+00:00",
+  "updated": "2026-10-10T07:58:24.299007+00:00",
   "items": [
+    {
+      "title": "Kriminalität: Rasante Flucht durch Lüneburg endet am Bauzaun",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/10/rasante-flucht-durch-lueneburg-endet-am-bauzaun-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/10/rasante-flucht-durch-lueneburg-endet-am-bauzaun",
+      "published": "Sat, 10 Oct 2026 07:51:19 -0000",
+      "published_display": "10.10.2026 · 07:51 Uhr"
+    },
+    {
+      "title": "Indien: Indische Polizei nimmt vor Protesten Chef der Kakerlakenbewegung fest",
+      "summary": "Vor Protesten gegen eine Wahlrechtsreform hat die Polizei den Kakerlakenbewegungs-Chef Dipke festgenommen. Die Bewegung fordert den Rücktritt des Wahlkommissionsleiters.",
+      "image": "https://img.zeit.de/politik/ausland/2026-10/abhijeet-dipke-cockroach-janta-party-protest-delhi-polizei-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/abhijeet-dipke-cockroach-janta-party-protest-delhi-polizei",
+      "published": "Sat, 10 Oct 2026 07:48:59 -0000",
+      "published_display": "10.10.2026 · 07:48 Uhr"
+    },
     {
       "title": "Straubing: Millionenschaden bei Brand mehrerer Fahrzeuge",
       "summary": "",
@@ -33,14 +49,6 @@
       "link": "https://www.zeit.de/news/2026-10/10/unbekannte-rauben-20-jaehrigen-aus",
       "published": "Sat, 10 Oct 2026 07:34:40 -0000",
       "published_display": "10.10.2026 · 07:34 Uhr"
-    },
-    {
-      "title": "Indien: Indische Polizei nimmt vor Protesten Chef der Kakerlakenbewegung fest",
-      "summary": "Vor Protesten gegen eine Wahlrechtsreform hat die Polizei den Kakerlakenbewegungs-Chef Dipke festgenommen. Die Bewegung fordert den Rücktritt des Wahlkommissionsleiters.",
-      "image": "https://img.zeit.de/politik/ausland/2026-10/abhijeet-dipke-cockroach-janta-party-protest-delhi-polizei-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/abhijeet-dipke-cockroach-janta-party-protest-delhi-polizei",
-      "published": "Sat, 10 Oct 2026 07:32:17 -0000",
-      "published_display": "10.10.2026 · 07:32 Uhr"
     },
     {
       "title": "Internettrend: Horror-Katze macht Angst - Polizei prüft Videos",
@@ -113,14 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/10/neuer-friesland-film-wer-stiehlt-denn-eine-mumie",
       "published": "Sat, 10 Oct 2026 07:00:05 -0000",
       "published_display": "10.10.2026 · 07:00 Uhr"
-    },
-    {
-      "title": "Döner: Das isst Deutschland",
-      "summary": "Im Moment politischer Unruhe kommt in Berlin ein Gemüsedöner ins Museum. Zufall? Nein! Wenn Linke und Konservative noch etwas gemeinsam haben, dann Lust auf dieses Brot.",
-      "image": "https://img.zeit.de/feuilleton/2026-10/doener-mustafas-gemuese-kebap-berlin-madame-tussauds-markus-soeder-bild-3/original__640x360",
-      "link": "https://www.zeit.de/feuilleton/2026-10/doener-mustafas-gemuese-kebap-berlin-madame-tussauds-markus-soeder",
-      "published": "Sat, 10 Oct 2026 06:58:29 -0000",
-      "published_display": "10.10.2026 · 06:58 Uhr"
     }
   ]
 }
