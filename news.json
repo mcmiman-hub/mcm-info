@@ -1,7 +1,63 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-15T23:13:32.304528+00:00",
+  "updated": "2026-10-16T01:26:05.356984+00:00",
   "items": [
+    {
+      "title": "Kriminalität: Fünf Tote bei Gewalttat an Grundschule in Oregon",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/16/medien-fuenf-tote-bei-gewalttat-an-grundschule-in-oregon-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/16/medien-fuenf-tote-bei-gewalttat-an-grundschule-in-oregon",
+      "published": "Fri, 16 Oct 2026 01:11:40 -0000",
+      "published_display": "16.10.2026 · 01:11 Uhr"
+    },
+    {
+      "title": "Krieg gegen die Ukraine: Kyjiw nach russischem Angriff teilweise ohne Strom",
+      "summary": "In Teilen Kyjiws und der umliegenden Region ist nach russischen Angriffen der Strom ausgefallen. Wadephul stellt sich nach Trump-Kritik hinter Selenskyj. Das Liveblog",
+      "image": "https://img.zeit.de/politik/ausland/2026-10/russia-ukraine-war-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "published": "Fri, 16 Oct 2026 01:08:50 -0000",
+      "published_display": "16.10.2026 · 01:08 Uhr"
+    },
+    {
+      "title": "USA: Mindestens fünf Tote nach Schüssen an Grundschule in Oregon",
+      "summary": "Ein 16-Jähriger soll in Oregon an einer Grundschule das Feuer eröffnet haben. Es gibt fünf Tote, darunter drei Kinder. Der mutmaßliche Schütze wurde erschossen.",
+      "image": "https://img.zeit.de/gesellschaft/2026-10/gewalttat-an-grundschule-in-oregon-bild/original__640x360",
+      "link": "https://www.zeit.de/gesellschaft/2026-10/bend-oregon-silver-rail-elementary-school-schuesse",
+      "published": "Fri, 16 Oct 2026 00:52:01 -0000",
+      "published_display": "16.10.2026 · 00:52 Uhr"
+    },
+    {
+      "title": "Unfall: 16-Jähriger stirbt nach Zusammenstoß mit Lkw",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/16/16-jaehriger-stirbt-nach-zusammenstoss-mit-lkw-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/16/16-jaehriger-stirbt-nach-zusammenstoss-mit-lkw",
+      "published": "Fri, 16 Oct 2026 00:49:30 -0000",
+      "published_display": "16.10.2026 · 00:49 Uhr"
+    },
+    {
+      "title": "Mittelfranken: Mann stirbt nach Auffahrunfall auf A9 - drei Verletzte",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/16/mann-stirbt-nach-auffahrunfall-auf-a9-drei-verletzte-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/16/mann-stirbt-nach-auffahrunfall-auf-a9-drei-verletzte",
+      "published": "Fri, 16 Oct 2026 00:16:58 -0000",
+      "published_display": "16.10.2026 · 00:16 Uhr"
+    },
+    {
+      "title": "Antisemitisches Attentat in Halle: Jüdische Studierende berichten von Morddrohungen in Halle",
+      "summary": "Mehrere Menschen verwehrten dem AfD-Politiker Hans-Thomas Tillschneider den Zugang zur Synagoge in Halle. Nun berichten jüdische Studierende von Hass und Morddrohungen.",
+      "image": "https://img.zeit.de/politik/2026-10/gedenken-nach-terroranschlag-in-halle-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-10/blockade-halle-hans-thomas-tillschneider-jsud-ron-dekel",
+      "published": "Thu, 15 Oct 2026 23:54:26 -0000",
+      "published_display": "15.10.2026 · 23:54 Uhr"
+    },
+    {
+      "title": "Unfall: Zwei Schwerverletzte bei Frontalcrash in Aachen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/16/zwei-schwerverletzte-bei-frontalcrash-in-aachen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/16/zwei-schwerverletzte-bei-frontalcrash-in-aachen",
+      "published": "Thu, 15 Oct 2026 23:18:46 -0000",
+      "published_display": "15.10.2026 · 23:18 Uhr"
+    },
     {
       "title": "Ukraine-Krieg: Selenskyj beim EU-Gipfel: Finanzen, Trump und Starlink",
       "summary": "",
@@ -9,14 +65,6 @@
       "link": "https://www.zeit.de/news/2026-10/16/selenskyj-beim-eu-gipfel-finanzen-trump-und-starlink",
       "published": "Thu, 15 Oct 2026 23:09:31 -0000",
       "published_display": "15.10.2026 · 23:09 Uhr"
-    },
-    {
-      "title": "Kriminalität: Medien: Fünf Tote bei Gewalttat an Grundschule in Oregon",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/16/medien-fuenf-tote-bei-gewalttat-an-grundschule-in-oregon-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/16/medien-fuenf-tote-bei-gewalttat-an-grundschule-in-oregon",
-      "published": "Thu, 15 Oct 2026 23:00:16 -0000",
-      "published_display": "15.10.2026 · 23:00 Uhr"
     },
     {
       "title": "Etwa vier Euro Preisaufschlag: Teure Zigaretten: Bundestag billigt höhere Tabaksteuern",
@@ -73,54 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/15/was-geschah-am-16-oktober",
       "published": "Thu, 15 Oct 2026 21:55:04 -0000",
       "published_display": "15.10.2026 · 21:55 Uhr"
-    },
-    {
-      "title": "Neuer Arbeitsminister: Schweitzer glaubt an Konsens bei Rentenreform",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/15/schweitzer-glaubt-an-konsens-bei-rentenreform-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/15/schweitzer-glaubt-an-konsens-bei-rentenreform",
-      "published": "Thu, 15 Oct 2026 21:54:43 -0000",
-      "published_display": "15.10.2026 · 21:54 Uhr"
-    },
-    {
-      "title": "Conference League: Zwei Eigentore bei Schusters Jubiläum: Freiburg siegt erneut",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/15/zwei-eigentore-bei-schusters-jubilaeum-freiburg-siegt-erneut-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/15/zwei-eigentore-bei-schusters-jubilaeum-freiburg-siegt-erneut",
-      "published": "Thu, 15 Oct 2026 21:45:03 -0000",
-      "published_display": "15.10.2026 · 21:45 Uhr"
-    },
-    {
-      "title": "Rauchen in Deutschland: Bundestag stimmt für höhere Tabaksteuer",
-      "summary": "Das Rauchen in Deutschland wird teurer. Die Tabaksteuer soll bis 2030 schrittweise steigen. Eine Schachtel Zigaretten könnte dann fast zwölf Euro kosten.",
-      "image": "https://img.zeit.de/politik/2026-10/rauchen-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-10/tabaksteuer-erhoehung-bundestag-zigarettenpreis-schwarzmarkt",
-      "published": "Thu, 15 Oct 2026 21:33:19 -0000",
-      "published_display": "15.10.2026 · 21:33 Uhr"
-    },
-    {
-      "title": "Automobilindustrie: Deutschland und Frankreich vor Einigung bei Verbrenner-Aus",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/15/deutschland-und-frankreich-vor-einigung-bei-verbrenner-aus-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/15/deutschland-und-frankreich-vor-einigung-bei-verbrenner-aus",
-      "published": "Thu, 15 Oct 2026 21:27:32 -0000",
-      "published_display": "15.10.2026 · 21:27 Uhr"
-    },
-    {
-      "title": "Feuerwehreinsatz: Lkw-Anhänger mit Altpapier brennt auf A9 - lange Sperrungen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/15/brennender-lastwagen-anhaenger-auf-a9-sperrungen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/15/brennender-lastwagen-anhaenger-auf-a9-sperrungen",
-      "published": "Thu, 15 Oct 2026 21:24:23 -0000",
-      "published_display": "15.10.2026 · 21:24 Uhr"
-    },
-    {
-      "title": "Ringen um Billionen-Haushalt: Neuer Vorschlag soll Bewegung in EU-Haushaltsstreit bringen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/15/merz-rechnet-mit-sehr-sehr-schwierigen-eu-verhandlungen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/15/merz-rechnet-mit-sehr-sehr-schwierigen-eu-verhandlungen",
-      "published": "Thu, 15 Oct 2026 21:21:38 -0000",
-      "published_display": "15.10.2026 · 21:21 Uhr"
     }
   ]
 }
