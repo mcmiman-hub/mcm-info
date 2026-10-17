@@ -1,126 +1,126 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-17T12:27:47.204233+00:00",
+  "updated": "2026-10-17T15:52:45.109543+00:00",
   "items": [
     {
-      "title": "Bei Babenhausen: Crash nach Wendemanöver auf der B26: Mensch schwer verletzt",
+      "title": "Fußball-Bundesliga: Elversberg jubelt nach Blitzstart gegen FC Augsburg",
       "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/17/crash-nach-wendemanoever-auf-der-b26-mensch-schwer-verletzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/17/crash-nach-wendemanoever-auf-der-b26-mensch-schwer-verletzt",
-      "published": "Sat, 17 Oct 2026 12:25:09 -0000",
-      "published_display": "17.10.2026 · 12:25 Uhr"
+      "image": "https://img.zeit.de/news/2026-10/17/elversberg-jubelt-nach-blitzstart-gegen-fc-augsburg-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/17/elversberg-jubelt-nach-blitzstart-gegen-fc-augsburg",
+      "published": "Sat, 17 Oct 2026 15:51:19 -0000",
+      "published_display": "17.10.2026 · 15:51 Uhr"
     },
     {
-      "title": "In der Innenstadt: 800 Menschen protestieren gegen AfD-Jugend in Neumünster",
+      "title": "Loop-One-Festival: Biathlon-Event in München: DSV-Skijäger verpassen Podest",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/17/biathlon-event-in-muenchen-hettich-walz-wird-vierte-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/17/biathlon-event-in-muenchen-hettich-walz-wird-vierte",
+      "published": "Sat, 17 Oct 2026 15:51:19 -0000",
+      "published_display": "17.10.2026 · 15:51 Uhr"
+    },
+    {
+      "title": "Nach der Wahl: SPD, Grüne und Linke in Berlin prüfen Verpackungssteuer",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/17/spd-gruene-und-linke-in-berlin-pruefen-verpackungssteuer-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/17/spd-gruene-und-linke-in-berlin-pruefen-verpackungssteuer",
+      "published": "Sat, 17 Oct 2026 15:48:22 -0000",
+      "published_display": "17.10.2026 · 15:48 Uhr"
+    },
+    {
+      "title": "Bundesliga, 6. Spieltag – Samstag: Dortmund nur Remis gegen Union, Hamburg und Mainz siegen",
+      "summary": "Dortmund kann gegen Union erneut keinen Sieg erringen, steht aber vorläufig auf Platz eins. Elversberg und Augsburg liefern sich ein torreiches Spiel.",
+      "image": "https://img.zeit.de/sport/2026-10/bundesliga-borussia-dortmund-gegen-union-berlin-bild/original__640x360",
+      "link": "https://www.zeit.de/sport/2026-10/bundesliga-6-spieltag-dortmund-union-elversberg-augsburg-bremen-paderborn",
+      "published": "Sat, 17 Oct 2026 15:48:17 -0000",
+      "published_display": "17.10.2026 · 15:48 Uhr"
+    },
+    {
+      "title": "Fußball-Bundesliga: Nächster Rückschlag für BVB - Füllkrug rettet Bremen Punkt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/17/naechster-rueckschlag-fuer-bvb-fuellkrug-rettet-bremen-punkt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/17/naechster-rueckschlag-fuer-bvb-fuellkrug-rettet-bremen-punkt",
+      "published": "Sat, 17 Oct 2026 15:44:42 -0000",
+      "published_display": "17.10.2026 · 15:44 Uhr"
+    },
+    {
+      "title": "Fußball-Bundesliga: 2:2 nach 0:2 - Werder schafft die nächste Aufholjagd",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/17/2-2-nach-0-2-werder-schafft-die-naechste-aufholjagd-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/17/2-2-nach-0-2-werder-schafft-die-naechste-aufholjagd",
+      "published": "Sat, 17 Oct 2026 15:38:22 -0000",
+      "published_display": "17.10.2026 · 15:38 Uhr"
+    },
+    {
+      "title": "Tesla Roadster: Der Tesla, der die Fliege macht",
+      "summary": "Elon Musks fliegender Tesla soll können, was es bislang nur in Sci-Fi-Geschichten gab. Ein paar Sekunden hält sich das Gefährt in der Luft. Ist das mehr als Show?",
+      "image": "https://img.zeit.de/wissenschaft/2026-10/tesla-roadster-elon-musk-texas-technologie-bild/original__640x360",
+      "link": "https://www.zeit.de/wissenschaft/2026-10/tesla-roadster-elon-musk-texas-technologie",
+      "published": "Sat, 17 Oct 2026 15:34:42 -0000",
+      "published_display": "17.10.2026 · 15:34 Uhr"
+    },
+    {
+      "title": "Fußball-Bundesliga: Muheim schießt den Hamburger SV gegen Stuttgart ins Glück",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/17/muheim-schiesst-den-hamburger-sv-gegen-stuttgart-ins-glueck-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/17/muheim-schiesst-den-hamburger-sv-gegen-stuttgart-ins-glueck",
+      "published": "Sat, 17 Oct 2026 15:31:09 -0000",
+      "published_display": "17.10.2026 · 15:31 Uhr"
+    },
+    {
+      "title": "Fußball-Bundesliga: Sorge um Karetsas: Dortmund spielt bei Union nur 0:0",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/17/sorge-um-karetsas-dortmund-spielt-bei-union-nur-0-0-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/17/sorge-um-karetsas-dortmund-spielt-bei-union-nur-0-0",
+      "published": "Sat, 17 Oct 2026 15:30:40 -0000",
+      "published_display": "17.10.2026 · 15:30 Uhr"
+    },
+    {
+      "title": "Nominierungsparteitag: Spitzenduo soll Linke zurück in NRW-Landtag führen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/17/linke-waehlt-ihr-personal-fuer-die-nrw-landtagswahl-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/17/linke-waehlt-ihr-personal-fuer-die-nrw-landtagswahl",
+      "published": "Sat, 17 Oct 2026 15:28:18 -0000",
+      "published_display": "17.10.2026 · 15:28 Uhr"
+    },
+    {
+      "title": "Fußball-Bundesliga: Harmloses Schalke weiter ohne Heimtor: Mainz siegt erneut",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/17/harmloses-schalke-weiter-ohne-heimtor-mainz-siegt-erneut-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/17/harmloses-schalke-weiter-ohne-heimtor-mainz-siegt-erneut",
+      "published": "Sat, 17 Oct 2026 15:27:58 -0000",
+      "published_display": "17.10.2026 · 15:27 Uhr"
+    },
+    {
+      "title": "Krankenkassenreform: Die private Krankenkasse? Abschaffen! Und die gesetzliche? Die auch",
+      "summary": "Jens Baas, der Chef der Techniker Krankenkasse, fordert einen Neustart bei der Krankenversicherung. Wie der aussehen könnte und was das bringen würde.",
+      "image": "https://img.zeit.de/wirtschaft/2026-10/krankenkassen-reform-privat-gesetzlich-beitraege-leistungen-bild/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/2026-10/krankenkassen-reform-privat-gesetzlich-beitraege-leistungen",
+      "published": "Sat, 17 Oct 2026 15:19:53 -0000",
+      "published_display": "17.10.2026 · 15:19 Uhr"
+    },
+    {
+      "title": "In der Innenstadt: Hunderte Menschen protestieren gegen AfD-Jugend",
       "summary": "",
       "image": "https://img.zeit.de/news/2026-10/17/800-menschen-protestieren-gegen-afd-jugend-in-neumuenster-image-group/original__640x360",
       "link": "https://www.zeit.de/news/2026-10/17/800-menschen-protestieren-gegen-afd-jugend-in-neumuenster",
-      "published": "Sat, 17 Oct 2026 12:24:51 -0000",
-      "published_display": "17.10.2026 · 12:24 Uhr"
+      "published": "Sat, 17 Oct 2026 15:18:36 -0000",
+      "published_display": "17.10.2026 · 15:18 Uhr"
     },
     {
-      "title": "Nach der Wahl: Parteien wollen zum «Ende der Sondierungen» informieren",
+      "title": "Gewalttat in NRW: Messerangriff im Seniorenheim: Verdächtiger saß im Rollstuhl",
       "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/17/parteien-setzen-dreier-sondierungen-in-berlin-fort-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/17/parteien-setzen-dreier-sondierungen-in-berlin-fort",
-      "published": "Sat, 17 Oct 2026 12:24:39 -0000",
-      "published_display": "17.10.2026 · 12:24 Uhr"
+      "image": "https://img.zeit.de/news/2026-10/17/angriff-in-seniorenheim-eine-tote-und-zwei-schwerverletzte-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/17/angriff-in-seniorenheim-eine-tote-und-zwei-schwerverletzte",
+      "published": "Sat, 17 Oct 2026 15:18:08 -0000",
+      "published_display": "17.10.2026 · 15:18 Uhr"
     },
     {
-      "title": "Massenproteste in Frankreich - Zehntausende demonstrieren gegen hohe Preise",
-      "summary": "In Frankreich haben landesweit Massenproteste gegen hohe Lebenshaltungskosten und soziale Ungleichheit begonnen.",
-      "image": "https://img.zeit.de/video/2026-10/6407010608112-still/original__640x360",
-      "link": "https://www.zeit.de/video/2026-10/massenproteste-in-frankreich-zehntausende-demonstrieren-gegen-hohe-preise",
-      "published": "Sat, 17 Oct 2026 12:23:28 -0000",
-      "published_display": "17.10.2026 · 12:23 Uhr"
-    },
-    {
-      "title": "Sprengung einer alten Bombe: Schafherde muss nach Bombenfund umziehen",
+      "title": "Carsharing kriminell: Junge Männer fahren mit gestohlenem Leihauto in Garagenwand",
       "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/17/schafherde-muss-nach-bombenfund-umziehen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/17/schafherde-muss-nach-bombenfund-umziehen",
-      "published": "Sat, 17 Oct 2026 12:18:14 -0000",
-      "published_display": "17.10.2026 · 12:18 Uhr"
-    },
-    {
-      "title": "Kriminalität: Fahrgast attackiert Busfahrer in der Oberlausitz",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/17/fahrgast-attackiert-busfahrer-in-der-oberlausitz-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/17/fahrgast-attackiert-busfahrer-in-der-oberlausitz",
-      "published": "Sat, 17 Oct 2026 12:09:56 -0000",
-      "published_display": "17.10.2026 · 12:09 Uhr"
-    },
-    {
-      "title": "Verkehrsunfall: Motorradfahrer bei Ausweichmanöver schwer verletzt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/17/motorradfahrer-bei-ausweichmanoever-schwer-verletzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/17/motorradfahrer-bei-ausweichmanoever-schwer-verletzt",
-      "published": "Sat, 17 Oct 2026 12:09:46 -0000",
-      "published_display": "17.10.2026 · 12:09 Uhr"
-    },
-    {
-      "title": "Nach Streit mit ihrem Sohn: Mutter sperrt sich aus – Essen auf Herd fängt Feuer",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/17/mutter-sperrt-sich-aus-essen-auf-herd-faengt-feuer-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/17/mutter-sperrt-sich-aus-essen-auf-herd-faengt-feuer",
-      "published": "Sat, 17 Oct 2026 12:05:39 -0000",
-      "published_display": "17.10.2026 · 12:05 Uhr"
-    },
-    {
-      "title": "Bildung: 41 angehende Ärzte starten Studium über Landarztquote",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/17/41-angehende-aerzte-starten-studium-ueber-landarztquote-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/17/41-angehende-aerzte-starten-studium-ueber-landarztquote",
-      "published": "Sat, 17 Oct 2026 11:57:01 -0000",
-      "published_display": "17.10.2026 · 11:57 Uhr"
-    },
-    {
-      "title": "Waffen: Wieder Schüsse in Köln - auf ein Wohnhaus und ein Restaurant",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/17/wieder-schuesse-in-koeln-auf-ein-wohnhaus-und-ein-restaurant-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/17/wieder-schuesse-in-koeln-auf-ein-wohnhaus-und-ein-restaurant",
-      "published": "Sat, 17 Oct 2026 11:53:23 -0000",
-      "published_display": "17.10.2026 · 11:53 Uhr"
-    },
-    {
-      "title": "Neue Gelbwestenbewegung?: Frankreichweite Proteste: Erste Zusammenstöße mit Polizei",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/17/wir-haben-die-schnauze-voll-frankreich-vor-protesttag-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/17/wir-haben-die-schnauze-voll-frankreich-vor-protesttag",
-      "published": "Sat, 17 Oct 2026 11:52:19 -0000",
-      "published_display": "17.10.2026 · 11:52 Uhr"
-    },
-    {
-      "title": "Gesundheit: Kein Abkochgebot mehr in Wiesbaden",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/17/kein-abkochgebot-mehr-in-wiesbaden-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/17/kein-abkochgebot-mehr-in-wiesbaden",
-      "published": "Sat, 17 Oct 2026 11:52:18 -0000",
-      "published_display": "17.10.2026 · 11:52 Uhr"
-    },
-    {
-      "title": "JU-Deutschlandtag: Merz verspricht Junger Union straffen Reformkurs",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/17/winkel-als-ju-vorsitzender-bestaetigt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/16/winkel-als-ju-vorsitzender-bestaetigt",
-      "published": "Sat, 17 Oct 2026 11:47:54 -0000",
-      "published_display": "17.10.2026 · 11:47 Uhr"
-    },
-    {
-      "title": "Brutaler Angriff in Frankfurt: Polizei geht zu Verdächtigen von Schulattacke nach Hause",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/17/polizei-geht-zu-verdaechtigen-von-schulattacke-nach-hause-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/17/polizei-geht-zu-verdaechtigen-von-schulattacke-nach-hause",
-      "published": "Sat, 17 Oct 2026 11:44:54 -0000",
-      "published_display": "17.10.2026 · 11:44 Uhr"
-    },
-    {
-      "title": "Protest gegen die AfD: »Der Protest war spontan. Rechtsextreme gehören nicht in Synagogen«",
-      "summary": "Vorige Woche verwehrte Ron Dekel dem AfD-Mann Hans-Thomas Tillschneider den Zutritt zur Synagoge in Halle. Hier erzählt er, was ihn dazu bewog und was er seither erlebt.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-10/synagoge-halle-hans-thomas-tillschneider-studierendenunion-ron-dekel-bild-01/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-10/synagoge-halle-hans-thomas-tillschneider-studierendenunion-ron-dekel",
-      "published": "Sat, 17 Oct 2026 11:42:27 -0000",
-      "published_display": "17.10.2026 · 11:42 Uhr"
+      "image": "https://img.zeit.de/news/2026-10/17/junge-maenner-fahren-gestohlenes-leihauto-in-die-wand-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/17/junge-maenner-fahren-gestohlenes-leihauto-in-die-wand",
+      "published": "Sat, 17 Oct 2026 15:17:04 -0000",
+      "published_display": "17.10.2026 · 15:17 Uhr"
     }
   ]
 }
