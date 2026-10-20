@@ -1,7 +1,103 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-20T20:39:20.033170+00:00",
+  "updated": "2026-10-20T23:26:58.166742+00:00",
   "items": [
+    {
+      "title": "Einsatz der Feuerwehr: Erneut Feuer in Klinik in Schlüchtern - Zwölf Verletzte",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/21/erneut-feuer-in-klinik-in-schluechtern-zwoelf-verletzte-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/21/erneut-feuer-in-klinik-in-schluechtern-zwoelf-verletzte",
+      "published": "Tue, 20 Oct 2026 22:51:02 -0000",
+      "published_display": "20.10.2026 · 22:51 Uhr"
+    },
+    {
+      "title": "Potenzieller Megadeal: Musk bestätigt: Tesla und SpaceX prüfen Zusammenschluss",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/21/musk-bestaetigt-tesla-und-spacex-pruefen-zusammenschluss-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/21/musk-bestaetigt-tesla-und-spacex-pruefen-zusammenschluss",
+      "published": "Tue, 20 Oct 2026 22:36:56 -0000",
+      "published_display": "20.10.2026 · 22:36 Uhr"
+    },
+    {
+      "title": "Midterm-Wahlen: Trump meldet Ausgaben von mehr als 300 Millionen Dollar für Wahlkampf",
+      "summary": "Der US-Präsident finanziert nach eigenen Angaben Werbung und Kundgebungen der Republikaner. Die Demokraten bekommen Unterstützung vom Milliardär Michael Bloomberg.",
+      "image": "https://img.zeit.de/politik/ausland/2026-10/donald-trump-wahlkampf-400-millionen-dollar-republikaner-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/donald-trump-wahlkampf-400-millionen-dollar-republikaner",
+      "published": "Tue, 20 Oct 2026 22:32:07 -0000",
+      "published_display": "20.10.2026 · 22:32 Uhr"
+    },
+    {
+      "title": "Krankenversicherung: Forderung aus CSU und SPD nach schnelleren Facharztterminen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/21/forderung-aus-csu-und-spd-nach-schnelleren-facharztterminen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/21/forderung-aus-csu-und-spd-nach-schnelleren-facharztterminen",
+      "published": "Tue, 20 Oct 2026 22:01:06 -0000",
+      "published_display": "20.10.2026 · 22:01 Uhr"
+    },
+    {
+      "title": "Champions League: BVB gewinnt in Aserbaidschan, VfB verpasst Sieg gegen Atlético",
+      "summary": "Serhou Guirassy schießt den BVB im Spiel gegen Sabah FK mit zwei Toren zum Sieg. Der VfB Stuttgart spielt überraschend stark, aber unentschieden. Die Spielberichte.",
+      "image": "https://img.zeit.de/sport/2026-10/borussia-dortmund-champions-league-bvb-sabah-fk-foto-1/original__640x360",
+      "link": "https://www.zeit.de/sport/2026-10/borussia-dortmund-champions-league-bvb-sabah-fk",
+      "published": "Tue, 20 Oct 2026 22:00:46 -0000",
+      "published_display": "20.10.2026 · 22:00 Uhr"
+    },
+    {
+      "title": "Kalenderblatt: Was geschah am 21. Oktober?",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/20/was-geschah-am-21-oktober-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/20/was-geschah-am-21-oktober",
+      "published": "Tue, 20 Oct 2026 21:55:04 -0000",
+      "published_display": "20.10.2026 · 21:55 Uhr"
+    },
+    {
+      "title": "Basketball: Pistons gewinnen zum NBA-Auftakt gegen Celtics",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/20/pistons-gewinnen-zum-nba-auftakt-gegen-celtics-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/20/pistons-gewinnen-zum-nba-auftakt-gegen-celtics",
+      "published": "Tue, 20 Oct 2026 21:54:09 -0000",
+      "published_display": "20.10.2026 · 21:54 Uhr"
+    },
+    {
+      "title": "Störung der Totenruhe: Bronze-Diebstahl auf zwei Ehrenfriedhöfen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/20/bronze-diebstahl-auf-zwei-ehrenfriedhoefen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/20/bronze-diebstahl-auf-zwei-ehrenfriedhoefen",
+      "published": "Tue, 20 Oct 2026 21:47:52 -0000",
+      "published_display": "20.10.2026 · 21:47 Uhr"
+    },
+    {
+      "title": "Elon Musk: Musk soll für Starlink-Drosselung in der Ukraine verantwortlich sein",
+      "summary": "Laut einem Medienbericht hat der SpaceX-Gründer die Begrenzung des Satelliteninternets Starlink genehmigt. Auch mit Donald Trump soll er den Fall besprochen haben.",
+      "image": "https://img.zeit.de/politik/ausland/2026-10/elon-musk-starlink-drosselung-ukraine-donald-trump-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/elon-musk-starlink-drosselung-ukraine-donald-trump",
+      "published": "Tue, 20 Oct 2026 21:37:37 -0000",
+      "published_display": "20.10.2026 · 21:37 Uhr"
+    },
+    {
+      "title": "Video-Streaming: Netflix wächst langsamer - Aktie fällt",
+      "summary": "",
+      "image": "",
+      "link": "https://www.zeit.de/news/2026-10/20/netflix-waechst-langsamer-aktie-faellt",
+      "published": "Tue, 20 Oct 2026 21:10:28 -0000",
+      "published_display": "20.10.2026 · 21:10 Uhr"
+    },
+    {
+      "title": "Weltraumfirma: Musks SpaceX mit Milliarden-Quartalsgewinn",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/20/musks-spacex-mit-milliarden-quartalsgewinn-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/20/musks-spacex-mit-milliarden-quartalsgewinn",
+      "published": "Tue, 20 Oct 2026 21:06:58 -0000",
+      "published_display": "20.10.2026 · 21:06 Uhr"
+    },
+    {
+      "title": "Champions League: Trotz Überzahl: Starker VfB verpasst Sieg gegen Atlético",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/20/trotz-ueberzahl-starker-vfb-verpasst-sieg-gegen-atl-tico-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/20/trotz-ueberzahl-starker-vfb-verpasst-sieg-gegen-atl-tico",
+      "published": "Tue, 20 Oct 2026 20:51:00 -0000",
+      "published_display": "20.10.2026 · 20:51 Uhr"
+    },
     {
       "title": "Düsseldorf: Decke von Hotel-Lounge stürzt ein - zwei Verletzte",
       "summary": "",
@@ -9,14 +105,6 @@
       "link": "https://www.zeit.de/news/2026-10/20/decke-von-hotel-lounge-stuerzt-ein-zwei-verletzte",
       "published": "Tue, 20 Oct 2026 20:35:16 -0000",
       "published_display": "20.10.2026 · 20:35 Uhr"
-    },
-    {
-      "title": "Champions League: Borussia Dortmund gewinnt dank Serhou Guirassy in Aserbaidschan",
-      "summary": "Guirassy hat im Spiel gegen Sabah FK gleich zwei Tore erzielt und dem BVB so zum Sieg verholfen. Der Club aus Aserbaidschan machte es den Dortmundern jedoch nicht leicht.",
-      "image": "https://img.zeit.de/sport/2026-10/borussia-dortmund-champions-league-bvb-sabah-fk-foto-1/original__640x360",
-      "link": "https://www.zeit.de/sport/2026-10/borussia-dortmund-champions-league-bvb-sabah-fk",
-      "published": "Tue, 20 Oct 2026 20:21:07 -0000",
-      "published_display": "20.10.2026 · 20:21 Uhr"
     },
     {
       "title": "Eurocup: Rostocker Basketballer kassieren klare Niederlage",
@@ -33,94 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/20/hape-kerkeling-bleiben-sie-mutig",
       "published": "Tue, 20 Oct 2026 20:11:03 -0000",
       "published_display": "20.10.2026 · 20:11 Uhr"
-    },
-    {
-      "title": "Feuerwehr-Einsatz: Brand in Ladengeschäft in Wedding",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/20/brand-in-ladengeschaeft-in-wedding-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/20/brand-in-ladengeschaeft-in-wedding",
-      "published": "Tue, 20 Oct 2026 20:10:22 -0000",
-      "published_display": "20.10.2026 · 20:10 Uhr"
-    },
-    {
-      "title": "Vorschlag des Landesvorstands: Schweitzer soll SPD-Landeschef bleiben",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/20/schweitzer-soll-spd-landeschef-bleiben-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/20/schweitzer-soll-spd-landeschef-bleiben",
-      "published": "Tue, 20 Oct 2026 20:08:01 -0000",
-      "published_display": "20.10.2026 · 20:08 Uhr"
-    },
-    {
-      "title": "Ebola-Ausbruch: Erster Ebola-Fall in Nigeria nachgewiesen",
-      "summary": "Das westafrikanische Land Nigeria meldet die erste Ebola-Infektion in der Hauptstadt Abuja. Eine infizierte Frau war nach Behördenangaben aus Uganda eingereist.",
-      "image": "https://img.zeit.de/gesundheit/2026-10/ebola-nigeria-virus-infektion-abuja-uganda-foto-1/original__640x360",
-      "link": "https://www.zeit.de/gesundheit/2026-10/ebola-nigeria-virus-infektion-abuja-uganda",
-      "published": "Tue, 20 Oct 2026 19:48:04 -0000",
-      "published_display": "20.10.2026 · 19:48 Uhr"
-    },
-    {
-      "title": "CDU: Ex-Bundespräsident: CDU soll sich nach rechts abgrenzen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/20/ex-bundespraesident-cdu-soll-sich-nach-rechts-abgrenzen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/20/ex-bundespraesident-cdu-soll-sich-nach-rechts-abgrenzen",
-      "published": "Tue, 20 Oct 2026 19:46:57 -0000",
-      "published_display": "20.10.2026 · 19:46 Uhr"
-    },
-    {
-      "title": "Tödlicher Virus: Nigeria bestätigt ersten Ebola-Fall",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/20/nigeria-bestaetigt-ersten-ebola-fall-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/20/nigeria-bestaetigt-ersten-ebola-fall",
-      "published": "Tue, 20 Oct 2026 19:31:44 -0000",
-      "published_display": "20.10.2026 · 19:31 Uhr"
-    },
-    {
-      "title": "Vorpommern-Rügen: Frontalzusammenstoß auf B96: Beide Fahrer schwerstverletzt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/20/frontalzusammenstoss-auf-b96-beide-fahrer-schwerstverletzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/20/frontalzusammenstoss-auf-b96-beide-fahrer-schwerstverletzt",
-      "published": "Tue, 20 Oct 2026 19:30:51 -0000",
-      "published_display": "20.10.2026 · 19:30 Uhr"
-    },
-    {
-      "title": "Ukraine-Krieg: Neue Hoffnung für Kiew? US-Unterhändler reist nach Russland",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/20/gespraeche-in-oslo-selenskyj-trifft-us-gesandten-witkoff-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/20/gespraeche-in-oslo-selenskyj-trifft-us-gesandten-witkoff",
-      "published": "Tue, 20 Oct 2026 19:25:03 -0000",
-      "published_display": "20.10.2026 · 19:25 Uhr"
-    },
-    {
-      "title": "Champions League: Hartes Stück Arbeit: Guirassy bewahrt BVB vor Baku-Blamage",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/20/wieder-doppelpack-guirassy-bewahrt-bvb-vor-blamage-in-baku-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/20/wieder-doppelpack-guirassy-bewahrt-bvb-vor-blamage-in-baku",
-      "published": "Tue, 20 Oct 2026 19:10:15 -0000",
-      "published_display": "20.10.2026 · 19:10 Uhr"
-    },
-    {
-      "title": "Notfälle: Hausgeburt mit Feuerwehr",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/20/hausgeburt-mit-feuerwehr-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/20/hausgeburt-mit-feuerwehr",
-      "published": "Tue, 20 Oct 2026 19:09:21 -0000",
-      "published_display": "20.10.2026 · 19:09 Uhr"
-    },
-    {
-      "title": "Notfälle: Hamburger Hausgeburt mit Feuerwehr",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/20/hamburger-feuerwehr-unterstuetzt-ungeplant-waehrend-hausgeburt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/20/hamburger-feuerwehr-unterstuetzt-ungeplant-waehrend-hausgeburt",
-      "published": "Tue, 20 Oct 2026 18:57:05 -0000",
-      "published_display": "20.10.2026 · 18:57 Uhr"
-    },
-    {
-      "title": "AfD-Datenleak: Kontoauszüge, Spendernamen, Parteianträge und ein Hakenkreuz",
-      "summary": "Fast 300 Gigabyte an Daten legen brisante Interna aus zwölf Jahren AfD offen. In den Mails und Dokumenten finden sich persönliche Details von Spendern und Mitgliedern.",
-      "image": "https://img.zeit.de/politik/ausland/2026-10/afd-datenleak-hacker-gauland-weidel-bundespartei-bild-2/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-10/afd-datenleak-hacker-gauland-weidel-bundespartei",
-      "published": "Tue, 20 Oct 2026 18:24:02 -0000",
-      "published_display": "20.10.2026 · 18:24 Uhr"
     }
   ]
 }
