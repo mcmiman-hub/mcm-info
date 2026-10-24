@@ -1,7 +1,71 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-24T19:23:28.766371+00:00",
+  "updated": "2026-10-24T21:49:06.971111+00:00",
   "items": [
+    {
+      "title": "Darts: Darts-EM in Dortmund: Littler und Schindler im Viertelfinale",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/24/darts-em-in-dortmund-littler-und-schindler-im-viertelfinale-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/24/darts-em-in-dortmund-littler-und-schindler-im-viertelfinale",
+      "published": "Sat, 24 Oct 2026 20:46:26 -0000",
+      "published_display": "24.10.2026 · 20:46 Uhr"
+    },
+    {
+      "title": "Frankreich: Drei weitere Festnahmen nach tödlichen Schüssen nahe Paris",
+      "summary": "Aus dem Umfeld des mutmaßlichen Attentäters von Trappes sind drei weitere Personen festgenommen worden. Laut Medien soll darunter die Mutter des Verdächtigen sein.",
+      "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-10/schussangriff-paris-festnahmen-anti-terrorstaatsanwaltschaft-gxe-foto-1/original__640x360",
+      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-10/schussangriff-paris-festnahmen-anti-terrorstaatsanwaltschaft-gxe",
+      "published": "Sat, 24 Oct 2026 20:42:16 -0000",
+      "published_display": "24.10.2026 · 20:42 Uhr"
+    },
+    {
+      "title": "Fußball-Bundesliga: Verein: Rassismus und Todesdrohungen gegen Augsburg-Profi",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/24/verein-rassismus-und-todesdrohungen-gegen-augsburg-profi-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/24/verein-rassismus-und-todesdrohungen-gegen-augsburg-profi",
+      "published": "Sat, 24 Oct 2026 20:40:46 -0000",
+      "published_display": "24.10.2026 · 20:40 Uhr"
+    },
+    {
+      "title": "Ereignisreiches Topspiel: Lautern fügt Nürnberg erste Saisonniederlage in 2. Liga zu",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/24/lautern-fuegt-nuernberg-erste-saisonniederlage-in-2-liga-zu-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/24/lautern-fuegt-nuernberg-erste-saisonniederlage-in-2-liga-zu",
+      "published": "Sat, 24 Oct 2026 20:28:26 -0000",
+      "published_display": "24.10.2026 · 20:28 Uhr"
+    },
+    {
+      "title": "Fotografie: Bilder des Tages",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/24/bilder-des-tages-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/24/bilder-des-tages",
+      "published": "Sat, 24 Oct 2026 19:46:18 -0000",
+      "published_display": "24.10.2026 · 19:46 Uhr"
+    },
+    {
+      "title": "Massendemonstrationen: Tausende demonstrieren in Belgien, Italien, Spanien und Albanien",
+      "summary": "In Tirana setzt die Polizei Wasserwerfer und Gummigeschosse ein, in Madrid gehen Demonstrierende für den Erhalt des Rentensystems auf die Straße. Eine Übersicht",
+      "image": "https://img.zeit.de/2026-10/protest-tirana-albanien-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/proteste-europa-spanien-italien-serbien-albanien-belgien",
+      "published": "Sat, 24 Oct 2026 19:46:05 -0000",
+      "published_display": "24.10.2026 · 19:46 Uhr"
+    },
+    {
+      "title": "Volleyball-Bundesliga: BR Volleys siegen klar bei den Grizzlys Giesen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/24/br-volleys-siegen-klar-bei-den-grizzlys-giesen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/24/br-volleys-siegen-klar-bei-den-grizzlys-giesen",
+      "published": "Sat, 24 Oct 2026 19:40:38 -0000",
+      "published_display": "24.10.2026 · 19:40 Uhr"
+    },
+    {
+      "title": "Reinickendorf: Leiche bei Brand in Berliner Kellerwohnung gefunden",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/24/leiche-bei-brand-in-berliner-kellerwohnung-gefunden-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/24/leiche-bei-brand-in-berliner-kellerwohnung-gefunden",
+      "published": "Sat, 24 Oct 2026 19:28:58 -0000",
+      "published_display": "24.10.2026 · 19:28 Uhr"
+    },
     {
       "title": "Proteste in Frankreich: Tausend Festnahmen bei Demonstrationen in Frankreich",
       "summary": "Die Proteste blieben ​zunächst friedlich. Erst mit Einbruch der Dunkelheit begannen die gewaltvollen Auseinandersetzungen. Die Gelbwesten kündigen weitere Proteste an.",
@@ -57,70 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/24/seawolves-geben-sieg-beim-mbc-aus-der-hand",
       "published": "Sat, 24 Oct 2026 19:03:53 -0000",
       "published_display": "24.10.2026 · 19:03 Uhr"
-    },
-    {
-      "title": "Fußball-Bundesliga: Heimsieg gegen Frankfurt: BVB legt an der Tabellenspitze vor",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/24/heimsieg-gegen-frankfurt-bvb-legt-an-der-tabellenspitze-vor-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/24/heimsieg-gegen-frankfurt-bvb-legt-an-der-tabellenspitze-vor",
-      "published": "Sat, 24 Oct 2026 19:01:08 -0000",
-      "published_display": "24.10.2026 · 19:01 Uhr"
-    },
-    {
-      "title": "Irankrieg: Huthi-Miliz meldet erneute Luftangriffe auf Saudi-Arabien",
-      "summary": "Mit Raketen und Drohnen haben die Huthis Orte in Saudi-Arabien attackiert. Der Iran verfolgt laut dem US-Geheimdienst »tödliche Planungen gegen US-Bürger«. Das Liveblog",
-      "image": "https://img.zeit.de/2026-10/huthi-rebellen-jemen-saudi-arabien-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-05/iran-krieg-donald-trump-hormus-live",
-      "published": "Sat, 24 Oct 2026 18:50:49 -0000",
-      "published_display": "24.10.2026 · 18:50 Uhr"
-    },
-    {
-      "title": "Bundesliga, 7.Spieltag – Samstag: BVB übernimmt die Tabellenführung, Bremen schlägt Mainz",
-      "summary": "Der BVB kehrt mit einem Sieg gegen Frankfurt an die Tabellenspitze zurück. Bremen schlägt Mainz, Leipzig reicht gegen Elversberg eine gute Halbzeit. Die Spielberichte",
-      "image": "https://img.zeit.de/2026-10/dortmund-frankfurt-bundesliga-bild/original__640x360",
-      "link": "https://www.zeit.de/sport/2026-10/bundesliga-7-spieltag-leipzig-elversberg-augsburg-union-mainz-bremen-koeln-schalke-paderborn-hamburg-dortmund-frankfurt",
-      "published": "Sat, 24 Oct 2026 18:47:16 -0000",
-      "published_display": "24.10.2026 · 18:47 Uhr"
-    },
-    {
-      "title": "Formel 1: Antonelli vor K.o.-Ausscheidung wieder nicht der Schnellste",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/24/antonelli-vor-k-o-ausscheidung-wieder-nicht-der-schnellste-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/24/antonelli-vor-k-o-ausscheidung-wieder-nicht-der-schnellste",
-      "published": "Sat, 24 Oct 2026 18:45:07 -0000",
-      "published_display": "24.10.2026 · 18:45 Uhr"
-    },
-    {
-      "title": "Bundespräsident: Merz stolpert in die Bellevue-Falle",
-      "summary": "Bundespräsidenten aussuchen – da strauchelten selbst Kohl und Merkel. Und Merz? Die CSU feiert Ilse Aigner, dass sich der Kanzler fragen muss, wie er da heil rauskommt.",
-      "image": "https://img.zeit.de/politik/deutschland/2026-10/bundespraesident-nominierung-friedrich-merz-ilse-aigner-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/deutschland/2026-10/bundespraesident-nominierung-friedrich-merz-ilse-aigner",
-      "published": "Sat, 24 Oct 2026 18:43:23 -0000",
-      "published_display": "24.10.2026 · 18:43 Uhr"
-    },
-    {
-      "title": "Fußball-Bundesliga: BVB übernimmt Tabellenspitze - Füllkrug lässt Werder jubeln",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/24/fuellkrug-laesst-werder-wieder-jubeln-leipziger-heimstaerke-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/24/fuellkrug-laesst-werder-wieder-jubeln-leipziger-heimstaerke",
-      "published": "Sat, 24 Oct 2026 18:29:23 -0000",
-      "published_display": "24.10.2026 · 18:29 Uhr"
-    },
-    {
-      "title": "Israel: Netanjahu will Sanktionen mithilfe von Kryptowährungen umgehen",
-      "summary": "Wegen drohender neuer Sanktionen setzt Israels Regierungschef auf Transaktionen mit Kryptowährungen. Die Zentralbank des Landes warnt Netanjahu vor diesem Schritt.",
-      "image": "https://img.zeit.de/2026-10/israel-netanjahu-sanktionen-blockchain-kryptowaehrung-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/israel-netanjahu-sanktionen-blockchain-kryptowaehrung",
-      "published": "Sat, 24 Oct 2026 18:18:59 -0000",
-      "published_display": "24.10.2026 · 18:18 Uhr"
-    },
-    {
-      "title": "Stephan Pierau: Der Edelfriseur von der Linkspartei",
-      "summary": "Stephan Pierau wollte seine Work-Life-Balance verbessern – und machte einen besonderen Laden auf. Dann allerdings landete er auch noch in der Politik.",
-      "image": "https://img.zeit.de/zeit-fuer-unternehmer/2026/03/der-edelfriseur-von-der-linkspartei-bild-2/original__640x360",
-      "link": "https://www.zeit.de/zeit-fuer-unternehmer/2026/03/stephan-pierau-friseur-unternehmen-lokal-politik",
-      "published": "Sat, 24 Oct 2026 17:55:34 -0000",
-      "published_display": "24.10.2026 · 17:55 Uhr"
     }
   ]
 }
