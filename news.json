@@ -1,7 +1,87 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-24T21:49:06.971111+00:00",
+  "updated": "2026-10-24T23:47:21.591967+00:00",
   "items": [
+    {
+      "title": "Ryanair: Ryanair bietet deutlich weniger Verbindungen am BER an",
+      "summary": "Zwölf Ziele weniger fliegt Ryanair ab heute vom Hauptstadtflughafen an. Die Passagierzahlen am BER liegen nicht nur deshalb deutlich unter den Erwartungen.",
+      "image": "https://img.zeit.de/wirtschaft/unternehmen/2026-10/flughafen-spanien-bild/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/2026-10/ryanair-ber-fluege-streichungen-winterflugplan-berlin",
+      "published": "Sat, 24 Oct 2026 23:24:49 -0000",
+      "published_display": "24.10.2026 · 23:24 Uhr"
+    },
+    {
+      "title": "Stichwahl in Brasilien: Lula und Bolsonaro treten vor Stichwahl bei Kundgebungen auf",
+      "summary": "Präsident Lula da Silva und sein Herausforderer Flávio Bolsonaro haben am Tag vor der Wahl vor Anhängern gesprochen. Umfragen gehen von einem sehr knappen Ergebnis aus.",
+      "image": "https://img.zeit.de/politik/ausland/2026-10/stichwahl-brasilien-praesident-luiz-inacio-lula-da-silva-flavio-bolsonaro-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/stichwahl-brasilien-praesident-luiz-inacio-lula-da-silva-flavio-bolsonaro",
+      "published": "Sat, 24 Oct 2026 23:10:00 -0000",
+      "published_display": "24.10.2026 · 23:10 Uhr"
+    },
+    {
+      "title": "Nationalmannschaft: Klopps «Er ist 33»-Ansage: Das sagt Füllkrug zu DFB-Chancen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/25/klopps-er-ist-33-ansage-das-sagt-fuellkrug-zu-dfb-chancen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/25/klopps-er-ist-33-ansage-das-sagt-fuellkrug-zu-dfb-chancen",
+      "published": "Sat, 24 Oct 2026 23:03:20 -0000",
+      "published_display": "24.10.2026 · 23:03 Uhr"
+    },
+    {
+      "title": "Demonstrationen: Mindestens 1.000 Festnahmen nach Protesten in Frankreich",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/25/mindestens-1-000-festnahmen-nach-protesten-in-frankreich-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/25/mindestens-1-000-festnahmen-nach-protesten-in-frankreich",
+      "published": "Sat, 24 Oct 2026 22:36:36 -0000",
+      "published_display": "24.10.2026 · 22:36 Uhr"
+    },
+    {
+      "title": "US-Parlamentswahlen: Er kam persönlich: Trump hat Stimme für Midterms abgegeben",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/25/er-kam-persoenlich-trump-hat-stimme-fuer-midterms-abgegeben-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/25/er-kam-persoenlich-trump-hat-stimme-fuer-midterms-abgegeben",
+      "published": "Sat, 24 Oct 2026 22:28:51 -0000",
+      "published_display": "24.10.2026 · 22:28 Uhr"
+    },
+    {
+      "title": "Formel 1: Vor möglicher Krönung: Famose Antonelli-Runde zur Pole",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/25/antonelli-vor-k-o-ausscheidung-wieder-nicht-der-schnellste-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/24/antonelli-vor-k-o-ausscheidung-wieder-nicht-der-schnellste",
+      "published": "Sat, 24 Oct 2026 22:18:35 -0000",
+      "published_display": "24.10.2026 · 22:18 Uhr"
+    },
+    {
+      "title": "Irankrieg: Huthi-Miliz meldet erneute Luftangriffe auf Saudi-Arabien",
+      "summary": "Mit Raketen und Drohnen haben die Huthis Orte in Saudi-Arabien attackiert. Der Iran verfolgt laut dem US-Geheimdienst »tödliche Planungen gegen US-Bürger«. Das Liveblog",
+      "image": "https://img.zeit.de/2026-10/huthi-rebellen-jemen-saudi-arabien-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-05/iran-krieg-donald-trump-hormus-live",
+      "published": "Sat, 24 Oct 2026 22:14:04 -0000",
+      "published_display": "24.10.2026 · 22:14 Uhr"
+    },
+    {
+      "title": "Flugreisen: Ryanair streicht Angebot am BER deutlich zusammen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/25/ryanair-streicht-angebot-am-ber-deutlich-zusammen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/25/ryanair-streicht-angebot-am-ber-deutlich-zusammen",
+      "published": "Sat, 24 Oct 2026 22:10:04 -0000",
+      "published_display": "24.10.2026 · 22:10 Uhr"
+    },
+    {
+      "title": "Krieg in der Ukraine: Musk wirft Ukraine Nutzung von Starlink für Offensivangriffe vor",
+      "summary": "Das Satelliteninternet Starlink dient der Ukraine für Verteidigungszwecke. SpaceX-Gründer Musk beschuldigt das Militär, Starlink für militärische Angriffe zu benutzen.",
+      "image": "https://img.zeit.de/politik/ausland/2026-10/elon-musk-starlink-ukraine-spacex-bild-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/elon-musk-starlink-ukraine-spacex",
+      "published": "Sat, 24 Oct 2026 22:02:25 -0000",
+      "published_display": "24.10.2026 · 22:02 Uhr"
+    },
+    {
+      "title": "Kalenderblatt: Was geschah am 25. Oktober?",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/24/was-geschah-am-25-oktober-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/24/was-geschah-am-25-oktober",
+      "published": "Sat, 24 Oct 2026 21:55:04 -0000",
+      "published_display": "24.10.2026 · 21:55 Uhr"
+    },
     {
       "title": "Darts: Darts-EM in Dortmund: Littler und Schindler im Viertelfinale",
       "summary": "",
@@ -41,86 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/24/bilder-des-tages",
       "published": "Sat, 24 Oct 2026 19:46:18 -0000",
       "published_display": "24.10.2026 · 19:46 Uhr"
-    },
-    {
-      "title": "Massendemonstrationen: Tausende demonstrieren in Belgien, Italien, Spanien und Albanien",
-      "summary": "In Tirana setzt die Polizei Wasserwerfer und Gummigeschosse ein, in Madrid gehen Demonstrierende für den Erhalt des Rentensystems auf die Straße. Eine Übersicht",
-      "image": "https://img.zeit.de/2026-10/protest-tirana-albanien-bild/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/proteste-europa-spanien-italien-serbien-albanien-belgien",
-      "published": "Sat, 24 Oct 2026 19:46:05 -0000",
-      "published_display": "24.10.2026 · 19:46 Uhr"
-    },
-    {
-      "title": "Volleyball-Bundesliga: BR Volleys siegen klar bei den Grizzlys Giesen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/24/br-volleys-siegen-klar-bei-den-grizzlys-giesen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/24/br-volleys-siegen-klar-bei-den-grizzlys-giesen",
-      "published": "Sat, 24 Oct 2026 19:40:38 -0000",
-      "published_display": "24.10.2026 · 19:40 Uhr"
-    },
-    {
-      "title": "Reinickendorf: Leiche bei Brand in Berliner Kellerwohnung gefunden",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/24/leiche-bei-brand-in-berliner-kellerwohnung-gefunden-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/24/leiche-bei-brand-in-berliner-kellerwohnung-gefunden",
-      "published": "Sat, 24 Oct 2026 19:28:58 -0000",
-      "published_display": "24.10.2026 · 19:28 Uhr"
-    },
-    {
-      "title": "Proteste in Frankreich: Tausend Festnahmen bei Demonstrationen in Frankreich",
-      "summary": "Die Proteste blieben ​zunächst friedlich. Erst mit Einbruch der Dunkelheit begannen die gewaltvollen Auseinandersetzungen. Die Gelbwesten kündigen weitere Proteste an.",
-      "image": "https://img.zeit.de/2026-10/festnahmen-proteste-frankreich-bild-5/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/proteste-frankreich-paris-polizei-festnahmen-linksextremismus-gxe",
-      "published": "Sat, 24 Oct 2026 19:17:44 -0000",
-      "published_display": "24.10.2026 · 19:17 Uhr"
-    },
-    {
-      "title": "Basketball-Bundesliag: Spencer Reaves führt MBC zum dritten Sieg in Serie",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/24/spencer-reaves-fuehrt-mbc-zum-dritten-sieg-in-serie-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/24/spencer-reaves-fuehrt-mbc-zum-dritten-sieg-in-serie",
-      "published": "Sat, 24 Oct 2026 19:11:34 -0000",
-      "published_display": "24.10.2026 · 19:11 Uhr"
-    },
-    {
-      "title": "Demonstrationen: Frankreich: Hunderttausende demonstrieren - Gewalt am Abend",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/24/viele-kontrollen-zu-beginn-von-protesttag-in-frankreich-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/24/viele-kontrollen-zu-beginn-von-protesttag-in-frankreich",
-      "published": "Sat, 24 Oct 2026 19:09:51 -0000",
-      "published_display": "24.10.2026 · 19:09 Uhr"
-    },
-    {
-      "title": "Angriff auf israelische Firma: Mehrere Hundert Menschen bei «Free the Ulm 5»- Demo",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/24/mehrere-hundert-menschen-bei-free-the-ulm-5-demo-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/24/mehrere-hundert-menschen-bei-free-the-ulm-5-demo",
-      "published": "Sat, 24 Oct 2026 19:09:09 -0000",
-      "published_display": "24.10.2026 · 19:09 Uhr"
-    },
-    {
-      "title": "Fußball-Bundesliga: Elversberg befürchtet längeren Ausfall von Gyamerah",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/24/elversberg-befuerchtet-laengeren-ausfall-von-gyamerah-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/24/elversberg-befuerchtet-laengeren-ausfall-von-gyamerah",
-      "published": "Sat, 24 Oct 2026 19:05:38 -0000",
-      "published_display": "24.10.2026 · 19:05 Uhr"
-    },
-    {
-      "title": "Landkreis Heilbronn: Fünf Verletzte bei Auffahrunfall auf der A81",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/24/fuenf-verletzte-bei-auffahrunfall-auf-der-a81-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/24/fuenf-verletzte-bei-auffahrunfall-auf-der-a81",
-      "published": "Sat, 24 Oct 2026 19:04:24 -0000",
-      "published_display": "24.10.2026 · 19:04 Uhr"
-    },
-    {
-      "title": "Basketball: Seawolves geben Sieg beim MBC aus der Hand",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/24/seawolves-geben-sieg-beim-mbc-aus-der-hand-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/24/seawolves-geben-sieg-beim-mbc-aus-der-hand",
-      "published": "Sat, 24 Oct 2026 19:03:53 -0000",
-      "published_display": "24.10.2026 · 19:03 Uhr"
     }
   ]
 }
