@@ -1,7 +1,71 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-24T23:47:21.591967+00:00",
+  "updated": "2026-10-25T01:43:28.520075+00:00",
   "items": [
+    {
+      "title": "Parlamentswahlen: Auf Trump-Wahlkampftour: Audi kündigt SUV-Werk in den USA an",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/25/auf-trump-wahlkampftour-audi-kuendigt-suv-werk-in-den-usa-an-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/25/auf-trump-wahlkampftour-audi-kuendigt-suv-werk-in-den-usa-an",
+      "published": "Sun, 25 Oct 2026 01:21:26 -0000",
+      "published_display": "25.10.2026 · 01:21 Uhr"
+    },
+    {
+      "title": "Nahost: Israels Armee: Lockdown im Westjordanland am Wahltag",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/25/israels-armee-lockdown-im-westjordanland-am-wahltag-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/25/israels-armee-lockdown-im-westjordanland-am-wahltag",
+      "published": "Sun, 25 Oct 2026 01:13:58 -0000",
+      "published_display": "25.10.2026 · 01:13 Uhr"
+    },
+    {
+      "title": "Zeitumstellung: Uhren zurückgestellt - Winterzeit hat begonnen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/25/uhren-zurueckgestellt-winterzeit-hat-begonnen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/25/uhren-zurueckgestellt-winterzeit-hat-begonnen",
+      "published": "Sun, 25 Oct 2026 01:04:16 -0000",
+      "published_display": "25.10.2026 · 01:04 Uhr"
+    },
+    {
+      "title": "Katalonien: Randale in Barcelona: Rund 100 Festnahmen bei Protesten",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/25/randale-in-barcelona-rund-100-festnahmen-bei-protesten-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/25/randale-in-barcelona-rund-100-festnahmen-bei-protesten",
+      "published": "Sun, 25 Oct 2026 00:41:05 -0000",
+      "published_display": "25.10.2026 · 00:41 Uhr"
+    },
+    {
+      "title": "Fotografie: Bilder des Tages",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/25/bilder-des-tages-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/25/bilder-des-tages",
+      "published": "Sun, 25 Oct 2026 00:26:42 -0000",
+      "published_display": "25.10.2026 · 00:26 Uhr"
+    },
+    {
+      "title": "Präsidentenwahl: Vor Stichwahl: Lula und Bolsonaro kämpfen um letzte Stimmen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/25/vor-stichwahl-lula-und-bolsonaro-kaempfen-um-letzte-stimmen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/25/vor-stichwahl-lula-und-bolsonaro-kaempfen-um-letzte-stimmen",
+      "published": "Sun, 25 Oct 2026 00:21:03 -0000",
+      "published_display": "25.10.2026 · 00:21 Uhr"
+    },
+    {
+      "title": "Nachfolge von Frank-Walter Steinmeier: Ralf Stegner rügt Umgang mit möglicher Kandidatur von Ilse Aigner",
+      "summary": "Ralf Stegner lobt Ilse Aigner als Kandidatin für das Amt der Bundespräsidentin, übt aber Kritik an der Handhabung der Personalie. Die Union dürfe nicht taktisch vorgehen.",
+      "image": "https://img.zeit.de/politik/deutschland/2026-10/ilse-aigner-bundespraesidentin-csu-union-ralf-stegner-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/deutschland/2026-10/ilse-aigner-bundespraesidentin-csu-union-ralf-stegner",
+      "published": "Sun, 25 Oct 2026 00:20:34 -0000",
+      "published_display": "25.10.2026 · 00:20 Uhr"
+    },
+    {
+      "title": "Proteste in Tel Aviv: Demonstrationen gegen Netanjahu in Tel Aviv kurz vor Parlamentswahl",
+      "summary": "Vor der Wahl haben erneut Menschen in Tel Aviv gegen Israels Ministerpräsident Benjamin Netanjahu demonstriert. Sie kritisierten vor allem seine Rolle am 7. Oktober 2023.",
+      "image": "https://img.zeit.de/politik/ausland/2026-10/israel-palestinian-politics-election-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/proteste-tel-aviv-benjamin-netanjahu-gadi-eisenkot-opposition-wahl-israel",
+      "published": "Sun, 25 Oct 2026 00:19:18 -0000",
+      "published_display": "25.10.2026 · 00:19 Uhr"
+    },
     {
       "title": "Ryanair: Ryanair bietet deutlich weniger Verbindungen am BER an",
       "summary": "Zwölf Ziele weniger fliegt Ryanair ab heute vom Hauptstadtflughafen an. Die Passagierzahlen am BER liegen nicht nur deshalb deutlich unter den Erwartungen.",
@@ -57,70 +121,6 @@
       "link": "https://www.zeit.de/politik/ausland/2026-05/iran-krieg-donald-trump-hormus-live",
       "published": "Sat, 24 Oct 2026 22:14:04 -0000",
       "published_display": "24.10.2026 · 22:14 Uhr"
-    },
-    {
-      "title": "Flugreisen: Ryanair streicht Angebot am BER deutlich zusammen",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/25/ryanair-streicht-angebot-am-ber-deutlich-zusammen-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/25/ryanair-streicht-angebot-am-ber-deutlich-zusammen",
-      "published": "Sat, 24 Oct 2026 22:10:04 -0000",
-      "published_display": "24.10.2026 · 22:10 Uhr"
-    },
-    {
-      "title": "Krieg in der Ukraine: Musk wirft Ukraine Nutzung von Starlink für Offensivangriffe vor",
-      "summary": "Das Satelliteninternet Starlink dient der Ukraine für Verteidigungszwecke. SpaceX-Gründer Musk beschuldigt das Militär, Starlink für militärische Angriffe zu benutzen.",
-      "image": "https://img.zeit.de/politik/ausland/2026-10/elon-musk-starlink-ukraine-spacex-bild-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/elon-musk-starlink-ukraine-spacex",
-      "published": "Sat, 24 Oct 2026 22:02:25 -0000",
-      "published_display": "24.10.2026 · 22:02 Uhr"
-    },
-    {
-      "title": "Kalenderblatt: Was geschah am 25. Oktober?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/24/was-geschah-am-25-oktober-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/24/was-geschah-am-25-oktober",
-      "published": "Sat, 24 Oct 2026 21:55:04 -0000",
-      "published_display": "24.10.2026 · 21:55 Uhr"
-    },
-    {
-      "title": "Darts: Darts-EM in Dortmund: Littler und Schindler im Viertelfinale",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/24/darts-em-in-dortmund-littler-und-schindler-im-viertelfinale-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/24/darts-em-in-dortmund-littler-und-schindler-im-viertelfinale",
-      "published": "Sat, 24 Oct 2026 20:46:26 -0000",
-      "published_display": "24.10.2026 · 20:46 Uhr"
-    },
-    {
-      "title": "Frankreich: Drei weitere Festnahmen nach tödlichen Schüssen nahe Paris",
-      "summary": "Aus dem Umfeld des mutmaßlichen Attentäters von Trappes sind drei weitere Personen festgenommen worden. Laut Medien soll darunter die Mutter des Verdächtigen sein.",
-      "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-10/schussangriff-paris-festnahmen-anti-terrorstaatsanwaltschaft-gxe-foto-1/original__640x360",
-      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-10/schussangriff-paris-festnahmen-anti-terrorstaatsanwaltschaft-gxe",
-      "published": "Sat, 24 Oct 2026 20:42:16 -0000",
-      "published_display": "24.10.2026 · 20:42 Uhr"
-    },
-    {
-      "title": "Fußball-Bundesliga: Verein: Rassismus und Todesdrohungen gegen Augsburg-Profi",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/24/verein-rassismus-und-todesdrohungen-gegen-augsburg-profi-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/24/verein-rassismus-und-todesdrohungen-gegen-augsburg-profi",
-      "published": "Sat, 24 Oct 2026 20:40:46 -0000",
-      "published_display": "24.10.2026 · 20:40 Uhr"
-    },
-    {
-      "title": "Ereignisreiches Topspiel: Lautern fügt Nürnberg erste Saisonniederlage in 2. Liga zu",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/24/lautern-fuegt-nuernberg-erste-saisonniederlage-in-2-liga-zu-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/24/lautern-fuegt-nuernberg-erste-saisonniederlage-in-2-liga-zu",
-      "published": "Sat, 24 Oct 2026 20:28:26 -0000",
-      "published_display": "24.10.2026 · 20:28 Uhr"
-    },
-    {
-      "title": "Fotografie: Bilder des Tages",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/24/bilder-des-tages-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/24/bilder-des-tages",
-      "published": "Sat, 24 Oct 2026 19:46:18 -0000",
-      "published_display": "24.10.2026 · 19:46 Uhr"
     }
   ]
 }
