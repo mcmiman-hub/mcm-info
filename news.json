@@ -1,7 +1,111 @@
 {
   "source": "ZEIT ONLINE",
-  "updated": "2026-10-26T23:44:07.603042+00:00",
+  "updated": "2026-10-27T02:27:17.762594+00:00",
   "items": [
+    {
+      "title": "Pressefreiheit in Argentinien: Amnesty kritisiert Javier Milei für Herabwürdigung von Journalisten",
+      "summary": "Argentiniens Präsident hat Journalisten bei einer Rede namentlich genannt und ihnen den Scheiterhaufen gewünscht. Amnesty International will sich bei der UN beschweren.",
+      "image": "https://img.zeit.de/politik/ausland/2026-10/javier-milei-amnesty-international-argentinien-journalisten-presse-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/javier-milei-amnesty-international-argentinien-journalisten-presse",
+      "published": "Tue, 27 Oct 2026 02:25:12 -0000",
+      "published_display": "27.10.2026 · 02:25 Uhr"
+    },
+    {
+      "title": "Jordanien: Jordanien greift Ziele in Syrien an",
+      "summary": "Das jordanische Militär fliegt Angriffe auf Syrien. Die dortige Regierung reagiert mit der Schließung eines Grenzübergangs. Zuvor gab es einen Anschlag auf eine Kirche.",
+      "image": "https://img.zeit.de/politik/ausland/2026-10/2026-10-26t220251z-666319904-mt1anadl000ek2ume-rtrmadp-3-anadolu-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/jordanien-syrien-anschlag-luftangriffe-grenzuebergang",
+      "published": "Tue, 27 Oct 2026 02:23:32 -0000",
+      "published_display": "27.10.2026 · 02:23 Uhr"
+    },
+    {
+      "title": "Krieg gegen die Ukraine: Waffenruhe in ukrainischer Frontstadt Oleschky tritt in Kraft",
+      "summary": "Im russisch besetzten Oleschky hat eine örtlich begrenzte Waffenruhe begonnen. Die Ukraine meldet Tote und Verletzte nach russischem Angriff in Kyjiw. Das Liveblog",
+      "image": "https://img.zeit.de/politik/ausland/2026-10/file-photo-drone-footage-shows-destruction-in-the-russian-occupied-city-of-oleshky-bild/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "published": "Tue, 27 Oct 2026 02:09:54 -0000",
+      "published_display": "27.10.2026 · 02:09 Uhr"
+    },
+    {
+      "title": "Ukraine-Krieg: Waffenruhe gilt: Hilfsaktion für Frontstadt in Ukraine läuft",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/26/hilfsaktion-fuer-frontstadt-oleschky-laeuft-an-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/26/hilfsaktion-fuer-frontstadt-oleschky-laeuft-an",
+      "published": "Tue, 27 Oct 2026 01:50:54 -0000",
+      "published_display": "27.10.2026 · 01:50 Uhr"
+    },
+    {
+      "title": "Jüdische Stimme hörbar machen: Ort jüdischen Denkens - Akademie öffnet in Frankfurt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/27/ort-juedischen-denkens-akademie-oeffnet-in-frankfurt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/27/ort-juedischen-denkens-akademie-oeffnet-in-frankfurt",
+      "published": "Tue, 27 Oct 2026 01:29:04 -0000",
+      "published_display": "27.10.2026 · 01:29 Uhr"
+    },
+    {
+      "title": "Frankreich: Verdächtiger von Anschlag bei Paris bestreitet rassistisches Motiv",
+      "summary": "Der französische Präsident stuft den tödlichen Angriff in zwei Pariser Vororten als rassistischen Terroranschlag ein. Der mutmaßliche Schütze weist das Motiv zurück.",
+      "image": "https://img.zeit.de/gesellschaft/2026-10/angriff-paris-vororte-kevin-t-olivier-christen-rassismus-psychische-erkrankung-bild-1/original__640x360",
+      "link": "https://www.zeit.de/gesellschaft/2026-10/angriff-paris-vororte-kevin-t-olivier-christen-rassismus-psychische-erkrankung",
+      "published": "Tue, 27 Oct 2026 01:11:14 -0000",
+      "published_display": "27.10.2026 · 01:11 Uhr"
+    },
+    {
+      "title": "Verkehr wird abgeleitet: A2 Richtung Hannover nach Lkw-Unfall voll gesperrt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/27/a2-richtung-hannover-nach-lkw-unfall-voll-gesperrt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/27/a2-richtung-hannover-nach-lkw-unfall-voll-gesperrt",
+      "published": "Tue, 27 Oct 2026 01:08:18 -0000",
+      "published_display": "27.10.2026 · 01:08 Uhr"
+    },
+    {
+      "title": "Löscharbeiten laufen: Brennender Lkw: A9 Richtung Halle/Leipzig gesperrt",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/27/brennender-lkw-a9-richtung-halle-leipzig-gesperrt-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/27/brennender-lkw-a9-richtung-halle-leipzig-gesperrt",
+      "published": "Tue, 27 Oct 2026 00:48:39 -0000",
+      "published_display": "27.10.2026 · 00:48 Uhr"
+    },
+    {
+      "title": "Comeback der Betriebswohnung?: Fachkräfte gesucht - Manche Firmen setzen auf Werkswohnungen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/27/fachkraefte-gesucht-manche-firmen-setzen-auf-werkswohnungen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/27/fachkraefte-gesucht-manche-firmen-setzen-auf-werkswohnungen",
+      "published": "Tue, 27 Oct 2026 00:45:05 -0000",
+      "published_display": "27.10.2026 · 00:45 Uhr"
+    },
+    {
+      "title": "Fischerei in der Ostsee: EU-Agrarminister halten an Ausnahme für Ostseefischer fest",
+      "summary": "Küstenfischer dürfen weiterhin Hering in der Ostsee fangen. Darauf haben sich die EU-Agrarminister geeinigt. Die EU-Kommission will die Ausnahme seit Jahren beenden.",
+      "image": "https://img.zeit.de/wirtschaft/2026-10/sonnenaufgang-an-der-ostsee-bild/original__640x360",
+      "link": "https://www.zeit.de/wirtschaft/2026-10/ostsee-fischerei-eu-agrarminister-fangquoten-hering-dorsch",
+      "published": "Tue, 27 Oct 2026 00:32:14 -0000",
+      "published_display": "27.10.2026 · 00:32 Uhr"
+    },
+    {
+      "title": "Kanzler auf Asienreise: Wirtschaft, Sicherheit und eine Orchidee: Merz in Singapur",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/27/wirtschaft-sicherheit-und-eine-orchidee-merz-in-singapur-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/27/wirtschaft-sicherheit-und-eine-orchidee-merz-in-singapur",
+      "published": "Tue, 27 Oct 2026 00:32:07 -0000",
+      "published_display": "27.10.2026 · 00:32 Uhr"
+    },
+    {
+      "title": "Wind auf See: Reiche: Lücke bei Ausbau der Windkraft auf See schließen",
+      "summary": "",
+      "image": "https://img.zeit.de/news/2026-10/27/reiche-luecke-bei-ausbau-der-windkraft-auf-see-schliessen-image-group/original__640x360",
+      "link": "https://www.zeit.de/news/2026-10/27/reiche-luecke-bei-ausbau-der-windkraft-auf-see-schliessen",
+      "published": "Tue, 27 Oct 2026 00:01:05 -0000",
+      "published_display": "27.10.2026 · 00:01 Uhr"
+    },
+    {
+      "title": "James Comey: US-Regierung geht erneut gegen Ex-FBI-Chef James Comey vor",
+      "summary": "Zum dritten Mal klagt die US-Regierung unter Donald Trump den ehemaligen FBI-Direktor an. Er soll geheime Informationen weitergegeben haben. James Comey bestreitet dies.",
+      "image": "https://img.zeit.de/politik/ausland/2026-10/james-comey-anklage-fbi-donald-trump-foto-1/original__640x360",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/james-comey-anklage-fbi-donald-trump",
+      "published": "Mon, 26 Oct 2026 23:57:14 -0000",
+      "published_display": "26.10.2026 · 23:57 Uhr"
+    },
     {
       "title": "Gaza: UN-Generalsekretär kritisiert Israels Regierung vor Wahltag deutlich",
       "summary": "António Guterres zeigt sich erschüttert über die Lage in Gaza. Die Zweistaatenlösung werde »plattgewalzt«. Geiselfamilien fordern Aufklärung zum 7. Oktober. Das Liveblog",
@@ -17,110 +121,6 @@
       "link": "https://www.zeit.de/news/2026-10/26/bayerns-harry-kane-gewinnt-den-ballon-d-or",
       "published": "Mon, 26 Oct 2026 23:07:31 -0000",
       "published_display": "26.10.2026 · 23:07 Uhr"
-    },
-    {
-      "title": "Verkettung von Unfällen: Frontalzusammenstoß auf Landstraße - drei Schwerverletzte",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/27/frontalzusammenstoss-auf-landstrasse-drei-schwerverletzte-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/27/frontalzusammenstoss-auf-landstrasse-drei-schwerverletzte",
-      "published": "Mon, 26 Oct 2026 23:03:54 -0000",
-      "published_display": "26.10.2026 · 23:03 Uhr"
-    },
-    {
-      "title": "Ballon d’Or: Harry Kane und Alexia Putellas gewinnen den Ballon d'Or",
-      "summary": "Der Brite Harry Kane ist erstmals mit dem Ballon d'Or ausgezeichnet worden. Für die Spanierin Alexia Putellas ist es bereits die dritte Ehrung.",
-      "image": "https://img.zeit.de/sport/2026-10/ballon-d-or-2026-bild/original__640x360",
-      "link": "https://www.zeit.de/sport/2026-10/harry-kane-und-alexia-putellas-gewinnen-den-ballon-d-or",
-      "published": "Mon, 26 Oct 2026 22:59:55 -0000",
-      "published_display": "26.10.2026 · 22:59 Uhr"
-    },
-    {
-      "title": "Kalenderblatt: Was geschah am 27. Oktober?",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/26/was-geschah-am-27-oktober-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/26/was-geschah-am-27-oktober",
-      "published": "Mon, 26 Oct 2026 22:55:04 -0000",
-      "published_display": "26.10.2026 · 22:55 Uhr"
-    },
-    {
-      "title": "Basketball-Bundesliga: Chemnitzer Aufholjagd kommt zu spät",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/26/chemnitzer-aufholjagd-kommt-zu-spaet-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/26/chemnitzer-aufholjagd-kommt-zu-spaet",
-      "published": "Mon, 26 Oct 2026 22:48:26 -0000",
-      "published_display": "26.10.2026 · 22:48 Uhr"
-    },
-    {
-      "title": "Nach der Präsidentenwahl: Geldwäsche-Ermittlungen: Ausreiseverbot für Flávio Bolsonaro",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/26/lula-gewinnt-wahl-in-brasilien-bolsonaro-protestiert-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/26/lula-gewinnt-wahl-in-brasilien-bolsonaro-protestiert",
-      "published": "Mon, 26 Oct 2026 22:41:21 -0000",
-      "published_display": "26.10.2026 · 22:41 Uhr"
-    },
-    {
-      "title": "Jeffrey Epstein: US-Demokraten fordern Sonderermittler zu Trump und Epstein",
-      "summary": "Kurz vor den Zwischenwahlen verlangen die Demokraten eine Untersuchung zu Kontakten des Sexualstraftäters mit dem US‑Präsidenten. Donald Trump weist Vorwürfe von sich.",
-      "image": "https://img.zeit.de/politik/ausland/2026-10/donald-trump-jeffrey-epstein-us-repraesentantenhaus-sondermittler-akten-foto-1/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/donald-trump-jeffrey-epstein-us-repraesentantenhaus-sondermittler-akten",
-      "published": "Mon, 26 Oct 2026 22:32:29 -0000",
-      "published_display": "26.10.2026 · 22:32 Uhr"
-    },
-    {
-      "title": "Wahl in Brasilien: Partei von Flávio Bolsonaro erkennt Wahlniederlage an",
-      "summary": "Obwohl Flávio Bolsonaros Partei seine Niederlage akzeptiert, sät US-Präsident Donald Trump Zweifel am Ergebnis in Brasilien. Der Wahlverlierer muss seine Pässe abgeben.",
-      "image": "https://img.zeit.de/politik/2026-10/flavio-bolsonaro-niederlage-wahl/original__640x360",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/donald-trump-lula-da-silva-brasilien-wahl-manipuliert",
-      "published": "Mon, 26 Oct 2026 21:49:37 -0000",
-      "published_display": "26.10.2026 · 21:49 Uhr"
-    },
-    {
-      "title": "KI-Entwicklung: Elvis-Rechteinhaber verklagen KI-Konzern Anthropic",
-      "summary": "Die Techfirma Anthropic soll ohne Erlaubnis mit Songs wie »Can't Help Falling in Love« ihre KI trainiert haben. Die Rechteinhaber fordern mehr als 40 Millionen Dollar.",
-      "image": "https://img.zeit.de/digital/2026-10/elvis-presley-anthropic-ki-musik-klage-bild-1-3/original__640x360",
-      "link": "https://www.zeit.de/digital/2026-10/elvis-presley-anthropic-ki-musik-klage",
-      "published": "Mon, 26 Oct 2026 21:46:11 -0000",
-      "published_display": "26.10.2026 · 21:46 Uhr"
-    },
-    {
-      "title": "Stellenabbau: Microsoft bietet mehr als einem Viertel der Mitarbeiter Abfindungen an",
-      "summary": "Das US-Software-Unternehmen Microsoft möchte Arbeitsplätze abbauen. Darum will es mehr als 60.000 Menschen eine Abfindung zahlen, wenn sie freiwillig gehen.",
-      "image": "https://img.zeit.de/wirtschaft/unternehmen/2026-10/microsoft-abfindung-mitarbeiter-usa-kanada-indien-bild-1/original__640x360",
-      "link": "https://www.zeit.de/wirtschaft/unternehmen/2026-10/microsoft-abfindung-mitarbeiter-usa-kanada-indien",
-      "published": "Mon, 26 Oct 2026 20:47:28 -0000",
-      "published_display": "26.10.2026 · 20:47 Uhr"
-    },
-    {
-      "title": "Fotografie: Bilder des Tages",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/26/bilder-des-tages-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/26/bilder-des-tages",
-      "published": "Mon, 26 Oct 2026 20:35:53 -0000",
-      "published_display": "26.10.2026 · 20:35 Uhr"
-    },
-    {
-      "title": "Musikalisches Erbe: KI mit Elvis-Songs gefüttert: Millionenklage gegen Anthropic",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/26/ki-mit-elvis-songs-gefuettert-millionenklage-gegen-anthropic-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/26/ki-mit-elvis-songs-gefuettert-millionenklage-gegen-anthropic",
-      "published": "Mon, 26 Oct 2026 20:34:34 -0000",
-      "published_display": "26.10.2026 · 20:34 Uhr"
-    },
-    {
-      "title": "Vor den Midterms: Trump verspricht Millionen für Hinweise auf Wahlbetrug",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/26/trump-verspricht-millionen-fuer-hinweise-auf-wahlbetrug-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/26/trump-verspricht-millionen-fuer-hinweise-auf-wahlbetrug",
-      "published": "Mon, 26 Oct 2026 20:24:38 -0000",
-      "published_display": "26.10.2026 · 20:24 Uhr"
-    },
-    {
-      "title": "Unfälle: Auto und Zweirad kollidieren - 16-Jähriger schwer verletzt",
-      "summary": "",
-      "image": "https://img.zeit.de/news/2026-10/26/auto-und-zweirad-kollidieren-16-jaehriger-schwer-verletzt-image-group/original__640x360",
-      "link": "https://www.zeit.de/news/2026-10/26/auto-und-zweirad-kollidieren-16-jaehriger-schwer-verletzt",
-      "published": "Mon, 26 Oct 2026 20:20:51 -0000",
-      "published_display": "26.10.2026 · 20:20 Uhr"
     }
   ]
 }
